@@ -84,3 +84,8 @@ A comprehensive paper list of Vision Transformer/Attention
     * **PS-ViT**: "Patch Slimming for Efficient Vision Transformers", arXiv, 2021 (*Huawei*). [[Paper](https://arxiv.org/abs/2106.02852)]
     * **SViTE**: "Chasing Sparsity in Vision Transformers:An End-to-End Exploration", arXiv, 2021 (*UT Austin*). [[Paper](https://arxiv.org/abs/2106.04533)][[Code (in construction)](https://github.com/VITA-Group/SViTE)]
     * **ViT-quant**: "Post-Training Quantization for Vision Transformer", arXiv, 2021 (*Huawei*). [[Paper](https://arxiv.org/abs/2106.14156)]
+    * **?**: "Multi-Exit Vision Transformer for Dynamic Inference", arXiv, 2021 (*Aarhus University, Denmark*). [[Paper](https://arxiv.org/abs/2106.15183)]
+    * **DeiT-Manifold**: "Efficient Vision Transformers via Fine-Grained Manifold Distillation", arXiv, 2021 (*Huawei*). [[Paper](https://arxiv.org/abs/2107.01378)]
+    * **ViX**: "Vision Xformers: Efficient Attention for Image Classification", arXiv, 2021 (*Indian Institute of Technology Bombay*). [[Paper](https://arxiv.org/abs/2107.02239)]
+    * **Transformer-LS**: "Long-Short Transformer: Efficient Transformers for Language and Vision", arXiv, 2021 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2107.02192)]
+    * **WideNet**: "Go Wider Instead of Deeper", arXiv, 2021 (*NUS*). [[Paper](https://arxiv.org/abs/2107.11817)]
