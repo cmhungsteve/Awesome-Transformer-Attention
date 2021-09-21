@@ -787,6 +787,82 @@ A comprehensive paper list of Vision Transformer/Attention
 * Animation-related:
     * **AnT**: "The Animation Transformer: Visual Correspondence via Segment Matching", ICCV, 2021 (*Cadmium*). [[Paper](https://arxiv.org/abs/2109.02614)]
 
+
+### Attention Mechanisms in Vision/NLP
+##### Vision
+* **AA**: "Attention Augmented Convolutional Networks", ICCV, 2019 (*Google*). [[Paper](https://arxiv.org/abs/1904.09925)][[PyTorch (Unofficial)](https://github.com/leaderj1001/Attention-Augmented-Conv2d)][[Tensorflow (Unofficial)](https://github.com/titu1994/keras-attention-augmented-convs)]
+* **LR-Net**: "Local Relation Networks for Image Recognition", ICCV, 2019 (*Microsoft*). [[Paper](https://arxiv.org/abs/1904.11491)][[PyTorch (Unofficial)](https://github.com/gan3sh500/local-relational-nets)]
+* **CCNet**: "CCNet: Criss-Cross Attention for Semantic Segmentation", ICCV, 2019 (& TPAMI 2020) (*Horizon*). [[Paper](https://arxiv.org/abs/1811.11721)][[PyTorch](https://github.com/speedinghzl/CCNet)]
+* **GCNet**: "Global Context Networks", ICCVW, 2019 (& TPAMI 2020) (*Microsoft*). [[Paper](https://arxiv.org/abs/2012.13375)][[PyTorch](https://github.com/xvjiarui/GCNet)]
+* **SASA**: "Stand-Alone Self-Attention in Vision Models", NeurIPS, 2019 (*Google*). [[Paper](https://arxiv.org/abs/1906.05909)][[PyTorch-1 (Unofficial)](https://github.com/leaderj1001/Stand-Alone-Self-Attention)][[PyTorch-2 (Unofficial)](https://github.com/MerHS/SASA-pytorch)]
+    * key message: attention module is more efficient than conv & provide comparable accuracy
+* **Axial-Transformer**: "Axial Attention in Multidimensional Transformers", arXiv, 2019 (rejected by ICLR 2020) (*Google*). [[Paper](https://openreview.net/forum?id=H1e5GJBtDr)][[PyTorch (Unofficial)](https://github.com/lucidrains/axial-attention)]
+* **Attention-CNN**: "On the Relationship between Self-Attention and Convolutional Layers", ICLR, 2020 (*EPFL*). [[Paper](https://openreview.net/forum?id=HJlnC1rKPB)][[PyTorch](https://github.com/epfml/attention-cnn)][[Website](https://epfml.github.io/attention-cnn/)]
+* **SAN**: "Exploring Self-attention for Image Recognition", CVPR, 2020 (*CUHK + Intel*). [[Paper](https://arxiv.org/abs/2004.13621)][[PyTorch](https://github.com/hszhao/SAN)]
+* **BA-Transform**: "Non-Local Neural Networks With Grouped Bilinear Attentional Transforms", CVPR, 2020 (*ByteDance*). [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Chi_Non-Local_Neural_Networks_With_Grouped_Bilinear_Attentional_Transforms_CVPR_2020_paper.html)]
+* **Axial-DeepLab**: "Axial-DeepLab: Stand-Alone Axial-Attention for Panoptic Segmentation", ECCV, 2020 (*Google*). [[Paper](https://arxiv.org/abs/2003.07853)][[PyTorch](https://github.com/csrhddlam/axial-deeplab)]
+* **GSA**: "Global Self-Attention Networks for Image Recognition", arXiv, 2020 (rejected by ICLR 2021) (*Google*). [[Paper](https://openreview.net/forum?id=KiFeuZu24k)][[PyTorch (Unofficial)](https://github.com/lucidrains/global-self-attention-network)]
+* **EA**: "Efficient Attention: Attention with Linear Complexities", WACV, 2021 (*SenseTime*). [[Paper](https://arxiv.org/abs/1812.01243)][[PyTorch](https://github.com/cmsflash/efficient-attention)]
+* **LambdaNetworks**: "LambdaNetworks: Modeling long-range Interactions without Attention", ICLR, 2021 (*Google*). [[Paper](https://openreview.net/forum?id=xTJEN-ggl1b)][[PyTorch-1 (Unofficial)](https://github.com/lucidrains/lambda-networks)][[PyTorch-2 (Unofficial)](https://github.com/leaderj1001/LambdaNetworks)]
+* **GSA-Nets**: "Group Equivariant Stand-Alone Self-Attention For Vision", ICLR, 2021 (*EPFL*). [[Paper](https://openreview.net/forum?id=JkfYjnOEo6M)]
+* **Hamburger**: "Is Attention Better Than Matrix Decomposition?", ICLR, 2021 (*Peking*). [[Paper](https://openreview.net/forum?id=1FvkSpWosOl)][[PyTorch (Unofficial)](https://github.com/lucidrains/hamburger-pytorch)]
+* **HaloNet**: "Scaling Local Self-Attention For Parameter Efficient Visual Backbones", CVPR, 2021 (*Google*). [[Paper](https://arxiv.org/abs/2103.12731)]
+* **BoTNet**: "Bottleneck Transformers for Visual Recognition", CVPR, 2021 (*Google*). [[Paper](https://arxiv.org/abs/2101.11605)]
+* **SSAN**: "SSAN: Separable Self-Attention Network for Video Representation Learning", CVPR, 2021 (*Microsoft*). [[Paper](https://arxiv.org/abs/2105.13033)]
+* **CoTNet**: "Contextual Transformer Networks for Visual Recognition", CVPRW, 2021 (*JD*). [[Paper](https://arxiv.org/abs/2107.12292)][[PyTorch](https://github.com/JDAI-CV/CoTNet)]
+* **Involution**: "Involution: Inverting the Inherence of Convolution for Visual Recognition", CVPR, 2021 (*HKUST*). [[Paper](https://arxiv.org/abs/2103.06255)][[PyTorch](https://github.com/d-li14/involution)]
+* **Perceiver**: "Perceiver: General Perception with Iterative Attention", ICML, 2021 (*DeepMind*). [[Paper](https://arxiv.org/abs/2103.03206)][[PyTorch (lucidrains)](https://github.com/lucidrains/perceiver-pytorch)]
+* **SNL**: "Unifying Nonlocal Blocks for Neural Networks", ICCV, 2021 (*Peking + Bytedance*). [[Paper](https://arxiv.org/abs/2108.02451)]
+* **External-Attention**: "Beyond Self-attention: External Attention using Two Linear Layers for Visual Tasks", arXiv, 2021 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2105.02358)]
+* **KVT**: "KVT: k-NN Attention for Boosting Vision Transformers", arXiv, 2021 (*Alibaba*). [[Paper](https://arxiv.org/abs/2106.00515)]
+* **Container**: "Container: Context Aggregation Network", arXiv, 2021 (*AI2*). [[Paper](https://arxiv.org/abs/2106.01401)]
+* **X-volution**: "X-volution: On the unification of convolution and self-attention", arXiv, 2021 (*Huawei Hisilicon*). [[Paper](https://arxiv.org/abs/2106.02253)]
+* **Invertible-Attention**: "Invertible Attention", arXiv, 2021 (*ANU*). [[Paper](https://arxiv.org/abs/2106.09003)]
+* **VOLO**: "VOLO: Vision Outlooker for Visual Recognition", arXiv, 2021 (*Sea AI Lab + NUS, Singapore*). [[Paper](https://arxiv.org/abs/2106.13112)][[PyTorch](https://github.com/sail-sg/volo)]
+* **LESA**: "Locally Enhanced Self-Attention: Rethinking Self-Attention as Local and Context Terms", arXiv, 2021 (*Johns Hopkins*). [[Paper](https://arxiv.org/abs/2107.05637)]
+* **Combiner**: "Combiner: Full Attention Transformer with Sparse Computation Cost", arXiv, 2021 (*Google*). [[Paper](https://arxiv.org/abs/2107.05768)]
+
+##### NLP
+* **T-DMCA**: "Generating Wikipedia by Summarizing Long Sequences", ICLR, 2018 (*Google*). [[Paper](https://openreview.net/forum?id=Hyg0vbWC-)]
+* **LSRA**: "Lite Transformer with Long-Short Range Attention", ICLR, 2020 (*MIT*). [[Paper](https://openreview.net/forum?id=ByeMPlHKPH)][[PyTorch](https://github.com/mit-han-lab/lite-transformer)]
+* **ETC**: "ETC: Encoding Long and Structured Inputs in Transformers", EMNLP, 2020 (*Google*). [[Paper](https://arxiv.org/abs/2004.08483)][[Tensorflow](https://github.com/google-research/google-research/tree/master/etcmodel)]
+* **BlockBERT**: "Blockwise Self-Attention for Long Document Understanding", EMNLP Findings, 2020 (*Facebook*). [[Paper](https://arxiv.org/abs/1911.02972)][[GitHub](https://github.com/xptree/BlockBERT)]
+* **Clustered-Attention**: "Fast Transformers with Clustered Attention", NeurIPS, 2020 (*Idiap*). [[Paper](https://arxiv.org/abs/2007.04825)][[PyTorch](https://github.com/idiap/fast-transformers)][[Website](https://clustered-transformers.github.io/)]
+* **BigBird**: "Big Bird: Transformers for Longer Sequences", NeurIPS, 2020 (*Google*). [[Paper](https://arxiv.org/abs/2007.14062)][[Tensorflow](https://github.com/google-research/bigbird)]
+* **Longformer**: "Longformer: The Long-Document Transformer", arXiv, 2020 (*AI2*). [[Paper](https://arxiv.org/abs/2004.05150)][[PyTorch](https://github.com/allenai/longformer)]
+* **Linformer**: "Linformer: Self-Attention with Linear Complexity", arXiv, 2020 (*Facebook*). [[Paper](https://arxiv.org/abs/2006.04768)][[PyTorch (Unofficial)](https://github.com/tatp22/linformer-pytorch)]
+* **Nystromformer**: "Nyströmformer: A Nyström-Based Algorithm for Approximating Self-Attention", AAAI, 2021 (*UW-Madison*). [[Paper](https://arxiv.org/abs/2102.03902)][[PyTorch](https://github.com/mlpen/Nystromformer)]
+* **RFA**: "Random Feature Attention", ICLR, 2021 (*DeepMind*). [[Paper](https://openreview.net/forum?id=QtTKTdVrFBB)]
+* **Performer**: "Rethinking Attention with Performers", ICLR, 2021 (*Google*). [[Paper](https://openreview.net/forum?id=Ua6zuk0WRH)][[Code](https://github.com/google-research/google-research/tree/master/performer)][[Blog](https://ai.googleblog.com/2020/10/rethinking-attention-with-performers.html)]
+* **DeLight**: "DeLighT: Deep and Light-weight Transformer", ICLR, 2021 (*UW*). [[Paper](https://openreview.net/forum?id=ujmgfuxSLrO)]
+* **Synthesizer**: "Synthesizer: Rethinking Self-Attention for Transformer Models", ICML, 2021 (*Google*). [[Paper](https://arxiv.org/abs/2005.00743)][[Tensorflow](https://github.com/tensorflow/mesh)][[Pytorch (leaderj1001)](https://github.com/leaderj1001/Synthesizer-Rethinking-Self-Attention-Transformer-Models)]
+* **Poolingformer**: "Poolingformer: Long Document Modeling with Pooling Attention", ICML, 2021 (*Microsoft*). [[Paper](https://arxiv.org/abs/2105.04371)]
+* **Hi-Transformer**: "Hi-Transformer: Hierarchical Interactive Transformer for Efficient and Effective Long Document Modeling", ACL, 2021 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2106.01040)]
+* **Smart-Bird**: "Smart Bird: Learnable Sparse Attention for Efficient and Effective Transformer", arXiv, 2021 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2108.09193)]
+* **Fastformer**: "Fastformer: Additive Attention is All You Need", arXiv, 2021 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2108.09084)]
+* **∞-former**: "∞-former: Infinite Memory Transformer", arXiv, 2021 (*Instituto de Telecomunicações, Portugal*). [[Paper](https://arxiv.org/abs/2109.00301)]
+
+##### Both: 
+* **Sparse-Transformer**: "Generating Long Sequences with Sparse Transformers", arXiv, 2019 (rejected by ICLR 2020) (*OpenAI*). [[Paper](https://arxiv.org/abs/1904.10509)][[Tensorflow](https://github.com/openai/sparse_attention)][[Blog](https://openai.com/blog/sparse-transformer/)]
+* **Reformer**: "Reformer: The Efficient Transformer", ICLR, 2020 (*Google*). [[Paper](https://openreview.net/forum?id=rkgNKkHtvB)][[Tensorflow](https://github.com/google/trax/tree/master/trax/models/reformer)][[Blog](https://ai.googleblog.com/2020/01/reformer-efficient-transformer.html)] 
+* **Sinkhorn-Transformer**: "Sparse Sinkhorn Attention", ICML, 2020 (*Google*). [[Paper](https://arxiv.org/abs/2002.11296)][[PyTorch (Unofficial)](https://github.com/lucidrains/sinkhorn-transformer)]
+* **Linear-Transformer**: "Transformers are rnns: Fast autoregressive transformers with linear attention", ICML, 2020 (*Idiap*). [[Paper](https://arxiv.org/abs/2006.16236)][[PyTorch](https://github.com/idiap/fast-transformers)][[Website](https://linear-transformers.com/)]
+* **SMYRF**: "SMYRF: Efficient Attention using Asymmetric Clustering", NeurIPS, 2020 (*UT Austin + Google*). [[Paper](https://arxiv.org/abs/2010.05315)][[PyTorch](https://github.com/giannisdaras/smyrf)]
+* **Routing-Transformer**: "Efficient Content-Based Sparse Attention with Routing Transformers", TACL, 2021 (*Google*). [[Paper](https://arxiv.org/abs/2003.05997)][[Tensorflow](https://github.com/google-research/google-research/tree/master/routing_transformer)][[PyTorch (Unofficial)](https://github.com/lucidrains/routing-transformer)][[Slides](https://drive.google.com/file/d/1maX-UQbtnVtxQqLmHvWVN6LNYtnBaTd9/view)]
+* **LRA**: "Long Range Arena: A Benchmark for Efficient Transformers", ICLR, 2021 (*Google*). [[Paper](https://openreview.net/forum?id=qVyeW-grC2k)][[Tensorflow](https://github.com/google-research/long-range-arena)]
+* **OmniNet**: "OmniNet: Omnidirectional Representations from Transformers", ICML, 2021 (*Google*). [[Paper](https://arxiv.org/abs/2103.01075)]
+* **Evolving-Attention**: "Evolving Attention with Residual Convolutions", ICML, 2021 (*Peking + Microsoft*). [[Paper](https://arxiv.org/abs/2102.12895)]
+* **H-Transformer-1D**: "H-Transformer-1D: Fast One-Dimensional Hierarchical Attention for Sequences", ACL, 2021 (*Google*). [[Paper](https://arxiv.org/abs/2107.11906)]
+* **Centroid-Transformer**: "Centroid Transformers: Learning to Abstract with Attention", arXiv, 2021 (*UT Austin*). [[Paper](https://arxiv.org/abs/2102.08606)]
+* **AFT**: "An Attention Free Transformer", arXiv, 2021 (*Apple*). [[Paper](https://arxiv.org/abs/2105.14103)]
+* **Luna**: "Luna: Linear Unified Nested Attention", arXiv, 2021 (*USC + CMU + Facebook*). [[Paper](https://arxiv.org/abs/2106.01540)]
+* **Transformer-LS**: "Long-Short Transformer: Efficient Transformers for Language and Vision", arXiv, 2021 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2107.02192)]
+
+##### Others:
+* **Informer**: "Informer: Beyond Efficient Transformer for Long Sequence Time-Series Forecasting", AAAI, 2021 (*Beihang University*). [[Paper](https://arxiv.org/abs/2012.07436)][[PyTorch](https://github.com/zhouhaoyi/Informer2020)]
+* **Attention-Rank-Collapse**: "Attention is Not All You Need: Pure Attention Loses Rank Doubly Exponentially with Depth", ICML, 2021 (*Google + EPFL*). [[Paper](https://arxiv.org/abs/2103.03404)][[PyTorch](https://github.com/twistedcubic/attention-rank-collapse)]
+* **NPT**: "Self-Attention Between Datapoints: Going Beyond Individual Input-Output Pairs in Deep Learning", arXiv, 2021 (*Oxford*). [[Paper](https://arxiv.org/abs/2106.02584)]
+
 ---
 
 * [Survey notes (general)](survey/Survey-Visual-Transformer.md)
@@ -796,6 +872,7 @@ A comprehensive paper list of Vision Transformer/Attention
         * "A Survey on Visual Transformer", arXiv, 2021 (*Huawei*). [[Paper](https://arxiv.org/abs/2012.12556)]
         * "Transformers in Vision: A Survey", arXiv, 2021. [[Paper](https://arxiv.org/abs/2101.01169)]
         * "Efficient Transformers: A Survey", arXiv, 2020 (*Google*). [[Paper](https://arxiv.org/abs/2009.06732)]
+        * "Attention mechanisms and deep learning for machine vision: A survey of the state of the art", arXiv, 2021 (*University of Kashmir*). [[Paper](https://arxiv.org/abs/2106.07550)]
     * Online Resources:
         * [Awesome Visual-Transformer (GitHub)](https://github.com/dk-liang/Awesome-Visual-Transformer)
         * [Awesome Transformer for Vision Resources List (GitHub)](https://github.com/lijiaman/awesome-transformer-for-vision)
