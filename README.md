@@ -162,6 +162,7 @@ A comprehensive paper list of Vision Transformer/Attention
 * **?**: "Do Vision Transformers See Like Convolutional Neural Networks?", arXiv, 2021 (*Google*). [[Paper](https://arxiv.org/abs/2108.08810)]
 * **PNA**: "Towards Transferable Adversarial Attacks on Vision Transformers", arXiv, 2021 (*Fudan + Maryland*). [[Paper](https://arxiv.org/abs/2109.04176)]
 
+
 ### Detection
 ##### Object Detection
 * CNN-based backbone:
@@ -505,6 +506,85 @@ A comprehensive paper list of Vision Transformer/Attention
 * **FAA**: "Shuffle Transformer with Feature Alignment for Video Face Parsing", arXiv, 2021 (*Tencent*). [[Paper](https://arxiv.org/abs/2106.08650)]
 * **ViT-SE**: "Learning Vision Transformer with Squeeze and Excitation for Facial Expression Recognition", arXiv, 2021 (*CentraleSupélec, France*). [[Paper](https://arxiv.org/abs/2107.03107)]
 * **EST**: "Expression Snippet Transformer for Robust Video-based Facial Expression Recognition", arXiv, 2021 (*China University of Geosciences*). [[Paper](https://arxiv.org/abs/2109.08409)][[PyTorch](https://anonymous.4open.science/r/ATSE-C58B)]
+
+
+### Low-level Vision Tasks
+##### Image Restoration (e.g. super-resolution, image denoising, demosaicing, compression artifacts reduction, etc.):
+* **NLRN**: "Non-Local Recurrent Network for Image Restoration", NeurIPS, 2018 (*UIUC*). [[Paper](https://arxiv.org/abs/1806.02919)][[Tensorflow](https://github.com/Ding-Liu/NLRN)]
+* **RNAN**: "Residual Non-local Attention Networks for Image Restoration", ICLR, 2019 (*Northeastern University*). [[Paper](https://openreview.net/forum?id=HkeGhoA5FX)][[PyTorch](https://github.com/yulunzhang/RNAN)]
+* **SAN**: "Second-Order Attention Network for Single Image Super-Resolution", CVPR, 2019 (*Tsinghua*). [[Paper](https://openaccess.thecvf.com/content_CVPR_2019/html/Dai_Second-Order_Attention_Network_for_Single_Image_Super-Resolution_CVPR_2019_paper.html)][[PyTorch](https://github.com/daitao/SAN)]
+* **CS-NL**: "Image Super-Resolution with Cross-Scale Non-Local Attention and Exhaustive Self-Exemplars Mining", CVPR, 2020 (*UIUC*). [[Paper](https://arxiv.org/abs/2006.01424)][[PyTorch](https://github.com/SHI-Labs/Cross-Scale-Non-Local-Attention)]
+* **TTSR**: "Learning Texture Transformer Network for Image Super-Resolution", CVPR, 2020 (*Microsoft*). [[Paper](https://arxiv.org/abs/2006.04139)][[PyTorch](https://github.com/researchmm/TTSR)]
+* **HAN**: "Single Image Super-Resolution via a Holistic Attention Network", ECCV, 2020 (*Northeastern University*). [[Paper](https://arxiv.org/abs/2008.08767)][[PyTorch](https://github.com/wwlCape/HAN)]
+* **PANet**: "Pyramid Attention Networks for Image Restoration", arXiv, 2020 (*UIUC*). [[Paper](https://arxiv.org/abs/2004.13824)][[PyTorch](https://github.com/SHI-Labs/Pyramid-Attention-Networks)]
+* **IPT**: "Pre-Trained Image Processing Transformer", CVPR, 2021 (*Huawei*). [[Paper](https://arxiv.org/abs/2012.00364)][[PyTorch (in construction)](https://github.com/huawei-noah/Pretrained-IPT)]
+* **NLSN**: "Image Super-Resolution With Non-Local Sparse Attention", CVPR, 2021 (*UIUC*). [[Paper](https://openaccess.thecvf.com/content/CVPR2021/html/Mei_Image_Super-Resolution_With_Non-Local_Sparse_Attention_CVPR_2021_paper.html)]
+* **SwinIR**: "SwinIR: Image Restoration Using Swin Transformer", ICCVW, 2021 (*ETHZ*). [[Paper](https://arxiv.org/abs/2108.10257)][[PyTorch](https://github.com/JingyunLiang/SwinIR)]
+* **SDNet**: "SDNet: multi-branch for single image deraining using swin", arXiv, 2021 (*Xinjiang University*). [[Paper](https://arxiv.org/abs/2105.15077)][[Code (in construction)](https://github.com/H-tfx/SDNet)]
+* **Uformer**: "Uformer: A General U-Shaped Transformer for Image Restoration", arXiv, 2021 (*University of Science and Technology of China*). [[Paper](https://arxiv.org/abs/2106.03106)]
+* **FPAN**: "Feedback Pyramid Attention Networks for Single Image Super-Resolution", arXiv, 2021 (*Nanjing University of Science and Technology*). [[Paper](https://arxiv.org/abs/2106.06966)]
+* **VSR-Transformer**: "Video Super-Resolution Transformer", arXiv, 2021 (*ETHZ*). [[Paper](https://arxiv.org/abs/2106.06847)]
+* **ATTSF**: "Attention! Stay Focus!", arXiv, 2021 (*BridgeAI, Seoul*). [[Paper](https://arxiv.org/abs/2104.07925)][[Tensorflow](https://github.com/tuvovan/ATTSF)]
+* **LFT**: "Light Field Image Super-Resolution with Transformers", arXiv, 2021 (*National University of Defense Technology, China*). [[Paper](https://arxiv.org/abs/2108.07597)][[PyTorch (in construction)](https://github.com/ZhengyuLiang24/LFT)]
+* **MANA**: "Memory-Augmented Non-Local Attention for Video Super-Resolution", arXiv, 2021 (*JD*). [[Paper](https://arxiv.org/abs/2108.11048)]
+* **ESRT**: "Efficient Transformer for Single Image Super-Resolution", arXiv, 2021 (*Peking University*). [[Paper](https://arxiv.org/abs/2108.11084)]
+* **Fusformer**: "Fusformer: A Transformer-based Fusion Approach for Hyperspectral Image Super-resolution", arXiv, 2021 (*University of Electronic Science and Technology of China*). [[Paper](https://arxiv.org/abs/2109.02079)]
+* **HyLoG-ViT**: "Hybrid Local-Global Transformer for Image Dehazing", arXiv, 2021 (*Beihang University*). [[Paper](https://arxiv.org/abs/2109.07100)]
+* **TANet**: "TANet: A new Paradigm for Global Face Super-resolution via Transformer-CNN Aggregation Network", arXiv, 2021 (*Wuhan Institute of Technology*). [[Paper](https://arxiv.org/abs/2109.08174)]
+
+##### Colorization:
+* **ColTran**: "Colorization Transformer", ICLR, 2021 (*Google*). [[Paper](https://openreview.net/forum?id=5NA1PinlGFu)][[Tensorflow](https://github.com/google-research/google-research/tree/master/coltran)]
+* **ViT-I-GAN**: "ViT-Inception-GAN for Image Colourising", arXiv, 2021 (*D.Y Patil College of Engineering, India*). [[Paper](https://arxiv.org/abs/2106.06321)]
+
+##### Inpainting:
+* **Contexual-Attention**: "Generative Image Inpainting with Contextual Attention", CVPR, 2018 (*UIUC*). [[Paper](https://arxiv.org/abs/1801.07892)][[Tensorflow](https://github.com/JiahuiYu/generative_inpainting)]
+* **PEN-Net**: "Learning Pyramid-Context Encoder Network for High-Quality Image Inpainting", CVPR, 2019 (*Microsoft*). [[Paper](https://arxiv.org/abs/1904.07475)][[PyTorch](https://github.com/researchmm/PEN-Net-for-Inpainting)]
+* **Copy-Paste**: "Copy-and-Paste Networks for Deep Video Inpainting", ICCV, 2019 (*Yonsei University*). [[Paper](https://arxiv.org/abs/1908.11587)][[PyTorch](https://github.com/shleecs/Copy-and-Paste-Networks-for-Deep-Video-Inpainting)]
+* **Onion-Peel**: "Onion-Peel Networks for Deep Video Completion", ICCV, 2019 (*Yonsei University*). [[Paper](https://arxiv.org/abs/1908.08718)][[PyTorch](https://github.com/seoungwugoh/opn-demo)]
+* **STTN**: "Learning Joint Spatial-Temporal Transformations for Video Inpainting", ECCV, 2020 (*Microsoft*). [[Paper](https://arxiv.org/abs/2007.10247)][[PyTorch](https://github.com/researchmm/STTN)]
+* **FuseFormer**: "FuseFormer: Fusing Fine-Grained Information in Transformers for Video Inpainting", ICCV, 2021 (*CUHK + SenseTime*). [[Paper](https://arxiv.org/abs/2109.02974)][[Code (in construction)](https://github.com/ruiliu-ai/FuseFormer)]
+* **DSTT**: "Decoupled Spatial-Temporal Transformer for Video Inpainting", arXiv, 2021 (*CUHK + SenseTime*). [[Paper](https://arxiv.org/abs/2104.06637)][[Code (in construction)](https://github.com/ruiliu-ai/DSTT)]
+
+##### Completion:
+* **ICT**: "High-Fidelity Pluralistic Image Completion with Transformers", ICCV, 2021 (*CUHK*). [[Paper](https://arxiv.org/abs/2103.14031)][[PyTorch](https://github.com/raywzy/ICT)][[Website](http://raywzy.com/ICT/)]
+* **TFill**: "TFill: Image Completion via a Transformer-Based Architecture", arXiv, 2021 (*NTU Singapore*). [[Paper](https://arxiv.org/abs/2104.00845)][[Code (in construction)](https://github.com/lyndonzheng/TFill)]
+* **BAT-Fill**: "Diverse Image Inpainting with Bidirectional and Autoregressive Transformers", arXiv, 2021 (*NTU Singapore*). [[Paper](https://arxiv.org/abs/2104.12335)]
+
+##### Image Generation:
+* **IT**: "Image Transformer", ICML, 2018 (*Google*). [[Paper](https://arxiv.org/abs/1802.05751)][[Tensorflow](https://github.com/tensorflow/tensor2tensor)]
+* **PixelSNAIL**: "PixelSNAIL: An Improved Autoregressive Generative Model", ICML, 2018 (*Berkeley*). [[Paper](http://proceedings.mlr.press/v80/chen18h.html)][[Tensorflow](https://github.com/neocxi/pixelsnail-public)]
+* **BigGAN**: "Large Scale GAN Training for High Fidelity Natural Image Synthesis", ICLR, 2019 (*DeepMind*). [[Paper](https://openreview.net/forum?id=B1xsqj09Fm)][[PyTorch](https://github.com/ajbrock/BigGAN-PyTorch)]
+* **SAGAN**: "Self-Attention Generative Adversarial Networks", ICML, 2019 (*Google*). [[Paper](http://proceedings.mlr.press/v97/zhang19d.html)][[Tensorflow](https://github.com/brain-research/self-attention-gan)]
+* **VQGAN**: "Taming Transformers for High-Resolution Image Synthesis", CVPR, 2021 (*Heidelberg University*). [[Paper](https://arxiv.org/abs/2012.09841)][[PyTorch](https://github.com/CompVis/taming-transformers)][[Website](https://compvis.github.io/taming-transformers/)]
+* **?**: "High-Resolution Complex Scene Synthesis with Transformers", CVPRW, 2021 (*Heidelberg University*). [[Paper](https://arxiv.org/abs/2105.06458)]
+* **GANsformer**: "Generative Adversarial Transformers", ICML, 2021 (*Stanford + Facebook*). [[Paper](https://arxiv.org/abs/2103.01209)][[Tensorflow](https://github.com/dorarad/gansformer)]
+* **PixelTransformer**: "PixelTransformer: Sample Conditioned Signal Generation", ICML, 2021 (*Facebook*). [[Paper](https://arxiv.org/abs/2103.15813)][[Website](https://shubhtuls.github.io/PixelTransformer/)]
+* **HWT**: "Handwriting Transformers", ICCV, 2021 (*MBZUAI*). [[Paper](https://arxiv.org/abs/2104.03964)][[Code (in construction)](https://github.com/ankanbhunia/Handwriting-Transformers)]
+* **Paint-Transformer**: "Paint Transformer: Feed Forward Neural Painting with Stroke Prediction", ICCV, 2021 (*Baidu*). [[Paper](https://arxiv.org/abs/2108.03798)][[Paddle](https://github.com/PaddlePaddle/PaddleGAN)][[PyTorch](https://github.com/Huage001/PaintTransformer)]
+* **AdaAttN**: "AdaAttN: Revisit Attention Mechanism in Arbitrary Neural Style Transfer", ICCV, 2021 (*Baidu*). [[Paper](https://arxiv.org/abs/2108.03647)][[Paddle](https://github.com/PaddlePaddle/PaddleGAN)][[PyTorch](https://github.com/Huage001/AdaAttN)]
+* **TransGAN**: "TransGAN: Two Transformers Can Make One Strong GAN", arXiv, 2021 (*UT Austin*). [[Paper](https://arxiv.org/abs/2102.07074)][[PyTorch](https://github.com/VITA-Group/TransGAN)]
+* **SceneFormer**: "SceneFormer: Indoor Scene Generation with Transformers", arXiv, 2021 (*TUM*). [[Paper](https://arxiv.org/abs/2012.09793)]
+* **VTGAN**: "VTGAN: Semi-supervised Retinal Image Synthesis and Disease Prediction using Vision Transformers", arXiv, 2021 (*University of Nevada, Reno*). [[Paper](https://arxiv.org/abs/2104.06757)]
+* **Geometry-Free**: "Geometry-Free View Synthesis: Transformers and no 3D Priors", arXiv, 2021 (*Heidelberg University*). [[Paper](https://arxiv.org/abs/2104.07652)][[Code (in construction)](https://github.com/CompVis/geometry-free-view-synthesis)]
+* **SNGAN**: "Combining Transformer Generators with Convolutional Discriminators", arXiv, 2021 (*Fraunhofer ITWM*). [[Paper](https://arxiv.org/abs/2105.10189)]
+* **StyTr2**: "StyTr^2: Unbiased Image Style Transfer with Transformers", arXiv, 2021 (*CAS*). [[Paper](https://arxiv.org/abs/2105.14576)]
+* **iLAT**: "The Image Local Autoregressive Transformer", arXiv, 2021 (*Fudan*). [[Paper](https://arxiv.org/abs/2106.02514)]
+* **HiT**: "Improved Transformer for High-Resolution GANs", arXiv, 2021 (*Google*). [[Paper](https://arxiv.org/abs/2106.07631)]
+* **Styleformer**: "Styleformer: Transformer based Generative Adversarial Networks with Style Vector", arXiv, 2021 (*Seoul National University*). [[Paper](https://arxiv.org/abs/2106.07023)][[PyTorch](https://github.com/Jeeseung-Park/Styleformer)]
+* **Invertible Attention**: "Invertible Attention", arXiv, 2021 (*ANU*). [[Paper](https://arxiv.org/abs/2106.09003)]
+* **GPA**: "Grid Partitioned Attention: Efficient Transformer Approximation with Inductive Bias for High Resolution Detail Generation", arXiv, 2021 (*Zalando Research, Germany*). [[Paper](https://arxiv.org/abs/2107.03742)][[PyTorch (in construction)](https://github.com/zalandoresearch/gpa)]
+* **ViTGAN**: "ViTGAN: Training GANs with Vision Transformers", arXiv, 2021 (*Google*). [[Paper](https://arxiv.org/abs/2107.04589)]
+
+##### Video Generation:
+* **Subscale**: "Scaling Autoregressive Video Models", ICLR, 2020 (*Google*). [[Paper](https://openreview.net/forum?id=rJgsskrFwH)][[Website](https://sites.google.com/view/video-transformer-samples)]
+* **ConvTransformer**: "ConvTransformer: A Convolutional Transformer Network for Video Frame Synthesis", arXiv, 2020 (*Southeast University*). [[Paper](https://arxiv.org/abs/2011.10185)]
+* **OCVT**: "Generative Video Transformer: Can Objects be the Words?", ICML, 2021 (*Rutgers University*). [[Paper](http://proceedings.mlr.press/v139/wu21h.html)]
+* **AIST++**: "Learn to Dance with AIST++: Music Conditioned 3D Dance Generation", arXiv, 2021 (*Google*). [[Paper](https://arxiv.org/abs/2101.08779)][[Code](https://github.com/google/aistplusplus_api)][[Website](https://google.github.io/aichoreographer/)]
+* **VideoGPT**: "VideoGPT: Video Generation using VQ-VAE and Transformers", arXiv, 2021 (*Berkeley*). [[Paper](https://arxiv.org/abs/2104.10157)][[PyTorch](https://github.com/wilson1yan/VideoGPT)][[Website](https://wilson1yan.github.io/videogpt/index.html)]
+
+##### Others:
+* **MS-Unet**: "Semi-Supervised Wide-Angle Portraits Correction by Multi-Scale Transformer", arXiv, 2021 (*MEGVII*). [[Paper](https://arxiv.org/abs/2109.08024)]
+
 
 ### Reinforcement Learning
 ##### Navigation
