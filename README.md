@@ -163,22 +163,14 @@ A comprehensive paper list of Vision Transformer/Attention
 * **?**: "Are Convolutional Neural Networks or Transformers more like human vision?", CogSci, 2021 (*Princeton*). [[Paper](https://arxiv.org/abs/2105.07197)]
 * **?**: "ConvNets vs. Transformers: Whose Visual Representations are More Transferable?", ICCVW, 2021 (*HKU*). [[Paper](https://arxiv.org/abs/2108.05305)]
 * **FDSL**: "Can Vision Transformers Learn without Natural Images?", arXiv, 2021 (*AIST*). [[Paper](https://arxiv.org/abs/2103.13023)][[Website](https://hirokatsukataoka16.github.io/Vision-Transformers-without-Natural-Images/)]
-* **ViT-Robustness**: "Understanding Robustness of Transformers for Image Classification", arXiv, 2021 (*Google*). [[Paper](https://arxiv.org/abs/2103.14586)] 
-* **Transformer-Attack**: "On the Adversarial Robustness of Visual Transformers", arXiv, 2021 (*Xi'an Jiaotong*). [[Paper](https://arxiv.org/abs/2103.15670)]
-* **SAGA**: "On the Robustness of Vision Transformers to Adversarial Examples", arXiv, 2021 (*University of Connecticut*). [[Paper](https://arxiv.org/abs/2104.02610)]
-* **?**: "Vision Transformers are Robust Learners", arXiv, 2021 (*PyImageSearch + IBM*). [[Paper](https://arxiv.org/abs/2105.07581)][[Tensorflow](https://github.com/sayakpaul/robustness-vit)]
-* **?**: "Intriguing Properties of Vision Transformers", arXiv, 2021 (*MBZUAI*). [[Paper](https://arxiv.org/abs/2105.10497)][[Code (in construction)](https://github.com/Muzammal-Naseer/Intriguing-Properties-of-Vision-Transformers)]
+* **?**: "Intriguing Properties of Vision Transformers", arXiv, 2021 (*MBZUAI*). [[Paper](https://arxiv.org/abs/2105.10497)][[PyTorch](https://github.com/Muzammal-Naseer/Intriguing-Properties-of-Vision-Transformers)]
 * **FoveaTer**: "FoveaTer: Foveated Transformer for Image Classification", arXiv, 2021 (*UCSB*). [[Paper](https://arxiv.org/abs/2105.14173)]
 * **?**: "When Vision Transformers Outperform ResNets without Pretraining or Strong Data Augmentations", arXiv, 2021 (*Google*). [[Paper](https://arxiv.org/abs/2106.01548)]
-* **?**: "Reveal of Vision Transformers Robustness against Adversarial Attacks", arXiv, 2021 (*University of Rennes*). [[Paper](https://arxiv.org/abs/2106.03734)]
 * **?**: "Demystifying Local Vision Transformer: Sparse Connectivity, Weight Sharing, and Dynamic Weight", arXiv, 2021 (*Microsoft*). [[Paper](https://arxiv.org/abs/2106.04263)]
-* **?**: "On Improving Adversarial Transferability of Vision Transformers", arXiv, 2021 (*ANU*). [[Paper](https://arxiv.org/abs/2106.04169)][[Code (in construction)](https://github.com/Muzammal-Naseer/Improving-Adversarial-Transferability-of-Vision-Transformers)]
 * **?**: "Revisiting the Calibration of Modern Neural Networks", arXiv, 2021 (*Google*). [[Paper](https://arxiv.org/abs/2106.07998)]
 * **?**: "How to train your ViT? Data, Augmentation, and Regularization in Vision Transformers", arXiv, 2021 (*Google*). [[Paper](https://arxiv.org/abs/2106.10270)][[Tensorflow](https://github.com/google-research/vision_transformer)][[PyTorch (rwightman)](https://github.com/rwightman/pytorch-image-models)]
-* **?**: "Exploring Corruption Robustness: Inductive Biases in Vision Transformers and MLP-Mixers", arXiv, 2021 (*University of Pittsburgh*). [[Paper](https://arxiv.org/abs/2106.13122)]
 * **?**: "What Makes for Hierarchical Vision Transformer?", arXiv, 2021 (*Horizon Robotic*). [[Paper](https://arxiv.org/abs/2107.02174)]
 * **?**: "Do Vision Transformers See Like Convolutional Neural Networks?", arXiv, 2021 (*Google*). [[Paper](https://arxiv.org/abs/2108.08810)]
-* **PNA**: "Towards Transferable Adversarial Attacks on Vision Transformers", arXiv, 2021 (*Fudan + Maryland*). [[Paper](https://arxiv.org/abs/2109.04176)]
 
 
 ### Detection
