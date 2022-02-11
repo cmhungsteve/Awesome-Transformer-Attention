@@ -45,6 +45,7 @@ A comprehensive paper list of Vision Transformer/Attention
     * **XCiT**: "XCiT: Cross-Covariance Image Transformers", NeurIPS, 2021 (*Facebook*). [[Paper](https://arxiv.org/abs/2106.09681)]
     * **Twins**: "Twins: Revisiting Spatial Attention Design in Vision Transformers", NeurIPS, 2021 (*Meituan*). [[Paper](https://arxiv.org/abs/2104.13840)][[PyTorch)](https://github.com/Meituan-AutoML/Twins)]
     * **ARM**: "Blending Anti-Aliasing into Vision Transformer", NeurIPS, 2021 (*Amazon*). [[Paper](https://arxiv.org/abs/2110.15156)][[GitHub (in construction)](https://github.com/amazon-research/anti-aliasing-transformer)]
+    * **DVT**: "Not All Images are Worth 16x16 Words: Dynamic Vision Transformers with Adaptive Sequence Length", NeurIPS, 2021 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2105.15075)][[PyTorch](https://github.com/blackfeather-wang/Dynamic-Vision-Transformer)]
     * **TNT**: "Transformer in Transformer", arXiv, 2021 (*Huawei*). [[Paper](https://arxiv.org/abs/2103.00112)][[PyTorch](https://github.com/huawei-noah/CV-Backbones/tree/master/tnt_pytorch)][[PyTorch (lucidrains)](https://github.com/lucidrains/transformer-in-transformer)]
     * **DeepViT**: "DeepViT: Towards Deeper Vision Transformer", arXiv, 2021 (*NUS + ByteDance*). [[Paper](https://arxiv.org/abs/2103.11886)][[Code](https://github.com/zhoudaquan/dvit_repo)]
     * **So-ViT**: "So-ViT: Mind Visual Tokens for Vision Transformer", arXiv, 2021 (*Dalian University of Technology*). [[Paper](https://arxiv.org/abs/2104.10935)][[PyTorch](https://github.com/jiangtaoxie/So-ViT)]
@@ -52,7 +53,6 @@ A comprehensive paper list of Vision Transformer/Attention
     * **NesT**: "Aggregating Nested Transformers", arXiv, 2021 (*Google*). [[Paper](https://arxiv.org/abs/2105.12723)][[Tensorflow](https://github.com/google-research/nested-transformer)]
     * **LIT**: "Less is More: Pay Less Attention in Vision Transformers", arXiv, 2021 (*Monash University*). [[Paper](https://arxiv.org/abs/2105.14217)][[PyTorch](https://github.com/MonashAI/LIT)]
     * **MSG-Transformer**: "MSG-Transformer: Exchanging Local Spatial Information by Manipulating Messenger Tokens", arXiv, 2021 (*Huazhong University of Science & Technology*). [[Paper](https://arxiv.org/abs/2105.15168)][[PyTorch](https://github.com/hustvl/MSG-Transformer)]
-    * **DVT**: "Not All Images are Worth 16x16 Words: Dynamic Vision Transformers with Adaptive Sequence Length", arXiv, 2021 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2105.15075)]
     * **KVT**: "KVT: k-NN Attention for Boosting Vision Transformers", arXiv, 2021 (*Alibaba*). [[Paper](https://arxiv.org/abs/2106.00515)]
     * **ViTAE**: "ViTAE: Vision Transformer Advanced by Exploring Intrinsic Inductive Bias", arXiv, 2021 (*The University of Sydney*). [[Paper](https://arxiv.org/abs/2106.03348)][[Code (in construction)](https://github.com/Annbless/ViTAE)]
     * **RegionViT**: "RegionViT: Regional-to-Local Attention for Vision Transformers", arXiv, 2021 (*MIT-IBM Watson*). [[Paper](https://arxiv.org/abs/2106.02689)]
@@ -313,12 +313,12 @@ A comprehensive paper list of Vision Transformer/Attention
     * **TokShift**: "Token Shift Transformer for Video Classification", ACMMM, 2021 (*CUHK*). [[Paper](https://arxiv.org/abs/2108.02432)][[PyTorch](https://github.com/VideoNetworks/TokShift-Transformer)]
     * **Motionformer**: "Keeping Your Eye on the Ball: Trajectory Attention in Video Transformers", NeurIPS, 2021 (*Facebook*). [[Paper](https://arxiv.org/abs/2106.05392)][[PyTorch](https://github.com/facebookresearch/Motionformer)][[Website](https://facebookresearch.github.io/Motionformer/)]
     * **X-ViT**: "Space-time Mixing Attention for Video Transformer", NeurIPS, 2021 (*Samsung*). [[Paper](https://arxiv.org/abs/2106.05968)]
+    * **SCT**: "Shifted Chunk Transformer for Spatio-Temporal Representational Learning", NeurIPS, 2021 (*Kuaishou*). [[Paper](https://arxiv.org/abs/2108.11575)]
     * **STAM**: "An Image is Worth 16x16 Words, What is a Video Worth?", arXiv, 2021 (*Alibaba*). [[Paper](https://arxiv.org/abs/2103.13915)][[Code](https://github.com/Alibaba-MIIL/STAM)]
     * **GAT**: "Enhancing Transformer for Video Understanding Using Gated Multi-Level Attention and Temporal Adversarial Training", arXiv, 2021 (*Samsung*). [[Paper](https://arxiv.org/abs/2103.10043)]
     * **TokenLearner**: "TokenLearner: What Can 8 Learned Tokens Do for Images and Videos?", arXiv, 2021 (*Google*). [[Paper](https://arxiv.org/abs/2106.11297)]
     * **Video-Swin**: "Video Swin Transformer", arXiv, 2021 (*Microsoft*). [[Paper](https://arxiv.org/abs/2106.13230)][[PyTorch](https://github.com/SwinTransformer/Video-Swin-Transformer)]
     * **VLF**: "VideoLightFormer: Lightweight Action Recognition using Transformers", arXiv, 2021 (*The University of Sheffield*). [[Paper](https://arxiv.org/abs/2107.00451)]
-    * **SCT**: "Shifted Chunk Transformer for Spatio-Temporal Representational Learning", arXiv, 2021 (*Kuaishou*). [[Paper](https://arxiv.org/abs/2108.11575)]
     * **ORViT**: "Object-Region Video Transformers", arXiv, 2021 (*Tel Aviv*). [[Paper](https://arxiv.org/abs/2110.06915)][[Website](https://roeiherz.github.io/ORViT/)]
 * Depth
     * **Trear**: "Trear: Transformer-based RGB-D Egocentric Action Recognition",  IEEE Transactions on Cognitive and Developmental Systems, 2021 (*Tianjing University*). [[Paper](https://ieeexplore.ieee.org/document/9312201)]
@@ -584,9 +584,10 @@ A comprehensive paper list of Vision Transformer/Attention
 ### Neural Architecture Search
 * **HR-NAS**: "HR-NAS: Searching Efficient High-Resolution Neural Architectures with Lightweight Transformers", CVPR, 2021 (*HKU*). [[Paper](https://arxiv.org/abs/2106.06560)][[PyTorch](https://github.com/dingmyu/HR-NAS)]
 * **CATE**: "CATE: Computation-aware Neural Architecture Encoding with Transformers", ICML, 2021 (*Michigan State University*). [[Paper](https://arxiv.org/abs/2102.07108)]
-* **AutoFormer**: "AutoFormer: Searching Transformers for Visual Recognition", ICCV, 2021 (*Microsoft*). [[Paper](https://arxiv.org/abs/2107.00651)][[Code (in construction)](https://github.com/microsoft/AutoML)]
+* **AutoFormer**: "AutoFormer: Searching Transformers for Visual Recognition", ICCV, 2021 (*Microsoft*). [[Paper](https://arxiv.org/abs/2107.00651)][[PyTorch](https://github.com/microsoft/Cream/tree/main/AutoFormer)]
 * **GLiT**: "GLiT: Neural Architecture Search for Global and Local Image Transformer", ICCV, 2021 (*The University of Sydney + SenseTime*). [[Paper](https://arxiv.org/abs/2107.02960)]
 * **BossNAS**: "BossNAS: Exploring Hybrid CNN-transformers with Block-wisely Self-supervised Neural Architecture Search", ICCV, 2021 (*Monash University*). [[Paper](https://arxiv.org/abs/2103.12424)][[PyTorch](https://github.com/changlin31/BossNAS)]
+* **AutoformerV2**: "Searching the Search Space of Vision Transformer", NeurIPS, 2021 (*Microsoft*). [[Paper](https://arxiv.org/abs/2111.14725)][[PyTorch](https://github.com/microsoft/Cream/tree/main/AutoFormerV2)]
 * **ViTAS**: "Vision Transformer Architecture Search", arXiv, 2021 (*The University of Sydney + SenseTime*). [[Paper](https://arxiv.org/abs/2106.13700)]
 * **PSViT**: "PSViT: Better Vision Transformer via Token Pooling and Attention Sharing", arXiv, 2021 (*The University of Sydney + SenseTime*). [[Paper](https://arxiv.org/abs/2108.03428)]
 * **ViT-ResNAS**: "Searching for Efficient Multi-Stage Vision Transformers", arXiv, 2021 (*MIT*). [[Paper](https://arxiv.org/abs/2109.00642)][[PyTorch](https://github.com/yilunliao/vit-search)]
@@ -617,7 +618,7 @@ A comprehensive paper list of Vision Transformer/Attention
 * **HyLoG-ViT**: "Hybrid Local-Global Transformer for Image Dehazing", arXiv, 2021 (*Beihang University*). [[Paper](https://arxiv.org/abs/2109.07100)]
 * **TANet**: "TANet: A new Paradigm for Global Face Super-resolution via Transformer-CNN Aggregation Network", arXiv, 2021 (*Wuhan Institute of Technology*). [[Paper](https://arxiv.org/abs/2109.08174)]
 
-##### Colorization
+### Colorization
 * **ColTran**: "Colorization Transformer", ICLR, 2021 (*Google*). [[Paper](https://openreview.net/forum?id=5NA1PinlGFu)][[Tensorflow](https://github.com/google-research/google-research/tree/master/coltran)]
 * **ViT-I-GAN**: "ViT-Inception-GAN for Image Colourising", arXiv, 2021 (*D.Y Patil College of Engineering, India*). [[Paper](https://arxiv.org/abs/2106.06321)]
 
@@ -654,6 +655,7 @@ A comprehensive paper list of Vision Transformer/Attention
 * **Geometry-Free**: "Geometry-Free View Synthesis: Transformers and no 3D Priors", ICCV, 2021 (*Heidelberg University*). [[Paper](https://arxiv.org/abs/2104.07652)][[PyTorch](https://github.com/CompVis/geometry-free-view-synthesis)]
 * **VTGAN**: "VTGAN: Semi-supervised Retinal Image Synthesis and Disease Prediction using Vision Transformers", ICCVW, 2021 (*University of Nevada, Reno*). [[Paper](https://arxiv.org/abs/2104.06757)]
 * **ATISS**: "ATISS: Autoregressive Transformers for Indoor Scene Synthesis", NeurIPS, 2021 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2110.03675)][[Website](https://nv-tlabs.github.io/ATISS/)]
+* **GANsformer2**: "Compositional Transformers for Scene Generation", NeurIPS, 2021 (*Stanford + Facebook*). [[Paper](https://arxiv.org/abs/2111.08960)][[Tensorflow](https://github.com/dorarad/gansformer)]
 * **TransGAN**: "TransGAN: Two Transformers Can Make One Strong GAN", arXiv, 2021 (*UT Austin*). [[Paper](https://arxiv.org/abs/2102.07074)][[PyTorch](https://github.com/VITA-Group/TransGAN)]
 * **SceneFormer**: "SceneFormer: Indoor Scene Generation with Transformers", arXiv, 2021 (*TUM*). [[Paper](https://arxiv.org/abs/2012.09793)]
 * **SNGAN**: "Combining Transformer Generators with Convolutional Discriminators", arXiv, 2021 (*Fraunhofer ITWM*). [[Paper](https://arxiv.org/abs/2105.10189)]
@@ -686,6 +688,8 @@ A comprehensive paper list of Vision Transformer/Attention
 * **CMTP**: "Topological Planning With Transformers for Vision-and-Language Navigation", CVPR, 2021 (*Stanford*). [[Paper](https://arxiv.org/abs/2012.05292)]
 * **VLN-BERT**: "VLN-BERT: A Recurrent Vision-and-Language BERT for Navigation", CVPR, 2021 (*ANU*). [[Paper](https://arxiv.org/abs/2011.13922)][[PyTorch](https://github.com/YicongHong/Recurrent-VLN-BERT)]
 * **E.T.**: "Episodic Transformer for Vision-and-Language Navigation", ICCV, 2021 (*Google*). [[Paper](https://arxiv.org/abs/2105.06453)][[PyTorch](https://github.com/alexpashevich/E.T.)]
+* **HAMT**: "History Aware Multimodal Transformer for Vision-and-Language Navigation", NeurIPS, 2021 (*INRIA*). [[Paper](https://arxiv.org/abs/2110.13309)][[PyTorch](https://github.com/cshizhe/VLN-HAMT)][[Website](https://cshizhe.github.io/projects/vln_hamt.html)]
+* **SOTA**: "SOAT: A Scene- and Object-Aware Transformer for Vision-and-Language Navigation", NeurIPS, 2021 (*Georgia Tech*). [[Paper](https://arxiv.org/abs/2110.14143)]
 
 ### Others
 * **SVEA**: "Stabilizing Deep Q-Learning with ConvNets and Vision Transformers under Data Augmentation", arXiv, 2021 (*UCSD*). [[Paper](https://arxiv.org/abs/2107.00644)][[GitHub](https://github.com/nicklashansen/dmcontrol-generalization-benchmark)][[Website](https://nicklashansen.github.io/SVEA/)]
@@ -778,7 +782,7 @@ A comprehensive paper list of Vision Transformer/Attention
 * Feature Matching:
     * **LoFTR**: "LoFTR: Detector-Free Local Feature Matching with Transformers", CVPR, 2021 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2104.00680)][[PyTorch](https://github.com/zju3dv/LoFTR)][[Website](https://zju3dv.github.io/loftr/)]
     * **COTR**: "COTR: Correspondence Transformer for Matching Across Images", ICCV, 2021 (*UBC*). [[Paper](https://arxiv.org/abs/2103.14167)]
-    * **CATs**: "Semantic Correspondence with Transformers", arXiv, 2021 (*Yonsei University + Korea University*). [[Paper](https://arxiv.org/abs/2106.02520)][[Code (in construction)](https://github.com/SunghwanHong/CATs)]
+    * **CATs**: "Semantic Correspondence with Transformers", NeurIPS, 2021 (*Yonsei University + Korea University*). [[Paper](https://arxiv.org/abs/2106.02520)][[Code (in construction)](https://github.com/SunghwanHong/CATs)][[Website](https://sunghwanhong.github.io/CATs/)]
 * Multi-label:
     * **C-Tran**: "General Multi-label Image Classification with Transformers", CVPR, 2021 (*University of Virginia*). [[Paper](https://arxiv.org/abs/2011.14027)]
     * **TDRG**: "Transformer-Based Dual Relation Graph for Multi-Label Image Recognition", ICCV, 2021 (*Tencent*). [[Paper](https://arxiv.org/abs/2110.04722)]
@@ -817,6 +821,7 @@ A comprehensive paper list of Vision Transformer/Attention
 * Trajectory Prediction:
     * **mmTransformer**: "Multimodal Motion Prediction with Stacked Transformers", CVPR, 2021 (*CUHK + SenseTime*). [[Paper](https://arxiv.org/abs/2103.11624)][[Code (in construction)](https://github.com/decisionforce/mmTransformer)][[Website](https://decisionforce.github.io/mmTransformer/)]
     * **AgentFormer**: "AgentFormer: Agent-Aware Transformers for Socio-Temporal Multi-Agent Forecasting", ICCV, 2021 (*CMU*). [[Paper](https://arxiv.org/abs/2103.14023)][[Code (in construction)](https://github.com/Khrylx/AgentFormer)][[Website](https://www.ye-yuan.com/agentformer/)]
+    * **MRT**: "Multi-Person 3D Motion Prediction with Multi-Range Transformers", NeurIPS, 2021 (*UCSD + Berkeley*). [[Paper](https://arxiv.org/abs/2111.12073)][[PyTorch](https://github.com/jiashunwang/MRT)][[Website](https://jiashunwang.github.io/MRT/)]
 * 3D Motion Synthesis:
     * **ACTOR**: "Action-Conditioned 3D Human Motion Synthesis with Transformer VAE", ICCV, 2021 (*Univ Gustave Eiffel*). [[Paper](https://arxiv.org/abs/2104.05670)][[PyTorch](https://github.com/Mathux/ACTOR)][[Website](https://imagine.enpc.fr/~petrovim/actor/)]
 * Fashion:
