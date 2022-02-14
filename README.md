@@ -106,6 +106,7 @@ If you find some ignored papers, please open issues. <br>
     * **Evo-ViT**: "Evo-ViT: Slow-Fast Token Evolution for Dynamic Vision Transformer", AAAI, 2022 (*Tencent*). [[Paper](https://arxiv.org/abs/2108.01390)][[PyTorch](https://github.com/YifanXu74/Evo-ViT)]
     * **PS-Attention**: "Pale Transformer: A General Vision Transformer Backbone with Pale-Shaped Attention", AAAI, 2022 (*Baidu*). [[Paper](https://arxiv.org/abs/2112.14000)][[Paddle](https://github.com/BR-IDL/PaddleViT)]
     * **ShiftViT**: "When Shift Operation Meets Vision Transformer: An Extremely Simple Alternative to Attention Mechanism", AAAI, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2201.10801)][[PyTorch](https://github.com/microsoft/SPACH)]
+    * **EViT**: "EViT: Expediting Vision Transformers via Token Reorganizations", ICLR, 2022 (*Tencent*). [[Paper](https://openreview.net/forum?id=BjyvwnXXVn_)]
 * Conv + Transformer:
     * **LeViT**: "LeViT: a Vision Transformer in ConvNet's Clothing for Faster Inference", ICCV, 2021 (*Facebook*). [[Paper](https://arxiv.org/abs/2104.01136)][[PyTorch](https://github.com/facebookresearch/LeViT)]
     * **CeiT**: "Incorporating Convolution Designs into Visual Transformers", ICCV, 2021 (*SenseTime*). [[Paper](https://arxiv.org/abs/2103.11816)][[PyTorch (rishikksh20)](https://github.com/rishikksh20/CeiT)]
@@ -126,10 +127,10 @@ If you find some ignored papers, please open issues. <br>
     * **MST**: "MST: Masked Self-Supervised Transformer for Visual Representation", NeurIPS, 2021 (*SenseTime*). [[Paper](https://arxiv.org/abs/2106.05656)]
     * **SiT**: "SiT: Self-supervised Vision Transformer", arXiv, 2021 (*University of Surrey*). [[Paper](https://arxiv.org/abs/2104.03602)][[PyTorch](https://github.com/Sara-Ahmed/SiT)]
     * **MoBY**: "Self-Supervised Learning with Swin Transformers", arXiv, 2021 (*Microsoft*). [[Paper](https://arxiv.org/abs/2105.04553)][[Pytorch](https://github.com/SwinTransformer/Transformer-SSL)]
-    * **BEiT**: "BEiT: BERT Pre-Training of Image Transformers", arXiv, 2021 (*Microsoft*). [[Paper](https://arxiv.org/abs/2106.08254)][[PyTorch](https://github.com/microsoft/unilm/tree/master/beit)]
     * **EsViT**: "Efficient Self-supervised Vision Transformers for Representation Learning", arXiv, 2021 (*Microsoft*). [[Paper](https://arxiv.org/abs/2106.09785)]
     * **?**: "Investigating Transfer Learning Capabilities of Vision Transformers and CNNs by Fine-Tuning a Single Trainable Block", arXiv, 2021 (*Pune Institute of Computer Technology, India*). [[Paper](https://arxiv.org/abs/2110.05270)]
     * **Annotations-1.3B**: "Billion-Scale Pretraining with Vision Transformers for Multi-Task Visual Representations", WACV, 2022 (*Pinterest*). [[Paper](https://arxiv.org/abs/2108.05887)]
+    * **BEiT**: "BEiT: BERT Pre-Training of Image Transformers", ICLR, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2106.08254)][[PyTorch](https://github.com/microsoft/unilm/tree/master/beit)]
 * For robustness:
     * **ViT-Robustness**: "Understanding Robustness of Transformers for Image Classification", ICCV, 2021 (*Google*). [[Paper](https://arxiv.org/abs/2103.14586)]
     * **SAGA**: "On the Robustness of Vision Transformers to Adversarial Examples", ICCV, 2021 (*University of Connecticut*). [[Paper](https://arxiv.org/abs/2104.02610)]
@@ -183,6 +184,7 @@ If you find some ignored papers, please open issues. <br>
 * **?**: "What Makes for Hierarchical Vision Transformer?", arXiv, 2021 (*Horizon Robotic*). [[Paper](https://arxiv.org/abs/2107.02174)]
 * **?**: "Visualizing Paired Image Similarity in Transformer Networks", WACV, 2022 (*Temple University*). [[Paper](https://openaccess.thecvf.com/content/WACV2022/html/Black_Visualizing_Paired_Image_Similarity_in_Transformer_Networks_WACV_2022_paper.html)][[PyTorch](https://github.com/vidarlab/xformer-paired-viz)]
 * **FDSL**: "Can Vision Transformers Learn without Natural Images?", AAAI, 2022 (*AIST*). [[Paper](https://arxiv.org/abs/2103.13023)][[PyTorch](https://github.com/nakashima-kodai/FractalDB-Pretrained-ViT-PyTorch)][[Website](https://hirokatsukataoka16.github.io/Vision-Transformers-without-Natural-Images/)]
+* **AlterNet**: "How Do Vision Transformers Work?", ICLR, 2022 (*Yonsei University*). [[Paper](https://openreview.net/forum?id=D78Go4hVcxO)]
 
 
 ## Detection
@@ -691,7 +693,7 @@ If you find some ignored papers, please open issues. <br>
 * **Styleformer**: "Styleformer: Transformer based Generative Adversarial Networks with Style Vector", arXiv, 2021 (*Seoul National University*). [[Paper](https://arxiv.org/abs/2106.07023)][[PyTorch](https://github.com/Jeeseung-Park/Styleformer)]
 * **Invertible-Attention**: "Invertible Attention", arXiv, 2021 (*ANU*). [[Paper](https://arxiv.org/abs/2106.09003)]
 * **GPA**: "Grid Partitioned Attention: Efficient Transformer Approximation with Inductive Bias for High Resolution Detail Generation", arXiv, 2021 (*Zalando Research, Germany*). [[Paper](https://arxiv.org/abs/2107.03742)][[PyTorch (in construction)](https://github.com/zalandoresearch/gpa)]
-* **ViTGAN**: "ViTGAN: Training GANs with Vision Transformers", arXiv, 2021 (*Google*). [[Paper](https://arxiv.org/abs/2107.04589)]
+* **ViTGAN**: "ViTGAN: Training GANs with Vision Transformers", ICLR, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2107.04589)][[PyTorch (wilile26811249)](https://github.com/wilile26811249/ViTGAN)]
 
 ### Video Generation
 * **Subscale**: "Scaling Autoregressive Video Models", ICLR, 2020 (*Google*). [[Paper](https://openreview.net/forum?id=rJgsskrFwH)][[Website](https://sites.google.com/view/video-transformer-samples)]
@@ -853,6 +855,7 @@ If you find some ignored papers, please open issues. <br>
     * **mmTransformer**: "Multimodal Motion Prediction with Stacked Transformers", CVPR, 2021 (*CUHK + SenseTime*). [[Paper](https://arxiv.org/abs/2103.11624)][[Code (in construction)](https://github.com/decisionforce/mmTransformer)][[Website](https://decisionforce.github.io/mmTransformer/)]
     * **AgentFormer**: "AgentFormer: Agent-Aware Transformers for Socio-Temporal Multi-Agent Forecasting", ICCV, 2021 (*CMU*). [[Paper](https://arxiv.org/abs/2103.14023)][[Code (in construction)](https://github.com/Khrylx/AgentFormer)][[Website](https://www.ye-yuan.com/agentformer/)]
     * **MRT**: "Multi-Person 3D Motion Prediction with Multi-Range Transformers", NeurIPS, 2021 (*UCSD + Berkeley*). [[Paper](https://arxiv.org/abs/2111.12073)][[PyTorch](https://github.com/jiashunwang/MRT)][[Website](https://jiashunwang.github.io/MRT/)]
+    * **?**: "Latent Variable Sequential Set Transformers for Joint Multi-Agent Motion Prediction", ICLR, 2022 (*MILA*). [[Paper](https://openreview.net/forum?id=Dup_dDqkZC5)]
 * 3D Motion Synthesis:
     * **ACTOR**: "Action-Conditioned 3D Human Motion Synthesis with Transformer VAE", ICCV, 2021 (*Univ Gustave Eiffel*). [[Paper](https://arxiv.org/abs/2104.05670)][[PyTorch](https://github.com/Mathux/ACTOR)][[Website](https://imagine.enpc.fr/~petrovim/actor/)]
 * Fashion:
