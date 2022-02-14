@@ -55,7 +55,6 @@ If you find some ignored papers, please open issues. <br>
     * **LIT**: "Less is More: Pay Less Attention in Vision Transformers", arXiv, 2021 (*Monash University*). [[Paper](https://arxiv.org/abs/2105.14217)][[PyTorch](https://github.com/MonashAI/LIT)]
     * **MSG-Transformer**: "MSG-Transformer: Exchanging Local Spatial Information by Manipulating Messenger Tokens", arXiv, 2021 (*Huazhong University of Science & Technology*). [[Paper](https://arxiv.org/abs/2105.15168)][[PyTorch](https://github.com/hustvl/MSG-Transformer)]
     * **KVT**: "KVT: k-NN Attention for Boosting Vision Transformers", arXiv, 2021 (*Alibaba*). [[Paper](https://arxiv.org/abs/2106.00515)]
-    * **RegionViT**: "RegionViT: Regional-to-Local Attention for Vision Transformers", arXiv, 2021 (*MIT-IBM Watson*). [[Paper](https://arxiv.org/abs/2106.02689)]
     * **Refined-ViT**: "Refiner: Refining Self-attention for Vision Transformers", arXiv, 2021 (*NUS, Singapore*). [[Paper](https://arxiv.org/abs/2106.03714)][[PyTorch](https://github.com/zhoudaquan/Refiner_ViT)]
     * **Shuffle-Transformer**: "Shuffle Transformer: Rethinking Spatial Shuffle for Vision Transformer", arXiv, 2021 (*Tencent*). [[Paper](https://arxiv.org/abs/2106.03650)]
     * **ViT-G**: "Scaling Vision Transformers", arXiv, 2021 (*Google*). [[Paper](https://arxiv.org/abs/2106.04560)]
@@ -66,8 +65,10 @@ If you find some ignored papers, please open issues. <br>
     * **CSWin**: "CSWin Transformer: A General Vision Transformer Backbone with Cross-Shaped Windows", arXiv, 2021 (*Microsoft*). [[Paper](https://arxiv.org/abs/2107.00652)]
     * **LG-Transformer**: "Local-to-Global Self-Attention in Vision Transformers", arXiv, 2021 (*IIAI, UAE*). [[Paper](https://arxiv.org/abs/2107.04735)]
     * **ViP**: "Visual Parser: Representing Part-whole Hierarchies with Transformers", arXiv, 2021 (*Oxford*). [[Paper](https://arxiv.org/abs/2107.05790)]
-    * **CrossFormer**: "CrossFormer: A Versatile Vision Transformer Based on Cross-scale Attention", arXiv, 2021 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2108.00154)][[PyTorch](https://github.com/cheerss/CrossFormer)]
     * **Scaled-ReLU**: "Scaled ReLU Matters for Training Vision Transformers", AAAI, 2022 (*Alibaba*). [[Paper](https://arxiv.org/abs/2109.03810)]
+    * **DTN**: "Dynamic Token Normalization Improves Vision Transformer", ICLR, 2022 (*Tencent*). [[Paper](https://arxiv.org/abs/2112.02624)][[PyTorch (in construction)](https://github.com/wqshao126/DTN)]
+    * **RegionViT**: "RegionViT: Regional-to-Local Attention for Vision Transformers", ICLR, 2022 (*MIT-IBM Watson*). [[Paper](https://arxiv.org/abs/2106.02689)][[PyTorch](https://github.com/ibm/regionvit)]
+    * **CrossFormer**: "CrossFormer: A Versatile Vision Transformer Based on Cross-scale Attention", ICLR, 2022 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2108.00154)][[PyTorch](https://github.com/cheerss/CrossFormer)]
 * For efficiency:
     * **DeiT**: "Training data-efficient image transformers & distillation through attention", ICML, 2021 (*Facebook*). [[Paper](https://arxiv.org/abs/2012.12877)][[PyTorch](https://github.com/facebookresearch/deit)]
     * **ConViT**: "ConViT: Improving Vision Transformers with Soft Convolutional Inductive Biases", ICML, 2021 (*Facebook*). [[Paper](https://arxiv.org/abs/2103.10697)][[Code](https://github.com/facebookresearch/convit)]
@@ -107,6 +108,7 @@ If you find some ignored papers, please open issues. <br>
     * **PS-Attention**: "Pale Transformer: A General Vision Transformer Backbone with Pale-Shaped Attention", AAAI, 2022 (*Baidu*). [[Paper](https://arxiv.org/abs/2112.14000)][[Paddle](https://github.com/BR-IDL/PaddleViT)]
     * **ShiftViT**: "When Shift Operation Meets Vision Transformer: An Extremely Simple Alternative to Attention Mechanism", AAAI, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2201.10801)][[PyTorch](https://github.com/microsoft/SPACH)]
     * **EViT**: "EViT: Expediting Vision Transformers via Token Reorganizations", ICLR, 2022 (*Tencent*). [[Paper](https://openreview.net/forum?id=BjyvwnXXVn_)]
+    * **UVC**: "Unified Visual Transformer Compression", ICLR, 2022 (*UT Austin*). [[Paper](https://openreview.net/forum?id=9jsZiUgkCZP)]
 * Conv + Transformer:
     * **LeViT**: "LeViT: a Vision Transformer in ConvNet's Clothing for Faster Inference", ICCV, 2021 (*Facebook*). [[Paper](https://arxiv.org/abs/2104.01136)][[PyTorch](https://github.com/facebookresearch/LeViT)]
     * **CeiT**: "Incorporating Convolution Designs into Visual Transformers", ICCV, 2021 (*SenseTime*). [[Paper](https://arxiv.org/abs/2103.11816)][[PyTorch (rishikksh20)](https://github.com/rishikksh20/CeiT)]
@@ -117,7 +119,7 @@ If you find some ignored papers, please open issues. <br>
     * **ConTNet**: "ConTNet: Why not use convolution and transformer at the same time?", arXiv, 2021 (*ByteDance*). [[Paper](https://arxiv.org/abs/2104.13497)][[PyTorch](https://github.com/yan-hao-tian/ConTNet)]
     * **CMT**: "CMT: Convolutional Neural Networks Meet Vision Transformers", arXiv, 2021 (*Huawei*). [[Paper](https://arxiv.org/abs/2107.06263)]
     * **SPACH**: "A Battle of Network Structures: An Empirical Study of CNN, Transformer, and MLP", arXiv, 2021 (*Microsoft*). [[Paper](https://arxiv.org/abs/2108.13002)]
-    * **MobileViT**: "MobileViT: Light-weight, General-purpose, and Mobile-friendly Vision Transformer", arXiv, 2021 (*Apple*). [[Paper](https://arxiv.org/abs/2110.02178)]
+    * **MobileViT**: "MobileViT: Light-weight, General-purpose, and Mobile-friendly Vision Transformer", ICLR, 2022 (*Apple*). [[Paper](https://arxiv.org/abs/2110.02178)]
 * For pre-training:
     * **iGPT**: "Generative Pretraining From Pixels", ICML, 2020 (*OpenAI*). [[Paper](http://proceedings.mlr.press/v119/chen20s.html)][[Tensorflow](https://github.com/openai/image-gpt)]
     * **MoCo-V3**: "An Empirical Study of Training Self-Supervised Vision Transformers", ICCV, 2021 (*Facebook*). [[Paper](https://arxiv.org/abs/2104.02057)]
@@ -205,12 +207,15 @@ If you find some ignored papers, please open issues. <br>
     * **CA-FPN**: "Content-Augmented Feature Pyramid Network with Light Linear Transformers", arXiv, 2021 (*CAS*). [[Paper](https://arxiv.org/abs/2105.09464)]
     * **DETReg**: "DETReg: Unsupervised Pretraining with Region Priors for Object Detection", arXiv, 2021 (*Tel-Aviv + Berkeley*). [[Paper](https://arxiv.org/abs/2106.04550)][[Website](https://www.amirbar.net/detreg/)]
     * **GQPos**: "Guiding Query Position and Performing Similar Attention for Transformer-Based Detection Heads", arXiv, 2021 (*MEGVII*). [[Paper](https://arxiv.org/abs/2108.09691)]
-    * **ViDT**: "ViDT: An Efficient and Effective Fully Transformer-based Object Detector", arXiv, 2021 (*NAVER*). [[Paper](https://arxiv.org/abs/2110.03921)]
     * **Anchor-DETR**: "Anchor DETR: Query Design for Transformer-Based Detector", AAAI, 2022 (*MEGVII*). [[Paper](https://arxiv.org/abs/2109.07107)][[PyTorch](https://github.com/megvii-research/AnchorDETR)]
+    * **Sparse-DETR**: "Sparse DETR: Efficient End-to-End Object Detection with Learnable Sparsity", ICLR, 2022 (*Kakao*). [[Paper](https://arxiv.org/abs/2111.14330)][[PyTorch](https://github.com/kakaobrain/sparse-detr)]
 * Transformer-based backbone:
     * **ViT-FRCNN**: "Toward Transformer-Based Object Detection", arXiv, 2020 (*Pinterest*). [[Paper](https://arxiv.org/abs/2012.09958)]
     * **WB-DETR**: "WB-DETR: Transformer-Based Detector Without Backbone", ICCV, 2021 (*CAS*). [[Paper](https://openaccess.thecvf.com/content/ICCV2021/html/Liu_WB-DETR_Transformer-Based_Detector_Without_Backbone_ICCV_2021_paper.html)]
     * **YOLOS**: "You Only Look at One Sequence: Rethinking Transformer in Vision through Object Detection", NeurIPS, 2021 (*Horizon Robotics*). [[Paper](https://arxiv.org/abs/2106.00666)][[PyTorch](https://github.com/hustvl/YOLOS)]
+    * **ViDT**: "ViDT: An Efficient and Effective Fully Transformer-based Object Detector", ICLR, 2022 (*NAVER*). [[Paper](https://arxiv.org/abs/2110.03921)][[PyTorch](https://github.com/naver-ai/vidt)]
+    * **FP-DETR**: "FP-DETR: Detection Transformer Advanced by Fully Pre-training", ICLR, 2022 (*USTC*). [[Paper](https://openreview.net/forum?id=yjMQuLLcGWK)]
+
 
 ### Other Detection Tasks
 * Unsupervised:
@@ -335,6 +340,7 @@ If you find some ignored papers, please open issues. <br>
     * **Video-Swin**: "Video Swin Transformer", arXiv, 2021 (*Microsoft*). [[Paper](https://arxiv.org/abs/2106.13230)][[PyTorch](https://github.com/SwinTransformer/Video-Swin-Transformer)]
     * **VLF**: "VideoLightFormer: Lightweight Action Recognition using Transformers", arXiv, 2021 (*The University of Sheffield*). [[Paper](https://arxiv.org/abs/2107.00451)]
     * **ORViT**: "Object-Region Video Transformers", arXiv, 2021 (*Tel Aviv*). [[Paper](https://arxiv.org/abs/2110.06915)][[Website](https://roeiherz.github.io/ORViT/)]
+    * **UniFormer**: "UniFormer: Unified Transformer for Efficient Spatiotemporal Representation Learning", ICLR, 2022 (*CAS + SenstTime*). [[Paper](https://arxiv.org/abs/2201.04676)][[PyTorch](https://github.com/Sense-X/UniFormer)]
 * Depth
     * **Trear**: "Trear: Transformer-based RGB-D Egocentric Action Recognition",  IEEE Transactions on Cognitive and Developmental Systems, 2021 (*Tianjing University*). [[Paper](https://ieeexplore.ieee.org/document/9312201)]
 * Pose:
@@ -522,6 +528,7 @@ If you find some ignored papers, please open issues. <br>
 * **PQ-Transformer**: "PQ-Transformer: Jointly Parsing 3D Objects and Layouts from Point Clouds", arXiv, 2021 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2109.05566)][[PyTorch](https://github.com/OPEN-AIR-SUN/PQ-Transformer)]
 * **PST<sup>2</sup>**: "Spatial-Temporal Transformer for 3D Point Cloud Sequences", WACV, 2022 (*Sun Yat-sen University*). [[Paper](https://arxiv.org/abs/2110.09783)]
 * **SCTN**: "SCTN: Sparse Convolution-Transformer Network for Scene Flow Estimation", AAAI, 2022 (*KAUST*). [[Paper](https://arxiv.org/abs/2105.04447)]
+* **AWT-Net**: "Adaptive Wavelet Transformer Network for 3D Shape Representation Learning", ICLR, 2022 (*NYU*). [[Paper](https://openreview.net/forum?id=5MLb3cLCJY)]
 
 ### Pose Estimation
 * Human-related: 
@@ -711,6 +718,7 @@ If you find some ignored papers, please open issues. <br>
 * **MS-Unet**: "Semi-Supervised Wide-Angle Portraits Correction by Multi-Scale Transformer", arXiv, 2021 (*MEGVII*). [[Paper](https://arxiv.org/abs/2109.08024)]
 * **TransMEF**: "TransMEF: A Transformer-Based Multi-Exposure Image Fusion Framework using Self-Supervised Multi-Task Learning", AAAI, 2022 (*Fudan*). [[Paper](https://arxiv.org/abs/2112.01030)]
 * **?**: "Towards End-to-End Image Compression and Analysis with Transformers", AAAI, 2022 (*1Harbin Institute of Technology*). [[Paper](https://arxiv.org/abs/2112.09300)][[PyTorch](https://github.com/BYchao100/Towards-Image-Compression-and-Analysis-with-Transformers)]
+* **Entroformer**: "Entroformer: A Transformer-based Entropy Model for Learned Image Compression", ICLR, 2022 (*Alibaba*). [[Paper](https://openreview.net/forum?id=VrjOFfcnSV8)]
 
 
 ## Reinforcement Learning
