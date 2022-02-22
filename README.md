@@ -76,6 +76,8 @@ If you find some ignored papers, please open issues. <br>
     * **O-ViT**: "O-ViT: Orthogonal Vision Transformer", arXiv, 2022 (*East China Normal University*). [[Paper](https://arxiv.org/abs/2201.12133)]
     * **MOA-Transformer**: "Aggregating Global Features into Local Vision Transformer", arXiv, 2022 (*University of Kansas*). [[Paper](https://arxiv.org/abs/2201.12903)][[PyTorch](https://github.com/krushi1992/MOA-transformer)]
     * **BOAT**: "BOAT: Bilateral Local Attention Vision Transformer", arXiv, 2022 (*Baidu + HKU*). [[Paper](https://arxiv.org/abs/2201.13027)]
+    * **ViTAEv2**: "ViTAEv2: Vision Transformer Advanced by Exploring Inductive Bias for Image Recognition and Beyond", arXiv, 2022 (*The University of Sydney*). [[Paper](https://arxiv.org/abs/2202.10108)]
+    * **VAN**: "Visual Attention Network", arXiv, 2022 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2202.09741)][[PyTorch](https://github.com/Visual-Attention-Network)]
 * For efficiency:
     * **DeiT**: "Training data-efficient image transformers & distillation through attention", ICML, 2021 (*Facebook*). [[Paper](https://arxiv.org/abs/2012.12877)][[PyTorch](https://github.com/facebookresearch/deit)]
     * **ConViT**: "ConViT: Improving Vision Transformers with Soft Convolutional Inductive Biases", ICML, 2021 (*Facebook*). [[Paper](https://arxiv.org/abs/2103.10697)][[Code](https://github.com/facebookresearch/convit)]
@@ -552,7 +554,7 @@ If you find some ignored papers, please open issues. <br>
 * **NDT-Transformer**: "NDT-Transformer: Large-Scale 3D Point Cloud Localisation using the Normal Distribution Transform Representation", ICRA, 2021 (*University of Sheffield*). [[Paper](https://arxiv.org/abs/2103.12292)][[PyTorch](https://github.com/dachengxiaocheng/NDT-Transformer)]
 * **P4Transformer**: "Point 4D Transformer Networks for Spatio-Temporal Modeling in Point Cloud Videos", CVPR, 2021 (*NUS*). [[Paper](https://openaccess.thecvf.com/content/CVPR2021/html/Fan_Point_4D_Transformer_Networks_for_Spatio-Temporal_Modeling_in_Point_Cloud_CVPR_2021_paper.html)]
 * **PTT**: "PTT: Point-Track-Transformer Module for 3D Single Object Tracking in Point Clouds", IROS, 2021 (*Northeastern University*). [[Paper](https://arxiv.org/abs/2108.06455)][[PyTorch (in construction)](https://github.com/shanjiayao/PTT)]
-* **SnowflakeNet**: "SnowflakeNet: Point Cloud Completion by Snowflake Point Deconvolution with Skip-Transformer", ICCV, 2021 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2108.04444)]
+* **SnowflakeNet**: "SnowflakeNet: Point Cloud Completion by Snowflake Point Deconvolution with Skip-Transformer", ICCV, 2021 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2108.04444)][[PyTorch](https://github.com/AllenXiangX/SnowflakeNet)]
 * **PoinTr**: "PoinTr: Diverse Point Cloud Completion with Geometry-Aware Transformers", ICCV, 2021 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2108.08839)][[PyTorch](https://github.com/yuxumin/PoinTr)]
 * **Point-Transformer**: "Point Transformer", ICCV, 2021 (*Oxford + CUHK*). [[Paper](https://arxiv.org/abs/2012.09164)][[PyTorch (lucidrains)](https://github.com/lucidrains/point-transformer-pytorch)]
 * **CT**: "Cloud Transformers: A Universal Approach To Point Cloud Processing Tasks", ICCV, 2021 (*Samsung*). [[Paper](https://arxiv.org/abs/2007.11679)]
@@ -569,6 +571,8 @@ If you find some ignored papers, please open issues. <br>
 * **?**: "Deep Point Cloud Reconstruction", ICLR, 2022 (*KAIST*). [[Paper](https://arxiv.org/abs/2111.11704)]
 * **GeoTransformer**: "Geometric Transformer for Fast and Robust Point Cloud Registration", arXiv, 2022 (*National University of Defense Technology, China*). [[Paper](https://arxiv.org/abs/2202.06688)][[PyTorch](https://github.com/qinzheng93/GeoTransformer)]
 * **LighTN**: "LighTN: Light-weight Transformer Network for Performance-overhead Tradeoff in Point Cloud Downsampling", arXiv, 2022 (*Beijing Jiaotong University*). [[Paper](https://arxiv.org/abs/2202.06263)]
+* **PMP-Net++**: "PMP-Net++: Point Cloud Completion by Transformer-Enhanced Multi-step Point Moving Paths", arXiv, 2022 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2202.09507)]
+* **SnowflakeNet**: "Snowflake Point Deconvolution for Point Cloud Completion and Generation with Skip-Transformer", arXiv, 2022 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2202.09367)][[PyTorch](https://github.com/AllenXiangX/SnowflakeNet)]
 
 ### Pose Estimation
 * Human-related: 
@@ -873,6 +877,8 @@ If you find some ignored papers, please open issues. <br>
     * **LoFTR**: "LoFTR: Detector-Free Local Feature Matching with Transformers", CVPR, 2021 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2104.00680)][[PyTorch](https://github.com/zju3dv/LoFTR)][[Website](https://zju3dv.github.io/loftr/)]
     * **COTR**: "COTR: Correspondence Transformer for Matching Across Images", ICCV, 2021 (*UBC*). [[Paper](https://arxiv.org/abs/2103.14167)]
     * **CATs**: "CATs: Cost Aggregation Transformers for Visual Correspondence", NeurIPS, 2021 (*Yonsei University + Korea University*). [[Paper](https://arxiv.org/abs/2106.02520)][[PyTorch](https://github.com/SunghwanHong/Cost-Aggregation-transformers)][[Website](https://sunghwanhong.github.io/CATs/)]
+    * **CATs++**: "CATs++: Boosting Cost Aggregation with Convolutions and Transformers", arXiv, 2022 (*Korea University*). [[Paper](https://arxiv.org/abs/2202.06817)]
+    * **LoFTR-TensorRT**: "Local Feature Matching with Transformers for low-end devices", arXiv, 2022 (*?*). [[Paper](https://arxiv.org/abs/2202.00770)][[PyTorch](https://github.com/Kolkir/Coarse_LoFTR_TRT)]
 * Multi-label:
     * **C-Tran**: "General Multi-label Image Classification with Transformers", CVPR, 2021 (*University of Virginia*). [[Paper](https://arxiv.org/abs/2011.14027)]
     * **TDRG**: "Transformer-Based Dual Relation Graph for Multi-Label Image Recognition", ICCV, 2021 (*Tencent*). [[Paper](https://arxiv.org/abs/2110.04722)]
@@ -969,6 +975,7 @@ If you find some ignored papers, please open issues. <br>
     * **VTN**: "Variational Transformer Networks for Layout Generation", CVPR, 2021 (*Google*). [[Paper](https://arxiv.org/abs/2104.02416)]
     * **LayoutTransformer**: "LayoutTransformer: Scene Layout Generation With Conceptual and Spatial Diversity", CVPR, 2021 (*NTU*). [[Paper](https://openaccess.thecvf.com/content/CVPR2021/html/Yang_LayoutTransformer_Scene_Layout_Generation_With_Conceptual_and_Spatial_Diversity_CVPR_2021_paper.html)][[PyTorch](https://github.com/davidhalladay/LayoutTransformer)]
     * **LayoutTransformer**: "LayoutTransformer: Layout Generation and Completion with Self-attention", ICCV, 2021 (*Amazon*). [[Paper](https://arxiv.org/abs/2006.14615)][[Website](https://kampta.github.io/layout/)]
+    * **ATEK**: "ATEK: Augmenting Transformers with Expert Knowledge for Indoor Layout Synthesis", arXiv, 2022 (*New Jersey Institute of Technology*). [[Paper](https://arxiv.org/abs/2202.00185)]
 * Zero-Shot:
     * **ViT-ZSL**: "Multi-Head Self-Attention via Vision Transformer for Zero-Shot Learning", IMVIP, 2021 (*University of Exeter, UK*). [[Paper](https://arxiv.org/abs/2108.00045)]
     * **TransZero**: "TransZero: Attribute-guided Transformer for Zero-Shot Learning", AAAI, 2022 (*Huazhong University of Science and Technology*). [[Paper](https://arxiv.org/abs/2112.01683)][[PyTorch](https://github.com/shiming-chen/TransZero)]
