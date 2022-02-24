@@ -654,6 +654,8 @@ If you find some ignored papers, please open issues. <br>
 * **CMTR**: "CMTR: Cross-modality Transformer for Visible-infrared Person Re-identification", arXiv, 2021 (*Beijing Jiaotong University*). [[Paper](https://arxiv.org/abs/2110.08994)]
 * **PFD**: "Pose-guided Feature Disentangling for Occluded Person Re-identification Based on Transformer", AAAI, 2022 (*Peking*). [[Paper](https://arxiv.org/abs/2112.02466)][[PyTorch](https://github.com/WangTaoAs/PFD_Net)]
 * **PiT**: "Multi-direction and Multi-scale Pyramid in Transformer for Video-based Pedestrian Retrieval", IEEE Transactions on Industrial Informatics, 2022 (* Peking*). [[Paper](https://arxiv.org/abs/2202.06014)]
+* **?**: "Motion-Aware Transformer For Occluded Person Re-identification", arXiv, 2022 (*NetEase, China*). [[Paper](https://arxiv.org/abs/2202.04243)]
+* **PFT**: "Short Range Correlation Transformer for Occluded Person Re-Identification", arXiv, 2022 (*Nanjing University of Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2201.01090)]
 
 ### Face
 * **FAU-Transformer**: "Facial Action Unit Detection With Transformers", CVPR, 2021 (*Rakuten Institute of Technology*). [[Paper](https://openaccess.thecvf.com/content/CVPR2021/html/Jacob_Facial_Action_Unit_Detection_With_Transformers_CVPR_2021_paper.html)]
@@ -967,6 +969,7 @@ If you find some ignored papers, please open issues. <br>
     * **RNGDet**: "RNGDet: Road Network Graph Detection by Transformer in Aerial Images", arXiv, 2022 (*HKUST*). [[Paper](https://arxiv.org/abs/2202.07824)]
 * Place Recognition:
     * **SVT-Net**: "SVT-Net: A Super Light-Weight Network for Large Scale Place Recognition using Sparse Voxel Transformers", AAAI, 2022 (*Renmin University of China*). [[Paper](https://arxiv.org/abs/2105.00149)]
+    * **TransVPR**: "TransVPR: Transformer-based place recognition with multi-level attention aggregation", arXiv, 2022 (*Xi'an Jiaotong*). [[Paper](https://arxiv.org/abs/2201.02001)]
 * Traffic:
     * **ViTAL**: "Novelty Detection and Analysis of Traffic Scenario Infrastructures in the Latent Space of a Vision Transformer-Based Triplet Autoencoder", IV, 2021 (*Technische Hochschule Ingolstadt*). [[Paper](https://arxiv.org/abs/2105.01924)]
     * **?**: "Predicting Vehicles Trajectories in Urban Scenarios with Transformer Networks and Augmented Information", IVS, 2021 (*Universidad de Alcala*). [[Paper](https://arxiv.org/abs/2106.00559)]
