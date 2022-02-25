@@ -377,7 +377,10 @@ If you find some ignored papers, please open issues. <br>
     * **Video-Swin**: "Video Swin Transformer", arXiv, 2021 (*Microsoft*). [[Paper](https://arxiv.org/abs/2106.13230)][[PyTorch](https://github.com/SwinTransformer/Video-Swin-Transformer)]
     * **VLF**: "VideoLightFormer: Lightweight Action Recognition using Transformers", arXiv, 2021 (*The University of Sheffield*). [[Paper](https://arxiv.org/abs/2107.00451)]
     * **ORViT**: "Object-Region Video Transformers", arXiv, 2021 (*Tel Aviv*). [[Paper](https://arxiv.org/abs/2110.06915)][[Website](https://roeiherz.github.io/ORViT/)]
+    * **Improved-MViT**: "Improved Multiscale Vision Transformers for Classification and Detection", arXiv, 2021 (*Meta*). [[Paper](https://arxiv.org/abs/2112.01526)]
     * **UniFormer**: "UniFormer: Unified Transformer for Efficient Spatiotemporal Representation Learning", ICLR, 2022 (*CAS + SenstTime*). [[Paper](https://arxiv.org/abs/2201.04676)][[PyTorch](https://github.com/Sense-X/UniFormer)]
+    * **MeMViT**: "MeMViT: Memory-Augmented Multiscale Vision Transformer for Efficient Long-Term Video Recognition", arXiv, 2022 (*Meta*). [[Paper](https://arxiv.org/abs/2201.08383)]
+    * **MTV**: "Multiview Transformers for Video Recognition", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2201.04288)]
 * Depth
     * **Trear**: "Trear: Transformer-based RGB-D Egocentric Action Recognition",  IEEE Transactions on Cognitive and Developmental Systems, 2021 (*Tianjing University*). [[Paper](https://ieeexplore.ieee.org/document/9312201)]
 * Pose:
@@ -426,6 +429,7 @@ If you find some ignored papers, please open issues. <br>
     * **MODETR**: "MODETR: Moving Object Detection with Transformers", arXiv, 2021 (*Valeo, Egypt*). [[Paper](https://arxiv.org/abs/2106.11422)]
     * **ST-MTL**: "Spatio-Temporal Multi-Task Learning Transformer for Joint Moving Object Detection and Segmentation", arXiv, 2021 (*Valeo, Egypt*). [[Paper](https://arxiv.org/abs/2106.11401)]
     * **ST-DETR**: "ST-DETR: Spatio-Temporal Object Traces Attention Detection Transformer", arXiv, 2021 (*Valeo, Egypt*). [[Paper](https://arxiv.org/abs/2107.05887)]
+    * **TransVOD**: "TransVOD: End-to-end Video Object Detection with Spatial-Temporal Transformers", arXiv, 2022 (*Shanghai Jiao Tong + SenseTime*). [[Paper](https://arxiv.org/abs/2201.05047)]
 * Video Retrieval
     * **SVRTN**: "Self-supervised Video Retrieval Transformer Network", arXiv, 2021 (*Alibaba*). [[Paper](https://arxiv.org/abs/2104.07993)]
 * Video Hashing
@@ -490,6 +494,7 @@ If you find some ignored papers, please open issues. <br>
 * **Referring-Transformer**: "Referring Transformer: A One-step Approach to Multi-task Visual Grounding", NeurIPS, 2021 (*UBC*). [[Paper](https://arxiv.org/abs/2106.03089)]
 * **VGTR**: "Visual Grounding with Transformers", arXiv, 2021 (*Beihang University*). [[Paper](https://arxiv.org/abs/2105.04281)]
 * **Word2Pix**: "Word2Pix: Word to Pixel Cross Attention Transformer in Visual Grounding", arXiv, 2021 (*A\*STAR*). [[Paper](https://arxiv.org/abs/2108.00205)]
+* **VidGTR**: "Explore and Match: End-to-End Video Grounding with Transformer", arXiv, 2022 (*KAIST*). [[Paper](https://arxiv.org/abs/2201.10168)]
 
 ### Representation Learning
 * **COOT**: "COOT: Cooperative Hierarchical Transformer for Video-Text Representation Learning", NeurIPS, 2020 (*University of Freiburg*). [[Paper](https://arxiv.org/abs/2011.00597)][[PyTorch](https://github.com/gingsi/coot-videotext)]
@@ -731,6 +736,7 @@ If you find some ignored papers, please open issues. <br>
 * **VSR-Transformer**: "Video Super-Resolution Transformer", arXiv, 2021 (*ETHZ*). [[Paper](https://arxiv.org/abs/2106.06847)][[PyTorch](https://github.com/caojiezhang/VSR-Transformer)]
 * **MANA**: "Memory-Augmented Non-Local Attention for Video Super-Resolution", arXiv, 2021 (*JD*). [[Paper](https://arxiv.org/abs/2108.11048)]
 * **VRT**: "VRT: A Video Restoration Transformer", arXiv, 2022 (*ETHZ*). [[Paper](https://arxiv.org/abs/2201.12288)][[PyTorch](https://github.com/JingyunLiang/VRT)]
+* **FGST**: "Flow-Guided Sparse Transformer for Video Deblurring", arXiv, 2022 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2201.01893)]
 
 ### Inpainting/Completion/Outpainting
 * **Contexual-Attention**: "Generative Image Inpainting with Contextual Attention", CVPR, 2018 (*UIUC*). [[Paper](https://arxiv.org/abs/1801.07892)][[Tensorflow](https://github.com/JiahuiYu/generative_inpainting)]
