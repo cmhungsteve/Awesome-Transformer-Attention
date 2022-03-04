@@ -761,7 +761,6 @@ If you find some ignored papers, please open issues. <br>
 * **SwinIR**: "SwinIR: Image Restoration Using Swin Transformer", ICCVW, 2021 (*ETHZ*). [[Paper](https://arxiv.org/abs/2108.10257)][[PyTorch](https://github.com/JingyunLiang/SwinIR)]
 * **ITSRN**: "Implicit Transformer Network for Screen Content Image Continuous Super-Resolution", NeurIPS, 2021 (*Tianjin University*). [[Paper](https://arxiv.org/abs/2112.06174)][[PyTorch](https://github.com/codyshen0000/ITSRN)]
 * **SDNet**: "SDNet: multi-branch for single image deraining using swin", arXiv, 2021 (*Xinjiang University*). [[Paper](https://arxiv.org/abs/2105.15077)][[Code (in construction)](https://github.com/H-tfx/SDNet)]
-* **Uformer**: "Uformer: A General U-Shaped Transformer for Image Restoration", arXiv, 2021 (*University of Science and Technology of China*). [[Paper](https://arxiv.org/abs/2106.03106)]
 * **FPAN**: "Feedback Pyramid Attention Networks for Single Image Super-Resolution", arXiv, 2021 (*Nanjing University of Science and Technology*). [[Paper](https://arxiv.org/abs/2106.06966)]
 * **ATTSF**: "Attention! Stay Focus!", arXiv, 2021 (*BridgeAI, Seoul*). [[Paper](https://arxiv.org/abs/2104.07925)][[Tensorflow](https://github.com/tuvovan/ATTSF)]
 * **ESRT**: "Efficient Transformer for Single Image Super-Resolution", arXiv, 2021 (*Peking University*). [[Paper](https://arxiv.org/abs/2108.11084)]
@@ -770,6 +769,8 @@ If you find some ignored papers, please open issues. <br>
 * **TANet**: "TANet: A new Paradigm for Global Face Super-resolution via Transformer-CNN Aggregation Network", arXiv, 2021 (*Wuhan Institute of Technology*). [[Paper](https://arxiv.org/abs/2109.08174)]
 * **DPT**: "Detail-Preserving Transformer for Light Field Image Super-Resolution", AAAI, 2022 (*Beijing Institute of Technology*). [[Paper](https://arxiv.org/abs/2201.00346)][[PyTorch](https://github.com/BITszwang/DPT)]
 * **SiamTrans**: "SiamTrans: Zero-Shot Multi-Frame Image Restoration with Pre-Trained Siamese Transformers", AAAI, 2022 (*Huawei*). [[Paper](https://arxiv.org/abs/2112.09426)]
+* **Uformer**: "Uformer: A General U-Shaped Transformer for Image Restoration", CVPR, 2022 (*University of Science and Technology of China*). [[Paper](https://arxiv.org/abs/2106.03106)][[PyTorch](https://github.com/ZhendongWang6/Uformer)]
+* **MAXIM**: "MAXIM: Multi-Axis MLP for Image Processing", CVPR, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2201.02973)]
 * **LFT**: "Light Field Image Super-Resolution with Transformers", IEEE Signal Processing Letters, 2022 (*National University of Defense Technology, China*). [[Paper](https://arxiv.org/abs/2108.07597)][[PyTorch](https://github.com/ZhengyuLiang24/LFT)]
 
 ### Video Restoration
