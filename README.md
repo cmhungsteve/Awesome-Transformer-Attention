@@ -247,6 +247,7 @@ If you find some ignored papers, please open issues. <br>
     * **Sparse-DETR**: "Sparse DETR: Efficient End-to-End Object Detection with Learnable Sparsity", ICLR, 2022 (*Kakao*). [[Paper](https://arxiv.org/abs/2111.14330)][[PyTorch](https://github.com/kakaobrain/sparse-detr)]
     * **DAB-DETR**: "DAB-DETR: Dynamic Anchor Boxes are Better Queries for DETR", ICLR, 2022 (*IDEA, China*). [[Paper](https://arxiv.org/abs/2201.12329)][[Code (in construction)](https://github.com/SlongLiu/DAB-DETR)]
     * **DN-DETR**: "DN-DETR: Accelerate DETR Training by Introducing Query DeNoising", CVPR, 2022 (*International Digital Economy Academy, China*). [[Paper](https://arxiv.org/abs/2203.01305)][[Code (in construction)](https://github.com/FengLi-ust/DN-DETR)]
+    * **KA**: "Knowledge Amalgamation for Object Detection with Transformers", arXiv, 2022 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2203.03187)]
 * Transformer-based backbone:
     * **ViT-FRCNN**: "Toward Transformer-Based Object Detection", arXiv, 2020 (*Pinterest*). [[Paper](https://arxiv.org/abs/2012.09958)]
     * **WB-DETR**: "WB-DETR: Transformer-Based Detector Without Backbone", ICCV, 2021 (*CAS*). [[Paper](https://openaccess.thecvf.com/content/ICCV2021/html/Liu_WB-DETR_Transformer-Based_Detector_Without_Backbone_ICCV_2021_paper.html)]
@@ -254,6 +255,7 @@ If you find some ignored papers, please open issues. <br>
     * **ViDT**: "ViDT: An Efficient and Effective Fully Transformer-based Object Detector", ICLR, 2022 (*NAVER*). [[Paper](https://arxiv.org/abs/2110.03921)][[PyTorch](https://github.com/naver-ai/vidt)]
     * **FP-DETR**: "FP-DETR: Detection Transformer Advanced by Fully Pre-training", ICLR, 2022 (*USTC*). [[Paper](https://openreview.net/forum?id=yjMQuLLcGWK)]
     * **D<sup>2</sup>ETR**: "D<sup>2</sup>ETR: Decoder-Only DETR with Computationally Efficient Cross-Scale Attention", arXiv, 2022 (*Alibaba*). [[Paper](https://arxiv.org/abs/2203.00860)]
+    * **DINO**: "DINO: DETR with Improved DeNoising Anchor Boxes for End-to-End Object Detection", arXiv, 2022 (*IDEA, China*). [[Paper](https://arxiv.org/abs/2203.03605)][[Code (in construction)](https://github.com/IDEACVR/DINO)]
 
 ### 3D Object Detection
 * **AST-GRU**: "LiDAR-based Online 3D Video Object Detection with Graph-based Message Passing and Spatiotemporal Transformer Attention", CVPR, 2020 (*Baidu*). [[Paper](https://arxiv.org/abs/2004.01389)][[Code (in construction)](https://github.com/yinjunbo/3DVID)]
@@ -376,6 +378,9 @@ If you find some ignored papers, please open issues. <br>
     * **CyCTR**: "Few-Shot Segmentation via Cycle-Consistent Transformer", NeurIPS, 2021 (*University of Technology Sydney*). [[Paper](https://arxiv.org/abs/2106.02320)]
     * **LSeg**: "Language-driven Semantic Segmentation", ICLR, 2022 (*Cornell*). [[Paper](https://arxiv.org/abs/2201.03546)][[PyTorch](https://github.com/isl-org/lang-seg)]
     * **TAFT**: "Task-Adaptive Feature Transformer with Semantic Enrichment for Few-Shot Segmentation", arXiv, 2022 (*KAIST*). [[Paper](https://arxiv.org/abs/2202.06498)]
+* Weakly-Supervised:
+    * **MCTformer**: "Multi-class Token Transformer for Weakly Supervised Semantic Segmentation", CVPR, 2022 (*The University of Western Australia*). [[Paper](https://arxiv.org/abs/2203.02891)][[Code (in construction)](https://github.com/xulianuwa/MCTformer)]
+    * **AFA**: "Learning Affinity from Attention: End-to-End Weakly-Supervised Semantic Segmentation with Transformers", CVPR, 2022 (*Wuhan University*). [[Paper](https://arxiv.org/abs/2203.02664)][[PyTorch](https://github.com/rulixiang/afa)]
 * Urban Scene:
     * **BANet**: "Transformer Meets Convolution: A Bilateral Awareness Net-work for Semantic Segmentation of Very Fine Resolution Ur-ban Scene Images", arXiv, 2021 (*Wuhan University*). [[Paper](https://arxiv.org/abs/2106.12413)] 
 * Crack Detection:
@@ -444,6 +449,7 @@ If you find some ignored papers, please open issues. <br>
 * **HORST**: "Higher Order Recurrent Space-Time Transformer", arXiv, 2021 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2104.08665)][[PyTorch](https://github.com/CorcovadoMing/HORST)]
 * **?**: "Action Forecasting with Feature-wise Self-Attention", arXiv, 2021 (*A\*STAR*). [[Paper](https://arxiv.org/abs/2107.08579)]
 * **?**: "Future Transformer for Long-term Action Anticipation", CVPR, 2022 (*POSTECH*). [[Paper]()]
+* **TTPP**: "TTPP: Temporal Transformer with Progressive Prediction for Efficient Action Anticipation", arXiv, 2022 (*CAS*). [[Paper](https://arxiv.org/abs/2003.03530)]
 
 ### Video Object Segmentation
 * **SSTVOS**: "SSTVOS: Sparse Spatiotemporal Transformers for Video Object Segmentation", CVPR, 2021 (*Modiface*). [[Paper](https://arxiv.org/abs/2101.08833)][[Code (in construction)](https://github.com/dukebw/SSTVOS)]
@@ -848,6 +854,8 @@ If you find some ignored papers, please open issues. <br>
 * **U-Attention**: "Paying U-Attention to Textures: Multi-Stage Hourglass Vision Transformer for Universal Texture Synthesis", arXiv, 2022 (*Adobe*). [[Paper](https://arxiv.org/abs/2202.11703)]
 * **MaskGIT**: "MaskGIT: Masked Generative Image Transformer", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2202.04200)][[PyTorch (dome272)](https://github.com/dome272/MaskGIT-pytorch)]
 * **Splice**: "Splicing ViT Features for Semantic Appearance Transfer", arXiv, 2022 (*Weizmann Institute of Science, Israel*). [[Paper](https://arxiv.org/abs/2201.00424)][[PyTorch](https://github.com/omerbt/Splice)][[Website](https://splice-vit.github.io/)]
+* **ViT-Patch**: "A Robust Framework of Chromosome Straightening with ViT-Patch GAN", arXiv, 2022 (*Xi'an Jiaotong-Liverpool University*). [[Paper](https://arxiv.org/abs/2203.02901)]
+* **UVCGAN**: "UVCGAN: UNet Vision Transformer cycle-consistent GAN for unpaired image-to-image translation", arXiv, 2022 (*Brookhaven National Laboratory, NY*). [[Paper](https://arxiv.org/abs/2203.02557)]
 
 ### Video Generation
 * **Subscale**: "Scaling Autoregressive Video Models", ICLR, 2020 (*Google*). [[Paper](https://openreview.net/forum?id=rJgsskrFwH)][[Website](https://sites.google.com/view/video-transformer-samples)]
@@ -866,6 +874,7 @@ If you find some ignored papers, please open issues. <br>
     * **ViT-I-GAN**: "ViT-Inception-GAN for Image Colourising", arXiv, 2021 (*D.Y Patil College of Engineering, India*). [[Paper](https://arxiv.org/abs/2106.06321)]
 * Enhancement:
     * **STAR**: "STAR: A Structure-Aware Lightweight Transformer for Real-Time Image Enhancement", ICCV, 2021 (*CUHK + SenseBrain*). [[Paper](https://openaccess.thecvf.com/content/ICCV2021/html/Zhang_STAR_A_Structure-Aware_Lightweight_Transformer_for_Real-Time_Image_Enhancement_ICCV_2021_paper.html)]
+    * **PanFormer**: "PanFormer: a Transformer Based Model for Pan-sharpening", ICME, 2022 (*Beihang University*). [[Paper](https://arxiv.org/abs/2203.02916)][[PyTorch](https://github.com/zhysora/PanFormer)]
 * Harmonization:
     * **HT**: "Image Harmonization With Transformer", ICCV, 2021 (*Ocean University of China*). [[Paper](https://openaccess.thecvf.com/content/ICCV2021/html/Guo_Image_Harmonization_With_Transformer_ICCV_2021_paper.html)]
 * Image Compression:
@@ -1008,6 +1017,8 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **TPSKG**: "Transformer with Peak Suppression and Knowledge Guidance for Fine-grained Image Recognition", arXiv, 2021 (*Beihang University*). [[Paper](https://arxiv.org/abs/2107.06538)]
     * **AFTrans**: "A free lunch from ViT: Adaptive Attention Multi-scale Fusion Transformer for Fine-grained Visual Recognition", arXiv, 2021 (*Peking University*). [[Paper](https://arxiv.org/abs/2110.01240)]
     * **TransFG**: "TransFG: A Transformer Architecture for Fine-grained Recognition", AAAI, 2022 (*Johns Hopkins*). [[Paper](https://arxiv.org/abs/2103.07976)][[PyTorch](https://github.com/TACJu/TransFG)]
+    * **DynamicMLP**: "Dynamic MLP for Fine-Grained Image Classification by Leveraging Geographical and Temporal Information", CVPR, 2022 (*Megvii*). [[Paper](https://arxiv.org/abs/2203.03253)][[PyTorch](https://github.com/ylingfeng/DynamicMLP)]
+    * **MetaFormer**: "MetaFormer: A Unified Meta Framework for Fine-Grained Recognition", arXiv, 2022 (*ByteDance*). [[Paper](https://arxiv.org/abs/2203.02751)][[PyTorch](https://github.com/dqshuai/MetaFormer)]
 * Image Quality Assessment:
     * **TRIQ**: "Transformer for Image Quality Assessment", arXiv, 2020 (*NORCE*). [[Paper](https://arxiv.org/abs/2101.01097)][[Tensorflow-Keras](https://github.com/junyongyou/triq)]
     * **IQT**: "Perceptual Image Quality Assessment with Transformers", CVPRW, 2021 (*LG*). [[Paper](https://arxiv.org/abs/2104.14730)][[Code (in construction)](https://github.com/manricheon/IQT)]
@@ -1230,6 +1241,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
         * "A Survey of Transformers", arXiv, 2021 (*Fudan*). [[Paper](https://arxiv.org/abs/2106.04554)]
         * "A Survey on Visual Transformer", arXiv, 2021 (*Huawei*). [[Paper](https://arxiv.org/abs/2012.12556)]
         * "A Survey of Visual Transformers", arXiv, 2021 (*CAS*). [[Paper](https://arxiv.org/abs/2111.06091)]
+        * "Are we ready for a new paradigm shift? A Survey on Visual Deep MLP", arXiv, 2021 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2111.04060)]
         * "Efficient Transformers: A Survey", arXiv, 2020 (*Google*). [[Paper](https://arxiv.org/abs/2009.06732)]
         * "Attention mechanisms and deep learning for machine vision: A survey of the state of the art", arXiv, 2021 (*University of Kashmir*). [[Paper](https://arxiv.org/abs/2106.07550)]
     * Online Resources:
