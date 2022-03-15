@@ -71,6 +71,7 @@ If you find some ignored papers, please open issues. <br>
 * **CrossFormer**: "CrossFormer: A Versatile Vision Transformer Based on Cross-scale Attention", ICLR, 2022 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2108.00154)][[PyTorch](https://github.com/cheerss/CrossFormer)]
 * **?**: "Scaling the Depth of Vision Transformers via the Fourier Domain Analysis", ICLR, 2022 (*UT Austin*). [[Paper](https://openreview.net/forum?id=O476oWmiNNp)]
 * **MPViT**: "MPViT: Multi-Path Vision Transformer for Dense Prediction", CVPR, 2022 (*KAIST*). [[Paper](https://arxiv.org/abs/2112.11010)][[PyTorch](https://github.com/youngwanLEE/MPViT)]
+* **Diverse-ViT**: "The Principle of Diversity: Training Stronger Vision Transformers Calls for Reducing All Levels of Redundancy", CVPR, 2022 (*UT Austin*). [[Paper](https://arxiv.org/abs/2203.06345)][[PyTorch](https://github.com/VITA-Group/Diverse-ViT)]
 * **BViT**: "BViT: Broad Attention based Vision Transformer", arXiv, 2022 (*CAS*). [[Paper](https://arxiv.org/abs/2202.06268)]
 * **PyramidTNT**: "PyramidTNT: Improved Transformer-in-Transformer Baselines with Pyramid Architecture", arXiv, 2022 (*Huawei*). [[Paper](https://arxiv.org/abs/2201.00978)][[PyTorch](https://github.com/huawei-noah/CV-Backbones/tree/master/tnt_pytorch)]
 * **DAT**: "Vision Transformer with Deformable Attention", arXiv, 2022 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2201.00520)][[PyTorch](https://github.com/LeapLabTHU/DAT)]
@@ -314,6 +315,7 @@ If you find some ignored papers, please open issues. <br>
     * **TriTransNet**: "TriTransNet: RGB-D Salient Object Detection with a Triplet Transformer Embedding Network", arXiv, 2021 (*Anhui University*). [[Paper](https://arxiv.org/abs/2108.03990)]
     * **AbiU-Net**: "Boosting Salient Object Detection with Transformer-based Asymmetric Bilateral U-Net", arXiv, 2021 (*Nankai University*). [[Paper](https://arxiv.org/abs/2108.07851)]
     * **TranSalNet**: "TranSalNet: Visual saliency prediction using transformers", arXiv, 2021 (*Cardiff University, UK*). [[Paper](https://arxiv.org/abs/2110.03593)]
+    * **DFTR**: "DFTR: Depth-supervised Hierarchical Feature Fusion Transformer for Salient Object Detection", arXiv, 2022 (*Tencent*). [[Paper](https://arxiv.org/abs/2203.06429)]
 * Anomaly Detection:
     * **VT-ADL**: "VT-ADL: A Vision Transformer Network for Image Anomaly Detection and Localization", ISIE, 2021 (*University of Udine, Italy*). [[Paper](https://arxiv.org/abs/2104.10036)]
     * **InTra**: "Inpainting Transformer for Anomaly Detection", arXiv, 2021 (*Fujitsu*). [[Paper](https://arxiv.org/abs/2104.13897)]
@@ -482,6 +484,7 @@ If you find some ignored papers, please open issues. <br>
 * Video Instance Segmentation
     * **VisTR**: "End-to-End Video Instance Segmentation with Transformers", CVPR, 2021 (*Meituan*). [[Paper](https://arxiv.org/abs/2011.14503)][[PyTorch](https://github.com/Epiphqny/VisTR)]
     * **IFC**: "Video Instance Segmentation using Inter-Frame Communication Transformers", NeurIPS, 2021 (*Yonsei University*). [[Paper](https://arxiv.org/abs/2106.03299)][[PyTorch](https://github.com/sukjunhwang/IFC)]
+    * **Deformable-VisTR**: "Deformable VisTR: Spatio temporal deformable attention for video instance segmentation", ICASSP, 2022 (*University at Buffalo*). [[Paper](https://arxiv.org/abs/2203.06318)][[Code (in construction)](https://github.com/skrya/DefVIS)]
 * Video Object Detection:
     * **TransVOD**: "End-to-End Video Object Detection with Spatial-Temporal Transformers", arXiv, 2021 (*Shanghai Jiao Tong + SenseTime*). [[Paper](https://arxiv.org/abs/2105.10920)][[Code (in construction)](https://github.com/SJTU-LuHe/TransVOD)]
     * **MODETR**: "MODETR: Moving Object Detection with Transformers", arXiv, 2021 (*Valeo, Egypt*). [[Paper](https://arxiv.org/abs/2106.11422)]
@@ -772,7 +775,9 @@ If you find some ignored papers, please open issues. <br>
     * **FAT**: "Facial Attribute Transformers for Precise and Robust Makeup Transfer", WACV, 2022 (*University of Rochester*). [[Paper](https://arxiv.org/abs/2104.02894)]
     * **SSAT**: "SSAT: A Symmetric Semantic-Aware Transformer Network for Makeup Transfer and Removal", AAAI, 2022 (*Wuhan University*). [[Paper](https://arxiv.org/abs/2112.03631)][[PyTorch](https://gitee.com/sunzhaoyang0304/ssat-msp)]
     * **ICT**: "Protecting Celebrities with Identity Consistency Transformer", CVPR, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2203.01318)]
+    * **SLPT**: "Sparse Local Patch Transformer for Robust Face Alignment and Landmarks Inherent Relation Learning", CVPR, 2022 (*University of Technology Sydney*). [[Paper](https://arxiv.org/abs/2203.06541)][[PyTorch](https://github.com/Jiahao-UTS/SLPT-master)]
     * **RestoreFormer**: "RestoreFormer: High-Quality Blind Face Restoration From Undegraded Key-Value Pairs", arXiv, 2022 (*HKU*). [[Paper](https://arxiv.org/abs/2201.06374)]
+    * **EventFormer**: "EventFormer: AU Event Transformer for Facial Action Unit Event Detection", arXiv, 2022 (*Peking*). [[Paper](https://arxiv.org/abs/2203.06355)]
 * Attack-related:
     * **?**: "Video Transformer for Deepfake Detection with Incremental Learning", ACMMM, 2021 (*MBZUAI*). [[Paper](https://arxiv.org/abs/2108.05307)]
     * **ViTranZFAS**: "On the Effectiveness of Vision Transformers for Zero-shot Face Anti-Spoofing", International Joint Conference on Biometrics (IJCB), 2021 (*Idiap*). [[Paper](https://arxiv.org/abs/2011.08019)]
@@ -827,6 +832,7 @@ If you find some ignored papers, please open issues. <br>
 * **MAXIM**: "MAXIM: Multi-Axis MLP for Image Processing", CVPR, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2201.02973)]
 * **HyperTransformer**: "HyperTransformer: A Textural and Spectral Feature Fusion Transformer for Pansharpening", CVPR, 2022 (*JHU*). [[Paper](https://arxiv.org/abs/2203.02503)][[PyTorch](https://github.com/wgcban/HyperTransformer)]
 * **LFT**: "Light Field Image Super-Resolution with Transformers", IEEE Signal Processing Letters, 2022 (*National University of Defense Technology, China*). [[Paper](https://arxiv.org/abs/2108.07597)][[PyTorch](https://github.com/ZhengyuLiang24/LFT)]
+* **ELAN**: "Efficient Long-Range Attention Network for Image Super-resolution", arXiv, 2022 (*The Hong Kong Polytechnic University*). [[Paper](https://arxiv.org/abs/2203.06697)][[Code (in construction)](https://github.com/xindongzhang/ELAN)]
 
 ### Video Restoration
 * **VSR-Transformer**: "Video Super-Resolution Transformer", arXiv, 2021 (*ETHZ*). [[Paper](https://arxiv.org/abs/2106.06847)][[PyTorch](https://github.com/caojiezhang/VSR-Transformer)]
@@ -999,6 +1005,7 @@ If you find some ignored papers, please open issues. <br>
     * **COTR**: "COTR: Convolution in Transformer Network for End to End Polyp Detection", arXiv, 2021 (*Fuzhou University*). [[Paper](https://arxiv.org/abs/2105.10925)]
     * **TR-Net**: "Transformer Network for Significant Stenosis Detection in CCTA of Coronary Arteries", arXiv, 2021 (*Harbin Institute of Technology*). [[Paper](https://arxiv.org/abs/2107.03035)]
     * **CAE-Transformer**: "CAE-Transformer: Transformer-based Model to Predict Invasiveness of Lung Adenocarcinoma Subsolid Nodules from Non-thin Section 3D CT Scans", arXiv, 2021 (*Concordia University, Canada*). [[Paper](https://arxiv.org/abs/2110.08721)]
+    * **DATR**: "DATR: Domain-adaptive transformer for multi-domain landmark detection", arXiv, 2022 (*CAS*). [[Paper](https://arxiv.org/abs/2203.06433)]
 * Reconstruction:
     * **T<sup>2</sup>Net**: "Task Transformer Network for Joint MRI Reconstruction and Super-Resolution", MICCAI, 2021 (*Harbin Institute of Technology*). [[Paper](https://arxiv.org/abs/2106.06742)][[PyTorch](https://github.com/chunmeifeng/T2Net)]
     * **FIT**: "Fourier Image Transformer", arXiv, 2021 (*MPI*). [[Paper](https://arxiv.org/abs/2104.02555)][[PyTorch](https://github.com/juglab/FourierImageTransformer)]
@@ -1090,6 +1097,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **TAM-RTM**: "Boosting Crowd Counting with Transformers", arXiv, 2021 (*ETHZ*). [[Paper](https://arxiv.org/abs/2105.10926)]
     * **CCTrans**: "CCTrans: Simplifying and Improving Crowd Counting with Transformer", arXiv, 2021 (*Meituan*). [[Paper](https://arxiv.org/abs/2109.14483)]
     * **SAANet**: "Scene-Adaptive Attention Network for Crowd Counting", arXiv, 2022 (*Xi'an Jiaotong*). [[Paper](https://arxiv.org/abs/2112.15509)]
+    * **JCTNet**: "Joint CNN and Transformer Network via weakly supervised Learning for efficient crowd counting", arXiv, 2022 (*Chongqing University*). [[Paper](https://arxiv.org/abs/2203.06388)]
 * Remote Sensing/Hyperspectral:
     * **DCFAM**: "Transformer Meets DCFAM: A Novel Semantic Segmentation Scheme for Fine-Resolution Remote Sensing Images", arXiv, 2021 (*Wuhan University*). [[Paper](https://arxiv.org/abs/2104.12137)]
     * **WiCNet**: "Looking Outside the Window: Wider-Context Transformer for the Semantic Segmentation of High-Resolution Remote Sensing Images", arXiv, 2021 (*University of Trento*). [[Paper](https://arxiv.org/abs/2106.15754)]
