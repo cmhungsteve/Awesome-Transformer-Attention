@@ -398,13 +398,15 @@ If you find some ignored papers, please open issues. <br>
     * **AFA**: "Learning Affinity from Attention: End-to-End Weakly-Supervised Semantic Segmentation with Transformers", CVPR, 2022 (*Wuhan University*). [[Paper](https://arxiv.org/abs/2203.02664)][[PyTorch](https://github.com/rulixiang/afa)]
     * **TransCAM**: "TransCAM: Transformer Attention-based CAM Refinement for Weakly Supervised Semantic Segmentation", arXiv, 2022 (*University of Toronto*). [[Paper](https://arxiv.org/abs/2203.07239)][[PyTorch](https://github.com/liruiwen/TransCAM)]
 * Urban Scene:
-    * **BANet**: "Transformer Meets Convolution: A Bilateral Awareness Net-work for Semantic Segmentation of Very Fine Resolution Ur-ban Scene Images", arXiv, 2021 (*Wuhan University*). [[Paper](https://arxiv.org/abs/2106.12413)] 
+    * **BANet**: "Transformer Meets Convolution: A Bilateral Awareness Net-work for Semantic Segmentation of Very Fine Resolution Urban Scene Images", arXiv, 2021 (*Wuhan University*). [[Paper](https://arxiv.org/abs/2106.12413)] 
 * Crack Detection:
     * **CrackFormer**: "CrackFormer: Transformer Network for Fine-Grained Crack Detection", ICCV, 2021 (*Nanjing University of Science and Technology*). [[Paper](https://openaccess.thecvf.com/content/ICCV2021/html/Liu_CrackFormer_Transformer_Network_for_Fine-Grained_Crack_Detection_ICCV_2021_paper.html)]
 * Camouflaged Object Detection:
     * **UGTR**: "Uncertainty-Guided Transformer Reasoning for Camouflaged Object Detection", ICCV, 2021 (*Group42, Abu Dhabi*). [[Paper](https://openaccess.thecvf.com/content/ICCV2021/html/Yang_Uncertainty-Guided_Transformer_Reasoning_for_Camouflaged_Object_Detection_ICCV_2021_paper.html)][[PyTorch](https://github.com/fanyang587/UGTR)]
 * Background Separation:
     * **TransBlast**: "TransBlast: Self-Supervised Learning Using Augmented Subspace With Transformer for Background/Foreground Separation", ICCVW, 2021 (*University of British Columbia*). [[Paper](https://openaccess.thecvf.com/content/ICCV2021W/RSLCV/html/Osman_TransBlast_Self-Supervised_Learning_Using_Augmented_Subspace_With_Transformer_for_BackgroundForeground_ICCVW_2021_paper.html)]
+* Scene Understanding:
+    * **InvPT**: "Inverted Pyramid Multi-task Transformer for Dense Scene Understanding", arXiv, 2022 (*HKUST*). [[Paper](https://arxiv.org/abs/2203.07997)]
 
 
 ## Video (High-level)
@@ -833,6 +835,7 @@ If you find some ignored papers, please open issues. <br>
 * **HyperTransformer**: "HyperTransformer: A Textural and Spectral Feature Fusion Transformer for Pansharpening", CVPR, 2022 (*JHU*). [[Paper](https://arxiv.org/abs/2203.02503)][[PyTorch](https://github.com/wgcban/HyperTransformer)]
 * **LFT**: "Light Field Image Super-Resolution with Transformers", IEEE Signal Processing Letters, 2022 (*National University of Defense Technology, China*). [[Paper](https://arxiv.org/abs/2108.07597)][[PyTorch](https://github.com/ZhengyuLiang24/LFT)]
 * **ELAN**: "Efficient Long-Range Attention Network for Image Super-resolution", arXiv, 2022 (*The Hong Kong Polytechnic University*). [[Paper](https://arxiv.org/abs/2203.06697)][[Code (in construction)](https://github.com/xindongzhang/ELAN)]
+* **ACT**: "Rich CNN-Transformer Feature Aggregation Networks for Super-Resolution", arXiv, 2022 (*LG*). [[Paper](https://arxiv.org/abs/2203.07682)]
 
 ### Video Restoration
 * **VSR-Transformer**: "Video Super-Resolution Transformer", arXiv, 2021 (*ETHZ*). [[Paper](https://arxiv.org/abs/2106.06847)][[PyTorch](https://github.com/caojiezhang/VSR-Transformer)]
@@ -885,6 +888,7 @@ If you find some ignored papers, please open issues. <br>
 * **StyleSwin**: "StyleSwin: Transformer-based GAN for High-resolution Image Generation", arXiv, 2021 (*Microsoft*). [[Paper](https://arxiv.org/abs/2112.10762)]
 * **ViTGAN**: "ViTGAN: Training GANs with Vision Transformers", ICLR, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2107.04589)][[PyTorch (wilile26811249)](https://github.com/wilile26811249/ViTGAN)]
 * **ViT-VQGAN**: "Vector-quantized Image Modeling with Improved VQGAN", ICLR, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2110.04627)]
+* **Style-Transformer**: "Style Transformer for Image Inversion and Editing", CVPR, 2022 (*East China Normal University*). [[Paper](https://arxiv.org/abs/2203.07932)][[Code (in construction)](https://github.com/sapphire497/style-transformer)]
 * **U-Attention**: "Paying U-Attention to Textures: Multi-Stage Hourglass Vision Transformer for Universal Texture Synthesis", arXiv, 2022 (*Adobe*). [[Paper](https://arxiv.org/abs/2202.11703)]
 * **MaskGIT**: "MaskGIT: Masked Generative Image Transformer", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2202.04200)][[PyTorch (dome272)](https://github.com/dome272/MaskGIT-pytorch)]
 * **Splice**: "Splicing ViT Features for Semantic Appearance Transfer", arXiv, 2022 (*Weizmann Institute of Science, Israel*). [[Paper](https://arxiv.org/abs/2201.00424)][[PyTorch](https://github.com/omerbt/Splice)][[Website](https://splice-vit.github.io/)]
@@ -1006,6 +1010,7 @@ If you find some ignored papers, please open issues. <br>
     * **TR-Net**: "Transformer Network for Significant Stenosis Detection in CCTA of Coronary Arteries", arXiv, 2021 (*Harbin Institute of Technology*). [[Paper](https://arxiv.org/abs/2107.03035)]
     * **CAE-Transformer**: "CAE-Transformer: Transformer-based Model to Predict Invasiveness of Lung Adenocarcinoma Subsolid Nodules from Non-thin Section 3D CT Scans", arXiv, 2021 (*Concordia University, Canada*). [[Paper](https://arxiv.org/abs/2110.08721)]
     * **DATR**: "DATR: Domain-adaptive transformer for multi-domain landmark detection", arXiv, 2022 (*CAS*). [[Paper](https://arxiv.org/abs/2203.06433)]
+    * **SATr**: "SATr: Slice Attention with Transformer for Universal Lesion Detection", arXiv, 2022 (*CAS*). [[Paper](https://arxiv.org/abs/2203.07373)]
 * Reconstruction:
     * **T<sup>2</sup>Net**: "Task Transformer Network for Joint MRI Reconstruction and Super-Resolution", MICCAI, 2021 (*Harbin Institute of Technology*). [[Paper](https://arxiv.org/abs/2106.06742)][[PyTorch](https://github.com/chunmeifeng/T2Net)]
     * **FIT**: "Fourier Image Transformer", arXiv, 2021 (*MPI*). [[Paper](https://arxiv.org/abs/2104.02555)][[PyTorch](https://github.com/juglab/FourierImageTransformer)]
@@ -1074,6 +1079,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **CDTrans**: "CDTrans: Cross-domain Transformer for Unsupervised Domain Adaptation", ICLR, 2022 (*Alibaba*). [[Paper](https://arxiv.org/abs/2109.06165)][[PyTorch](https://github.com/CDTrans/CDTrans)]
     * **BCAT**: "Domain Adaptation via Bidirectional Cross-Attention Transformer", arXiv, 2022 (*Southern University of Science and Technology*). [[Paper](https://arxiv.org/abs/2201.05887)]
     * **DoTNet**: "Towards Unsupervised Domain Adaptation via Domain-Transformer", arXiv, 2022 (*Sun Yat-Sen University*). [[Paper](https://arxiv.org/abs/2202.13777)]
+    * **TransDA**: "Smoothing Matters: Momentum Transformer for Domain Adaptive Semantic Segmentation", arXiv, 2022 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2203.07988)][[Code (in construction)](https://github.com/alpc91/TransDA)]
 * Fashion:
     * **Kaleido-BERT**: "Kaleido-BERT: Vision-Language Pre-training on Fashion Domain", CVPR, 2021 (*Alibaba*). [[Paper](https://arxiv.org/abs/2103.16110)][[Tensorflow](https://github.com/mczhuge/Kaleido-BERT)]
     * **CIT**: "Cloth Interactive Transformer for Virtual Try-On", arXiv, 2021 (*University of Trento*). [[Paper](https://arxiv.org/abs/2104.05519)][[Code (in construction)](https://github.com/Amazingren/CIT)]
@@ -1176,6 +1182,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **Texformer**: "3D Human Texture Estimation from a Single Image with Transformers", ICCV, 2021 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2109.02563)][[PyTorch](https://github.com/xuxy09/Texformer)][[Website](https://www.mmlab-ntu.com/project/texformer/)]
 * 3D Motion Synthesis:
     * **ACTOR**: "Action-Conditioned 3D Human Motion Synthesis with Transformer VAE", ICCV, 2021 (*Univ Gustave Eiffel*). [[Paper](https://arxiv.org/abs/2104.05670)][[PyTorch](https://github.com/Mathux/ACTOR)][[Website](https://imagine.enpc.fr/~petrovim/actor/)]
+    * **ActFormer**: "ActFormer: A GAN Transformer Framework towards General Action-Conditioned 3D Human Motion Generation", arXiv, 2022 (*SenseTime*). [[Paper](https://arxiv.org/abs/2203.07706)]
 * 3D Object Recognition:
     * **MVT**: "MVT: Multi-view Vision Transformer for 3D Object Recognition", BMVC, 2021 (*Baidu*). [[Paper](https://arxiv.org/abs/2110.13083)]
 * 3D Reconstruction:
