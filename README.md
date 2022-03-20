@@ -181,6 +181,7 @@ If you find some ignored papers, please open issues. <br>
 * **Patch-Fool**: "Patch-Fool: Are Vision Transformers Always Robust Against Adversarial Perturbations?", ICLR, 2022 (*Rice University*). [[Paper](https://arxiv.org/abs/2203.08392)][[PyTorch](https://github.com/RICE-EIC/Patch-Fool)]
 * **Generalization-Enhanced-ViT**: "Delving Deep into the Generalization of Vision Transformers under Distribution Shifts", CVPR, 2022 (*Beihang University + NTU, Singapore*). [[Paper](https://arxiv.org/abs/2106.07617)]
 * **ECViT**: "Towards Practical Certifiable Patch Defense with Vision Transformer", CVPR, 2022 (*Tencent*).[[Paper](https://arxiv.org/abs/2203.08519)]
+* **?**: "Are Vision Transformers Robust to Spurious Correlations?", arXiv, 2022 (*UW-Madison*). [[Paper](https://arxiv.org/abs/2203.09125)]
 #### Model Compression + Transformer
 * **ViT-quant**: "Post-Training Quantization for Vision Transformer", NeurIPS, 2021 (*Huawei*). [[Paper](https://arxiv.org/abs/2106.14156)]
 * **VTP**: "Visual Transformer Pruning", arXiv, 2021 (*Huawei*). [[Paper](https://arxiv.org/abs/2104.08500)]
@@ -259,6 +260,7 @@ If you find some ignored papers, please open issues. <br>
     * **DN-DETR**: "DN-DETR: Accelerate DETR Training by Introducing Query DeNoising", CVPR, 2022 (*International Digital Economy Academy, China*). [[Paper](https://arxiv.org/abs/2203.01305)][[Code (in construction)](https://github.com/FengLi-ust/DN-DETR)]
     * **SAM-DETR**: "Accelerating DETR Convergence via Semantic-Aligned Matching", CVPR, 2022 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2203.06883)][[PyTorch (in construction)](https://github.com/ZhangGongjie/SAM-DETR)]
     * **KA**: "Knowledge Amalgamation for Object Detection with Transformers", arXiv, 2022 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2203.03187)]
+    * **DE-DETR**: "Towards Data-Efficient Detection Transformers", arXiv, 2022 (*JD*). [[Paper](https://arxiv.org/abs/2203.09507)][[Code (in construction)](https://github.com/encounter1997/DE-DETRs)]
 * Transformer-based backbone:
     * **ViT-FRCNN**: "Toward Transformer-Based Object Detection", arXiv, 2020 (*Pinterest*). [[Paper](https://arxiv.org/abs/2012.09958)]
     * **WB-DETR**: "WB-DETR: Transformer-Based Detector Without Backbone", ICCV, 2021 (*CAS*). [[Paper](https://openaccess.thecvf.com/content/ICCV2021/html/Liu_WB-DETR_Transformer-Based_Detector_Without_Backbone_ICCV_2021_paper.html)]
@@ -327,6 +329,7 @@ If you find some ignored papers, please open issues. <br>
     * **AIT**: "Adaptive Image Transformer for One-Shot Object Detection", CVPR, 2021 (*Academia Sinica*). [[Paper](https://openaccess.thecvf.com/content/CVPR2021/html/Chen_Adaptive_Image_Transformer_for_One-Shot_Object_Detection_CVPR_2021_paper.html)]
     * **Meta-DETR**: "Meta-DETR: Few-Shot Object Detection via Unified Image-Level Meta-Learning", arXiv, 2021 (*NTU Singapore*). [[Paper](https://arxiv.org/abs/2103.11731)]
     * **CAT**: "CAT: Cross-Attention Transformer for One-Shot Object Detection", arXiv, 2021 (*Northwestern Polytechnical University*). [[Paper](https://arxiv.org/abs/2104.14984)]
+    * **SaFT**: "Semantic-aligned Fusion Transformer for One-shot Object Detection", arXiv, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2203.09093)]
 * Co-Salient Object Detection:
     * **CoSformer**: "CoSformer: Detecting Co-Salient Object with Transformers", arXiv, 2021 (*Nanjing University*). [[Paper](https://arxiv.org/abs/2104.14729)]
 * Oriented Object Detection:
@@ -906,6 +909,7 @@ If you find some ignored papers, please open issues. <br>
 * **AIST++**: "Learn to Dance with AIST++: Music Conditioned 3D Dance Generation", arXiv, 2021 (*Google*). [[Paper](https://arxiv.org/abs/2101.08779)][[Code](https://github.com/google/aistplusplus_api)][[Website](https://google.github.io/aichoreographer/)]
 * **VideoGPT**: "VideoGPT: Video Generation using VQ-VAE and Transformers", arXiv, 2021 (*Berkeley*). [[Paper](https://arxiv.org/abs/2104.10157)][[PyTorch](https://github.com/wilson1yan/VideoGPT)][[Website](https://wilson1yan.github.io/videogpt/index.html)]
 * **DanceFormer**: "DanceFormer: Music Conditioned 3D Dance Generation with Parametric Motion Transformer", AAAI, 2022 (*Huiye Technology, China*). [[Paper](https://arxiv.org/abs/2103.10206)]
+* **Transframer**: "Transframer: Arbitrary Frame Prediction with Generative Models", arXiv, 2022 (*DeepMind*). [[Paper](https://arxiv.org/abs/2203.09494)]
 
 ### Video Reconstruction
 * **ET-Net**: "Event-Based Video Reconstruction Using Transformer", ICCV, 2021 (*University of Science and Technology of China*). [[Paper](https://openaccess.thecvf.com/content/ICCV2021/html/Weng_Event-Based_Video_Reconstruction_Using_Transformer_ICCV_2021_paper.html)][[PyTorch](https://github.com/WarranWeng/ET-Net)]
@@ -1064,6 +1068,8 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **T<sup>3</sup>**: "TrueType Transformer: Character and Font Style Recognition in Outline Format", Document Analysis Systems (DAS), 2022 (*Kyushu University*). [[Paper](https://arxiv.org/abs/2203.05338)]
 * Continual Learning:
     * **COLT**: "Transformers Are Better Continual Learners", arXiv, 2022 (*Hikvision*). [[Paper](https://arxiv.org/abs/2201.04924)]
+* Cross-View Geo-Localization:
+    * **MGTL**: "Mutual Generative Transformer Learning for Cross-view Geo-localization", arXiv, 2022 (*University of Electronic Science and Technology of China*). [[Paper](https://arxiv.org/abs/2203.09135)]
 * Crowd Counting:
     * **CC-AV**: "Audio-Visual Transformer Based Crowd Counting", ICCVW, 2021 (*University of Kansas*). [[Paper](https://arxiv.org/abs/2109.01926)]
     * **TransCrowd**: "TransCrowd: Weakly-Supervised Crowd Counting with Transformer", arXiv, 2021 (*Huazhong University of Science and Technology*). [[Paper](https://arxiv.org/abs/2104.09116)][[PyTorch](https://github.com/dk-liang/TransCrowd)]
@@ -1181,6 +1187,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **?**: "Latent Variable Sequential Set Transformers for Joint Multi-Agent Motion Prediction", ICLR, 2022 (*MILA*). [[Paper](https://openreview.net/forum?id=Dup_dDqkZC5)]
     * **Scene-Transformer**: "Scene Transformer: A unified architecture for predicting multiple agent trajectories", ICLR, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2106.08417)]
     * **LatentFormer**: "LatentFormer: Multi-Agent Transformer-Based Interaction Modeling and Trajectory Prediction", arXiv, 2022 (*Huawei*). [[Paper](https://arxiv.org/abs/2203.01880)]
+    * **PreTR**: "PreTR: Spatio-Temporal Non-Autoregressive Trajectory Prediction Transformer", arXiv, 2022 (*Stellantis, France*). [[Paper](https://arxiv.org/abs/2203.09293)]
 * Zero-/Few-Shot:
     * **ViT-ZSL**: "Multi-Head Self-Attention via Vision Transformer for Zero-Shot Learning", IMVIP, 2021 (*University of Exeter, UK*). [[Paper](https://arxiv.org/abs/2108.00045)]
     * **TransZero**: "TransZero: Attribute-guided Transformer for Zero-Shot Learning", AAAI, 2022 (*Huazhong University of Science and Technology*). [[Paper](https://arxiv.org/abs/2112.01683)][[PyTorch](https://github.com/shiming-chen/TransZero)]
@@ -1202,6 +1209,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
 * 360 Scene:
     * **?**: "Improving 360 Monocular Depth Estimation via Non-local Dense Prediction Transformer and Joint Supervised and Self-supervised Learning", AAAI, 2022 (*Seoul National University*). [[Paper](https://arxiv.org/abs/2109.10563)][[PyTorch](https://github.com/yuniw18/Joint_360depth)]
     * **SPH**: "Spherical Transformer", arXiv, 2022 (*Chung-Ang University, Korea*). [[Paper](https://arxiv.org/abs/2202.04942)]
+    * **PanoFormer**: "PanoFormer: Panorama Transformer for Indoor 360° Depth Estimation", arXiv, 2022 (*Beijing Jiaotong University*). [[Paper](https://arxiv.org/abs/2203.09283)]
 
 ---
 
