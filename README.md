@@ -825,6 +825,7 @@ We appreciate contributions in any form. <br>
     * **RestoreFormer**: "RestoreFormer: High-Quality Blind Face Restoration From Undegraded Key-Value Pairs", arXiv, 2022 (*HKU*). [[Paper](https://arxiv.org/abs/2201.06374)]
     * **EventFormer**: "EventFormer: AU Event Transformer for Facial Action Unit Event Detection", arXiv, 2022 (*Peking*). [[Paper](https://arxiv.org/abs/2203.06355)]
     * **MFT**: "Multi-Modal Learning for AU Detection Based on Multi-Head Fused Transformers", arXiv, 2022 (*SUNY Binghamton*). [[Paper](https://arxiv.org/abs/2203.11441)]
+    * **?**: "Transformer-based Multimodal Information Fusion for Facial Expression Analysis", arXiv, 2022 (*Netease, China*). [[Paper](https://arxiv.org/abs/2203.12367)]
 * Attack-related:
     * **?**: "Video Transformer for Deepfake Detection with Incremental Learning", ACMMM, 2021 (*MBZUAI*). [[Paper](https://arxiv.org/abs/2108.05307)]
     * **ViTranZFAS**: "On the Effectiveness of Vision Transformers for Zero-shot Face Anti-Spoofing", International Joint Conference on Biometrics (IJCB), 2021 (*Idiap*). [[Paper](https://arxiv.org/abs/2011.08019)]
@@ -835,6 +836,7 @@ We appreciate contributions in any form. <br>
     * **Cross-ViT**: "Combining EfficientNet and Vision Transformers for Video Deepfake Detection", arXiv, 2021 (*University of Pisa*). [[Paper](https://arxiv.org/abs/2107.02612)][[PyTorch](https://github.com/davide-coccomini/Combining-EfficientNet-and-Vision-Transformers-for-Video-Deepfake-Detection)]
     * **?**: "Self-supervised Transformer for Deepfake Detection", arXiv, 2022 (*USTC, China*). [[Paper](https://arxiv.org/abs/2203.01265)]
     * **ViTransPAD**: "ViTransPAD: Video Transformer using convolution and self-attention for Face Presentation Attack Detection", arXiv, 2022 (*University of La Rochelle, France*). [[Paper](https://arxiv.org/abs/2203.01562)]
+    * **ViTAF**: "Adaptive Transformers for Robust Few-shot Cross-domain Face Anti-spoofing", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2203.12175)]
 
 ### Neural Architecture Search
 * **HR-NAS**: "HR-NAS: Searching Efficient High-Resolution Neural Architectures with Lightweight Transformers", CVPR, 2021 (*HKU*). [[Paper](https://arxiv.org/abs/2106.06560)][[PyTorch](https://github.com/dingmyu/HR-NAS)]
@@ -850,6 +852,7 @@ We appreciate contributions in any form. <br>
 * **UniNet**: "UniNet: Unified Architecture Search with Convolution, Transformer, and MLP", arXiv, 2021 (*CUHK + SenseTime*). [[Paper](https://arxiv.org/abs/2110.04035)]
 * **As-ViT**: "Auto-scaling Vision Transformers without Training", ICLR, 2022 (*UT Austin*). [[Paper](https://arxiv.org/abs/2202.11921)][[PyTorch](https://github.com/VITA-Group/AsViT)]
 * **NASViT**: "NASViT: Neural Architecture Search for Efficient Vision Transformers with Gradient Conflict aware Supernet Training", ICLR, 2022 (*Facebook*). [[Paper](https://openreview.net/forum?id=Qaw16njk6L)]
+* **TF-TAS**: "Training-free Transformer Architecture Search", CVPR, 2022 (*Tencent*). [[Paper](https://arxiv.org/abs/2203.12217)]
 * **ViT-Slim**: "Vision Transformer Slimming: Multi-Dimension Searching in Continuous Optimization Space", arXiv, 2022 (*MBZUAI*). [[Paper](https://arxiv.org/abs/2201.00814)]
 * **VTCAS**: "Vision Transformer with Convolutions Architecture Search", arXiv, 2022 (*Donghua University*). [[Paper](https://arxiv.org/abs/2203.10435)]
 
@@ -1072,6 +1075,7 @@ We appreciate contributions in any form. <br>
 * **FIT**: "Fourier Image Transformer", arXiv, 2021 (*MPI*). [[Paper](https://arxiv.org/abs/2104.02555)][[PyTorch](https://github.com/juglab/FourierImageTransformer)]
 * **SLATER**: "Unsupervised MRI Reconstruction via Zero-Shot Learned Adversarial Transformers", arXiv, 2021 (*Bilkent University*). [[Paper](https://arxiv.org/abs/2105.08059)]
 * **MTrans**: "MTrans: Multi-Modal Transformer for Accelerated MR Imaging", arXiv, 2021 (*Harbin Institute of Technology*). [[Paper](https://arxiv.org/abs/2106.14248)][[PyTorch](https://github.com/chunmeifeng/MTrans)]
+* **?**: "Adaptively Re-weighting Multi-Loss Untrained Transformer for Sparse-View Cone-Beam CT Reconstruction", arXiv, 2022 (*Zhejiang Lab*). [[Paper](https://arxiv.org/abs/2203.12476)]
 
 ### Medical Others
 * **LAT**: "Lesion-Aware Transformers for Diabetic Retinopathy Grading", CVPR, 2021 (*USTC*). [[Paper](https://openaccess.thecvf.com/content/CVPR2021/html/Sun_Lesion-Aware_Transformers_for_Diabetic_Retinopathy_Grading_CVPR_2021_paper.html)]
@@ -1096,6 +1100,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
 * **CyTran**: "CyTran: Cycle-Consistent Transformers for Non-Contrast to Contrast CT Translation", arXiv, 2021 (*University Politehnica of Bucharest, Romania*). [[Paper](https://arxiv.org/abs/2110.06400)][[PyTorch](https://github.com/ristea/cycle-transformer)]
 * **RFormer**: "RFormer: Transformer-based Generative Adversarial Network for Real Fundus Image Restoration on A New Clinical Benchmark", arXiv, 2022 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2201.00466)]
 * **CTformer**: "CTformer: Convolution-free Token2Token Dilated Vision Transformer for Low-dose CT Denoising", arXiv, 2022 (*UMass Lowell*). [[Paper](https://arxiv.org/abs/2202.13517)][[PyTorch](https://github.com/wdayang/CTformer)]
+* **CSM**: "Contrastive Transformer-based Multiple Instance Learning for Weakly Supervised Polyp Frame Detection", arXiv, 2022 (*University of Adelaide, Australia*). [[Paper](https://arxiv.org/abs/2203.12121)]
 
 
 ## Other Tasks
