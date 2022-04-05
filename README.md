@@ -8,6 +8,23 @@ We appreciate contributions in any form. <br>
 ---
 ## Content
 
+- [Image Classification / Backbone](#image-classification--backbone)
+    - [Replace Conv w/ Attention](#replace-conv-w-attention)
+        - [Pure Attention](#pure-attention)
+        - [Conv-stem + Attention](#conv-stem--attention)
+        - [Conv + Attention](#conv--attention)
+    - [Vision Transformer](#vision-transformer)
+        - [General Vision Transformer](#general-vision-transformer)
+        - [Efficient Vision Transformer](#efficient-vision-transformer)
+        - [Conv + Transformer](#conv--transformer)
+        - [Training + Transformer](#training--transformer)
+        - [Robustness + Transformer](#robustness--transformer)
+        - [Model Compression + Transformer](#model-compression--transformer)
+    - [Attention-Free](#attention-free)
+        - [MLP-Series](#mlp-series)
+        - [Other Attention-Free](#other-attention-free)
+    - [Analysis for Transformer](#analysis-for-transformer)
+ 
 ---
 
 ## Image Classification / Backbone
@@ -30,7 +47,9 @@ We appreciate contributions in any form. <br>
 * **BoTNet**: "Bottleneck Transformers for Visual Recognition", CVPR, 2021 (*Google*). [[Paper](https://arxiv.org/abs/2101.11605)][[PyTorch-1 (lucidrains)](https://github.com/lucidrains/bottleneck-transformer-pytorch)][[PyTorch-2 (leaderj1001)](https://github.com/leaderj1001/BottleneckTransformers)]
 * **GCT**: "Gaussian Context Transformer", CVPR, 2021 (*Zhejiang University*). [[Paper](https://openaccess.thecvf.com/content/CVPR2021/html/Ruan_Gaussian_Context_Transformer_CVPR_2021_paper.html)]
 * **CoAtNet**: "CoAtNet: Marrying Convolution and Attention for All Data Sizes", NeurIPS, 2021 (*Google*). [[Paper](https://arxiv.org/abs/2106.04803)]
-    
+
+[[Back to Overview](#content)]
+
 ### Vision Transformer
 #### General Vision Transformer
 * **ViT**: "An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale", ICLR, 2021 (*Google*). [[Paper](https://openreview.net/forum?id=YicbFdNTTy)][[Tensorflow](https://github.com/google-research/vision_transformer)][[PyTorch (lucidrains)](https://github.com/lucidrains/vit-pytorch)]
@@ -209,7 +228,9 @@ We appreciate contributions in any form. <br>
 * **PSAQ-ViT**: "Patch Similarity Aware Data-Free Quantization for Vision Transformers", arXiv, 2022 (*CAS*). [[Paper](https://arxiv.org/abs/2203.02250)]
 * **VTP**: "Vision Transformer Compression with Structured Pruning and Low Rank Approximation", arXiv, 2022 (*UCLA*). [[Paper](https://arxiv.org/abs/2203.13444)]
 
-### Attention-Free
+[[Back to Overview](#content)]
+
+### Attention-Free 
 #### MLP-Series
 * **RepMLP**: "RepMLP: Re-parameterizing Convolutions into Fully-connected Layers for Image Recognition", arXiv, 2021 (*MEGVII*). [[Paper](https://arxiv.org/abs/2105.01883)][[PyTorch](https://github.com/DingXiaoH/RepMLP)]
 * **EAMLP**: "Beyond Self-attention: External Attention using Two Linear Layers for Visual Tasks", arXiv, 2021 (*Tsinghua University*). [[Paper](https://arxiv.org/abs/2105.02358)]
@@ -236,7 +257,9 @@ We appreciate contributions in any form. <br>
 * **PoolFormer**: "MetaFormer is Actually What You Need for Vision", CVPR, 2022 (*Sea AI Lab*). [[https://arxiv.org/abs/2111.11418]][[PyTorch](https://github.com/sail-sg/poolformer)]
 * **FocalNet**: "Focal Modulation Networks", arXiv, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2203.11926)][[PyTorch](https://github.com/microsoft/FocalNet)]
 
-### Analysis for Transformer
+[[Back to Overview](#content)]
+
+### Analysis for Transformer 
 * **Attention-CNN**: "On the Relationship between Self-Attention and Convolutional Layers", ICLR, 2020 (*EPFL*). [[Paper](https://openreview.net/forum?id=HJlnC1rKPB)][[PyTorch](https://github.com/epfml/attention-cnn)][[Website](https://epfml.github.io/attention-cnn/)]
 * **Transformer-Explainability**: "Transformer Interpretability Beyond Attention Visualization", CVPR, 2021 (*Tel Aviv*). [[Paper](https://arxiv.org/abs/2012.09838)][[PyTorch](https://github.com/hila-chefer/Transformer-Explainability)]
 * **?**: "Are Convolutional Neural Networks or Transformers more like human vision?", CogSci, 2021 (*Princeton*). [[Paper](https://arxiv.org/abs/2105.07197)]
@@ -256,6 +279,8 @@ We appreciate contributions in any form. <br>
 * **AWD-ViT**: "Visualizing and Understanding Patch Interactions in Vision Transformer", arXiv, 2022 (*JD*). [[Paper](https://arxiv.org/abs/2203.05922)]
 * **?**: "Three things everyone should know about Vision Transformers", arXiv, 2022 (*Meta*). [[Paper](https://arxiv.org/abs/2203.09795)]
 * **?**: "CNNs and Transformers Perceive Hybrid Images Similar to Humans", arXiv, 2022 (*Quintic AI, CA*). [[Paper](https://arxiv.org/abs/2203.11678)][[Code](https://github.com/aliborji/hybrid_images)]
+
+[[Back to Overview](#content)]
 
 
 ## Detection
