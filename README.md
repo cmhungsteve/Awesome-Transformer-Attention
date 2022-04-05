@@ -25,16 +25,60 @@ We appreciate contributions in any form. <br>
         - [Other Attention-Free](#other-attention-free)
     - [Analysis for Transformer](#analysis-for-transformer)
 - [Detection](#detection)
+    - [Object Detection](#object-detection)
+    - [3D Object Detection](#3d-object-detection)
+    - [Multi-Modal Detection](#multi-modal-detection)
+    - [Salient Object Detection](#salient-object-detection)
+    - [Other Detection Tasks](#other-detection-tasks)
 - [Segmentation](#segmentation)
+    - [Semantic Segmentation](#semantic-segmentation)
+    - [Object Segmentation](#object-segmentation)
+    - [Other Segmentation Tasks](#other-segmentation-tasks)
 - [Video (High-level)](#video-high-level)
+    - [Action Recognition](#action-recognition)
+    - [Action Detection/Localization](#action-detectionlocalization)
+    - [Action Prediction](#action-prediction)
+    - [Video Object Segmentation](#video-object-segmentation)
+    - [Other Video Tasks](#other-video-tasks)
 - [Multi-Modality](#multi-modality)
+    - [VQA / Captioning](#vqa--captioning)
+    - [Visual Grounding](#visual-grounding)
+    - [Multi-Modal Representation Learning](#multi-modal-representation-learning)
+    - [Multi-Modal Retrieval](#multi-modal-retrieval)
+    - [Visual Document Understanding](#visual-document-understanding)
+    - [Scene Graph](#scene-graph)
+    - [Other Multi-Modal Tasks](#other-multi-modal-tasks)
 - [Other High-level Vision Tasks](#other-high-level-vision-tasks)
+    - [Point Cloud](#point-cloud)
+    - [Pose Estimation](#pose-estimation)
+    - [Tracking](#tracking)
+    - [Re-ID](#re-id)
+    - [Face](#face)
+    - [Neural Architecture Search](#neural-architecture-search)
 - [Transfer / X-Supervised Learning / X-Shot Learning](#transfer--x-supervised-learning--x-shot-learning)
 - [Low-level Vision Tasks](#low-level-vision-tasks)
+    - [Image Restoration](#image-restoration)
+    - [Video Restoration](#video-restoration)
+    - [Inpainting/Completion/Outpainting](#inpaintingcompletionoutpainting)
+    - [Image Generation](#image-generation)
+    - [Video Generation](#video-generation)
+    - [Transfer/Translation](#transfertranslation)
+    - [Other Low-Level Tasks](#other-low-level-tasks)
 - [Reinforcement Learning](#reinforcement-learning)
+    - [Navigation](#navigation)
+    - [Other RL Tasks](#other-rl-tasks)
 - [Medical](#medical)
+    - [Medical Segmentation](#medical-segmentation)
+    - [Medical Classification](#medical-classification)
+    - [Medical Detection](#medical-detection)
+    - [Medical Reconstruction](#medical-detection)
+    - [Medical Others](#medical-others)
 - [Other Tasks](#other-tasks)
 - [Attention Mechanisms in Vision/NLP](#attention-mechanisms-in-visionnlp)
+    - [Attention for Vision](#attention-for-vision)
+    - [NLP](#attention-for-nlp)
+    - [Both](#attention-for-both)
+    - [Others](#attention-for-others)
 - [References](#references)
  
 ---
@@ -1147,12 +1191,6 @@ We appreciate contributions in any form. <br>
 
 [[Back to Overview](#overview)]
 
-### Reconstruction
-* **ET-Net**: "Event-Based Video Reconstruction Using Transformer", ICCV, 2021 (*University of Science and Technology of China*). [[Paper](https://openaccess.thecvf.com/content/ICCV2021/html/Weng_Event-Based_Video_Reconstruction_Using_Transformer_ICCV_2021_paper.html)][[PyTorch](https://github.com/WarranWeng/ET-Net)]
-* **GradViT**: "GradViT: Gradient Inversion of Vision Transformers", CVPR, 2022 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2203.11894)][[Website](https://gradvit.github.io/)]
-
-[[Back to Overview](#overview)]
-
 ### Other Low-Level Tasks
 * Colorization: 
     * **ColTran**: "Colorization Transformer", ICLR, 2021 (*Google*). [[Paper](https://openreview.net/forum?id=5NA1PinlGFu)][[Tensorflow](https://github.com/google-research/google-research/tree/master/coltran)]
@@ -1168,6 +1206,9 @@ We appreciate contributions in any form. <br>
     * **Contextformer**: "Contextformer: A Transformer with Spatio-Channel Attention for Context Modeling in Learned Image Compression", arXiv, 2022 (*TUM*). [[Paper](https://arxiv.org/abs/2203.02452)]
 * Matting:
     * **MatteFormer**: "MatteFormer: Transformer-Based Image Matting via Prior-Tokens", arXiv, 2022 (*SNU + NAVER*). [[Paper](https://arxiv.org/abs/2203.15662)]
+* Reconstruction
+    * **ET-Net**: "Event-Based Video Reconstruction Using Transformer", ICCV, 2021 (*University of Science and Technology of China*). [[Paper](https://openaccess.thecvf.com/content/ICCV2021/html/Weng_Event-Based_Video_Reconstruction_Using_Transformer_ICCV_2021_paper.html)][[PyTorch](https://github.com/WarranWeng/ET-Net)]
+    * **GradViT**: "GradViT: Gradient Inversion of Vision Transformers", CVPR, 2022 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2203.11894)][[Website](https://gradvit.github.io/)]
 * Others:
     * **MS-Unet**: "Semi-Supervised Wide-Angle Portraits Correction by Multi-Scale Transformer", arXiv, 2021 (*MEGVII*). [[Paper](https://arxiv.org/abs/2109.08024)]
     * **TransMEF**: "TransMEF: A Transformer-Based Multi-Exposure Image Fusion Framework using Self-Supervised Multi-Task Learning", AAAI, 2022 (*Fudan*). [[Paper](https://arxiv.org/abs/2112.01030)]
@@ -1478,7 +1519,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
 ---
 
 ## Attention Mechanisms in Vision/NLP
-### Vision
+### Attention for Vision
 * **AA**: "Attention Augmented Convolutional Networks", ICCV, 2019 (*Google*). [[Paper](https://arxiv.org/abs/1904.09925)][[PyTorch (Unofficial)](https://github.com/leaderj1001/Attention-Augmented-Conv2d)][[Tensorflow (Unofficial)](https://github.com/titu1994/keras-attention-augmented-convs)]
 * **LR-Net**: "Local Relation Networks for Image Recognition", ICCV, 2019 (*Microsoft*). [[Paper](https://arxiv.org/abs/1904.11491)][[PyTorch (Unofficial)](https://github.com/gan3sh500/local-relational-nets)]
 * **CCNet**: "CCNet: Criss-Cross Attention for Semantic Segmentation", ICCV, 2019 (& TPAMI 2020) (*Horizon*). [[Paper](https://arxiv.org/abs/1811.11721)][[PyTorch](https://github.com/speedinghzl/CCNet)]
@@ -1515,7 +1556,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
 
 [[Back to Overview](#overview)]
 
-### NLP
+### Attention for NLP
 * **T-DMCA**: "Generating Wikipedia by Summarizing Long Sequences", ICLR, 2018 (*Google*). [[Paper](https://openreview.net/forum?id=Hyg0vbWC-)]
 * **LSRA**: "Lite Transformer with Long-Short Range Attention", ICLR, 2020 (*MIT*). [[Paper](https://openreview.net/forum?id=ByeMPlHKPH)][[PyTorch](https://github.com/mit-han-lab/lite-transformer)]
 * **ETC**: "ETC: Encoding Long and Structured Inputs in Transformers", EMNLP, 2020 (*Google*). [[Paper](https://arxiv.org/abs/2004.08483)][[Tensorflow](https://github.com/google-research/google-research/tree/master/etcmodel)]
@@ -1538,7 +1579,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
 
 [[Back to Overview](#overview)]
 
-### Both
+### Attention for Both
 * **Sparse-Transformer**: "Generating Long Sequences with Sparse Transformers", arXiv, 2019 (rejected by ICLR 2020) (*OpenAI*). [[Paper](https://arxiv.org/abs/1904.10509)][[Tensorflow](https://github.com/openai/sparse_attention)][[Blog](https://openai.com/blog/sparse-transformer/)]
 * **Reformer**: "Reformer: The Efficient Transformer", ICLR, 2020 (*Google*). [[Paper](https://openreview.net/forum?id=rkgNKkHtvB)][[Tensorflow](https://github.com/google/trax/tree/master/trax/models/reformer)][[Blog](https://ai.googleblog.com/2020/01/reformer-efficient-transformer.html)] 
 * **Sinkhorn-Transformer**: "Sparse Sinkhorn Attention", ICML, 2020 (*Google*). [[Paper](https://arxiv.org/abs/2002.11296)][[PyTorch (Unofficial)](https://github.com/lucidrains/sinkhorn-transformer)]
@@ -1558,7 +1599,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
 
 [[Back to Overview](#overview)]
 
-### Others
+### Attention for Others
 * **Informer**: "Informer: Beyond Efficient Transformer for Long Sequence Time-Series Forecasting", AAAI, 2021 (*Beihang University*). [[Paper](https://arxiv.org/abs/2012.07436)][[PyTorch](https://github.com/zhouhaoyi/Informer2020)]
 * **Attention-Rank-Collapse**: "Attention is Not All You Need: Pure Attention Loses Rank Doubly Exponentially with Depth", ICML, 2021 (*Google + EPFL*). [[Paper](https://arxiv.org/abs/2103.03404)][[PyTorch](https://github.com/twistedcubic/attention-rank-collapse)]
 * **NPT**: "Self-Attention Between Datapoints: Going Beyond Individual Input-Output Pairs in Deep Learning", arXiv, 2021 (*Oxford*). [[Paper](https://arxiv.org/abs/2106.02584)]
