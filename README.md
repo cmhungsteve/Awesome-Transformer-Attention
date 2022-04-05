@@ -308,6 +308,7 @@ We appreciate contributions in any form. <br>
 * **MonoDTR**: "MonoDTR: Monocular 3D Object Detection with Depth-Aware Transformer", CVPR, 2022 (*NTU*). [[Paper](https://arxiv.org/abs/2203.10981)][[Code (in construction)](https://github.com/kuanchihhuang/MonoDTR)]
 * **VoxSeT**: "Voxel Set Transformer: A Set-to-Set Approach to 3D Object Detection from Point Clouds", CVPR, 2022 (*The Hong Kong Polytechnic University*). [[Paper](https://arxiv.org/abs/2203.10314)][[PyTorch](https://github.com/skyhehe123/VoxSeT)]
 * **TransFusion**: "TransFusion: Robust LiDAR-Camera Fusion for 3D Object Detection with Transformers", CVPR, 2022 (*HKUST*). [[Paper](https://arxiv.org/abs/2203.11496)][[PyTorch](https://github.com/XuyangBai/TransFusion)]
+* **CAT-Det**: "CAT-Det: Contrastively Augmented Transformer for Multi-modal 3D Object Detection", CVPR, 2022 (*Beihang University*). [[Paper](https://arxiv.org/abs/2204.00325)]
 * **PETR**: "PETR: Position Embedding Transformation for Multi-View 3D Object Detection", arXiv, 2022 (*MEGVII*). [[Paper](https://arxiv.org/abs/2203.05625)]
 * **MonoDETR**: "MonoDETR: Depth-aware Transformer for Monocular 3D Object Detection", arXiv, 2022 (*Shanghai AI Laboratory*). [[Paper](https://arxiv.org/abs/2203.13310)][[Code (in construction)](https://github.com/ZrrSkywalker/MonoDETR)]
 
@@ -419,6 +420,7 @@ We appreciate contributions in any form. <br>
 * **PFT**: "Pyramid Fusion Transformer for Semantic Segmentation", arXiv, 2022 (*CUHK + SenseTime*). [[Paper](https://arxiv.org/abs/2201.04019)]
 * **DFlatFormer**: "Dual-Flattening Transformers through Decomposed Row and Column Queries for Semantic Segmentation", arXiv, 2022 (*OPPO*). [[Paper](https://arxiv.org/abs/2201.09139)]
 * **FeSeFormer**: "Feature Selective Transformer for Semantic Image Segmentation", arXiv, 2022 (*Baidu*). [[Paper](https://arxiv.org/abs/2203.14124)]
+* **StructToken**: "StructToken : Rethinking Semantic Segmentation with Structural Prior", arXiv, 2022 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2203.12612)]
 
 ### Object Segmentation
 * **SOTR**: "SOTR: Segmenting Objects with Transformers", ICCV, 2021 (*China Agricultural University*). [[Paper](https://arxiv.org/abs/2108.06747)][[PyTorch](https://github.com/easton-cau/SOTR)]
@@ -499,6 +501,7 @@ We appreciate contributions in any form. <br>
     * **DirecFormer**: "DirecFormer: A Directed Attention in Transformer Approach to Robust Action Recognition", CVPR, 2022 (*University of Arkansas*). [[Paper](https://arxiv.org/abs/2203.10233)][[Code (in construction)](https://github.com/uark-cviu/DirecFormer)]
     * **MeMViT**: "MeMViT: Memory-Augmented Multiscale Vision Transformer for Efficient Long-Term Video Recognition", arXiv, 2022 (*Meta*). [[Paper](https://arxiv.org/abs/2201.08383)]
     * **MTV**: "Multiview Transformers for Video Recognition", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2201.04288)]
+    * **MSCA**: "Vision Transformer with Cross-attention by Temporal Shift for Efficient Action Recognition", arXiv, 2022 (*Nagoya Institute of Technology*). [[Paper](https://arxiv.org/abs/2204.00452)]
 * Depth
     * **Trear**: "Trear: Transformer-based RGB-D Egocentric Action Recognition",  IEEE Transactions on Cognitive and Developmental Systems, 2021 (*Tianjing University*). [[Paper](https://ieeexplore.ieee.org/document/9312201)]
 * Pose:
@@ -826,6 +829,7 @@ We appreciate contributions in any form. <br>
 * **ToMP**: "Transforming Model Prediction for Tracking", CVPR, 2022 (*ETHZ*). [[Paper](https://arxiv.org/abs/2203.11192)][[PyTorch](https://github.com/visionml/pytracking)]
 * **GTR**: "Global Tracking Transformers", CVPR, 2022 (*UT Austin*). [[Paper](https://arxiv.org/abs/2203.13250)][[PyTorch](https://github.com/xingyizhou/GTR)]
 * **UTT**: "Unified Transformer Tracker for Object Tracking", CVPR, 2022 (*Meta*). [[Paper](https://arxiv.org/abs/2203.15175)][[Code (in construction)](https://github.com/Flowerfan/Trackron)]
+* **MeMOT**: "MeMOT: Multi-Object Tracking with Memory", CVPR, 2022 (*Amazon*). [[Paper](https://arxiv.org/abs/2203.16761)]
 * **TransT-M**: "High-Performance Transformer Tracking", arXiv, 2022 (*Dalian University of Technology*). [[Paper](https://arxiv.org/abs/2203.13533)]
 * **HCAT**: "Efficient Visual Tracking via Hierarchical Cross-Attention Transformer", arXiv, 2022 (*Dalian University of Technology*). [[Paper](https://arxiv.org/abs/2203.13537)]
 * **?**: "Keypoints Tracking via Transformer Networks", arXiv, 2022 (*KAIST*). [[Paper](https://arxiv.org/abs/2203.12848)][[PyTorch](https://github.com/LexaNagiBator228/Keypoints-Tracking-via-Transformer-Networks/)]
@@ -1241,6 +1245,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **HGTTR**: "End-to-End Human-Gaze-Target Detection with Transformers", arXiv, 2022 (*Shanghai Jiao Tong*). [[Paper](https://arxiv.org/abs/2203.10433)]
 * Geo-Localization:
     * **EgoTR**: "Cross-view Geo-localization with Evolving Transformer", arXiv, 2021 (*Shenzhen University*). [[Paper](https://arxiv.org/abs/2107.00842)]
+    * **TransGeo**: "TransGeo: Transformer Is All You Need for Cross-view Image Geo-localization", CVPR, 2022 (*UCF*). [[Paper](https://arxiv.org/abs/2204.00097)][[Code (in construction)](https://github.com/Jeff-Zilence/TransGeo2022)]
 * Homography Estimation:
     * **LocalTrans**: "LocalTrans: A Multiscale Local Transformer Network for Cross-Resolution Homography Estimation", ICCV, 2021 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2106.04067)]
 * Image Quality Assessment:
