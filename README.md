@@ -1236,6 +1236,7 @@ We appreciate contributions in any form. <br>
 ### Other RL Tasks
 * **SVEA**: "Stabilizing Deep Q-Learning with ConvNets and Vision Transformers under Data Augmentation", arXiv, 2021 (*UCSD*). [[Paper](https://arxiv.org/abs/2107.00644)][[GitHub](https://github.com/nicklashansen/dmcontrol-generalization-benchmark)][[Website](https://nicklashansen.github.io/SVEA/)]
 * **LocoTransformer**: "Learning Vision-Guided Quadrupedal Locomotion End-to-End with Cross-Modal Transformers", ICLR, 2022 (*UCSD*). [[Paper](https://arxiv.org/abs/2107.03996)][[Website](https://rchalyang.github.io/LocoTransformer/)]
+* **STAM**: "Consistency driven Sequential Transformers Attention Model for Partially Observable Scenes", CVPR, 2022 (*McGill University, Canada*). [[Paper](https://arxiv.org/abs/2204.00656)][[PyTorch](https://github.com/samrudhdhirangrej/STAM-Sequential-Transformers-Attention-Model)]
 
 [[Back to Overview](#overview)]
 
