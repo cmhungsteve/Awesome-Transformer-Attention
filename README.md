@@ -3,7 +3,7 @@
 A comprehensive paper list of Vision Transformer/Attention. <br>
 If you find some ignored papers, *feel free to open issues or create pull requests*. <br>
 We appreciate contributions in any form. <br>
-(Keep updating)
+(Actively keep updating)
 
 ---
 ## Overview
@@ -55,7 +55,7 @@ We appreciate contributions in any form. <br>
     - [Re-ID](#re-id)
     - [Face](#face)
     - [Neural Architecture Search](#neural-architecture-search)
-- [Transfer / X-Supervised Learning / X-Shot Learning](#transfer--x-supervised-learning--x-shot-learning)
+- [Transfer / X-Supervised / X-Shot Learning](#transfer--x-supervised--x-shot-learning)
 - [Low-level Vision Tasks](#low-level-vision-tasks)
     - [Image Restoration](#image-restoration)
     - [Video Restoration](#video-restoration)
@@ -1057,7 +1057,7 @@ We appreciate contributions in any form. <br>
 [[Back to Overview](#overview)]
 
 
-## Transfer / X-Supervised Learning / X-Shot Learning
+## Transfer / X-Supervised / X-Shot Learning
 * Domain Adaptation/Generalization:
     * **TransDA**: "Transformer-Based Source-Free Domain Adaptation", arXiv, 2021 (*Haerbin Institute of Technology*). [[Paper](https://arxiv.org/abs/2105.14138)][[PyTorch](https://github.com/ygjwd12345/TransDA)]
     * **TVT**: "TVT: Transferable Vision Transformer for Unsupervised Domain Adaptation", arXiv, 2021 (*UT Arlington + Kuaishou*). [[Paper](https://arxiv.org/abs/2108.05988)]
