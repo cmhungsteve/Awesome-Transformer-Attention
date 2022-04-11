@@ -3,7 +3,7 @@
 This repo contains a comprehensive paper list of **Vision Transformer & Attention**, including papers, codes, and related websites. <br>
 This list is maintained by [Min-Hung Chen](https://minhungchen.netlify.app/). (*Actively* keep updating) <br>
 If you find some ignored papers, feel free to *open issues* or *create pull requests*. <br>
-We appreciate contributions in any form to make this list more comprehensive. <br>
+Contributions in any form to make this list more comprehensive are welcome. <br>
 If you find this repository useful, please consider [citing](#citation) and STARing this list. And feel free to share this list with others! <br>
 
 ---
