@@ -1,10 +1,13 @@
 # Ultimate-Awesome-Transformer-Attention [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 This repo contains a comprehensive paper list of **Vision Transformer & Attention**, including papers, codes, and related websites. <br>
-This list is maintained by [Min-Hung Chen](https://minhungchen.netlify.app/). (*Actively* keep updating) <br>
-If you find some ignored papers, feel free to *open issues* or *create pull requests*. <br>
-Contributions in any form to make this list more comprehensive are welcome. <br>
-If you find this repository useful, please consider [citing](#citation) and STARing this list. And feel free to share this list with others! <br>
+This list is maintained by [Min-Hung Chen](https://minhungchen.netlify.app/). (*Actively* keep updating)
+
+If you find some ignored papers, feel free to *open issues* or *create pull requests*. <br> 
+Contributions in any form to make this list more comprehensive are welcome.
+
+If you find this repository useful, please consider [citing](#citation) and STARing this list. <br>
+Feel free to share this list with others! 
 
 ---
 ## Overview
