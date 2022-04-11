@@ -1,9 +1,10 @@
 # Ultimate-Awesome-Transformer-Attention [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A comprehensive paper list of Vision Transformer/Attention. <br>
-If you find some ignored papers, *feel free to open issues or create pull requests*. <br>
-We appreciate contributions in any form. <br>
-(Actively keep updating)
+This repo contains a comprehensive paper list of **Vision Transformer & Attention**, including papers, codes, and related websites. <br>
+This list is maintained by [Min-Hung Chen](https://minhungchen.netlify.app/). (*Actively* keep updating) <br>
+If you find some ignored papers, feel free to *open issues* or *create pull requests*. <br>
+We appreciate contributions in any form to make this list more comprehensive. <br>
+If you find this repository useful, please consider [citing](#citation) and STAR this list. <br>
 
 ---
 ## Overview
@@ -80,6 +81,7 @@ We appreciate contributions in any form. <br>
     - [NLP](#attention-for-nlp)
     - [Both](#attention-for-both)
     - [Others](#attention-for-others)
+- [Citation](#citation)
 - [References](#references)
  
 ---
@@ -1633,27 +1635,38 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
 [[Back to Overview](#overview)]
 
 ---
+## Citation
+If you find this repository useful, please consider citing this list:
+```
+@misc{chen2022transformerpaperlist,
+    title = {Ultimate awesome paper list: transformer and attention},
+    author = {Chen, Min-Hung},
+    journal = {GitHub repository},
+    url = {https://github.com/cmhungsteve/Awesome-Transformer-Attention},
+    year = {2022},
+}
+```
+
+---
 
 ## References
-
-* References:
-    * Survey:
-        * "A Comprehensive Study of Vision Transformers on Dense Prediction Tasks", VISAP, 2022 (*NavInfo Europe, Netherlands*). [[Paper](https://arxiv.org/abs/2201.08683)]
-        * "Vision Transformers in Medical Computer Vision - A Contemplative Retrospection", arXiv, 2022 (*National University of Sciences and Technology (NUST), Pakistan*). [[Paper](https://arxiv.org/abs/2203.15269)]
-        * "Video Transformers: A Survey", arXiv, 2022 (*Universitat de Barcelona, Spain*). [[Paper](https://arxiv.org/abs/2201.05991)] 
-        * "Transformers in Medical Image Analysis: A Review", arXiv, 2022 (*Nanjing University*). [[Paper](https://arxiv.org/abs/2202.12165)]
-        * "Recent Advances in Vision Transformer: A Survey and Outlook of Recent Work", arXiv, 2022 (*?*). [[Paper](https://arxiv.org/abs/2203.01536)]
-        * "Transformers Meet Visual Learning Understanding: A Comprehensive Review", arXiv, 2022 (*Xidian University*). [[Paper](https://arxiv.org/abs/2203.12944)]
-        * "Transformers in Vision: A Survey", ACM Computing Surveys, 2021 (*MBZUAI*). [[Paper](https://arxiv.org/abs/2101.01169)]
-        * "Survey: Transformer based Video-Language Pre-training", arXiv, 2021 (*Renmin University of China*). [[Paper](https://arxiv.org/abs/2109.09920)]
-        * "A Survey of Transformers", arXiv, 2021 (*Fudan*). [[Paper](https://arxiv.org/abs/2106.04554)]
-        * "A Survey on Visual Transformer", arXiv, 2021 (*Huawei*). [[Paper](https://arxiv.org/abs/2012.12556)]
-        * "A Survey of Visual Transformers", arXiv, 2021 (*CAS*). [[Paper](https://arxiv.org/abs/2111.06091)]
-        * "Are we ready for a new paradigm shift? A Survey on Visual Deep MLP", arXiv, 2021 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2111.04060)]
-        * "Efficient Transformers: A Survey", arXiv, 2020 (*Google*). [[Paper](https://arxiv.org/abs/2009.06732)]
-        * "Attention mechanisms and deep learning for machine vision: A survey of the state of the art", arXiv, 2021 (*University of Kashmir*). [[Paper](https://arxiv.org/abs/2106.07550)]
-    * Online Resources:
-        * [Transformer-in-Vision (GitHub)](https://github.com/DirtyHarryLYL/Transformer-in-Vision)   
-        * [Awesome Visual-Transformer (GitHub)](https://github.com/dk-liang/Awesome-Visual-Transformer)
-        * [Awesome Transformer for Vision Resources List (GitHub)](https://github.com/lijiaman/awesome-transformer-for-vision)
-        * [Transformer-in-Computer-Vision (GitHub)](https://github.com/Yangzhangcst/Transformer-in-Computer-Vision)
+* Survey:
+    * "A Comprehensive Study of Vision Transformers on Dense Prediction Tasks", VISAP, 2022 (*NavInfo Europe, Netherlands*). [[Paper](https://arxiv.org/abs/2201.08683)]
+    * "Vision Transformers in Medical Computer Vision - A Contemplative Retrospection", arXiv, 2022 (*National University of Sciences and Technology (NUST), Pakistan*). [[Paper](https://arxiv.org/abs/2203.15269)]
+    * "Video Transformers: A Survey", arXiv, 2022 (*Universitat de Barcelona, Spain*). [[Paper](https://arxiv.org/abs/2201.05991)] 
+    * "Transformers in Medical Image Analysis: A Review", arXiv, 2022 (*Nanjing University*). [[Paper](https://arxiv.org/abs/2202.12165)]
+    * "Recent Advances in Vision Transformer: A Survey and Outlook of Recent Work", arXiv, 2022 (*?*). [[Paper](https://arxiv.org/abs/2203.01536)]
+    * "Transformers Meet Visual Learning Understanding: A Comprehensive Review", arXiv, 2022 (*Xidian University*). [[Paper](https://arxiv.org/abs/2203.12944)]
+    * "Transformers in Vision: A Survey", ACM Computing Surveys, 2021 (*MBZUAI*). [[Paper](https://arxiv.org/abs/2101.01169)]
+    * "Survey: Transformer based Video-Language Pre-training", arXiv, 2021 (*Renmin University of China*). [[Paper](https://arxiv.org/abs/2109.09920)]
+    * "A Survey of Transformers", arXiv, 2021 (*Fudan*). [[Paper](https://arxiv.org/abs/2106.04554)]
+    * "A Survey on Visual Transformer", arXiv, 2021 (*Huawei*). [[Paper](https://arxiv.org/abs/2012.12556)]
+    * "A Survey of Visual Transformers", arXiv, 2021 (*CAS*). [[Paper](https://arxiv.org/abs/2111.06091)]
+    * "Are we ready for a new paradigm shift? A Survey on Visual Deep MLP", arXiv, 2021 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2111.04060)]
+    * "Efficient Transformers: A Survey", arXiv, 2020 (*Google*). [[Paper](https://arxiv.org/abs/2009.06732)]
+    * "Attention mechanisms and deep learning for machine vision: A survey of the state of the art", arXiv, 2021 (*University of Kashmir*). [[Paper](https://arxiv.org/abs/2106.07550)]
+* Online Resources:
+    * [Transformer-in-Vision (GitHub)](https://github.com/DirtyHarryLYL/Transformer-in-Vision)   
+    * [Awesome Visual-Transformer (GitHub)](https://github.com/dk-liang/Awesome-Visual-Transformer)
+    * [Awesome Transformer for Vision Resources List (GitHub)](https://github.com/lijiaman/awesome-transformer-for-vision)
+    * [Transformer-in-Computer-Vision (GitHub)](https://github.com/Yangzhangcst/Transformer-in-Computer-Vision)
