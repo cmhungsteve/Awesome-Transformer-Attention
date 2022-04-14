@@ -94,11 +94,11 @@ Feel free to share this list with others!
 #### Pure Attention
 * **LR-Net**: "Local Relation Networks for Image Recognition", ICCV, 2019 (*Microsoft*). [[Paper](https://arxiv.org/abs/1904.11491)][[PyTorch (gan3sh500)](https://github.com/gan3sh500/local-relational-nets)]
 * **SASA**: "Stand-Alone Self-Attention in Vision Models", NeurIPS, 2019 (*Google*). [[Paper](https://arxiv.org/abs/1906.05909)][[PyTorch-1 (leaderj1001)](https://github.com/leaderj1001/Stand-Alone-Self-Attention)][[PyTorch-2 (MerHS)](https://github.com/MerHS/SASA-pytorch)]
-* **Axial-Transformer**: "Axial Attention in Multidimensional Transformers", arXiv, 2019 (rejected by ICLR 2020) (*Google*). [[Paper](https://openreview.net/forum?id=H1e5GJBtDr)][[PyTorch (lucidrains)](https://github.com/lucidrains/axial-attention)]
+* **Axial-Transformer**: "Axial Attention in Multidimensional Transformers", arXiv, 2019 (*Google*). [[Paper](https://openreview.net/forum?id=H1e5GJBtDr)][[PyTorch (lucidrains)](https://github.com/lucidrains/axial-attention)]
 * **SAN**: "Exploring Self-attention for Image Recognition", CVPR, 2020 (*CUHK + Intel*). [[Paper](https://arxiv.org/abs/2004.13621)][[PyTorch](https://github.com/hszhao/SAN)]
 * **Axial-DeepLab**: "Axial-DeepLab: Stand-Alone Axial-Attention for Panoptic Segmentation", ECCV, 2020 (*Google*). [[Paper](https://arxiv.org/abs/2003.07853)][[PyTorch](https://github.com/csrhddlam/axial-deeplab)]
 #### Conv-stem + Attention
-* **GSA**: "Global Self-Attention Networks for Image Recognition", arXiv, 2020 (rejected by ICLR 2021) (*Google*). [[Paper](https://openreview.net/forum?id=KiFeuZu24k)][[PyTorch (lucidrains)](https://github.com/lucidrains/global-self-attention-network)]
+* **GSA**: "Global Self-Attention Networks for Image Recognition", arXiv, 2020 (*Google*). [[Paper](https://openreview.net/forum?id=KiFeuZu24k)][[PyTorch (lucidrains)](https://github.com/lucidrains/global-self-attention-network)]
 * **HaloNet**: "Scaling Local Self-Attention For Parameter Efficient Visual Backbones", CVPR, 2021 (*Google*). [[Paper](https://arxiv.org/abs/2103.12731)][[PyTorch (lucidrains)](https://github.com/lucidrains/halonet-pytorch)]
 * **CoTNet**: "Contextual Transformer Networks for Visual Recognition", CVPRW, 2021 (*JD*). [[Paper](https://arxiv.org/abs/2107.12292)][[PyTorch](https://github.com/JDAI-CV/CoTNet)]
 * **TransCNN**: "Transformer in Convolutional Neural Networks", arXiv, 2021 (*ETHZ*). [[Paper](https://arxiv.org/abs/2106.03180)]
@@ -1585,12 +1585,12 @@ Pekin*). [[Paper](https://arxiv.org/abs/2204.04654)][[Code (in construction)](ht
 * **GCNet**: "Global Context Networks", ICCVW, 2019 (& TPAMI 2020) (*Microsoft*). [[Paper](https://arxiv.org/abs/2012.13375)][[PyTorch](https://github.com/xvjiarui/GCNet)]
 * **SASA**: "Stand-Alone Self-Attention in Vision Models", NeurIPS, 2019 (*Google*). [[Paper](https://arxiv.org/abs/1906.05909)][[PyTorch-1 (Unofficial)](https://github.com/leaderj1001/Stand-Alone-Self-Attention)][[PyTorch-2 (Unofficial)](https://github.com/MerHS/SASA-pytorch)]
     * key message: attention module is more efficient than conv & provide comparable accuracy
-* **Axial-Transformer**: "Axial Attention in Multidimensional Transformers", arXiv, 2019 (rejected by ICLR 2020) (*Google*). [[Paper](https://openreview.net/forum?id=H1e5GJBtDr)][[PyTorch (Unofficial)](https://github.com/lucidrains/axial-attention)]
+* **Axial-Transformer**: "Axial Attention in Multidimensional Transformers", arXiv, 2019 (*Google*). [[Paper](https://openreview.net/forum?id=H1e5GJBtDr)][[PyTorch (Unofficial)](https://github.com/lucidrains/axial-attention)]
 * **Attention-CNN**: "On the Relationship between Self-Attention and Convolutional Layers", ICLR, 2020 (*EPFL*). [[Paper](https://openreview.net/forum?id=HJlnC1rKPB)][[PyTorch](https://github.com/epfml/attention-cnn)][[Website](https://epfml.github.io/attention-cnn/)]
 * **SAN**: "Exploring Self-attention for Image Recognition", CVPR, 2020 (*CUHK + Intel*). [[Paper](https://arxiv.org/abs/2004.13621)][[PyTorch](https://github.com/hszhao/SAN)]
 * **BA-Transform**: "Non-Local Neural Networks With Grouped Bilinear Attentional Transforms", CVPR, 2020 (*ByteDance*). [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Chi_Non-Local_Neural_Networks_With_Grouped_Bilinear_Attentional_Transforms_CVPR_2020_paper.html)]
 * **Axial-DeepLab**: "Axial-DeepLab: Stand-Alone Axial-Attention for Panoptic Segmentation", ECCV, 2020 (*Google*). [[Paper](https://arxiv.org/abs/2003.07853)][[PyTorch](https://github.com/csrhddlam/axial-deeplab)]
-* **GSA**: "Global Self-Attention Networks for Image Recognition", arXiv, 2020 (rejected by ICLR 2021) (*Google*). [[Paper](https://openreview.net/forum?id=KiFeuZu24k)][[PyTorch (Unofficial)](https://github.com/lucidrains/global-self-attention-network)]
+* **GSA**: "Global Self-Attention Networks for Image Recognition", arXiv, 2020 (*Google*). [[Paper](https://openreview.net/forum?id=KiFeuZu24k)][[PyTorch (Unofficial)](https://github.com/lucidrains/global-self-attention-network)]
 * **EA**: "Efficient Attention: Attention with Linear Complexities", WACV, 2021 (*SenseTime*). [[Paper](https://arxiv.org/abs/1812.01243)][[PyTorch](https://github.com/cmsflash/efficient-attention)]
 * **LambdaNetworks**: "LambdaNetworks: Modeling long-range Interactions without Attention", ICLR, 2021 (*Google*). [[Paper](https://openreview.net/forum?id=xTJEN-ggl1b)][[PyTorch-1 (Unofficial)](https://github.com/lucidrains/lambda-networks)][[PyTorch-2 (Unofficial)](https://github.com/leaderj1001/LambdaNetworks)]
 * **GSA-Nets**: "Group Equivariant Stand-Alone Self-Attention For Vision", ICLR, 2021 (*EPFL*). [[Paper](https://openreview.net/forum?id=JkfYjnOEo6M)]
@@ -1639,7 +1639,7 @@ Pekin*). [[Paper](https://arxiv.org/abs/2204.04654)][[Code (in construction)](ht
 [[Back to Overview](#overview)]
 
 ### Attention for Both
-* **Sparse-Transformer**: "Generating Long Sequences with Sparse Transformers", arXiv, 2019 (rejected by ICLR 2020) (*OpenAI*). [[Paper](https://arxiv.org/abs/1904.10509)][[Tensorflow](https://github.com/openai/sparse_attention)][[Blog](https://openai.com/blog/sparse-transformer/)]
+* **Sparse-Transformer**: "Generating Long Sequences with Sparse Transformers", arXiv, 2019 (*OpenAI*). [[Paper](https://arxiv.org/abs/1904.10509)][[Tensorflow](https://github.com/openai/sparse_attention)][[Blog](https://openai.com/blog/sparse-transformer/)]
 * **Reformer**: "Reformer: The Efficient Transformer", ICLR, 2020 (*Google*). [[Paper](https://openreview.net/forum?id=rkgNKkHtvB)][[Tensorflow](https://github.com/google/trax/tree/master/trax/models/reformer)][[Blog](https://ai.googleblog.com/2020/01/reformer-efficient-transformer.html)] 
 * **Sinkhorn-Transformer**: "Sparse Sinkhorn Attention", ICML, 2020 (*Google*). [[Paper](https://arxiv.org/abs/2002.11296)][[PyTorch (Unofficial)](https://github.com/lucidrains/sinkhorn-transformer)]
 * **Linear-Transformer**: "Transformers are rnns: Fast autoregressive transformers with linear attention", ICML, 2020 (*Idiap*). [[Paper](https://arxiv.org/abs/2006.16236)][[PyTorch](https://github.com/idiap/fast-transformers)][[Website](https://linear-transformers.com/)]
