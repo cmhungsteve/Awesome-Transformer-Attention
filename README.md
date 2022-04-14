@@ -728,7 +728,7 @@ Feel free to share this list with others!
 
 ## Multi-Modality
 ### VQA / Captioning
-* **Masked Transformers**: "End-to-End Dense Video Captioning with Masked Transformer", CVPR 2018 (UMich + Salesforce). [[Paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Zhou_End-to-End_Dense_Video_CVPR_2018_paper.pdf)][[PyTorch](https://github.com/salesforce/densecap)]
+* **Masked Transformers**: "End-to-End Dense Video Captioning with Masked Transformer", CVPR, 2018 (*UMich + Salesforce*). [[Paper](https://openaccess.thecvf.com/content_cvpr_2018/html/Zhou_End-to-End_Dense_Video_CVPR_2018_paper.html)][[PyTorch](https://github.com/salesforce/densecap)]
 * **MCAN**: "Deep Modular Co-Attention Networks for Visual Question Answering", CVPR, 2019 (*Hangzhou Dianzi University*). [[Paper](https://arxiv.org/abs/1906.10770)][[PyTorch](https://github.com/MILVLG/mcan-vqa)]
 * **ETA-Transformer**: "Entangled Transformer for Image Captioning", ICCV, 2019 (*UTS*). [[Paper](https://openaccess.thecvf.com/content_ICCV_2019/html/Li_Entangled_Transformer_for_Image_Captioning_ICCV_2019_paper.html)]
 * **M4C**: "Iterative Answer Prediction with Pointer-Augmented Multimodal Transformers for TextVQA", CVPR, 2020 (*Facebook*). [[Paper](https://arxiv.org/abs/1911.06258)]
@@ -787,14 +787,14 @@ Feel free to share this list with others!
 [[Back to Overview](#overview)]
 
 ### Multi-Modal Representation Learning
-* **LXMERT**: "LXMERT: Learning Cross-Modality Encoder Representations from Transformers", EMNLP 2019 (UNC). [[Paper](https://aclanthology.org/D19-1514.pdf)][[PyTorch](https://github.com/airsplay/lxmert)]
-* **ViLBERT**: "ViLBERT: Pretraining Task-Agnostic Visiolinguistic Representations for Vision-and-Language Tasks", NeurIPS 2019 (GaTech + Oregon State + Facebook). [[Paper](https://proceedings.neurips.cc/paper/2019/file/c74d97b01eae257e44aa9d5bade97baf-Paper.pdf)][[PyTorch](https://github.com/facebookresearch/vilbert-multi-task)]
-* **Unified VLP**: "Unified Vision-Language Pre-Training for Image Captioning and VQA", AAAI 2020 (UMich + Microsoft). [[Paper](https://arxiv.org/abs/1909.11059)][[PyTorch](https://github.com/LuoweiZhou/VLP)]
-* **UNITER**: "UNITER: UNiversal Image-TExt Representation Learning", ECCV 2020 (Microsoft). [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123750103.pdf)][[PyTorch](https://github.com/ChenRocks/UNITER)]
+* **LXMERT**: "LXMERT: Learning Cross-Modality Encoder Representations from Transformers", EMNLP, 2019 (*UNC*). [[Paper](https://arxiv.org/abs/1908.07490)][[PyTorch](https://github.com/airsplay/lxmert)]
+* **ViLBERT**: "ViLBERT: Pretraining Task-Agnostic Visiolinguistic Representations for Vision-and-Language Tasks", NeurIPS, 2019 (*GaTech*). [[Paper](https://papers.nips.cc/paper/2019/hash/c74d97b01eae257e44aa9d5bade97baf-Abstract.html)][[PyTorch](https://github.com/facebookresearch/vilbert-multi-task)]
+* **Unified-VLP**: "Unified Vision-Language Pre-Training for Image Captioning and VQA", AAAI, 2020 (*UMich + Microsoft*). [[Paper](https://arxiv.org/abs/1909.11059)][[PyTorch](https://github.com/LuoweiZhou/VLP)]
+* **UNITER**: "UNITER: UNiversal Image-TExt Representation Learning", ECCV, 2020 (*Microsoft*). [[Paper](https://arxiv.org/abs/1909.11740)][[PyTorch](https://github.com/ChenRocks/UNITER)]
 * **COOT**: "COOT: Cooperative Hierarchical Transformer for Video-Text Representation Learning", NeurIPS, 2020 (*University of Freiburg*). [[Paper](https://arxiv.org/abs/2011.00597)][[PyTorch](https://github.com/gingsi/coot-videotext)]
 * **Parameter-Reduction**: "Parameter Efficient Multimodal Transformers for Video Representation Learning", ICLR, 2021 (*Seoul National University*). [[Paper](https://openreview.net/forum?id=6UdQLhqJyFD)]
 * **VinVL**: "VinVL: Revisiting Visual Representations in Vision-Language Models", CVPR, 2021 (*Microsoft*). [[Paper](https://arxiv.org/abs/2101.00529)][[Code](https://github.com/pzzhang/VinVL)]
-* **CLIP**: "Learning Transferable Visual Models From Natural Language Supervision", ICML, 2021 (OpenAI). [[Paper](https://arxiv.org/abs/2103.00020)][[PyTorch](https://github.com/openai/CLIP)]
+* **CLIP**: "Learning Transferable Visual Models From Natural Language Supervision", ICML, 2021 (*OpenAI*). [[Paper](https://arxiv.org/abs/2103.00020)][[PyTorch](https://github.com/openai/CLIP)]
 * **ViLT**: "ViLT: Vision-and-Language Transformer Without Convolution or Region Supervision", ICML, 2021 (*Kakao*). [[Paper](https://arxiv.org/abs/2102.03334)][[PyTorch](https://github.com/dandelin/vilt)]
 * **VML**: "VLM: Task-agnostic Video-Language Model Pre-training for Video Understanding", ACL Findings, 2021 (*Facebook*). [[Paper](https://arxiv.org/abs/2105.09996)]
 * **VATT**: "VATT: Transformers for Multimodal Self-Supervised Learning from Raw Video, Audio and Text", NeurIPS, 2021 (*Google*). [[Paper](https://arxiv.org/abs/2104.11178)][[Tensorflow](https://github.com/google-research/google-research/tree/master/vatt)]
