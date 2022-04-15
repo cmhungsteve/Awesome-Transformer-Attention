@@ -173,6 +173,7 @@ Feel free to share this list with others!
 * **ScalableViT**: "ScalableViT: Rethinking the Context-oriented Generalization of Vision Transformer", arXiv, 2022 (*ByteDance*). [[Paper](https://arxiv.org/abs/2203.10790)]
 * **MaxViT**: "MaxViT: Multi-Axis Vision Transformer", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2204.01697)]
 * **DaViT**: "DaViT: Dual Attention Vision Transformers", arXiv, 2022 (*HKU*). [[Paper](https://arxiv.org/abs/2204.03645)][[PyTorch](https://github.com/dingmyu/davit)]
+* **NAT**: "Neighborhood Attention Transformer", arXiv, 2022 (*Oregon*). [[Paper](https://arxiv.org/abs/2204.07143)][[Code (in construction)](https://github.com/SHI-Labs/Neighborhood-Attention-Transformer)]
 #### Efficient Vision Transformer
 * **DeiT**: "Training data-efficient image transformers & distillation through attention", ICML, 2021 (*Facebook*). [[Paper](https://arxiv.org/abs/2012.12877)][[PyTorch](https://github.com/facebookresearch/deit)]
 * **ConViT**: "ConViT: Improving Vision Transformers with Soft Convolutional Inductive Biases", ICML, 2021 (*Facebook*). [[Paper](https://arxiv.org/abs/2103.10697)][[Code](https://github.com/facebookresearch/convit)]
@@ -260,6 +261,7 @@ Feel free to share this list with others!
 * **Kronecker-Adaptation**: "Parameter-efficient Fine-tuning for Vision Transformers", arXiv, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2203.16329)]
 * **HAT**: "Improving Vision Transformers by Revisiting High-frequency Components", arXiv, 2022 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2204.00993)]
 * **DILEMMA**: "DILEMMA: Self-Supervised Shape and Texture Learning with Transformers", arXiv, 2022 (*University of Bern, Switzerland*). [[Paper](https://arxiv.org/abs/2204.04788)]
+* **DeiT-III**: "DeiT III: Revenge of the ViT", arXiv, 2022 (*Meta*). [[Paper](https://arxiv.org/abs/2204.07118)]
 #### Robustness + Transformer
 * **ViT-Robustness**: "Understanding Robustness of Transformers for Image Classification", ICCV, 2021 (*Google*). [[Paper](https://arxiv.org/abs/2103.14586)]
 * **SAGA**: "On the Robustness of Vision Transformers to Adversarial Examples", ICCV, 2021 (*University of Connecticut*). [[Paper](https://arxiv.org/abs/2104.02610)]
@@ -291,6 +293,7 @@ Feel free to share this list with others!
 * **PTQ4ViT**: "PTQ4ViT: Post-Training Quantization Framework for Vision Transformers", arXiv, 2021 (*Peking University*). [[Paper](https://arxiv.org/abs/2111.12293)]
 * **FQ-ViT**: "FQ-ViT: Fully Quantized Vision Transformer without Retraining", arXiv, 2021 (*MEGVII*). [[Paper](https://arxiv.org/abs/2111.13824)][[PyTorch](https://github.com/linyang-zhh/FQ-ViT)]
 * **UVC**: "Unified Visual Transformer Compression", ICLR, 2022 (*UT Austin*). [[Paper](https://arxiv.org/abs/2203.08243)][[PyTorch](https://github.com/VITA-Group/UVC)]
+* **MiniViT**: "MiniViT: Compressing Vision Transformers with Weight Multiplexing", CVPR, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2204.07154)][[PyTorch](https://github.com/microsoft/Cream/tree/main/MiniViT)]
 * **Q-ViT**: "Q-ViT: Fully Differentiable Quantization for Vision Transformer", arXiv, 2022 (*MEGVII*). [[Paper](https://arxiv.org/abs/2201.07703)]
 * **VAQF**: "VAQF: Fully Automatic Software-Hardware Co-Design Framework for Low-Bit Vision Transformer", arXiv, 2022 (*Northeastern University*). [[Paper](https://arxiv.org/abs/2201.06618)]
 * **PSAQ-ViT**: "Patch Similarity Aware Data-Free Quantization for Vision Transformers", arXiv, 2022 (*CAS*). [[Paper](https://arxiv.org/abs/2203.02250)]
@@ -451,6 +454,7 @@ Feel free to share this list with others!
 * Object Localization:
     * **TS-CAM**: "TS-CAM: Token Semantic Coupled Attention Map for Weakly Supervised Object Localization", arXiv, 2021 (*CAS*). [[Paper](https://arxiv.org/abs/2103.14862)]
     * **LCTR**: "LCTR: On Awakening the Local Continuity of Transformer for Weakly Supervised Object Localization", AAAI, 2022 (*Xiamen University*). [[Paper](https://arxiv.org/abs/2112.05291)]
+    * **ViTOL**: "ViTOL: Vision Transformer for Weakly Supervised Object Localization", CVPRW, 2022 (*Mercedes-Benz*). [[Paper](https://arxiv.org/abs/2204.06772)][[Code (in construction)](https://github.com/Saurav-31/ViTOL)]
     * **CaFT**: "CaFT: Clustering and Filter on Tokens of Transformer for Weakly Supervised Object Localization", arXiv, 2022 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2201.00475)]
 * Relation Detection:
     * **PST**: "Visual Relationship Detection Using Part-and-Sum Transformers with Composite Queries", ICCV, 2021 (*Amazon*). [[Paper](https://arxiv.org/abs/2105.02170)]
@@ -1141,6 +1145,7 @@ Feel free to share this list with others!
 * **HIPA**: "HIPA: Hierarchical Patch Transformer for Single Image Super Resolution", arXiv, 2022 (*CUHK*). [[Paper](https://arxiv.org/abs/2203.10247)]
 * **DehazeFormer**: "Vision Transformers for Single Image Dehazing", arXiv, 2022 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2204.03883)][[PyTorch](https://github.com/IDKiro/DehazeFormer)]
 * **Stripformer**: "Stripformer: Strip Transformer for Fast Image Deblurring", arXiv, 2022 (*NTHU*). [[Paper](https://arxiv.org/abs/2204.04627)]
+* **RSTCANet**: "Residual Swin Transformer Channel Attention Network for Image Demosaicing", arXiv, 2022 (*Tampere University, Finland*). [[Paper](https://arxiv.org/abs/2204.07098)]
 
 [[Back to Overview](#overview)]
 
@@ -1326,6 +1331,7 @@ Feel free to share this list with others!
 * **UNeXt**: "UNeXt: MLP-based Rapid Medical Image Segmentation Network", arXiv, 2022 (*JHU*). [[Paper](https://arxiv.org/abs/2203.04967)][[PyTorch](https://github.com/jeya-maria-jose/UNeXt-pytorch)]
 * **TransFusion**: "TransFusion: Multi-view Divergent Fusion for Medical Image Segmentation with Transformers", arXiv, 2022 (*Rutgers*). [[Paper](https://arxiv.org/abs/2203.10726)]
 * **UNetFormer**: "UNetFormer: A Unified Vision Transformer Model and Pre-Training Framework for 3D Medical Image Segmentation", arXiv, 2022 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2204.00631)][[GitHub](https://github.com/Project-MONAI/research-contributions)]
+* **3D-Shuffle-Mixer**: "3D Shuffle-Mixer: An Efficient Context-Aware Vision Learner of Transformer-MLP Paradigm for Dense Prediction in Medical Volume", arXiv, 2022 (*Xi'an Jiaotong University*). [[Paper](https://arxiv.org/abs/2204.06779)]
 
 [[Back to Overview](#overview)]
 
