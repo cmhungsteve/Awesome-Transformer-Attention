@@ -222,6 +222,7 @@ Feel free to share this list with others!
 * **EIT**: "EIT: Efficiently Lead Inductive Biases to ViT", arXiv, 2022 (*Academy of Military Sciences, China*). [[Paper](https://arxiv.org/abs/2203.07116)]
 * **SepViT**: "SepViT: Separable Vision Transformer", arXiv, 2022 (*University of Electronic Science and Technology of China*). [[Paper](https://arxiv.org/abs/2203.15380)]
 * **ATS**: "Adaptive Inverse Transform Sampling For Efficient Vision Transformers", arXiv, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2111.15667)]
+* **ResT-V2**: "ResT V2: Simpler, Faster and Stronger", arXiv, 2022 (*Nanjing University*). [[Paper](https://arxiv.org/abs/2204.07366)][[PyTorch](https://github.com/wofmanaf/ResT)]
 #### Conv + Transformer
 * **LeViT**: "LeViT: a Vision Transformer in ConvNet's Clothing for Faster Inference", ICCV, 2021 (*Facebook*). [[Paper](https://arxiv.org/abs/2104.01136)][[PyTorch](https://github.com/facebookresearch/LeViT)]
 * **CeiT**: "Incorporating Convolution Designs into Visual Transformers", ICCV, 2021 (*SenseTime*). [[Paper](https://arxiv.org/abs/2103.11816)][[PyTorch (rishikksh20)](https://github.com/rishikksh20/CeiT)]
@@ -1544,6 +1545,7 @@ Pekin*). [[Paper](https://arxiv.org/abs/2204.04654)][[Code (in construction)](ht
     * **STTR**: "Revisiting Stereo Depth Estimation From a Sequence-to-Sequence Perspective with Transformers", ICCV, 2021 (*Johns Hopkins*). [[Paper](https://arxiv.org/abs/2011.02910)][[PyTorch](https://github.com/mli0603/stereo-transformer)]
     * **PS-Transformer**: "PS-Transformer: Learning Sparse Photometric Stereo Network using Self-Attention Mechanism", BMVC, 2021 (*National Institute of Informatics, JAPAN*). [[Paper](https://www.bmvc2021-virtualconference.com/assets/papers/0319.pdf)]
     * **ChiTransformer**: "ChiTransformer: Towards Reliable Stereo from Cues", CVPR, 2022 (*GSU*). [[Paper](https://arxiv.org/abs/2203.04554)]
+    * **MVSTER**: "MVSTER: Epipolar Transformer for Efficient Multi-View Stereo", arXiv, 2022 (*CAS*). [[Paper](https://arxiv.org/abs/2204.07346)][[PyTorch](https://github.com/JeffWang987/MVSTER)]
 * Time Series:
     * **MissFormer**: "MissFormer: (In-)attention-based handling of missing observations for trajectory filtering and prediction", arXiv, 2021 (*Fraunhofer IOSB, Germany*). [[Paper](https://arxiv.org/abs/2106.16009)]
 * Traffic:
@@ -1689,11 +1691,13 @@ If you find this repository useful, please consider citing this list:
 ## References
 * Survey:
     * "A Comprehensive Study of Vision Transformers on Dense Prediction Tasks", VISAP, 2022 (*NavInfo Europe, Netherlands*). [[Paper](https://arxiv.org/abs/2201.08683)]
+    * "Vision-and-Language Pretrained Models: A Survey", IJCAI, 2022 (*The University of Sydney*). [[Paper](https://arxiv.org/abs/2204.07356)]
     * "Vision Transformers in Medical Computer Vision - A Contemplative Retrospection", arXiv, 2022 (*National University of Sciences and Technology (NUST), Pakistan*). [[Paper](https://arxiv.org/abs/2203.15269)]
     * "Video Transformers: A Survey", arXiv, 2022 (*Universitat de Barcelona, Spain*). [[Paper](https://arxiv.org/abs/2201.05991)] 
     * "Transformers in Medical Image Analysis: A Review", arXiv, 2022 (*Nanjing University*). [[Paper](https://arxiv.org/abs/2202.12165)]
     * "Recent Advances in Vision Transformer: A Survey and Outlook of Recent Work", arXiv, 2022 (*?*). [[Paper](https://arxiv.org/abs/2203.01536)]
     * "Transformers Meet Visual Learning Understanding: A Comprehensive Review", arXiv, 2022 (*Xidian University*). [[Paper](https://arxiv.org/abs/2203.12944)]
+    * "Image Captioning In the Transformer Age", arXiv, 2022 (*Alibaba*). [[Paper](https://arxiv.org/abs/2204.07374)][[GitHub](https://github.com/SjokerLily/awesome-image-captioning)]
     * "Transformers in Vision: A Survey", ACM Computing Surveys, 2021 (*MBZUAI*). [[Paper](https://arxiv.org/abs/2101.01169)]
     * "Survey: Transformer based Video-Language Pre-training", arXiv, 2021 (*Renmin University of China*). [[Paper](https://arxiv.org/abs/2109.09920)]
     * "A Survey of Transformers", arXiv, 2021 (*Fudan*). [[Paper](https://arxiv.org/abs/2106.04554)]
