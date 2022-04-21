@@ -32,6 +32,7 @@ Feel free to share this list with others!
     - [Object Detection](#object-detection)
     - [3D Object Detection](#3d-object-detection)
     - [Multi-Modal Detection](#multi-modal-detection)
+    - [HOI Detection](#hoi-detection)
     - [Salient Object Detection](#salient-object-detection)
     - [Other Detection Tasks](#other-detection-tasks)
 - [Segmentation](#segmentation)
@@ -429,6 +430,18 @@ Feel free to share this list with others!
 
 [[Back to Overview](#overview)]
 
+### HOI Detection
+* **HOI-Transformer**: "End-to-End Human Object Interaction Detection with HOI Transformer", CVPR, 2021 (*Megvii*). [[Paper](https://arxiv.org/abs/2103.04503)][[PyTorch](https://github.com/bbepoch/HoiTransformer)]
+* **HOTR**: "HOTR: End-to-End Human-Object Interaction Detection with Transformers", CVPR, 2021 (*Kakao + Korea University*). [[Paper](https://arxiv.org/abs/2104.13682)][[PyTorch](https://github.com/kakaobrain/HOTR)]
+* **MSTR**: "MSTR: Multi-Scale Transformer for End-to-End Human-Object Interaction Detection", CVPR, 2022 (*Kakao*). [[Paper](https://arxiv.org/abs/2203.14709)]
+* **SSRT**: "What to look at and where: Semantic and Spatial Refined Transformer for detecting human-object interactions", CVPR, 2022 (*Amazon*). [[Paper](https://arxiv.org/abs/2204.00746)]
+* **CPC**: "Consistency Learning via Decoding Path Augmentation for Transformers in Human Object Interaction Detection", CVPR, 2022 (*Korea University*). [[Paper](https://arxiv.org/abs/2204.04836)][[Code (in construction)](https://github.com/mlvlab/CPChoi)]
+* **DisTR**: "Human-Object Interaction Detection via Disentangled Transformer", CVPR, 2022 (*Baidu*). [[Paper](https://arxiv.org/abs/2204.09290)]
+* **Iwin**: "Iwin: Human-Object Interaction Detection via Transformer with Irregular Windows", arXiv, 2022 (*Shanghai Jiao Tong*). [[Paper](https://arxiv.org/abs/2203.10537)]
+* **CATN**: "Category-Aware Transformer Network for Better Human-Object Interaction Detection", arXiv, 2022 (*Huazhong University of Science and Technology*). [[Paper](https://arxiv.org/abs/2204.04911)]
+
+[[Back to Overview](#overview)]
+
 ### Salient Object Detection
 * **VST**: "Visual Saliency Transformer", ICCV, 2021 (*Northwestern Polytechincal University*). [[Paper](https://arxiv.org/abs/2104.12099)]
 * **?**: "Learning Generative Vision Transformer with Energy-Based Latent Space for Saliency Prediction", NeurIPS, 2021 (*Baidu*). [[Paper](https://arxiv.org/abs/2112.13528)]
@@ -466,14 +479,6 @@ Feel free to share this list with others!
     * **RelTransformer**: "RelTransformer: Balancing the Visual Relationship Detection from Local Context, Scene and Memory", arXiv, 2021 (*KAUST*). [[Paper](https://arxiv.org/abs/2104.11934)][[Code (in construction)](https://github.com/Vision-CAIR/RelTransformer)]
     * **PST**: "Visual Composite Set Detection Using Part-and-Sum Transformers", arXiv, 2021 (*Amazon*). [[Paper](https://arxiv.org/abs/2105.02170)]
     * **TROI**: "Transformed ROIs for Capturing Visual Transformations in Videos", arXiv, 2021 (*NUS, Singapore*). [[Paper](https://arxiv.org/abs/2106.03162)]
-* HOI Detection:
-    * **HOI-Transformer**: "End-to-End Human Object Interaction Detection with HOI Transformer", CVPR, 2021 (*Megvii*). [[Paper](https://arxiv.org/abs/2103.04503)][[PyTorch](https://github.com/bbepoch/HoiTransformer)]
-    * **HOTR**: "HOTR: End-to-End Human-Object Interaction Detection with Transformers", CVPR, 2021 (*Kakao + Korea University*). [[Paper](https://arxiv.org/abs/2104.13682)][[PyTorch](https://github.com/kakaobrain/HOTR)]
-    * **MSTR**: "MSTR: Multi-Scale Transformer for End-to-End Human-Object Interaction Detection", CVPR, 2022 (*Kakao*). [[Paper](https://arxiv.org/abs/2203.14709)]
-    * **SSRT**: "What to look at and where: Semantic and Spatial Refined Transformer for detecting human-object interactions", CVPR, 2022 (*Amazon*). [[Paper](https://arxiv.org/abs/2204.00746)]
-    * **CPC**: "Consistency Learning via Decoding Path Augmentation for Transformers in Human Object Interaction Detection", CVPR, 2022 (*Korea University*). [[Paper](https://arxiv.org/abs/2204.04836)][[Code (in construction)](https://github.com/mlvlab/CPChoi)]
-    * **Iwin**: "Iwin: Human-Object Interaction Detection via Transformer with Irregular Windows", arXiv, 2022 (*Shanghai Jiao Tong*). [[Paper](https://arxiv.org/abs/2203.10537)]
-    * **CATN**: "Category-Aware Transformer Network for Better Human-Object Interaction Detection", arXiv, 2022 (*Huazhong University of Science and Technology*). [[Paper](https://arxiv.org/abs/2204.04911)]
 * Anomaly Detection:
     * **VT-ADL**: "VT-ADL: A Vision Transformer Network for Image Anomaly Detection and Localization", ISIE, 2021 (*University of Udine, Italy*). [[Paper](https://arxiv.org/abs/2104.10036)]
     * **InTra**: "Inpainting Transformer for Anomaly Detection", arXiv, 2021 (*Fujitsu*). [[Paper](https://arxiv.org/abs/2104.13897)]
@@ -628,6 +633,7 @@ Feel free to share this list with others!
     * **Improved-MViT**: "Improved Multiscale Vision Transformers for Classification and Detection", arXiv, 2021 (*Meta*). [[Paper](https://arxiv.org/abs/2112.01526)]
     * **UniFormer**: "UniFormer: Unified Transformer for Efficient Spatiotemporal Representation Learning", ICLR, 2022 (*CAS + SenstTime*). [[Paper](https://arxiv.org/abs/2201.04676)][[PyTorch](https://github.com/Sense-X/UniFormer)]
     * **DirecFormer**: "DirecFormer: A Directed Attention in Transformer Approach to Robust Action Recognition", CVPR, 2022 (*University of Arkansas*). [[Paper](https://arxiv.org/abs/2203.10233)][[Code (in construction)](https://github.com/uark-cviu/DirecFormer)]
+    * **AIA**: "Attention in Attention: Modeling Context Correlation for Efficient Video Classification", TCSVT, 2022 (*University of Science and Technology of China*). [[Paper](https://arxiv.org/abs/2204.09303)][[PyTorch](https://github.com/haoyanbin918/Attention-in-Attention)]
     * **MeMViT**: "MeMViT: Memory-Augmented Multiscale Vision Transformer for Efficient Long-Term Video Recognition", arXiv, 2022 (*Meta*). [[Paper](https://arxiv.org/abs/2201.08383)]
     * **MTV**: "Multiview Transformers for Video Recognition", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2201.04288)]
     * **MSCA**: "Vision Transformer with Cross-attention by Temporal Shift for Efficient Action Recognition", arXiv, 2022 (*Nagoya Institute of Technology*). [[Paper](https://arxiv.org/abs/2204.00452)]
@@ -1026,6 +1032,7 @@ Feel free to share this list with others!
 * **OH-Former**: "OH-Former: Omni-Relational High-Order Transformer for Person Re-Identification", arXiv, 2021 (*Shanghaitech University*). [[Paper](https://arxiv.org/abs/2109.11159)]
 * **CMTR**: "CMTR: Cross-modality Transformer for Visible-infrared Person Re-identification", arXiv, 2021 (*Beijing Jiaotong University*). [[Paper](https://arxiv.org/abs/2110.08994)]
 * **PFD**: "Pose-guided Feature Disentangling for Occluded Person Re-identification Based on Transformer", AAAI, 2022 (*Peking*). [[Paper](https://arxiv.org/abs/2112.02466)][[PyTorch](https://github.com/WangTaoAs/PFD_Net)]
+* **NFormer**: "NFormer: Robust Person Re-identification with Neighbor Transformer", CVPR, 2022 (*University of Amsterdam, Netherlands*). [[Paper](https://arxiv.org/abs/2204.09331)][[Code (in construction)](https://github.com/haochenheheda/NFormer)]
 * **PiT**: "Multi-direction and Multi-scale Pyramid in Transformer for Video-based Pedestrian Retrieval", IEEE Transactions on Industrial Informatics, 2022 (* Peking*). [[Paper](https://arxiv.org/abs/2202.06014)]
 * **?**: "Motion-Aware Transformer For Occluded Person Re-identification", arXiv, 2022 (*NetEase, China*). [[Paper](https://arxiv.org/abs/2202.04243)]
 * **PFT**: "Short Range Correlation Transformer for Occluded Person Re-Identification", arXiv, 2022 (*Nanjing University of Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2201.01090)]
@@ -1428,6 +1435,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
 * **CSM**: "Contrastive Transformer-based Multiple Instance Learning for Weakly Supervised Polyp Frame Detection", arXiv, 2022 (*University of Adelaide, Australia*). [[Paper](https://arxiv.org/abs/2203.12121)]
 * **SiT**: "Surface Vision Transformers: Attention-Based Modelling applied to Cortical Analysis", Medical Imaging with Deep Learning (MIDL), 2022 (*King’s College London, UK*). [[Paper](https://arxiv.org/abs/2203.16414)]
 * **SiT**: "Surface Vision Transformers: Flexible Attention-Based Modelling of Biomedical Surfaces", arXiv, 2022 (*King’s College London, UK*). [[Paper](https://arxiv.org/abs/2204.03408)][[PyTorch (in construction)](https://github.com/metrics-lab/surface-vision-transformers)]
+* **MDBERT**: "Hierarchical BERT for Medical Document Understanding", arXiv, 2022 (*IQVIA, NC*). [[Paper](https://arxiv.org/abs/2204.09600)]
 
 [[Back to Overview](#overview)]
 
