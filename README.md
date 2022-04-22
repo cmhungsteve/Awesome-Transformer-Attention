@@ -44,6 +44,7 @@ Feel free to share this list with others!
     - [Action Detection/Localization](#action-detectionlocalization)
     - [Action Prediction](#action-prediction)
     - [Video Object Segmentation](#video-object-segmentation)
+    - [Video Instance Segmentation](#video-instance-segmentation)
     - [Other Video Tasks](#other-video-tasks)
 - [Multi-Modality](#multi-modality)
     - [VQA / Captioning](#vqa--captioning)
@@ -695,22 +696,26 @@ Feel free to share this list with others!
 
 [[Back to Overview](#overview)]
 
+### Video Instance Segmentation
+* **VisTR**: "End-to-End Video Instance Segmentation with Transformers", CVPR, 2021 (*Meituan*). [[Paper](https://arxiv.org/abs/2011.14503)][[PyTorch](https://github.com/Epiphqny/VisTR)]
+* **IFC**: "Video Instance Segmentation using Inter-Frame Communication Transformers", NeurIPS, 2021 (*Yonsei University*). [[Paper](https://arxiv.org/abs/2106.03299)][[PyTorch](https://github.com/sukjunhwang/IFC)]
+* **Deformable-VisTR**: "Deformable VisTR: Spatio temporal deformable attention for video instance segmentation", ICASSP, 2022 (*University at Buffalo*). [[Paper](https://arxiv.org/abs/2203.06318)][[Code (in construction)](https://github.com/skrya/DefVIS)]
+* **TeViT**: "Temporally Efficient Vision Transformer for Video Instance Segmentation", CVPR, 2022 (*Tencent*). [[Paper](https://arxiv.org/abs/2204.08412)][[PyTorch](https://github.com/hustvl/TeViT)]
+* **MS-STS**: "Video Instance Segmentation via Multi-scale Spatio-temporal Split Attention Transformer", arXiv, 2022 (*MBZUAI*). [[Paper](https://arxiv.org/abs/2203.13253)][[Code (in construction)](https://github.com/OmkarThawakar/MSSTS-VIS)]
+
+[[Back to Overview](#overview)]
+
 ### Other Video Tasks
 * Action Segmentation
     * **ASFormer**: "ASFormer: Transformer for Action Segmentation", BMVC, 2021 (*Peking University*). [[Paper](https://arxiv.org/abs/2110.08568)][[PyTorch](https://github.com/ChinaYi/ASFormer)]
     * **?**: "Transformers in Action: Weakly Supervised Action Segmentation", arXiv, 2022 (*TUM*). [[Paper](https://arxiv.org/abs/2201.05675)]
-* Video Instance Segmentation
-    * **VisTR**: "End-to-End Video Instance Segmentation with Transformers", CVPR, 2021 (*Meituan*). [[Paper](https://arxiv.org/abs/2011.14503)][[PyTorch](https://github.com/Epiphqny/VisTR)]
-    * **IFC**: "Video Instance Segmentation using Inter-Frame Communication Transformers", NeurIPS, 2021 (*Yonsei University*). [[Paper](https://arxiv.org/abs/2106.03299)][[PyTorch](https://github.com/sukjunhwang/IFC)]
-    * **Deformable-VisTR**: "Deformable VisTR: Spatio temporal deformable attention for video instance segmentation", ICASSP, 2022 (*University at Buffalo*). [[Paper](https://arxiv.org/abs/2203.06318)][[Code (in construction)](https://github.com/skrya/DefVIS)]
-    * **TeViT**: "Temporally Efficient Vision Transformer for Video Instance Segmentation", CVPR, 2022 (*Tencent*). [[Paper](https://arxiv.org/abs/2204.08412)][[PyTorch](https://github.com/hustvl/TeViT)]
-    * **MS-STS**: "Video Instance Segmentation via Multi-scale Spatio-temporal Split Attention Transformer", arXiv, 2022 (*MBZUAI*). [[Paper](https://arxiv.org/abs/2203.13253)][[Code (in construction)](https://github.com/OmkarThawakar/MSSTS-VIS)]
 * Video Object Detection:
     * **TransVOD**: "End-to-End Video Object Detection with Spatial-Temporal Transformers", arXiv, 2021 (*Shanghai Jiao Tong + SenseTime*). [[Paper](https://arxiv.org/abs/2105.10920)][[Code (in construction)](https://github.com/SJTU-LuHe/TransVOD)]
     * **MODETR**: "MODETR: Moving Object Detection with Transformers", arXiv, 2021 (*Valeo, Egypt*). [[Paper](https://arxiv.org/abs/2106.11422)]
     * **ST-MTL**: "Spatio-Temporal Multi-Task Learning Transformer for Joint Moving Object Detection and Segmentation", arXiv, 2021 (*Valeo, Egypt*). [[Paper](https://arxiv.org/abs/2106.11401)]
     * **ST-DETR**: "ST-DETR: Spatio-Temporal Object Traces Attention Detection Transformer", arXiv, 2021 (*Valeo, Egypt*). [[Paper](https://arxiv.org/abs/2107.05887)]
     * **TransVOD**: "TransVOD: End-to-end Video Object Detection with Spatial-Temporal Transformers", arXiv, 2022 (*Shanghai Jiao Tong + SenseTime*). [[Paper](https://arxiv.org/abs/2201.05047)]
+    * **?**: "Learning Future Object Prediction with a Spatiotemporal Detection Transformer", arXiv, 2022 (*Zenseact, Sweden*). [[Paper](https://arxiv.org/abs/2204.10321)]
 * Video Retrieval
     * **SVRTN**: "Self-supervised Video Retrieval Transformer Network", arXiv, 2021 (*Alibaba*). [[Paper](https://arxiv.org/abs/2104.07993)]
 * Video Hashing
@@ -1182,6 +1187,7 @@ Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2204.08696)]
 * **MANA**: "Memory-Augmented Non-Local Attention for Video Super-Resolution", arXiv, 2021 (*JD*). [[Paper](https://arxiv.org/abs/2108.11048)]
 * **?**: "Bringing Old Films Back to Life", CVPR, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2203.17276)][[Code (in construction)](https://github.com/raywzy/Bringing-Old-Films-Back-to-Life)]
 * **TTVSR**: "Learning Trajectory-Aware Transformer for Video Super-Resolution", CVPR, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2204.04216)][[PyTorch](https://github.com/researchmm/TTVSR)]
+* **Trans-SVSR**: "A New Dataset and Transformer for Stereoscopic Video Super-Resolution", CVPR, 2022 (*Bahcesehir University, Turkey*). [[Paper](https://arxiv.org/abs/2204.10039)][[PyTorch](https://github.com/H-deep/Trans-SVSR/)]
 * **VRT**: "VRT: A Video Restoration Transformer", arXiv, 2022 (*ETHZ*). [[Paper](https://arxiv.org/abs/2201.12288)][[PyTorch](https://github.com/JingyunLiang/VRT)]
 * **FGST**: "Flow-Guided Sparse Transformer for Video Deblurring", arXiv, 2022 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2201.01893)]
 * **STDAN**: "STDAN: Deformable Attention Network for Space-Time Video Super-Resolution", arXiv, 2022 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2203.06841)]
@@ -1505,6 +1511,7 @@ Pekin*). [[Paper](https://arxiv.org/abs/2204.04654)][[Code (in construction)](ht
 * Geo-Localization:
     * **EgoTR**: "Cross-view Geo-localization with Evolving Transformer", arXiv, 2021 (*Shenzhen University*). [[Paper](https://arxiv.org/abs/2107.00842)]
     * **TransGeo**: "TransGeo: Transformer Is All You Need for Cross-view Image Geo-localization", CVPR, 2022 (*UCF*). [[Paper](https://arxiv.org/abs/2204.00097)][[Code (in construction)](https://github.com/Jeff-Zilence/TransGeo2022)]
+    * **TransGCNN**: "Transformer-Guided Convolutional Neural Network for Cross-View Geolocalization", arXiv, 2022 (*Southeast University, China*). [[Paper](https://arxiv.org/abs/2204.09967)]
 * Homography Estimation:
     * **LocalTrans**: "LocalTrans: A Multiscale Local Transformer Network for Cross-Resolution Homography Estimation", ICCV, 2021 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2106.04067)]
 * Image Quality Assessment:
