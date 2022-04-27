@@ -177,6 +177,7 @@ Feel free to share this list with others!
 * **DaViT**: "DaViT: Dual Attention Vision Transformers", arXiv, 2022 (*HKU*). [[Paper](https://arxiv.org/abs/2204.03645)][[PyTorch](https://github.com/dingmyu/davit)]
 * **NAT**: "Neighborhood Attention Transformer", arXiv, 2022 (*Oregon*). [[Paper](https://arxiv.org/abs/2204.07143)][[Code (in construction)](https://github.com/SHI-Labs/Neighborhood-Attention-Transformer)]
 * **VSA**: "VSA: Learning Varied-Size Window Attention in Vision Transformers", arXiv, 2022 (*The University of Sydney*). [[Paper](https://arxiv.org/abs/2204.08446)][[Code (in construction)](https://github.com/ViTAE-Transformer/ViTAE-VSA)]
+* **ASF-former**: "Adaptive Split-Fusion Transformer", arXiv, 2022 (*Fudan*). [[Paper](https://arxiv.org/abs/2204.12196)][[PyTorch (in construction)](https://github.com/szx503045266/ASF-former)]
 #### Efficient Vision Transformer
 * **DeiT**: "Training data-efficient image transformers & distillation through attention", ICML, 2021 (*Facebook*). [[Paper](https://arxiv.org/abs/2012.12877)][[PyTorch](https://github.com/facebookresearch/deit)]
 * **ConViT**: "ConViT: Improving Vision Transformers with Soft Convolutional Inductive Biases", ICML, 2021 (*Facebook*). [[Paper](https://arxiv.org/abs/2103.10697)][[Code](https://github.com/facebookresearch/convit)]
@@ -290,6 +291,9 @@ Feel free to share this list with others!
 * **Attention-Fool**: "Give Me Your Attention: Dot-Product Attention Considered Harmful for Adversarial Patch Robustness", CVPR, 2022 (*Bosch*). [[Paper](https://arxiv.org/abs/2203.13639)]
 * **Memory-Token**: "Fine-tuning Image Transformers using Learnable Memory", CVPR, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2203.15243)]
 * **?**: "Are Vision Transformers Robust to Spurious Correlations?", arXiv, 2022 (*UW-Madison*). [[Paper](https://arxiv.org/abs/2203.09125)]
+* **MA**: "Boosting Adversarial Transferability of MLP-Mixer", arXiv, 2022 (*Beijing Institute of Technology*). [[Paper](https://arxiv.org/abs/2204.12204)]
+* **?**: "Deeper Insights into ViTs Robustness towards Common Corruptions", arXiv, 2022 (*Fudan + Microsoft*). [[Paper](https://arxiv.org/abs/2204.12143)]
+* **FAN**: "Understanding The Robustness in Vision Transformers", arXiv, 2022 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2204.12451)]
 #### Model Compression + Transformer
 * **ViT-quant**: "Post-Training Quantization for Vision Transformer", NeurIPS, 2021 (*Huawei*). [[Paper](https://arxiv.org/abs/2106.14156)]
 * **VTP**: "Visual Transformer Pruning", arXiv, 2021 (*Huawei*). [[Paper](https://arxiv.org/abs/2104.08500)]
@@ -851,6 +855,7 @@ Feel free to share this list with others!
 * **BridgeFormer**: "BridgeFormer: Bridging Video-text Retrieval with Multiple Choice Questions", arXiv, 2022 (*HKU*). [[Paper](https://arxiv.org/abs/2201.04850)][[Website](https://geyuying.github.io/MCQ.html)]
 * **LoopITR**: "LoopITR: Combining Dual and Cross Encoder Architectures for Image-Text Retrieval", arXiv, 2022 (*UNC*). [[Paper](https://arxiv.org/abs/2203.05465)]
 * **MDMMT-2**: "MDMMT-2: Multidomain Multimodal Transformer for Video Retrieval, One More Step Towards Generalization", arXiv, 2022 (*Huawei*). [[Paper](https://arxiv.org/abs/2203.07086)]
+* **MILES**: "MILES: Visual BERT Pre-training with Injected Language Semantics for Video-text Retrieval", arXiv, 2022 (*HKU*). [[Paper](https://arxiv.org/abs/2204.12408)]
 
 [[Back to Overview](#overview)]
 
@@ -993,6 +998,7 @@ Feel free to share this list with others!
     * **Poseur**: "Poseur: Direct Human Pose Regression with Transformers", arXiv, 2022 (*The University of Adelaide, Australia*). [[Paper](https://arxiv.org/abs/2201.07412)]
     * **HeadPosr**: "HeadPosr: End-to-end Trainable Head Pose Estimation using Transformer Encoders", arXiv, 2022 (*ETHZ*). [[Paper](https://arxiv.org/abs/2202.03548)]
     * **CrossFormer**: "CrossFormer: Cross Spatio-Temporal Transformer for 3D Human Pose Estimation", arXiv, 2022 (*Canberra University, Australia*). [[Paper](https://arxiv.org/abs/2203.13387)]
+    * **ViTPose**: "ViTPose: Simple Vision Transformer Baselines for Human Pose Estimation", arXiv, 2022 (*The University of Sydney*). [[Paper](https://arxiv.org/abs/2204.12484)][[PyTorch](https://github.com/ViTAE-Transformer/ViTPose)]
 * Others:
     * **TAPE**: "Transformer Guided Geometry Model for Flow-Based Unsupervised Visual Odometry", arXiv, 2020 (*Tianjing University*). [[Paper](https://arxiv.org/abs/2101.02143)]
     * **T6D-Direct**: "T6D-Direct: Transformers for Multi-Object 6D Pose Direct Regression", GCPR, 2021 (*University of Bonn*). [[Paper](https://arxiv.org/abs/2109.10948)]
@@ -1377,6 +1383,7 @@ Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2204.08696)]
 * **UNetFormer**: "UNetFormer: A Unified Vision Transformer Model and Pre-Training Framework for 3D Medical Image Segmentation", arXiv, 2022 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2204.00631)][[GitHub](https://github.com/Project-MONAI/research-contributions)]
 * **3D-Shuffle-Mixer**: "3D Shuffle-Mixer: An Efficient Context-Aware Vision Learner of Transformer-MLP Paradigm for Dense Prediction in Medical Volume", arXiv, 2022 (*Xi'an Jiaotong University*). [[Paper](https://arxiv.org/abs/2204.06779)]
 * **?**: "Continual Hippocampus Segmentation with Transformers", arXiv, 2022 (*Technical University of Darmstadt, Germany*). [[Paper](https://arxiv.org/abs/2204.08043)]
+* **TranSiam**: "TranSiam: Fusing Multimodal Visual Features Using Transformer for Medical Image Segmentation", arXiv, 2022 (*Tianjin University*). [[Paper](https://arxiv.org/abs/2204.12185)]
 
 [[Back to Overview](#overview)]
 
@@ -1490,6 +1497,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
 * Fashion:
     * **Kaleido-BERT**: "Kaleido-BERT: Vision-Language Pre-training on Fashion Domain", CVPR, 2021 (*Alibaba*). [[Paper](https://arxiv.org/abs/2103.16110)][[Tensorflow](https://github.com/mczhuge/Kaleido-BERT)]
     * **CIT**: "Cloth Interactive Transformer for Virtual Try-On", arXiv, 2021 (*University of Trento*). [[Paper](https://arxiv.org/abs/2104.05519)][[Code (in construction)](https://github.com/Amazingren/CIT)]
+    * **ClothFormer**: "ClothFormer: Taming Video Virtual Try-on in All Module", CVPR, 2022 (*iQIYI*). [[Paper](https://arxiv.org/abs/2204.12151)][[Website](https://cloth-former.github.io/)]
     * **OutfitTransformer**: "OutfitTransformer: Learning Outfit Representations for Fashion Recommendation", arXiv, 2022 (*Amazon*). [[Paper](https://arxiv.org/abs/2204.04812)]
     * **Fashionformer**: "Fashionformer: A simple, Effective and Unified Baseline for Human Fashion Segmentation and Recognition", arXiv, 2022 (*
 Pekin*). [[Paper](https://arxiv.org/abs/2204.04654)][[Code (in construction)](https://github.com/xushilin1/FashionFormer)]
@@ -1736,6 +1744,7 @@ If you find this repository useful, please consider citing this list:
     * "A Survey on Visual Transformer", TPAMI, 2022 (*Huawei*). [[Paper](https://arxiv.org/abs/2012.12556)] 
     * "A Comprehensive Study of Vision Transformers on Dense Prediction Tasks", VISAP, 2022 (*NavInfo Europe, Netherlands*). [[Paper](https://arxiv.org/abs/2201.08683)]
     * "Vision-and-Language Pretrained Models: A Survey", IJCAI, 2022 (*The University of Sydney*). [[Paper](https://arxiv.org/abs/2204.07356)]
+    * "A survey on attention mechanisms for medical applications: are we moving towards better algorithms?", arXiv, 2022 (*INESC TEC and University of Porto, Portugal*). [[Paper](https://arxiv.org/abs/2204.12406)]
     * "Efficient Transformers: A Survey", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2009.06732)]
     * "Are we ready for a new paradigm shift? A Survey on Visual Deep MLP", arXiv, 2022 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2111.04060)]
     * "Vision Transformers in Medical Computer Vision - A Contemplative Retrospection", arXiv, 2022 (*National University of Sciences and Technology (NUST), Pakistan*). [[Paper](https://arxiv.org/abs/2203.15269)]
