@@ -51,6 +51,7 @@ Feel free to share this list with others!
     - [Visual Grounding](#visual-grounding)
     - [Multi-Modal Representation Learning](#multi-modal-representation-learning)
     - [Multi-Modal Retrieval](#multi-modal-retrieval)
+    - [Multi-Modal Generation](#multi-modal-generation)
     - [Visual Document Understanding](#visual-document-understanding)
     - [Scene Graph](#scene-graph)
     - [Other Multi-Modal Tasks](#other-multi-modal-tasks)
@@ -492,6 +493,7 @@ Feel free to share this list with others!
 * Domain Adaptation:
     * **SSTN**: "SSTN: Self-Supervised Domain Adaptation Thermal Object Detection for Autonomous Driving", arXiv, 2021 (*Gwangju Institute of Science and Technology*). [[Paper](https://arxiv.org/abs/2103.03150)]
     * **DA-DETR**: "DA-DETR: Domain Adaptive Detection Transformer by Hybrid Attention", arXiv, 2021 (*NTU Singapore*). [[Paper](https://arxiv.org/abs/2103.17084)]
+    * **OAA-OTA**: "Improving Transferability for Domain Adaptive Detection Transformers", arXiv, 2022 (*Beijing Institute of Technology*). [[Paper](https://arxiv.org/abs/2204.14195)]
 * X-Shot Object Detection:
     * **AIT**: "Adaptive Image Transformer for One-Shot Object Detection", CVPR, 2021 (*Academia Sinica*). [[Paper](https://openaccess.thecvf.com/content/CVPR2021/html/Chen_Adaptive_Image_Transformer_for_One-Shot_Object_Detection_CVPR_2021_paper.html)]
     * **Meta-DETR**: "Meta-DETR: Few-Shot Object Detection via Unified Image-Level Meta-Learning", arXiv, 2021 (*NTU Singapore*). [[Paper](https://arxiv.org/abs/2103.11731)]
@@ -585,6 +587,8 @@ Feel free to share this list with others!
     * **GLPanoDepth**: "GLPanoDepth: Global-to-Local Panoramic Depth Estimation", arXiv, 2022 (*Nanjing University*). [[Paper](https://arxiv.org/abs/2202.02796)]
     * **DepthFormer**: "DepthFormer: Exploiting Long-Range Correlation and Local Information for Accurate Monocular Depth Estimation", arXiv, 2022 (*Harbin Institute of Technology*). [[Paper](https://arxiv.org/abs/2203.14211)][[PyTorch](https://github.com/zhyever/Monocular-Depth-Estimation-Toolbox)]
     * **BinsFormer**: "BinsFormer: Revisiting Adaptive Bins for Monocular Depth Estimation", arXiv, 2022 (*Harbin Institute of Technology*). [[Paper](https://arxiv.org/abs/2204.00987)][[PyTorch](https://github.com/zhyever/Monocular-Depth-Estimation-Toolbox)]
+    * **SideRT**: "SideRT: A Real-time Pure Transformer Architecture for Single Image Depth Estimation", arXiv, 2022 (*Meituan*). [[Paper](https://arxiv.org/abs/2204.13892)]
+    * **DEST**: "Depth Estimation with Simplified Transformer", arXiv, 2022 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2204.13791)]
 * Optical Flow:
     * **FlowFormer**: "FlowFormer: A Transformer Architecture for Optical Flow", arXiv, 2022 (*CUHK*). [[Paper](https://arxiv.org/abs/2203.16194)][[Website](https://drinkingcoder.github.io/publication/flowformer/)]
 * Panoramic Semantic Segmentation:
@@ -838,6 +842,8 @@ Feel free to share this list with others!
 * **TAN**: "Temporal Alignment Networks for Long-term Video", CVPR, 2022 (*Oxford*). [[Paper](https://arxiv.org/abs/2204.02968)][[Code (in construction)](https://github.com/TengdaHan/TemporalAlignNet)][[Website](https://www.robots.ox.ac.uk/~vgg/research/tan/)]
 * **Omnivore**: "Omnivore: A Single Model for Many Visual Modalities", arXiv, 2022 (*Meta*). [[Paper](https://arxiv.org/abs/2201.08377)][[PyTorch](https://github.com/facebookresearch/omnivore)]
 * **MultiMAE**: "MultiMAE: Multi-modal Multi-task Masked Autoencoders", arXiv, 2022 (*EPFL*). [[Paper](https://arxiv.org/abs/2204.01678)][[PyTorch](https://github.com/EPFL-VILAB/MultiMAE)][[Website](https://multimae.epfl.ch/)]
+* **Flamingo**: "Flamingo: a Visual Language Model for Few-Shot Learning", arXiv, 2022 (*DeepMind*). [[Paper](https://arxiv.org/abs/2204.14198)]
+* **PyramidCLIP**: "PyramidCLIP: Hierarchical Feature Alignment for Vision-language Model Pretraining", arXiv, 2022 (*Tencent*). [[Paper](https://arxiv.org/abs/2204.14095)]
 
 [[Back to Overview](#overview)]
 
@@ -857,6 +863,16 @@ Feel free to share this list with others!
 * **LoopITR**: "LoopITR: Combining Dual and Cross Encoder Architectures for Image-Text Retrieval", arXiv, 2022 (*UNC*). [[Paper](https://arxiv.org/abs/2203.05465)]
 * **MDMMT-2**: "MDMMT-2: Multidomain Multimodal Transformer for Video Retrieval, One More Step Towards Generalization", arXiv, 2022 (*Huawei*). [[Paper](https://arxiv.org/abs/2203.07086)]
 * **MILES**: "MILES: Visual BERT Pre-training with Injected Language Semantics for Video-text Retrieval", arXiv, 2022 (*HKU*). [[Paper](https://arxiv.org/abs/2204.12408)]
+
+[[Back to Overview](#overview)]
+
+### Multi-Modal Generation
+* **DALL-E**: "Zero-Shot Text-to-Image Generation", ICML, 2021 (*OpenAI*). [[Paper](https://arxiv.org/abs/2102.12092)][[PyTorch](https://github.com/openai/DALL-E)][[PyTorch (lucidrains)](https://github.com/lucidrains/DALLE-pytorch)]
+* **CogView**: "CogView: Mastering Text-to-Image Generation via Transformers", NeurIPS, 2021 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2105.13290)][[PyTorch](https://github.com/THUDM/CogView)][[Website](https://lab.aminer.cn/cogview/index.html)]
+* **DALL-Eval**: "DALL-Eval: Probing the Reasoning Skills and Social Biases of Text-to-Image Generative Transformers", arXiv, 2022 (*UNC*). [[Paper](https://arxiv.org/abs/2202.04053)][[PyTorch](https://github.com/j-min/DallEval)]
+* **DALL-E-2**: "Hierarchical Text-Conditional Image Generation with CLIP Latents", arXiv, 2022 (*OpenAI*). [[Paper](https://arxiv.org/abs/2204.06125)][[Website](https://openai.com/dall-e-2/)]
+* **CogView2**: "CogView2: Faster and Better Text-to-Image Generation via Hierarchical Transformers", arXiv, 2022 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2204.14217)]
+* **?**: "A very preliminary analysis of DALL-E 2", arXiv, 2022 (*NYU*). [[Paper](https://arxiv.org/abs/2204.13807)]
 
 [[Back to Overview](#overview)]
 
@@ -887,11 +903,6 @@ Feel free to share this list with others!
     * **VLT**: "Vision-Language Transformer and Query Generation for Referring Segmentation", ICCV, 2021 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2108.05565)][[Tensorflow](https://github.com/henghuiding/Vision-Language-Transformer)]
 * Analysis:
     * **MM-Explainability**: "Generic Attention-model Explainability for Interpreting Bi-Modal and Encoder-Decoder Transformers", ICCV, 2021 (*Tel Aviv*). [[Paper](https://arxiv.org/abs/2103.15679)][[PyTorch](https://github.com/hila-chefer/Transformer-MM-Explainability)]
-* Generation:
-    * **DALL-E**: "Zero-Shot Text-to-Image Generation", ICML, 2021 (*OpenAI*). [[Paper](https://arxiv.org/abs/2102.12092)][[PyTorch](https://github.com/openai/DALL-E)][[PyTorch (lucidrains)](https://github.com/lucidrains/DALLE-pytorch)]
-    * **CogView**: "CogView: Mastering Text-to-Image Generation via Transformers", NeurIPS, 2021 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2105.13290)][[PyTorch](https://github.com/THUDM/CogView)][[Website](https://lab.aminer.cn/cogview/index.html)]
-    * **DALL-Eval**: "DALL-Eval: Probing the Reasoning Skills and Social Biases of Text-to-Image Generative Transformers", arXiv, 2022 (*UNC*). [[Paper](https://arxiv.org/abs/2202.04053)][[PyTorch](https://github.com/j-min/DallEval)]
-    * **DALL-E-2**: "Hierarchical Text-Conditional Image Generation with CLIP Latents", arXiv, 2022 (*OpenAI*). [[Paper](https://arxiv.org/abs/2204.06125)][[Website](https://openai.com/dall-e-2/)]
 * Speaker Localization:
     * **?**: "The Right to Talk: An Audio-Visual Transformer Approach", ICCV, 2021 (*University of Arkansas*). [[Paper](https://arxiv.org/abs/2108.03256)]
 * Multi-task:
@@ -1459,6 +1470,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
 * **SiT**: "Surface Vision Transformers: Flexible Attention-Based Modelling of Biomedical Surfaces", arXiv, 2022 (*King’s College London, UK*). [[Paper](https://arxiv.org/abs/2204.03408)][[PyTorch (in construction)](https://github.com/metrics-lab/surface-vision-transformers)]
 * **MDBERT**: "Hierarchical BERT for Medical Document Understanding", arXiv, 2022 (*IQVIA, NC*). [[Paper](https://arxiv.org/abs/2204.09600)]
 * **SymTrans**: "Symmetric Transformer-based Network for Unsupervised Image Registration", arXiv, 2022 (*Jilin University*). [[Paper](https://arxiv.org/abs/2204.13575)]
+* **MMT**: "One Model to Synthesize Them All: Multi-contrast Multi-scale Transformer for Missing Data Imputation", arXiv, 2022 (*JHU*). [[Paper](https://arxiv.org/abs/2204.13738)]
 
 [[Back to Overview](#overview)]
 
@@ -1530,6 +1542,7 @@ Pekin*). [[Paper](https://arxiv.org/abs/2204.04654)][[Code (in construction)](ht
     * **EgoTR**: "Cross-view Geo-localization with Evolving Transformer", arXiv, 2021 (*Shenzhen University*). [[Paper](https://arxiv.org/abs/2107.00842)]
     * **TransGeo**: "TransGeo: Transformer Is All You Need for Cross-view Image Geo-localization", CVPR, 2022 (*UCF*). [[Paper](https://arxiv.org/abs/2204.00097)][[Code (in construction)](https://github.com/Jeff-Zilence/TransGeo2022)]
     * **TransGCNN**: "Transformer-Guided Convolutional Neural Network for Cross-View Geolocalization", arXiv, 2022 (*Southeast University, China*). [[Paper](https://arxiv.org/abs/2204.09967)]
+    * **TransLocator**: "Where in the World is this Image? Transformer-based Geo-localization in the Wild", arXiv, 2022 (*JHU*). [[Paper](https://arxiv.org/abs/2204.13861)]
 * Homography Estimation:
     * **LocalTrans**: "LocalTrans: A Multiscale Local Transformer Network for Cross-Resolution Homography Estimation", ICCV, 2021 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2106.04067)]
 * Image Quality Assessment:
