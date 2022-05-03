@@ -859,6 +859,7 @@ Feel free to share this list with others!
 * **WebVid-2M**: "Frozen in Time: A Joint Video and Image Encoder for End-to-End Retrieval", arXiv, 2021 (*Oxford*). [[Paper](https://arxiv.org/abs/2104.00650)]
 * **CCR-CCS**: "More Than Just Attention: Learning Cross-Modal Attentions with Contrastive Constraints", arXiv, 2021 (*Rutgers + Amazon*). [[Paper](https://arxiv.org/abs/2105.09597)]
 * **UMT**: "UMT: Unified Multi-modal Transformers for Joint Video Moment Retrieval and Highlight Detection", CVPR, 2022 (*Tencent*). [[Paper](https://arxiv.org/abs/2203.12745)][[Code (in constrcution)](https://github.com/TencentARC/UMT)]
+* **CenterCLIP**: "CenterCLIP: Token Clustering for Efficient Text-Video Retrieval", SIGIR, 2022 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2205.00823)]
 * **BridgeFormer**: "BridgeFormer: Bridging Video-text Retrieval with Multiple Choice Questions", arXiv, 2022 (*HKU*). [[Paper](https://arxiv.org/abs/2201.04850)][[Website](https://geyuying.github.io/MCQ.html)]
 * **LoopITR**: "LoopITR: Combining Dual and Cross Encoder Architectures for Image-Text Retrieval", arXiv, 2022 (*UNC*). [[Paper](https://arxiv.org/abs/2203.05465)]
 * **MDMMT-2**: "MDMMT-2: Multidomain Multimodal Transformer for Video Retrieval, One More Step Towards Generalization", arXiv, 2022 (*Huawei*). [[Paper](https://arxiv.org/abs/2203.07086)]
@@ -1219,6 +1220,8 @@ Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2204.08696)]
 * **STDAN**: "STDAN: Deformable Attention Network for Space-Time Video Super-Resolution", arXiv, 2022 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2203.06841)]
 * **RSTT**: "RSTT: Real-time Spatial Temporal Transformer for Space-Time Video Super-Resolution", arXiv, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2203.14186)][[PyTorch](https://github.com/llmpass/RSTT)]
 * **VDTR**: "VDTR: Video Deblurring with Transformer", arXiv, 2022 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2204.08023)][[Code (in construction)](https://github.com/ljzycmd/VDTR)]
+* **DSCT**: "Coarse-to-Fine Video Denoising with Dual-Stage Spatial-Channel Transformer", arXiv, 2022 (*Beijing University of Posts and Telecommunications
+*). [[Paper](https://arxiv.org/abs/2205.00214)]
 
 [[Back to Overview](#overview)]
 
@@ -1305,6 +1308,7 @@ Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2204.08696)]
 * Enhancement:
     * **STAR**: "STAR: A Structure-Aware Lightweight Transformer for Real-Time Image Enhancement", ICCV, 2021 (*CUHK + SenseBrain*). [[Paper](https://openaccess.thecvf.com/content/ICCV2021/html/Zhang_STAR_A_Structure-Aware_Lightweight_Transformer_for_Real-Time_Image_Enhancement_ICCV_2021_paper.html)]
     * **PanFormer**: "PanFormer: a Transformer Based Model for Pan-sharpening", ICME, 2022 (*Beihang University*). [[Paper](https://arxiv.org/abs/2203.02916)][[PyTorch](https://github.com/zhysora/PanFormer)]
+    * **URSCT-UIE**: "Reinforced Swin-Convs Transformer for Underwater Image Enhancement", arXiv, 2022 (*Ningbo University*). [[Paper](https://arxiv.org/abs/2205.00434)]
 * Harmonization:
     * **HT**: "Image Harmonization With Transformer", ICCV, 2021 (*Ocean University of China*). [[Paper](https://openaccess.thecvf.com/content/ICCV2021/html/Guo_Image_Harmonization_With_Transformer_ICCV_2021_paper.html)]
 * Image Compression:
@@ -1568,6 +1572,7 @@ Pekin*). [[Paper](https://arxiv.org/abs/2204.04654)][[Code (in construction)](ht
     * **LayoutTransformer**: "LayoutTransformer: Scene Layout Generation With Conceptual and Spatial Diversity", CVPR, 2021 (*NTU*). [[Paper](https://openaccess.thecvf.com/content/CVPR2021/html/Yang_LayoutTransformer_Scene_Layout_Generation_With_Conceptual_and_Spatial_Diversity_CVPR_2021_paper.html)][[PyTorch](https://github.com/davidhalladay/LayoutTransformer)]
     * **LayoutTransformer**: "LayoutTransformer: Layout Generation and Completion with Self-attention", ICCV, 2021 (*Amazon*). [[Paper](https://arxiv.org/abs/2006.14615)][[Website](https://kampta.github.io/layout/)]
     * **LGT-Net**: "LGT-Net: Indoor Panoramic Room Layout Estimation with Geometry-Aware Transformer Network", CVPR, 2022 (*East China Normal University*). [[Paper](https://arxiv.org/abs/2203.01824)][[PyTorch](https://github.com/zhigangjiang/LGT-Net)]
+    * **LayoutBERT**: "LayoutBERT: Masked Language Layout Model for Object Insertion", CVPRW, 2022 (*Adobe*). [[Paper](https://arxiv.org/abs/2205.00347)]
     * **ATEK**: "ATEK: Augmenting Transformers with Expert Knowledge for Indoor Layout Synthesis", arXiv, 2022 (*New Jersey Institute of Technology*). [[Paper](https://arxiv.org/abs/2202.00185)]
 * Livestock Monitoring:
     * **STARFormer**: "Livestock Monitoring with Transformer", BMVC, 2021 (*IIT Dhanbad*). [[Paper](https://arxiv.org/abs/2111.00801)]
