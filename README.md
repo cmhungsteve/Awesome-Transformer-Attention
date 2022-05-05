@@ -339,6 +339,7 @@ Feel free to share this list with others!
 #### Other Attention-Free
 * **PoolFormer**: "MetaFormer is Actually What You Need for Vision", CVPR, 2022 (*Sea AI Lab*). [[Paper](https://arxiv.org/abs/2111.11418)][[PyTorch](https://github.com/sail-sg/poolformer)]
 * **FocalNet**: "Focal Modulation Networks", arXiv, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2203.11926)][[PyTorch](https://github.com/microsoft/FocalNet)]
+* **Sequencer**: "Sequencer: Deep LSTM for Image Classification", arXiv, 2022 (*Rikkyo University, Japan*). [[Paper](https://arxiv.org/abs/2205.01972)]
 
 [[Back to Overview](#overview)]
 
@@ -850,6 +851,7 @@ Feel free to share this list with others!
 * **MultiMAE**: "MultiMAE: Multi-modal Multi-task Masked Autoencoders", arXiv, 2022 (*EPFL*). [[Paper](https://arxiv.org/abs/2204.01678)][[PyTorch](https://github.com/EPFL-VILAB/MultiMAE)][[Website](https://multimae.epfl.ch/)]
 * **Flamingo**: "Flamingo: a Visual Language Model for Few-Shot Learning", arXiv, 2022 (*DeepMind*). [[Paper](https://arxiv.org/abs/2204.14198)]
 * **PyramidCLIP**: "PyramidCLIP: Hierarchical Feature Alignment for Vision-language Model Pretraining", arXiv, 2022 (*Tencent*). [[Paper](https://arxiv.org/abs/2204.14095)]
+* **CoCa**: "CoCa: Contrastive Captioners are Image-Text Foundation Models", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2205.01917)]
 
 [[Back to Overview](#overview)]
 
