@@ -887,6 +887,7 @@ Feel free to share this list with others!
 [[Back to Overview](#overview)]
 
 ### Visual Document Understanding
+* **LayoutLMv2**: "LayoutLMv2: Multi-modal Pre-training for Visually-Rich Document Understanding", ACL, 2021 (*Microsoft*). [[Paper](https://arxiv.org/abs/2012.14740)][[PyTorch](https://github.com/microsoft/unilm/tree/master/layoutlmv2)]
 * **DocFormer**: "DocFormer: End-to-End Transformer for Document Understanding", ICCV, 2021 (*Amazon*). [[Paper](https://arxiv.org/abs/2106.11539)]
 * **TableFormer**: "TableFormer: Table Structure Understanding with Transformers", arXiv, 2022 (*IBM*). [[Paper](https://arxiv.org/abs/2203.01017)]
 * **DocEnTr**: "DocEnTr: An End-to-End Document Image Enhancement Transformer", arXiv, 2022 (*UAB, Spain*). [[Paper](https://arxiv.org/abs/2201.10252)][[PyTorch](https://github.com/dali92002/DocEnTR)]
