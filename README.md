@@ -229,6 +229,7 @@ Feel free to share this list with others!
 * **SepViT**: "SepViT: Separable Vision Transformer", arXiv, 2022 (*University of Electronic Science and Technology of China*). [[Paper](https://arxiv.org/abs/2203.15380)]
 * **ATS**: "Adaptive Inverse Transform Sampling For Efficient Vision Transformers", arXiv, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2111.15667)]
 * **ResT-V2**: "ResT V2: Simpler, Faster and Stronger", arXiv, 2022 (*Nanjing University*). [[Paper](https://arxiv.org/abs/2204.07366)][[PyTorch](https://github.com/wofmanaf/ResT)]
+* **EdgeViT**: "EdgeViTs: Competing Light-weight CNNs on Mobile Devices with Vision Transformers", arXiv, 2022 (*Samsung*). [[Paper](https://arxiv.org/abs/2205.03436)]
 #### Conv + Transformer
 * **LeViT**: "LeViT: a Vision Transformer in ConvNet's Clothing for Faster Inference", ICCV, 2021 (*Facebook*). [[Paper](https://arxiv.org/abs/2104.01136)][[PyTorch](https://github.com/facebookresearch/LeViT)]
 * **CeiT**: "Incorporating Convolution Designs into Visual Transformers", ICCV, 2021 (*SenseTime*). [[Paper](https://arxiv.org/abs/2103.11816)][[PyTorch (rishikksh20)](https://github.com/rishikksh20/CeiT)]
@@ -270,6 +271,7 @@ Feel free to share this list with others!
 * **DILEMMA**: "DILEMMA: Self-Supervised Shape and Texture Learning with Transformers", arXiv, 2022 (*University of Bern, Switzerland*). [[Paper](https://arxiv.org/abs/2204.04788)]
 * **DeiT-III**: "DeiT III: Revenge of the ViT", arXiv, 2022 (*Meta*). [[Paper](https://arxiv.org/abs/2204.07118)]
 * **?**: "Better plain ViT baselines for ImageNet-1k", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2205.01580)][[Tensorflow](https://github.com/google-research/big_vision)]
+* **ConvMAE**: "ConvMAE: Masked Convolution Meets Masked Autoencoders", arXiv, 2022 (*Shanghai AI Laboratory*). [[Paper](https://arxiv.org/abs/2205.03892)][[PyTorch (in construction)](https://github.com/Alpha-VL/ConvMAE)]
 #### Robustness + Transformer
 * **ViT-Robustness**: "Understanding Robustness of Transformers for Image Classification", ICCV, 2021 (*Google*). [[Paper](https://arxiv.org/abs/2103.14586)]
 * **SAGA**: "On the Robustness of Vision Transformers to Adversarial Examples", ICCV, 2021 (*University of Connecticut*). [[Paper](https://arxiv.org/abs/2104.02610)]
@@ -470,6 +472,13 @@ Feel free to share this list with others!
     * **LOST**: "Localizing Objects with Self-Supervised Transformers and no Labels", BMVC, 2021 (*Valeo.ai*). [[Paper](https://arxiv.org/abs/2109.14279)][[PyTorch](https://github.com/valeoai/LOST)]
     * **Omni-DETR**: "Omni-DETR: Omni-Supervised Object Detection with Transformers", CVPR, 2022 (*Amazon*). [[Paper](https://arxiv.org/abs/2203.16089)]
     * **TokenCut**: "Self-Supervised Transformers for Unsupervised Object Discovery using Normalized Cut", arXiv, 2022 (*Univ. Grenoble Alpes, France*). [[Paper](https://arxiv.org/abs/2202.11539)][[Website](https://www.m-psi.fr/Papers/TokenCut2022/)]
+* X-Shot Object Detection:
+    * **AIT**: "Adaptive Image Transformer for One-Shot Object Detection", CVPR, 2021 (*Academia Sinica*). [[Paper](https://openaccess.thecvf.com/content/CVPR2021/html/Chen_Adaptive_Image_Transformer_for_One-Shot_Object_Detection_CVPR_2021_paper.html)]
+    * **Meta-DETR**: "Meta-DETR: Few-Shot Object Detection via Unified Image-Level Meta-Learning", arXiv, 2021 (*NTU Singapore*). [[Paper](https://arxiv.org/abs/2103.11731)]
+    * **CAT**: "CAT: Cross-Attention Transformer for One-Shot Object Detection", arXiv, 2021 (*Northwestern Polytechnical University*). [[Paper](https://arxiv.org/abs/2104.14984)]
+    * **FCT**: "Few-Shot Object Detection with Fully Cross-Transformer", CVPR, 2022 (*Columbia*). [[Paper](https://arxiv.org/abs/2203.15021)]
+    * **SaFT**: "Semantic-aligned Fusion Transformer for One-shot Object Detection", arXiv, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2203.09093)]
+    * **Incremental-DETR**: "Incremental-DETR: Incremental Few-Shot Object Detection via Self-Supervised Learning", arXiv, 2022 (*NUS*). [[Paper](https://arxiv.org/abs/2205.04042)]
 * Pedestrian Detection:
     * **PED**: "DETR for Crowd Pedestrian Detection", arXiv, 2020 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2012.06785)][[PyTorch](https://github.com/Hatmm/PED-DETR-for-Pedestrian-Detection)]
     * **Pedestron**: "Pedestrian Detection: Domain Generalization, CNNs, Transformers and Beyond", arXiv, 2022 (*IIAI*). [[Paper](https://arxiv.org/abs/2201.03176)][[PyTorch](https://github.com/hasanirtiza/Pedestron)]
@@ -497,12 +506,6 @@ Feel free to share this list with others!
     * **DA-DETR**: "DA-DETR: Domain Adaptive Detection Transformer by Hybrid Attention", arXiv, 2021 (*NTU Singapore*). [[Paper](https://arxiv.org/abs/2103.17084)]
     * **OAA-OTA**: "Improving Transferability for Domain Adaptive Detection Transformers", arXiv, 2022 (*Beijing Institute of Technology*). [[Paper](https://arxiv.org/abs/2204.14195)]
     * **MTKT**: "Cross-Domain Object Detection with Mean-Teacher Transformer", arXiv, 2022 (*Beihang University*). [[Paper](https://arxiv.org/abs/2205.01643)]
-* X-Shot Object Detection:
-    * **AIT**: "Adaptive Image Transformer for One-Shot Object Detection", CVPR, 2021 (*Academia Sinica*). [[Paper](https://openaccess.thecvf.com/content/CVPR2021/html/Chen_Adaptive_Image_Transformer_for_One-Shot_Object_Detection_CVPR_2021_paper.html)]
-    * **Meta-DETR**: "Meta-DETR: Few-Shot Object Detection via Unified Image-Level Meta-Learning", arXiv, 2021 (*NTU Singapore*). [[Paper](https://arxiv.org/abs/2103.11731)]
-    * **CAT**: "CAT: Cross-Attention Transformer for One-Shot Object Detection", arXiv, 2021 (*Northwestern Polytechnical University*). [[Paper](https://arxiv.org/abs/2104.14984)]
-    * **FCT**: "Few-Shot Object Detection with Fully Cross-Transformer", CVPR, 2022 (*Columbia*). [[Paper](https://arxiv.org/abs/2203.15021)]
-    * **SaFT**: "Semantic-aligned Fusion Transformer for One-shot Object Detection", arXiv, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2203.09093)]
 * Co-Salient Object Detection:
     * **CoSformer**: "CoSformer: Detecting Co-Salient Object with Transformers", arXiv, 2021 (*Nanjing University*). [[Paper](https://arxiv.org/abs/2104.14729)]
 * Oriented Object Detection:
@@ -1050,6 +1053,8 @@ Feel free to share this list with others!
 * **GTR**: "Global Tracking Transformers", CVPR, 2022 (*UT Austin*). [[Paper](https://arxiv.org/abs/2203.13250)][[PyTorch](https://github.com/xingyizhou/GTR)]
 * **UTT**: "Unified Transformer Tracker for Object Tracking", CVPR, 2022 (*Meta*). [[Paper](https://arxiv.org/abs/2203.15175)][[Code (in construction)](https://github.com/Flowerfan/Trackron)]
 * **MeMOT**: "MeMOT: Multi-Object Tracking with Memory", CVPR, 2022 (*Amazon*). [[Paper](https://arxiv.org/abs/2203.16761)]
+* **CSwinTT**: "Transformer Tracking with Cyclic Shifting Window Attention", CVPR, 2022 (*Huazhong University of Science and Technology*). [[Paper](https://arxiv.org/abs/2205.03806)][[PyTorch](https://github.com/SkyeSong38/CSWinTT)]
+* **SparseTT**: "SparseTT: Visual Tracking with Sparse Transformers", IJCAI, 2022 (*Beihang University*). [[Paper](https://arxiv.org/abs/2205.03776)][[Code (in construction)](https://github.com/fzh0917/SparseTT)]
 * **TransT-M**: "High-Performance Transformer Tracking", arXiv, 2022 (*Dalian University of Technology*). [[Paper](https://arxiv.org/abs/2203.13533)]
 * **HCAT**: "Efficient Visual Tracking via Hierarchical Cross-Attention Transformer", arXiv, 2022 (*Dalian University of Technology*). [[Paper](https://arxiv.org/abs/2203.13537)]
 * **?**: "Keypoints Tracking via Transformer Networks", arXiv, 2022 (*KAIST*). [[Paper](https://arxiv.org/abs/2203.12848)][[PyTorch](https://github.com/LexaNagiBator228/Keypoints-Tracking-via-Transformer-Networks/)]
@@ -1216,6 +1221,7 @@ Feel free to share this list with others!
 * **CTCNet**: "CTCNet: A CNN-Transformer Cooperation Network for Face Image Super-Resolution", arXiv, 2022 (*Nanjing University of
 Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2204.08696)]
 * **DRT**: "DRT: A Lightweight Single Image Deraining Recursive Transformer", arXiv, 2022 (*ANU, Australia*). [[Paper](https://arxiv.org/abs/2204.11385)][[PyTorch (in construction)](https://github.com/YC-Liang/DRT)]
+* **HAT**: "Activating More Pixels in Image Super-Resolution Transformer", arXiv, 2022 (*University of Macau*). [[Paper](https://arxiv.org/abs/2205.04437)][[Code (in construction)](https://github.com/chxy95/HAT)]
 
 [[Back to Overview](#overview)]
 
@@ -1566,6 +1572,7 @@ Pekin*). [[Paper](https://arxiv.org/abs/2204.04654)][[Code (in construction)](ht
     * **TranSLA**: "Saliency-Guided Transformer Network Combined With Local Embedding for No-Reference Image Quality Assessment", ICCVW, 2021 (*Hikvision*). [[Paper](https://openaccess.thecvf.com/content/ICCV2021W/AIM/html/Zhu_Saliency-Guided_Transformer_Network_Combined_With_Local_Embedding_for_No-Reference_Image_ICCVW_2021_paper.html)]
     * **TReS**: "No-Reference Image Quality Assessment via Transformers, Relative Ranking, and Self-Consistency", WACV, 2022 (*CMU*). [[Paper](https://arxiv.org/abs/2108.06858)]
     * **IQA-Conformer**: "Conformer and Blind Noisy Students for Improved Image Quality Assessment", CVPRW, 2022 (*University of Wurzburg, Germany*). [[Paper](https://arxiv.org/abs/2204.12819)][[PyTorch](https://github.com/burchim/IQA-Conformer-BNS)]
+    * **SwinIQA**: "SwinIQA: Learned Swin Distance for Compressed Image Quality Assessment", CVPRW, 2022 (*USTC, China*). [[Paper](https://arxiv.org/abs/2205.04264)]
     * **MCAS-IQA**: "Visual Mechanisms Inspired Efficient Transformers for Image and Video Quality Assessment", arXiv, 2022 (*Norwegian Research Centre, Norway*). [[Paper](https://arxiv.org/abs/2203.14557)]
 * Image Registration:
     * **AiR**: "Attention for Image Registration (AiR): an unsupervised Transformer approach", arXiv, 2021 (*INRIA*). [[Paper](https://arxiv.org/abs/2105.02282)]
