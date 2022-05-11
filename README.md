@@ -876,6 +876,7 @@ Feel free to share this list with others!
 * **LoopITR**: "LoopITR: Combining Dual and Cross Encoder Architectures for Image-Text Retrieval", arXiv, 2022 (*UNC*). [[Paper](https://arxiv.org/abs/2203.05465)]
 * **MDMMT-2**: "MDMMT-2: Multidomain Multimodal Transformer for Video Retrieval, One More Step Towards Generalization", arXiv, 2022 (*Huawei*). [[Paper](https://arxiv.org/abs/2203.07086)]
 * **MILES**: "MILES: Visual BERT Pre-training with Injected Language Semantics for Video-text Retrieval", arXiv, 2022 (*HKU*). [[Paper](https://arxiv.org/abs/2204.12408)]
+* **TNLBT**: "Transformer-based Cross-Modal Recipe Embeddings with Large Batch Training", arXiv, 2022 (*The University of Electro-Communications, Japan*). [[Paper](https://arxiv.org/abs/2205.04948)]
 
 [[Back to Overview](#overview)]
 
@@ -1116,6 +1117,8 @@ Feel free to share this list with others!
     * **?**: "Transformer-based Multimodal Information Fusion for Facial Expression Analysis", arXiv, 2022 (*Netease, China*). [[Paper](https://arxiv.org/abs/2203.12367)]
     * **?**: "Facial Expression Recognition with Swin Transformer", arXiv, 2022 (*Dongguk University, Korea*). [[Paper](https://arxiv.org/abs/2203.13472)]
     * **POSTER**: "POSTER: A Pyramid Cross-Fusion Transformer Network for Facial Expression Recognition", arXiv, 2022 (*UCF*). [[Paper](https://arxiv.org/abs/2204.04083)]
+    * **STT**: "Spatio-Temporal Transformer for Dynamic Facial Expression Recognition in the Wild", arXiv, 2022 (*Hunan University
+*). [[Paper](https://arxiv.org/abs/2205.04749)]
 * Attack-related:
     * **?**: "Video Transformer for Deepfake Detection with Incremental Learning", ACMMM, 2021 (*MBZUAI*). [[Paper](https://arxiv.org/abs/2108.05307)]
     * **ViTranZFAS**: "On the Effectiveness of Vision Transformers for Zero-shot Face Anti-Spoofing", International Joint Conference on Biometrics (IJCB), 2021 (*Idiap*). [[Paper](https://arxiv.org/abs/2011.08019)]
@@ -1255,6 +1258,7 @@ Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2204.08696)]
 * **?**: "Image-Adaptive Hint Generation via Vision Transformer for Outpainting", WACV, 2022 (*Sogang University, Korea*). [[Paper](https://openaccess.thecvf.com/content/WACV2022/html/Kong_Image-Adaptive_Hint_Generation_via_Vision_Transformer_for_Outpainting_WACV_2022_paper.html)]
 * **ZITS**: "Incremental Transformer Structure Enhanced Image Inpainting with Masking Positional Encoding", CVPR, 2022 (*Fudan*). [[Paper](https://arxiv.org/abs/2203.00867)][[Code (in construction)](https://github.com/DQiaole/ZITS_inpainting)]
 * **MAT**: "MAT: Mask-Aware Transformer for Large Hole Image Inpainting", CVPR, 2022 (*CUHK*). [[Paper](https://arxiv.org/abs/2203.15270)][[PyTorch](https://github.com/fenglinglwb/MAT)]
+* **PUT**: "Reduce Information Loss in Transformers for Pluralistic Image Inpainting", CVPR, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2205.05076)]
 * **U-Transformer**: "Generalised Image Outpainting with U-Transformer", arXiv, 2022 (*Xi'an Jiaotong-Liverpool University*). [[Paper](https://arxiv.org/abs/2201.11403)]
 
 [[Back to Overview](#overview)]
