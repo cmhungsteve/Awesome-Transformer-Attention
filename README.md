@@ -524,6 +524,7 @@ Feel free to share this list with others!
     * **TTS**: "Towards Weakly-Supervised Text Spotting using a Multi-Task Transformer", arXiv, 2022 (*Amazon*). [[Paper](https://arxiv.org/abs/2202.05508)]
     * **TransDETR**: "End-to-End Video Text Spotting with Transformer", arXiv, 2022 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2203.10539)][[PyTorch](https://github.com/weijiawu/TransDETR)]
     * **?**: "Arbitrary Shape Text Detection using Transformers", arXiv, 2022 (*University of Waterloo, Canada*). [[Paper](https://arxiv.org/abs/2202.11221)]
+    * **?**: "Arbitrary Shape Text Detection via Boundary Transformer", arXiv, 2022 (*University of Science and Technology Beijing*). [[Paper](https://arxiv.org/abs/2205.05320)][[Code (in construction)](https://github.com/GXYM/TextBPN-Plus-Plus)]
 * Change Detection:
     * **ChangeFormer**: "A Transformer-Based Siamese Network for Change Detection", arXiv, 2022 (*JHU*). [[Paper](https://arxiv.org/abs/2201.01293)][[PyTorch](https://github.com/wgcban/ChangeFormer)]
 * Edge Detection:
@@ -1021,6 +1022,7 @@ Feel free to share this list with others!
     * **MHFormer**: "MHFormer: Multi-Hypothesis Transformer for 3D Human Pose Estimation", CVPR, 2022 (*Peking*). [[Paper](https://arxiv.org/abs/2111.12707)][[PyTorch](https://github.com/Vegetebird/MHFormer)]
     * **PAHMT**: "Spatial-Temporal Parallel Transformer for Arm-Hand Dynamic Estimation", CVPR, 2022 (*NetEase*). [[Paper](https://arxiv.org/abs/2203.16202)]
     * **TCFormer**: "Not All Tokens Are Equal: Human-centric Visual Analysis via Token Clustering Transformer", CVPR, 2022 (*CUHK*). [[Paper](https://arxiv.org/abs/2204.08680)][[Code (in construction)](https://github.com/zengwang430521/TCFormer)]
+    * **AggPose**: "AggPose: Deep Aggregation Vision Transformer for Infant Pose Estimation", IJCAI, 2022 (*Shenzhen Baoan Women’s and Childiren’s Hospital*). [[Paper](https://arxiv.org/abs/2205.05277)][[Code (in construction)](https://github.com/SZAR-LAB/AggPose)]
     * **Swin-Pose**: "Swin-Pose: Swin Transformer Based Human Pose Estimation", arXiv, 2022 (*UMass Lowell*) [[Paper](https://arxiv.org/abs/2201.07384)]
     * **Poseur**: "Poseur: Direct Human Pose Regression with Transformers", arXiv, 2022 (*The University of Adelaide, Australia*). [[Paper](https://arxiv.org/abs/2201.07412)]
     * **HeadPosr**: "HeadPosr: End-to-end Trainable Head Pose Estimation using Transformer Encoders", arXiv, 2022 (*ETHZ*). [[Paper](https://arxiv.org/abs/2202.03548)]
@@ -1516,8 +1518,6 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **?**: "Robustness Evaluation of Transformer-based Form Field Extractors via Form Attacks", arXiv, 2021 (*Salesforce*). [[Paper](https://arxiv.org/abs/2110.04413)]
     * **T<sup>3</sup>**: "TrueType Transformer: Character and Font Style Recognition in Outline Format", Document Analysis Systems (DAS), 2022 (*Kyushu University*). [[Paper](https://arxiv.org/abs/2203.05338)]
     * **?**: "Transformer-based HTR for Historical Documents", ComHum, 2022 (*University of Zurich, Switzerland*). [[Paper](https://arxiv.org/abs/2203.11008)]
-* Cross-View Geo-Localization:
-    * **MGTL**: "Mutual Generative Transformer Learning for Cross-view Geo-localization", arXiv, 2022 (*University of Electronic Science and Technology of China*). [[Paper](https://arxiv.org/abs/2203.09135)]
 * Crowd Counting:
     * **CC-AV**: "Audio-Visual Transformer Based Crowd Counting", ICCVW, 2021 (*University of Kansas*). [[Paper](https://arxiv.org/abs/2109.01926)]
     * **TransCrowd**: "TransCrowd: Weakly-Supervised Crowd Counting with Transformer", arXiv, 2021 (*Huazhong University of Science and Technology*). [[Paper](https://arxiv.org/abs/2104.09116)][[PyTorch](https://github.com/dk-liang/TransCrowd)]
@@ -1568,6 +1568,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **TransGeo**: "TransGeo: Transformer Is All You Need for Cross-view Image Geo-localization", CVPR, 2022 (*UCF*). [[Paper](https://arxiv.org/abs/2204.00097)][[Code (in construction)](https://github.com/Jeff-Zilence/TransGeo2022)]
     * **TransGCNN**: "Transformer-Guided Convolutional Neural Network for Cross-View Geolocalization", arXiv, 2022 (*Southeast University, China*). [[Paper](https://arxiv.org/abs/2204.09967)]
     * **TransLocator**: "Where in the World is this Image? Transformer-based Geo-localization in the Wild", arXiv, 2022 (*JHU*). [[Paper](https://arxiv.org/abs/2204.13861)]
+    * **MGTL**: "Mutual Generative Transformer Learning for Cross-view Geo-localization", arXiv, 2022 (*University of Electronic Science and Technology of China*). [[Paper](https://arxiv.org/abs/2203.09135)]
 * Homography Estimation:
     * **LocalTrans**: "LocalTrans: A Multiscale Local Transformer Network for Cross-Resolution Homography Estimation", ICCV, 2021 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2106.04067)]
 * Image Quality Assessment:
