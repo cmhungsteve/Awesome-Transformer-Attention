@@ -438,6 +438,7 @@ Feel free to share this list with others!
 * **StrucTexT**: "StrucTexT: Structured Text Understanding with Multi-Modal Transformers", arXiv, 2021 (*Baidu*). [[Paper](https://arxiv.org/abs/2108.02923)]
 * **simCrossTrans**: "simCrossTrans: A Simple Cross-Modality Transfer Learning for Object Detection with ConvNets or Vision Transformers", arXiv, 2022 (*The City University of New York*). [[Paper](https://arxiv.org/abs/2203.10456)][[PyTorch](https://github.com/liketheflower/simCrossTrans)]
 * **X-DETR**: "X-DETR: A Versatile Architecture for Instance-wise Vision-Language Tasks", arXiv, 2022 (*Amazon*). [[Paper](https://arxiv.org/abs/2204.05626)]
+* **OWL-ViT**: "Simple Open-Vocabulary Object Detection with Vision Transformers", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2205.06230)]
 
 [[Back to Overview](#overview)]
 
@@ -586,6 +587,7 @@ Feel free to share this list with others!
     * **DPT**: "Vision Transformers for Dense Prediction", ICCV, 2021 (*Intel*). [[Paper](https://arxiv.org/abs/2103.13413)][[PyTorch](https://github.com/intel-isl/DPT)]
 * Instance Segmentation:
     * **ISTR**: "ISTR: End-to-End Instance Segmentation with Transformers", arXiv, 2021 (*Xiamen University*). [[Paper](https://arxiv.org/abs/2105.00637)][[PyTorch](https://github.com/hujiecpp/ISTR)]
+    * **Mask-Transfiner**: "Mask Transfiner for High-Quality Instance Segmentation", CVPR, 2022 (*ETHZ*). [[Paper](https://arxiv.org/abs/2111.13673)][[PyTorch](https://github.com/SysCV/transfiner)][[Website](https://www.vis.xyz/pub/transfiner/)]
 * Depth Estimation:
     * **TransDepth**: "Transformer-Based Attention Networks for Continuous Pixel-Wise Prediction", ICCV, 2021 (*Haerbin Institute of Technology + University of Trento*). [[Paper](https://arxiv.org/abs/2103.12091)][[PyTorch](https://github.com/ygjwd12345/TransDepth)]
     * **ASTransformer**: "Transformer-based Monocular Depth Estimation with Attention Supervision", BMVC, 2021 (*USTC*). [[Paper](https://www.bmvc2021-virtualconference.com/assets/papers/0244.pdf)][[PyTorch](https://github.com/WJ-Chang-42/ASTransformer)]
@@ -685,6 +687,7 @@ Feel free to share this list with others!
 * **TAPG-Transformer**: "Temporal Action Proposal Generation with Transformers", arXiv, 2021 (*Harbin Institute of Technology*). [[Paper](https://arxiv.org/abs/2105.12043)]
 * **TadTR**: "End-to-end Temporal Action Detection with Transformer", arXiv, 2021 (*Alibaba*). [[Paper](https://arxiv.org/abs/2106.10271)][[Code (in construction)](https://github.com/xlliu7/TadTR)]
 * **Vidpress-Soccer**: "Feature Combination Meets Attention: Baidu Soccer Embeddings and Transformer based Temporal Detection", arXiv, 2021 (*Baidu*). [[Paper](https://arxiv.org/abs/2106.14447)][[GitHub](https://github.com/baidu-research/vidpress-sports)]
+* **EAMAT**: "Entity-aware and Motion-aware Transformers for Language-driven Action Localization in Videos", IJCAI, 2022 (*Beijing Institute of Technology*). [[Paper](https://arxiv.org/abs/2205.05854)][[Code (in construction)](https://github.com/shuoyang129/EAMAT)]
 * **CoOadTR**: "Continual Transformers: Redundancy-Free Attention for Online Inference", arXiv, 2022 (*Aarhus University, Denmark*). [[Paper](https://arxiv.org/abs/2201.06268)][[PyTorch](https://github.com/LukasHedegaard/continual-transformers)]
 * **ActionFormer**: "ActionFormer: Localizing Moments of Actions with Transformers", arXiv, 2022 (*UW-Madison*). [[Paper](https://arxiv.org/abs/2202.07925)][[PyTorch](https://github.com/happyharrycn/actionformer_release)]
 * **Temporal-Perceiver**: "Temporal Perceiver: A General Architecture for Arbitrary Boundary Detection", arXiv, 2022 (*Nanjing University*). [[Paper](https://arxiv.org/abs/2203.00307)]
