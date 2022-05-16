@@ -1813,6 +1813,7 @@ If you find this repository useful, please consider citing this list:
 * Online Resources:
     * [Papers with Code](https://paperswithcode.com/methods/category/vision-transformer)
     * [Practical Introduction to Transformers (GitHub)](https://github.com/IbrahimSobh/Transformers)
+    * [Awesome Transformer Architecture Search (GitHub)](https://github.com/automl/awesome-transformer-search)
     * [Transformer-in-Vision (GitHub)](https://github.com/DirtyHarryLYL/Transformer-in-Vision)   
     * [Awesome Visual-Transformer (GitHub)](https://github.com/dk-liang/Awesome-Visual-Transformer)
     * [Awesome Transformer for Vision Resources List (GitHub)](https://github.com/lijiaman/awesome-transformer-for-vision)
