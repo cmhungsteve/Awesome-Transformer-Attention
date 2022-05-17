@@ -305,10 +305,10 @@ Feel free to share this list with others!
 * **NViT**: "NViT: Vision Transformer Compression and Parameter Redistribution", arXiv, 2021 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2110.04869)]
 * **MD-ViT**: "Multi-Dimensional Model Compression of Vision Transformer", arXiv, 2021 (*Princeton*). [[Paper](https://arxiv.org/abs/2201.00043)]
 * **PTQ4ViT**: "PTQ4ViT: Post-Training Quantization Framework for Vision Transformers", arXiv, 2021 (*Peking University*). [[Paper](https://arxiv.org/abs/2111.12293)]
-* **FQ-ViT**: "FQ-ViT: Fully Quantized Vision Transformer without Retraining", arXiv, 2021 (*MEGVII*). [[Paper](https://arxiv.org/abs/2111.13824)][[PyTorch](https://github.com/linyang-zhh/FQ-ViT)]
+* **FQ-ViT**: "FQ-ViT: Fully Quantized Vision Transformer without Retraining", arXiv, 2021 (*Megvii*). [[Paper](https://arxiv.org/abs/2111.13824)][[PyTorch](https://github.com/linyang-zhh/FQ-ViT)]
 * **UVC**: "Unified Visual Transformer Compression", ICLR, 2022 (*UT Austin*). [[Paper](https://arxiv.org/abs/2203.08243)][[PyTorch](https://github.com/VITA-Group/UVC)]
 * **MiniViT**: "MiniViT: Compressing Vision Transformers with Weight Multiplexing", CVPR, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2204.07154)][[PyTorch](https://github.com/microsoft/Cream/tree/main/MiniViT)]
-* **Q-ViT**: "Q-ViT: Fully Differentiable Quantization for Vision Transformer", arXiv, 2022 (*MEGVII*). [[Paper](https://arxiv.org/abs/2201.07703)]
+* **Q-ViT**: "Q-ViT: Fully Differentiable Quantization for Vision Transformer", arXiv, 2022 (*Megvii*). [[Paper](https://arxiv.org/abs/2201.07703)]
 * **VAQF**: "VAQF: Fully Automatic Software-Hardware Co-Design Framework for Low-Bit Vision Transformer", arXiv, 2022 (*Northeastern University*). [[Paper](https://arxiv.org/abs/2201.06618)]
 * **PSAQ-ViT**: "Patch Similarity Aware Data-Free Quantization for Vision Transformers", arXiv, 2022 (*CAS*). [[Paper](https://arxiv.org/abs/2203.02250)]
 * **VTP**: "Vision Transformer Compression with Structured Pruning and Low Rank Approximation", arXiv, 2022 (*UCLA*). [[Paper](https://arxiv.org/abs/2203.13444)]
@@ -318,7 +318,7 @@ Feel free to share this list with others!
 
 ### Attention-Free 
 #### MLP-Series
-* **RepMLP**: "RepMLP: Re-parameterizing Convolutions into Fully-connected Layers for Image Recognition", arXiv, 2021 (*MEGVII*). [[Paper](https://arxiv.org/abs/2105.01883)][[PyTorch](https://github.com/DingXiaoH/RepMLP)]
+* **RepMLP**: "RepMLP: Re-parameterizing Convolutions into Fully-connected Layers for Image Recognition", arXiv, 2021 (*Megvii*). [[Paper](https://arxiv.org/abs/2105.01883)][[PyTorch](https://github.com/DingXiaoH/RepMLP)]
 * **EAMLP**: "Beyond Self-attention: External Attention using Two Linear Layers for Visual Tasks", arXiv, 2021 (*Tsinghua University*). [[Paper](https://arxiv.org/abs/2105.02358)]
 * **Forward-Only**: "Do You Even Need Attention? A Stack of Feed-Forward Layers Does Surprisingly Well on ImageNet", arXiv, 2021 (*Oxford*). [[Paper](https://arxiv.org/abs/2105.02723)][[PyTorch](https://github.com/lukemelas/do-you-even-need-attention)]
 * **ResMLP**: "ResMLP: Feedforward networks for image classification with data-efficient training", arXiv, 2021 (*Facebook*). [[Paper](https://arxiv.org/abs/2105.03404)]
@@ -387,8 +387,8 @@ Feel free to share this list with others!
     * **Efficient-DETR**: "Efficient DETR: Improving End-to-End Object Detector with Dense Prior", arXiv, 2021 (*Megvii*). [[Paper](https://arxiv.org/abs/2104.01318)]
     * **CA-FPN**: "Content-Augmented Feature Pyramid Network with Light Linear Transformers", arXiv, 2021 (*CAS*). [[Paper](https://arxiv.org/abs/2105.09464)]
     * **DETReg**: "DETReg: Unsupervised Pretraining with Region Priors for Object Detection", arXiv, 2021 (*Tel-Aviv + Berkeley*). [[Paper](https://arxiv.org/abs/2106.04550)][[Website](https://www.amirbar.net/detreg/)]
-    * **GQPos**: "Guiding Query Position and Performing Similar Attention for Transformer-Based Detection Heads", arXiv, 2021 (*MEGVII*). [[Paper](https://arxiv.org/abs/2108.09691)]
-    * **Anchor-DETR**: "Anchor DETR: Query Design for Transformer-Based Detector", AAAI, 2022 (*MEGVII*). [[Paper](https://arxiv.org/abs/2109.07107)][[PyTorch](https://github.com/megvii-research/AnchorDETR)]
+    * **GQPos**: "Guiding Query Position and Performing Similar Attention for Transformer-Based Detection Heads", arXiv, 2021 (*Megvii*). [[Paper](https://arxiv.org/abs/2108.09691)]
+    * **Anchor-DETR**: "Anchor DETR: Query Design for Transformer-Based Detector", AAAI, 2022 (*Megvii*). [[Paper](https://arxiv.org/abs/2109.07107)][[PyTorch](https://github.com/megvii-research/AnchorDETR)]
     * **Sparse-DETR**: "Sparse DETR: Efficient End-to-End Object Detection with Learnable Sparsity", ICLR, 2022 (*Kakao*). [[Paper](https://arxiv.org/abs/2111.14330)][[PyTorch](https://github.com/kakaobrain/sparse-detr)]
     * **DAB-DETR**: "DAB-DETR: Dynamic Anchor Boxes are Better Queries for DETR", ICLR, 2022 (*IDEA, China*). [[Paper](https://arxiv.org/abs/2201.12329)][[Code (in construction)](https://github.com/SlongLiu/DAB-DETR)]
     * **DN-DETR**: "DN-DETR: Accelerate DETR Training by Introducing Query DeNoising", CVPR, 2022 (*International Digital Economy Academy, China*). [[Paper](https://arxiv.org/abs/2203.01305)][[Code (in construction)](https://github.com/FengLi-ust/DN-DETR)]
@@ -426,7 +426,7 @@ Feel free to share this list with others!
 * **TransFusion**: "TransFusion: Robust LiDAR-Camera Fusion for 3D Object Detection with Transformers", CVPR, 2022 (*HKUST*). [[Paper](https://arxiv.org/abs/2203.11496)][[PyTorch](https://github.com/XuyangBai/TransFusion)]
 * **CAT-Det**: "CAT-Det: Contrastively Augmented Transformer for Multi-modal 3D Object Detection", CVPR, 2022 (*Beihang University*). [[Paper](https://arxiv.org/abs/2204.00325)]
 * **TokenFusion**: "Multimodal Token Fusion for Vision Transformers", CVPR, 2022 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2204.08721)]
-* **PETR**: "PETR: Position Embedding Transformation for Multi-View 3D Object Detection", arXiv, 2022 (*MEGVII*). [[Paper](https://arxiv.org/abs/2203.05625)]
+* **PETR**: "PETR: Position Embedding Transformation for Multi-View 3D Object Detection", arXiv, 2022 (*Megvii*). [[Paper](https://arxiv.org/abs/2203.05625)]
 * **MonoDETR**: "MonoDETR: Depth-aware Transformer for Monocular 3D Object Detection", arXiv, 2022 (*Shanghai AI Laboratory*). [[Paper](https://arxiv.org/abs/2203.13310)][[Code (in construction)](https://github.com/ZrrSkywalker/MonoDETR)]
 * **Graph-DETR3D**: "Graph-DETR3D: Rethinking Overlapping Regions for Multi-View 3D Object Detection", arXiv, 2022 (*University of Science and Technology of China*). [[Paper](https://arxiv.org/abs/2204.11582)]
 
@@ -564,6 +564,7 @@ Feel free to share this list with others!
 * **DFlatFormer**: "Dual-Flattening Transformers through Decomposed Row and Column Queries for Semantic Segmentation", arXiv, 2022 (*OPPO*). [[Paper](https://arxiv.org/abs/2201.09139)]
 * **FeSeFormer**: "Feature Selective Transformer for Semantic Image Segmentation", arXiv, 2022 (*Baidu*). [[Paper](https://arxiv.org/abs/2203.14124)]
 * **StructToken**: "StructToken : Rethinking Semantic Segmentation with Structural Prior", arXiv, 2022 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2203.12612)]
+* **TSG**: "Transformer Scale Gate for Semantic Segmentation", arXiv, 2022 (*Monash University, Australia*). [[Paper](https://arxiv.org/abs/2205.07056)]
 
 [[Back to Overview](#overview)]
 
@@ -1051,7 +1052,7 @@ Feel free to share this list with others!
 * **TransCenter**: "TransCenter: Transformers with Dense Queries for Multiple-Object Tracking", arXiv, 2021 (*INRIA + MIT*). [[Paper](https://arxiv.org/abs/2103.15145)]
 * **TransMOT**: "TransMOT: Spatial-Temporal Graph Transformer for Multiple Object Tracking", arXiv, 2021 (*Microsoft*). [[Paper](https://arxiv.org/abs/2104.00194)]
 * **TREG**: "Target Transformed Regression for Accurate Tracking", arXiv, 2021 (*Nanjing University*). [[Paper](https://arxiv.org/abs/2104.00403)][[Code (in construction)](https://github.com/MCG-NJU/TREG)]
-* **MOTR**: "MOTR: End-to-End Multiple-Object Tracking with TRansformer", arXiv, 2021 (*MEGVII*). [[Paper](https://arxiv.org/abs/2105.03247)][[PyTorch](https://github.com/megvii-model/MOTR)]
+* **MOTR**: "MOTR: End-to-End Multiple-Object Tracking with TRansformer", arXiv, 2021 (*Megvii*). [[Paper](https://arxiv.org/abs/2105.03247)][[PyTorch](https://github.com/megvii-model/MOTR)]
 * **TrTr**: "TrTr: Visual Tracking with Transformer", arXiv, 2021 (*University of Tokyo*). [[Paper](https://arxiv.org/abs/2105.03817)][[Pytorch](https://github.com/tongtybj/TrTr)]
 * **RelationTrack**: "RelationTrack: Relation-aware Multiple Object Tracking with Decoupled Representation", arXiv, 2021 (*Huazhong Univerisity of Science and Technology*). [[Paper](https://arxiv.org/abs/2105.04322)]
 * **SiamTPN**: "Siamese Transformer Pyramid Networks for Real-Time UAV Tracking", WACV, 2022 (*New York University*). [[Paper](https://arxiv.org/abs/2110.08822)]
@@ -1217,7 +1218,7 @@ Feel free to share this list with others!
 * **Uformer**: "Uformer: A General U-Shaped Transformer for Image Restoration", CVPR, 2022 (*University of Science and Technology of China*). [[Paper](https://arxiv.org/abs/2106.03106)][[PyTorch](https://github.com/ZhendongWang6/Uformer)]
 * **MAXIM**: "MAXIM: Multi-Axis MLP for Image Processing", CVPR, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2201.02973)][[Tensorflow](https://github.com/google-research/maxim)]
 * **HyperTransformer**: "HyperTransformer: A Textural and Spectral Feature Fusion Transformer for Pansharpening", CVPR, 2022 (*JHU*). [[Paper](https://arxiv.org/abs/2203.02503)][[PyTorch](https://github.com/wgcban/HyperTransformer)]
-* **BSRT**: "BSRT: Improving Burst Super-Resolution with Swin Transformer and Flow-Guided Deformable Alignment", CVPRW, 2022 (*MEGVII*). [[Paper](https://arxiv.org/abs/2204.08332)][[PyTorch](https://github.com/Algolzw/BSRT)]
+* **BSRT**: "BSRT: Improving Burst Super-Resolution with Swin Transformer and Flow-Guided Deformable Alignment", CVPRW, 2022 (*Megvii*). [[Paper](https://arxiv.org/abs/2204.08332)][[PyTorch](https://github.com/Algolzw/BSRT)]
 * **LBNet**: "Lightweight Bimodal Network for Single-Image Super-Resolution via Symmetric CNN and Recursive Transformer", IJCAI, 2022 (*Nanjing University of Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2204.13286)][[PyTorch (in construction)](https://github.com/IVIPLab/LBNet)]
 * **LFT**: "Light Field Image Super-Resolution with Transformers", IEEE Signal Processing Letters, 2022 (*National University of Defense Technology, China*). [[Paper](https://arxiv.org/abs/2108.07597)][[PyTorch](https://github.com/ZhengyuLiang24/LFT)]
 * **ELAN**: "Efficient Long-Range Attention Network for Image Super-resolution", arXiv, 2022 (*The Hong Kong Polytechnic University*). [[Paper](https://arxiv.org/abs/2203.06697)][[Code (in construction)](https://github.com/xindongzhang/ELAN)]
@@ -1231,6 +1232,7 @@ Feel free to share this list with others!
 Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2204.08696)]
 * **DRT**: "DRT: A Lightweight Single Image Deraining Recursive Transformer", arXiv, 2022 (*ANU, Australia*). [[Paper](https://arxiv.org/abs/2204.11385)][[PyTorch (in construction)](https://github.com/YC-Liang/DRT)]
 * **HAT**: "Activating More Pixels in Image Super-Resolution Transformer", arXiv, 2022 (*University of Macau*). [[Paper](https://arxiv.org/abs/2205.04437)][[Code (in construction)](https://github.com/chxy95/HAT)]
+* **DenSformer**: "Dense residual Transformer for image denoising", arXiv, 2022 (*University of Science and Technology Beijing*). [[Paper](https://arxiv.org/abs/2205.06944)]
 
 [[Back to Overview](#overview)]
 
@@ -1311,6 +1313,7 @@ Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2204.08696)]
 * **AIST++**: "Learn to Dance with AIST++: Music Conditioned 3D Dance Generation", arXiv, 2021 (*Google*). [[Paper](https://arxiv.org/abs/2101.08779)][[Code](https://github.com/google/aistplusplus_api)][[Website](https://google.github.io/aichoreographer/)]
 * **VideoGPT**: "VideoGPT: Video Generation using VQ-VAE and Transformers", arXiv, 2021 (*Berkeley*). [[Paper](https://arxiv.org/abs/2104.10157)][[PyTorch](https://github.com/wilson1yan/VideoGPT)][[Website](https://wilson1yan.github.io/videogpt/index.html)]
 * **DanceFormer**: "DanceFormer: Music Conditioned 3D Dance Generation with Parametric Motion Transformer", AAAI, 2022 (*Huiye Technology, China*). [[Paper](https://arxiv.org/abs/2103.10206)]
+* **VFIformer**: "Video Frame Interpolation with Transformer", CVPR, 2022 (*CUHK*). [[Paper](https://arxiv.org/abs/2205.07230)][[PyTorch](https://github.com/dvlab-research/VFIformer)]
 * **Transframer**: "Transframer: Arbitrary Frame Prediction with Generative Models", arXiv, 2022 (*DeepMind*). [[Paper](https://arxiv.org/abs/2203.09494)]
 * **TATS**: "Long Video Generation with Time-Agnostic VQGAN and Time-Sensitive Transformer", arXiv, 2022 (*Maryland*). [[Paper](https://arxiv.org/abs/2204.03638)][[Website](https://songweige.github.io/projects/tats/index.html)]
 
@@ -1349,7 +1352,7 @@ Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2204.08696)]
     * **MST**: "Mask-guided Spectral-wise Transformer for Efficient Hyperspectral Image Reconstruction", CVPR, 2022 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2111.07910)][[Code (in construction)](https://github.com/caiyuanhao1998/MST)]
     * **MST++**: "MST++: Multi-stage Spectral-wise Transformer for Efficient Spectral Reconstruction", CVPRW, 2022 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2204.07908)][[PyTorch](https://github.com/caiyuanhao1998/MST-plus-plus)]
 * Others:
-    * **MS-Unet**: "Semi-Supervised Wide-Angle Portraits Correction by Multi-Scale Transformer", arXiv, 2021 (*MEGVII*). [[Paper](https://arxiv.org/abs/2109.08024)]
+    * **MS-Unet**: "Semi-Supervised Wide-Angle Portraits Correction by Multi-Scale Transformer", arXiv, 2021 (*Megvii*). [[Paper](https://arxiv.org/abs/2109.08024)]
     * **TransMEF**: "TransMEF: A Transformer-Based Multi-Exposure Image Fusion Framework using Self-Supervised Multi-Task Learning", AAAI, 2022 (*Fudan*). [[Paper](https://arxiv.org/abs/2112.01030)]
     * **GAP-CSCoT**: "Spectral Compressive Imaging Reconstruction Using Convolution and Spectral Contextual Transformer", arXiv, 2022 (*CAS*). [[Paper](https://arxiv.org/abs/2201.05768)]
     * **CST**: "Coarse-to-Fine Sparse Transformer for Hyperspectral Image Reconstruction", arXiv, 2022 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2203.04845)]
@@ -1523,6 +1526,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **?**: "Robustness Evaluation of Transformer-based Form Field Extractors via Form Attacks", arXiv, 2021 (*Salesforce*). [[Paper](https://arxiv.org/abs/2110.04413)]
     * **T<sup>3</sup>**: "TrueType Transformer: Character and Font Style Recognition in Outline Format", Document Analysis Systems (DAS), 2022 (*Kyushu University*). [[Paper](https://arxiv.org/abs/2203.05338)]
     * **?**: "Transformer-based HTR for Historical Documents", ComHum, 2022 (*University of Zurich, Switzerland*). [[Paper](https://arxiv.org/abs/2203.11008)]
+    * **CONSENT**: "CONSENT: Context Sensitive Transformer for Bold Words Classification", arXiv, 2022 (*Amazon*). [[Paper](https://arxiv.org/abs/2205.07683)]
 * Crowd Counting:
     * **CC-AV**: "Audio-Visual Transformer Based Crowd Counting", ICCVW, 2021 (*University of Kansas*). [[Paper](https://arxiv.org/abs/2109.01926)]
     * **TransCrowd**: "TransCrowd: Weakly-Supervised Crowd Counting with Transformer", arXiv, 2021 (*Huazhong University of Science and Technology*). [[Paper](https://arxiv.org/abs/2104.09116)][[PyTorch](https://github.com/dk-liang/TransCrowd)]
@@ -1644,6 +1648,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **STTR**: "Revisiting Stereo Depth Estimation From a Sequence-to-Sequence Perspective with Transformers", ICCV, 2021 (*Johns Hopkins*). [[Paper](https://arxiv.org/abs/2011.02910)][[PyTorch](https://github.com/mli0603/stereo-transformer)]
     * **PS-Transformer**: "PS-Transformer: Learning Sparse Photometric Stereo Network using Self-Attention Mechanism", BMVC, 2021 (*National Institute of Informatics, JAPAN*). [[Paper](https://www.bmvc2021-virtualconference.com/assets/papers/0319.pdf)]
     * **ChiTransformer**: "ChiTransformer: Towards Reliable Stereo from Cues", CVPR, 2022 (*GSU*). [[Paper](https://arxiv.org/abs/2203.04554)]
+    * **TransMVSNet**: "TransMVSNet: Global Context-aware Multi-view Stereo Network with Transformers", CVPR, 2022 (*Megvii*). [[Paper](https://arxiv.org/abs/2111.14600)][[Code (in construction)](https://github.com/MegviiRobot/TransMVSNet)]
     * **MVSTER**: "MVSTER: Epipolar Transformer for Efficient Multi-View Stereo", arXiv, 2022 (*CAS*). [[Paper](https://arxiv.org/abs/2204.07346)][[PyTorch](https://github.com/JeffWang987/MVSTER)]
 * Time Series:
     * **MissFormer**: "MissFormer: (In-)attention-based handling of missing observations for trajectory filtering and prediction", arXiv, 2021 (*Fraunhofer IOSB, Germany*). [[Paper](https://arxiv.org/abs/2106.16009)]
@@ -1795,6 +1800,7 @@ If you find this repository useful, please consider citing this list:
     * "A Survey on Visual Transformer", TPAMI, 2022 (*Huawei*). [[Paper](https://arxiv.org/abs/2012.12556)] 
     * "A Comprehensive Study of Vision Transformers on Dense Prediction Tasks", VISAP, 2022 (*NavInfo Europe, Netherlands*). [[Paper](https://arxiv.org/abs/2201.08683)]
     * "Vision-and-Language Pretrained Models: A Survey", IJCAI, 2022 (*The University of Sydney*). [[Paper](https://arxiv.org/abs/2204.07356)]
+    * "Transformers in 3D Point Clouds: A Survey", arXiv, 2022 (*University of Waterloo*). [[Paper](https://arxiv.org/abs/2205.07417)]
     * "A survey on attention mechanisms for medical applications: are we moving towards better algorithms?", arXiv, 2022 (*INESC TEC and University of Porto, Portugal*). [[Paper](https://arxiv.org/abs/2204.12406)]
     * "Efficient Transformers: A Survey", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2009.06732)]
     * "Are we ready for a new paradigm shift? A Survey on Visual Deep MLP", arXiv, 2022 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2111.04060)]
