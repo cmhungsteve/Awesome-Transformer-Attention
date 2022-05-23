@@ -276,6 +276,7 @@ Feel free to share this list with others!
 * **?**: "Better plain ViT baselines for ImageNet-1k", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2205.01580)][[Tensorflow](https://github.com/google-research/big_vision)]
 * **ConvMAE**: "ConvMAE: Masked Convolution Meets Masked Autoencoders", arXiv, 2022 (*Shanghai AI Laboratory*). [[Paper](https://arxiv.org/abs/2205.03892)][[PyTorch (in construction)](https://github.com/Alpha-VL/ConvMAE)]
 * **ViT-Adapter**: "Vision Transformer Adapter for Dense Predictions", arXiv, 2022 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2205.08534)][[Code (in construction)](https://github.com/czczup/ViT-Adapter)]
+* **UM-MAE**: "Uniform Masking: Enabling MAE Pre-training for Pyramid-based Vision Transformers with Locality", arXiv, 2022 (*Nanjing University of Science and Technology*). [[Paper](https://arxiv.org/abs/2205.10063)][[PyTorch](https://github.com/implus/UM-MAE)]
 #### Robustness + Transformer
 * **ViT-Robustness**: "Understanding Robustness of Transformers for Image Classification", ICCV, 2021 (*Google*). [[Paper](https://arxiv.org/abs/2103.14586)]
 * **SAGA**: "On the Robustness of Vision Transformers to Adversarial Examples", ICCV, 2021 (*University of Connecticut*). [[Paper](https://arxiv.org/abs/2104.02610)]
@@ -870,6 +871,7 @@ Feel free to share this list with others!
 * **PyramidCLIP**: "PyramidCLIP: Hierarchical Feature Alignment for Vision-language Model Pretraining", arXiv, 2022 (*Tencent*). [[Paper](https://arxiv.org/abs/2204.14095)]
 * **CoCa**: "CoCa: Contrastive Captioners are Image-Text Foundation Models", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2205.01917)]
 * **VLC**: "Training Vision-Language Transformers from Captions Alone", arXiv, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2205.09256)][[Code (in construction)](https://github.com/guilk/VLC)]
+* **UViM**: "UViM: A Unified Modeling Approach for Vision with Learned Guiding Codes", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2205.10337)]
 
 [[Back to Overview](#overview)]
 
@@ -1194,6 +1196,7 @@ Feel free to share this list with others!
     * **TransZero**: "TransZero: Attribute-guided Transformer for Zero-Shot Learning", AAAI, 2022 (*Huazhong University of Science and Technology*). [[Paper](https://arxiv.org/abs/2112.01683)][[PyTorch](https://github.com/shiming-chen/TransZero)]
     * **SUN**: "Self-Promoted Supervision for Few-Shot Transformer", arXiv, 2022 (*Harbin Institute of Technology + NUS*). [[Paper](https://arxiv.org/abs/2203.07057)][[PyTorch](https://github.com/DongSky/few-shot-vit)]
     * **HRT**: "Hybrid Routing Transformer for Zero-Shot Learning", arXiv, 2022 (*Xidian University*). [[Paper](https://arxiv.org/abs/2203.15310)]
+    * **MG-ViT**: "Mask-guided Vision Transformer (MG-ViT) for Few-Shot Learning", arXiv, 2022 (*University of Electronic Science and Technology of China*). [[Paper](https://arxiv.org/abs/2205.09995)]
 * Continual Learning:
     * **MEAT**: "Meta-attention for ViT-backed Continual Learning", CVPR, 2022 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2203.11684)][[Code (in construction)](https://github.com/zju-vipa/MEAT-TIL)]
     * **DyTox**: "DyTox: Transformers for Continual Learning with DYnamic TOken eXpansion", CVPR, 2022 (*Sorbonne Universite, France*). [[Paper](https://arxiv.org/abs/2111.11326)][[PyTorch](https://github.com/arthurdouillard/dytox)]
@@ -1557,6 +1560,8 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **SSTN**: "Spatial Transformer Networks for Curriculum Learning", arXiv, 2021 (*TU Kaiserslautern, Germany*). [[Paper](https://arxiv.org/abs/2108.09696)]
 * Digital Holography:
     * **?**: "Convolutional Neural Network (CNN) vs Visual Transformer (ViT) for Digital Holography", ICCCR, 2022 (*UBFC, France*). [[Paper](https://arxiv.org/abs/2108.09147)]
+* Disentangled representation:
+    * **VCT**: "Visual Concepts Tokenization", arXiv, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2205.10093)]
 * Event data:
     * **EvT**: "Event Transformer: A sparse-aware solution for efficient event data processing", arXiv, 2022 (*Universidad de Zaragoza, Spain*). [[Paper](https://arxiv.org/abs/2204.03355)][[PyTorch](https://github.com/AlbertoSabater/EventTransformer)]
     * **ETB**: "Event Transformer", arXiv, 2022 (*Nanjing University*). [[Paper](https://arxiv.org/abs/2204.05172)]
@@ -1607,6 +1612,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **IQA-Conformer**: "Conformer and Blind Noisy Students for Improved Image Quality Assessment", CVPRW, 2022 (*University of Wurzburg, Germany*). [[Paper](https://arxiv.org/abs/2204.12819)][[PyTorch](https://github.com/burchim/IQA-Conformer-BNS)]
     * **SwinIQA**: "SwinIQA: Learned Swin Distance for Compressed Image Quality Assessment", CVPRW, 2022 (*USTC, China*). [[Paper](https://arxiv.org/abs/2205.04264)]
     * **MCAS-IQA**: "Visual Mechanisms Inspired Efficient Transformers for Image and Video Quality Assessment", arXiv, 2022 (*Norwegian Research Centre, Norway*). [[Paper](https://arxiv.org/abs/2203.14557)]
+    * **MSTRIQ**: "MSTRIQ: No Reference Image Quality Assessment Based on Swin Transformer with Multi-Stage Fusion", arXiv, 2022 (*ByteDance*). [[Paper](https://arxiv.org/abs/2205.10101)]
 * Image Registration:
     * **AiR**: "Attention for Image Registration (AiR): an unsupervised Transformer approach", arXiv, 2021 (*INRIA*). [[Paper](https://arxiv.org/abs/2105.02282)]
 * Image Retrieval:
