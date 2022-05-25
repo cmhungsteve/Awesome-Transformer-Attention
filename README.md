@@ -306,6 +306,7 @@ Feel free to share this list with others!
 * **MA**: "Boosting Adversarial Transferability of MLP-Mixer", arXiv, 2022 (*Beijing Institute of Technology*). [[Paper](https://arxiv.org/abs/2204.12204)]
 * **?**: "Deeper Insights into ViTs Robustness towards Common Corruptions", arXiv, 2022 (*Fudan + Microsoft*). [[Paper](https://arxiv.org/abs/2204.12143)]
 * **FAN**: "Understanding The Robustness in Vision Transformers", arXiv, 2022 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2204.12451)]
+* **?**: "Privacy-Preserving Image Classification Using Vision Transformer", arXiv, 2022 (*Tokyo Metropolitan University*). [[Paper](https://arxiv.org/abs/2205.12041)]
 #### Model Compression + Transformer
 * **ViT-quant**: "Post-Training Quantization for Vision Transformer", NeurIPS, 2021 (*Huawei*). [[Paper](https://arxiv.org/abs/2106.14156)]
 * **VTP**: "Visual Transformer Pruning", arXiv, 2021 (*Huawei*). [[Paper](https://arxiv.org/abs/2104.08500)]
@@ -762,6 +763,7 @@ Feel free to share this list with others!
     * **VIMPAC**: "VIMPAC: Video Pre-Training via Masked Token Prediction and Contrastive Learning", arXiv, 2021 (*UNC*). [[Paper](https://arxiv.org/abs/2106.11250)][[PyTorch](https://github.com/airsplay/vimpac)]
     * **LSTCL**: "Long-Short Temporal Contrastive Learning of Video Transformers", CVPR, 2022 (*Facebook*). [[Paper](https://arxiv.org/abs/2106.09212)]
     * **SVT**: "Self-supervised Video Transformer", CVPR, 2022 (*Stony Brook*). [[Paper](https://arxiv.org/abs/2112.01514)][[PyTorch](https://github.com/kahnchana/svt)][[Website](https://kahnchana.github.io/svt/)]
+    * **SCVRL**: "SCVRL: Shuffled Contrastive Video Representation Learning", CVPRW, 2022 (*Amazon*). [[Paper](https://arxiv.org/abs/2205.11710)]
     * **VideoMAE**: "VideoMAE: Masked Autoencoders are Data-Efficient Learners for Self-Supervised Video Pre-Training", arXiv, 2022 (*Tencent*). [[Paper](https://arxiv.org/abs/2203.12602)][[Code (in construction)](https://github.com/MCG-NJU/VideoMAE)]
     * **MAE**: "Masked Autoencoders As Spatiotemporal Learners", arXiv, 2022 (*Meta*). [[Paper](https://arxiv.org/abs/2205.09113)]
 * X-shot:
@@ -901,6 +903,7 @@ Feel free to share this list with others!
 * **MDMMT-2**: "MDMMT-2: Multidomain Multimodal Transformer for Video Retrieval, One More Step Towards Generalization", arXiv, 2022 (*Huawei*). [[Paper](https://arxiv.org/abs/2203.07086)]
 * **MILES**: "MILES: Visual BERT Pre-training with Injected Language Semantics for Video-text Retrieval", arXiv, 2022 (*HKU*). [[Paper](https://arxiv.org/abs/2204.12408)]
 * **TNLBT**: "Transformer-based Cross-Modal Recipe Embeddings with Large Batch Training", arXiv, 2022 (*The University of Electro-Communications, Japan*). [[Paper](https://arxiv.org/abs/2205.04948)]
+* **HiVLP**: "HiVLP: Hierarchical Vision-Language Pre-Training for Fast Image-Text Retrieval", arXiv, 2022 (*Huawei*). [[Paper](https://arxiv.org/abs/2205.12105)]
 
 [[Back to Overview](#overview)]
 
@@ -926,6 +929,7 @@ Feel free to share this list with others!
 * **DiT**: "DiT: Self-supervised Pre-training for Document Image Transformer", arXiv, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2203.02378)][[Code (in construction)](https://github.com/microsoft/unilm/tree/master/dit)]
 * **LayoutLMv3**: "LayoutLMv3: Pre-training for Document AI with Unified Text and Image Masking", arXiv, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2204.08387)][[PyTorch](https://github.com/microsoft/unilm/tree/master/layoutlmv3)]
 * **MATrIX**: "MATrIX - Modality-Aware Transformer for Information eXtraction", arXiv, 2022 (*Amazon*). [[Paper](https://arxiv.org/abs/2205.08094)]
+* **VLCDoC**: "VLCDoC: Vision-Language Contrastive Pre-Training Model for Cross-Modal Document Classification", arXiv, 2022 (*La Rochelle University, France*). [[Paper](https://arxiv.org/abs/2205.12029)]
 
 [[Back to Overview](#overview)]
 
@@ -1351,7 +1355,7 @@ Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2204.08696)]
 * **StyTr2**: "StyTr^2: Unbiased Image Style Transfer with Transformers", arXiv, 2021 (*CAS*). [[Paper](https://arxiv.org/abs/2105.14576)]
 * **InstaFormer**: "InstaFormer: Instance-Aware Image-to-Image Translation with Transformer", CVPR, 2022 (*Korea University*). [[Paper](https://arxiv.org/abs/2203.16248)]
 * **ManiTrans**: "ManiTrans: Entity-Level Text-Guided Image Manipulation via Token-wise Semantic Alignment and Generation", CVPR, 2022 (*Huawei*). [[Paper](https://arxiv.org/abs/2204.04428)][[Website](https://jawang19.github.io/manitrans/)]
-* **ASSET**: "ASSET: Autoregressive Semantic Scene Editing with Transformers at High Resolutions", SIGGRAPH, 2022 (*Adobe*). [[Paper]()][[PyTorch](https://github.com/DifanLiu/ASSET)][[Website](https://people.cs.umass.edu/~dliu/projects/ASSET/)]
+* **ASSET**: "ASSET: Autoregressive Semantic Scene Editing with Transformers at High Resolutions", SIGGRAPH, 2022 (*Adobe*). [[Paper](https://arxiv.org/abs/2205.12231)][[PyTorch](https://github.com/DifanLiu/ASSET)][[Website](https://people.cs.umass.edu/~dliu/projects/ASSET/)]
 * **Splice**: "Splicing ViT Features for Semantic Appearance Transfer", arXiv, 2022 (*Weizmann Institute of Science, Israel*). [[Paper](https://arxiv.org/abs/2201.00424)][[PyTorch](https://github.com/omerbt/Splice)][[Website](https://splice-vit.github.io/)]
 * **UVCGAN**: "UVCGAN: UNet Vision Transformer cycle-consistent GAN for unpaired image-to-image translation", arXiv, 2022 (*Brookhaven National Laboratory, NY*). [[Paper](https://arxiv.org/abs/2203.02557)]
 * **ITTR**: "ITTR: Unpaired Image-to-Image Translation with Transformers", arXiv, 2022 (*Kuaishou*). [[Paper](https://arxiv.org/abs/2203.16015)]
@@ -1591,7 +1595,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **LoFTR**: "LoFTR: Detector-Free Local Feature Matching with Transformers", CVPR, 2021 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2104.00680)][[PyTorch](https://github.com/zju3dv/LoFTR)][[Website](https://zju3dv.github.io/loftr/)]
     * **COTR**: "COTR: Correspondence Transformer for Matching Across Images", ICCV, 2021 (*UBC*). [[Paper](https://arxiv.org/abs/2103.14167)]
     * **CATs**: "CATs: Cost Aggregation Transformers for Visual Correspondence", NeurIPS, 2021 (*Yonsei University + Korea University*). [[Paper](https://arxiv.org/abs/2106.02520)][[PyTorch](https://github.com/SunghwanHong/Cost-Aggregation-transformers)][[Website](https://sunghwanhong.github.io/CATs/)]
-    * **TransforMatcher**: "TransforMatcher: Match-to-Match Attention for Semantic Correspondence", CVPR, 2022 (*POSTECH*). [[Paper]()]
+    * **TransforMatcher**: "TransforMatcher: Match-to-Match Attention for Semantic Correspondence", CVPR, 2022 (*POSTECH*). [[Paper](https://arxiv.org/abs/2205.11634)]
     * **CATs++**: "CATs++: Boosting Cost Aggregation with Convolutions and Transformers", arXiv, 2022 (*Korea University*). [[Paper](https://arxiv.org/abs/2202.06817)]
     * **LoFTR-TensorRT**: "Local Feature Matching with Transformers for low-end devices", arXiv, 2022 (*?*). [[Paper](https://arxiv.org/abs/2202.00770)][[PyTorch](https://github.com/Kolkir/Coarse_LoFTR_TRT)]
     * **MatchFormer**: "MatchFormer: Interleaving Attention in Transformers for Feature Matching", arXiv, 2022 (*Karlsruhe Institute of Technology, Germany*). [[Paper](https://arxiv.org/abs/2203.09645)]
