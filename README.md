@@ -251,6 +251,8 @@ Feel free to share this list with others!
 * **ConvMixer**: "Patches Are All You Need?", arXiv, 2022 (*CMU*). [[Paper](https://arxiv.org/abs/2201.09792)][[PyTorch](https://github.com/locuslab/convmixer)]
 * **UniFormer**: "UniFormer: Unifying Convolution and Self-attention for Visual Recognition", arXiv, 2022 (*SenseTime*). [[Paper](https://arxiv.org/abs/2201.09450)][[PyTorch](https://github.com/Sense-X/UniFormer)]
 * **EdgeFormer**: "EdgeFormer: Improving Light-weight ConvNets by Learning from Vision Transformers", arXiv, 2022 (*?*). [[Paper](https://arxiv.org/abs/2203.03952)]
+* **iFormer**: "Inception Transformer", arXiv, 2022 (*Sea AI Lab*). [[Paper](https://arxiv.org/abs/2205.12956)][[PyTorch](https://github.com/sail-sg/iFormer)]
+* **MoCoViT**: "MoCoViT: Mobile Convolutional Vision Transformer", arXiv, 2022 (*ByteDance*). [[Paper](https://arxiv.org/abs/2205.12635)]
 #### Training + Transformer
 * **iGPT**: "Generative Pretraining From Pixels", ICML, 2020 (*OpenAI*). [[Paper](http://proceedings.mlr.press/v119/chen20s.html)][[Tensorflow](https://github.com/openai/image-gpt)]
 * **MoCo-V3**: "An Empirical Study of Training Self-Supervised Vision Transformers", ICCV, 2021 (*Facebook*). [[Paper](https://arxiv.org/abs/2104.02057)]
@@ -375,6 +377,7 @@ Feel free to share this list with others!
 * **AWD-ViT**: "Visualizing and Understanding Patch Interactions in Vision Transformer", arXiv, 2022 (*JD*). [[Paper](https://arxiv.org/abs/2203.05922)]
 * **?**: "Three things everyone should know about Vision Transformers", arXiv, 2022 (*Meta*). [[Paper](https://arxiv.org/abs/2203.09795)]
 * **?**: "CNNs and Transformers Perceive Hybrid Images Similar to Humans", arXiv, 2022 (*Quintic AI, CA*). [[Paper](https://arxiv.org/abs/2203.11678)][[Code](https://github.com/aliborji/hybrid_images)]
+* **MJP**: "Breaking the Chain of Gradient Leakage in Vision Transformers", arXiv, 2022 (*Tencent*). [[Paper](https://arxiv.org/abs/2205.12551)]
 
 [[Back to Overview](#overview)]
 
@@ -407,6 +410,7 @@ Feel free to share this list with others!
     * **DE-DETR**: "Towards Data-Efficient Detection Transformers", arXiv, 2022 (*JD*). [[Paper](https://arxiv.org/abs/2203.09507)][[Code (in construction)](https://github.com/encounter1997/DE-DETRs)]
     * **MIMDet**: "Unleashing Vanilla Vision Transformer with Masked Image Modeling for Object Detection", arXiv, 2022 (*Tencent*). [[Paper](https://arxiv.org/abs/2204.02964)][[PyTorch](https://github.com/hustvl/MIMDet)]
     * **imTED**: "Integral Migrating Pre-trained Transformer Encoder-decoders for Visual Object Detection", arXiv, 2022 (*CAS*). [[Paper](https://arxiv.org/abs/2205.09613)]
+    * **AO2-DETR**: "AO2-DETR: Arbitrary-Oriented Object Detection Transformer", arXiv, 2022 (*Peking University*). [[Paper](https://arxiv.org/abs/2205.12785)]
 * Transformer-based backbone:
     * **ViT-FRCNN**: "Toward Transformer-Based Object Detection", arXiv, 2020 (*Pinterest*). [[Paper](https://arxiv.org/abs/2012.09958)]
     * **WB-DETR**: "WB-DETR: Transformer-Based Detector Without Backbone", ICCV, 2021 (*CAS*). [[Paper](https://openaccess.thecvf.com/content/ICCV2021/html/Liu_WB-DETR_Transformer-Based_Detector_Without_Backbone_ICCV_2021_paper.html)]
@@ -1060,6 +1064,7 @@ Feel free to share this list with others!
     * **HeadPosr**: "HeadPosr: End-to-end Trainable Head Pose Estimation using Transformer Encoders", arXiv, 2022 (*ETHZ*). [[Paper](https://arxiv.org/abs/2202.03548)]
     * **CrossFormer**: "CrossFormer: Cross Spatio-Temporal Transformer for 3D Human Pose Estimation", arXiv, 2022 (*Canberra University, Australia*). [[Paper](https://arxiv.org/abs/2203.13387)]
     * **ViTPose**: "ViTPose: Simple Vision Transformer Baselines for Human Pose Estimation", arXiv, 2022 (*The University of Sydney*). [[Paper](https://arxiv.org/abs/2204.12484)][[PyTorch](https://github.com/ViTAE-Transformer/ViTPose)]
+    * **VTP**: "VTP: Volumetric Transformer for Multi-view Multi-person 3D Pose Estimation", arXiv, 2022 (*Hangzhou Dianzi University*). [[Paper](https://arxiv.org/abs/2205.12602)]
 * Others:
     * **TAPE**: "Transformer Guided Geometry Model for Flow-Based Unsupervised Visual Odometry", arXiv, 2020 (*Tianjing University*). [[Paper](https://arxiv.org/abs/2101.02143)]
     * **T6D-Direct**: "T6D-Direct: Transformers for Multi-Object 6D Pose Direct Regression", GCPR, 2021 (*University of Bonn*). [[Paper](https://arxiv.org/abs/2109.10948)]
@@ -1545,6 +1550,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
 * **MDBERT**: "Hierarchical BERT for Medical Document Understanding", arXiv, 2022 (*IQVIA, NC*). [[Paper](https://arxiv.org/abs/2204.09600)]
 * **SymTrans**: "Symmetric Transformer-based Network for Unsupervised Image Registration", arXiv, 2022 (*Jilin University*). [[Paper](https://arxiv.org/abs/2204.13575)]
 * **MMT**: "One Model to Synthesize Them All: Multi-contrast Multi-scale Transformer for Missing Data Imputation", arXiv, 2022 (*JHU*). [[Paper](https://arxiv.org/abs/2204.13738)]
+* **EG-ViT**: "Eye-gaze-guided Vision Transformer for Rectifying Shortcut Learning", arXiv, 2022 (*Northwestern Polytechnical University*). [[Paper](https://arxiv.org/abs/2205.12466)]
 
 [[Back to Overview](#overview)]
 
