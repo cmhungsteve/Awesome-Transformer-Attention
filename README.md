@@ -43,7 +43,7 @@ Feel free to share this list with others!
 - [Video (High-level)](#video-high-level)
     - [Action Recognition](#action-recognition)
     - [Action Detection/Localization](#action-detectionlocalization)
-    - [Action Prediction](#action-prediction)
+    - [Action Prediction/Anticipation](#action-predictionanticipation)
     - [Video Object Segmentation](#video-object-segmentation)
     - [Video Instance Segmentation](#video-instance-segmentation)
     - [Other Video Tasks](#other-video-tasks)
@@ -181,6 +181,7 @@ Feel free to share this list with others!
 * **VSA**: "VSA: Learning Varied-Size Window Attention in Vision Transformers", arXiv, 2022 (*The University of Sydney*). [[Paper](https://arxiv.org/abs/2204.08446)][[Code (in construction)](https://github.com/ViTAE-Transformer/ViTAE-VSA)]
 * **ASF-former**: "Adaptive Split-Fusion Transformer", arXiv, 2022 (*Fudan*). [[Paper](https://arxiv.org/abs/2204.12196)][[PyTorch (in construction)](https://github.com/szx503045266/ASF-former)]
 * **LITv2**: "Fast Vision Transformers with HiLo Attention", arXiv, 2022 (*Monash University*). [[Paper](https://arxiv.org/abs/2205.13213)][[Code (in construction)](https://github.com/zip-group/LITv2)]
+* **X-ViT**: "X-ViT: High Performance Linear Vision Transformer without Softmax", arXiv, 2022 (*Kakao*). [[Paper](https://arxiv.org/abs/2205.13805)]
 #### Efficient Vision Transformer
 * **DeiT**: "Training data-efficient image transformers & distillation through attention", ICML, 2021 (*Facebook*). [[Paper](https://arxiv.org/abs/2012.12877)][[PyTorch](https://github.com/facebookresearch/deit)]
 * **ConViT**: "ConViT: Improving Vision Transformers with Soft Convolutional Inductive Biases", ICML, 2021 (*Facebook*). [[Paper](https://arxiv.org/abs/2103.10697)][[Code](https://github.com/facebookresearch/convit)]
@@ -271,6 +272,7 @@ Feel free to share this list with others!
 * **iBOT**: "Image BERT Pre-training with Online Tokenizer", ICLR, 2022 (*ByteDance*). [[Paper](https://arxiv.org/abs/2111.07832)][[PyTorch](https://github.com/bytedance/ibot)]
 * **AutoProg**: "Automated Progressive Learning for Efficient Training of Vision Transformers", CVPR, 2022 (*Monash University, Australia*). [[Paper](https://arxiv.org/abs/2203.14509)][[Code (in construction)](https://github.com/changlin31/AutoProg)]
 * **MAE**: "Masked Autoencoders Are Scalable Vision Learners", CVPR, 2022 (*Facebook*). [[Paper](https://arxiv.org/abs/2111.06377)][[PyTorch](https://github.com/facebookresearch/mae)][[PyTorch (pengzhiliang)](https://github.com/pengzhiliang/MAE-pytorch)]
+* **SimMIM**: "SimMIM: A Simple Framework for Masked Image Modeling", CVPR, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2111.09886)][[PyTorch](https://github.com/microsoft/SimMIM)]
 * **?**: "How to train your ViT? Data, Augmentation, and Regularization in Vision Transformers", Transactions on Machine Learning Research (TMLR), 2022 (*Google*). [[Paper](https://openreview.net/forum?id=4nPswr1KcP)][[Tensorflow](https://github.com/google-research/vision_transformer)][[PyTorch (rwightman)](https://github.com/rwightman/pytorch-image-models)]
 * **PeCo**: "PeCo: Perceptual Codebook for BERT Pre-training of Vision Transformers", arXiv, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2111.12710)]
 * **IDMM**: "Training Vision Transformers with Only 2040 Images", arXiv, 2022 (*Nanjing University*). [[Paper](https://arxiv.org/abs/2201.10728)]
@@ -285,6 +287,7 @@ Feel free to share this list with others!
 * **ViT-Adapter**: "Vision Transformer Adapter for Dense Predictions", arXiv, 2022 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2205.08534)][[Code (in construction)](https://github.com/czczup/ViT-Adapter)]
 * **UM-MAE**: "Uniform Masking: Enabling MAE Pre-training for Pyramid-based Vision Transformers with Locality", arXiv, 2022 (*Nanjing University of Science and Technology*). [[Paper](https://arxiv.org/abs/2205.10063)][[PyTorch](https://github.com/implus/UM-MAE)]
 * **MixMIM**: "MixMIM: Mixed and Masked Image Modeling for Efficient Visual Representation Learning", arXiv, 2022 (*SenseTime*). [[Paper](https://arxiv.org/abs/2205.13137)][[Code (in construction)](https://github.com/Sense-X/MixMIM)]
+* **A<sup>2</sup>MIM**: "Architecture-Agnostic Masked Image Modeling - From ViT back to CNN", arXiv, 2022 (*Westlake University, China*). [[Paper](https://arxiv.org/abs/2205.13943)][[PyTorch](https://github.com/Westlake-AI/openmixup)]
 #### Robustness + Transformer
 * **ViT-Robustness**: "Understanding Robustness of Transformers for Image Classification", ICCV, 2021 (*Google*). [[Paper](https://arxiv.org/abs/2103.14586)]
 * **SAGA**: "On the Robustness of Vision Transformers to Adversarial Examples", ICCV, 2021 (*University of Connecticut*). [[Paper](https://arxiv.org/abs/2104.02610)]
@@ -719,11 +722,11 @@ Feel free to share this list with others!
 
 [[Back to Overview](#overview)]
 
-### Action Prediction
+### Action Prediction/Anticipation
 * **AVT**: "Anticipative Video Transformer", ICCV, 2021 (*Facebook*). [[Paper](https://arxiv.org/abs/2106.02036)][[PyTorch](https://github.com/facebookresearch/AVT)][[Website](https://facebookresearch.github.io/AVT/)]
 * **HORST**: "Higher Order Recurrent Space-Time Transformer", arXiv, 2021 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2104.08665)][[PyTorch](https://github.com/CorcovadoMing/HORST)]
 * **?**: "Action Forecasting with Feature-wise Self-Attention", arXiv, 2021 (*A\*STAR*). [[Paper](https://arxiv.org/abs/2107.08579)]
-* **?**: "Future Transformer for Long-term Action Anticipation", CVPR, 2022 (*POSTECH*). [[Paper]()]
+* **FUTR**: "Future Transformer for Long-term Action Anticipation", CVPR, 2022 (*POSTECH*). [[Paper](https://arxiv.org/abs/2205.14022)]
 * **TTPP**: "TTPP: Temporal Transformer with Progressive Prediction for Efficient Action Anticipation", arXiv, 2022 (*CAS*). [[Paper](https://arxiv.org/abs/2003.03530)]
 * **VPTR**: "VPTR: Efficient Transformers for Video Prediction", ICPR, 2022 (*Polytechnique Montreal, Canada*). [[Paper](https://arxiv.org/abs/2203.15836)][[PyTorch](https://github.com/XiYe20/VPTR)]
 
@@ -879,7 +882,7 @@ Feel free to share this list with others!
 * **VATT**: "VATT: Transformers for Multimodal Self-Supervised Learning from Raw Video, Audio and Text", NeurIPS, 2021 (*Google*). [[Paper](https://arxiv.org/abs/2104.11178)][[Tensorflow](https://github.com/google-research/google-research/tree/master/vatt)]
 * **SVO-Probes**: "Probing Image-Language Transformers for Verb Understanding", arXiv, 2021 (*DeepMind*). [[Paper](https://arxiv.org/abs/2106.09141)]
 * **CLIP-ViL**: "How Much Can CLIP Benefit Vision-and-Language Tasks?", arXiv, 2021 (*Berkeley + UCLA*). [[Paper](https://arxiv.org/abs/2107.06383)][[PyTorch](https://github.com/clip-vil/CLIP-ViL)]
-* **?**: "Survey: Transformer based Video-Language Pre-training", arXiv, 2021 (*Renmin University of China*). [[Paper](https://arxiv.org/abs/2109.09920)]
+* **Florence**: "Florence: A New Foundation Model for Computer Vision", arXiv, 2021 (*Microsoft*). [[Paper](https://arxiv.org/abs/2111.11432)]
 * **TAN**: "Temporal Alignment Networks for Long-term Video", CVPR, 2022 (*Oxford*). [[Paper](https://arxiv.org/abs/2204.02968)][[Code (in construction)](https://github.com/TengdaHan/TemporalAlignNet)][[Website](https://www.robots.ox.ac.uk/~vgg/research/tan/)]
 * **LiT**: "LiT: Zero-Shot Transfer with Locked-image text Tuning", CVPR, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2111.07991)]
 * **Omnivore**: "Omnivore: A Single Model for Many Visual Modalities", arXiv, 2022 (*Meta*). [[Paper](https://arxiv.org/abs/2201.08377)][[PyTorch](https://github.com/facebookresearch/omnivore)]
@@ -889,6 +892,7 @@ Feel free to share this list with others!
 * **CoCa**: "CoCa: Contrastive Captioners are Image-Text Foundation Models", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2205.01917)]
 * **VLC**: "Training Vision-Language Transformers from Captions Alone", arXiv, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2205.09256)][[Code (in construction)](https://github.com/guilk/VLC)]
 * **UViM**: "UViM: A Unified Modeling Approach for Vision with Learned Guiding Codes", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2205.10337)]
+* **GIT**: "GIT: A Generative Image-to-text Transformer for Vision and Language", arXiv, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2205.14100)]
 
 [[Back to Overview](#overview)]
 
@@ -1357,6 +1361,7 @@ Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2204.08696)]
 * **VFIformer**: "Video Frame Interpolation with Transformer", CVPR, 2022 (*CUHK*). [[Paper](https://arxiv.org/abs/2205.07230)][[PyTorch](https://github.com/dvlab-research/VFIformer)]
 * **Transframer**: "Transframer: Arbitrary Frame Prediction with Generative Models", arXiv, 2022 (*DeepMind*). [[Paper](https://arxiv.org/abs/2203.09494)]
 * **TATS**: "Long Video Generation with Time-Agnostic VQGAN and Time-Sensitive Transformer", arXiv, 2022 (*Maryland*). [[Paper](https://arxiv.org/abs/2204.03638)][[Website](https://songweige.github.io/projects/tats/index.html)]
+* **CogVideo**: "CogVideo: Large-scale Pretraining for Text-to-Video Generation via Transformers", arXiv, 2022 (*?*) [[Paper]()][[GitHub (in construction)](https://github.com/THUDM/CogVideo)]
 
 [[Back to Overview](#overview)]
 
