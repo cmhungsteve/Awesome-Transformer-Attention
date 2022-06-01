@@ -1739,6 +1739,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
 * Traffic:
     * **ViTAL**: "Novelty Detection and Analysis of Traffic Scenario Infrastructures in the Latent Space of a Vision Transformer-Based Triplet Autoencoder", IV, 2021 (*Technische Hochschule Ingolstadt*). [[Paper](https://arxiv.org/abs/2105.01924)]
     * **?**: "Predicting Vehicles Trajectories in Urban Scenarios with Transformer Networks and Augmented Information", IVS, 2021 (*Universidad de Alcala*). [[Paper](https://arxiv.org/abs/2106.00559)]
+    * **?**: "Translating Images into Maps", ICRA, 2022 (*University of Surrey, UK*). [[Paper](https://arxiv.org/abs/2110.00966)][[PyTorch (in construction)](https://github.com/avishkarsaha/translating-images-into-maps)]
     * **Crossview-Transformer**: "Cross-view Transformers for real-time Map-view Semantic Segmentation", CVPR, 2022 (*UT Austin*). [[Paper](https://arxiv.org/abs/2205.02833)][[PyTorch](https://github.com/bradyz/cross_view_transformers)]
     * **ViT-BEVSeg**: "ViT-BEVSeg: A Hierarchical Transformer Network for Monocular Birds-Eye-View Segmentation", IJCNN, 2022 (*Maynooth University, Ireland*). [[Paper](https://arxiv.org/abs/2205.15667)][[Code (in construction)](https://github.com/robotvisionmu/ViT-BEVSeg)]
     * **BEVSegFormer**: "BEVSegFormer: Bird's Eye View Semantic Segmentation From Arbitrary Camera Rigs", arXiv, 2022 (*Nullmax, China*). [[Paper](https://arxiv.org/abs/2203.04050)]
