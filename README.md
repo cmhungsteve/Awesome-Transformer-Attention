@@ -239,6 +239,7 @@ Feel free to share this list with others!
 * **SuperViT**: "Super Vision Transformer", arXiv, 2022 (*Xiamen University*). [[Paper](https://arxiv.org/abs/2205.11397)][[PyTorch](https://github.com/lmbxmu/SuperViT)]
 * **DQS**: "Dynamic Query Selection for Fast Visual Perceiver", arXiv, 2022 (*Sorbonne Universite', France*). [[Paper](https://arxiv.org/abs/2205.10873)]
 * **EfficientViT**: "EfficientViT: Enhanced Linear Attention for High-Resolution Low-Computation Visual Recognition", arXiv, 2022 (*MIT*). [[Paper](https://arxiv.org/abs/2205.14756)]
+* **EfficientFormer**: "EfficientFormer: Vision Transformers at MobileNet Speed", arXiv, 2022 (*Snap*). [[Paper](https://arxiv.org/abs/2206.01191)][[Code (in construction)](https://github.com/snap-research/EfficientFormer)]
 #### Conv + Transformer
 * **LeViT**: "LeViT: a Vision Transformer in ConvNet's Clothing for Faster Inference", ICCV, 2021 (*Facebook*). [[Paper](https://arxiv.org/abs/2104.01136)][[PyTorch](https://github.com/facebookresearch/LeViT)]
 * **CeiT**: "Incorporating Convolution Designs into Visual Transformers", ICCV, 2021 (*SenseTime*). [[Paper](https://arxiv.org/abs/2103.11816)][[PyTorch (rishikksh20)](https://github.com/rishikksh20/CeiT)]
@@ -292,6 +293,8 @@ Feel free to share this list with others!
 * **GMML**: "GMML is All you Need", arXiv, 2022 (*University of Surrey, UK*). [[Paper](https://arxiv.org/abs/2205.14986)][[PyTorch](https://github.com/Sara-Ahmed/GMML)]
 * **HiViT**: "HiViT: Hierarchical Vision Transformer Meets Masked Image Modeling", arXiv, 2022 (*CAS*). [[Paper](https://arxiv.org/abs/2205.14949)]
 * **?**: "A Closer Look at Self-supervised Lightweight Vision Transformers", arXiv, 2022 (*Megvii*). [[Paper](https://arxiv.org/abs/2205.14443)]
+* **SIM**: "Siamese Image Modeling for Self-Supervised Vision Representation Learning", arXiv, 2022 (*SenseTime*). [[Paper](https://arxiv.org/abs/2206.01204)]
+* **SupMAE**: "SupMAE: Supervised Masked Autoencoders Are Efficient Vision Learners", arXiv, 2022 (*UT Austin*). [[Paper](https://arxiv.org/abs/2205.14540)][[PyTorch](https://github.com/cmu-enyac/supmae)]
 #### Robustness + Transformer
 * **ViT-Robustness**: "Understanding Robustness of Transformers for Image Classification", ICCV, 2021 (*Google*). [[Paper](https://arxiv.org/abs/2103.14586)]
 * **SAGA**: "On the Robustness of Vision Transformers to Adversarial Examples", ICCV, 2021 (*University of Connecticut*). [[Paper](https://arxiv.org/abs/2104.02610)]
@@ -319,6 +322,7 @@ Feel free to share this list with others!
 * **?**: "Deeper Insights into ViTs Robustness towards Common Corruptions", arXiv, 2022 (*Fudan + Microsoft*). [[Paper](https://arxiv.org/abs/2204.12143)]
 * **FAN**: "Understanding The Robustness in Vision Transformers", arXiv, 2022 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2204.12451)]
 * **?**: "Privacy-Preserving Image Classification Using Vision Transformer", arXiv, 2022 (*Tokyo Metropolitan University*). [[Paper](https://arxiv.org/abs/2205.12041)]
+* **RobustViT**: "Optimizing Relevance Maps of Vision Transformers Improves Robustness", arXiv, 2022 (*Tel-Aviv*). [[Paper](https://arxiv.org/abs/2206.01161)][[PyTorch](https://github.com/hila-chefer/RobustViT)]
 #### Model Compression + Transformer
 * **ViT-quant**: "Post-Training Quantization for Vision Transformer", NeurIPS, 2021 (*Huawei*). [[Paper](https://arxiv.org/abs/2106.14156)]
 * **VTP**: "Visual Transformer Pruning", arXiv, 2021 (*Huawei*). [[Paper](https://arxiv.org/abs/2104.08500)]
@@ -860,6 +864,7 @@ Feel free to share this list with others!
 * **LW-Transformer**: "Towards Lightweight Transformer via Group-wise Transformation for Vision-and-Language Tasks", arXiv, 2022 (*Xiamen University*). [[Paper](https://arxiv.org/abs/2204.07780)][[PyTorch](https://github.com/luogen1996/LWTransformer)]
 * **D2**: "Dual-Level Decoupled Transformer for Video Captioning", arXiv, 2022 (*Northwestern Polytechnical University, China*). [[Paper](https://arxiv.org/abs/2205.03039)]
 * **VaT**: "Variational Transformer: A Framework Beyond the Trade-off between Accuracy and Diversity for Image Captioning", arXiv, 2022 (*Tongji University*). [[Paper](https://arxiv.org/abs/2205.14458)]
+* **REVIVE**: "REVIVE: Regional Visual Representation Matters in Knowledge-Based Visual Question Answering", arXiv, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2206.01201)]
 
 [[Back to Overview](#overview)]
 
@@ -900,6 +905,7 @@ Feel free to share this list with others!
 * **Florence**: "Florence: A New Foundation Model for Computer Vision", arXiv, 2021 (*Microsoft*). [[Paper](https://arxiv.org/abs/2111.11432)]
 * **TAN**: "Temporal Alignment Networks for Long-term Video", CVPR, 2022 (*Oxford*). [[Paper](https://arxiv.org/abs/2204.02968)][[Code (in construction)](https://github.com/TengdaHan/TemporalAlignNet)][[Website](https://www.robots.ox.ac.uk/~vgg/research/tan/)]
 * **LiT**: "LiT: Zero-Shot Transfer with Locked-image text Tuning", CVPR, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2111.07991)]
+* **VLMo**: "VLMo: Unified Vision-Language Pre-Training with Mixture-of-Modality-Experts", arXiv, 2022 (*Microsofot*). [[Paper](https://arxiv.org/abs/2111.02358)][[PyTorch (in construction)](https://github.com/microsoft/unilm/tree/master/vlmo)]
 * **Omnivore**: "Omnivore: A Single Model for Many Visual Modalities", arXiv, 2022 (*Meta*). [[Paper](https://arxiv.org/abs/2201.08377)][[PyTorch](https://github.com/facebookresearch/omnivore)]
 * **MultiMAE**: "MultiMAE: Multi-modal Multi-task Masked Autoencoders", arXiv, 2022 (*EPFL*). [[Paper](https://arxiv.org/abs/2204.01678)][[PyTorch](https://github.com/EPFL-VILAB/MultiMAE)][[Website](https://multimae.epfl.ch/)]
 * **Flamingo**: "Flamingo: a Visual Language Model for Few-Shot Learning", arXiv, 2022 (*DeepMind*). [[Paper](https://arxiv.org/abs/2204.14198)]
@@ -910,6 +916,7 @@ Feel free to share this list with others!
 * **GIT**: "GIT: A Generative Image-to-text Transformer for Vision and Language", arXiv, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2205.14100)]
 * **CyCLIP**: "CyCLIP: Cyclic Contrastive Language-Image Pretraining", arXiv, 2022 (*UCLA*). [[Paper](https://arxiv.org/abs/2205.14459)]
 * **CCLM**: "Cross-View Language Modeling: Towards Unified Cross-Lingual Cross-Modal Pre-training", arXiv, 2022 (*ByteDance*). [[Paper](https://arxiv.org/abs/2206.00621)]
+* **VL-BEiT**: "VL-BEiT: Generative Vision-Language Pretraining", arXiv, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2206.01127)]
 
 [[Back to Overview](#overview)]
 
@@ -952,6 +959,7 @@ Feel free to share this list with others!
 ### Visual Document Understanding
 * **LayoutLMv2**: "LayoutLMv2: Multi-modal Pre-training for Visually-Rich Document Understanding", ACL, 2021 (*Microsoft*). [[Paper](https://arxiv.org/abs/2012.14740)][[PyTorch](https://github.com/microsoft/unilm/tree/master/layoutlmv2)]
 * **DocFormer**: "DocFormer: End-to-End Transformer for Document Understanding", ICCV, 2021 (*Amazon*). [[Paper](https://arxiv.org/abs/2106.11539)]
+* **LayoutXLM**: "LayoutXLM: Multimodal Pre-training for Multilingual Visually-rich Document Understanding", arXiv, 2021 (*Microsoft*). [[Paper](https://arxiv.org/abs/2104.08836)][[PyTorch](https://github.com/microsoft/unilm/tree/master/layoutxlm)]
 * **TableFormer**: "TableFormer: Table Structure Understanding with Transformers", arXiv, 2022 (*IBM*). [[Paper](https://arxiv.org/abs/2203.01017)]
 * **DocEnTr**: "DocEnTr: An End-to-End Document Image Enhancement Transformer", arXiv, 2022 (*UAB, Spain*). [[Paper](https://arxiv.org/abs/2201.10252)][[PyTorch](https://github.com/dali92002/DocEnTR)]
 * **DocSegTr**: "DocSegTr: An Instance-Level End-to-End Document Image Segmentation Transformer", arXiv, 2022 (*UAB, Spain*). [[Paper](https://arxiv.org/abs/2201.11438)]
@@ -1510,6 +1518,7 @@ Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2204.08696)]
 * **ColonFormer**: "ColonFormer: An Efficient Transformer based Method for Colon Polyp Segmentation", arXiv, 2022 (*Hanoi University of Science and Technology*). [[Paper](https://arxiv.org/abs/2205.08473)]
 * **?**: "Transformer based Generative Adversarial Network for Liver Segmentation", arXiv, 2022 (*Northwestern University*). [[Paper](https://arxiv.org/abs/2205.10663)]
 * **FCT**: "The Fully Convolutional Transformer for Medical Image Segmentation", arXiv, 2022 (*University of Glasgow, UK*). [[Paper](https://arxiv.org/abs/2206.00566)]
+* **XBound-Former**: "XBound-Former: Toward Cross-scale Boundary Modeling in Transformers", arXiv, 2022 (*Xiamen University*). [[Paper](https://arxiv.org/abs/2206.00806)][[PyTorch](https://github.com/jcwang123/xboundformer)]
 
 [[Back to Overview](#overview)]
 
@@ -1898,6 +1907,7 @@ If you find this repository useful, please consider citing this list:
     * "A Survey on Visual Transformer", TPAMI, 2022 (*Huawei*). [[Paper](https://arxiv.org/abs/2012.12556)] 
     * "A Comprehensive Study of Vision Transformers on Dense Prediction Tasks", VISAP, 2022 (*NavInfo Europe, Netherlands*). [[Paper](https://arxiv.org/abs/2201.08683)]
     * "Vision-and-Language Pretrained Models: A Survey", IJCAI, 2022 (*The University of Sydney*). [[Paper](https://arxiv.org/abs/2204.07356)]
+    * "Transforming medical imaging with Transformers? A comparative review of key properties, current progresses, and future perspectives", arXiv, 2022 (*CAS*). [[Paper](https://arxiv.org/abs/2206.01136)]
     * "Transformers in 3D Point Clouds: A Survey", arXiv, 2022 (*University of Waterloo*). [[Paper](https://arxiv.org/abs/2205.07417)]
     * "A survey on attention mechanisms for medical applications: are we moving towards better algorithms?", arXiv, 2022 (*INESC TEC and University of Porto, Portugal*). [[Paper](https://arxiv.org/abs/2204.12406)]
     * "Efficient Transformers: A Survey", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2009.06732)]
