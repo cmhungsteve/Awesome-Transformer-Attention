@@ -905,6 +905,7 @@ Feel free to share this list with others!
 * **Florence**: "Florence: A New Foundation Model for Computer Vision", arXiv, 2021 (*Microsoft*). [[Paper](https://arxiv.org/abs/2111.11432)]
 * **TAN**: "Temporal Alignment Networks for Long-term Video", CVPR, 2022 (*Oxford*). [[Paper](https://arxiv.org/abs/2204.02968)][[Code (in construction)](https://github.com/TengdaHan/TemporalAlignNet)][[Website](https://www.robots.ox.ac.uk/~vgg/research/tan/)]
 * **LiT**: "LiT: Zero-Shot Transfer with Locked-image text Tuning", CVPR, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2111.07991)]
+* **UniCL**: "Unified Contrastive Learning in Image-Text-Label Space", CVPR, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2204.03610)][[PyTorch](https://github.com/microsoft/UniCL)]
 * **VLMo**: "VLMo: Unified Vision-Language Pre-Training with Mixture-of-Modality-Experts", arXiv, 2022 (*Microsofot*). [[Paper](https://arxiv.org/abs/2111.02358)][[PyTorch (in construction)](https://github.com/microsoft/unilm/tree/master/vlmo)]
 * **Omnivore**: "Omnivore: A Single Model for Many Visual Modalities", arXiv, 2022 (*Meta*). [[Paper](https://arxiv.org/abs/2201.08377)][[PyTorch](https://github.com/facebookresearch/omnivore)]
 * **MultiMAE**: "MultiMAE: Multi-modal Multi-task Masked Autoencoders", arXiv, 2022 (*EPFL*). [[Paper](https://arxiv.org/abs/2204.01678)][[PyTorch](https://github.com/EPFL-VILAB/MultiMAE)][[Website](https://multimae.epfl.ch/)]
