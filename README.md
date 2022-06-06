@@ -458,6 +458,7 @@ Feel free to share this list with others!
 * **MonoDETR**: "MonoDETR: Depth-aware Transformer for Monocular 3D Object Detection", arXiv, 2022 (*Shanghai AI Laboratory*). [[Paper](https://arxiv.org/abs/2203.13310)][[Code (in construction)](https://github.com/ZrrSkywalker/MonoDETR)]
 * **Graph-DETR3D**: "Graph-DETR3D: Rethinking Overlapping Regions for Multi-View 3D Object Detection", arXiv, 2022 (*University of Science and Technology of China*). [[Paper](https://arxiv.org/abs/2204.11582)]
 * **UVTR**: "Unifying Voxel-based Representation with Transformer for 3D Object Detection", arXiv, 2022 (*CUHK*). [[Paper](https://arxiv.org/abs/2206.00630)][[PyTorch](https://github.com/dvlab-research/UVTR)]
+* **PETRv2**: "PETRv2: A Unified Framework for 3D Perception from Multi-Camera Images", arXiv, 2022 (*Megvii*). [[Paper](https://arxiv.org/abs/2206.01256)]
 
 [[Back to Overview](#overview)]
 
@@ -796,6 +797,8 @@ Feel free to share this list with others!
     * **MAE**: "Masked Autoencoders As Spatiotemporal Learners", arXiv, 2022 (*Meta*). [[Paper](https://arxiv.org/abs/2205.09113)]
 * X-shot:
     * **ResT**: "Cross-modal Representation Learning for Zero-shot Action Recognition", CVPR, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2205.01657)]
+* Video-Language:
+    * **ATP**: "Revisiting the "Video" in Video-Language Understanding", CVPR, 2022 (*Stanford*). [[Paper](https://arxiv.org/abs/2206.01720)][[Website](https://stanfordvl.github.io/atp-revisit-video-lang/)]
 * Anomaly Detection:
     * **CT-D2GAN**: "Convolutional Transformer based Dual Discriminator Generative Adversarial Networks for Video Anomaly Detection", ACMMM, 2021 (*NEC*). [[Paper](https://arxiv.org/abs/2107.13720)]
 * Relation Detection:
@@ -919,6 +922,7 @@ Feel free to share this list with others!
 * **CyCLIP**: "CyCLIP: Cyclic Contrastive Language-Image Pretraining", arXiv, 2022 (*UCLA*). [[Paper](https://arxiv.org/abs/2205.14459)]
 * **CCLM**: "Cross-View Language Modeling: Towards Unified Cross-Lingual Cross-Modal Pre-training", arXiv, 2022 (*ByteDance*). [[Paper](https://arxiv.org/abs/2206.00621)]
 * **VL-BEiT**: "VL-BEiT: Generative Vision-Language Pretraining", arXiv, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2206.01127)]
+* **EgoVLP**: "Egocentric Video-Language Pretraining", arXiv, 2022 (*NUS*). [[Paper](https://arxiv.org/abs/2206.01670)][[Code (in construction)](https://github.com/showlab/EgoVLP)]
 
 [[Back to Overview](#overview)]
 
@@ -930,8 +934,8 @@ Feel free to share this list with others!
 * **AYCE**: "All You Can Embed: Natural Language based Vehicle Retrieval with Spatio-Temporal Transformers", CVPRW, 2021 (*University of Modena and Reggio Emilia*). [[Paper](https://arxiv.org/abs/2106.10153)][[PyTorch](https://github.com/cscribano/AYCE_2021)]
 * **TERN**: "Towards Efficient Cross-Modal Visual Textual Retrieval using Transformer-Encoder Deep Features", CBMI, 2021 (*National Research Council, Italy*). [[Paper](https://arxiv.org/abs/2106.00358)]
 * **HiT**: "HiT: Hierarchical Transformer with Momentum Contrast for Video-Text Retrieval", ICCV, 2021 (*Kuaishou*). [[Paper](https://arxiv.org/abs/2103.15049)]
+* **WebVid-2M**: "Frozen in Time: A Joint Video and Image Encoder for End-to-End Retrieval", ICCV, 2021 (*Oxford*). [[Paper](https://arxiv.org/abs/2104.00650)]
 * **VisualSparta**: "VisualSparta: Sparse Transformer Fragment-level Matching for Large-scale Text-to-Image Search", arXiv, 2021 (*CMU*). [[Paper](https://arxiv.org/abs/2101.00265)]
-* **WebVid-2M**: "Frozen in Time: A Joint Video and Image Encoder for End-to-End Retrieval", arXiv, 2021 (*Oxford*). [[Paper](https://arxiv.org/abs/2104.00650)]
 * **CCR-CCS**: "More Than Just Attention: Learning Cross-Modal Attentions with Contrastive Constraints", arXiv, 2021 (*Rutgers + Amazon*). [[Paper](https://arxiv.org/abs/2105.09597)]
 * **UMT**: "UMT: Unified Multi-modal Transformers for Joint Video Moment Retrieval and Highlight Detection", CVPR, 2022 (*Tencent*). [[Paper](https://arxiv.org/abs/2203.12745)][[Code (in constrcution)](https://github.com/TencentARC/UMT)]
 * **CenterCLIP**: "CenterCLIP: Token Clustering for Efficient Text-Video Retrieval", SIGIR, 2022 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2205.00823)]
