@@ -527,7 +527,7 @@ Feel free to share this list with others!
     * **CaFT**: "CaFT: Clustering and Filter on Tokens of Transformer for Weakly Supervised Object Localization", arXiv, 2022 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2201.00475)]
 * Relation Detection:
     * **PST**: "Visual Relationship Detection Using Part-and-Sum Transformers with Composite Queries", ICCV, 2021 (*Amazon*). [[Paper](https://arxiv.org/abs/2105.02170)]
-    * **RelTransformer**: "RelTransformer: Balancing the Visual Relationship Detection from Local Context, Scene and Memory", arXiv, 2021 (*KAUST*). [[Paper](https://arxiv.org/abs/2104.11934)][[Code (in construction)](https://github.com/Vision-CAIR/RelTransformer)]
+    * **RelTransformer**: "RelTransformer: Balancing the Visual Relationship Detection from Local Context, Scene and Memory", CVPR, 2022 (*KAUST*). [[Paper](https://arxiv.org/abs/2104.11934)][[PyTorch](https://github.com/Vision-CAIR/RelTransformer)]
     * **PST**: "Visual Composite Set Detection Using Part-and-Sum Transformers", arXiv, 2021 (*Amazon*). [[Paper](https://arxiv.org/abs/2105.02170)]
     * **TROI**: "Transformed ROIs for Capturing Visual Transformations in Videos", arXiv, 2021 (*NUS, Singapore*). [[Paper](https://arxiv.org/abs/2106.03162)]
 * Anomaly Detection:
@@ -857,6 +857,7 @@ Feel free to share this list with others!
 * **X-Trans2Cap**: "X-Trans2Cap: Cross-Modal Knowledge Transfer using Transformer for 3D Dense Captioning", CVPR, 2022 (*CUHK*). [[Paper](https://arxiv.org/abs/2203.00843)]
 * **SwinBERT**: "SwinBERT: End-to-End Transformers with Sparse Attention for Video Captioning", CVPR, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2111.13196)]
 * **UTC**: "UTC: A Unified Transformer with Inter-Task Contrastive Learning for Visual Dialog", CVPR, 2022 (*Fudan*). [[Paper](https://arxiv.org/abs/2205.00423)]
+* **VisualGPT**: "VisualGPT: Data-efficient Adaptation of Pretrained Language Models for Image Captioning", CVPR, 2022 (*KAUST*). [[Paper](https://arxiv.org/abs/2102.10407)][[PyTorch](https://github.com/Vision-CAIR/VisualGPT)]
 * **CLIP4IDC**: "CLIP4IDC: CLIP for Image Difference Captioning", CVPRW, 2022 (*Aalto University, Finland*). [[Paper](https://arxiv.org/abs/2206.00629)][[Code (in construction)](https://github.com/sushizixin/CLIP4IDC)]
 * **SpaCap3D**: "Spatiality-guided Transformer for 3D Dense Captioning on Point Clouds", IJCAI, 2022 (*University of Sydney*). [[Paper](https://arxiv.org/abs/2204.10688)][[Code (in construction)](https://github.com/heng-hw/SpaCap3D)][[Website](https://spacap3d.github.io/)]
 * **UCM**: "Self-Training Vision Language BERTs with a Unified Conditional Model", arXiv, 2022 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2201.02010)]
