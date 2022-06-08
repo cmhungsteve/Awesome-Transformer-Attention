@@ -1205,6 +1205,7 @@ Feel free to share this list with others!
     * **ICT**: "Protecting Celebrities with Identity Consistency Transformer", CVPR, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2203.01318)]
     * **SLPT**: "Sparse Local Patch Transformer for Robust Face Alignment and Landmarks Inherent Relation Learning", CVPR, 2022 (*University of Technology Sydney*). [[Paper](https://arxiv.org/abs/2203.06541)][[PyTorch](https://github.com/Jiahao-UTS/SLPT-master)]
     * **TransEditor**: "TransEditor: Transformer-Based Dual-Space GAN for Highly Controllable Facial Editing", CVPR, 2022 (*Shanghai AI La*). [[Paper](https://arxiv.org/abs/2203.17266)][[PyTorch](https://github.com/BillyXYB/TransEditor)][[Website](https://billyxyb.github.io/TransEditor/)]
+    * **FaRL**: "General Facial Representation Learning in a Visual-Linguistic Manner", CVPR, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2112.03109)][[PyTorch](https://github.com/faceperceiver/farl)]
     * **RestoreFormer**: "RestoreFormer: High-Quality Blind Face Restoration From Undegraded Key-Value Pairs", arXiv, 2022 (*HKU*). [[Paper](https://arxiv.org/abs/2201.06374)]
     * **EventFormer**: "EventFormer: AU Event Transformer for Facial Action Unit Event Detection", arXiv, 2022 (*Peking*). [[Paper](https://arxiv.org/abs/2203.06355)]
     * **MFT**: "Multi-Modal Learning for AU Detection Based on Multi-Head Fused Transformers", arXiv, 2022 (*SUNY Binghamton*). [[Paper](https://arxiv.org/abs/2203.11441)]
