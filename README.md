@@ -785,6 +785,7 @@ Feel free to share this list with others!
     * **?**: "Transformers in Action: Weakly Supervised Action Segmentation", arXiv, 2022 (*TUM*). [[Paper](https://arxiv.org/abs/2201.05675)]
     * **CETNet**: "Cross-Enhancement Transformer for Action Segmentation", arXiv, 2022 (*Shijiazhuang Tiedao University*). [[Paper](https://arxiv.org/abs/2205.09445)]
     * **EUT**: "Efficient U-Transformer with Boundary-Aware Loss for Action Segmentation", arXiv, 2022 (*CAS*). [[Paper](https://arxiv.org/abs/2205.13425)]
+    * **SC-Transformer**: "Structured Context Transformer for Generic Event Boundary Detection", arXiv, 2022 (*CAS*). [[Paper](https://arxiv.org/abs/2206.02985)]
 * Video Segmentation (General):
     * **TF-DL**: "TubeFormer-DeepLab: Video Mask Transformer", CVPR, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2205.15361)]
 * Video Object Detection:
@@ -1284,6 +1285,7 @@ Feel free to share this list with others!
     * **SUN**: "Self-Promoted Supervision for Few-Shot Transformer", arXiv, 2022 (*Harbin Institute of Technology + NUS*). [[Paper](https://arxiv.org/abs/2203.07057)][[PyTorch](https://github.com/DongSky/few-shot-vit)]
     * **HRT**: "Hybrid Routing Transformer for Zero-Shot Learning", arXiv, 2022 (*Xidian University*). [[Paper](https://arxiv.org/abs/2203.15310)]
     * **MG-ViT**: "Mask-guided Vision Transformer (MG-ViT) for Few-Shot Learning", arXiv, 2022 (*University of Electronic Science and Technology of China*). [[Paper](https://arxiv.org/abs/2205.09995)]
+    * **MUST**: "Masked Unsupervised Self-training for Zero-shot Image Classification", arXiv, 2022 (*Salesforce*). [[Paper](https://arxiv.org/abs/2206.02967)]
 * Continual Learning:
     * **MEAT**: "Meta-attention for ViT-backed Continual Learning", CVPR, 2022 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2203.11684)][[Code (in construction)](https://github.com/zju-vipa/MEAT-TIL)]
     * **DyTox**: "DyTox: Transformers for Continual Learning with DYnamic TOken eXpansion", CVPR, 2022 (*Sorbonne Universite, France*). [[Paper](https://arxiv.org/abs/2111.11326)][[PyTorch](https://github.com/arthurdouillard/dytox)]
