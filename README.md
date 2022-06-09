@@ -1339,6 +1339,7 @@ Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2204.08696)]
 * **HAT**: "Activating More Pixels in Image Super-Resolution Transformer", arXiv, 2022 (*University of Macau*). [[Paper](https://arxiv.org/abs/2205.04437)][[Code (in construction)](https://github.com/chxy95/HAT)]
 * **DenSformer**: "Dense residual Transformer for image denoising", arXiv, 2022 (*University of Science and Technology Beijing*). [[Paper](https://arxiv.org/abs/2205.06944)]
 * **ShuffleMixer**: "ShuffleMixer: An Efficient ConvNet for Image Super-Resolution", arXiv, 2022 (*Nanjing University of Science and Technology*). [[Paper](https://arxiv.org/abs/2205.15175)][[PyTorch](https://github.com/sunny2109/MobileSR-NTIRE2022)]
+* **Cubic-Mixer**: "UHD Image Deblurring via Multi-scale Cubic-Mixer", arXiv, 2022 (*Nanjing University of Science and Technology*). [[Paper](https://arxiv.org/abs/2206.03678)]
 
 [[Back to Overview](#overview)]
 
@@ -1424,6 +1425,7 @@ Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2204.08696)]
 * **Transframer**: "Transframer: Arbitrary Frame Prediction with Generative Models", arXiv, 2022 (*DeepMind*). [[Paper](https://arxiv.org/abs/2203.09494)]
 * **TATS**: "Long Video Generation with Time-Agnostic VQGAN and Time-Sensitive Transformer", arXiv, 2022 (*Maryland*). [[Paper](https://arxiv.org/abs/2204.03638)][[Website](https://songweige.github.io/projects/tats/index.html)]
 * **CogVideo**: "CogVideo: Large-scale Pretraining for Text-to-Video Generation via Transformers", arXiv, 2022 (*Tsinghua University*) [[Paper](https://arxiv.org/abs/2205.15868)][[GitHub (in construction)](https://github.com/THUDM/CogVideo)]
+* **POVT**: "Patch-based Object-centric Transformers for Efficient Video Generation", arXiv, 2022 (*Berkeley*). [[Paper](https://arxiv.org/abs/2206.04003)][[PyTorch](https://github.com/wilson1yan/povt)][[Website](https://sites.google.com/view/povt-public)]
 
 [[Back to Overview](#overview)]
 
