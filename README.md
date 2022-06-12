@@ -299,6 +299,7 @@ Feel free to share this list with others!
 * **SupMAE**: "SupMAE: Supervised Masked Autoencoders Are Efficient Vision Learners", arXiv, 2022 (*UT Austin*). [[Paper](https://arxiv.org/abs/2205.14540)][[PyTorch](https://github.com/cmu-enyac/supmae)]
 * **LoMaR**: "Efficient Self-supervised Vision Pretraining with Local Masked Reconstruction", arXiv, 2022 (*KAUST*). [[Paper](https://arxiv.org/abs/2206.00790)]
 * **SAR**: "Spatial Entropy Regularization for Vision Transformers", arXiv, 2022 (*University of Trento, Italy*). [[Paper](https://arxiv.org/abs/2206.04636)]
+* **ExtreMA**: "Extreme Masking for Learning Instance and Distributed Visual Representations", arXiv, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2206.04667)]
 #### Robustness + Transformer
 * **ViT-Robustness**: "Understanding Robustness of Transformers for Image Classification", ICCV, 2021 (*Google*). [[Paper](https://arxiv.org/abs/2103.14586)]
 * **SAGA**: "On the Robustness of Vision Transformers to Adversarial Examples", ICCV, 2021 (*University of Connecticut*). [[Paper](https://arxiv.org/abs/2104.02610)]
