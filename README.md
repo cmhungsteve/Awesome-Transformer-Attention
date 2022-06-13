@@ -125,7 +125,7 @@ Feel free to share this list with others!
 * **PVT**: "Pyramid Vision Transformer: A Versatile Backbone for Dense Prediction without Convolutions", ICCV, 2021 (*Nanjing University*). [[Paper](https://arxiv.org/abs/2102.12122)][[PyTorch](https://github.com/whai362/PVT)] 
 * **iRPE**: "Rethinking and Improving Relative Position Encoding for Vision Transformer", ICCV, 2021 (*Microsoft*). [[Paper](https://arxiv.org/abs/2107.14222)][[PyTorch](https://github.com/microsoft/Cream/tree/main/iRPE)]
 * **CaiT**: "Going deeper with Image Transformers", ICCV, 2021 (*Facebook*). [[Paper](https://arxiv.org/abs/2103.17239)][[PyTorch](https://github.com/facebookresearch/deit)]
-* **Swin-Transformer**: "Swin Transformer: Hierarchical Vision Transformer using Shifted Windows", ICCV, 2021 (*Microsoft*). [[Paper](https://arxiv.org/abs/2103.14030)][[PyTorch (berniwal)](https://github.com/berniwal/swin-transformer-pytorch)][[Code](https://github.com/microsoft/Swin-Transformer)]
+* **Swin-Transformer**: "Swin Transformer: Hierarchical Vision Transformer using Shifted Windows", ICCV, 2021 (*Microsoft*). [[Paper](https://arxiv.org/abs/2103.14030)][[PyTorch](https://github.com/microsoft/Swin-Transformer)][[PyTorch (berniwal)](https://github.com/berniwal/swin-transformer-pytorch)]
 * **T2T-ViT**: "Tokens-to-Token ViT: Training Vision Transformers from Scratch on ImageNet", ICCV, 2021 (*Yitu*). [[Paper](https://arxiv.org/abs/2101.11986)][[PyTorch](https://github.com/yitu-opensource/T2T-ViT)]
 * **FFNBN**: "Leveraging Batch Normalization for Vision Transformers", ICCVW, 2021 (*Microsoft*). [[Paper](https://openaccess.thecvf.com/content/ICCV2021W/NeurArch/html/Yao_Leveraging_Batch_Normalization_for_Vision_Transformers_ICCVW_2021_paper.html)]
 * **DPT**: "DPT: Deformable Patch-based Transformer for Visual Recognition", ACMMM, 2021 (*CAS*). [[Paper](https://arxiv.org/abs/2107.14467)][[PyTorch](https://github.com/CASIA-IVA-Lab/DPT)]
@@ -164,6 +164,7 @@ Feel free to share this list with others!
 * **DW-ViT**: "Beyond Fixation: Dynamic Window Visual Transformer", CVPR, 2022 (*Dark Matter AI, China*). [[Paper](https://arxiv.org/abs/2203.12856)][[PyTorch (in construction)](https://github.com/pzhren/DW-ViT)]
 * **MixFormer**: "MixFormer: Mixing Features across Windows and Dimensions", CVPR, 2022 (*Baidu*). [[Paper](https://arxiv.org/abs/2204.02557)][[Paddle](https://github.com/PaddlePaddle/PaddleClas)]
 * **DAT**: "Vision Transformer with Deformable Attention", CVPR, 2022 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2201.00520)][[PyTorch](https://github.com/LeapLabTHU/DAT)]
+* **Swin-Transformer-V2**: "Swin Transformer V2: Scaling Up Capacity and Resolution", CVPR, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2111.09883)][[PyTorch](https://github.com/microsoft/Swin-Transformer)]
 * **BViT**: "BViT: Broad Attention based Vision Transformer", arXiv, 2022 (*CAS*). [[Paper](https://arxiv.org/abs/2202.06268)]
 * **PyramidTNT**: "PyramidTNT: Improved Transformer-in-Transformer Baselines with Pyramid Architecture", arXiv, 2022 (*Huawei*). [[Paper](https://arxiv.org/abs/2201.00978)][[PyTorch](https://github.com/huawei-noah/CV-Backbones/tree/master/tnt_pytorch)]
 * **O-ViT**: "O-ViT: Orthogonal Vision Transformer", arXiv, 2022 (*East China Normal University*). [[Paper](https://arxiv.org/abs/2201.12133)]
@@ -678,6 +679,7 @@ Feel free to share this list with others!
 * Background Separation:
     * **TransBlast**: "TransBlast: Self-Supervised Learning Using Augmented Subspace With Transformer for Background/Foreground Separation", ICCVW, 2021 (*University of British Columbia*). [[Paper](https://openaccess.thecvf.com/content/ICCV2021W/RSLCV/html/Osman_TransBlast_Self-Supervised_Learning_Using_Augmented_Subspace_With_Transformer_for_BackgroundForeground_ICCVW_2021_paper.html)]
 * Scene Understanding:
+    * **Cerberus-Transformer**: "Cerberus Transformer: Joint Semantic, Affordance and Attribute Parsing", CVPR, 2022 (*Tsinghua University*). [[Paper](https://arxiv.org/abs/2111.12608)][[PyTorch](https://github.com/OPEN-AIR-SUN/Cerberus)]
     * **InvPT**: "Inverted Pyramid Multi-task Transformer for Dense Scene Understanding", arXiv, 2022 (*HKUST*). [[Paper](https://arxiv.org/abs/2203.07997)]
 * 3D Semantic Segmentation:
     * **Stratified-Transformer**: "Stratified Transformer for 3D Point Cloud Segmentation", CVPR, 2022 (*CUHK*). [[Paper](https://arxiv.org/abs/2203.14508)][[PyTorch](https://github.com/dvlab-research/Stratified-Transformer)]
@@ -745,6 +747,7 @@ Feel free to share this list with others!
 * **TAPG-Transformer**: "Temporal Action Proposal Generation with Transformers", arXiv, 2021 (*Harbin Institute of Technology*). [[Paper](https://arxiv.org/abs/2105.12043)]
 * **TadTR**: "End-to-end Temporal Action Detection with Transformer", arXiv, 2021 (*Alibaba*). [[Paper](https://arxiv.org/abs/2106.10271)][[Code (in construction)](https://github.com/xlliu7/TadTR)]
 * **Vidpress-Soccer**: "Feature Combination Meets Attention: Baidu Soccer Embeddings and Transformer based Temporal Detection", arXiv, 2021 (*Baidu*). [[Paper](https://arxiv.org/abs/2106.14447)][[GitHub](https://github.com/baidu-research/vidpress-sports)]
+* **MS-TCT**: "MS-TCT: Multi-Scale Temporal ConvTransformer for Action Detection", CVPR, 2022 (*INRIA*). [[Paper](https://arxiv.org/abs/2112.03902)][[PyTorch](https://github.com/dairui01/MS-TCT)]
 * **EAMAT**: "Entity-aware and Motion-aware Transformers for Language-driven Action Localization in Videos", IJCAI, 2022 (*Beijing Institute of Technology*). [[Paper](https://arxiv.org/abs/2205.05854)][[Code (in construction)](https://github.com/shuoyang129/EAMAT)]
 * **CoOadTR**: "Continual Transformers: Redundancy-Free Attention for Online Inference", arXiv, 2022 (*Aarhus University, Denmark*). [[Paper](https://arxiv.org/abs/2201.06268)][[PyTorch](https://github.com/LukasHedegaard/continual-transformers)]
 * **ActionFormer**: "ActionFormer: Localizing Moments of Actions with Transformers", arXiv, 2022 (*UW-Madison*). [[Paper](https://arxiv.org/abs/2202.07925)][[PyTorch](https://github.com/happyharrycn/actionformer_release)]
@@ -1721,7 +1724,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **HGTTR**: "End-to-End Human-Gaze-Target Detection with Transformers", arXiv, 2022 (*Shanghai Jiao Tong*). [[Paper](https://arxiv.org/abs/2203.10433)]
 * Geo-Localization:
     * **EgoTR**: "Cross-view Geo-localization with Evolving Transformer", arXiv, 2021 (*Shenzhen University*). [[Paper](https://arxiv.org/abs/2107.00842)]
-    * **TransGeo**: "TransGeo: Transformer Is All You Need for Cross-view Image Geo-localization", CVPR, 2022 (*UCF*). [[Paper](https://arxiv.org/abs/2204.00097)][[Code (in construction)](https://github.com/Jeff-Zilence/TransGeo2022)]
+    * **TransGeo**: "TransGeo: Transformer Is All You Need for Cross-view Image Geo-localization", CVPR, 2022 (*UCF*). [[Paper](https://arxiv.org/abs/2204.00097)][[PyTorch](https://github.com/Jeff-Zilence/TransGeo2022)]
     * **TransGCNN**: "Transformer-Guided Convolutional Neural Network for Cross-View Geolocalization", arXiv, 2022 (*Southeast University, China*). [[Paper](https://arxiv.org/abs/2204.09967)]
     * **TransLocator**: "Where in the World is this Image? Transformer-based Geo-localization in the Wild", arXiv, 2022 (*JHU*). [[Paper](https://arxiv.org/abs/2204.13861)]
     * **MGTL**: "Mutual Generative Transformer Learning for Cross-view Geo-localization", arXiv, 2022 (*University of Electronic Science and Technology of China*). [[Paper](https://arxiv.org/abs/2203.09135)]
