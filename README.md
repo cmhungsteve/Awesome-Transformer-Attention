@@ -300,6 +300,8 @@ Feel free to share this list with others!
 * **LoMaR**: "Efficient Self-supervised Vision Pretraining with Local Masked Reconstruction", arXiv, 2022 (*KAUST*). [[Paper](https://arxiv.org/abs/2206.00790)]
 * **SAR**: "Spatial Entropy Regularization for Vision Transformers", arXiv, 2022 (*University of Trento, Italy*). [[Paper](https://arxiv.org/abs/2206.04636)]
 * **ExtreMA**: "Extreme Masking for Learning Instance and Distributed Visual Representations", arXiv, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2206.04667)]
+* **?**: "Exploring Feature Self-relation for Self-supervised Transformer", arXiv, 2022 (*Nankai University*). [[Paper](https://arxiv.org/abs/2206.05184)]
+* **?**: "Position Labels for Self-Supervised Vision Transformer", arXiv, 2022 (*Southwest Jiaotong University*). [[Paper](https://arxiv.org/abs/2206.04981)]
 #### Robustness + Transformer
 * **ViT-Robustness**: "Understanding Robustness of Transformers for Image Classification", ICCV, 2021 (*Google*). [[Paper](https://arxiv.org/abs/2103.14586)]
 * **SAGA**: "On the Robustness of Vision Transformers to Adversarial Examples", ICCV, 2021 (*University of Connecticut*). [[Paper](https://arxiv.org/abs/2104.02610)]
@@ -1126,6 +1128,7 @@ Feel free to share this list with others!
     * **MHFormer**: "MHFormer: Multi-Hypothesis Transformer for 3D Human Pose Estimation", CVPR, 2022 (*Peking*). [[Paper](https://arxiv.org/abs/2111.12707)][[PyTorch](https://github.com/Vegetebird/MHFormer)]
     * **PAHMT**: "Spatial-Temporal Parallel Transformer for Arm-Hand Dynamic Estimation", CVPR, 2022 (*NetEase*). [[Paper](https://arxiv.org/abs/2203.16202)]
     * **TCFormer**: "Not All Tokens Are Equal: Human-centric Visual Analysis via Token Clustering Transformer", CVPR, 2022 (*CUHK*). [[Paper](https://arxiv.org/abs/2204.08680)][[Code (in construction)](https://github.com/zengwang430521/TCFormer)]
+    * **Ego-STAN**: "Building Spatio-temporal Transformers for Egocentric 3D Pose Estimation", CVPRW, 2022 (*University of Waterloo, Canada*). [[Paper](https://arxiv.org/abs/2206.04785)]
     * **AggPose**: "AggPose: Deep Aggregation Vision Transformer for Infant Pose Estimation", IJCAI, 2022 (*Shenzhen Baoan Women’s and Childiren’s Hospital*). [[Paper](https://arxiv.org/abs/2205.05277)][[Code (in construction)](https://github.com/SZAR-LAB/AggPose)]
     * **Swin-Pose**: "Swin-Pose: Swin Transformer Based Human Pose Estimation", arXiv, 2022 (*UMass Lowell*) [[Paper](https://arxiv.org/abs/2201.07384)]
     * **Poseur**: "Poseur: Direct Human Pose Regression with Transformers", arXiv, 2022 (*The University of Adelaide, Australia*). [[Paper](https://arxiv.org/abs/2201.07412)]
