@@ -728,6 +728,7 @@ Feel free to share this list with others!
     * **AIA**: "Attention in Attention: Modeling Context Correlation for Efficient Video Classification", TCSVT, 2022 (*University of Science and Technology of China*). [[Paper](https://arxiv.org/abs/2204.09303)][[PyTorch](https://github.com/haoyanbin918/Attention-in-Attention)]
     * **MTV**: "Multiview Transformers for Video Recognition", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2201.04288)]
     * **MSCA**: "Vision Transformer with Cross-attention by Temporal Shift for Efficient Action Recognition", arXiv, 2022 (*Nagoya Institute of Technology*). [[Paper](https://arxiv.org/abs/2204.00452)]
+    * **SViT**: "Bringing Image Scene Structure to Video via Frame-Clip Consistency of Object Tokens", arXiv, 2022 (*Tel Aviv*). [[Paper](https://arxiv.org/abs/2206.06346)][[Website](https://eladb3.github.io/SViT/)]
 * Depth
     * **Trear**: "Trear: Transformer-based RGB-D Egocentric Action Recognition",  IEEE Transactions on Cognitive and Developmental Systems, 2021 (*Tianjing University*). [[Paper](https://ieeexplore.ieee.org/document/9312201)]
 * Pose:
@@ -965,6 +966,7 @@ Feel free to share this list with others!
 * **EgoVLP**: "Egocentric Video-Language Pretraining", arXiv, 2022 (*NUS*). [[Paper](https://arxiv.org/abs/2206.01670)][[Code (in construction)](https://github.com/showlab/EgoVLP)]
 * **Singularity**: "Revealing Single Frame Bias for Video-and-Language Learning", arXiv, 2022 (*UNC*). [[Paper](https://arxiv.org/abs/2206.03428)]
 * **Uni-Perceiver-MoE**: "Uni-Perceiver-MoE: Learning Sparse Generalist Models with Conditional MoEs", arXiv, 2022 (*SenseTime*). [[Paper](https://arxiv.org/abs/2206.04674)]
+* **MetaLM**: "Language Models are General-Purpose Interfaces", arXiv, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2206.06336)][[PyTorch](https://github.com/microsoft/unilm)]
 
 [[Back to Overview](#overview)]
 
@@ -1286,6 +1288,7 @@ Feel free to share this list with others!
 * **TF-TAS**: "Training-free Transformer Architecture Search", CVPR, 2022 (*Tencent*). [[Paper](https://arxiv.org/abs/2203.12217)]
 * **ViT-Slim**: "Vision Transformer Slimming: Multi-Dimension Searching in Continuous Optimization Space", CVPR, 2022 (*MBZUAI*). [[Paper](https://arxiv.org/abs/2201.00814)][[PyTorch](https://github.com/Arnav0400/ViT-Slim)]
 * **VTCAS**: "Vision Transformer with Convolutions Architecture Search", arXiv, 2022 (*Donghua University*). [[Paper](https://arxiv.org/abs/2203.10435)]
+* **NOAH**: "Neural Prompt Search", arXiv, 2022 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2206.04673)][[PyTorch](https://github.com/Davidzhangyuanhan/NOAH)]
 
 [[Back to Overview](#overview)]
 
