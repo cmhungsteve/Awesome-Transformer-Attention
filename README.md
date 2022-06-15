@@ -12,6 +12,7 @@ Feel free to share this list with others!
 ---
 ## Overview
 
+- [Survey](#survey)
 - [Image Classification / Backbone](#image-classification--backbone)
     - [Replace Conv w/ Attention](#replace-conv-w-attention)
         - [Pure Attention](#pure-attention)
@@ -92,6 +93,32 @@ Feel free to share this list with others!
 - [References](#references)
  
 ---
+
+## Survey
+* "A Survey on Visual Transformer", TPAMI, 2022 (*Huawei*). [[Paper](https://arxiv.org/abs/2012.12556)] 
+* "A Comprehensive Study of Vision Transformers on Dense Prediction Tasks", VISAP, 2022 (*NavInfo Europe, Netherlands*). [[Paper](https://arxiv.org/abs/2201.08683)]
+* "Vision-and-Language Pretrained Models: A Survey", IJCAI, 2022 (*The University of Sydney*). [[Paper](https://arxiv.org/abs/2204.07356)]
+* "Multimodal Learning with Transformers: A Survey", arXiv, 2022 (*Oxford*). [[Paper](https://arxiv.org/abs/2206.06488)]
+* "Transforming medical imaging with Transformers? A comparative review of key properties, current progresses, and future perspectives", arXiv, 2022 (*CAS*). [[Paper](https://arxiv.org/abs/2206.01136)]
+* "Transformers in 3D Point Clouds: A Survey", arXiv, 2022 (*University of Waterloo*). [[Paper](https://arxiv.org/abs/2205.07417)]
+* "A survey on attention mechanisms for medical applications: are we moving towards better algorithms?", arXiv, 2022 (*INESC TEC and University of Porto, Portugal*). [[Paper](https://arxiv.org/abs/2204.12406)]
+* "Efficient Transformers: A Survey", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2009.06732)]
+* "Are we ready for a new paradigm shift? A Survey on Visual Deep MLP", arXiv, 2022 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2111.04060)]
+* "Vision Transformers in Medical Computer Vision - A Contemplative Retrospection", arXiv, 2022 (*National University of Sciences and Technology (NUST), Pakistan*). [[Paper](https://arxiv.org/abs/2203.15269)]
+* "Video Transformers: A Survey", arXiv, 2022 (*Universitat de Barcelona, Spain*). [[Paper](https://arxiv.org/abs/2201.05991)] 
+* "Transformers in Medical Image Analysis: A Review", arXiv, 2022 (*Nanjing University*). [[Paper](https://arxiv.org/abs/2202.12165)]
+* "Recent Advances in Vision Transformer: A Survey and Outlook of Recent Work", arXiv, 2022 (*?*). [[Paper](https://arxiv.org/abs/2203.01536)]
+* "Transformers Meet Visual Learning Understanding: A Comprehensive Review", arXiv, 2022 (*Xidian University*). [[Paper](https://arxiv.org/abs/2203.12944)]
+* "Image Captioning In the Transformer Age", arXiv, 2022 (*Alibaba*). [[Paper](https://arxiv.org/abs/2204.07374)][[GitHub](https://github.com/SjokerLily/awesome-image-captioning)]
+* "Visual Attention Methods in Deep Learning: An In-Depth Survey", arXiv, 2022 (*Fayoum University, Egypt*). [[Paper](https://arxiv.org/abs/2204.07756)]
+* "Transformers in Vision: A Survey", ACM Computing Surveys, 2021 (*MBZUAI*). [[Paper](https://arxiv.org/abs/2101.01169)]
+* "Survey: Transformer based Video-Language Pre-training", arXiv, 2021 (*Renmin University of China*). [[Paper](https://arxiv.org/abs/2109.09920)]
+* "A Survey of Transformers", arXiv, 2021 (*Fudan*). [[Paper](https://arxiv.org/abs/2106.04554)]
+* "A Survey of Visual Transformers", arXiv, 2021 (*CAS*). [[Paper](https://arxiv.org/abs/2111.06091)]
+* "Attention mechanisms and deep learning for machine vision: A survey of the state of the art", arXiv, 2021 (*University of Kashmir, India*). [[Paper](https://arxiv.org/abs/2106.07550)]
+
+[[Back to Overview](#overview)]
+
 
 ## Image Classification / Backbone
 ### Replace Conv w/ Attention
@@ -2006,28 +2033,6 @@ If you find this repository useful, please consider citing this list:
 ---
 
 ## References
-* Survey:
-    * "A Survey on Visual Transformer", TPAMI, 2022 (*Huawei*). [[Paper](https://arxiv.org/abs/2012.12556)] 
-    * "A Comprehensive Study of Vision Transformers on Dense Prediction Tasks", VISAP, 2022 (*NavInfo Europe, Netherlands*). [[Paper](https://arxiv.org/abs/2201.08683)]
-    * "Vision-and-Language Pretrained Models: A Survey", IJCAI, 2022 (*The University of Sydney*). [[Paper](https://arxiv.org/abs/2204.07356)]
-    * "Multimodal Learning with Transformers: A Survey", arXiv, 2022 (*Oxford*). [[Paper](https://arxiv.org/abs/2206.06488)]
-    * "Transforming medical imaging with Transformers? A comparative review of key properties, current progresses, and future perspectives", arXiv, 2022 (*CAS*). [[Paper](https://arxiv.org/abs/2206.01136)]
-    * "Transformers in 3D Point Clouds: A Survey", arXiv, 2022 (*University of Waterloo*). [[Paper](https://arxiv.org/abs/2205.07417)]
-    * "A survey on attention mechanisms for medical applications: are we moving towards better algorithms?", arXiv, 2022 (*INESC TEC and University of Porto, Portugal*). [[Paper](https://arxiv.org/abs/2204.12406)]
-    * "Efficient Transformers: A Survey", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2009.06732)]
-    * "Are we ready for a new paradigm shift? A Survey on Visual Deep MLP", arXiv, 2022 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2111.04060)]
-    * "Vision Transformers in Medical Computer Vision - A Contemplative Retrospection", arXiv, 2022 (*National University of Sciences and Technology (NUST), Pakistan*). [[Paper](https://arxiv.org/abs/2203.15269)]
-    * "Video Transformers: A Survey", arXiv, 2022 (*Universitat de Barcelona, Spain*). [[Paper](https://arxiv.org/abs/2201.05991)] 
-    * "Transformers in Medical Image Analysis: A Review", arXiv, 2022 (*Nanjing University*). [[Paper](https://arxiv.org/abs/2202.12165)]
-    * "Recent Advances in Vision Transformer: A Survey and Outlook of Recent Work", arXiv, 2022 (*?*). [[Paper](https://arxiv.org/abs/2203.01536)]
-    * "Transformers Meet Visual Learning Understanding: A Comprehensive Review", arXiv, 2022 (*Xidian University*). [[Paper](https://arxiv.org/abs/2203.12944)]
-    * "Image Captioning In the Transformer Age", arXiv, 2022 (*Alibaba*). [[Paper](https://arxiv.org/abs/2204.07374)][[GitHub](https://github.com/SjokerLily/awesome-image-captioning)]
-    * "Visual Attention Methods in Deep Learning: An In-Depth Survey", arXiv, 2022 (*Fayoum University, Egypt*). [[Paper](https://arxiv.org/abs/2204.07756)]
-    * "Transformers in Vision: A Survey", ACM Computing Surveys, 2021 (*MBZUAI*). [[Paper](https://arxiv.org/abs/2101.01169)]
-    * "Survey: Transformer based Video-Language Pre-training", arXiv, 2021 (*Renmin University of China*). [[Paper](https://arxiv.org/abs/2109.09920)]
-    * "A Survey of Transformers", arXiv, 2021 (*Fudan*). [[Paper](https://arxiv.org/abs/2106.04554)]
-    * "A Survey of Visual Transformers", arXiv, 2021 (*CAS*). [[Paper](https://arxiv.org/abs/2111.06091)]
-    * "Attention mechanisms and deep learning for machine vision: A survey of the state of the art", arXiv, 2021 (*University of Kashmir, India*). [[Paper](https://arxiv.org/abs/2106.07550)]
 * Online Resources:
     * [Papers with Code](https://paperswithcode.com/methods/category/vision-transformer)
     * [Practical Introduction to Transformers (GitHub)](https://github.com/IbrahimSobh/Transformers)
