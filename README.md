@@ -631,7 +631,7 @@ Feel free to share this list with others!
     * **COAT**: "Cascade Transformers for End-to-End Person Search", CVPR, 2022 (*Kitware*). [[Paper](https://arxiv.org/abs/2203.09642)][[PyTorch](https://github.com/Kitware/COAT)]
     * **PSTR**: "PSTR: End-to-End One-Step Person Search With Transformers", CVPR, 2022 (*Tianjin University*). [[Paper](https://arxiv.org/abs/2204.03340)][[PyTorch](https://github.com/JialeCao001/PSTR)]
 * Manipulation Detection:
-    * **ObjectFormer**: "ObjectFormer for Image Manipulation Detection and Localization", arXiv, 2022 (*Fudan University*). [[Paper](https://arxiv.org/abs/2203.14681)]
+    * **ObjectFormer**: "ObjectFormer for Image Manipulation Detection and Localization", CVPR, 2022 (*Fudan University*). [[Paper](https://arxiv.org/abs/2203.14681)]
 * Grounded Situation Recognition:
     * **CoFormer**: "Collaborative Transformers for Grounded Situation Recognition", CVPR, 2022 (*POSTECH*). [[Paper](https://arxiv.org/abs/2203.16518)][[PyTorch](https://github.com/jhcho99/CoFormer)]
 * Multi-Modal:
@@ -726,6 +726,8 @@ Feel free to share this list with others!
     * **WegFormer**: "WegFormer: Transformers for Weakly Supervised Semantic Segmentation", arXiv, 2022 (*Tongji University, China*). [[Paper](https://arxiv.org/abs/2203.08421)]
     * **?**: "Self-Supervised Pre-training of Vision Transformers for Dense Prediction Tasks", arXiv, 2022 (*Université Paris-Saclay, France*). [[Paper](https://arxiv.org/abs/2205.15173)]
     * **MaskDistill**: "Discovering Object Masks with Transformers for Unsupervised Semantic Segmentation", arXiv, 2022 (*KU Leuven*). [[Paper](https://arxiv.org/abs/2206.06363)][[PyTorch](https://github.com/wvangansbeke/MaskDistill)]
+* Cross-Domain:
+    * **DAFormer**: "DAFormer: Improving Network Architectures and Training Strategies for Domain-Adaptive Semantic Segmentation", CVPR, 2022 (*ETHZ*). [[Paper](https://arxiv.org/abs/2111.14887)][[PyTorch](https://github.com/lhoyer/DAFormer)]
 * Crack Detection:
     * **CrackFormer**: "CrackFormer: Transformer Network for Fine-Grained Crack Detection", ICCV, 2021 (*Nanjing University of Science and Technology*). [[Paper](https://openaccess.thecvf.com/content/ICCV2021/html/Liu_CrackFormer_Transformer_Network_for_Fine-Grained_Crack_Detection_ICCV_2021_paper.html)]
 * Camouflaged Object Detection:
@@ -1308,7 +1310,7 @@ Feel free to share this list with others!
     * **FaceFormer**: "FaceFormer: Speech-Driven 3D Facial Animation with Transformers", CVPR, 2022 (*HKU*). [[Paper](https://arxiv.org/abs/2112.05329)][[PyTorch](https://github.com/EvelynFan/FaceFormer)][[Website](https://evelynfan.github.io/audio2face/)]
     * **PhysFormer**: "PhysFormer: Facial Video-based Physiological Measurement with Temporal Difference Transformer", CVPR, 2022 (*University of Oulu, Finland*). [[Paper](https://arxiv.org/abs/2111.12082)][[PyTorch](https://github.com/ZitongYu/PhysFormer)]
     * **DTLD**: "Towards Accurate Facial Landmark Detection via Cascaded Transformers", CVPR, 2022 (*Samsung*). [[Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Li_Towards_Accurate_Facial_Landmark_Detection_via_Cascaded_Transformers_CVPR_2022_paper.html)]
-    * **RestoreFormer**: "RestoreFormer: High-Quality Blind Face Restoration From Undegraded Key-Value Pairs", arXiv, 2022 (*HKU*). [[Paper](https://arxiv.org/abs/2201.06374)]
+    * **RestoreFormer**: "RestoreFormer: High-Quality Blind Face Restoration From Undegraded Key-Value Pairs", CVPR, 2022 (*HKU*). [[Paper](https://arxiv.org/abs/2201.06374)]
     * **EventFormer**: "EventFormer: AU Event Transformer for Facial Action Unit Event Detection", arXiv, 2022 (*Peking*). [[Paper](https://arxiv.org/abs/2203.06355)]
     * **MFT**: "Multi-Modal Learning for AU Detection Based on Multi-Head Fused Transformers", arXiv, 2022 (*SUNY Binghamton*). [[Paper](https://arxiv.org/abs/2203.11441)]
     * **VC-TRSF**: "Self-supervised Video-centralised Transformer for Video Face Clustering", arXiv, 2022 (*ICL*). [[Paper](https://arxiv.org/abs/2203.13166)]
