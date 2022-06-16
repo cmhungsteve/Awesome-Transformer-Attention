@@ -898,6 +898,7 @@ Feel free to share this list with others!
 * Video-Language:
     * **ATP**: "Revisiting the "Video" in Video-Language Understanding", CVPR, 2022 (*Stanford*). [[Paper](https://arxiv.org/abs/2206.01720)][[Website](https://stanfordvl.github.io/atp-revisit-video-lang/)]
     * **CLIP-Event**: "CLIP-Event: Connecting Text and Images with Event Structures", CVPR, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2201.05078)][[PyTorch](https://github.com/limanling/clip-event)]
+    * **LAVENDER**: "LAVENDER: Unifying Video-Language Understanding as Masked Language Modeling", arXiv, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2206.07160)][[Code (in construction)](https://github.com/microsoft/LAVENDER)]
 * Anomaly Detection:
     * **CT-D2GAN**: "Convolutional Transformer based Dual Discriminator Generative Adversarial Networks for Video Anomaly Detection", ACMMM, 2021 (*NEC*). [[Paper](https://arxiv.org/abs/2107.13720)]
 * Relation Detection:
