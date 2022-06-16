@@ -214,6 +214,7 @@ Feel free to share this list with others!
 * **LITv2**: "Fast Vision Transformers with HiLo Attention", arXiv, 2022 (*Monash University*). [[Paper](https://arxiv.org/abs/2205.13213)][[Code (in construction)](https://github.com/zip-group/LITv2)]
 * **X-ViT**: "X-ViT: High Performance Linear Vision Transformer without Softmax", arXiv, 2022 (*Kakao*). [[Paper](https://arxiv.org/abs/2205.13805)]
 * **PerViT**: "Peripheral Vision Transformer", arXiv, 2022 (*POSTECH*). [[Paper](https://arxiv.org/abs/2206.06801)]
+* **SP-ViT**: "SP-ViT: Learning 2D Spatial Priors for Vision Transformers", arXiv, 2022 (*Alibaba*). [[Paper](https://arxiv.org/abs/2206.07662)]
 #### Efficient Vision Transformer
 * **DeiT**: "Training data-efficient image transformers & distillation through attention", ICML, 2021 (*Facebook*). [[Paper](https://arxiv.org/abs/2012.12877)][[PyTorch](https://github.com/facebookresearch/deit)]
 * **ConViT**: "ConViT: Improving Vision Transformers with Soft Convolutional Inductive Biases", ICML, 2021 (*Facebook*). [[Paper](https://arxiv.org/abs/2103.10697)][[Code](https://github.com/facebookresearch/convit)]
@@ -594,6 +595,7 @@ Feel free to share this list with others!
     * **PST**: "Visual Relationship Detection Using Part-and-Sum Transformers with Composite Queries", ICCV, 2021 (*Amazon*). [[Paper](https://arxiv.org/abs/2105.02170)]
     * **PST**: "Visual Composite Set Detection Using Part-and-Sum Transformers", arXiv, 2021 (*Amazon*). [[Paper](https://arxiv.org/abs/2105.02170)]
     * **TROI**: "Transformed ROIs for Capturing Visual Transformations in Videos", arXiv, 2021 (*NUS, Singapore*). [[Paper](https://arxiv.org/abs/2106.03162)]
+    * **?**: "Video Relation Detection via Tracklet based Visual Transformer", arXiv, 2021 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2108.08669)][[PyTorch](https://github.com/Dawn-LX/VidVRD-tracklets)]
     * **RelTransformer**: "RelTransformer: A Transformer-Based Long-Tail Visual Relationship Recognition", CVPR, 2022 (*KAUST*). [[Paper](https://arxiv.org/abs/2104.11934)][[PyTorch](https://github.com/Vision-CAIR/RelTransformer)]
     * **VRDFormer**: "VRDFormer: End-to-End Video Visual Relation Detection With Transformers", CVPR, 2022 (*Renmin University of China*). [[Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Zheng_VRDFormer_End-to-End_Video_Visual_Relation_Detection_With_Transformers_CVPR_2022_paper.html)][[Code (in construction)](https://github.com/zhengsipeng/VRDFormer_VRD)]
 * Anomaly Detection:
@@ -1037,6 +1039,8 @@ Feel free to share this list with others!
 * **Singularity**: "Revealing Single Frame Bias for Video-and-Language Learning", arXiv, 2022 (*UNC*). [[Paper](https://arxiv.org/abs/2206.03428)]
 * **Uni-Perceiver-MoE**: "Uni-Perceiver-MoE: Learning Sparse Generalist Models with Conditional MoEs", arXiv, 2022 (*SenseTime*). [[Paper](https://arxiv.org/abs/2206.04674)]
 * **MetaLM**: "Language Models are General-Purpose Interfaces", arXiv, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2206.06336)][[PyTorch](https://github.com/microsoft/unilm)]
+* **DaVinci**: "Prefix Language Models are Unified Modal Learners", arXiv, 2022 (*ByteDance*). [[Paper](https://arxiv.org/abs/2206.07699)]
+* **FIBER**: "Coarse-to-Fine Vision-Language Pre-training with Fusion in the Backbone", arXiv, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2206.07643)][[PyTorch](https://github.com/microsoft/FIBER)]
 
 [[Back to Overview](#overview)]
 
@@ -1071,7 +1075,7 @@ Feel free to share this list with others!
 * **AvatarCLIP**: "AvatarCLIP: Zero-Shot Text-Driven Generation and Animation of 3D Avatars", SIGGRAPH, 2022 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2205.08535)][[PyTorch](https://github.com/hongfz16/AvatarCLIP)][[Website](https://hongfz16.github.io/projects/AvatarCLIP.html)]
 * **DALL-Eval**: "DALL-Eval: Probing the Reasoning Skills and Social Biases of Text-to-Image Generative Transformers", arXiv, 2022 (*UNC*). [[Paper](https://arxiv.org/abs/2202.04053)][[PyTorch](https://github.com/j-min/DallEval)]
 * **DALL-E-2**: "Hierarchical Text-Conditional Image Generation with CLIP Latents", arXiv, 2022 (*OpenAI*). [[Paper](https://arxiv.org/abs/2204.06125)][[Website](https://openai.com/dall-e-2/)]
-* **CogView2**: "CogView2: Faster and Better Text-to-Image Generation via Hierarchical Transformers", arXiv, 2022 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2204.14217)]
+* **CogView2**: "CogView2: Faster and Better Text-to-Image Generation via Hierarchical Transformers", arXiv, 2022 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2204.14217)][[PyTorch](https://github.com/THUDM/CogView2)]
 * **?**: "A very preliminary analysis of DALL-E 2", arXiv, 2022 (*NYU*). [[Paper](https://arxiv.org/abs/2204.13807)]
 * **Imagen**: "Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding", arXiv, 2022 (*Google*). [[Paper](https://gweb-research-imagen.appspot.com/paper.pdf)][[Website](https://gweb-research-imagen.appspot.com/)]
 * **GLIDE**: "GLIDE: Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models", arXiv, 2022 (*OpenAI*). [[Paper](https://arxiv.org/abs/2112.10741)][[PyTorch](https://github.com/openai/glide-text2im)]
@@ -1119,6 +1123,7 @@ Feel free to share this list with others!
     * **?**: "The Right to Talk: An Audio-Visual Transformer Approach", ICCV, 2021 (*University of Arkansas*). [[Paper](https://arxiv.org/abs/2108.03256)]
 * Multi-task:
     * **UniT**: "Transformer is All You Need: Multimodal Multitask Learning with a Unified Transformer", ICCV, 2021 (*Facebook*). [[Paper](https://arxiv.org/abs/2102.10772)][[PyTorch](https://github.com/facebookresearch/mmf)][[Website](https://mmf.sh/)]
+    * **Pix2Seq**: "A Unified Sequence Interface for Vision Tasks", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2206.07669)]
 * Language-based Video Editing:
     * **M<sup>3</sup>L**: "Language-based Video Editing via Multi-Modal Multi-Level Transformer", CVPR, 2022 (*UCSB*). [[Paper](https://arxiv.org/abs/2104.01122)]
 * Video Summarization:
@@ -1589,11 +1594,12 @@ Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2204.08696)]
     * **IAT**: "Illumination Adaptive Transformer", arXiv, 2022 (*The University of Tokyo*). [[Paper](https://arxiv.org/abs/2205.14871)][[PyTorch](https://github.com/cuiziteng/Illumination-Adaptive-Transformer)]
 * Harmonization:
     * **HT**: "Image Harmonization With Transformer", ICCV, 2021 (*Ocean University of China*). [[Paper](https://openaccess.thecvf.com/content/ICCV2021/html/Guo_Image_Harmonization_With_Transformer_ICCV_2021_paper.html)]
-* Image Compression:
+* Compression:
     * **?**: "Towards End-to-End Image Compression and Analysis with Transformers", AAAI, 2022 (*1Harbin Institute of Technology*). [[Paper](https://arxiv.org/abs/2112.09300)][[PyTorch](https://github.com/BYchao100/Towards-Image-Compression-and-Analysis-with-Transformers)]
     * **Entroformer**: "Entroformer: A Transformer-based Entropy Model for Learned Image Compression", ICLR, 2022 (*Alibaba*). [[Paper](https://arxiv.org/abs/2202.05492)]
     * **STF**: "The Devil Is in the Details: Window-based Attention for Image Compression", CVPR, 2022 (*CAS*). [[Paper](https://arxiv.org/abs/2203.08450)][[PyTorch](https://github.com/Googolxx/STF)]
     * **Contextformer**: "Contextformer: A Transformer with Spatio-Channel Attention for Context Modeling in Learned Image Compression", arXiv, 2022 (*TUM*). [[Paper](https://arxiv.org/abs/2203.02452)]
+    * **VCT**: "VCT: A Video Compression Transformer", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2206.07307)]
 * Matting:
     * **MatteFormer**: "MatteFormer: Transformer-Based Image Matting via Prior-Tokens", CVPR, 2022 (*SNU + NAVER*). [[Paper](https://arxiv.org/abs/2203.15662)][[PyTorch](https://github.com/webtoon/matteformer)]
 * Reconstruction
@@ -1775,9 +1781,11 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
 * **CGT**: "Cross-modal Clinical Graph Transformer for Ophthalmic Report Generation", CVPR, 2022 (*University of Technology Sydney*). [[Paper](https://arxiv.org/abs/2206.01988)]
 * **BabyNet**: "BabyNet: Residual Transformer Module for Birth Weight Prediction on Fetal Ultrasound Video", MICCAI, 2022 (*Sano Centre for Computational Medicine, Poland*). [[Paper](https://arxiv.org/abs/2205.09382)][[PyTorch](https://github.com/SanoScience/BabyNet)]
 * **TLT**: "Transformer Lesion Tracker", MICCAI, 2022 (*InferVision Medical Technology, China*). [[Paper](https://arxiv.org/abs/2206.06252)]
+* **XMorpher**: "XMorpher: Full Transformer for Deformable Medical Image Registration via Cross Attention", MICCAI, 2022 (*Southeast University, China*). [[Paper](https://arxiv.org/abs/2206.07349)][[PyTorch](https://github.com/Solemoon/XMorpher)]
 * **SiT**: "Surface Vision Transformers: Attention-Based Modelling applied to Cortical Analysis", Medical Imaging with Deep Learning (MIDL), 2022 (*King’s College London, UK*). [[Paper](https://arxiv.org/abs/2203.16414)]
 * **SiT**: "Surface Analysis with Vision Transformers", CVPRW, 2022 (*King’s College London, UK*). [[Paper](https://arxiv.org/abs/2205.15836)][[PyTorch](https://github.com/metrics-lab/surface-vision-transformers)]
 * **SiT**: "Surface Vision Transformers: Flexible Attention-Based Modelling of Biomedical Surfaces", arXiv, 2022 (*King’s College London, UK*). [[Paper](https://arxiv.org/abs/2204.03408)][[PyTorch](https://github.com/metrics-lab/surface-vision-transformers)]
+* **TransMorph**: "TransMorph: Transformer for unsupervised medical image registration", arXiv, 2022 (*JHU*). [[Paper](https://arxiv.org/abs/2111.10480)]
 * **MDBERT**: "Hierarchical BERT for Medical Document Understanding", arXiv, 2022 (*IQVIA, NC*). [[Paper](https://arxiv.org/abs/2204.09600)]
 * **SymTrans**: "Symmetric Transformer-based Nwholeetwork for Unsupervised Image Registration", arXiv, 2022 (*Jilin University*). [[Paper](https://arxiv.org/abs/2204.13575)]
 * **MMT**: "One Model to Synthesize Them All: Multi-contrast Multi-scale Transformer for Missing Data Imputation", arXiv, 2022 (*JHU*). [[Paper](https://arxiv.org/abs/2204.13738)]
@@ -1957,11 +1965,11 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **GKT**: "Efficient and Robust 2D-to-BEV Representation Learning via Geometry-guided Kernel Transformer", arXiv, 2022 (*Huazhong University of Science and Technology*). [[Paper](https://arxiv.org/abs/2206.04584)][[Code (in construction)](https://github.com/hustvl/GKT)]
 * Trajectory Prediction:
     * **mmTransformer**: "Multimodal Motion Prediction with Stacked Transformers", CVPR, 2021 (*CUHK + SenseTime*). [[Paper](https://arxiv.org/abs/2103.11624)][[Code (in construction)](https://github.com/decisionforce/mmTransformer)][[Website](https://decisionforce.github.io/mmTransformer/)]
-    * **AgentFormer**: "AgentFormer: Agent-Aware Transformers for Socio-Temporal Multi-Agent Forecasting", ICCV, 2021 (*CMU*). [[Paper](https://arxiv.org/abs/2103.14023)][[Code (in construction)](https://github.com/Khrylx/AgentFormer)][[Website](https://www.ye-yuan.com/agentformer/)]
+    * **AgentFormer**: "AgentFormer: Agent-Aware Transformers for Socio-Temporal Multi-Agent Forecasting", ICCV, 2021 (*CMU*). [[Paper](https://arxiv.org/abs/2103.14023)][[PyTorch](https://github.com/Khrylx/AgentFormer)][[Website](https://www.ye-yuan.com/agentformer/)]
     * **MRT**: "Multi-Person 3D Motion Prediction with Multi-Range Transformers", NeurIPS, 2021 (*UCSD + Berkeley*). [[Paper](https://arxiv.org/abs/2111.12073)][[PyTorch](https://github.com/jiashunwang/MRT)][[Website](https://jiashunwang.github.io/MRT/)]
     * **?**: "Latent Variable Sequential Set Transformers for Joint Multi-Agent Motion Prediction", ICLR, 2022 (*MILA*). [[Paper](https://openreview.net/forum?id=Dup_dDqkZC5)]
     * **Scene-Transformer**: "Scene Transformer: A unified architecture for predicting multiple agent trajectories", ICLR, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2106.08417)]
-    * **ST-MR**: "Graph-based Spatial Transformer with Memory Replay for Multi-future Pedestrian Trajectory Prediction", CVPR, 2022 (*University of New South Wales, Australia*). [[Paper](https://arxiv.org/abs/2206.05712)][[Tensorflow](https://github.com/Jacobieee/ST-MR)]
+    * **ST-MR**: "Graph-based Spatial Transformer with Memory Replay for Multi-Future Pedestrian Trajectory Prediction", CVPR, 2022 (*University of New South Wales, Australia*). [[Paper](https://arxiv.org/abs/2206.05712)][[Tensorflow](https://github.com/Jacobieee/ST-MR)]
     * **HiVT**: "HiVT: Hierarchical Vector Transformer for Multi-Agent Motion Prediction", CVPR, 2022 (*CUHK*). [[Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Zhou_HiVT_Hierarchical_Vector_Transformer_for_Multi-Agent_Motion_Prediction_CVPR_2022_paper.html)]
     * **LatentFormer**: "LatentFormer: Multi-Agent Transformer-Based Interaction Modeling and Trajectory Prediction", arXiv, 2022 (*Huawei*). [[Paper](https://arxiv.org/abs/2203.01880)]
     * **PreTR**: "PreTR: Spatio-Temporal Non-Autoregressive Trajectory Prediction Transformer", arXiv, 2022 (*Stellantis, France*). [[Paper](https://arxiv.org/abs/2203.09293)]
