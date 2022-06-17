@@ -312,7 +312,7 @@ Feel free to share this list with others!
 * **AutoProg**: "Automated Progressive Learning for Efficient Training of Vision Transformers", CVPR, 2022 (*Monash University, Australia*). [[Paper](https://arxiv.org/abs/2203.14509)][[Code (in construction)](https://github.com/changlin31/AutoProg)]
 * **MAE**: "Masked Autoencoders Are Scalable Vision Learners", CVPR, 2022 (*Facebook*). [[Paper](https://arxiv.org/abs/2111.06377)][[PyTorch](https://github.com/facebookresearch/mae)][[PyTorch (pengzhiliang)](https://github.com/pengzhiliang/MAE-pytorch)]
 * **SimMIM**: "SimMIM: A Simple Framework for Masked Image Modeling", CVPR, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2111.09886)][[PyTorch](https://github.com/microsoft/SimMIM)]
-* **SelfPatch**: "Patch-Level Representation Learning for Self-Supervised Vision Transformers", CVPR, 2022 (*KAIST*). [[Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Yun_Patch-Level_Representation_Learning_for_Self-Supervised_Vision_Transformers_CVPR_2022_paper.html)]
+* **SelfPatch**: "Patch-Level Representation Learning for Self-Supervised Vision Transformers", CVPR, 2022 (*KAIST*). [[Paper](https://arxiv.org/abs/2206.07990)][[PyTorch](https://github.com/alinlab/SelfPatch)]
 * **Bootstrapping-ViTs**: "Bootstrapping ViTs: Towards Liberating Vision Transformers from Pre-training", CVPR, 2022 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2112.03552)][[Pytorch](https://github.com/zhfeing/Bootstrapping-ViTs-pytorch)]
 * **TransMix**: "TransMix: Attend to Mix for Vision Transformers", CVPR, 2022 (*JHU*). [[Paper](https://arxiv.org/abs/2111.09833)][[PyTorch](https://github.com/Beckschen/TransMix)]
 * **?**: "How to train your ViT? Data, Augmentation, and Regularization in Vision Transformers", Transactions on Machine Learning Research (TMLR), 2022 (*Google*). [[Paper](https://openreview.net/forum?id=4nPswr1KcP)][[Tensorflow](https://github.com/google-research/vision_transformer)][[PyTorch (rwightman)](https://github.com/rwightman/pytorch-image-models)]
@@ -1009,7 +1009,7 @@ Feel free to share this list with others!
 
 ### Multi-Modal Representation Learning
 * **LXMERT**: "LXMERT: Learning Cross-Modality Encoder Representations from Transformers", EMNLP, 2019 (*UNC*). [[Paper](https://arxiv.org/abs/1908.07490)][[PyTorch](https://github.com/airsplay/lxmert)]
-* **ViLBERT**: "ViLBERT: Pretraining Task-Agnostic Visiolinguistic Representations for Vision-and-Language Tasks", NeurIPS, 2019 (*GaTech*). [[Paper](https://papers.nips.cc/paper/2019/hash/c74d97b01eae257e44aa9d5bade97baf-Abstract.html)][[PyTorch](https://github.com/facebookresearch/vilbert-multi-task)]
+* **ViLBERT**: "ViLBERT: Pretraining Task-Agnostic Visiolinguistic Representations for Vision-and-Language Tasks", NeurIPS, 2019 (*Georgia Tech*). [[Paper](https://papers.nips.cc/paper/2019/hash/c74d97b01eae257e44aa9d5bade97baf-Abstract.html)][[PyTorch](https://github.com/facebookresearch/vilbert-multi-task)]
 * **Unified-VLP**: "Unified Vision-Language Pre-Training for Image Captioning and VQA", AAAI, 2020 (*UMich + Microsoft*). [[Paper](https://arxiv.org/abs/1909.11059)][[PyTorch](https://github.com/LuoweiZhou/VLP)]
 * **UNITER**: "UNITER: UNiversal Image-TExt Representation Learning", ECCV, 2020 (*Microsoft*). [[Paper](https://arxiv.org/abs/1909.11740)][[PyTorch](https://github.com/ChenRocks/UNITER)]
 * **COOT**: "COOT: Cooperative Hierarchical Transformer for Video-Text Representation Learning", NeurIPS, 2020 (*University of Freiburg*). [[Paper](https://arxiv.org/abs/2011.00597)][[PyTorch](https://github.com/gingsi/coot-videotext)]
@@ -1168,6 +1168,8 @@ Feel free to share this list with others!
     * **VL-InterpreT**: "VL-InterpreT: An Interactive Visualization Tool for Interpreting Vision-Language Transformers", CVPR (demo), 2022 (*Intel*). [[Paper](https://arxiv.org/abs/2203.17247)][[Website](http://vlinterpretenv4env-env.eba-vmhhefup.us-east-2.elasticbeanstalk.com/)][[Video](https://www.youtube.com/watch?v=2HZ2IjzG5_4&ab_channel=MengDu)]
 * Audio-Visual:
     * **AVCA**: "Audio-visual Generalised Zero-shot Learning with Cross-modal Attention and Language", CVPR, 2022 (*University of Tubingen, Germany*). [[Paper](https://arxiv.org/abs/2203.03598)][[PyTorch](https://github.com/ExplainableML/AVCA-GZSL)]
+* Sentiment Analysis:
+    * **MCMulT**: "Multi-scale Cooperative Multimodal Transformers for Multimodal Sentiment Analysis in Videos", arXiv, 2022 (*Tencent*). [[Paper](https://arxiv.org/abs/2206.07981)]
 
 [[Back to Overview](#overview)]
 
@@ -1411,6 +1413,7 @@ Feel free to share this list with others!
     * **DoTNet**: "Towards Unsupervised Domain Adaptation via Domain-Transformer", arXiv, 2022 (*Sun Yat-Sen University*). [[Paper](https://arxiv.org/abs/2202.13777)]
     * **TransDA**: "Smoothing Matters: Momentum Transformer for Domain Adaptive Semantic Segmentation", arXiv, 2022 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2203.07988)][[Code (in construction)](https://github.com/alpc91/TransDA)]
     * **FAMLP**: "FAMLP: A Frequency-Aware MLP-Like Architecture For Domain Generalization", arXiv, 2022 (*University of Science and Technology of China*). [[Paper](https://arxiv.org/abs/2203.12893)]
+    * **PACMAC**: "Adapting Self-Supervised Vision Transformers by Probing Attention-Conditioned Masking Consistency", arXiv, 2022 (*Georgia Tech*). [[Paper](https://arxiv.org/abs/2206.08222)][[PyTorch](https://github.com/virajprabhu/PACMAC)]
 * X-Shot:
     * **CrossTransformer**: "CrossTransformers: spatially-aware few-shot transfer", NeurIPS, 2020 (*DeepMind*). [[Paper](https://arxiv.org/abs/2007.11498)][[Tensorflow](https://github.com/google-research/meta-dataset)]
     * **URT**: "A Universal Representation Transformer Layer for Few-Shot Image Classification", ICLR, 2021 (*Mila*). [[Paper](https://openreview.net/forum?id=04cII6MumYV)][[PyTorch](https://github.com/liulu112601/URT)]
