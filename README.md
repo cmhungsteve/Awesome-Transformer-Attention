@@ -955,7 +955,7 @@ Feel free to share this list with others!
 * **GAT**: "Geometry Attention Transformer with Position-aware LSTMs for Image Captioning", arXiv, 2021 (*University of Electronic Science and Technology of China*). [[Paper](https://arxiv.org/abs/2110.00335)]
 * **Block-Skim**: "Block-Skim: Efficient Question Answering for Transformer", AAAI, 2022 (* Shanghai Jiao Tong*). [[Paper](https://arxiv.org/abs/2112.08560)]
 * **PureT**: "End-to-End Transformer Based Model for Image Captioning", AAAI, 2022 (*CAS*). [[Paper](https://arxiv.org/abs/2203.15350)]
-* **RelViT**: "RelViT: Concept-guided Vision Transformer for Visual Relational Reasoning", ICLR, 2022 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2204.11167)]
+* **RelViT**: "RelViT: Concept-guided Vision Transformer for Visual Relational Reasoning", ICLR, 2022 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2204.11167)] [[PyTorch](https://github.com/NVlabs/RelViT)]
 * **Hypergraph-Transformer**: "Hypergraph Transformer: Weakly-supervised Multi-hop Reasoning for Knowledge-based Visual Question Answering", ACL, 2022 (*SNU*). [[Paper](https://arxiv.org/abs/2204.10448)][[Code (in construction)](https://github.com/yujungheo/kbvqa-public)]
 * **X-Trans2Cap**: "X-Trans2Cap: Cross-Modal Knowledge Transfer using Transformer for 3D Dense Captioning", CVPR, 2022 (*CUHK*). [[Paper](https://arxiv.org/abs/2203.00843)]
 * **SwinBERT**: "SwinBERT: End-to-End Transformers with Sparse Attention for Video Captioning", CVPR, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2111.13196)][[PyTorch](https://github.com/microsoft/SwinBERT)]
