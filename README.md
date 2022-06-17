@@ -304,11 +304,11 @@ Feel free to share this list with others!
 * **SiT**: "SiT: Self-supervised Vision Transformer", arXiv, 2021 (*University of Surrey*). [[Paper](https://arxiv.org/abs/2104.03602)][[PyTorch](https://github.com/Sara-Ahmed/SiT)]
 * **MoBY**: "Self-Supervised Learning with Swin Transformers", arXiv, 2021 (*Microsoft*). [[Paper](https://arxiv.org/abs/2105.04553)][[Pytorch](https://github.com/SwinTransformer/Transformer-SSL)]
 * **?**: "Investigating Transfer Learning Capabilities of Vision Transformers and CNNs by Fine-Tuning a Single Trainable Block", arXiv, 2021 (*Pune Institute of Computer Technology, India*). [[Paper](https://arxiv.org/abs/2110.05270)]
-* **MaskFeat**: "Masked Feature Prediction for Self-Supervised Visual Pre-Training", arXiv, 2021 (*Facebook*). [[Paper](https://arxiv.org/abs/2112.09133)]
 * **Annotations-1.3B**: "Billion-Scale Pretraining with Vision Transformers for Multi-Task Visual Representations", WACV, 2022 (*Pinterest*). [[Paper](https://arxiv.org/abs/2108.05887)]
 * **BEiT**: "BEiT: BERT Pre-Training of Image Transformers", ICLR, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2106.08254)][[PyTorch](https://github.com/microsoft/unilm/tree/master/beit)]
 * **EsViT**: "Efficient Self-supervised Vision Transformers for Representation Learning", ICLR, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2106.09785)]
 * **iBOT**: "Image BERT Pre-training with Online Tokenizer", ICLR, 2022 (*ByteDance*). [[Paper](https://arxiv.org/abs/2111.07832)][[PyTorch](https://github.com/bytedance/ibot)]
+* **MaskFeat**: "Masked Feature Prediction for Self-Supervised Visual Pre-Training", CVPR, 2022 (*Facebook*). [[Paper](https://arxiv.org/abs/2112.09133)]
 * **AutoProg**: "Automated Progressive Learning for Efficient Training of Vision Transformers", CVPR, 2022 (*Monash University, Australia*). [[Paper](https://arxiv.org/abs/2203.14509)][[Code (in construction)](https://github.com/changlin31/AutoProg)]
 * **MAE**: "Masked Autoencoders Are Scalable Vision Learners", CVPR, 2022 (*Facebook*). [[Paper](https://arxiv.org/abs/2111.06377)][[PyTorch](https://github.com/facebookresearch/mae)][[PyTorch (pengzhiliang)](https://github.com/pengzhiliang/MAE-pytorch)]
 * **SimMIM**: "SimMIM: A Simple Framework for Masked Image Modeling", CVPR, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2111.09886)][[PyTorch](https://github.com/microsoft/SimMIM)]
@@ -893,6 +893,7 @@ Feel free to share this list with others!
     * **SCVRL**: "SCVRL: Shuffled Contrastive Video Representation Learning", CVPRW, 2022 (*Amazon*). [[Paper](https://arxiv.org/abs/2205.11710)]
     * **VideoMAE**: "VideoMAE: Masked Autoencoders are Data-Efficient Learners for Self-Supervised Video Pre-Training", arXiv, 2022 (*Tencent*). [[Paper](https://arxiv.org/abs/2203.12602)][[Code (in construction)](https://github.com/MCG-NJU/VideoMAE)]
     * **MAE**: "Masked Autoencoders As Spatiotemporal Learners", arXiv, 2022 (*Meta*). [[Paper](https://arxiv.org/abs/2205.09113)]
+    * **OmniMAE**: "OmniMAE: Single Model Masked Pretraining on Images and Videos", arXiv, 2022 (*Meta*). [[Paper](https://arxiv.org/abs/2206.08356)][[PyTorch](https://github.com/facebookresearch/omnivore)]
 * X-shot:
     * **ResT**: "Cross-modal Representation Learning for Zero-shot Action Recognition", CVPR, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2205.01657)]
 * Video-Language:
