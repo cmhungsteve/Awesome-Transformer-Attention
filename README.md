@@ -1071,6 +1071,7 @@ Feel free to share this list with others!
 * **MetaLM**: "Language Models are General-Purpose Interfaces", arXiv, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2206.06336)][[PyTorch](https://github.com/microsoft/unilm)]
 * **DaVinci**: "Prefix Language Models are Unified Modal Learners", arXiv, 2022 (*ByteDance*). [[Paper](https://arxiv.org/abs/2206.07699)]
 * **FIBER**: "Coarse-to-Fine Vision-Language Pre-training with Fusion in the Backbone", arXiv, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2206.07643)][[PyTorch](https://github.com/microsoft/FIBER)]
+* **Bridge-Tower**: "Bridge-Tower: Building Bridges Between Encoders in Vision-Language Representation Learning", arXiv, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2206.08657)][[Code (in construction)](https://github.com/microsoft/BridgeTower)]
 
 [[Back to Overview](#overview)]
 
