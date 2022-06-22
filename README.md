@@ -219,6 +219,8 @@ Feel free to share this list with others!
 * **LITv2**: "Fast Vision Transformers with HiLo Attention", arXiv, 2022 (*Monash University*). [[Paper](https://arxiv.org/abs/2205.13213)][[Code (in construction)](https://github.com/zip-group/LITv2)]
 * **PerViT**: "Peripheral Vision Transformer", arXiv, 2022 (*POSTECH*). [[Paper](https://arxiv.org/abs/2206.06801)]
 * **SP-ViT**: "SP-ViT: Learning 2D Spatial Priors for Vision Transformers", arXiv, 2022 (*Alibaba*). [[Paper](https://arxiv.org/abs/2206.07662)]
+* **EATFormer**: "EATFormer: Improving Vision Transformer Inspired by Evolutionary Algorithm", arXiv, 2022 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2206.09325)]
+* **GC-ViT**: "Global Context Vision Transformers", arXiv, 2022 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2206.09959)][[PyTorch](https://github.com/NVlabs/GCViT)]
 #### Efficient Vision Transformer
 * **DeiT**: "Training data-efficient image transformers & distillation through attention", ICML, 2021 (*Facebook*). [[Paper](https://arxiv.org/abs/2012.12877)][[PyTorch](https://github.com/facebookresearch/deit)]
 * **ConViT**: "ConViT: Improving Vision Transformers with Soft Convolutional Inductive Biases", ICML, 2021 (*Facebook*). [[Paper](https://arxiv.org/abs/2103.10697)][[Code](https://github.com/facebookresearch/convit)]
@@ -547,6 +549,7 @@ Feel free to share this list with others!
 * **simCrossTrans**: "simCrossTrans: A Simple Cross-Modality Transfer Learning for Object Detection with ConvNets or Vision Transformers", arXiv, 2022 (*The City University of New York*). [[Paper](https://arxiv.org/abs/2203.10456)][[PyTorch](https://github.com/liketheflower/simCrossTrans)]
 * **X-DETR**: "X-DETR: A Versatile Architecture for Instance-wise Vision-Language Tasks", arXiv, 2022 (*Amazon*). [[Paper](https://arxiv.org/abs/2204.05626)]
 * **OWL-ViT**: "Simple Open-Vocabulary Object Detection with Vision Transformers", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2205.06230)]
+* **?**: "DALL-E for Detection: Language-driven Context Image Synthesis for Object Detection", arXiv, 2022 (*USC*). [[Paper](https://arxiv.org/abs/2206.09592)]
 
 [[Back to Overview](#overview)]
 
@@ -613,6 +616,7 @@ Feel free to share this list with others!
     * **PST**: "Visual Composite Set Detection Using Part-and-Sum Transformers", arXiv, 2021 (*Amazon*). [[Paper](https://arxiv.org/abs/2105.02170)]
     * **TROI**: "Transformed ROIs for Capturing Visual Transformations in Videos", arXiv, 2021 (*NUS, Singapore*). [[Paper](https://arxiv.org/abs/2106.03162)]
     * **RelTransformer**: "RelTransformer: A Transformer-Based Long-Tail Visual Relationship Recognition", CVPR, 2022 (*KAUST*). [[Paper](https://arxiv.org/abs/2104.11934)][[PyTorch](https://github.com/Vision-CAIR/RelTransformer)]
+    * **VReBERT**: "VReBERT: A Simple and Flexible Transformer for Visual Relationship Detection", ICPR, 2022 (*ANU*). [[Paper](https://arxiv.org/abs/2206.09111)]
 * Anomaly Detection:
     * **VT-ADL**: "VT-ADL: A Vision Transformer Network for Image Anomaly Detection and Localization", ISIE, 2021 (*University of Udine, Italy*). [[Paper](https://arxiv.org/abs/2104.10036)]
     * **InTra**: "Inpainting Transformer for Anomaly Detection", arXiv, 2021 (*Fujitsu*). [[Paper](https://arxiv.org/abs/2104.13897)]
@@ -720,7 +724,7 @@ Feel free to share this list with others!
     * **MaX-DeepLab**: "MaX-DeepLab: End-to-End Panoptic Segmentation with Mask Transformers", CVPR, 2021 (*Google*). [[Paper](https://arxiv.org/abs/2012.00759)][[PyTorch (conradry)](https://github.com/conradry/max-deeplab)]
     * **SIAin**: "An End-to-End Trainable Video Panoptic Segmentation Method usingTransformers", arXiv, 2021 (*SI Analytics, South Korea*). [[Paper](https://arxiv.org/abs/2110.04009)]
     * **VPS-Transformer**: "Time-Space Transformers for Video Panoptic Segmentation", WACV, 2022 (*Technical University of Cluj-Napoca, Romania*). [[Paper](https://openaccess.thecvf.com/content/WACV2022/html/Petrovai_Time-Space_Transformers_for_Video_Panoptic_Segmentation_WACV_2022_paper.html)]
-    * **CMT-DeepLab**: "CMT-DeepLab: Clustering Mask Transformers for Panoptic Segmentation", CVPR, 2022 (*Google*). [[Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Yu_CMT-DeepLab_Clustering_Mask_Transformers_for_Panoptic_Segmentation_CVPR_2022_paper.html)]
+    * **CMT-DeepLab**: "CMT-DeepLab: Clustering Mask Transformers for Panoptic Segmentation", CVPR, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2206.08948)]
     * **Panoptic-SegFormer**: "Panoptic SegFormer", CVPR, 2022 (*Nanjing University*). [[Paper](https://arxiv.org/abs/2109.03814)][[PyTorch](https://github.com/zhiqi-li/Panoptic-SegFormer)]
     * **Mask2Former**: "Masked-attention Mask Transformer for Universal Image Segmentation", CVPR, 2022 (*Meta*). [[Paper](https://arxiv.org/abs/2112.01527)][[PyTorch](https://github.com/facebookresearch/Mask2Former)][[Website](https://bowenc0221.github.io/mask2former/)]
     * **Panoptic-PartFormer**: "Panoptic-PartFormer: Learning a Unified Model for Panoptic Part Segmentation", arXiv, 2022 (*Peking*). [[Paper](https://arxiv.org/abs/2204.04655)][[Code (in construction)](https://github.com/lxtGH/Panoptic-PartFormer)]
@@ -824,6 +828,7 @@ Feel free to share this list with others!
     * **MBT**: "Attention Bottlenecks for Multimodal Fusion", NeurIPS, 2021 (*Google*). [[Paper](https://arxiv.org/abs/2107.00135)]
     * **MM-ViT**: "MM-ViT: Multi-Modal Video Transformer for Compressed Video Action Recognition", WACV, 2022 (*OPPO*). [[Paper](https://arxiv.org/abs/2108.09322)]
     * **MMT-NCRC**: "Multimodal Transformer for Nursing Activity Recognition", CVPRW, 2022 (*UCF*). [[Paper](https://arxiv.org/abs/2204.04564)][[Code (in construction)](https://github.com/Momilijaz96/MMT_for_NCRC)]
+    * **M&M**: "M&M Mix: A Multimodal Multiview Transformer Ensemble", CVPRW, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2206.09852)]
     * **MVFT**: "Multi-View Fusion Transformer for Sensor-Based Human Activity Recognition", arXiv, 2022 (*Alibaba*). [[Paper](https://arxiv.org/abs/2202.12949)]
 * Zero-shot:
     * **ViSET**: "Zero-Shot Action Recognition with Transformer-based Video Semantic Embedding", arXiv, 2022 (*University of South FLorida*). [[Paper](https://arxiv.org/abs/2203.05156)]
@@ -1745,6 +1750,7 @@ Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2204.08696)]
 * **XBound-Former**: "XBound-Former: Toward Cross-scale Boundary Modeling in Transformers", arXiv, 2022 (*Xiamen University*). [[Paper](https://arxiv.org/abs/2206.00806)][[PyTorch](https://github.com/jcwang123/xboundformer)]
 * **Polyp-PVT**: "Polyp-PVT: Polyp Segmentation with Pyramid Vision Transformers", arxiv, 2022 (*IIAI*). [[Paper](https://arxiv.org/abs/2108.06932)][[PyTorch](https://github.com/DengPingFan/Polyp-PVT)]
 * **SeATrans**: "SeATrans: Learning Segmentation-Assisted diagnosis model via Transformer", arXiv, 2022 (*Baidu*). [[Paper](https://arxiv.org/abs/2206.05763)]
+* **TransResU-Net**: "TransResU-Net: Transformer based ResU-Net for Real-Time Colonoscopy Polyp Segmentation", arXiv, 2022 (*Indira Gandhi National Open University*). [[Paper](https://arxiv.org/abs/2206.08985)][[Code (in construction)](https://github.com/nikhilroxtomar/TransResUNet)]
 
 [[Back to Overview](#overview)]
 
@@ -1861,6 +1867,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **?**: "Robustness Evaluation of Transformer-based Form Field Extractors via Form Attacks", arXiv, 2021 (*Salesforce*). [[Paper](https://arxiv.org/abs/2110.04413)]
     * **T<sup>3</sup>**: "TrueType Transformer: Character and Font Style Recognition in Outline Format", Document Analysis Systems (DAS), 2022 (*Kyushu University*). [[Paper](https://arxiv.org/abs/2203.05338)]
     * **?**: "Transformer-based HTR for Historical Documents", ComHum, 2022 (*University of Zurich, Switzerland*). [[Paper](https://arxiv.org/abs/2203.11008)]
+    * **?**: "SVG Vector Font Generation for Chinese Characters with Transformer", ICIP, 2022 (*The University of Tokyo*). [[Paper](https://arxiv.org/abs/2206.10329)]
     * **CONSENT**: "CONSENT: Context Sensitive Transformer for Bold Words Classification", arXiv, 2022 (*Amazon*). [[Paper](https://arxiv.org/abs/2205.07683)]
 * Crowd Counting:
     * **CC-AV**: "Audio-Visual Transformer Based Crowd Counting", ICCVW, 2021 (*University of Kansas*). [[Paper](https://arxiv.org/abs/2109.01926)]
@@ -1921,16 +1928,6 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **MGTL**: "Mutual Generative Transformer Learning for Cross-view Geo-localization", arXiv, 2022 (*University of Electronic Science and Technology of China*). [[Paper](https://arxiv.org/abs/2203.09135)]
 * Homography Estimation:
     * **LocalTrans**: "LocalTrans: A Multiscale Local Transformer Network for Cross-Resolution Homography Estimation", ICCV, 2021 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2106.04067)]
-* Image Quality Assessment:
-    * **TRIQ**: "Transformer for Image Quality Assessment", arXiv, 2020 (*NORCE*). [[Paper](https://arxiv.org/abs/2101.01097)][[Tensorflow-Keras](https://github.com/junyongyou/triq)]
-    * **IQT**: "Perceptual Image Quality Assessment with Transformers", CVPRW, 2021 (*LG*). [[Paper](https://arxiv.org/abs/2104.14730)][[Code (in construction)](https://github.com/manricheon/IQT)]
-    * **MUSIQ**: "MUSIQ: Multi-scale Image Quality Transformer", ICCV, 2021 (*Google*). [[Paper](https://arxiv.org/abs/2108.05997)]
-    * **TranSLA**: "Saliency-Guided Transformer Network Combined With Local Embedding for No-Reference Image Quality Assessment", ICCVW, 2021 (*Hikvision*). [[Paper](https://openaccess.thecvf.com/content/ICCV2021W/AIM/html/Zhu_Saliency-Guided_Transformer_Network_Combined_With_Local_Embedding_for_No-Reference_Image_ICCVW_2021_paper.html)]
-    * **TReS**: "No-Reference Image Quality Assessment via Transformers, Relative Ranking, and Self-Consistency", WACV, 2022 (*CMU*). [[Paper](https://arxiv.org/abs/2108.06858)]
-    * **IQA-Conformer**: "Conformer and Blind Noisy Students for Improved Image Quality Assessment", CVPRW, 2022 (*University of Wurzburg, Germany*). [[Paper](https://arxiv.org/abs/2204.12819)][[PyTorch](https://github.com/burchim/IQA-Conformer-BNS)]
-    * **SwinIQA**: "SwinIQA: Learned Swin Distance for Compressed Image Quality Assessment", CVPRW, 2022 (*USTC, China*). [[Paper](https://arxiv.org/abs/2205.04264)]
-    * **MCAS-IQA**: "Visual Mechanisms Inspired Efficient Transformers for Image and Video Quality Assessment", arXiv, 2022 (*Norwegian Research Centre, Norway*). [[Paper](https://arxiv.org/abs/2203.14557)]
-    * **MSTRIQ**: "MSTRIQ: No Reference Image Quality Assessment Based on Swin Transformer with Multi-Stage Fusion", arXiv, 2022 (*ByteDance*). [[Paper](https://arxiv.org/abs/2205.10101)]
 * Image Registration:
     * **AiR**: "Attention for Image Registration (AiR): an unsupervised Transformer approach", arXiv, 2021 (*INRIA*). [[Paper](https://arxiv.org/abs/2105.02282)]
 * Image Retrieval:
@@ -2027,6 +2024,19 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **HiVT**: "HiVT: Hierarchical Vector Transformer for Multi-Agent Motion Prediction", CVPR, 2022 (*CUHK*). [[Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Zhou_HiVT_Hierarchical_Vector_Transformer_for_Multi-Agent_Motion_Prediction_CVPR_2022_paper.html)]
     * **LatentFormer**: "LatentFormer: Multi-Agent Transformer-Based Interaction Modeling and Trajectory Prediction", arXiv, 2022 (*Huawei*). [[Paper](https://arxiv.org/abs/2203.01880)]
     * **PreTR**: "PreTR: Spatio-Temporal Non-Autoregressive Trajectory Prediction Transformer", arXiv, 2022 (*Stellantis, France*). [[Paper](https://arxiv.org/abs/2203.09293)]
+* Visual Quality Assessment:
+    * **TRIQ**: "Transformer for Image Quality Assessment", arXiv, 2020 (*NORCE*). [[Paper](https://arxiv.org/abs/2101.01097)][[Tensorflow-Keras](https://github.com/junyongyou/triq)]
+    * **IQT**: "Perceptual Image Quality Assessment with Transformers", CVPRW, 2021 (*LG*). [[Paper](https://arxiv.org/abs/2104.14730)][[Code (in construction)](https://github.com/manricheon/IQT)]
+    * **MUSIQ**: "MUSIQ: Multi-scale Image Quality Transformer", ICCV, 2021 (*Google*). [[Paper](https://arxiv.org/abs/2108.05997)]
+    * **TranSLA**: "Saliency-Guided Transformer Network Combined With Local Embedding for No-Reference Image Quality Assessment", ICCVW, 2021 (*Hikvision*). [[Paper](https://openaccess.thecvf.com/content/ICCV2021W/AIM/html/Zhu_Saliency-Guided_Transformer_Network_Combined_With_Local_Embedding_for_No-Reference_Image_ICCVW_2021_paper.html)]
+    * **TReS**: "No-Reference Image Quality Assessment via Transformers, Relative Ranking, and Self-Consistency", WACV, 2022 (*CMU*). [[Paper](https://arxiv.org/abs/2108.06858)]
+    * **IQA-Conformer**: "Conformer and Blind Noisy Students for Improved Image Quality Assessment", CVPRW, 2022 (*University of Wurzburg, Germany*). [[Paper](https://arxiv.org/abs/2204.12819)][[PyTorch](https://github.com/burchim/IQA-Conformer-BNS)]
+    * **SwinIQA**: "SwinIQA: Learned Swin Distance for Compressed Image Quality Assessment", CVPRW, 2022 (*USTC, China*). [[Paper](https://arxiv.org/abs/2205.04264)]
+    * **MCAS-IQA**: "Visual Mechanisms Inspired Efficient Transformers for Image and Video Quality Assessment", arXiv, 2022 (*Norwegian Research Centre, Norway*). [[Paper](https://arxiv.org/abs/2203.14557)]
+    * **MSTRIQ**: "MSTRIQ: No Reference Image Quality Assessment Based on Swin Transformer with Multi-Stage Fusion", arXiv, 2022 (*ByteDance*). [[Paper](https://arxiv.org/abs/2205.10101)]
+    * **DisCoVQA**: "DisCoVQA: Temporal Distortion-Content Transformers for Video Quality Assessment", arXiv, 2022 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2206.09853)]
+* Visual Reasoning:
+    * **SAViR-T**: "SAViR-T: Spatially Attentive Visual Reasoning with Transformers", arXiv, 2022 (*Rutgers University*). [[Paper](https://arxiv.org/abs/2206.09265)]
 * 3D Human Texture Estimation:
     * **Texformer**: "3D Human Texture Estimation from a Single Image with Transformers", ICCV, 2021 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2109.02563)][[PyTorch](https://github.com/xuxy09/Texformer)][[Website](https://www.mmlab-ntu.com/project/texformer/)]
 * 3D Motion Synthesis:
