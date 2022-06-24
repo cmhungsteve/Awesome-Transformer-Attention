@@ -923,6 +923,7 @@ Feel free to share this list with others!
     * **VIMPAC**: "VIMPAC: Video Pre-Training via Masked Token Prediction and Contrastive Learning", CVPRW, 2022 (*UNC*). [[Paper](https://arxiv.org/abs/2106.11250)][[PyTorch](https://github.com/airsplay/vimpac)]
     * **MAE**: "Masked Autoencoders As Spatiotemporal Learners", arXiv, 2022 (*Meta*). [[Paper](https://arxiv.org/abs/2205.09113)]
     * **OmniMAE**: "OmniMAE: Single Model Masked Pretraining on Images and Videos", arXiv, 2022 (*Meta*). [[Paper](https://arxiv.org/abs/2206.08356)][[PyTorch](https://github.com/facebookresearch/omnivore)]
+    * **MaskViT**: "MaskViT: Masked Visual Pre-Training for Video Prediction", arXiv, 2022 (*Stanford*). [[Paper](https://arxiv.org/abs/2206.11894)][[Website](https://maskedvit.github.io/)]
 * X-shot:
     * **ResT**: "Cross-modal Representation Learning for Zero-shot Action Recognition", CVPR, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2205.01657)]
 * Video-Language:
