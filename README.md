@@ -1126,6 +1126,7 @@ Feel free to share this list with others!
 * **Imagen**: "Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding", arXiv, 2022 (*Google*). [[Paper](https://gweb-research-imagen.appspot.com/paper.pdf)][[Website](https://gweb-research-imagen.appspot.com/)]
 * **GLIDE**: "GLIDE: Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models", arXiv, 2022 (*OpenAI*). [[Paper](https://arxiv.org/abs/2112.10741)][[PyTorch](https://github.com/openai/glide-text2im)]
 * **?**: "Discovering the Hidden Vocabulary of DALLE-2", arXiv, 2022 (*UT Austin*). [[Paper](https://arxiv.org/abs/2206.00169)]
+* **Parti**: "Scaling Autoregressive Models for Content-Rich Text-to-Image Generation", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2206.10789)][[GitHub](https://github.com/google-research/parti)][[Website](https://parti.research.google/)]
 
 [[Back to Overview](#overview)]
 
