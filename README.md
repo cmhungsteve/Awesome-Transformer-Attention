@@ -388,6 +388,7 @@ Feel free to share this list with others!
 * **FedWAvg**: "Federated Adversarial Training with Transformers", arXiv, 2022 (*Institute of Electronics and Digital Technologies (IETR), France*). [[Paper](https://arxiv.org/abs/2206.02131)]
 * **RobustCNN**: "Can CNNs Be More Robust Than Transformers?", arXiv, 2022 (*UC, Santa Cruz*). [[Paper](https://arxiv.org/abs/2206.03452)][[PyTorch](https://github.com/UCSC-VLAA/RobustCNN)]
 * **Backdoor-Transformer**: "Backdoor Attacks on Vision Transformers", arXiv, 2022 (*Maryland + UC Davis*). [[Paper](https://arxiv.org/abs/2206.08477)][[Code (in construction)](https://github.com/UCDvision/backdoor_transformer)]
+* **?**: "Defending Backdoor Attacks on Vision Transformer via Patch Processing", arXiv, 2022 (*Baidu*). [[Paper](https://arxiv.org/abs/2206.12381)]
 #### Model Compression + Transformer
 * **ViT-quant**: "Post-Training Quantization for Vision Transformer", NeurIPS, 2021 (*Huawei*). [[Paper](https://arxiv.org/abs/2106.14156)]
 * **VTP**: "Visual Transformer Pruning", arXiv, 2021 (*Huawei*). [[Paper](https://arxiv.org/abs/2104.08500)]
