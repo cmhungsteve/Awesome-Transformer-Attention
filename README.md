@@ -898,6 +898,7 @@ Feel free to share this list with others!
 ### Other Video Tasks
 * Action Segmentation
     * **ASFormer**: "ASFormer: Transformer for Action Segmentation", BMVC, 2021 (*Peking University*). [[Paper](https://arxiv.org/abs/2110.08568)][[PyTorch](https://github.com/ChinaYi/ASFormer)]
+    * **SC-Transformer++**: "SC-Transformer++: Structured Context Transformer for Generic Event Boundary Detection", CVPRW, 2022 (*CAS*). [[Paper](https://arxiv.org/abs/2206.12634)][[Code (in construction)](https://github.com/lufficc/SC-Transformer)]
     * **?**: "Transformers in Action: Weakly Supervised Action Segmentation", arXiv, 2022 (*TUM*). [[Paper](https://arxiv.org/abs/2201.05675)]
     * **CETNet**: "Cross-Enhancement Transformer for Action Segmentation", arXiv, 2022 (*Shijiazhuang Tiedao University*). [[Paper](https://arxiv.org/abs/2205.09445)]
     * **EUT**: "Efficient U-Transformer with Boundary-Aware Loss for Action Segmentation", arXiv, 2022 (*CAS*). [[Paper](https://arxiv.org/abs/2205.13425)]
@@ -1142,6 +1143,7 @@ Feel free to share this list with others!
 * **LayoutLMv3**: "LayoutLMv3: Pre-training for Document AI with Unified Text and Image Masking", arXiv, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2204.08387)][[PyTorch](https://github.com/microsoft/unilm/tree/master/layoutlmv3)]
 * **MATrIX**: "MATrIX - Modality-Aware Transformer for Information eXtraction", arXiv, 2022 (*Amazon*). [[Paper](https://arxiv.org/abs/2205.08094)]
 * **VLCDoC**: "VLCDoC: Vision-Language Contrastive Pre-Training Model for Cross-Modal Document Classification", arXiv, 2022 (*La Rochelle University, France*). [[Paper](https://arxiv.org/abs/2205.12029)]
+* **Bi-VLDoc**: "Bi-VLDoc: Bidirectional Vision-Language Modeling for Visually-Rich Document Understanding", arXiv, 2022 (*Alibaba*). [[Paper](https://arxiv.org/abs/2206.13155)]
 
 [[Back to Overview](#overview)]
 
@@ -1303,6 +1305,7 @@ Feel free to share this list with others!
     * **TAPE**: "Transformer Guided Geometry Model for Flow-Based Unsupervised Visual Odometry", arXiv, 2020 (*Tianjing University*). [[Paper](https://arxiv.org/abs/2101.02143)]
     * **T6D-Direct**: "T6D-Direct: Transformers for Multi-Object 6D Pose Direct Regression", GCPR, 2021 (*University of Bonn*). [[Paper](https://arxiv.org/abs/2109.10948)]
     * **6D-ViT**: "6D-ViT: Category-Level 6D Object Pose Estimation via Transformer-based Instance Representation Learning", arXiv, 2021 (*University of Science and Technology of China*). [[Paper](https://arxiv.org/abs/2110.04792)]
+    * **AFT-VO**: "AFT-VO: Asynchronous Fusion Transformers for Multi-View Visual Odometry Estimation", arXiv, 2022 (*University of Surrey, UK*). [[Paper](https://arxiv.org/abs/2206.12946)]
 
 [[Back to Overview](#overview)]
 
@@ -1480,6 +1483,8 @@ Feel free to share this list with others!
 * Knowledge Distillation:
     * **?**: "Knowledge Distillation via the Target-aware Transformer", CVPR, 2022 (*Alibaba*). [[Paper](https://arxiv.org/abs/2205.10793)]
     * **DearKD**: "DearKD: Data-Efficient Early Knowledge Distillation for Vision Transformers", CVPR, 2022 (*JD*). [[Paper](https://arxiv.org/abs/2204.12997)]
+* Clustering:
+    * **VTCC**: "Vision Transformer for Contrastive Clustering", arXiv, 2022 (*Sun Yat-sen University, China*). [[Paper](https://arxiv.org/abs/2206.12925)]
 
 [[Back to Overview](#overview)]
 
@@ -1699,6 +1704,7 @@ Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2204.08696)]
 * **LocoTransformer**: "Learning Vision-Guided Quadrupedal Locomotion End-to-End with Cross-Modal Transformers", ICLR, 2022 (*UCSD*). [[Paper](https://arxiv.org/abs/2107.03996)][[Website](https://rchalyang.github.io/LocoTransformer/)]
 * **STAM**: "Consistency driven Sequential Transformers Attention Model for Partially Observable Scenes", CVPR, 2022 (*McGill University, Canada*). [[Paper](https://arxiv.org/abs/2204.00656)][[PyTorch](https://github.com/samrudhdhirangrej/STAM-Sequential-Transformers-Attention-Model)]
 * **CtrlFormer**: "CtrlFormer: Learning Transferable State Representation for Visual Control via Transformer", ICML, 2022 (*HKU*). [[Paper](https://arxiv.org/abs/2206.08883)][[PyTorch](https://github.com/YaoMarkMu/CtrlFormer-ICML2022)][[Website](https://sites.google.com/view/ctrlformer-icml/)]
+* **PromptDT**: "Prompting Decision Transformer for Few-Shot Policy Generalization", ICML, 2022 (*CMU*). [[Paper](https://arxiv.org/abs/2206.13499)][[Website](https://mxu34.github.io/PromptDT/)]
 * **RAD**: "Evaluating Vision Transformer Methods for Deep Reinforcement Learning from Pixels", arXiv, 2022 (*UBC, Canada*). [[Paper](https://arxiv.org/abs/2204.04905)]
 
 [[Back to Overview](#overview)]
@@ -1777,6 +1783,8 @@ Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2204.08696)]
 * **CCAT**: "Visual Transformer with Statistical Test for COVID-19 Classification", arXiv, 2021 (*NCKU*). [[Paper](https://arxiv.org/abs/2107.05334)]
 * **M3T**: "M3T: Three-Dimensional Medical Image Classifier Using Multi-Plane and Multi-Slice Transformer", CVPR, 2022 (*Yonsei University*). [[Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Jang_M3T_Three-Dimensional_Medical_Image_Classifier_Using_Multi-Plane_and_Multi-Slice_Transformer_CVPR_2022_paper.html)]
 * **?**: "A comparative study between vision transformers and CNNs in digital pathology", CVPRW, 2022 (*Roche, Switzerland*). [[Paper](https://arxiv.org/abs/2206.00389)]
+* **SCT**: "Context-Aware Transformers For Spinal Cancer Detection and Radiological Grading", MICCAI, 2022 (*Oxford*). [[Paper](https://arxiv.org/abs/2206.13173)]
+* **KAT**: "Kernel Attention Transformer (KAT) for Histopathology Whole Slide Image Classification", MICCAI, 2022 (*Beihang University*). [[Paper](https://arxiv.org/abs/2206.13156)][[PyTorch](https://github.com/zhengyushan/kat)]
 * **ScoreNet**: "ScoreNet: Learning Non-Uniform Attention and Augmentation for Transformer-Based Histopathological Image Classification", arXiv, 2022 (*EPFL*). [[Paper](https://arxiv.org/abs/2202.07570)]
 * **RadioTransformer**: "RadioTransformer: A Cascaded Global-Focal Transformer for Visual Attention-guided Disease Classification", arXiv, 2022 (*Stony Brook*). [[Paper](https://arxiv.org/abs/2202.11781)]
 * **LA-MIL**: "Local Attention Graph-based Transformer for Multi-target Genetic Alteration Prediction", arXiv, 2022 (*TUM*). [[Paper](https://arxiv.org/abs/2205.06672)]
