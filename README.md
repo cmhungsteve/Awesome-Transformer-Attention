@@ -782,6 +782,8 @@ Feel free to share this list with others!
     * **DiffAttn**: "Joint Forecasting of Panoptic Segmentations with Difference Attention", CVPR, 2022 (*UIUC*). [[Paper](https://arxiv.org/abs/2204.07157)][[Code (in construction)](https://github.com/cgraber/psf-diffattn)]
 * LiDAR:
     * **HelixNet**: "Online Segmentation of LiDAR Sequences: Dataset and Algorithm", CVPRW, 2022 (*CNRS, France*). [[Paper](https://arxiv.org/abs/2206.08194)][[Website](https://romainloiseau.fr/helixnet/)][[PyTorch](https://github.com/romainloiseau/Helix4D)]
+* Co-Segmentation:
+    * **DINO-ViT-feature**: "Deep ViT Features as Dense Visual Descriptors", arXiv, 2022 (*Weizmann Institute of Science, Israel*). [[Paper](https://arxiv.org/abs/2112.05814)][[PyTorch](https://github.com/ShirAmir/dino-vit-features)][[Website](https://dino-vit-features.github.io/)]
 
 [[Back to Overview](#overview)]
 
