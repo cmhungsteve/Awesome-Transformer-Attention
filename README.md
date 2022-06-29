@@ -379,6 +379,7 @@ Feel free to share this list with others!
 * **RVT**: "Towards Robust Vision Transformer", CVPR, 2022 (*Alibaba*). [[Paper](https://arxiv.org/abs/2105.07926)][[PyTorch](https://github.com/alibaba/easyrobust)]
 * **Pyramid**: "Pyramid Adversarial Training Improves ViT Performance", CVPR, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2111.15121)]
 * **VARS**: "Visual Attention Emerges from Recurrent Sparse Reconstruction", ICML, 2022 (*Berkeley + Microsoft*). [[Paper](https://arxiv.org/abs/2204.10962)][[PyTorch](https://github.com/bfshi/VARS)]
+* **CFA**: "Robustifying Vision Transformer without Retraining from Scratch by Test-Time Class-Conditional Feature Alignment", IJCAI, 2022 (*The University of Tokyo*). [[Paper](https://arxiv.org/abs/2206.13951)][[PyTorch](https://github.com/kojima-takeshi188/CFA)]
 * **?**: "Are Vision Transformers Robust to Spurious Correlations?", arXiv, 2022 (*UW-Madison*). [[Paper](https://arxiv.org/abs/2203.09125)]
 * **MA**: "Boosting Adversarial Transferability of MLP-Mixer", arXiv, 2022 (*Beijing Institute of Technology*). [[Paper](https://arxiv.org/abs/2204.12204)]
 * **?**: "Deeper Insights into ViTs Robustness towards Common Corruptions", arXiv, 2022 (*Fudan + Microsoft*). [[Paper](https://arxiv.org/abs/2204.12143)]
@@ -1421,6 +1422,7 @@ Feel free to share this list with others!
     * **?**: "Self-supervised Transformer for Deepfake Detection", arXiv, 2022 (*USTC, China*). [[Paper](https://arxiv.org/abs/2203.01265)]
     * **ViTransPAD**: "ViTransPAD: Video Transformer using convolution and self-attention for Face Presentation Attack Detection", arXiv, 2022 (*University of La Rochelle, France*). [[Paper](https://arxiv.org/abs/2203.01562)]
     * **ViTAF**: "Adaptive Transformers for Robust Few-shot Cross-domain Face Anti-spoofing", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2203.12175)]
+    * **?**: "Cross-Forgery Analysis of Vision Transformers and CNNs for Deepfake Image Detection", arXiv, 2022 (*National Research Council, Italy*). [[Paper](https://arxiv.org/abs/2206.13829)]
 
 [[Back to Overview](#overview)]
 
@@ -1479,9 +1481,11 @@ Feel free to share this list with others!
     * **MEAT**: "Meta-attention for ViT-backed Continual Learning", CVPR, 2022 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2203.11684)][[Code (in construction)](https://github.com/zju-vipa/MEAT-TIL)]
     * **DyTox**: "DyTox: Transformers for Continual Learning with DYnamic TOken eXpansion", CVPR, 2022 (*Sorbonne Universite, France*). [[Paper](https://arxiv.org/abs/2111.11326)][[PyTorch](https://github.com/arthurdouillard/dytox)]
     * **LVT**: "Continual Learning With Lifelong Vision Transformer", CVPR, 2022 (*The University of Sydney*). [[Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Wang_Continual_Learning_With_Lifelong_Vision_Transformer_CVPR_2022_paper.html)]
+    * **L2P**: "Learning to Prompt for Continual Learning", CVPR, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2112.08654)][[Tensorflow](https://github.com/google-research/l2p)]
     * **?**: "Simpler is Better: off-the-shelf Continual Learning Through Pretrained Backbones", CVPRW, 2022 (*Ca' Foscari University, Italy*). [[Paper](https://arxiv.org/abs/2205.01586)][[PyTorch](https://github.com/francesco-p/off-the-shelf-cl)]
+    * **ADA**: "Continual Learning with Transformers for Image Classification", CVPRW, 2022 (*Amazon*). [[Paper](https://arxiv.org/abs/2206.14085)]
+    * **?**: "Towards Exemplar-Free Continual Learning in Vision Transformers: an Account of Attention, Functional and Weight Regularization", CVPRW, 2022 (*Ca' Foscari University, Italy*). [[Paper](https://arxiv.org/abs/2203.13167)]
     * **COLT**: "Transformers Are Better Continual Learners", arXiv, 2022 (*Hikvision*). [[Paper](https://arxiv.org/abs/2201.04924)]
-    * **?**: "Towards Exemplar-Free Continual Learning in Vision Transformers: an Account of Attention, Functional and Weight Regularization", arXiv, 2022 (*Ca' Foscari University, Italy*). [[Paper](https://arxiv.org/abs/2203.13167)]
 * Knowledge Distillation:
     * **?**: "Knowledge Distillation via the Target-aware Transformer", CVPR, 2022 (*Alibaba*). [[Paper](https://arxiv.org/abs/2205.10793)]
     * **DearKD**: "DearKD: Data-Efficient Early Knowledge Distillation for Vision Transformers", CVPR, 2022 (*JD*). [[Paper](https://arxiv.org/abs/2204.12997)]
