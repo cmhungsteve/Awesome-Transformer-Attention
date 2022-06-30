@@ -1773,6 +1773,8 @@ Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2204.08696)]
 * **Polyp-PVT**: "Polyp-PVT: Polyp Segmentation with Pyramid Vision Transformers", arxiv, 2022 (*IIAI*). [[Paper](https://arxiv.org/abs/2108.06932)][[PyTorch](https://github.com/DengPingFan/Polyp-PVT)]
 * **SeATrans**: "SeATrans: Learning Segmentation-Assisted diagnosis model via Transformer", arXiv, 2022 (*Baidu*). [[Paper](https://arxiv.org/abs/2206.05763)]
 * **TransResU-Net**: "TransResU-Net: Transformer based ResU-Net for Real-Time Colonoscopy Polyp Segmentation", arXiv, 2022 (*Indira Gandhi National Open University*). [[Paper](https://arxiv.org/abs/2206.08985)][[Code (in construction)](https://github.com/nikhilroxtomar/TransResUNet)]
+* **LViT**: "LViT: Language meets Vision Transformer in Medical Image Segmentation", arXiv, 2022 (*Alibaba*). [[Paper](https://arxiv.org/abs/2206.14718)][[Code (in construction)](https://github.com/HUANGLIZI/LViT)]
+* **APFormer**: "The Lighter The Better: Rethinking Transformers in Medical Image Segmentation Through Adaptive Pruning", arXiv, 2022 (*Huazhong University of Science and Technology*). [[Paper](https://arxiv.org/abs/2206.14413)][[PyTorch](https://github.com/xianlin7/APFormer)]
 
 [[Back to Overview](#overview)]
 
