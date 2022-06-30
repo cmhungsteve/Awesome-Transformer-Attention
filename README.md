@@ -2204,6 +2204,7 @@ If you find this repository useful, please consider citing this list:
 ## References
 * Online Resources:
     * [Papers with Code](https://paperswithcode.com/methods/category/vision-transformer)
+    * [The Annotated Transformer (Blog)](http://nlp.seas.harvard.edu/annotated-transformer/)
     * [Practical Introduction to Transformers (GitHub)](https://github.com/IbrahimSobh/Transformers)
     * [Awesome Transformer Architecture Search (GitHub)](https://github.com/automl/awesome-transformer-search)
     * [Transformer-in-Vision (GitHub)](https://github.com/DirtyHarryLYL/Transformer-in-Vision)   
