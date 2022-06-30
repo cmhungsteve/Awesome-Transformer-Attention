@@ -1712,6 +1712,7 @@ Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2204.08696)]
 * **CtrlFormer**: "CtrlFormer: Learning Transferable State Representation for Visual Control via Transformer", ICML, 2022 (*HKU*). [[Paper](https://arxiv.org/abs/2206.08883)][[PyTorch](https://github.com/YaoMarkMu/CtrlFormer-ICML2022)][[Website](https://sites.google.com/view/ctrlformer-icml/)]
 * **PromptDT**: "Prompting Decision Transformer for Few-Shot Policy Generalization", ICML, 2022 (*CMU*). [[Paper](https://arxiv.org/abs/2206.13499)][[Website](https://mxu34.github.io/PromptDT/)]
 * **RAD**: "Evaluating Vision Transformer Methods for Deep Reinforcement Learning from Pixels", arXiv, 2022 (*UBC, Canada*). [[Paper](https://arxiv.org/abs/2204.04905)]
+* **MWM**: "Masked World Models for Visual Control", arXiv, 2022 (*Berkeley*). [[Paper](https://arxiv.org/abs/2206.14244)][[Tensorflow](https://github.com/younggyoseo/MWM)][[Website](https://sites.google.com/view/mwm-rl)]
 
 [[Back to Overview](#overview)]
 
