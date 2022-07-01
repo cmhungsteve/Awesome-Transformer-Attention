@@ -541,6 +541,7 @@ Feel free to share this list with others!
 * **Graph-DETR3D**: "Graph-DETR3D: Rethinking Overlapping Regions for Multi-View 3D Object Detection", arXiv, 2022 (*University of Science and Technology of China*). [[Paper](https://arxiv.org/abs/2204.11582)]
 * **UVTR**: "Unifying Voxel-based Representation with Transformer for 3D Object Detection", arXiv, 2022 (*CUHK*). [[Paper](https://arxiv.org/abs/2206.00630)][[PyTorch](https://github.com/dvlab-research/UVTR)]
 * **PETRv2**: "PETRv2: A Unified Framework for 3D Perception from Multi-Camera Images", arXiv, 2022 (*Megvii*). [[Paper](https://arxiv.org/abs/2206.01256)]
+**PolarFormer**: "PolarFormer: Multi-camera 3D Object Detection with Polar Transformer", arXiv, 2022 (*Fudan University*). [[Paper](https://arxiv.org/abs/2206.15398#)][[Code (in construction)](https://github.com/fudan-zvg/PolarFormer)]
 
 [[Back to Overview](#overview)]
 
@@ -831,6 +832,7 @@ Feel free to share this list with others!
     * **GCsT**: "GCsT: Graph Convolutional Skeleton Transformer for Action Recognition", arXiv, 2021 (*CAS*). [[Paper](https://arxiv.org/abs/2109.02860)]
     * **STTFormer**: "Spatio-Temporal Tuples Transformer for Skeleton-Based Action Recognition", arXiv, 2022 (*Xidian University*). [[Paper](https://arxiv.org/abs/2201.02849)][[Code (in construction)](https://github.com/heleiqiu/STTFormer)]
     * **ProFormer**: "ProFormer: Learning Data-efficient Representations of Body Movement with Prototype-based Feature Augmentation and Visual Transformers", arXiv, 2022 (*Karlsruhe Institute of Technology, Germany*). [[Paper](https://arxiv.org/abs/2202.11423)][[PyTorch](https://github.com/KPeng9510/ProFormer)]
+    * **?**: "Spatial Transformer Network with Transfer Learning for Small-scale Fine-grained Skeleton-based Tai Chi Action Recognition", arXiv, 2022 (*Harbin Institute of Technology*). [[Paper](https://arxiv.org/abs/2206.15002)]
 * Multi-modal:
     * **MBT**: "Attention Bottlenecks for Multimodal Fusion", NeurIPS, 2021 (*Google*). [[Paper](https://arxiv.org/abs/2107.00135)]
     * **MM-ViT**: "MM-ViT: Multi-Modal Video Transformer for Compressed Video Action Recognition", WACV, 2022 (*OPPO*). [[Paper](https://arxiv.org/abs/2108.09322)]
@@ -1649,6 +1651,7 @@ Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2204.08696)]
 * **UVCGAN**: "UVCGAN: UNet Vision Transformer cycle-consistent GAN for unpaired image-to-image translation", arXiv, 2022 (*Brookhaven National Laboratory, NY*). [[Paper](https://arxiv.org/abs/2203.02557)]
 * **ITTR**: "ITTR: Unpaired Image-to-Image Translation with Transformers", arXiv, 2022 (*Kuaishou*). [[Paper](https://arxiv.org/abs/2203.16015)]
 * **CLIPasso**: "CLIPasso: Semantically-Aware Object Sketching", arXiv, 2022 (*EPFL*). [[Paper](https://arxiv.org/abs/2202.05822)][[PyTorch](https://github.com/yael-vinker/CLIPasso)][[Website](https://clipasso.github.io/clipasso/)]
+* **CTrGAN**: "CTrGAN: Cycle Transformers GAN for Gait Transfer", arXiv, 2022 (*Ariel University, Israel*). [[Paper](https://arxiv.org/abs/2206.15248)]
 
 [[Back to Overview](#overview)]
 
