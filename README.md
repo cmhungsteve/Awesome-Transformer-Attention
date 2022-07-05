@@ -1396,7 +1396,6 @@ Feel free to share this list with others!
     * **LOTR**: "LOTR: Face Landmark Localization Using Localization Transformer", arXiv, 2021 (*Sertis, Thailand*). [[Paper](https://arxiv.org/abs/2109.10057)]
     * **FAT**: "Facial Attribute Transformers for Precise and Robust Makeup Transfer", WACV, 2022 (*University of Rochester*). [[Paper](https://arxiv.org/abs/2104.02894)]
     * **SSAT**: "SSAT: A Symmetric Semantic-Aware Transformer Network for Makeup Transfer and Removal", AAAI, 2022 (*Wuhan University*). [[Paper](https://arxiv.org/abs/2112.03631)][[PyTorch](https://gitee.com/sunzhaoyang0304/ssat-msp)]
-    * **ICT**: "Protecting Celebrities with Identity Consistency Transformer", CVPR, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2203.01318)]
     * **SLPT**: "Sparse Local Patch Transformer for Robust Face Alignment and Landmarks Inherent Relation Learning", CVPR, 2022 (*University of Technology Sydney*). [[Paper](https://arxiv.org/abs/2203.06541)][[PyTorch](https://github.com/Jiahao-UTS/SLPT-master)]
     * **TransEditor**: "TransEditor: Transformer-Based Dual-Space GAN for Highly Controllable Facial Editing", CVPR, 2022 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2203.17266)][[PyTorch](https://github.com/BillyXYB/TransEditor)][[Website](https://billyxyb.github.io/TransEditor/)]
     * **FaRL**: "General Facial Representation Learning in a Visual-Linguistic Manner", CVPR, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2112.03109)][[PyTorch](https://github.com/faceperceiver/farl)]
