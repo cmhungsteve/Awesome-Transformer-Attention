@@ -305,6 +305,7 @@ Feel free to share this list with others!
 * **EdgeFormer**: "EdgeFormer: Improving Light-weight ConvNets by Learning from Vision Transformers", arXiv, 2022 (*?*). [[Paper](https://arxiv.org/abs/2203.03952)]
 * **iFormer**: "Inception Transformer", arXiv, 2022 (*Sea AI Lab*). [[Paper](https://arxiv.org/abs/2205.12956)][[PyTorch](https://github.com/sail-sg/iFormer)]
 * **MoCoViT**: "MoCoViT: Mobile Convolutional Vision Transformer", arXiv, 2022 (*ByteDance*). [[Paper](https://arxiv.org/abs/2205.12635)]
+* **DynamicViT**: "Dynamic Spatial Sparsification for Efficient Vision Transformers and Convolutional Neural Networks", arXiv, 2022 (*Tsinghua University*). [[Paper](https://arxiv.org/abs/2207.01580)][[PyTorch](https://github.com/raoyongming/DynamicViT)]
 #### Training + Transformer
 * **iGPT**: "Generative Pretraining From Pixels", ICML, 2020 (*OpenAI*). [[Paper](http://proceedings.mlr.press/v119/chen20s.html)][[Tensorflow](https://github.com/openai/image-gpt)]
 * **MoCo-V3**: "An Empirical Study of Training Self-Supervised Vision Transformers", ICCV, 2021 (*Facebook*). [[Paper](https://arxiv.org/abs/2104.02057)]
@@ -406,6 +407,7 @@ Feel free to share this list with others!
 * **PSAQ-ViT**: "Patch Similarity Aware Data-Free Quantization for Vision Transformers", arXiv, 2022 (*CAS*). [[Paper](https://arxiv.org/abs/2203.02250)]
 * **VTP**: "Vision Transformer Compression with Structured Pruning and Low Rank Approximation", arXiv, 2022 (*UCLA*). [[Paper](https://arxiv.org/abs/2203.13444)]
 * **SiDT**: "Searching Intrinsic Dimensions of Vision Transformers", arXiv, 2022 (*UC Irvine*). [[Paper](https://arxiv.org/abs/2204.07722)]
+* **I-ViT**: "I-ViT: Integer-only Quantization for Efficient Vision Transformer Inference", arXiv, 2022 (*CAS*). [[Paper](https://arxiv.org/abs/2207.01405)]
 
 [[Back to Overview](#overview)]
 
@@ -556,6 +558,7 @@ Feel free to share this list with others!
 * **X-DETR**: "X-DETR: A Versatile Architecture for Instance-wise Vision-Language Tasks", arXiv, 2022 (*Amazon*). [[Paper](https://arxiv.org/abs/2204.05626)]
 * **OWL-ViT**: "Simple Open-Vocabulary Object Detection with Vision Transformers", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2205.06230)]
 * **?**: "DALL-E for Detection: Language-driven Context Image Synthesis for Object Detection", arXiv, 2022 (*USC*). [[Paper](https://arxiv.org/abs/2206.09592)]
+* **YONOD**: "You Only Need One Detector: Unified Object Detector for Different Modalities based on Vision Transformers", arXiv, 2022 (*CUNY*). [[Paper](https://arxiv.org/abs/2207.01071)][[PyTorch](https://github.com/liketheflower/YONOD)]
 
 [[Back to Overview](#overview)]
 
@@ -1175,8 +1178,13 @@ Feel free to share this list with others!
     * **VLT**: "Vision-Language Transformer and Query Generation for Referring Segmentation", ICCV, 2021 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2108.05565)][[Tensorflow](https://github.com/henghuiding/Vision-Language-Transformer)]
     * **LAVT**: "LAVT: Language-Aware Vision Transformer for Referring Image Segmentation", CVPR, 2022 (*Oxford*). [[Paper](https://arxiv.org/abs/2112.02244)]
     * **ReSTR**: "ReSTR: Convolution-free Referring Image Segmentation Using Transformers", CVPR, 2022 (*POSTECH*). [[Paper](https://arxiv.org/abs/2203.16768)][[Website](http://cvlab.postech.ac.kr/research/restr/)]
+* Tracking:
+    * **ModaMixer**: "Divert More Attention to Vision-Language Tracking", arXiv, 2022 (*Beijing Jiaotong University*). [[Paper](https://arxiv.org/abs/2207.01076)][[PyTorch](https://github.com/JudasDie/SOTS)]
 * Analysis:
     * **MM-Explainability**: "Generic Attention-model Explainability for Interpreting Bi-Modal and Encoder-Decoder Transformers", ICCV, 2021 (*Tel Aviv*). [[Paper](https://arxiv.org/abs/2103.15679)][[PyTorch](https://github.com/hila-chefer/Transformer-MM-Explainability)]
+    * **?**: "Are Multimodal Transformers Robust to Missing Modality?", CVPR, 2022 (*University of Delaware*). [[Paper](https://arxiv.org/abs/2204.05454)]
+    * **VL-InterpreT**: "VL-InterpreT: An Interactive Visualization Tool for Interpreting Vision-Language Transformers", CVPR (demo), 2022 (*Intel*). [[Paper](https://arxiv.org/abs/2203.17247)][[Website](http://vlinterpretenv4env-env.eba-vmhhefup.us-east-2.elasticbeanstalk.com/)][[Video](https://www.youtube.com/watch?v=2HZ2IjzG5_4&ab_channel=MengDu)]
+    * **VL-CheckList**: "VL-CheckList: Evaluating Pre-trained Vision-Language Models with Objects, Attributes and Relations", arXiv, 2022 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2207.00221)][[Code (in construction)](https://github.com/om-ai-lab/VL-CheckList)]
 * Speaker Localization:
     * **?**: "The Right to Talk: An Audio-Visual Transformer Approach", ICCV, 2021 (*University of Arkansas*). [[Paper](https://arxiv.org/abs/2108.03256)]
 * Multi-task:
@@ -1214,15 +1222,10 @@ Feel free to share this list with others!
     * **VoViT**: "VoViT: Low Latency Graph-based Audio-Visual Voice Separation Transformer", arXiv, 2022 (*Universitat Pompeu Fabra, Spain*). [[Paper](https://arxiv.org/abs/2203.04099)][[Website](https://ipcv.github.io/VoViT/)]
 * Language-guided Video Segmentation:
     * **Locater**: "Local-Global Context Aware Transformer for Language-Guided Video Segmentation", arXiv, 2022 (*Zhejiang*). [[Paper](https://arxiv.org/abs/2203.09773)][[PyTorch](https://github.com/leonnnop/Locater)]
-* Analysis:
-    * **?**: "Are Multimodal Transformers Robust to Missing Modality?", CVPR, 2022 (*University of Delaware*). [[Paper](https://arxiv.org/abs/2204.05454)]
-    * **VL-InterpreT**: "VL-InterpreT: An Interactive Visualization Tool for Interpreting Vision-Language Transformers", CVPR (demo), 2022 (*Intel*). [[Paper](https://arxiv.org/abs/2203.17247)][[Website](http://vlinterpretenv4env-env.eba-vmhhefup.us-east-2.elasticbeanstalk.com/)][[Video](https://www.youtube.com/watch?v=2HZ2IjzG5_4&ab_channel=MengDu)]
 * Audio-Visual:
     * **AVCA**: "Audio-visual Generalised Zero-shot Learning with Cross-modal Attention and Language", CVPR, 2022 (*University of Tubingen, Germany*). [[Paper](https://arxiv.org/abs/2203.03598)][[PyTorch](https://github.com/ExplainableML/AVCA-GZSL)]
 * Sentiment Analysis:
     * **MCMulT**: "Multi-scale Cooperative Multimodal Transformers for Multimodal Sentiment Analysis in Videos", arXiv, 2022 (*Tencent*). [[Paper](https://arxiv.org/abs/2206.07981)]
-* Analysis:
-    * **VL-CheckList**: "VL-CheckList: Evaluating Pre-trained Vision-Language Models with Objects, Attributes and Relations", arXiv, 2022 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2207.00221)][[Code (in construction)](https://github.com/om-ai-lab/VL-CheckList)]
 
 [[Back to Overview](#overview)]
 
@@ -1267,6 +1270,7 @@ Feel free to share this list with others!
 * **CompleteDT**: "CompleteDT: Point Cloud Completion with Dense Augment Inference Transformers", arXiv, 2022 (*Beijing Institute of Technology*). [[Paper](https://arxiv.org/abs/2205.14999)]
 * **VN-Transformer**: "VN-Transformer: Rotation-Equivariant Attention for Vector Neurons", arXiv, 2022 (*Waymo*). [[Paper](https://arxiv.org/abs/2206.04176)]
 * **Voxel-MAE**: "Masked Autoencoders for Self-Supervised Learning on Automotive Point Clouds", arXiv, 2022 (*Chalmers University of Technology, Sweden*). [[Paper](https://arxiv.org/abs/2207.00531)]
+* **MAE3D**: "Masked Autoencoders in 3D Point Cloud Representation Learning", arXiv, 2022 (*Northwest A&F University, China*). [[Paper](https://arxiv.org/abs/2207.01545)]
 
 [[Back to Overview](#overview)]
 
@@ -1313,6 +1317,7 @@ Feel free to share this list with others!
     * **HeatER**: "HeatER: An Efficient and Unified Network for Human Reconstruction via Heatmap-based TransformER", arXiv, 2022 (*UCF*). [[Paper](https://arxiv.org/abs/2205.15448)]
     * **SeTHPose**: "Learning Sequential Contexts using Transformer for 3D Hand Pose Estimation", arXiv, 2022 (*Queen's University, Canada*). [[Paper](https://arxiv.org/abs/2206.00171)]
     * **GraphMLP**: "GraphMLP: A Graph MLP-Like Architecture for 3D Human Pose Estimation", arXiv, 2022 (*Peking University*). [[Paper](https://arxiv.org/abs/2206.06420)]
+    * **siMLPe**: "Back to MLP: A Simple Baseline for Human Motion Prediction", arXiv, 2022 (*INRIA*). [[Paper](https://arxiv.org/abs/2207.01567)][[Pytorch](https://github.com/dulucas/siMLPe)]
 * Others:
     * **TAPE**: "Transformer Guided Geometry Model for Flow-Based Unsupervised Visual Odometry", arXiv, 2020 (*Tianjing University*). [[Paper](https://arxiv.org/abs/2101.02143)]
     * **T6D-Direct**: "T6D-Direct: Transformers for Multi-Object 6D Pose Direct Regression", GCPR, 2021 (*University of Bonn*). [[Paper](https://arxiv.org/abs/2109.10948)]
@@ -1592,6 +1597,7 @@ Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2204.08696)]
 * **DLFormer**: "DLFormer: Discrete Latent Transformer for Video Inpainting", CVPR, 2022 (*Tencent*). [[Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Ren_DLFormer_Discrete_Latent_Transformer_for_Video_Inpainting_CVPR_2022_paper.html)][[Code (in construction)](https://github.com/JingjingRenabc/dlformer)]
 * **U-Transformer**: "Generalised Image Outpainting with U-Transformer", arXiv, 2022 (*Xi'an Jiaotong-Liverpool University*). [[Paper](https://arxiv.org/abs/2201.11403)]
 * **SpA-Former**: "SpA-Former: Transformer image shadow detection and removal via spatial attention", arXiv, 2022 (*Shanghai Jiao Tong University*). [[Paper](https://arxiv.org/abs/2206.10910)][[PyTorch](https://github.com/zhangbaijin/SpA-Former-shadow-removal)]
+* **CRFormer**: "CRFormer: A Cross-Region Transformer for Shadow Removal", arXiv, 2022 (*Beijing Jiaotong University*). [[Paper](https://arxiv.org/abs/2207.01600)]
 
 [[Back to Overview](#overview)]
 
