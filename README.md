@@ -1701,6 +1701,7 @@ Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2204.08696)]
     * **MS-Unet**: "Semi-Supervised Wide-Angle Portraits Correction by Multi-Scale Transformer", CVPR, 2022 (*Megvii*). [[Paper](https://arxiv.org/abs/2109.08024)][[Code (in construction)](https://github.com/megvii-research/Portraits_Correction)]
     * **GAP-CSCoT**: "Spectral Compressive Imaging Reconstruction Using Convolution and Spectral Contextual Transformer", arXiv, 2022 (*CAS*). [[Paper](https://arxiv.org/abs/2201.05768)]
     * **CST**: "Coarse-to-Fine Sparse Transformer for Hyperspectral Image Reconstruction", arXiv, 2022 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2203.04845)]
+    * **MatFormer**: "MatFormer: A Generative Model for Procedural Materials", arXiv, 2022 (*Adobe*). [[Paper](https://arxiv.org/abs/2207.01044)]
 
 [[Back to Overview](#overview)]
 
