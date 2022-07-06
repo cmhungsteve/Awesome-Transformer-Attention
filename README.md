@@ -2199,6 +2199,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
 * **Transformer-LS**: "Long-Short Transformer: Efficient Transformers for Language and Vision", arXiv, 2021 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2107.02192)]
 * **PoNet**: "PoNet: Pooling Network for Efficient Token Mixing in Long Sequences", ICLR, 2022 (*Alibaba*). [[Paper](https://arxiv.org/abs/2110.02442)]
 * **Paramixer**: "Paramixer: Parameterizing Mixing Links in Sparse Factors Works Better Than Dot-Product Self-Attention", CVPR, 2022 (*Norwegian University of Science and Technology, Norway*). [[Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Yu_Paramixer_Parameterizing_Mixing_Links_in_Sparse_Factors_Works_Better_Than_CVPR_2022_paper.html)]
+* **ContextPool**: "Efficient Representation Learning via Adaptive Context Pooling", ICML, 2022 (*Apple*). [[Paper](https://arxiv.org/abs/2207.01844)]
 
 [[Back to Overview](#overview)]
 
