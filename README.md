@@ -1262,6 +1262,7 @@ Feel free to share this list with others!
 * **Point-BERT**: "Point-BERT: Pre-training 3D Point Cloud Transformers with Masked Point Modeling", CVPR, 2022 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2111.14819)][[PyTorch](https://github.com/lulutang0608/Point-BERT)][[Website](https://point-bert.ivg-research.xyz/)]
 * **PTTR**: "PTTR: Relational 3D Point Cloud Object Tracking with Transformer", CVPR, 2022 (*Sensetime*). [[Paper](https://arxiv.org/abs/2112.02857)][[PyTorch](https://github.com/Jasonkks/PTTR)]
 * **GeoTransformer**: "Geometric Transformer for Fast and Robust Point Cloud Registration", CVPR, 2022 (*National University of Defense Technology, China*). [[Paper](https://arxiv.org/abs/2202.06688)][[PyTorch](https://github.com/qinzheng93/GeoTransformer)]
+* **?**: "3D Part Assembly Generation with Instance Encoded Transformer", IROS, 2022 (*Tongji University*). [[Paper](https://arxiv.org/abs/2207.01779)]
 * **LighTN**: "LighTN: Light-weight Transformer Network for Performance-overhead Tradeoff in Point Cloud Downsampling", arXiv, 2022 (*Beijing Jiaotong University*). [[Paper](https://arxiv.org/abs/2202.06263)]
 * **PMP-Net++**: "PMP-Net++: Point Cloud Completion by Transformer-Enhanced Multi-step Point Moving Paths", arXiv, 2022 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2202.09507)]
 * **SnowflakeNet**: "Snowflake Point Deconvolution for Point Cloud Completion and Generation with Skip-Transformer", arXiv, 2022 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2202.09367)][[PyTorch](https://github.com/AllenXiangX/SnowflakeNet)]
@@ -1701,6 +1702,7 @@ Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2204.08696)]
     * **GAP-CSCoT**: "Spectral Compressive Imaging Reconstruction Using Convolution and Spectral Contextual Transformer", arXiv, 2022 (*CAS*). [[Paper](https://arxiv.org/abs/2201.05768)]
     * **CST**: "Coarse-to-Fine Sparse Transformer for Hyperspectral Image Reconstruction", arXiv, 2022 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2203.04845)]
     * **MatFormer**: "MatFormer: A Generative Model for Procedural Materials", arXiv, 2022 (*Adobe*). [[Paper](https://arxiv.org/abs/2207.01044)]
+    * **FishFormer**: "FishFormer: Annulus Slicing-based Transformer for Fisheye Rectification with Efficacy Domain Exploration", arXiv, 2022 (*Beijing Jiaotong University*). [[Paper](https://arxiv.org/abs/2207.01925)]
 
 [[Back to Overview](#overview)]
 
@@ -1794,6 +1796,7 @@ Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2204.08696)]
 * **TransResU-Net**: "TransResU-Net: Transformer based ResU-Net for Real-Time Colonoscopy Polyp Segmentation", arXiv, 2022 (*Indira Gandhi National Open University*). [[Paper](https://arxiv.org/abs/2206.08985)][[Code (in construction)](https://github.com/nikhilroxtomar/TransResUNet)]
 * **LViT**: "LViT: Language meets Vision Transformer in Medical Image Segmentation", arXiv, 2022 (*Alibaba*). [[Paper](https://arxiv.org/abs/2206.14718)][[Code (in construction)](https://github.com/HUANGLIZI/LViT)]
 * **APFormer**: "The Lighter The Better: Rethinking Transformers in Medical Image Segmentation Through Adaptive Pruning", arXiv, 2022 (*Huazhong University of Science and Technology*). [[Paper](https://arxiv.org/abs/2206.14413)][[PyTorch](https://github.com/xianlin7/APFormer)]
+* **?**: "Transformer based Models for Unsupervised Anomaly Segmentation in Brain MR Images", arXiv, 2022 (*University of Rennes, France*). [[Paper](https://arxiv.org/abs/2207.02059)][[Tensorflow](https://github.com/ahmedgh970/Transformers_Unsupervised_Anomaly_Segmentation)]
 
 [[Back to Overview](#overview)]
 
@@ -1893,6 +1896,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
 * **CSM**: "Contrastive Transformer-based Multiple Instance Learning for Weakly Supervised Polyp Frame Detection", arXiv, 2022 (*University of Adelaide, Australia*). [[Paper](https://arxiv.org/abs/2203.12121)]
 * **Surgical-VQA**: "Surgical-VQA: Visual Question Answering in Surgical Scenes using Transformer", arXiv, 2022 (*NUS*). [[Paper](https://arxiv.org/abs/2206.11053)][[PyTorch (in construction)](https://github.com/lalithjets/Surgical_VQA)]
 * **SwinMLP-TranCAP**: "Rethinking Surgical Captioning: End-to-End Window-Based MLP Transformer Using Patches", arXiv, 2022 (*CUHK*). [[Paper](https://arxiv.org/abs/2207.00113)][[PyTorch](https://github.com/XuMengyaAmy/SwinMLP_TranCAP)]
+* **CASHformer**: "CASHformer: Cognition Aware SHape Transformer for Longitudinal Analysis", arXiv, 2022 (*TUM*). [[Paper](https://arxiv.org/abs/2207.02091)]
 
 [[Back to Overview](#overview)]
 
@@ -2064,6 +2068,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **BEVFormer**: "BEVFormer: Learning Bird's-Eye-View Representation from Multi-Camera Images via Spatiotemporal Transformers", arXiv, 2022 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2203.17270)][[Code (in construction)](https://github.com/zhiqi-li/BEVFormer)]
     * **ParkPredict+**: "ParkPredict+: Multimodal Intent and Motion Prediction for Vehicles in Parking Lots with CNN and Transformer", arXiv, 2022 (*Berkeley*). [[Paper](https://arxiv.org/abs/2204.10777)]
     * **GKT**: "Efficient and Robust 2D-to-BEV Representation Learning via Geometry-guided Kernel Transformer", arXiv, 2022 (*Huazhong University of Science and Technology*). [[Paper](https://arxiv.org/abs/2206.04584)][[Code (in construction)](https://github.com/hustvl/GKT)]
+    * **CoBEVT**: "CoBEVT: Cooperative Bird's Eye View Semantic Segmentation with Sparse Transformers", arXiv, 2022 (*UCLA*). [[Paper](https://arxiv.org/abs/2207.02202)]
 * Trajectory Prediction:
     * **mmTransformer**: "Multimodal Motion Prediction with Stacked Transformers", CVPR, 2021 (*CUHK + SenseTime*). [[Paper](https://arxiv.org/abs/2103.11624)][[Code (in construction)](https://github.com/decisionforce/mmTransformer)][[Website](https://decisionforce.github.io/mmTransformer/)]
     * **AgentFormer**: "AgentFormer: Agent-Aware Transformers for Socio-Temporal Multi-Agent Forecasting", ICCV, 2021 (*CMU*). [[Paper](https://arxiv.org/abs/2103.14023)][[PyTorch](https://github.com/Khrylx/AgentFormer)][[Website](https://www.ye-yuan.com/agentformer/)]
