@@ -593,6 +593,7 @@ Feel free to share this list with others!
 * **GroupTransNet**: "GroupTransNet: Group Transformer Network for RGB-D Salient Object Detection", arXiv, 2022 (*Nankai university*). [[Paper](https://arxiv.org/abs/2203.10785)]
 * **SelfReformer**: "SelfReformer: Self-Refined Network with Transformer for Salient Object Detection", arXiv, 2022 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2205.11283)]
 * **DTMINet**: "Dual Swin-Transformer based Mutual Interactive Network for RGB-D Salient Object Detection", arXiv, 2022 (*CUHK*). [[Paper](https://arxiv.org/abs/2206.03105)]
+* **MCNet**: "Mirror Complementary Transformer Network for RGB-thermal Salient Object Detection", arXiv, 2022 (*Beijing University of Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2207.03558)][[PyTorch](https://github.com/jxr326/SwinMCNet)]
 
 [[Back to Overview](#overview)]
 
@@ -740,6 +741,7 @@ Feel free to share this list with others!
     * **CMT-DeepLab**: "CMT-DeepLab: Clustering Mask Transformers for Panoptic Segmentation", CVPR, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2206.08948)]
     * **Panoptic-SegFormer**: "Panoptic SegFormer", CVPR, 2022 (*Nanjing University*). [[Paper](https://arxiv.org/abs/2109.03814)][[PyTorch](https://github.com/zhiqi-li/Panoptic-SegFormer)]
     * **Mask2Former**: "Masked-attention Mask Transformer for Universal Image Segmentation", CVPR, 2022 (*Meta*). [[Paper](https://arxiv.org/abs/2112.01527)][[PyTorch](https://github.com/facebookresearch/Mask2Former)][[Website](https://bowenc0221.github.io/mask2former/)]
+    * **kMaX-DeepLab**: "k-means Mask Transformer", ECCV, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2207.04044)][[Tensorflow](https://github.com/google-research/deeplab2)]
     * **Panoptic-PartFormer**: "Panoptic-PartFormer: Learning a Unified Model for Panoptic Part Segmentation", arXiv, 2022 (*Peking*). [[Paper](https://arxiv.org/abs/2204.04655)][[Code (in construction)](https://github.com/lxtGH/Panoptic-PartFormer)]
 * Instance Segmentation:
     * **ISTR**: "ISTR: End-to-End Instance Segmentation with Transformers", arXiv, 2021 (*Xiamen University*). [[Paper](https://arxiv.org/abs/2105.00637)][[PyTorch](https://github.com/hujiecpp/ISTR)]
@@ -1434,6 +1436,7 @@ Feel free to share this list with others!
     * **STT**: "Spatio-Temporal Transformer for Dynamic Facial Expression Recognition in the Wild", arXiv, 2022 (*Hunan University
 *). [[Paper](https://arxiv.org/abs/2205.04749)]
     * **FaceMAE**: "FaceMAE: Privacy-Preserving Face Recognition via Masked Autoencoders", arXiv, 2022 (*NUS*). [[Paper](https://arxiv.org/abs/2205.11090)][[Code (in construction)](https://github.com/kaiwang960112/FaceMAE)]
+    * **RePFormer**: "RePFormer: Refinement Pyramid Transformer for Robust Facial Landmark Detection", arXiv, 2022 (*CUHK*). [[Paper](https://arxiv.org/abs/2207.03917)]
 * Attack-related:
     * **?**: "Video Transformer for Deepfake Detection with Incremental Learning", ACMMM, 2021 (*MBZUAI*). [[Paper](https://arxiv.org/abs/2108.05307)]
     * **ViTranZFAS**: "On the Effectiveness of Vision Transformers for Zero-shot Face Anti-Spoofing", International Joint Conference on Biometrics (IJCB), 2021 (*Idiap*). [[Paper](https://arxiv.org/abs/2011.08019)]
