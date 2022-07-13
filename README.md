@@ -9,6 +9,7 @@ Contributions in any form to make this list more comprehensive are welcome.
 If you find this repository useful, please consider **[citing](#citation)** and **STARing** this list. <br>
 Feel free to share this list with others! 
 
+**[Update: July, 2022]** Added all the related papers from *ICML 2022*! <br>
 **[Update: June, 2022]** Added all the related papers from *CVPR 2022*!
 
 ---
@@ -339,6 +340,7 @@ Feel free to share this list with others!
 * **MC-SSL**: "MC-SSL: Towards Multi-Concept Self-Supervised Learning", CVPRW, 2022 (*University of Surrey, UK*). [[Paper](https://arxiv.org/abs/2111.15340)]
 * **RelViT**: "Where are my Neighbors? Exploiting Patches Relations in Self-Supervised Vision Transformer", CVPRW, 2022 (*University of Padova, Italy*). [[Paper](https://arxiv.org/abs/2206.00481?context=cs)]
 * **data2vec**: "data2vec: A General Framework for Self-supervised Learning in Speech, Vision and Language", ICML, 2022 (*Meta*). [[Paper](https://arxiv.org/abs/2202.03555)][[PyTorch](https://github.com/facebookresearch/fairseq/tree/main/examples/data2vec)]
+* **SSTA**: "Self-supervised Models are Good Teaching Assistants for Vision Transformers", ICML, 2022 (*Tencent*). [[Paper](https://proceedings.mlr.press/v162/wu22c.html)][[Code (in construction)](https://github.com/GlassyWu/SSTA)]
 * **CutMixSL**: "Visual Transformer Meets CutMix for Improved Accuracy, Communication Efficiency, and Data Privacy in Split Learning", IJCAI, 2022 (*Yonsei University, Korea*). [[Paper](https://arxiv.org/abs/2207.00234)]
 * **?**: "How to train your ViT? Data, Augmentation, and Regularization in Vision Transformers", Transactions on Machine Learning Research (TMLR), 2022 (*Google*). [[Paper](https://openreview.net/forum?id=4nPswr1KcP)][[Tensorflow](https://github.com/google-research/vision_transformer)][[PyTorch (rwightman)](https://github.com/rwightman/pytorch-image-models)]
 * **PeCo**: "PeCo: Perceptual Codebook for BERT Pre-training of Vision Transformers", arXiv, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2111.12710)]
@@ -442,6 +444,7 @@ Feel free to share this list with others!
 * **AS-MLP**: "AS-MLP: An Axial Shifted MLP Architecture for Vision", ICLR, 2022 (*ShanghaiTech University*). [[Paper](https://arxiv.org/abs/2107.08391)][[PyTorch](https://github.com/svip-lab/AS-MLP)]
 * **Wave-MLP**: "An Image Patch is a Wave: Quantum Inspired Vision MLP", CVPR, 2022 (*Huawei*). [[Paper](https://arxiv.org/abs/2111.12294)][[PyTorch](https://github.com/huawei-noah/CV-Backbones/tree/master/wavemlp_pytorch)]
 * **DynaMixer**: "DynaMixer: A Vision MLP Architecture with Dynamic Mixing", ICML, 2022 (*Tencent*). [[Paper](https://arxiv.org/abs/2201.12083)][[PyTorch](https://github.com/ziyuwwang/DynaMixer)]
+* **STD**: "Spatial-Channel Token Distillation for Vision MLPs", ICML, 2022 (*Huawei*). [[Paper](https://proceedings.mlr.press/v162/li22c.html)]
 * **MS-MLP**: "Mixing and Shifting: Exploiting Global and Local Dependencies in Vision MLPs", arXiv, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2202.06510)]
 * **ActiveMLP**: "ActiveMLP: An MLP-like Architecture with Active Token Mixer", arXiv, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2203.06108)]
 * **MDMLP**: "MDMLP: Image Classification from Scratch on Small Datasets with MLP", arXiv, 2022 (*Jiangsu University*). [[Paper](https://arxiv.org/abs/2205.14477)][[PyTorch](https://github.com/Amoza-Theodore/MDMLP)]
@@ -844,6 +847,7 @@ Feel free to share this list with others!
     * **MViTv2**: "MViTv2: Improved Multiscale Vision Transformers for Classification and Detection", CVPR, 2022 (*Meta*). [[Paper](https://arxiv.org/abs/2112.01526)][[PyTorch](https://github.com/facebookresearch/mvit)]
     * **MTV**: "Multiview Transformers for Video Recognition", CVPR, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2201.04288)][[Tensorflow](https://github.com/google-research/scenic/tree/main/scenic/projects/mtv)]
     * **ORViT**: "Object-Region Video Transformers", CVPR, 2022 (*Tel Aviv*). [[Paper](https://arxiv.org/abs/2110.06915)][[Website](https://roeiherz.github.io/ORViT/)]
+    * **TIME**: "Time Is MattEr: Temporal Self-supervision for Video Transformers", ICML, 2022 (*KAIST*). [[Paper](https://proceedings.mlr.press/v162/yun22a.html)]
     * **AIA**: "Attention in Attention: Modeling Context Correlation for Efficient Video Classification", TCSVT, 2022 (*University of Science and Technology of China*). [[Paper](https://arxiv.org/abs/2204.09303)][[PyTorch](https://github.com/haoyanbin918/Attention-in-Attention)]
     * **MSCA**: "Vision Transformer with Cross-attention by Temporal Shift for Efficient Action Recognition", arXiv, 2022 (*Nagoya Institute of Technology*). [[Paper](https://arxiv.org/abs/2204.00452)]
     * **SViT**: "Bringing Image Scene Structure to Video via Frame-Clip Consistency of Object Tokens", arXiv, 2022 (*Tel Aviv*). [[Paper](https://arxiv.org/abs/2206.06346)][[Website](https://eladb3.github.io/SViT/)]
@@ -1485,6 +1489,7 @@ Feel free to share this list with others!
 * **NASViT**: "NASViT: Neural Architecture Search for Efficient Vision Transformers with Gradient Conflict aware Supernet Training", ICLR, 2022 (*Facebook*). [[Paper](https://openreview.net/forum?id=Qaw16njk6L)]
 * **TF-TAS**: "Training-free Transformer Architecture Search", CVPR, 2022 (*Tencent*). [[Paper](https://arxiv.org/abs/2203.12217)]
 * **ViT-Slim**: "Vision Transformer Slimming: Multi-Dimension Searching in Continuous Optimization Space", CVPR, 2022 (*MBZUAI*). [[Paper](https://arxiv.org/abs/2201.00814)][[PyTorch](https://github.com/Arnav0400/ViT-Slim)]
+* **BurgerFormer**: "Searching for BurgerFormer with Micro-Meso-Macro Space Design", ICML, 2022 (*CAS*). [[Paper](https://proceedings.mlr.press/v162/yang22f.html)][[Code (in construction)](https://github.com/xingxing-123/BurgerFormer)]
 * **UniNet**: "UniNet: Unified Architecture Search with Convolution, Transformer, and MLP", ECCV, 2022 (*CUHK + SenseTime*). [[Paper](https://arxiv.org/abs/2207.05420)]
 * **VTCAS**: "Vision Transformer with Convolutions Architecture Search", arXiv, 2022 (*Donghua University*). [[Paper](https://arxiv.org/abs/2203.10435)]
 * **NOAH**: "Neural Prompt Search", arXiv, 2022 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2206.04673)][[PyTorch](https://github.com/Davidzhangyuanhan/NOAH)]
@@ -1517,6 +1522,7 @@ Feel free to share this list with others!
     * **HCTransformers**: "Attribute Surrogates Learning and Spectral Tokens Pooling in Transformers for Few-shot Learning", CVPR, 2022 (*Fudan University*). [[Paper](https://arxiv.org/abs/2203.09064)][[PyTorch](https://github.com/StomachCold/HCTransformers)]
     * **HyperTransformer**: "HyperTransformer: Model Generation for Supervised and Semi-Supervised Few-Shot Learning", CVPR, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2201.04182)][[PyTorch](https://github.com/wgcban/HyperTransformer)][[Website](https://www.wgcban.com/research#h.ar24vwqlm021)]
     * **STRM**: "Spatio-temporal Relation Modeling for Few-shot Action Recognition", CVPR, 2022 (*MBZUAI*). [[Paper](https://arxiv.org/abs/2112.05132)][[PyTorch](https://github.com/Anirudh257/strm)][[Website](https://anirudh257.github.io/strm/)]
+    * **HyperTransformer**: "HyperTransformer: Model Generation for Supervised and Semi-Supervised Few-Shot Learning", ICML, 2022 (*Google*). [[Paper](https://proceedings.mlr.press/v162/zhmoginov22a.html)]
     * **CPM**: "Compound Prototype Matching for Few-shot Action Recognition", ECCV, 2022 (*The University of Tokyo*). [[Paper](https://arxiv.org/abs/2207.05515)]
     * **SUN**: "Self-Promoted Supervision for Few-Shot Transformer", arXiv, 2022 (*Harbin Institute of Technology + NUS*). [[Paper](https://arxiv.org/abs/2203.07057)][[PyTorch](https://github.com/DongSky/few-shot-vit)]
     * **HRT**: "Hybrid Routing Transformer for Zero-Shot Learning", arXiv, 2022 (*Xidian University*). [[Paper](https://arxiv.org/abs/2203.15310)]
@@ -2245,7 +2251,8 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
 * **ContextPool**: "Efficient Representation Learning via Adaptive Context Pooling", ICML, 2022 (*Apple*). [[Paper](https://arxiv.org/abs/2207.01844)]
 * **LARA**: "Linear Complexity Randomized Self-attention Mechanism", ICML, 2022 (*Bytedance*). [[Paper](https://arxiv.org/abs/2204.04667)]
 * **Flowformer**: "Flowformer: Linearizing Transformers with Conservation Flows", ICML, 2022 (*Tsinghua University*). [[Paper](https://arxiv.org/abs/2202.06258)][[PyTorch](https://github.com/thuml/Flowformer)]
-* ****: "Horizontal and Vertical Attention in Transformers", arXiv, 2022 (*University of Technology Sydney*). [[Paper](https://arxiv.org/abs/2207.04399)]
+* **MRA**: "Multi Resolution Analysis (MRA) for Approximate Self-Attention", ICML, 2022 (*University of Wisconsin, Madison*). [[Paper](https://proceedings.mlr.press/v162/zeng22a.html)][[PyTorch](https://github.com/mlpen/mra-attention)]
+* **?**: "Horizontal and Vertical Attention in Transformers", arXiv, 2022 (*University of Technology Sydney*). [[Paper](https://arxiv.org/abs/2207.04399)]
 
 [[Back to Overview](#overview)]
 
