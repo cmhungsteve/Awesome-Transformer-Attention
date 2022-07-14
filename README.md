@@ -687,6 +687,8 @@ Feel free to share this list with others!
     * **CoFormer**: "Collaborative Transformers for Grounded Situation Recognition", CVPR, 2022 (*POSTECH*). [[Paper](https://arxiv.org/abs/2203.16518)][[PyTorch](https://github.com/jhcho99/CoFormer)]
 * Multi-Modal:
     * **Detection-Hub**: "Detection Hub: Unifying Object Detection Datasets via Query Adaptation on Language Embedding", arXiv, 2022 (*Fudan + Microsoft*). [[Paper](https://arxiv.org/abs/2206.03484)]
+* Mirror Detection:
+    * **SATNet**: "Symmetry-Aware Transformer-based Mirror Detection", arXiv, 2022 (*Harbin Institute of Technology*). [[Paper](https://arxiv.org/abs/2207.06332)][[PyTorch](https://github.com/tyhuang0428/SATNet)]
 
 [[Back to Overview](#overview)]
 
@@ -813,6 +815,8 @@ Feel free to share this list with others!
     * **HelixNet**: "Online Segmentation of LiDAR Sequences: Dataset and Algorithm", CVPRW, 2022 (*CNRS, France*). [[Paper](https://arxiv.org/abs/2206.08194)][[Website](https://romainloiseau.fr/helixnet/)][[PyTorch](https://github.com/romainloiseau/Helix4D)]
 * Co-Segmentation:
     * **DINO-ViT-feature**: "Deep ViT Features as Dense Visual Descriptors", arXiv, 2022 (*Weizmann Institute of Science, Israel*). [[Paper](https://arxiv.org/abs/2112.05814)][[PyTorch](https://github.com/ShirAmir/dino-vit-features)][[Website](https://dino-vit-features.github.io/)]
+* Top-Down Semantic Segmentation:
+    * **Trans4Map**: "Trans4Map: Revisiting Holistic Top-down Mapping from Egocentric Images to Allocentric Semantics with Vision Transformers", arXiv, 2022 (*Karlsruhe Institute of Technology, Germany*). [[Paper](https://arxiv.org/abs/2207.06205)]
 
 [[Back to Overview](#overview)]
 
@@ -858,6 +862,7 @@ Feel free to share this list with others!
     * **AcT**: "Action Transformer: A Self-Attention Model for Short-Time Human Action Recognition", arXiv, 2021 (*Politecnico di Torino, Italy*). [[Paper](https://arxiv.org/abs/2107.00606)][[Code (in construction)](https://github.com/FedericoAngelini/MPOSE2021_Dataset)]
     * **STAR**: "STAR: Sparse Transformer-based Action Recognition", arXiv, 2021 (*UCLA*). [[Paper](https://arxiv.org/abs/2107.07089)]
     * **GCsT**: "GCsT: Graph Convolutional Skeleton Transformer for Action Recognition", arXiv, 2021 (*CAS*). [[Paper](https://arxiv.org/abs/2109.02860)]
+    * **GL-Transformer**: "Global-local Motion Transformer for Unsupervised Skeleton-based Action Learning", ECCV, 2022 (*Seoul National University*). [[Paper](https://arxiv.org/abs/2207.06101)][[Code (in construction)](https://github.com/Boeun-Kim/GL-Transformer)]
     * **STTFormer**: "Spatio-Temporal Tuples Transformer for Skeleton-Based Action Recognition", arXiv, 2022 (*Xidian University*). [[Paper](https://arxiv.org/abs/2201.02849)][[Code (in construction)](https://github.com/heleiqiu/STTFormer)]
     * **ProFormer**: "ProFormer: Learning Data-efficient Representations of Body Movement with Prototype-based Feature Augmentation and Visual Transformers", arXiv, 2022 (*Karlsruhe Institute of Technology, Germany*). [[Paper](https://arxiv.org/abs/2202.11423)][[PyTorch](https://github.com/KPeng9510/ProFormer)]
     * **?**: "Spatial Transformer Network with Transfer Learning for Small-scale Fine-grained Skeleton-based Tai Chi Action Recognition", arXiv, 2022 (*Harbin Institute of Technology*). [[Paper](https://arxiv.org/abs/2206.15002)]
@@ -903,6 +908,7 @@ Feel free to share this list with others!
 * **FUTR**: "Future Transformer for Long-term Action Anticipation", CVPR, 2022 (*POSTECH*). [[Paper](https://arxiv.org/abs/2205.14022)]
 * **TTPP**: "TTPP: Temporal Transformer with Progressive Prediction for Efficient Action Anticipation", arXiv, 2022 (*CAS*). [[Paper](https://arxiv.org/abs/2003.03530)]
 * **VPTR**: "VPTR: Efficient Transformers for Video Prediction", ICPR, 2022 (*Polytechnique Montreal, Canada*). [[Paper](https://arxiv.org/abs/2203.15836)][[PyTorch](https://github.com/XiYe20/VPTR)]
+* **Earthformer**: "Earthformer: Exploring Space-Time Transformers for Earth System Forecasting", arXiv, 2022 (*Amazon*). [[Paper](https://arxiv.org/abs/2207.05833)]
 
 [[Back to Overview](#overview)]
 
@@ -1668,6 +1674,7 @@ Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2204.08696)]
 * **Style-Transformer**: "Style Transformer for Image Inversion and Editing", CVPR, 2022 (*East China Normal University*). [[Paper](https://arxiv.org/abs/2203.07932)][[PyTorch](https://github.com/sapphire497/style-transformer)]
 * **StyleSwin**: "StyleSwin: Transformer-based GAN for High-resolution Image Generation", CVPR, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2112.10762)][[PyTorch](https://github.com/microsoft/StyleSwin)]
 * **Styleformer**: "Styleformer: Transformer based Generative Adversarial Networks with Style Vector", CVPR, 2022 (*Seoul National University*). [[Paper](https://arxiv.org/abs/2106.07023)][[PyTorch](https://github.com/Jeeseung-Park/Styleformer)]
+* **DynaST**: "DynaST: Dynamic Sparse Transformer for Exemplar-Guided Image Generation", ECCV, 2022 (*NUS*). [[Paper](https://arxiv.org/abs/2207.06124)][[PyTorch](https://github.com/Huage001/DynaST)]
 * **U-Attention**: "Paying U-Attention to Textures: Multi-Stage Hourglass Vision Transformer for Universal Texture Synthesis", arXiv, 2022 (*Adobe*). [[Paper](https://arxiv.org/abs/2202.11703)]
 * **MaskGIT**: "MaskGIT: Masked Generative Image Transformer", CVPR, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2202.04200)][[PyTorch (dome272)](https://github.com/dome272/MaskGIT-pytorch)]
 * **AttnFlow**: "Generative Flows with Invertible Attentions", CVPR, 2022 (*ETHZ*). [[Paper](https://arxiv.org/abs/2106.03959)]
@@ -2117,6 +2124,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **ParkPredict+**: "ParkPredict+: Multimodal Intent and Motion Prediction for Vehicles in Parking Lots with CNN and Transformer", arXiv, 2022 (*Berkeley*). [[Paper](https://arxiv.org/abs/2204.10777)]
     * **GKT**: "Efficient and Robust 2D-to-BEV Representation Learning via Geometry-guided Kernel Transformer", arXiv, 2022 (*Huazhong University of Science and Technology*). [[Paper](https://arxiv.org/abs/2206.04584)][[Code (in construction)](https://github.com/hustvl/GKT)]
     * **CoBEVT**: "CoBEVT: Cooperative Bird's Eye View Semantic Segmentation with Sparse Transformers", arXiv, 2022 (*UCLA*). [[Paper](https://arxiv.org/abs/2207.02202)]
+    * **?**: "Pyramid Transformer for Traffic Sign Detection", arXiv, 2022 (*Iran University of Science and Technology*). [[Paper](https://arxiv.org/abs/2207.06067)]
 * Trajectory Prediction:
     * **mmTransformer**: "Multimodal Motion Prediction with Stacked Transformers", CVPR, 2021 (*CUHK + SenseTime*). [[Paper](https://arxiv.org/abs/2103.11624)][[Code (in construction)](https://github.com/decisionforce/mmTransformer)][[Website](https://decisionforce.github.io/mmTransformer/)]
     * **AgentFormer**: "AgentFormer: Agent-Aware Transformers for Socio-Temporal Multi-Agent Forecasting", ICCV, 2021 (*CMU*). [[Paper](https://arxiv.org/abs/2103.14023)][[PyTorch](https://github.com/Khrylx/AgentFormer)][[Website](https://www.ye-yuan.com/agentformer/)]
@@ -2126,8 +2134,10 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **Scene-Transformer**: "Scene Transformer: A unified architecture for predicting multiple agent trajectories", ICLR, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2106.08417)]
     * **ST-MR**: "Graph-based Spatial Transformer with Memory Replay for Multi-Future Pedestrian Trajectory Prediction", CVPR, 2022 (*University of New South Wales, Australia*). [[Paper](https://arxiv.org/abs/2206.05712)][[Tensorflow](https://github.com/Jacobieee/ST-MR)]
     * **HiVT**: "HiVT: Hierarchical Vector Transformer for Multi-Agent Motion Prediction", CVPR, 2022 (*CUHK*). [[Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Zhou_HiVT_Hierarchical_Vector_Transformer_for_Multi-Agent_Motion_Prediction_CVPR_2022_paper.html)]
+    * **EF-Transformer**: "Entry-Flipped Transformer for Inference and Prediction of Participant Behavior", ECCV, 2022 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2207.06235)]
     * **LatentFormer**: "LatentFormer: Multi-Agent Transformer-Based Interaction Modeling and Trajectory Prediction", arXiv, 2022 (*Huawei*). [[Paper](https://arxiv.org/abs/2203.01880)]
     * **PreTR**: "PreTR: Spatio-Temporal Non-Autoregressive Trajectory Prediction Transformer", arXiv, 2022 (*Stellantis, France*). [[Paper](https://arxiv.org/abs/2203.09293)]
+    * **Wayformer**: "Wayformer: Motion Forecasting via Simple & Efficient Attention Networks", arXiv, 2022 (*Waymo*). [[Paper](https://arxiv.org/abs/2207.05844)]
 * Visual Quality Assessment:
     * **TRIQ**: "Transformer for Image Quality Assessment", arXiv, 2020 (*NORCE*). [[Paper](https://arxiv.org/abs/2101.01097)][[Tensorflow-Keras](https://github.com/junyongyou/triq)]
     * **IQT**: "Perceptual Image Quality Assessment with Transformers", CVPRW, 2021 (*LG*). [[Paper](https://arxiv.org/abs/2104.14730)][[Code (in construction)](https://github.com/manricheon/IQT)]
@@ -2147,6 +2157,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **ACTOR**: "Action-Conditioned 3D Human Motion Synthesis with Transformer VAE", ICCV, 2021 (*Univ Gustave Eiffel*). [[Paper](https://arxiv.org/abs/2104.05670)][[PyTorch](https://github.com/Mathux/ACTOR)][[Website](https://imagine.enpc.fr/~petrovim/actor/)]
     * **RTVAE**: "Recurrent Transformer Variational Autoencoders for Multi-Action Motion Synthesis", CVPRW, 2022 (*Amazon*). [[Paper](https://arxiv.org/abs/2206.06741)]
     * **ActFormer**: "ActFormer: A GAN Transformer Framework towards General Action-Conditioned 3D Human Motion Generation", arXiv, 2022 (*SenseTime*). [[Paper](https://arxiv.org/abs/2203.07706)]
+    * **?**: "Diverse Dance Synthesis via Keyframes with Transformer Controllers", arXiv, 2022 (*Beihang University*). [[Paper](https://arxiv.org/abs/2207.05906)]
 * 3D Object Recognition:
     * **MVT**: "MVT: Multi-view Vision Transformer for 3D Object Recognition", BMVC, 2021 (*Baidu*). [[Paper](https://arxiv.org/abs/2110.13083)]
 * 3D Reconstruction:
