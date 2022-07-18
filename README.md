@@ -296,6 +296,7 @@ Feel free to share this list with others!
 * **MaiT**: "MaiT: Leverage Attention Masks for More Efficient Image Transformers", arXiv, 2022 (*Samsung*). [[Paper](https://arxiv.org/abs/2207.03006)]
 * **LightViT**: "LightViT: Towards Light-Weight Convolution-Free Vision Transformers", arXiv, 2022 (*SenseTime*). [[Paper](https://arxiv.org/abs/2207.05557)][[Code (in construction)](https://github.com/hunto/LightViT)]
 * **Next-ViT**: "Next-ViT: Next Generation Vision Transformer for Efficient Deployment in Realistic Industrial Scenarios", arXiv, 2022 (*ByteDance*). [[Paper](https://arxiv.org/abs/2207.05501)]
+* **XFormer**: "Lightweight Vision Transformer with Cross Feature Attention", arXiv, 2022 (*Samsung*). [[Paper](https://arxiv.org/pdf/2207.07268.pdf)]
 #### Conv + Transformer
 * **LeViT**: "LeViT: a Vision Transformer in ConvNet's Clothing for Faster Inference", ICCV, 2021 (*Facebook*). [[Paper](https://arxiv.org/abs/2104.01136)][[PyTorch](https://github.com/facebookresearch/LeViT)]
 * **CeiT**: "Incorporating Convolution Designs into Visual Transformers", ICCV, 2021 (*SenseTime*). [[Paper](https://arxiv.org/abs/2103.11816)][[PyTorch (rishikksh20)](https://github.com/rishikksh20/CeiT)]
@@ -449,6 +450,8 @@ Feel free to share this list with others!
 * **MS-MLP**: "Mixing and Shifting: Exploiting Global and Local Dependencies in Vision MLPs", arXiv, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2202.06510)]
 * **ActiveMLP**: "ActiveMLP: An MLP-like Architecture with Active Token Mixer", arXiv, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2203.06108)]
 * **MDMLP**: "MDMLP: Image Classification from Scratch on Small Datasets with MLP", arXiv, 2022 (*Jiangsu University*). [[Paper](https://arxiv.org/abs/2205.14477)][[PyTorch](https://github.com/Amoza-Theodore/MDMLP)]
+* **PosMLP**: "Parameterization of Cross-Token Relations with Relative Positional Encoding for Vision MLP", arXiv, 2022 (*University of Science and Technology
+of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github.com/Zhicaiwww/PosMLP)]
 #### Other Attention-Free
 * **PoolFormer**: "MetaFormer is Actually What You Need for Vision", CVPR, 2022 (*Sea AI Lab*). [[Paper](https://arxiv.org/abs/2111.11418)][[PyTorch](https://github.com/sail-sg/poolformer)]
 * **FocalNet**: "Focal Modulation Networks", arXiv, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2203.11926)][[PyTorch](https://github.com/microsoft/FocalNet)]
@@ -565,6 +568,7 @@ Feel free to share this list with others!
 [[Back to Overview](#overview)]
 
 ### Multi-Modal Detection
+* **OVR-CNN**: "Open-Vocabulary Object Detection Using Captions", CVPR, 2021 (*Snap*). [[Paper](https://arxiv.org/abs/2011.10678)][[PyTorch](https://github.com/alirezazareian/ovr-cnn)]
 * **MDETR**: "MDETR - Modulated Detection for End-to-End Multi-Modal Understanding", ICCV, 2021 (*NYU*). [[Paper](https://arxiv.org/abs/2104.12763)][[PyTorch](https://github.com/ashkamath/mdetr)][[Website](https://ashkamath.github.io/mdetr_page/)]
 * **FETNet**: "FETNet: Feature Exchange Transformer Network for RGB-D Object Detection", BMVC, 2021 (*Tsinghua*). [[Paper](https://www.bmvc2021-virtualconference.com/assets/papers/1400.pdf)]
 * **MEDUSA**: "Exploiting Scene Depth for Object Detection with Multimodal Transformers", BMVC, 2021 (*Google*). [[Paper](https://www.bmvc2021-virtualconference.com/assets/papers/0568.pdf)][[PyTorch](https://github.com/songhwanjun/MEDUSA)]
@@ -874,6 +878,7 @@ Feel free to share this list with others!
     * **MMT-NCRC**: "Multimodal Transformer for Nursing Activity Recognition", CVPRW, 2022 (*UCF*). [[Paper](https://arxiv.org/abs/2204.04564)][[Code (in construction)](https://github.com/Momilijaz96/MMT_for_NCRC)]
     * **M&M**: "M&M Mix: A Multimodal Multiview Transformer Ensemble", CVPRW, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2206.09852)]
     * **MVFT**: "Multi-View Fusion Transformer for Sensor-Based Human Activity Recognition", arXiv, 2022 (*Alibaba*). [[Paper](https://arxiv.org/abs/2202.12949)]
+    * **MOV**: "Multimodal Open-Vocabulary Video Classification via Pre-Trained Vision and Language Models", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2207.07646)]
 * Group Activity:
     * **GroupFormer**: "GroupFormer: Group Activity Recognition with Clustered Spatial-Temporal Transformer", ICCV, 2021 (*Sensetime*). [[Paper](https://arxiv.org/abs/2108.12630)]
     * **?**: "Hunting Group Clues with Transformers for Social Group Activity Recognition", ECCV, 2022 (*Hitachi*). [[Paper](https://arxiv.org/abs/2207.05254)]
@@ -1154,6 +1159,7 @@ Feel free to share this list with others!
 * **X-Pool**: "X-Pool: Cross-Modal Language-Video Attention for Text-Video Retrieval", CVPR, 2022 (*Layer 6 AI, Toronto*). [[Paper](https://arxiv.org/abs/2203.15086)][[PyTorch](https://github.com/layer6ai-labs/xpool)][[Website](https://layer6ai-labs.github.io/xpool/)]
 * **MVPt**: "It's Time for Artistic Correspondence in Music and Video", CVPR, 2022 (*Adobe*). [[Paper](https://arxiv.org/abs/2206.07148)][[Website](https://musicforvideo.cs.columbia.edu/)]
 * **CenterCLIP**: "CenterCLIP: Token Clustering for Efficient Text-Video Retrieval", SIGIR, 2022 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2205.00823)]
+* **X-CLIP**: "X-CLIP: End-to-End Multi-grained Contrastive Learning for Video-Text Retrieval", ACMMM, 2022 (*Alibaba*). [[Paper](https://arxiv.org/abs/2207.07285)]
 * **BridgeFormer**: "BridgeFormer: Bridging Video-text Retrieval with Multiple Choice Questions", arXiv, 2022 (*HKU*). [[Paper](https://arxiv.org/abs/2201.04850)][[Website](https://geyuying.github.io/MCQ.html)]
 * **LoopITR**: "LoopITR: Combining Dual and Cross Encoder Architectures for Image-Text Retrieval", arXiv, 2022 (*UNC*). [[Paper](https://arxiv.org/abs/2203.05465)]
 * **MDMMT-2**: "MDMMT-2: Multidomain Multimodal Transformer for Video Retrieval, One More Step Towards Generalization", arXiv, 2022 (*Huawei*). [[Paper](https://arxiv.org/abs/2203.07086)]
@@ -1589,6 +1595,7 @@ Feel free to share this list with others!
 * **TATT**: "A Text Attention Network for Spatial Deformation Robust Scene Text Image Super-resolution", CVPR, 2022 (*The Hong Kong Polytechnic University*). [[Paper](https://arxiv.org/abs/2203.09388)][[PyTorch](https://github.com/mjq11302010044/TATT)]
 * **KiT**: "KNN Local Attention for Image Restoration", CVPR, 2022 (*Yonsei University*). [[Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Lee_KNN_Local_Attention_for_Image_Restoration_CVPR_2022_paper.html)]
 * **LBNet**: "Lightweight Bimodal Network for Single-Image Super-Resolution via Symmetric CNN and Recursive Transformer", IJCAI, 2022 (*Nanjing University of Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2204.13286)][[PyTorch (in construction)](https://github.com/IVIPLab/LBNet)]
+* **PTNet**: "Learning Parallax Transformer Network for Stereo Image JPEG Artifacts Removal", ACMMM, 2022 (*Fudan University*). [[Paper](https://arxiv.org/abs/2207.07335)]
 * **LFT**: "Light Field Image Super-Resolution with Transformers", IEEE Signal Processing Letters, 2022 (*National University of Defense Technology, China*). [[Paper](https://arxiv.org/abs/2108.07597)][[PyTorch](https://github.com/ZhengyuLiang24/LFT)]
 * **ELAN**: "Efficient Long-Range Attention Network for Image Super-resolution", arXiv, 2022 (*The Hong Kong Polytechnic University*). [[Paper](https://arxiv.org/abs/2203.06697)][[Code (in construction)](https://github.com/xindongzhang/ELAN)]
 * **ACT**: "Rich CNN-Transformer Feature Aggregation Networks for Super-Resolution", arXiv, 2022 (*LG*). [[Paper](https://arxiv.org/abs/2203.07682)]
@@ -1852,6 +1859,7 @@ Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2204.08696)]
 * **LViT**: "LViT: Language meets Vision Transformer in Medical Image Segmentation", arXiv, 2022 (*Alibaba*). [[Paper](https://arxiv.org/abs/2206.14718)][[Code (in construction)](https://github.com/HUANGLIZI/LViT)]
 * **APFormer**: "The Lighter The Better: Rethinking Transformers in Medical Image Segmentation Through Adaptive Pruning", arXiv, 2022 (*Huazhong University of Science and Technology*). [[Paper](https://arxiv.org/abs/2206.14413)][[PyTorch](https://github.com/xianlin7/APFormer)]
 * **?**: "Transformer based Models for Unsupervised Anomaly Segmentation in Brain MR Images", arXiv, 2022 (*University of Rennes, France*). [[Paper](https://arxiv.org/abs/2207.02059)][[Tensorflow](https://github.com/ahmedgh970/Transformers_Unsupervised_Anomaly_Segmentation)]
+* **CKD-TransBTS**: "CKD-TransBTS: Clinical Knowledge-Driven Hybrid Transformer with Modality-Correlated Cross-Attention for Brain Tumor Segmentation", arXiv, 2022 (*South China University of Technology*). [[Paper](https://arxiv.org/abs/2207.07370)]
 
 [[Back to Overview](#overview)]
 
