@@ -1145,6 +1145,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **Bridge-Tower**: "Bridge-Tower: Building Bridges Between Encoders in Vision-Language Representation Learning", arXiv, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2206.08657)][[Code (in construction)](https://github.com/microsoft/BridgeTower)]
 * **e-CLIP**: "e-CLIP: Large-Scale Vision-Language Representation Learning in E-commerce", arXiv, 2022 (*NAVER*). [[Paper](https://arxiv.org/abs/2207.00208)]
 * **LAVENDER**: "LAVENDER: Unifying Video-Language Understanding as Masked Language Modeling", arXiv, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2206.07160)][[Code (in construction)](https://github.com/microsoft/LAVENDER)]
+* **Clover**: "Clover: Towards A Unified Video-Language Alignment and Fusion Model", arXiv, 2022 (*ByteDance*). [[Paper](https://arxiv.org/abs/2207.07885)][[PyTorch (in construction)](https://github.com/LeeYN-43/Clover)]
 
 [[Back to Overview](#overview)]
 
@@ -1166,6 +1167,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **MVPt**: "It's Time for Artistic Correspondence in Music and Video", CVPR, 2022 (*Adobe*). [[Paper](https://arxiv.org/abs/2206.07148)][[Website](https://musicforvideo.cs.columbia.edu/)]
 * **CenterCLIP**: "CenterCLIP: Token Clustering for Efficient Text-Video Retrieval", SIGIR, 2022 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2205.00823)]
 * **X-CLIP**: "X-CLIP: End-to-End Multi-grained Contrastive Learning for Video-Text Retrieval", ACMMM, 2022 (*Alibaba*). [[Paper](https://arxiv.org/abs/2207.07285)]
+* **TS2-Net**: "TS2-Net: Token Shift and Selection Transformer for Text-Video Retrieval", ECCV, 2022 (*Tencent*). [[Paper](https://arxiv.org/abs/2207.07852)][[PyTorch](https://github.com/yuqi657/ts2_net)]
 * **BridgeFormer**: "BridgeFormer: Bridging Video-text Retrieval with Multiple Choice Questions", arXiv, 2022 (*HKU*). [[Paper](https://arxiv.org/abs/2201.04850)][[Website](https://geyuying.github.io/MCQ.html)]
 * **LoopITR**: "LoopITR: Combining Dual and Cross Encoder Architectures for Image-Text Retrieval", arXiv, 2022 (*UNC*). [[Paper](https://arxiv.org/abs/2203.05465)]
 * **MDMMT-2**: "MDMMT-2: Multidomain Multimodal Transformer for Video Retrieval, One More Step Towards Generalization", arXiv, 2022 (*Huawei*). [[Paper](https://arxiv.org/abs/2203.07086)]
@@ -1603,6 +1605,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **KiT**: "KNN Local Attention for Image Restoration", CVPR, 2022 (*Yonsei University*). [[Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Lee_KNN_Local_Attention_for_Image_Restoration_CVPR_2022_paper.html)]
 * **LBNet**: "Lightweight Bimodal Network for Single-Image Super-Resolution via Symmetric CNN and Recursive Transformer", IJCAI, 2022 (*Nanjing University of Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2204.13286)][[PyTorch (in construction)](https://github.com/IVIPLab/LBNet)]
 * **PTNet**: "Learning Parallax Transformer Network for Stereo Image JPEG Artifacts Removal", ACMMM, 2022 (*Fudan University*). [[Paper](https://arxiv.org/abs/2207.07335)]
+* **CharFormer**: "CharFormer: A Glyph Fusion based Attentive Framework for High-precision Character Image Denoising", ACMMM, 2022 (*Jilin University*). [[Paper](https://arxiv.org/abs/2207.07798)][[PyTorch (in construction)](https://github.com/daqians/CharFormer)]
 * **LFT**: "Light Field Image Super-Resolution with Transformers", IEEE Signal Processing Letters, 2022 (*National University of Defense Technology, China*). [[Paper](https://arxiv.org/abs/2108.07597)][[PyTorch](https://github.com/ZhengyuLiang24/LFT)]
 * **ELAN**: "Efficient Long-Range Attention Network for Image Super-resolution", arXiv, 2022 (*The Hong Kong Polytechnic University*). [[Paper](https://arxiv.org/abs/2203.06697)][[Code (in construction)](https://github.com/xindongzhang/ELAN)]
 * **ACT**: "Rich CNN-Transformer Feature Aggregation Networks for Super-Resolution", arXiv, 2022 (*LG*). [[Paper](https://arxiv.org/abs/2203.07682)]
@@ -1748,6 +1751,7 @@ Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2204.08696)]
     * **PanFormer**: "PanFormer: a Transformer Based Model for Pan-sharpening", ICME, 2022 (*Beihang University*). [[Paper](https://arxiv.org/abs/2203.02916)][[PyTorch](https://github.com/zhysora/PanFormer)]
     * **URSCT-UIE**: "Reinforced Swin-Convs Transformer for Underwater Image Enhancement", arXiv, 2022 (*Ningbo University*). [[Paper](https://arxiv.org/abs/2205.00434)]
     * **IAT**: "Illumination Adaptive Transformer", arXiv, 2022 (*The University of Tokyo*). [[Paper](https://arxiv.org/abs/2205.14871)][[PyTorch](https://github.com/cuiziteng/Illumination-Adaptive-Transformer)]
+    * **SPGAT**: "Structural Prior Guided Generative Adversarial Transformers for Low-Light Image Enhancement", arXiv, 2022 (*The Hong Kong Polytechnic University*). [[Paper](https://arxiv.org/abs/2207.07828)]
 * Harmonization:
     * **HT**: "Image Harmonization With Transformer", ICCV, 2021 (*Ocean University of China*). [[Paper](https://openaccess.thecvf.com/content/ICCV2021/html/Guo_Image_Harmonization_With_Transformer_ICCV_2021_paper.html)]
 * Compression:
@@ -1918,6 +1922,7 @@ Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2204.08696)]
 * **SDAUT**: "Swin Deformable Attention U-Net Transformer (SDAUT) for Explainable Fast MRI", MICCAI, 2022 (*ICL*). [[Paper](https://arxiv.org/abs/2207.02390)]
 * **?**: "Adaptively Re-weighting Multi-Loss Untrained Transformer for Sparse-View Cone-Beam CT Reconstruction", arXiv, 2022 (*Zhejiang Lab*). [[Paper](https://arxiv.org/abs/2203.12476)]
 * **K-Space-Transformer**: "K-Space Transformer for Fast MRI Reconstruction with Implicit Representation", arXiv, 2022 (*Shanghai Jiao Tong University*). [[Paper](https://arxiv.org/abs/2206.06947)][[Code (in construction)](https://github.com/zhaoziheng/K-Space-Transformer)][[Website](https://zhaoziheng.github.io/Website/K-Space-Transformer/)]
+* **McSTRA**: "Multi-head Cascaded Swin Transformers with Attention to k-space Sampling Pattern for Accelerated MRI Reconstruction", arXiv, 2022 (*Monash University, Australia*). [[Paper](https://arxiv.org/abs/2207.08412)]
 
 [[Back to Overview](#overview)]
 
@@ -1979,6 +1984,8 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
 ## Other Tasks
 * Active Learning:
     * **TJLS**: "Visual Transformer for Task-aware Active Learning", arXiv, 2021 (*ICL*). [[Paper](https://arxiv.org/abs/2106.03801)][[PyTorch](https://github.com/razvancaramalau/Visual-Transformer-for-Task-aware-Active-Learning)]
+* Agriculture:
+    * **PlantXViT**: "Explainable vision transformer enabled convolutional neural network for plant disease identification: PlantXViT", arXiv, 2922 (*Indian Institute of Information Technology*). [[Paper](https://arxiv.org/abs/2207.07919)]
 * Animation-related:
     * **AnT**: "The Animation Transformer: Visual Correspondence via Segment Matching", ICCV, 2021 (*Cadmium*). [[Paper](https://arxiv.org/abs/2109.02614)]
     * **AniFormer**: "AniFormer: Data-driven 3D Animation with Transformer", BMVC, 2021 (*University of Oulu, Finland*). [[Paper](https://arxiv.org/abs/2110.10533)][[PyTorch](https://github.com/mikecheninoulu/AniFormer)]
@@ -2024,6 +2031,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **CIT**: "Cloth Interactive Transformer for Virtual Try-On", arXiv, 2021 (*University of Trento*). [[Paper](https://arxiv.org/abs/2104.05519)][[Code (in construction)](https://github.com/Amazingren/CIT)]
     * **ClothFormer**: "ClothFormer: Taming Video Virtual Try-on in All Module", CVPR, 2022 (*iQIYI*). [[Paper](https://arxiv.org/abs/2204.12151)][[Website](https://cloth-former.github.io/)]
     * **FashionVLP**: "FashionVLP: Vision Language Transformer for Fashion Retrieval With Feedback", CVPR, 2022 (*Amazon*). [[Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Goenka_FashionVLP_Vision_Language_Transformer_for_Fashion_Retrieval_With_Feedback_CVPR_2022_paper.html)]
+    * **FashionViL**: "FashionViL: Fashion-Focused Vision-and-Language Representation Learning", ECCV, 2022 (*University of Surrey, UK*). [[Paper](https://arxiv.org/abs/2207.08150)][[PyTorch](https://github.com/BrandonHanx/mmf)]
     * **OutfitTransformer**: "OutfitTransformer: Learning Outfit Representations for Fashion Recommendation", arXiv, 2022 (*Amazon*). [[Paper](https://arxiv.org/abs/2204.04812)]
     * **Fashionformer**: "Fashionformer: A simple, Effective and Unified Baseline for Human Fashion Segmentation and Recognition", arXiv, 2022 (*Peking*). [[Paper](https://arxiv.org/abs/2204.04654)][[Code (in construction)](https://github.com/xushilin1/FashionFormer)]
 * Feature Matching:
@@ -2118,6 +2126,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **BeT**: "Behavior Transformers: Cloning k modes with one stone", arXiv, 2022 (*NYU*). [[Paper](https://arxiv.org/abs/2206.11251)][[PyTorch](https://github.com/notmahi/bet)]
 * Satellite:
     * **Satellite-ViT**: "Manipulation Detection in Satellite Images Using Vision Transformer", arXiv, 2021 (*Purdue*). [[Paper](https://arxiv.org/abs/2105.06373)]
+    * **SatMAE**: "SatMAE: Pre-training Transformers for Temporal and Multi-Spectral Satellite Imagery", arXiv, 2022 (*Stanford*). [[Paper](https://arxiv.org/abs/2207.08051)]
 * Scene Decomposition:
     * **SRT**: "Scene Representation Transformer: Geometry-Free Novel View Synthesis Through Set-Latent Scene Representations", CVPR, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2111.13152)][[PyTorch (stelzner)](https://github.com/stelzner/srt)][[Website](https://srt-paper.github.io/)]
     * **OSRT**: "Object Scene Representation Transformer", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2206.06922)][[Website](https://osrt-paper.github.io/)]
@@ -2142,6 +2151,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **Crossview-Transformer**: "Cross-view Transformers for real-time Map-view Semantic Segmentation", CVPR, 2022 (*UT Austin*). [[Paper](https://arxiv.org/abs/2205.02833)][[PyTorch](https://github.com/bradyz/cross_view_transformers)]
     * **ViT-BEVSeg**: "ViT-BEVSeg: A Hierarchical Transformer Network for Monocular Birds-Eye-View Segmentation", IJCNN, 2022 (*Maynooth University, Ireland*). [[Paper](https://arxiv.org/abs/2205.15667)][[Code (in construction)](https://github.com/robotvisionmu/ViT-BEVSeg)]
     * **BEVFormer**: "BEVFormer: Learning Bird's-Eye-View Representation from Multi-Camera Images via Spatiotemporal Transformers", ECCV, 2022 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2203.17270)][[PyTorch](https://github.com/zhiqi-li/BEVFormer)]
+    * **JPerceiver**: "JPerceiver: Joint Perception Network for Depth, Pose and Layout Estimation in Driving Scenes", ECCV, 2022 (*The University of Sydney*). [[Paper](https://arxiv.org/abs/2207.07895)][[PyTorch](https://github.com/sunnyHelen/JPerceiver)]
     * **BEVSegFormer**: "BEVSegFormer: Bird's Eye View Semantic Segmentation From Arbitrary Camera Rigs", arXiv, 2022 (*Nullmax, China*). [[Paper](https://arxiv.org/abs/2203.04050)]
     * **V2X-ViT**: "V2X-ViT: Vehicle-to-Everything Cooperative Perception with Vision Transformer", arXiv, 2022 (*UCLA*). [[Paper](https://arxiv.org/abs/2203.10638)]
     * **ParkPredict+**: "ParkPredict+: Multimodal Intent and Motion Prediction for Vehicles in Parking Lots with CNN and Transformer", arXiv, 2022 (*Berkeley*). [[Paper](https://arxiv.org/abs/2204.10777)]
@@ -2297,6 +2307,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
 * **?**: "Choose a Transformer: Fourier or Galerkin", NeurIPS, 2021 (*Washington University, St. Louis*). [[Paper](https://arxiv.org/abs/2105.14995)]
 * **NPT**: "Self-Attention Between Datapoints: Going Beyond Individual Input-Output Pairs in Deep Learning", arXiv, 2021 (*Oxford*). [[Paper](https://arxiv.org/abs/2106.02584)]
 * **FEDformer**: "FEDformer: Frequency Enhanced Decomposed Transformer for Long-term Series Forecasting", ICML, 2022 (*Alibaba*). [[Paper](https://arxiv.org/abs/2201.12740)][[PyTorch](https://github.com/DAMO-DI-ML/ICML2022-FEDformer)]
+* **?**: "Generalizable Memory-driven Transformer for Multivariate Long Sequence Time-series Forecasting", arXiv, 2022 (*University of Technology Sydney*). [[Paper](https://arxiv.org/abs/2207.07827)]
 
 [[Back to Overview](#overview)]
 
