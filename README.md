@@ -957,6 +957,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **MS-STS**: "Video Instance Segmentation via Multi-scale Spatio-temporal Split Attention Transformer", arXiv, 2022 (*MBZUAI*). [[Paper](https://arxiv.org/abs/2203.13253)][[Code (in construction)](https://github.com/OmkarThawakar/MSSTS-VIS)]
 * **VITA**: "VITA: Video Instance Segmentation via Object Token Association", arXiv, 2022 (*Yonsei University*). [[Paper](https://arxiv.org/abs/2206.04403)][[Code (in construction)](https://github.com/sukjunhwang/VITA)]
 * **IFR**: "Consistent Video Instance Segmentation with Inter-Frame Recurrent Attention", arXiv, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2206.07011)]
+* **DeVIS**: "DeVIS: Making Deformable Transformers Work for Video Instance Segmentation", arXiv, 2022 (*TUM*). [[Paper](https://arxiv.org/abs/2207.11103)][[PyTorch](https://github.com/acaelles97/DeVIS)]
 
 [[Back to Overview](#overview)]
 
@@ -1344,6 +1345,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **VN-Transformer**: "VN-Transformer: Rotation-Equivariant Attention for Vector Neurons", arXiv, 2022 (*Waymo*). [[Paper](https://arxiv.org/abs/2206.04176)]
 * **Voxel-MAE**: "Masked Autoencoders for Self-Supervised Learning on Automotive Point Clouds", arXiv, 2022 (*Chalmers University of Technology, Sweden*). [[Paper](https://arxiv.org/abs/2207.00531)]
 * **MAE3D**: "Masked Autoencoders in 3D Point Cloud Representation Learning", arXiv, 2022 (*Northwest A&F University, China*). [[Paper](https://arxiv.org/abs/2207.01545)]
+* **Geodesic-Former**: "Geodesic-Former: a Geodesic-Guided Few-shot 3D Point Cloud Instance Segmenter", arXiv, 2022 (*VinAI Research, Vietnam*). [[Paper](https://arxiv.org/abs/2207.10859)]
 
 [[Back to Overview](#overview)]
 
@@ -1822,6 +1824,7 @@ Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2204.08696)]
 * **DUET**: "Think Global, Act Local: Dual-scale Graph Transformer for Vision-and-Language Navigation", CVPR, 2022 (*INRIA*). [[Paper](https://arxiv.org/abs/2202.11742)][[Website](https://cshizhe.github.io/projects/vln_duet.html)]
 * **LSA**: "Local Slot Attention for Vision-and-Language Navigation", ICMR, 2022 (*Fudan*). [[Paper](https://arxiv.org/abs/2206.08645)]
 * **TransFuser**: "TransFuser: Imitation with Transformer-Based Sensor Fusion for Autonomous Driving", arXiv, 2022 (*MPI*). [[Paper](https://arxiv.org/abs/2205.15997)]
+* **TD-STP**: "Target-Driven Structured Transformer Planner for Vision-Language Navigation", arXiv, 2022 (*Beihang University*). [[Paper](https://arxiv.org/abs/2207.11201)][[Code (in construction)](https://github.com/YushengZhao/TD-STP)]
 
 [[Back to Overview](#overview)]
 
@@ -1939,6 +1942,7 @@ Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2204.08696)]
 * **CAE-Transformer**: "CAE-Transformer: Transformer-based Model to Predict Invasiveness of Lung Adenocarcinoma Subsolid Nodules from Non-thin Section 3D CT Scans", arXiv, 2021 (*Concordia University, Canada*). [[Paper](https://arxiv.org/abs/2110.08721)]
 * **DATR**: "DATR: Domain-adaptive transformer for multi-domain landmark detection", arXiv, 2022 (*CAS*). [[Paper](https://arxiv.org/abs/2203.06433)]
 * **SATr**: "SATr: Slice Attention with Transformer for Universal Lesion Detection", arXiv, 2022 (*CAS*). [[Paper](https://arxiv.org/abs/2203.07373)]
+* **Focused-Decoder**: "Focused Decoding Enables 3D Anatomical Detection by Transformers", arXiv, 2022 (*TUM*). [[Paper](https://arxiv.org/abs/2207.10774)][[PyTorch](https://github.com/bwittmann/transoar)]
 
 [[Back to Overview](#overview)]
 
