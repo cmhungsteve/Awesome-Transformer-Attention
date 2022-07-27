@@ -532,6 +532,8 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **DFFT**: "Efficient Decoder-free Object Detection with Transformers", arXiv, 2022 (*Tencent*). [[Paper](https://arxiv.org/abs/2206.06829)]
     * **TCC**: "Transformer-based Context Condensation for Boosting Feature Pyramids in Object Detection", arXiv, 2022 (*The University of Sydney*). [[Paper](https://arxiv.org/abs/2207.06603)]
     * **Conditional-DETR-V2**: "Conditional DETR V2: Efficient Detection Transformer with Box Queries", arXiv, 2022 (*Peking University*). [[Paper](https://arxiv.org/abs/2207.08914)]
+    * **Group-DETR**: "Group DETR: Fast Training Convergence with Decoupled One-to-Many Label Assignment", arXiv, 2022 (*Baidu*). [[Paper](https://arxiv.org/abs/2207.13085)]
+    * **H-DETR**: "DETRs with Hybrid Matching", arXiv, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2207.13080)]
 * Transformer-based backbone:
     * **ViT-FRCNN**: "Toward Transformer-Based Object Detection", arXiv, 2020 (*Pinterest*). [[Paper](https://arxiv.org/abs/2012.09958)]
     * **WB-DETR**: "WB-DETR: Transformer-Based Detector Without Backbone", ICCV, 2021 (*CAS*). [[Paper](https://openaccess.thecvf.com/content/ICCV2021/html/Liu_WB-DETR_Transformer-Based_Detector_Without_Backbone_ICCV_2021_paper.html)]
@@ -574,7 +576,8 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **Graph-DETR3D**: "Graph-DETR3D: Rethinking Overlapping Regions for Multi-View 3D Object Detection", arXiv, 2022 (*University of Science and Technology of China*). [[Paper](https://arxiv.org/abs/2204.11582)]
 * **UVTR**: "Unifying Voxel-based Representation with Transformer for 3D Object Detection", arXiv, 2022 (*CUHK*). [[Paper](https://arxiv.org/abs/2206.00630)][[PyTorch](https://github.com/dvlab-research/UVTR)]
 * **PETRv2**: "PETRv2: A Unified Framework for 3D Perception from Multi-Camera Images", arXiv, 2022 (*Megvii*). [[Paper](https://arxiv.org/abs/2206.01256)]
-**PolarFormer**: "PolarFormer: Multi-camera 3D Object Detection with Polar Transformer", arXiv, 2022 (*Fudan University*). [[Paper](https://arxiv.org/abs/2206.15398#)][[Code (in construction)](https://github.com/fudan-zvg/PolarFormer)]
+* **PolarFormer**: "PolarFormer: Multi-camera 3D Object Detection with Polar Transformer", arXiv, 2022 (*Fudan University*). [[Paper](https://arxiv.org/abs/2206.15398#)][[Code (in construction)](https://github.com/fudan-zvg/PolarFormer)]
+* **AST-GRU**: "Graph Neural Network and Spatiotemporal Transformer Attention for 3D Video Object Detection from Point Clouds", arXiv, 2022 (*Beijing Institute of Technology*). [[Paper](https://arxiv.org/abs/2207.12659)]
 
 [[Back to Overview](#overview)]
 
@@ -992,6 +995,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **SCVRL**: "SCVRL: Shuffled Contrastive Video Representation Learning", CVPRW, 2022 (*Amazon*). [[Paper](https://arxiv.org/abs/2205.11710)]
     * **VideoMAE**: "VideoMAE: Masked Autoencoders are Data-Efficient Learners for Self-Supervised Video Pre-Training", CVPRW, 2022 (*Tencent*). [[Paper](https://arxiv.org/abs/2203.12602)][[Code (in construction)](https://github.com/MCG-NJU/VideoMAE)]
     * **VIMPAC**: "VIMPAC: Video Pre-Training via Masked Token Prediction and Contrastive Learning", CVPRW, 2022 (*UNC*). [[Paper](https://arxiv.org/abs/2106.11250)][[PyTorch](https://github.com/airsplay/vimpac)]
+    * **?**: "Static and Dynamic Concepts for Self-supervised Video Representation Learning", ECCV, 2022 (*CUHK*). [[Paper](https://arxiv.org/abs/2207.12795)]
     * **MAE**: "Masked Autoencoders As Spatiotemporal Learners", arXiv, 2022 (*Meta*). [[Paper](https://arxiv.org/abs/2205.09113)]
     * **OmniMAE**: "OmniMAE: Single Model Masked Pretraining on Images and Videos", arXiv, 2022 (*Meta*). [[Paper](https://arxiv.org/abs/2206.08356)][[PyTorch](https://github.com/facebookresearch/omnivore)]
     * **MaskViT**: "MaskViT: Masked Visual Pre-Training for Video Prediction", arXiv, 2022 (*Stanford*). [[Paper](https://arxiv.org/abs/2206.11894)][[Website](https://maskedvit.github.io/)]
@@ -1024,6 +1028,8 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **?**: "Action Quality Assessment using Transformers", arXiv, 2022 (*USC*). [[Paper](https://arxiv.org/abs/2207.12318)]
 * Human Interaction:
     * **IGFormer**: "IGFormer: Interaction Graph Transformer for Skeleton-based Human Interaction Recognition", ECCV, 2022 (*The University of Melbourne*). [[Paper](https://arxiv.org/abs/2207.12100)]
+* Domain Adaptation:
+    * **UDAVT**: "Unsupervised Domain Adaptation for Video Transformers in Action Recognition", ICPR, 2022 (*University of Trento*). [[Paper](https://arxiv.org/abs/2207.12842)][[Code (in construction)](https://github.com/vturrisi/UDAVT)]
 
 [[Back to Overview](#overview)]
 
@@ -1147,6 +1153,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **VLUE**: "VLUE: A Multi-Task Benchmark for Evaluating Vision-Language Models", ICML, 2022 (*ByteDance*). [[Paper](https://arxiv.org/abs/2205.15237)][[Website](https://vlue-benchmark.github.io/)][[PyTorch](https://github.com/MichaelZhouwang/VLUE)]
 * **X-VLM**: "Multi-Grained Vision Language Pre-Training: Aligning Texts with Visual Concepts", ICML, 2022 (*ByteDance*). [[Paper](https://arxiv.org/abs/2111.08276)][[PyTorch](https://github.com/zengyan-97/X-VLM)]
 * **BLIP**: "BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation", ICML, 2022 (*Salesforce*). [[Paper](https://arxiv.org/abs/2201.12086)][[PyTorch](https://github.com/salesforce/BLIP)]
+* **MS-CLIP**: "Learning Visual Representation from Modality-Shared Contrastive Language-Image Pre-training", ECCV, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2207.12661)][[PyTorch](https://github.com/Hxyou/MSCLIP)]
 * **VLMo**: "VLMo: Unified Vision-Language Pre-Training with Mixture-of-Modality-Experts", arXiv, 2022 (*Microsofot*). [[Paper](https://arxiv.org/abs/2111.02358)][[PyTorch (in construction)](https://github.com/microsoft/unilm/tree/master/vlmo)]
 * **Omnivore**: "Omnivore: A Single Model for Many Visual Modalities", arXiv, 2022 (*Meta*). [[Paper](https://arxiv.org/abs/2201.08377)][[PyTorch](https://github.com/facebookresearch/omnivore)]
 * **MultiMAE**: "MultiMAE: Multi-modal Multi-task Masked Autoencoders", arXiv, 2022 (*EPFL*). [[Paper](https://arxiv.org/abs/2204.01678)][[PyTorch](https://github.com/EPFL-VILAB/MultiMAE)][[Website](https://multimae.epfl.ch/)]
@@ -1440,6 +1447,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **HCAT**: "Efficient Visual Tracking via Hierarchical Cross-Attention Transformer", arXiv, 2022 (*Dalian University of Technology*). [[Paper](https://arxiv.org/abs/2203.13537)]
 * **?**: "Keypoints Tracking via Transformer Networks", arXiv, 2022 (*KAIST*). [[Paper](https://arxiv.org/abs/2203.12848)][[PyTorch](https://github.com/LexaNagiBator228/Keypoints-Tracking-via-Transformer-Networks/)]
 * **TranSTAM**: "Joint Spatial-Temporal and Appearance Modeling with Transformer for Multiple Object Tracking", arXiv, 2022 (*Tsinghua University*). [[Paper](https://arxiv.org/abs/2205.15495)][[PyTorch](https://github.com/icicle4/TranSTAM)]
+* **TransFiner**: "TransFiner: A Full-Scale Refinement Approach for Multiple Object Tracking", arXiv, 2022 (*China University of Geosciences*). [[Paper](https://arxiv.org/abs/2207.12967)]
 
 [[Back to Overview](#overview)]
 
@@ -1595,6 +1603,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **ADA**: "Continual Learning with Transformers for Image Classification", CVPRW, 2022 (*Amazon*). [[Paper](https://arxiv.org/abs/2206.14085)]
     * **?**: "Towards Exemplar-Free Continual Learning in Vision Transformers: an Account of Attention, Functional and Weight Regularization", CVPRW, 2022 (*Ca' Foscari University, Italy*). [[Paper](https://arxiv.org/abs/2203.13167)]
     * **COLT**: "Transformers Are Better Continual Learners", arXiv, 2022 (*Hikvision*). [[Paper](https://arxiv.org/abs/2201.04924)]
+    * **S-Prompts**: "S-Prompts Learning with Pre-trained Transformers: An Occam's Razor for Domain Incremental Learning", arXiv, 2022 (*Singapore Management University*). [[Paper](https://arxiv.org/abs/2207.12819)]
 * Knowledge Distillation:
     * **?**: "Knowledge Distillation via the Target-aware Transformer", CVPR, 2022 (*Alibaba*). [[Paper](https://arxiv.org/abs/2205.10793)]
     * **DearKD**: "DearKD: Data-Efficient Early Knowledge Distillation for Vision Transformers", CVPR, 2022 (*JD*). [[Paper](https://arxiv.org/abs/2204.12997)]
