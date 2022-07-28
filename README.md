@@ -317,6 +317,7 @@ Feel free to share this list with others!
 * **iFormer**: "Inception Transformer", arXiv, 2022 (*Sea AI Lab*). [[Paper](https://arxiv.org/abs/2205.12956)][[PyTorch](https://github.com/sail-sg/iFormer)]
 * **MoCoViT**: "MoCoViT: Mobile Convolutional Vision Transformer", arXiv, 2022 (*ByteDance*). [[Paper](https://arxiv.org/abs/2205.12635)]
 * **DynamicViT**: "Dynamic Spatial Sparsification for Efficient Vision Transformers and Convolutional Neural Networks", arXiv, 2022 (*Tsinghua University*). [[Paper](https://arxiv.org/abs/2207.01580)][[PyTorch](https://github.com/raoyongming/DynamicViT)]
+* **CETNet**: "Convolutional Embedding Makes Hierarchical Vision Transformer Stronger", arXiv, 2022 (*OPPO*). [[Paper](https://arxiv.org/abs/2207.13317)]
 #### Training + Transformer
 * **iGPT**: "Generative Pretraining From Pixels", ICML, 2020 (*OpenAI*). [[Paper](http://proceedings.mlr.press/v119/chen20s.html)][[Tensorflow](https://github.com/openai/image-gpt)]
 * **MoCo-V3**: "An Empirical Study of Training Self-Supervised Vision Transformers", ICCV, 2021 (*Facebook*). [[Paper](https://arxiv.org/abs/2104.02057)]
@@ -877,6 +878,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **MTV**: "Multiview Transformers for Video Recognition", CVPR, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2201.04288)][[Tensorflow](https://github.com/google-research/scenic/tree/main/scenic/projects/mtv)]
     * **ORViT**: "Object-Region Video Transformers", CVPR, 2022 (*Tel Aviv*). [[Paper](https://arxiv.org/abs/2110.06915)][[Website](https://roeiherz.github.io/ORViT/)]
     * **TIME**: "Time Is MattEr: Temporal Self-supervision for Video Transformers", ICML, 2022 (*KAIST*). [[Paper](https://arxiv.org/abs/2207.09067)][[PyTorch](https://github.com/alinlab/temporal-selfsupervision)]
+    * **TPS**: "Spatiotemporal Self-attention Modeling with Temporal Patch Shift for Action Recognition", ECCV, 2022 (*Alibaba*). [[Paper](https://arxiv.org/abs/2207.13259)][[Code (in construction)](https://github.com/MartinXM/TPS)]
     * **AIA**: "Attention in Attention: Modeling Context Correlation for Efficient Video Classification", TCSVT, 2022 (*University of Science and Technology of China*). [[Paper](https://arxiv.org/abs/2204.09303)][[PyTorch](https://github.com/haoyanbin918/Attention-in-Attention)]
     * **MSCA**: "Vision Transformer with Cross-attention by Temporal Shift for Efficient Action Recognition", arXiv, 2022 (*Nagoya Institute of Technology*). [[Paper](https://arxiv.org/abs/2204.00452)]
     * **SViT**: "Bringing Image Scene Structure to Video via Frame-Clip Consistency of Object Tokens", arXiv, 2022 (*Tel Aviv*). [[Paper](https://arxiv.org/abs/2206.06346)][[Website](https://eladb3.github.io/SViT/)]
@@ -1080,6 +1082,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **?**: "A Dual-Attentive Approach to Style-Based Image Captioning Using a CNN-Transformer Model", CVPRW, 2022 (*The University of the West Indies, Jamaica*). [[Paper](https://drive.google.com/file/d/1QYq69dBFMBKHYDUolZqPaermiFz67k77/view)]
 * **SpaCap3D**: "Spatiality-guided Transformer for 3D Dense Captioning on Point Clouds", IJCAI, 2022 (*University of Sydney*). [[Paper](https://arxiv.org/abs/2204.10688)][[Code (in construction)](https://github.com/heng-hw/SpaCap3D)][[Website](https://spacap3d.github.io/)]
 * **cViL**: "cViL: Cross-Lingual Training of Vision-Language Models using Knowledge Distillation", ICPR, 2022 (*IIIT, Hyderabad*). [[Paper](https://arxiv.org/abs/2206.03354)]
+* **RA-Transformer**: "Retrieval-Augmented Transformer for Image Captioning", International Conference on Content-based Multimedia Indexing (CMBI), 2022 (*University of Modena and Reggio Emilia, Italy*). [[Paper](https://arxiv.org/abs/2207.13162)]
 * **GRIT**: "GRIT: Faster and Better Image captioning Transformer Using Dual Visual Features", ECCV, 2022 (*Tohoku University + RIKEN AIP*). [[Paper](https://arxiv.org/abs/2207.09666)][[PyTorch (in construction)](https://github.com/davidnvq/grit)]
 * **?**: "Weakly Supervised Grounding for VQA in Vision-Language Transformers", ECCV, 2022 (*UCF*). [[Paper](https://arxiv.org/abs/2207.02334)][[PyTorch (in construction)](https://github.com/aurooj/WSG-VQA-VLTransformers)]
 * **VGT**: "Video Graph Transformer for Video Question Answering", ECCV, 2022 (*Sea AI Lab*). [[Paper](https://arxiv.org/abs/2207.05342)]
@@ -1116,6 +1119,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **M-DGT**: "Multi-Modal Dynamic Graph Transformer for Visual Grounding", CVPR, 2022 (*University of Toronto*). [[Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Chen_Multi-Modal_Dynamic_Graph_Transformer_for_Visual_Grounding_CVPR_2022_paper.html)][[PyTorch](https://github.com/iQua/M-DGT)]
 * **QRNet**: "Shifting More Attention to Visual Backbone: Query-modulated Refinement Networks for End-to-End Visual Grounding", CVPR, 2022 (*East China Normal University*). [[Paper](https://arxiv.org/abs/2203.15442)][[PyTorch](https://github.com/LukeForeverYoung/QRNet)]
 * **STVGFormer**: "STVGFormer: Spatio-Temporal Video Grounding with Static-Dynamic Cross-Modal Understanding", ACMMMW, 2022 (*Sun Yat-sen University*). [[Paper](https://arxiv.org/abs/2207.02756)]
+* **SiRi**: "SiRi: A Simple Selective Retraining Mechanism for Transformer-based Visual Grounding", ECCV, 2022 (*JD*). [[Paper](https://arxiv.org/abs/2207.13325)][[PyTorch](https://github.com/qumengxue/siri-vg)]
 * **VidGTR**: "Explore and Match: End-to-End Video Grounding with Transformer", arXiv, 2022 (*KAIST*). [[Paper](https://arxiv.org/abs/2201.10168)]
 * **SeqTR**: "SeqTR: A Simple yet Universal Network for Visual Grounding", arXiv, 2022 (*Xiamen University*). [[Paper](https://arxiv.org/abs/2203.16265)][[Code (in construction)](https://github.com/sean-zhuh/SeqTR)]
 * **BEST**: "Visual Clues: Bridging Vision and Language Foundations for Image Paragraph Captioning", arXiv, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2206.01843)]
@@ -1602,6 +1606,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **?**: "Simpler is Better: off-the-shelf Continual Learning Through Pretrained Backbones", CVPRW, 2022 (*Ca' Foscari University, Italy*). [[Paper](https://arxiv.org/abs/2205.01586)][[PyTorch](https://github.com/francesco-p/off-the-shelf-cl)]
     * **ADA**: "Continual Learning with Transformers for Image Classification", CVPRW, 2022 (*Amazon*). [[Paper](https://arxiv.org/abs/2206.14085)]
     * **?**: "Towards Exemplar-Free Continual Learning in Vision Transformers: an Account of Attention, Functional and Weight Regularization", CVPRW, 2022 (*Ca' Foscari University, Italy*). [[Paper](https://arxiv.org/abs/2203.13167)]
+    * **CVT**: "Online Continual Learning with Contrastive Vision Transformer", ECCV, 2022 (*The University of Sydney*). [[Paper](https://arxiv.org/abs/2207.13516)]
     * **COLT**: "Transformers Are Better Continual Learners", arXiv, 2022 (*Hikvision*). [[Paper](https://arxiv.org/abs/2201.04924)]
     * **S-Prompts**: "S-Prompts Learning with Pre-trained Transformers: An Occam's Razor for Domain Incremental Learning", arXiv, 2022 (*Singapore Management University*). [[Paper](https://arxiv.org/abs/2207.12819)]
 * Knowledge Distillation:
@@ -1925,6 +1930,7 @@ Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2204.08696)]
 * **?**: "Contextual Attention Network: Transformer Meets U-Net", arXiv, 2022 (*RWTH Aachen University*). [[Paper](https://arxiv.org/abs/2203.01932)][[PyTorch](https://github.com/rezazad68/TMUnet)]
 * **HRSTNet**: "High-Resolution Swin Transformer for Automatic Medical Image Segmentation", arXiv, 2022 (*Xi'an University of
 Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2207.11553)][[Code (in construction)](https://github.com/auroua/HRSTNet)]
+* **TransNorm**: "TransNorm: Transformer Provides a Strong Spatial Normalization Mechanism for a Deep Segmentation Model", arXiv, 2022 (*Aachen University, Germany*). [[Paper](https://arxiv.org/abs/2207.13415)][[PyTorch](https://github.com/rezazad68/transnorm)]
 
 [[Back to Overview](#overview)]
 
