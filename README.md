@@ -1412,6 +1412,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **siMLPe**: "Back to MLP: A Simple Baseline for Human Motion Prediction", arXiv, 2022 (*INRIA*). [[Paper](https://arxiv.org/abs/2207.01567)][[Pytorch](https://github.com/dulucas/siMLPe)]
     * **Snipper**: "Snipper: A Spatiotemporal Transformer for Simultaneous Multi-Person 3D Pose Estimation Tracking and Forecasting on a Video Snippet", arXiv, 2022 (*University of Alberta, Canada*). [[Paper](https://arxiv.org/abs/2207.04320)][[PyTorch](https://github.com/JimmyZou/Snipper)]
     * **OTPose**: "OTPose: Occlusion-Aware Transformer for Pose Estimation in Sparsely-Labeled Videos", arXiv, 2022 (*Korea University*). [[Paper](https://arxiv.org/abs/2207.09725)]
+    * **FastMETRO**: "Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers", ECCV, 2022 (*POSTECH*). [[Paper](https://arxiv.org/abs/2207.13820)][[PyTorch](https://github.com/postech-ami/FastMETRO)][[Website](https://fastmetro.github.io)]
 * Others:
     * **TAPE**: "Transformer Guided Geometry Model for Flow-Based Unsupervised Visual Odometry", arXiv, 2020 (*Tianjing University*). [[Paper](https://arxiv.org/abs/2101.02143)]
     * **T6D-Direct**: "T6D-Direct: Transformers for Multi-Object 6D Pose Direct Regression", GCPR, 2021 (*University of Bonn*). [[Paper](https://arxiv.org/abs/2109.10948)]
