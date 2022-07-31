@@ -518,7 +518,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **Sparse-DETR**: "Sparse DETR: Efficient End-to-End Object Detection with Learnable Sparsity", ICLR, 2022 (*Kakao*). [[Paper](https://arxiv.org/abs/2111.14330)][[PyTorch](https://github.com/kakaobrain/sparse-detr)]
     * **DAB-DETR**: "DAB-DETR: Dynamic Anchor Boxes are Better Queries for DETR", ICLR, 2022 (*IDEA, China*). [[Paper](https://arxiv.org/abs/2201.12329)][[PyTorch](https://github.com/SlongLiu/DAB-DETR)]
     * **DN-DETR**: "DN-DETR: Accelerate DETR Training by Introducing Query DeNoising", CVPR, 2022 (*International Digital Economy Academy (IDEA), China*). [[Paper](https://arxiv.org/abs/2203.01305)][[PyTorch](https://github.com/FengLi-ust/DN-DETR)]
-    * **SAM-DETR**: "Accelerating DETR Convergence via Semantic-Aligned Matching", CVPR, 2022 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2203.06883)][[PyTorch (in construction)](https://github.com/ZhangGongjie/SAM-DETR)]
+    * **SAM-DETR**: "Accelerating DETR Convergence via Semantic-Aligned Matching", CVPR, 2022 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2203.06883)][[PyTorch](https://github.com/ZhangGongjie/SAM-DETR)]
     * **AdaMixer**: "AdaMixer: A Fast-Converging Query-Based Object Detector", CVPR, 2022 (*Nanjing University*). [[Paper](https://arxiv.org/abs/2203.16507)][[Code (in construction)](https://github.com/MCG-NJU/AdaMixer)]
     * **DESTR**: "DESTR: Object Detection With Split Transformer", CVPR, 2022 (*Oregon State*). [[Paper](https://openaccess.thecvf.com/content/CVPR2022/html/He_DESTR_Object_Detection_With_Split_Transformer_CVPR_2022_paper.html)]
     * **OW-DETR**: "OW-DETR: Open-world Detection Transformer", CVPR, 2022 (*IIAI*). [[Paper](https://arxiv.org/abs/2112.01513)][[PyTorch](https://github.com/akshitac8/OW-DETR)]
@@ -535,6 +535,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **Conditional-DETR-V2**: "Conditional DETR V2: Efficient Detection Transformer with Box Queries", arXiv, 2022 (*Peking University*). [[Paper](https://arxiv.org/abs/2207.08914)]
     * **Group-DETR**: "Group DETR: Fast Training Convergence with Decoupled One-to-Many Label Assignment", arXiv, 2022 (*Baidu*). [[Paper](https://arxiv.org/abs/2207.13085)]
     * **H-DETR**: "DETRs with Hybrid Matching", arXiv, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2207.13080)]
+    * **SAM-DETR++**: "Semantic-Aligned Matching for Enhanced DETR Convergence and Multi-Scale Feature Fusion", arXiv, 2022 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2207.14172)][[PyTorch](https://github.com/ZhangGongjie/SAM-DETR)]
 * Transformer-based backbone:
     * **ViT-FRCNN**: "Toward Transformer-Based Object Detection", arXiv, 2020 (*Pinterest*). [[Paper](https://arxiv.org/abs/2012.09958)]
     * **WB-DETR**: "WB-DETR: Transformer-Based Detector Without Backbone", ICCV, 2021 (*CAS*). [[Paper](https://openaccess.thecvf.com/content/ICCV2021/html/Liu_WB-DETR_Transformer-Based_Detector_Without_Backbone_ICCV_2021_paper.html)]
@@ -961,6 +962,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **Deformable-VisTR**: "Deformable VisTR: Spatio temporal deformable attention for video instance segmentation", ICASSP, 2022 (*University at Buffalo*). [[Paper](https://arxiv.org/abs/2203.06318)][[Code (in construction)](https://github.com/skrya/DefVIS)]
 * **TeViT**: "Temporally Efficient Vision Transformer for Video Instance Segmentation", CVPR, 2022 (*Tencent*). [[Paper](https://arxiv.org/abs/2204.08412)][[PyTorch](https://github.com/hustvl/TeViT)]
 * **GMP-VIS**: "A Graph Matching Perspective With Transformers on Video Instance Segmentation", CVPR, 2022 (*Shandong University*). [[Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Qin_A_Graph_Matching_Perspective_With_Transformers_on_Video_Instance_Segmentation_CVPR_2022_paper.html)]
+* **VMT**: "Video Mask Transfiner for High-Quality Video Instance Segmentation", ECCV, 2022 (*ETHZ*). [[Paper](https://arxiv.org/abs/2207.14012)]
 * **MS-STS**: "Video Instance Segmentation via Multi-scale Spatio-temporal Split Attention Transformer", arXiv, 2022 (*MBZUAI*). [[Paper](https://arxiv.org/abs/2203.13253)][[Code (in construction)](https://github.com/OmkarThawakar/MSSTS-VIS)]
 * **VITA**: "VITA: Video Instance Segmentation via Object Token Association", arXiv, 2022 (*Yonsei University*). [[Paper](https://arxiv.org/abs/2206.04403)][[Code (in construction)](https://github.com/sukjunhwang/VITA)]
 * **IFR**: "Consistent Video Instance Segmentation with Inter-Frame Recurrent Attention", arXiv, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2206.07011)]
@@ -1313,6 +1315,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * Audio-Visual:
     * **AVCA**: "Audio-visual Generalised Zero-shot Learning with Cross-modal Attention and Language", CVPR, 2022 (*University of Tubingen, Germany*). [[Paper](https://arxiv.org/abs/2203.03598)][[PyTorch](https://github.com/ExplainableML/AVCA-GZSL)]
 * Sentiment Analysis:
+    * **CubeMLP**: "CubeMLP: A MLP-based Model for Multimodal Sentiment Analysis and Depression Estimation", ACMMM, 2022 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2207.14087)]
     * **MCMulT**: "Multi-scale Cooperative Multimodal Transformers for Multimodal Sentiment Analysis in Videos", arXiv, 2022 (*Tencent*). [[Paper](https://arxiv.org/abs/2206.07981)]
 
 [[Back to Overview](#overview)]
@@ -1674,6 +1677,7 @@ Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2204.08696)]
 * **MSP-Former**: "MSP-Former: Multi-Scale Projection Transformer for Single Image Desnowing", arXiv, 2022 (*Jimei University*). [[Paper](https://arxiv.org/abs/2207.05621)]
 * **TMT**: "Imaging through the Atmosphere using Turbulence Mitigation Transformer", arXiv, 2022 (*Purdue*). [[Paper](https://arxiv.org/abs/2207.06465)][[Code (in construction)](https://github.com/xg416/TMT)][[Website](https://xg416.github.io/TMT/)]
 * **ELF**: "Magic ELF: Image Deraining Meets Association Learning and Transformer", arXiv, 2022 (*Wuhan University*). [[Paper](https://arxiv.org/abs/2207.10455)][[PyTorch (in construction)](https://github.com/kuijiang94/Magic-ELF)]
+* **DnSwin**: "DnSwin: Toward Real-World Denoising via Continuous Wavelet Sliding-Transformer", arXiv, 2022 (*Guangdong University of Technology*). [[Paper](https://arxiv.org/abs/2207.13861)]
 
 [[Back to Overview](#overview)]
 
