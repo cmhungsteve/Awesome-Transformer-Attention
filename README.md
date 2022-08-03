@@ -203,6 +203,7 @@ Feel free to share this list with others!
 * **PyramidTNT**: "PyramidTNT: Improved Transformer-in-Transformer Baselines with Pyramid Architecture", CVPRW, 2022 (*Huawei*). [[Paper](https://arxiv.org/abs/2201.00978)][[PyTorch](https://github.com/huawei-noah/CV-Backbones/tree/master/tnt_pytorch)]
 * **X-ViT**: "X-ViT: High Performance Linear Vision Transformer without Softmax", CVPRW, 2022 (*Kakao*). [[Paper](https://arxiv.org/abs/2205.13805)]
 * **ReMixer**: "ReMixer: Object-aware Mixing Layer for Vision Transformers", CVPRW, 2022 (*KAIST*). [[Paper](https://drive.google.com/file/d/1E6rXtj5h6tXiJR8Ae8u1vQcwyNyTZSVc/view)][[PyTorch](https://github.com/alinlab/remixer)]
+* **UN**: "Unified Normalization for Accelerating and Stabilizing Transformers", ACMMM, 2022 (*Hikvision*). [[Paper](https://arxiv.org/abs/2208.01313)][[Code (in construction)](https://github.com/hikvision-research/Unified-Normalization)]
 * **Wave-ViT**: "Wave-ViT: Unifying Wavelet and Transformers for Visual Representation Learning", ECCV, 2022 (*JD*). [[Paper](https://arxiv.org/abs/2207.04978)][[PyTorch](https://github.com/YehLi/ImageNetModel)]
 * **BViT**: "BViT: Broad Attention based Vision Transformer", arXiv, 2022 (*CAS*). [[Paper](https://arxiv.org/abs/2202.06268)]
 * **O-ViT**: "O-ViT: Orthogonal Vision Transformer", arXiv, 2022 (*East China Normal University*). [[Paper](https://arxiv.org/abs/2201.12133)]
@@ -893,6 +894,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **STAR**: "STAR: Sparse Transformer-based Action Recognition", arXiv, 2021 (*UCLA*). [[Paper](https://arxiv.org/abs/2107.07089)]
     * **GCsT**: "GCsT: Graph Convolutional Skeleton Transformer for Action Recognition", arXiv, 2021 (*CAS*). [[Paper](https://arxiv.org/abs/2109.02860)]
     * **GL-Transformer**: "Global-local Motion Transformer for Unsupervised Skeleton-based Action Learning", ECCV, 2022 (*Seoul National University*). [[Paper](https://arxiv.org/abs/2207.06101)][[Code (in construction)](https://github.com/Boeun-Kim/GL-Transformer)]
+    * **?**: "Pose Uncertainty Aware Movement Synchrony Estimation via Spatial-Temporal Graph Transformer", International Conference on Multimodal Interaction (ICMI), 2022 (*University of Delaware*). [[Paper](https://arxiv.org/abs/2208.01161)]
     * **STTFormer**: "Spatio-Temporal Tuples Transformer for Skeleton-Based Action Recognition", arXiv, 2022 (*Xidian University*). [[Paper](https://arxiv.org/abs/2201.02849)][[Code (in construction)](https://github.com/heleiqiu/STTFormer)]
     * **ProFormer**: "ProFormer: Learning Data-efficient Representations of Body Movement with Prototype-based Feature Augmentation and Visual Transformers", arXiv, 2022 (*Karlsruhe Institute of Technology, Germany*). [[Paper](https://arxiv.org/abs/2202.11423)][[PyTorch](https://github.com/KPeng9510/ProFormer)]
     * **?**: "Spatial Transformer Network with Transfer Learning for Small-scale Fine-grained Skeleton-based Tai Chi Action Recognition", arXiv, 2022 (*Harbin Institute of Technology*). [[Paper](https://arxiv.org/abs/2206.15002)]
@@ -955,6 +957,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **MTTR**: "End-to-End Referring Video Object Segmentation with Multimodal Transformers", CVPR, 2022 (*Technion - Israel Institute of Technology*). [[Paper](https://arxiv.org/abs/2111.14821)][[PyTorch](https://github.com/mttr2021/MTTR)]
 * **HODOR**: "Differentiable Soft-Masked Attention", CVPRW, 2022 (*RWTH Aachen University, Germany*). [[Paper](https://arxiv.org/abs/2206.00182)]
 * **AOT**: "Associating Objects with Scalable Transformers for Video Object Segmentation", arXiv, 2022 (*University of Technology Sydney*). [[Paper](https://arxiv.org/abs/2203.11442)][[Code (in construction)](https://github.com/z-x-yang/AOT)]
+* **BATMAN**: "BATMAN: Bilateral Attention Transformer in Motion-Appearance Neighboring Space for Video Object Segmentation", arXiv, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2208.01159)]
 
 [[Back to Overview](#overview)]
 
@@ -1230,6 +1233,8 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **GLIDE**: "GLIDE: Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models", arXiv, 2022 (*OpenAI*). [[Paper](https://arxiv.org/abs/2112.10741)][[PyTorch](https://github.com/openai/glide-text2im)]
 * **?**: "Discovering the Hidden Vocabulary of DALLE-2", arXiv, 2022 (*UT Austin*). [[Paper](https://arxiv.org/abs/2206.00169)]
 * **Parti**: "Scaling Autoregressive Models for Content-Rich Text-to-Image Generation", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2206.10789)][[GitHub](https://github.com/google-research/parti)][[Website](https://parti.research.google/)]
+* **?**: "Prompt-to-Prompt Image Editing with Cross Attention Control", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2208.01626)]
+* **Textual-Inversion**: "An Image is Worth One Word: Personalizing Text-to-Image Generation using Textual Inversion", arXiv, 2022 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2208.01618)][[Website](https://textual-inversion.github.io/)]
 
 [[Back to Overview](#overview)]
 
@@ -1585,6 +1590,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **WinTR**: "Exploiting Both Domain-specific and Invariant Knowledge via a Win-win Transformer for Unsupervised Domain Adaptation", arXiv, 2021 (*Beijing Institute of Technology*). [[Paper](https://arxiv.org/abs/2111.12941)]
     * **CDTrans**: "CDTrans: Cross-domain Transformer for Unsupervised Domain Adaptation", ICLR, 2022 (*Alibaba*). [[Paper](https://arxiv.org/abs/2109.06165)][[PyTorch](https://github.com/CDTrans/CDTrans)]
     * **SSRT**: "Safe Self-Refinement for Transformer-based Domain Adaptation", CVPR, 2022 (*Stony Brook*). [[Paper](https://arxiv.org/abs/2204.07683)]
+    * **DOT**: "Making the Best of Both Worlds: A Domain-Oriented Transformer for Unsupervised Domain Adaptation", ACMMM, 2022 (*Beijing Institute of Technology*). [[Paper](https://arxiv.org/abs/2208.01195)]
     * **BCAT**: "Domain Adaptation via Bidirectional Cross-Attention Transformer", arXiv, 2022 (*Southern University of Science and Technology*). [[Paper](https://arxiv.org/abs/2201.05887)]
     * **DoTNet**: "Towards Unsupervised Domain Adaptation via Domain-Transformer", arXiv, 2022 (*Sun Yat-Sen University*). [[Paper](https://arxiv.org/abs/2202.13777)]
     * **TransDA**: "Smoothing Matters: Momentum Transformer for Domain Adaptive Semantic Segmentation", arXiv, 2022 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2203.07988)][[Code (in construction)](https://github.com/alpc91/TransDA)]
