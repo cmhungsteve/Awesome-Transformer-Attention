@@ -378,6 +378,7 @@ Feel free to share this list with others!
 * **?**: "Exploring Feature Self-relation for Self-supervised Transformer", arXiv, 2022 (*Nankai University*). [[Paper](https://arxiv.org/abs/2206.05184)]
 * **?**: "Position Labels for Self-Supervised Vision Transformer", arXiv, 2022 (*Southwest Jiaotong University*). [[Paper](https://arxiv.org/abs/2206.04981)]
 * **Jigsaw-ViT**: "Jigsaw-ViT: Learning Jigsaw Puzzles in Vision Transformer", arXiv, 2022 (*KU Leuven, Belgium*). [[Paper](https://arxiv.org/abs/2207.11971)][[PyTorch](https://github.com/yingyichen-cyy/Nested-Co-teaching)][[Website](https://yingyichen-cyy.github.io/Jigsaw-ViT/)]
+* **DropKey**: "DropKey", arXiv, 2022 (*Meitu*). [[Paper](https://arxiv.org/abs/2208.02646)]
 #### Robustness + Transformer
 * **ViT-Robustness**: "Understanding Robustness of Transformers for Image Classification", ICCV, 2021 (*Google*). [[Paper](https://arxiv.org/abs/2103.14586)]
 * **SAGA**: "On the Robustness of Vision Transformers to Adversarial Examples", ICCV, 2021 (*University of Connecticut*). [[Paper](https://arxiv.org/abs/2104.02610)]
@@ -886,6 +887,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **ORViT**: "Object-Region Video Transformers", CVPR, 2022 (*Tel Aviv*). [[Paper](https://arxiv.org/abs/2110.06915)][[Website](https://roeiherz.github.io/ORViT/)]
     * **TIME**: "Time Is MattEr: Temporal Self-supervision for Video Transformers", ICML, 2022 (*KAIST*). [[Paper](https://arxiv.org/abs/2207.09067)][[PyTorch](https://github.com/alinlab/temporal-selfsupervision)]
     * **TPS**: "Spatiotemporal Self-attention Modeling with Temporal Patch Shift for Action Recognition", ECCV, 2022 (*Alibaba*). [[Paper](https://arxiv.org/abs/2207.13259)][[Code (in construction)](https://github.com/MartinXM/TPS)]
+    * **X-CLIP**: "Expanding Language-Image Pretrained Models for General Video Recognition", ECCV, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2208.02816)][[PyTorch](https://github.com/microsoft/VideoX/tree/master/X-CLIP)]
     * **AIA**: "Attention in Attention: Modeling Context Correlation for Efficient Video Classification", TCSVT, 2022 (*University of Science and Technology of China*). [[Paper](https://arxiv.org/abs/2204.09303)][[PyTorch](https://github.com/haoyanbin918/Attention-in-Attention)]
     * **MSCA**: "Vision Transformer with Cross-attention by Temporal Shift for Efficient Action Recognition", arXiv, 2022 (*Nagoya Institute of Technology*). [[Paper](https://arxiv.org/abs/2204.00452)]
     * **SViT**: "Bringing Image Scene Structure to Video via Frame-Clip Consistency of Object Tokens", arXiv, 2022 (*Tel Aviv*). [[Paper](https://arxiv.org/abs/2206.06346)][[Website](https://eladb3.github.io/SViT/)]
@@ -1201,6 +1203,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **LW-Transformer**: "Towards Lightweight Transformer via Group-wise Transformation for Vision-and-Language Tasks", arXiv, 2022 (*Xiamen University*). [[Paper](https://arxiv.org/abs/2204.07780)][[PyTorch](https://github.com/luogen1996/LWTransformer)]
 * **UCM**: "Self-Training Vision Language BERTs with a Unified Conditional Model", arXiv, 2022 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2201.02010)]
 * **MaskVLM**: "Masked Vision and Language Modeling for Multi-modal Representation Learning", arXiv, 2022 (*Amazon*). [[Paper](https://arxiv.org/abs/2208.02131)]
+* **LOUPE**: "Fine-Grained Semantically Aligned Vision-Language Pre-Training", arXiv, 2022 (*Huawei*). [[Paper](https://arxiv.org/abs/2208.02515)]
 
 [[Back to Overview](#overview)]
 
@@ -1781,6 +1784,7 @@ Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2204.08696)]
 * **MaskGIT**: "MaskGIT: Masked Generative Image Transformer", CVPR, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2202.04200)][[PyTorch (dome272)](https://github.com/dome272/MaskGIT-pytorch)]
 * **AttnFlow**: "Generative Flows with Invertible Attentions", CVPR, 2022 (*ETHZ*). [[Paper](https://arxiv.org/abs/2106.03959)]
 * **NÜWA**: "NÜWA: Visual Synthesis Pre-training for Neural visUal World creAtion", ECCV, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2111.12417)][[GitHub](https://github.com/microsoft/NUWA)]
+* **Trans-INR**: "Transformers as Meta-Learners for Implicit Neural Representations", ECCV, 2022 (*UCSD*). [[Paper](https://arxiv.org/abs/2208.02801)][[PyTorch](https://github.com/yinboc/trans-inr)][[Websiste](https://yinboc.github.io/trans-inr/)]
 * **ViT-Patch**: "A Robust Framework of Chromosome Straightening with ViT-Patch GAN", arXiv, 2022 (*Xi'an Jiaotong-Liverpool University*). [[Paper](https://arxiv.org/abs/2203.02901)]
 * **ViewFormer**: "ViewFormer: NeRF-free Neural Rendering from Few Images Using Transformers", arXiv, 2022 (*Czech Technical University in Prague*). [[Paper](https://arxiv.org/abs/2203.10157)][[Tensorflow](https://github.com/jkulhanek/viewformer)]
 * **TransNeRF**: "Generalizable Neural Radiance Fields for Novel View Synthesis with Transformer", arXiv, 2022 (*UBC*). [[Paper](https://arxiv.org/abs/2206.05375)]
@@ -2237,6 +2241,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **TransMVSNet**: "TransMVSNet: Global Context-aware Multi-view Stereo Network with Transformers", CVPR, 2022 (*Megvii*). [[Paper](https://arxiv.org/abs/2111.14600)][[Code (in construction)](https://github.com/MegviiRobot/TransMVSNet)]
     * **MVSTER**: "MVSTER: Epipolar Transformer for Efficient Multi-View Stereo", arXiv, 2022 (*CAS*). [[Paper](https://arxiv.org/abs/2204.07346)][[PyTorch](https://github.com/JeffWang987/MVSTER)]
     * **WT-MVSNet**: "WT-MVSNet: Window-based Transformers for Multi-view Stereo", arXiv, 2022 (*Tsinghua University*). [[Paper](https://arxiv.org/abs/2205.14319)]
+    * **MVSFormer**: "MVSFormer: Learning Robust Image Representations via Transformers and Temperature-based Depth for Multi-View Stereo", arXiv, 2022 (*Fudan University*). [[Paper](https://arxiv.org/abs/2208.02541)]
 * Time Series:
     * **MissFormer**: "MissFormer: (In-)attention-based handling of missing observations for trajectory filtering and prediction", arXiv, 2021 (*Fraunhofer IOSB, Germany*). [[Paper](https://arxiv.org/abs/2106.16009)]
 * Traffic:
