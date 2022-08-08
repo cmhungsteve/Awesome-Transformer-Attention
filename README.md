@@ -1391,6 +1391,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **MAE3D**: "Masked Autoencoders in 3D Point Cloud Representation Learning", arXiv, 2022 (*Northwest A&F University, China*). [[Paper](https://arxiv.org/abs/2207.01545)]
 * **Geodesic-Former**: "Geodesic-Former: a Geodesic-Guided Few-shot 3D Point Cloud Instance Segmenter", arXiv, 2022 (*VinAI Research, Vietnam*). [[Paper](https://arxiv.org/abs/2207.10859)]
 * **PPTr**: "Point Primitive Transformer for Long-Term 4D Point Cloud Video Understanding", arXiv, 2022 (*Tsinghua University*). [[Paper](https://arxiv.org/abs/2208.00281)]
+* **PointConvFormer**: "PointConvFormer: Revenge of the Point-based Convolution", arXiv, 2022 (*Apple*). [[Paper](https://arxiv.org/abs/2208.02879)]
 
 [[Back to Overview](#overview)]
 
@@ -1719,6 +1720,7 @@ Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2204.08696)]
 * **VRT**: "VRT: A Video Restoration Transformer", arXiv, 2022 (*ETHZ*). [[Paper](https://arxiv.org/abs/2201.12288)][[PyTorch](https://github.com/JingyunLiang/VRT)]
 * **FGST**: "Flow-Guided Sparse Transformer for Video Deblurring", ICML, 2022 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2201.01893)][[Code (in construction)](https://github.com/linjing7/VR-Baseline)]
 * **RSTT**: "RSTT: Real-time Spatial Temporal Transformer for Space-Time Video Super-Resolution", CVPR, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2203.14186)][[PyTorch](https://github.com/llmpass/RSTT)]
+* **FTVSR**: "Learning Spatiotemporal Frequency-Transformer for Compressed Video Super-Resolution", ECCV, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2208.03012)][[PyTorch](https://github.com/researchmm/FTVSR)]
 * **VDTR**: "VDTR: Video Deblurring with Transformer", arXiv, 2022 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2204.08023)][[Code (in construction)](https://github.com/ljzycmd/VDTR)]
 * **DSCT**: "Coarse-to-Fine Video Denoising with Dual-Stage Spatial-Channel Transformer", arXiv, 2022 (*Beijing University of Posts and Telecommunications
 *). [[Paper](https://arxiv.org/abs/2205.00214)]
@@ -1848,6 +1850,7 @@ Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2204.08696)]
     * **VCT**: "VCT: A Video Compression Transformer", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2206.07307)]
 * Matting:
     * **MatteFormer**: "MatteFormer: Transformer-Based Image Matting via Prior-Tokens", CVPR, 2022 (*SNU + NAVER*). [[Paper](https://arxiv.org/abs/2203.15662)][[PyTorch](https://github.com/webtoon/matteformer)]
+    * **TransMatting**: "TransMatting: Enhancing Transparent Objects Matting with Transformers", ECCV, 2022 (*CAS*). [[Paper](https://arxiv.org/abs/2208.03007)][[Code (in construction)](https://github.com/AceCHQ/TransMatting)]
 * Reconstruction
     * **ET-Net**: "Event-Based Video Reconstruction Using Transformer", ICCV, 2021 (*University of Science and Technology of China*). [[Paper](https://openaccess.thecvf.com/content/ICCV2021/html/Weng_Event-Based_Video_Reconstruction_Using_Transformer_ICCV_2021_paper.html)][[PyTorch](https://github.com/WarranWeng/ET-Net)]
     * **GradViT**: "GradViT: Gradient Inversion of Vision Transformers", CVPR, 2022 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2203.11894)][[Website](https://gradvit.github.io/)]
@@ -1985,6 +1988,7 @@ Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2207.11553)][[Cod
 * **?**: "A comparative study between vision transformers and CNNs in digital pathology", CVPRW, 2022 (*Roche, Switzerland*). [[Paper](https://arxiv.org/abs/2206.00389)]
 * **SCT**: "Context-Aware Transformers For Spinal Cancer Detection and Radiological Grading", MICCAI, 2022 (*Oxford*). [[Paper](https://arxiv.org/abs/2206.13173)]
 * **KAT**: "Kernel Attention Transformer (KAT) for Histopathology Whole Slide Image Classification", MICCAI, 2022 (*Beihang University*). [[Paper](https://arxiv.org/abs/2206.13156)][[PyTorch](https://github.com/zhengyushan/kat)]
+* **SEViT**: "Self-Ensembling Vision Transformer (SEViT) for Robust Medical Image Classification", MICCAI, 2022 (*MBZUAI*). [[Paper](https://arxiv.org/abs/2208.02851)][[PyTorch](https://github.com/faresmalik/SEViT)]
 * **MF-ViT**: "Multi-Feature Vision Transformer via Self-Supervised Representation Learning for Improvement of COVID-19 Diagnosis", MICCAIW, 2022 (*Rutgers University*). [[Paper](https://arxiv.org/abs/2208.01843)][[PyTorch](https://github.com/endiqq/Multi-Feature-ViT)]
 * **ScoreNet**: "ScoreNet: Learning Non-Uniform Attention and Augmentation for Transformer-Based Histopathological Image Classification", arXiv, 2022 (*EPFL*). [[Paper](https://arxiv.org/abs/2202.07570)]
 * **RadioTransformer**: "RadioTransformer: A Cascaded Global-Focal Transformer for Visual Attention-guided Disease Classification", arXiv, 2022 (*Stony Brook*). [[Paper](https://arxiv.org/abs/2202.11781)]
@@ -1997,6 +2001,7 @@ Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2207.11553)][[Cod
 * **IPMN-ViT**: "Neural Transformers for Intraductal Papillary Mucosal Neoplasms (IPMN) Classification in MRI images", arXiv, 2022 (*University of Catania, Italy*). [[Paper](https://arxiv.org/abs/2206.10531)]
 * **?**: "Multi-Label Retinal Disease Classification using Transformers", arXiv, 2022 (*Khalifa University, UAE*). [[Paper](https://arxiv.org/abs/2207.02335)][[PyTorch](https://github.com/manuel-rdz/C-Tran)]
 * **TractoFormer**: "TractoFormer: A Novel Fiber-level Whole Brain Tractography Analysis Framework Using Spectral Embedding and Vision Transformers", arXiv, 2022 (*Harvard*). [[Paper](https://arxiv.org/abs/2207.02327)]
+* **BrainFormer**: "BrainFormer: A Hybrid CNN-Transformer Model for Brain fMRI Data Classification", arXiv, 2022 (*Chinese PLA General Hospital*). [[Paper](https://arxiv.org/abs/2208.03028)]
 
 [[Back to Overview](#overview)]
 
@@ -2274,6 +2279,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **LatentFormer**: "LatentFormer: Multi-Agent Transformer-Based Interaction Modeling and Trajectory Prediction", arXiv, 2022 (*Huawei*). [[Paper](https://arxiv.org/abs/2203.01880)]
     * **PreTR**: "PreTR: Spatio-Temporal Non-Autoregressive Trajectory Prediction Transformer", arXiv, 2022 (*Stellantis, France*). [[Paper](https://arxiv.org/abs/2203.09293)]
     * **Wayformer**: "Wayformer: Motion Forecasting via Simple & Efficient Attention Networks", arXiv, 2022 (*Waymo*). [[Paper](https://arxiv.org/abs/2207.05844)]
+    * **LaTTe**: "LaTTe: Language Trajectory TransformEr", arXiv, 2022 (*TUM*). [[Paper](https://arxiv.org/abs/2208.02918)][[Tensorflow](https://github.com/arthurfenderbucker/NL_trajectory_reshaper)]
 * Visual Quality Assessment:
     * **TRIQ**: "Transformer for Image Quality Assessment", arXiv, 2020 (*NORCE*). [[Paper](https://arxiv.org/abs/2101.01097)][[Tensorflow-Keras](https://github.com/junyongyou/triq)]
     * **IQT**: "Perceptual Image Quality Assessment with Transformers", CVPRW, 2021 (*LG*). [[Paper](https://arxiv.org/abs/2104.14730)][[Code (in construction)](https://github.com/manricheon/IQT)]
