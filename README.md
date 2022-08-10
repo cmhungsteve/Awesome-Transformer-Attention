@@ -497,6 +497,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **MJP**: "Breaking the Chain of Gradient Leakage in Vision Transformers", arXiv, 2022 (*Tencent*). [[Paper](https://arxiv.org/abs/2205.12551)]
 * **ViT-Shapley**: "Learning to Estimate Shapley Values with Vision Transformers", arXiv, 2022 (*UW*). [[Paper](https://arxiv.org/abs/2206.05282)][[PyTorch](https://github.com/suinleelab/vit-shapley)]
 * **?**: "A Unified and Biologically-Plausible Relational Graph Representation of Vision Transformers", arXiv, 2022 (*University of Electronic Science and Technology of China*). [[Paper](https://arxiv.org/abs/2206.11073)]
+* **?**: "How Well Do Vision Transformers (VTs) Transfer To The Non-Natural Image Domain? An Empirical Study Involving Art Classification", arXiv, 2022 (*University of Groningen, The Netherlands*). [[Paper](https://arxiv.org/abs/2208.04693)]
 
 [[Back to Overview](#overview)]
 
@@ -1269,6 +1270,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **DocFormer**: "DocFormer: End-to-End Transformer for Document Understanding", ICCV, 2021 (*Amazon*). [[Paper](https://arxiv.org/abs/2106.11539)]
 * **LayoutXLM**: "LayoutXLM: Multimodal Pre-training for Multilingual Visually-rich Document Understanding", arXiv, 2021 (*Microsoft*). [[Paper](https://arxiv.org/abs/2104.08836)][[PyTorch](https://github.com/microsoft/unilm/tree/master/layoutxlm)]
 * **TableFormer**: "TableFormer: Table Structure Understanding with Transformers", CVPR, 2022 (*IBM*). [[Paper](https://arxiv.org/abs/2203.01017)]
+* **TSRFormer**: "TSRFormer: Table Structure Recognition with Transformers", ACMMM, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2208.04921)]
 * **Donut**: "Donut: Document Understanding Transformer without OCR", ECCV, 2022 (*NAVER*). [[Paper](https://arxiv.org/abs/2111.15664)]
 * **DocEnTr**: "DocEnTr: An End-to-End Document Image Enhancement Transformer", arXiv, 2022 (*UAB, Spain*). [[Paper](https://arxiv.org/abs/2201.10252)][[PyTorch](https://github.com/dali92002/DocEnTR)]
 * **DocSegTr**: "DocSegTr: An Instance-Level End-to-End Document Image Segmentation Transformer", arXiv, 2022 (*UAB, Spain*). [[Paper](https://arxiv.org/abs/2201.11438)]
@@ -1579,9 +1581,9 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **M2TR**: "M2TR: Multi-modal Multi-scale Transformers for Deepfake Detection", arXiv, 2021 (*Fudan University*). [[Paper](https://arxiv.org/abs/2104.09770)]
     * **Cross-ViT**: "Combining EfficientNet and Vision Transformers for Video Deepfake Detection", arXiv, 2021 (*University of Pisa*). [[Paper](https://arxiv.org/abs/2107.02612)][[PyTorch](https://github.com/davide-coccomini/Combining-EfficientNet-and-Vision-Transformers-for-Video-Deepfake-Detection)]
     * **ICT**: "Protecting Celebrities from DeepFake with Identity Consistency Transformer", CVPR, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2203.01318)][[PyTorch](https://github.com/LightDXY/ICT_DeepFake)]
+    * **ViTAF**: "Adaptive Transformers for Robust Few-shot Cross-domain Face Anti-spoofing", ECCV, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2203.12175)]
     * **?**: "Self-supervised Transformer for Deepfake Detection", arXiv, 2022 (*USTC, China*). [[Paper](https://arxiv.org/abs/2203.01265)]
     * **ViTransPAD**: "ViTransPAD: Video Transformer using convolution and self-attention for Face Presentation Attack Detection", arXiv, 2022 (*University of La Rochelle, France*). [[Paper](https://arxiv.org/abs/2203.01562)]
-    * **ViTAF**: "Adaptive Transformers for Robust Few-shot Cross-domain Face Anti-spoofing", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2203.12175)]
     * **?**: "Cross-Forgery Analysis of Vision Transformers and CNNs for Deepfake Image Detection", arXiv, 2022 (*National Research Council, Italy*). [[Paper](https://arxiv.org/abs/2206.13829)]
     * **STDT**: "Deepfake Video Detection with Spatiotemporal Dropout Transformer", arXiv, 2022 (*CAS*). [[Paper](https://arxiv.org/abs/2207.06612)]
 
@@ -2176,6 +2178,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
 * Gaze:
     * **GazeTR**: "Gaze Estimation using Transformer", arXiv, 2021 (*Beihang University*). [[Paper](https://arxiv.org/abs/2105.14424)][[PyTorch](https://github.com/yihuacheng/GazeTR)]
     * **HGTTR**: "End-to-End Human-Gaze-Target Detection with Transformers", CVPR, 2022 (*Shanghai Jiao Tong*). [[Paper](https://arxiv.org/abs/2203.10433)]
+    * **GLC**: "In the Eye of Transformer: Global-Local Correlation for Egocentric Gaze Estimation", arXiv, 2022 (*Georgia Tech*). [[Paper](https://arxiv.org/abs/2208.04464)][[Website](https://bolinlai.github.io/GLC-EgoGazeEst/)]
 * Geo-Localization:
     * **EgoTR**: "Cross-view Geo-localization with Evolving Transformer", arXiv, 2021 (*Shenzhen University*). [[Paper](https://arxiv.org/abs/2107.00842)]
     * **TransGeo**: "TransGeo: Transformer Is All You Need for Cross-view Image Geo-localization", CVPR, 2022 (*UCF*). [[Paper](https://arxiv.org/abs/2204.00097)][[PyTorch](https://github.com/Jeff-Zilence/TransGeo2022)]
