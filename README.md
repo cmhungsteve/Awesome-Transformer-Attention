@@ -1584,6 +1584,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **M2TR**: "M2TR: Multi-modal Multi-scale Transformers for Deepfake Detection", arXiv, 2021 (*Fudan University*). [[Paper](https://arxiv.org/abs/2104.09770)]
     * **Cross-ViT**: "Combining EfficientNet and Vision Transformers for Video Deepfake Detection", arXiv, 2021 (*University of Pisa*). [[Paper](https://arxiv.org/abs/2107.02612)][[PyTorch](https://github.com/davide-coccomini/Combining-EfficientNet-and-Vision-Transformers-for-Video-Deepfake-Detection)]
     * **ICT**: "Protecting Celebrities from DeepFake with Identity Consistency Transformer", CVPR, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2203.01318)][[PyTorch](https://github.com/LightDXY/ICT_DeepFake)]
+    * **?**: "Hybrid Transformer Network for Deepfake Detection", International Conference on Content-Based Multimedia Indexing (CBMI), 2022 (*MediaFutures, Norway*). [[Paper](https://arxiv.org/abs/2208.05820)]
     * **ViTAF**: "Adaptive Transformers for Robust Few-shot Cross-domain Face Anti-spoofing", ECCV, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2203.12175)]
     * **?**: "Self-supervised Transformer for Deepfake Detection", arXiv, 2022 (*USTC, China*). [[Paper](https://arxiv.org/abs/2203.01265)]
     * **ViTransPAD**: "ViTransPAD: Video Transformer using convolution and self-attention for Face Presentation Attack Detection", arXiv, 2022 (*University of La Rochelle, France*). [[Paper](https://arxiv.org/abs/2203.01562)]
@@ -1633,6 +1634,8 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **FAMLP**: "FAMLP: A Frequency-Aware MLP-Like Architecture For Domain Generalization", arXiv, 2022 (*University of Science and Technology of China*). [[Paper](https://arxiv.org/abs/2203.12893)]
     * **PACMAC**: "Adapting Self-Supervised Vision Transformers by Probing Attention-Conditioned Masking Consistency", arXiv, 2022 (*Georgia Tech*). [[Paper](https://arxiv.org/abs/2206.08222)][[PyTorch](https://github.com/virajprabhu/PACMAC)]
     * **ERM-ViT**: "Self-Distilled Vision Transformer for Domain Generalization", arXiv, 2022 (*MBZUAI*). [[Paper](https://arxiv.org/abs/2207.12392)][[PyTorch](https://github.com/maryam089/SDViT)]
+* X-Supervised:
+    * **Semi-ViT**: "Semi-supervised Vision Transformers at Scale", arXiv, 2022 (*Amazon*). [[Paper](https://arxiv.org/abs/2208.05688)]
 * X-Shot:
     * **CrossTransformer**: "CrossTransformers: spatially-aware few-shot transfer", NeurIPS, 2020 (*DeepMind*). [[Paper](https://arxiv.org/abs/2007.11498)][[Tensorflow](https://github.com/google-research/meta-dataset)]
     * **URT**: "A Universal Representation Transformer Layer for Few-Shot Image Classification", ICLR, 2021 (*Mila*). [[Paper](https://openreview.net/forum?id=04cII6MumYV)][[PyTorch](https://github.com/liulu112601/URT)]
