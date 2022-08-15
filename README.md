@@ -380,6 +380,8 @@ Feel free to share this list with others!
 * **?**: "Position Labels for Self-Supervised Vision Transformer", arXiv, 2022 (*Southwest Jiaotong University*). [[Paper](https://arxiv.org/abs/2206.04981)]
 * **Jigsaw-ViT**: "Jigsaw-ViT: Learning Jigsaw Puzzles in Vision Transformer", arXiv, 2022 (*KU Leuven, Belgium*). [[Paper](https://arxiv.org/abs/2207.11971)][[PyTorch](https://github.com/yingyichen-cyy/Nested-Co-teaching)][[Website](https://yingyichen-cyy.github.io/Jigsaw-ViT/)]
 * **DropKey**: "DropKey", arXiv, 2022 (*Meitu*). [[Paper](https://arxiv.org/abs/2208.02646)]
+* **BEiT-v2**: "BEiT v2: Masked Image Modeling with Vector-Quantized Visual Tokenizers", arXiv, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2208.06366)][[PyTorch](https://github.com/microsoft/unilm/tree/master/beit)]
+* **MILAN**: "MILAN: Masked Image Pretraining on Language Assisted Representation", arXiv, 2022 (*Princeton*). [[Paper](https://arxiv.org/abs/2208.06049)][[PyTorch (in construction)](https://github.com/zejiangh/MILAN)]
 #### Robustness + Transformer
 * **ViT-Robustness**: "Understanding Robustness of Transformers for Image Classification", ICCV, 2021 (*Google*). [[Paper](https://arxiv.org/abs/2103.14586)]
 * **SAGA**: "On the Robustness of Vision Transformers to Adversarial Examples", ICCV, 2021 (*University of Connecticut*). [[Paper](https://arxiv.org/abs/2104.02610)]
@@ -2095,6 +2097,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
 * **SVoRT**: "SVoRT: Iterative Transformer for Slice-to-Volume Registration in Fetal Brain MRI", MICCAI, 2022 (*MIT*). [[Paper](https://arxiv.org/abs/2206.10802)]
 * **GaitForeMer**: "GaitForeMer: Self-Supervised Pre-Training of Transformers via Human Motion Forecasting for Few-Shot Gait Impairment Severity Estimation", MICCAI, 2022 (*Stanford*). [[Paper](https://arxiv.org/abs/2207.00106)][[PyTorch](https://github.com/markendo/GaitForeMer)]
 * **LKU-Net**: "U-Net vs Transformer: Is U-Net Outdated in Medical Image Registration?", MICCAIW, 2022 (*University of Birmingham, UK*). [[Paper](https://arxiv.org/abs/2208.04939)]
+* **LVOT**: "Shifted Windows Transformers for Medical Image Quality Assessment", MICCAIW, 2022 (*Istanbul Technical University, Turkey*). [[Paper](https://arxiv.org/abs/2208.06034)]
 * **SiT**: "Surface Vision Transformers: Flexible Attention-Based Modelling of Biomedical Surfaces", arXiv, 2022 (*King’s College London, UK*). [[Paper](https://arxiv.org/abs/2204.03408)][[PyTorch](https://github.com/metrics-lab/surface-vision-transformers)]
 * **TransMorph**: "TransMorph: Transformer for unsupervised medical image registration", arXiv, 2022 (*JHU*). [[Paper](https://arxiv.org/abs/2111.10480)]
 * **MDBERT**: "Hierarchical BERT for Medical Document Understanding", arXiv, 2022 (*IQVIA, NC*). [[Paper](https://arxiv.org/abs/2204.09600)]
