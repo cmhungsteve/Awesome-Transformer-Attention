@@ -2477,6 +2477,7 @@ If you find this repository useful, please consider citing this list:
 ## References
 * Online Resources:
     * [Papers with Code](https://paperswithcode.com/methods/category/vision-transformer)
+    * [CS25: Transformers United (Course @ Stanford)](https://web.stanford.edu/class/cs25/)
     * [The Annotated Transformer (Blog)](http://nlp.seas.harvard.edu/annotated-transformer/)
     * [3D Vision with Transformers (GitHub)](https://github.com/lahoud/3d-vision-transformers)
     * [Practical Introduction to Transformers (GitHub)](https://github.com/IbrahimSobh/Transformers)
