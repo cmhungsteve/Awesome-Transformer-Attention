@@ -1821,6 +1821,7 @@ Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2204.08696)]
 * **?**: "Transforming Image Generation from Scene Graphs", arXiv, 2022 (*University of Catania, Italy*). [[Paper](https://arxiv.org/abs/2207.00545)]
 * **VisionNeRF**: "Vision Transformer for NeRF-Based View Synthesis from a Single Input Image", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2207.05736)][[Website](https://cseweb.ucsd.edu/~viscomp/projects/VisionNeRF/)]
 * **NUWA-Infinity**: "NUWA-Infinity: Autoregressive over Autoregressive Generation for Infinite Visual Synthesis", arXiv, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2207.09814)][[GitHub](https://github.com/microsoft/NUWA)][[Website](https://nuwa-infinity.microsoft.com/)]
+* **Diffusion-ViT**: "Your ViT is Secretly a Hybrid Discriminative-Generative Diffusion Model", arXiv, 2022 (*Etsy, NY*). [[Paper](https://arxiv.org/abs/2208.07791)]
 
 [[Back to Overview](#overview)]
 
