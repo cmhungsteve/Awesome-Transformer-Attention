@@ -1128,7 +1128,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **DST**: "Towards Efficient and Elastic Visual Question Answering with Doubly Slimmable Transformer", arXiv, 2022 (*Hangzhou Dianzi University*). [[Paper](https://arxiv.org/abs/2203.12814)]
 * **PAVCR**: "Attention Mechanism based Cognition-level Scene Understanding", arXiv, 2022 (*Leibniz University of Hannover, Germany*). [[Paper](https://arxiv.org/abs/2204.08027)]
 * **REVIVE**: "REVIVE: Regional Visual Representation Matters in Knowledge-Based Visual Question Answering", arXiv, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2206.01201)]
-* **TAG**: "TAG: Boosting Text-VQA via Text-aware Visual Question-answer Generation", arXiv, 2022 (*Maryland + Salesforce*). [[Paper](https://arxiv.org/abs/2208.01813)]
+* **TAG**: "TAG: Boosting Text-VQA via Text-aware Visual Question-answer Generation", arXiv, 2022 (*Maryland + Salesforce*). [[Paper](https://arxiv.org/abs/2208.01813)][[PyTorch](https://github.com/HenryJunW/TAG)]
 
 [[Back to Overview](#overview)]
 
