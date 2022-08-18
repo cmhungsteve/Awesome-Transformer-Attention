@@ -503,6 +503,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **ViT-Shapley**: "Learning to Estimate Shapley Values with Vision Transformers", arXiv, 2022 (*UW*). [[Paper](https://arxiv.org/abs/2206.05282)][[PyTorch](https://github.com/suinleelab/vit-shapley)]
 * **?**: "A Unified and Biologically-Plausible Relational Graph Representation of Vision Transformers", arXiv, 2022 (*University of Electronic Science and Technology of China*). [[Paper](https://arxiv.org/abs/2206.11073)]
 * **?**: "How Well Do Vision Transformers (VTs) Transfer To The Non-Natural Image Domain? An Empirical Study Involving Art Classification", arXiv, 2022 (*University of Groningen, The Netherlands*). [[Paper](https://arxiv.org/abs/2208.04693)]
+* **?**: "Transformer Vs. MLP-Mixer Exponential Expressive Gap For NLP Problems", arXiv, 2022 (*Technion Israel Institute Of Technology*). [[Paper](https://arxiv.org/abs/2208.08191)]
 
 [[Back to Overview](#overview)]
 
@@ -1298,12 +1299,14 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **SGTR**: "SGTR: End-to-end Scene Graph Generation with Transformer", CVPR, 2022 (*ShanghaiTech*). [[Paper](https://arxiv.org/abs/2112.12970)][[Code (in construction)](https://github.com/Scarecrow0/SGTR)]
 * **GCL**: "Stacked Hybrid-Attention and Group Collaborative Learning for Unbiased Scene Graph Generation", CVPR, 2022 (*Shandong University*). [[Paper](https://arxiv.org/abs/2203.09811)][[PyTorch](https://github.com/dongxingning/SHA-GCL-for-SGG)]
 * **RelTR**: "RelTR: Relation Transformer for Scene Graph Generation", arXiv, 2022 (*Leibniz University Hannover, Germany*). [[Paper](https://arxiv.org/abs/2201.11460)][[PyTorch](https://github.com/yrcong/RelTR)]
+* **SVRP**: "Towards Open-vocabulary Scene Graph Generation with Prompt-based Finetuning", arXiv, 2022 (*Monash University*). [[Paper](https://arxiv.org/abs/2208.08165)]
 
 [[Back to Overview](#overview)]
 
 ### Other Multi-Modal Tasks
 * X-Shot:
     * **LIMoE**: "Multimodal Contrastive Learning with LIMoE: the Language-Image Mixture of Experts", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2206.02770)]
+    * **CAVPT**: "Class-Aware Visual Prompt Tuning for Vision-Language Pre-Trained Model", arXiv, 2022 (*Northwestern Polytechnical University, China*). [[Paper](https://arxiv.org/abs/2208.08340)]
 * Segmentation:
     * **VLT**: "Vision-Language Transformer and Query Generation for Referring Segmentation", ICCV, 2021 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2108.05565)][[Tensorflow](https://github.com/henghuiding/Vision-Language-Transformer)]
     * **LAVT**: "LAVT: Language-Aware Vision Transformer for Referring Image Segmentation", CVPR, 2022 (*Oxford*). [[Paper](https://arxiv.org/abs/2112.02244)]
@@ -1314,6 +1317,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **MM-Explainability**: "Generic Attention-model Explainability for Interpreting Bi-Modal and Encoder-Decoder Transformers", ICCV, 2021 (*Tel Aviv*). [[Paper](https://arxiv.org/abs/2103.15679)][[PyTorch](https://github.com/hila-chefer/Transformer-MM-Explainability)]
     * **?**: "Are Multimodal Transformers Robust to Missing Modality?", CVPR, 2022 (*University of Delaware*). [[Paper](https://arxiv.org/abs/2204.05454)]
     * **VL-InterpreT**: "VL-InterpreT: An Interactive Visualization Tool for Interpreting Vision-Language Transformers", CVPR (demo), 2022 (*Intel*). [[Paper](https://arxiv.org/abs/2203.17247)][[Website](http://vlinterpretenv4env-env.eba-vmhhefup.us-east-2.elasticbeanstalk.com/)][[Video](https://www.youtube.com/watch?v=2HZ2IjzG5_4&ab_channel=MengDu)]
+    * **?**: "Understanding Attention for Vision-and-Language Tasks", International Conference on Computational Linguistics (COLING), 2022 (*The University of Sydney*). [[Paper](https://arxiv.org/abs/2208.08104)]
     * **VL-CheckList**: "VL-CheckList: Evaluating Pre-trained Vision-Language Models with Objects, Attributes and Relations", arXiv, 2022 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2207.00221)][[Code (in construction)](https://github.com/om-ai-lab/VL-CheckList)]
 * Speaker Localization:
     * **?**: "The Right to Talk: An Audio-Visual Transformer Approach", ICCV, 2021 (*University of Arkansas*). [[Paper](https://arxiv.org/abs/2108.03256)]
@@ -1505,6 +1509,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **TransFiner**: "TransFiner: A Full-Scale Refinement Approach for Multiple Object Tracking", arXiv, 2022 (*China University of Geosciences*). [[Paper](https://arxiv.org/abs/2207.12967)]
 * **LPAT**: "Local Perception-Aware Transformer for Aerial Tracking", arXiv, 2022 (*Tongji University*). [[Paper](https://arxiv.org/abs/2208.00662)][[PyTorch](https://github.com/vision4robotics/LPAT)]
 * **TADN**: "Transformer-based assignment decision network for multiple object tracking", arXiv, 2022 (*National Technical University of Athens, Greece*). [[Paper](https://arxiv.org/abs/2208.03571)][[Code (in construction)](https://github.com/psaltaath/tadn-mot)]
+* **InterTrack**: "InterTrack: Interaction Transformer for 3D Multi-Object Tracking", arXiv, 2022 (*University of Toronto*). [[Paper](https://arxiv.org/abs/2208.08041)]
 
 [[Back to Overview](#overview)]
 
@@ -1968,13 +1973,15 @@ Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2204.08696)]
 * **AFTer-UNet**: "AFTer-UNet: Axial Fusion Transformer UNet for Medical Image Segmentation", WACV, 2022 (*UC Irvine*). [[Paper](https://openaccess.thecvf.com/content/WACV2022/html/Yan_AFTer-UNet_Axial_Fusion_Transformer_UNet_for_Medical_Image_Segmentation_WACV_2022_paper.html)]
 * **UCTransNet**: "UCTransNet: Rethinking the Skip Connections in U-Net from a Channel-wise Perspective with Transformer", AAAI, 2022 (*Northeastern University, China*). [[Paper](https://arxiv.org/abs/2109.04335)][[PyTorch](https://github.com/McGregorWwww/UCTransNet)]
 * **Swin-UNETR**: "Self-Supervised Pre-Training of Swin Transformers for 3D Medical Image Analysis", CVPR, 2022 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2111.14791)][[PyTorch](https://github.com/Project-MONAI/research-contributions/tree/main/SwinUNETR)]
+* **?**: "Transformer-based out-of-distribution detection for clinically safe segmentation", Medical Imaging with Deep Learning (MIDL), 2022 (*King’s College London*). [[Paper](https://arxiv.org/abs/2205.10650)]
 * **ScaleFormer**: "ScaleFormer: Revisiting the Transformer-based Backbones from a Scale-wise Perspective for Medical Image Segmentation", IJCAI, 2022 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2207.14552)][[Code (in construction)](https://github.com/ZJUGiveLab/ScaleFormer)]
+* **FCBFormer**: "FCN-Transformer Feature Fusion for Polyp Segmentation", Annual Conference on Medical Image Understanding and Analysis (MIUA), 2022 (*University of Central Lancashire, UK*). [[Paper](https://arxiv.org/abs/2208.08352)][[PyTorch](https://github.com/ESandML/FCBFormer)]
 * **TFCNs**: "TFCNs: A CNN-Transformer Hybrid Network for Medical Image Segmentation", International Conference on Artificial Neural Networks (ICANN), 2022 (*Xiamen University*). [[Paper](https://arxiv.org/abs/2207.03450)][[PyTorch (in construction)](https://github.com/HUANGLIZI/TFCNs)]
 * **MIL**: "Transformer based multiple instance learning for weakly supervised histopathology image segmentation", MICCAI, 2022 (*Beihang University*). [[Paper](https://arxiv.org/abs/2205.08878)]
 * **mmFormer**: "mmFormer: Multimodal Medical Transformer for Incomplete Multimodal Learning of Brain Tumor Segmentation", MICCAI, 2022 (*CAS*). [[Paper](https://arxiv.org/abs/2206.02425)][[PyTorch](https://github.com/YaoZhang93/mmFormer)]
 * **Patcher**: "Patcher: Patch Transformers with Mixture of Experts for Precise Medical Image Segmentation", MICCAI, 2022 (*Pennsylvania State University*). [[Paper](https://arxiv.org/abs/2206.01741)]
 * **TransDeepLab**: "TransDeepLab: Convolution-Free Transformer-based DeepLab v3+ for Medical Image Segmentation", MICCAIW, 2022 (*RWTH Aachen University, Germany*). [[Paper](https://arxiv.org/abs/2208.00713)][[PyTorch](https://github.com/rezazad68/transdeeplab)]
-* **?**: "Transformer-based out-of-distribution detection for clinically safe segmentation", Medical Imaging with Deep Learning (MIDL), 2022 (*King’s College London*). [[Paper](https://arxiv.org/abs/2205.10650)]
+* **Video-TransUNet**: "Video-TransUNet: Temporally Blended Vision Transformer for CT VFSS Instance Segmentation", International Conference on Machine Vision (ICMV), 2022 (*University of Bristol, UK*). [[Paper](https://arxiv.org/abs/2208.08315)]
 * **Tempera**: "Tempera: Spatial Transformer Feature Pyramid Network for Cardiac MRI Segmentation", arXiv, 2022 (*ICL*). [[Paper](https://arxiv.org/abs/2203.00355)]
 * **UTNetV2**: "A Multi-scale Transformer for Medical Image Segmentation: Architectures, Model Efficiency, and Benchmarks", arXiv, 2022 (*Rutgers*). [[Paper](https://arxiv.org/abs/2203.00131)]
 * **UNesT**: "Characterizing Renal Structures with 3D Block Aggregate Transformers", arXiv, 2022 (*Vanderbilt University, Tennessee*). [[Paper](https://arxiv.org/abs/2203.02430)]
@@ -2226,6 +2233,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **LayoutBERT**: "LayoutBERT: Masked Language Layout Model for Object Insertion", CVPRW, 2022 (*Adobe*). [[Paper](https://arxiv.org/abs/2205.00347)]
     * **ATEK**: "ATEK: Augmenting Transformers with Expert Knowledge for Indoor Layout Synthesis", arXiv, 2022 (*New Jersey Institute of Technology*). [[Paper](https://arxiv.org/abs/2202.00185)]
     * **?**: "Extreme Floorplan Reconstruction by Structure-Hallucinating Transformer Cascades", arXiv, 2022 (*Simon Fraser*). [[Paper](https://arxiv.org/abs/2206.00645)]
+    * **UniLayout**: "UniLayout: Taming Unified Sequence-to-Sequence Transformers for Graphic Layout Generation", arXiv, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2208.08037)]
 * Livestock Monitoring:
     * **STARFormer**: "Livestock Monitoring with Transformer", BMVC, 2021 (*IIT Dhanbad*). [[Paper](https://arxiv.org/abs/2111.00801)]
 * Long-tail:
