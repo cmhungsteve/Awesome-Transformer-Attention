@@ -1220,6 +1220,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **UCM**: "Self-Training Vision Language BERTs with a Unified Conditional Model", arXiv, 2022 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2201.02010)]
 * **MaskVLM**: "Masked Vision and Language Modeling for Multi-modal Representation Learning", arXiv, 2022 (*Amazon*). [[Paper](https://arxiv.org/abs/2208.02131)]
 * **LOUPE**: "Fine-Grained Semantically Aligned Vision-Language Pre-Training", arXiv, 2022 (*Huawei*). [[Paper](https://arxiv.org/abs/2208.02515)]
+* **Prefix-conditioning**: "Prefix Conditioning Unifies Language and Label Supervision", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2206.01125)]
 
 [[Back to Overview](#overview)]
 
@@ -1332,6 +1333,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **QVHighlights**: "QVHighlights: Detecting Moments and Highlights in Videos via Natural Language Queries", NeurIPS, 2021 (*UNC*). [[Paper](https://arxiv.org/abs/2107.09609)][[PyTorch](https://github.com/jayleicn/moment_detr)]
     * **HMT**: "Hierarchical Multimodal Transformer to Summarize Videos", arXiv, 2021 (*Xidian University*). [[Paper](https://arxiv.org/abs/2109.10559)]
     * **?**: "Show Me What I Like: Detecting User-Specific Video Highlights Using Content-Based Multi-Head Attention", ACMMM, 2022 (*Adobe*). [[Paper](https://arxiv.org/abs/2207.08352)]
+    * **IV-Sum**: "TL;DW? Summarizing Instructional Videos with Task Relevance & Cross-Modal Saliency", ECCV, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2208.06773)][[Website](https://medhini.github.io/ivsum/)]
 * Robotics:
     * **CRT**: "Case Relation Transformer: A Crossmodal Language Generation Model for Fetching Instructions", IROS, 2021 (*Keio University*). [[Paper](https://arxiv.org/abs/2107.00789)]
     * **TraSeTR**: "TraSeTR: Track-to-Segment Transformer with Contrastive Query for Instance-level Instrument Segmentation in Robotic Surgery", ICRA, 2022 (*CUHK*). [[Paper](https://arxiv.org/abs/2202.08453)]
