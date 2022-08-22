@@ -1095,6 +1095,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **D2**: "Dual-Level Decoupled Transformer for Video Captioning", arXiv, 2022 (*Northwestern Polytechnical University, China*). [[Paper](https://arxiv.org/abs/2205.03039)]
 * **VaT**: "Variational Transformer: A Framework Beyond the Trade-off between Accuracy and Diversity for Image Captioning", arXiv, 2022 (*Tongji University*). [[Paper](https://arxiv.org/abs/2205.14458)]
 * **SCST-GEG**: "Distincive Image Captioning via CLIP Guided Group Optimization", arXiv, 2022 (*McGill University*). [[Paper](https://arxiv.org/abs/2208.04254)]
+* **VASTA**: "Diverse Video Captioning by Adaptive Spatio-temporal Attention", arXiv, 2022 (*University of Tubingen, Germany*). [[Paper](https://arxiv.org/abs/2208.09266)]
 
 [[Back to Overview](#overview)]
 
@@ -1221,6 +1222,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **MaskVLM**: "Masked Vision and Language Modeling for Multi-modal Representation Learning", arXiv, 2022 (*Amazon*). [[Paper](https://arxiv.org/abs/2208.02131)]
 * **LOUPE**: "Fine-Grained Semantically Aligned Vision-Language Pre-Training", arXiv, 2022 (*Huawei*). [[Paper](https://arxiv.org/abs/2208.02515)]
 * **Prefix-conditioning**: "Prefix Conditioning Unifies Language and Label Supervision", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2206.01125)]
+* **VLMAE**: "VLMAE: Vision-Language Masked Autoencoder", arXiv, 2022 (*Tencent*). [[Paper](https://arxiv.org/abs/2208.09374)]
 
 [[Back to Overview](#overview)]
 
@@ -2328,6 +2330,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **PreTR**: "PreTR: Spatio-Temporal Non-Autoregressive Trajectory Prediction Transformer", arXiv, 2022 (*Stellantis, France*). [[Paper](https://arxiv.org/abs/2203.09293)]
     * **Wayformer**: "Wayformer: Motion Forecasting via Simple & Efficient Attention Networks", arXiv, 2022 (*Waymo*). [[Paper](https://arxiv.org/abs/2207.05844)]
     * **LaTTe**: "LaTTe: Language Trajectory TransformEr", arXiv, 2022 (*TUM*). [[Paper](https://arxiv.org/abs/2208.02918)][[Tensorflow](https://github.com/arthurfenderbucker/NL_trajectory_reshaper)]
+    * **SoMoFormer**: "SoMoFormer: Social-Aware Motion Transformer for Multi-Person Motion Prediction", arXiv, 2022 (*Hangzhou Dianzi University*). [[Paper](https://arxiv.org/abs/2208.09224)]
 * Visual Quality Assessment:
     * **TRIQ**: "Transformer for Image Quality Assessment", arXiv, 2020 (*NORCE*). [[Paper](https://arxiv.org/abs/2101.01097)][[Tensorflow-Keras](https://github.com/junyongyou/triq)]
     * **IQT**: "Perceptual Image Quality Assessment with Transformers", CVPRW, 2021 (*LG*). [[Paper](https://arxiv.org/abs/2104.14730)][[Code (in construction)](https://github.com/manricheon/IQT)]
