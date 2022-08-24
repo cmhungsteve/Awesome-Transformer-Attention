@@ -905,6 +905,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **AIA**: "Attention in Attention: Modeling Context Correlation for Efficient Video Classification", TCSVT, 2022 (*University of Science and Technology of China*). [[Paper](https://arxiv.org/abs/2204.09303)][[PyTorch](https://github.com/haoyanbin918/Attention-in-Attention)]
     * **MSCA**: "Vision Transformer with Cross-attention by Temporal Shift for Efficient Action Recognition", arXiv, 2022 (*Nagoya Institute of Technology*). [[Paper](https://arxiv.org/abs/2204.00452)]
     * **SViT**: "Bringing Image Scene Structure to Video via Frame-Clip Consistency of Object Tokens", arXiv, 2022 (*Tel Aviv*). [[Paper](https://arxiv.org/abs/2206.06346)][[Website](https://eladb3.github.io/SViT/)]
+    * **VAST**: "Efficient Attention-free Video Shift Transformers", arXiv, 2022 (*Samsung*). [[Paper](https://arxiv.org/abs/2208.11108)]
 * Depth
     * **Trear**: "Trear: Transformer-based RGB-D Egocentric Action Recognition",  IEEE Transactions on Cognitive and Developmental Systems, 2021 (*Tianjing University*). [[Paper](https://ieeexplore.ieee.org/document/9312201)]
 * Pose:
@@ -995,6 +996,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **IFR**: "Consistent Video Instance Segmentation with Inter-Frame Recurrent Attention", arXiv, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2206.07011)]
 * **DeVIS**: "DeVIS: Making Deformable Transformers Work for Video Instance Segmentation", arXiv, 2022 (*TUM*). [[Paper](https://arxiv.org/abs/2207.11103)][[PyTorch](https://github.com/acaelles97/DeVIS)]
 * **MinVIS**: "MinVIS: A Minimal Video Instance Segmentation Framework without Video-based Training", arXiv, 2022 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2208.02245)][[PyTorch](https://github.com/NVlabs/MinVIS)]
+* **InstanceFormer**: "InstanceFormer: An Online Video Instance Segmentation Framework", arXiv, 2022 (*Ludwig Maximilian University of Munich*). [[Paper](https://arxiv.org/abs/2208.10547)][[Code (in construction)](https://github.com/rajatkoner08/InstanceFormer)]
 
 [[Back to Overview](#overview)]
 
@@ -1375,6 +1377,8 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * Sentiment Analysis:
     * **CubeMLP**: "CubeMLP: A MLP-based Model for Multimodal Sentiment Analysis and Depression Estimation", ACMMM, 2022 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2207.14087)]
     * **MCMulT**: "Multi-scale Cooperative Multimodal Transformers for Multimodal Sentiment Analysis in Videos", arXiv, 2022 (*Tencent*). [[Paper](https://arxiv.org/abs/2206.07981)]
+* Name Entity Recognition:
+    * **FMIT**: "Flat Multi-modal Interaction Transformer for Named Entity Recognition", International Conference on Computational Linguistics (COLING), 2022 (*South China University of Technology*). [[Paper](https://arxiv.org/abs/2208.11039)]
 
 [[Back to Overview](#overview)]
 
@@ -1553,22 +1557,23 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 ### Face
 * General:
     * **FAU-Transformer**: "Facial Action Unit Detection With Transformers", CVPR, 2021 (*Rakuten Institute of Technology*). [[Paper](https://openaccess.thecvf.com/content/CVPR2021/html/Jacob_Facial_Action_Unit_Detection_With_Transformers_CVPR_2021_paper.html)]
-    * **Clusformer**: "Clusformer: A Transformer Based Clustering Approach to Unsupervised Large-Scale Face and Visual Landmark Recognition", CVPR, 2021 (*VinAI Research, Vietnam*). [[Paper](https://openaccess.thecvf.com/content/CVPR2021/html/Nguyen_Clusformer_A_Transformer_Based_Clustering_Approach_to_Unsupervised_Large-Scale_Face_CVPR_2021_paper.html)][[Code (in construction)](https://github.com/VinAIResearch/Clusformer)]
     * **TADeT**: "Mitigating Bias in Visual Transformers via Targeted Alignment", BMVC, 2021 (*Gerogia Tech*). [[Paper](https://www.bmvc2021-virtualconference.com/assets/papers/0282.pdf)]
     * **ViT-Face**: "Face Transformer for Recognition", arXiv, 2021 (*Beijing University of Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2103.14803)]
     * **FaceT**: "Learning to Cluster Faces via Transformer", arXiv, 2021 (*Alibaba*). [[Paper](https://arxiv.org/abs/2104.11502)]
     * **VidFace**: "VidFace: A Full-Transformer Solver for Video Face Hallucination with Unaligned Tiny Snapshots", arXiv, 2021 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2105.14954)]
     * **FAA**: "Shuffle Transformer with Feature Alignment for Video Face Parsing", arXiv, 2021 (*Tencent*). [[Paper](https://arxiv.org/abs/2106.08650)]
-    * **LOTR**: "LOTR: Face Landmark Localization Using Localization Transformer", arXiv, 2021 (*Sertis, Thailand*). [[Paper](https://arxiv.org/abs/2109.10057)]
-    * **SLPT**: "Sparse Local Patch Transformer for Robust Face Alignment and Landmarks Inherent Relation Learning", CVPR, 2022 (*University of Technology Sydney*). [[Paper](https://arxiv.org/abs/2203.06541)][[PyTorch](https://github.com/Jiahao-UTS/SLPT-master)]
     * **FaRL**: "General Facial Representation Learning in a Visual-Linguistic Manner", CVPR, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2112.03109)][[PyTorch](https://github.com/faceperceiver/farl)]
     * **FaceFormer**: "FaceFormer: Speech-Driven 3D Facial Animation with Transformers", CVPR, 2022 (*HKU*). [[Paper](https://arxiv.org/abs/2112.05329)][[PyTorch](https://github.com/EvelynFan/FaceFormer)][[Website](https://evelynfan.github.io/audio2face/)]
     * **PhysFormer**: "PhysFormer: Facial Video-based Physiological Measurement with Temporal Difference Transformer", CVPR, 2022 (*University of Oulu, Finland*). [[Paper](https://arxiv.org/abs/2111.12082)][[PyTorch](https://github.com/ZitongYu/PhysFormer)]
-    * **DTLD**: "Towards Accurate Facial Landmark Detection via Cascaded Transformers", CVPR, 2022 (*Samsung*). [[Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Li_Towards_Accurate_Facial_Landmark_Detection_via_Cascaded_Transformers_CVPR_2022_paper.html)]
     * **VTP**: "Sub-word Level Lip Reading With Visual Attention", CVPR, 2022 (*Oxford*). [[Paper](https://arxiv.org/abs/2110.07603)]
     * **EventFormer**: "EventFormer: AU Event Transformer for Facial Action Unit Event Detection", arXiv, 2022 (*Peking*). [[Paper](https://arxiv.org/abs/2203.06355)]
     * **MFT**: "Multi-Modal Learning for AU Detection Based on Multi-Head Fused Transformers", arXiv, 2022 (*SUNY Binghamton*). [[Paper](https://arxiv.org/abs/2203.11441)]
     * **VC-TRSF**: "Self-supervised Video-centralised Transformer for Video Face Clustering", arXiv, 2022 (*ICL*). [[Paper](https://arxiv.org/abs/2203.13166)]
+* Facial Landmark:
+    * **Clusformer**: "Clusformer: A Transformer Based Clustering Approach to Unsupervised Large-Scale Face and Visual Landmark Recognition", CVPR, 2021 (*VinAI Research, Vietnam*). [[Paper](https://openaccess.thecvf.com/content/CVPR2021/html/Nguyen_Clusformer_A_Transformer_Based_Clustering_Approach_to_Unsupervised_Large-Scale_Face_CVPR_2021_paper.html)]
+    * **LOTR**: "LOTR: Face Landmark Localization Using Localization Transformer", arXiv, 2021 (*Sertis, Thailand*). [[Paper](https://arxiv.org/abs/2109.10057)]
+    * **SLPT**: "Sparse Local Patch Transformer for Robust Face Alignment and Landmarks Inherent Relation Learning", CVPR, 2022 (*University of Technology Sydney*). [[Paper](https://arxiv.org/abs/2203.06541)][[PyTorch](https://github.com/Jiahao-UTS/SLPT-master)]
+    * **DTLD**: "Towards Accurate Facial Landmark Detection via Cascaded Transformers", CVPR, 2022 (*Samsung*). [[Paper](https://arxiv.org/abs/2208.10808)]
 * Face Low-Level Vision:
     * **Latent-Transformer**: "A Latent Transformer for Disentangled Face Editing in Images and Videos", ICCV, 2021 (*Institut Polytechnique de Paris*). [[Paper](https://arxiv.org/abs/2106.11895)][[PyTorch](https://github.com/InterDigitalInc/latent-transformer)]
     * **FAT**: "Facial Attribute Transformers for Precise and Robust Makeup Transfer", WACV, 2022 (*University of Rochester*). [[Paper](https://arxiv.org/abs/2104.02894)]
@@ -1634,6 +1639,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **UniNet**: "UniNet: Unified Architecture Search with Convolution, Transformer, and MLP", ECCV, 2022 (*CUHK + SenseTime*). [[Paper](https://arxiv.org/abs/2207.05420)]
 * **VTCAS**: "Vision Transformer with Convolutions Architecture Search", arXiv, 2022 (*Donghua University*). [[Paper](https://arxiv.org/abs/2203.10435)]
 * **NOAH**: "Neural Prompt Search", arXiv, 2022 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2206.04673)][[PyTorch](https://github.com/Davidzhangyuanhan/NOAH)]
+* **FocusFormer**: "FocusFormer: Focusing on What We Need via Architecture Sampler", arXiv, 2022 (*Monash University, Australia*). [[Paper](https://arxiv.org/abs/2208.10861)]
 
 [[Back to Overview](#overview)]
 
@@ -2024,6 +2030,7 @@ Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2204.08696)]
 Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2207.11553)][[Code (in construction)](https://github.com/auroua/HRSTNet)]
 * **TransNorm**: "TransNorm: Transformer Provides a Strong Spatial Normalization Mechanism for a Deep Segmentation Model", arXiv, 2022 (*Aachen University, Germany*). [[Paper](https://arxiv.org/abs/2207.13415)][[PyTorch](https://github.com/rezazad68/transnorm)]
 * **?**: "When CNN Meet with ViT: Towards Semi-Supervised Learning for Multi-Class Medical Image Semantic Segmentation", arXiv, 2022 (*Oxford*). [[Paper](https://arxiv.org/abs/2208.06449)][[Code (in construction)](https://github.com/ziyangwang007/CV-SSL-MIS)]
+* **CM-MLP**: "CM-MLP: Cascade Multi-scale MLP with Axial Context Relation Encoder for Edge Segmentation of Medical Image", arXiv, 2022 (*Zhengzhou University*). [[Paper](https://arxiv.org/abs/2208.10701)]
 
 [[Back to Overview](#overview)]
 
