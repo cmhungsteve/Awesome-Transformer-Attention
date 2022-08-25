@@ -551,6 +551,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **Group-DETR**: "Group DETR: Fast Training Convergence with Decoupled One-to-Many Label Assignment", arXiv, 2022 (*Baidu*). [[Paper](https://arxiv.org/abs/2207.13085)]
     * **H-DETR**: "DETRs with Hybrid Matching", arXiv, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2207.13080)]
     * **SAM-DETR++**: "Semantic-Aligned Matching for Enhanced DETR Convergence and Multi-Scale Feature Fusion", arXiv, 2022 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2207.14172)][[PyTorch](https://github.com/ZhangGongjie/SAM-DETR)]
+    * **IMFA**: "Towards Efficient Use of Multi-Scale Features in Transformer-Based Object Detectors", arXiv, 2022 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2208.11356)][[Code (in construction)](https://github.com/ZhangGongjie/IMFA)]
 * Transformer-based backbone:
     * **ViT-FRCNN**: "Toward Transformer-Based Object Detection", arXiv, 2020 (*Pinterest*). [[Paper](https://arxiv.org/abs/2012.09958)]
     * **WB-DETR**: "WB-DETR: Transformer-Based Detector Without Backbone", ICCV, 2021 (*CAS*). [[Paper](https://openaccess.thecvf.com/content/ICCV2021/html/Liu_WB-DETR_Transformer-Based_Detector_Without_Backbone_ICCV_2021_paper.html)]
@@ -1137,6 +1138,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **PAVCR**: "Attention Mechanism based Cognition-level Scene Understanding", arXiv, 2022 (*Leibniz University of Hannover, Germany*). [[Paper](https://arxiv.org/abs/2204.08027)]
 * **REVIVE**: "REVIVE: Regional Visual Representation Matters in Knowledge-Based Visual Question Answering", arXiv, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2206.01201)]
 * **TAG**: "TAG: Boosting Text-VQA via Text-aware Visual Question-answer Generation", arXiv, 2022 (*Maryland + Salesforce*). [[Paper](https://arxiv.org/abs/2208.01813)][[PyTorch](https://github.com/HenryJunW/TAG)]
+* **UniCon**: "UniCon: Unidirectional Split Learning with Contrastive Loss for Visual Question Answering", arXiv, 2022 (*University of Tokyo*). [[Paper](https://arxiv.org/abs/2208.11435)]
 
 [[Back to Overview](#overview)]
 
@@ -1484,6 +1486,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **Snipper**: "Snipper: A Spatiotemporal Transformer for Simultaneous Multi-Person 3D Pose Estimation Tracking and Forecasting on a Video Snippet", arXiv, 2022 (*University of Alberta, Canada*). [[Paper](https://arxiv.org/abs/2207.04320)][[PyTorch](https://github.com/JimmyZou/Snipper)]
     * **OTPose**: "OTPose: Occlusion-Aware Transformer for Pose Estimation in Sparsely-Labeled Videos", arXiv, 2022 (*Korea University*). [[Paper](https://arxiv.org/abs/2207.09725)]
     * **PoseBERT**: "PoseBERT: A Generic Transformer Module for Temporal 3D Human Modeling", arXiv, 2022 (*NAVER*). [[Paper](https://arxiv.org/abs/2208.10211)][[PyTorch](https://github.com/naver/posebert)]
+    * **KOG-Transformer**: "K-Order Graph-oriented Transformer with GraAttention for 3D Pose and Shape Estimation", arXiv, 2022 (*CAS*). [[Paper](https://arxiv.org/abs/2208.11328)]
 * Others:
     * **TAPE**: "Transformer Guided Geometry Model for Flow-Based Unsupervised Visual Odometry", arXiv, 2020 (*Tianjing University*). [[Paper](https://arxiv.org/abs/2101.02143)]
     * **T6D-Direct**: "T6D-Direct: Transformers for Multi-Object 6D Pose Direct Regression", GCPR, 2021 (*University of Bonn*). [[Paper](https://arxiv.org/abs/2109.10948)]
@@ -1739,6 +1742,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **DATSR**: "Reference-based Image Super-Resolution with Deformable Attention Transformer", ECCV, 2022 (*ETHZ*). [[Paper](https://arxiv.org/abs/2207.11938)][[Code (in construction)](https://github.com/caojiezhang/DATSR)]
 * **TurbNet**: "Single Frame Atmospheric Turbulence Mitigation: A Benchmark Study and A New Physics-Inspired Transformer Model", ECCV, 2022 (*Purdue + UT Austin*). [[Paper](https://arxiv.org/abs/2207.10040)][[PyTorch (in construction)](https://github.com/VITA-Group/TurbNet)]
 * **LFT**: "Light Field Image Super-Resolution with Transformers", IEEE Signal Processing Letters, 2022 (*National University of Defense Technology, China*). [[Paper](https://arxiv.org/abs/2108.07597)][[PyTorch](https://github.com/ZhengyuLiang24/LFT)]
+* **EDT**: "On Efficient Transformer-Based Image Pre-training for Low-Level Vision", arXiv, 2022 (*CUHK*). [[Paper](https://arxiv.org/abs/2112.10175)][[PyTorch](https://github.com/fenglinglwb/EDT)]
 * **ELAN**: "Efficient Long-Range Attention Network for Image Super-resolution", arXiv, 2022 (*The Hong Kong Polytechnic University*). [[Paper](https://arxiv.org/abs/2203.06697)][[Code (in construction)](https://github.com/xindongzhang/ELAN)]
 * **ACT**: "Rich CNN-Transformer Feature Aggregation Networks for Super-Resolution", arXiv, 2022 (*LG*). [[Paper](https://arxiv.org/abs/2203.07682)]
 * **?**: "Transform your Smartphone into a DSLR Camera: Learning the ISP in the Wild", arXiv, 2022 (*ETHZ*). [[Paper](https://arxiv.org/abs/2203.10636)]
@@ -1760,6 +1764,7 @@ Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2204.08696)]
 * **DnSwin**: "DnSwin: Toward Real-World Denoising via Continuous Wavelet Sliding-Transformer", arXiv, 2022 (*Guangdong University of Technology*). [[Paper](https://arxiv.org/abs/2207.13861)]
 * **HST**: "HST: Hierarchical Swin Transformer for Compressed Image Super-resolution", ECCVW, 2022 (*USTC*). [[Paper](https://arxiv.org/abs/2208.09885)]
 * **SnowFormer**: "SnowFormer: Scale-aware Transformer via Context Interaction for Single Image Desnowing", arXiv, 2022 (*Jimei University, China*). [[Paper](https://arxiv.org/abs/2208.09703)]
+* **SwinFIR**: "SwinFIR: Revisiting the SwinIR with Fast Fourier Convolution and Improved Training for Image Super-Resolution", arXiv, 2022 (*Samsung*). [[Paper](https://arxiv.org/abs/2208.11247)]
 
 [[Back to Overview](#overview)]
 
@@ -2031,6 +2036,7 @@ Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2207.11553)][[Cod
 * **TransNorm**: "TransNorm: Transformer Provides a Strong Spatial Normalization Mechanism for a Deep Segmentation Model", arXiv, 2022 (*Aachen University, Germany*). [[Paper](https://arxiv.org/abs/2207.13415)][[PyTorch](https://github.com/rezazad68/transnorm)]
 * **?**: "When CNN Meet with ViT: Towards Semi-Supervised Learning for Multi-Class Medical Image Semantic Segmentation", arXiv, 2022 (*Oxford*). [[Paper](https://arxiv.org/abs/2208.06449)][[Code (in construction)](https://github.com/ziyangwang007/CV-SSL-MIS)]
 * **CM-MLP**: "CM-MLP: Cascade Multi-scale MLP with Axial Context Relation Encoder for Edge Segmentation of Medical Image", arXiv, 2022 (*Zhengzhou University*). [[Paper](https://arxiv.org/abs/2208.10701)]
+* **CATS**: "Cats: Complementary CNN and Transformer Encoders for Segmentation", arXiv, 2022 (*Vanderbilt University, Nashville*). [[Paper](https://arxiv.org/abs/2208.11572)]
 
 [[Back to Overview](#overview)]
 
