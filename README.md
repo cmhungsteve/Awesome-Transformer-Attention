@@ -385,6 +385,8 @@ Feel free to share this list with others!
 * **BEiT-v2**: "BEiT v2: Masked Image Modeling with Vector-Quantized Visual Tokenizers", arXiv, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2208.06366)][[PyTorch](https://github.com/microsoft/unilm/tree/master/beit)]
 * **MILAN**: "MILAN: Masked Image Pretraining on Language Assisted Representation", arXiv, 2022 (*Princeton*). [[Paper](https://arxiv.org/abs/2208.06049)][[PyTorch (in construction)](https://github.com/zejiangh/MILAN)]
 * **PSS**: "Accelerating Vision Transformer Training via a Patch Sampling Schedule", arXiv, 2022 (*Franklin and Marshall College, Pennsylvania*). [[Paper](https://arxiv.org/abs/2208.09520)][[PyTorch](https://github.com/BradMcDanel/pss)]
+* **MaskCLIP**: "MaskCLIP: Masked Self-Distillation Advances Contrastive Language-Image Pretraining", arXiv, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2208.12262)]
+* **DMAE**: "Masked Autoencoders Enable Efficient Knowledge Distillers", arXiv, 2022 (*JHU + UC Santa Cruz*). [[Paper](https://arxiv.org/abs/2208.12256)][[Code (in construction)](https://github.com/UCSC-VLAA/DMAE)]
 #### Robustness + Transformer
 * **ViT-Robustness**: "Understanding Robustness of Transformers for Image Classification", ICCV, 2021 (*Google*). [[Paper](https://arxiv.org/abs/2103.14586)]
 * **SAGA**: "On the Robustness of Vision Transformers to Adversarial Examples", ICCV, 2021 (*University of Connecticut*). [[Paper](https://arxiv.org/abs/2104.02610)]
@@ -474,6 +476,7 @@ Feel free to share this list with others!
 * **PosMLP**: "Parameterization of Cross-Token Relations with Relative Positional Encoding for Vision MLP", arXiv, 2022 (*University of Science and Technology
 of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github.com/Zhicaiwww/PosMLP)]
 * **SplitMixer**: "SplitMixer: Fat Trimmed From MLP-like Models", arXiv, 2022 (*Quintic AI, California*). [[Paper](https://arxiv.org/abs/2207.10255)][[PyTorch](https://github.com/aliborji/splitmixer)]
+* **gSwin**: "gSwin: Gated MLP Vision Model with Hierarchical Structure of Shifted Window", arXiv, 2022 (*PKSHATechnology, Japan*). [[Paper](https://arxiv.org/abs/2208.11718)]
 #### Other Attention-Free
 * **PoolFormer**: "MetaFormer is Actually What You Need for Vision", CVPR, 2022 (*Sea AI Lab*). [[Paper](https://arxiv.org/abs/2111.11418)][[PyTorch](https://github.com/sail-sg/poolformer)]
 * **FocalNet**: "Focal Modulation Networks", arXiv, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2203.11926)][[PyTorch](https://github.com/microsoft/FocalNet)]
@@ -907,6 +910,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **MSCA**: "Vision Transformer with Cross-attention by Temporal Shift for Efficient Action Recognition", arXiv, 2022 (*Nagoya Institute of Technology*). [[Paper](https://arxiv.org/abs/2204.00452)]
     * **SViT**: "Bringing Image Scene Structure to Video via Frame-Clip Consistency of Object Tokens", arXiv, 2022 (*Tel Aviv*). [[Paper](https://arxiv.org/abs/2206.06346)][[Website](https://eladb3.github.io/SViT/)]
     * **VAST**: "Efficient Attention-free Video Shift Transformers", arXiv, 2022 (*Samsung*). [[Paper](https://arxiv.org/abs/2208.11108)]
+    * **Video-MobileFormer**: "Video Mobile-Former: Video Recognition with Efficient Global Spatial-temporal Modeling", arXiv, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2208.12257)]
 * Depth
     * **Trear**: "Trear: Transformer-based RGB-D Egocentric Action Recognition",  IEEE Transactions on Cognitive and Developmental Systems, 2021 (*Tianjing University*). [[Paper](https://ieeexplore.ieee.org/document/9312201)]
 * Pose:
@@ -958,6 +962,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **LocATe**: "LocATe: End-to-end Localization of Actions in 3D with Transformers", arXiv, 2022 (*Stanford*). [[Paper](https://arxiv.org/abs/2203.10719)]
 * **TALLFormer**: "TALLFormer: Temporal Action Localization with Long-memory Transformer", arXiv, 2022 (*UNC*). [[Paper](https://arxiv.org/abs/2204.01680)][[Code (in construction)](https://github.com/klauscc/TALLFormer)]
 * **HTNet**: "HTNet: Anchor-free Temporal Action Localization with Hierarchical Transformers", arXiv, 2022 (*Korea University*). [[Paper](https://arxiv.org/abs/2207.09662)]
+* **AdaPerFormer**: "Adaptive Perception Transformer for Temporal Action Localization", arXiv, 2022 (*Tianjin University*). [[Paper](https://arxiv.org/abs/2208.11908)][[PyTorch](https://github.com/SouperO/AdaPerFormer)]
 
 [[Back to Overview](#overview)]
 
@@ -1139,6 +1144,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **REVIVE**: "REVIVE: Regional Visual Representation Matters in Knowledge-Based Visual Question Answering", arXiv, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2206.01201)]
 * **TAG**: "TAG: Boosting Text-VQA via Text-aware Visual Question-answer Generation", arXiv, 2022 (*Maryland + Salesforce*). [[Paper](https://arxiv.org/abs/2208.01813)][[PyTorch](https://github.com/HenryJunW/TAG)]
 * **UniCon**: "UniCon: Unidirectional Split Learning with Contrastive Loss for Visual Question Answering", arXiv, 2022 (*University of Tokyo*). [[Paper](https://arxiv.org/abs/2208.11435)]
+* **CLOVE**: "Symbolic Replay: Scene Graph as Prompt for Continual Learning on VQA Task", arXiv, 2022 (*NUS*). [[Paper](https://arxiv.org/abs/2208.12037)][[Code (in construction)](https://github.com/showlab/CLVQA)]
 
 [[Back to Overview](#overview)]
 
@@ -1433,6 +1439,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **Geodesic-Former**: "Geodesic-Former: a Geodesic-Guided Few-shot 3D Point Cloud Instance Segmenter", arXiv, 2022 (*VinAI Research, Vietnam*). [[Paper](https://arxiv.org/abs/2207.10859)]
 * **PointConvFormer**: "PointConvFormer: Revenge of the Point-based Convolution", arXiv, 2022 (*Apple*). [[Paper](https://arxiv.org/abs/2208.02879)]
 * **PTTR++**: "Exploring Point-BEV Fusion for 3D Point Cloud Object Tracking with Transformer", arXiv, 2022 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2208.05216)][[PyTorch](https://github.com/Jasonkks/PTTR)]
+* **Pix4Point**: "Pix4Point: Image Pretrained Transformers for 3D Point Cloud Understanding", arXiv, 2022 (*KAUST*). [[Paper](https://arxiv.org/abs/2208.12259)][[Code (in construction)](https://github.com/guochengqian/Pix4Point)]
 
 [[Back to Overview](#overview)]
 
@@ -1946,6 +1953,7 @@ Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2204.08696)]
 * **ADAPT**: "ADAPT: Vision-Language Navigation with Modality-Aligned Action Prompts", CVPR, 2022 (*Huawei*). [[Paper](https://arxiv.org/abs/2205.15509)]
 * **DUET**: "Think Global, Act Local: Dual-scale Graph Transformer for Vision-and-Language Navigation", CVPR, 2022 (*INRIA*). [[Paper](https://arxiv.org/abs/2202.11742)][[Website](https://cshizhe.github.io/projects/vln_duet.html)]
 * **LSA**: "Local Slot Attention for Vision-and-Language Navigation", ICMR, 2022 (*Fudan*). [[Paper](https://arxiv.org/abs/2206.08645)]
+* **?**: "Learning from Unlabeled 3D Environments for Vision-and-Language Navigation", ECCV, 2022 (*INRIA*). [[Paper](https://arxiv.org/abs/2208.11781)][[Website](https://cshizhe.github.io/projects/hm3d_autovln.html)]
 * **TransFuser**: "TransFuser: Imitation with Transformer-Based Sensor Fusion for Autonomous Driving", arXiv, 2022 (*MPI*). [[Paper](https://arxiv.org/abs/2205.15997)]
 * **TD-STP**: "Target-Driven Structured Transformer Planner for Vision-Language Navigation", arXiv, 2022 (*Beihang University*). [[Paper](https://arxiv.org/abs/2207.11201)][[Code (in construction)](https://github.com/YushengZhao/TD-STP)]
 
