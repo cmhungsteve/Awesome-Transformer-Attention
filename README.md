@@ -1690,6 +1690,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **HRT**: "Hybrid Routing Transformer for Zero-Shot Learning", arXiv, 2022 (*Xidian University*). [[Paper](https://arxiv.org/abs/2203.15310)]
     * **MG-ViT**: "Mask-guided Vision Transformer (MG-ViT) for Few-Shot Learning", arXiv, 2022 (*University of Electronic Science and Technology of China*). [[Paper](https://arxiv.org/abs/2205.09995)]
     * **MUST**: "Masked Unsupervised Self-training for Zero-shot Image Classification", arXiv, 2022 (*Salesforce*). [[Paper](https://arxiv.org/abs/2206.02967)]
+    * **QSFormer**: "Few-Shot Learning Meets Transformer: Unified Query-Support Transformers for Few-Shot Classification", arXiv, 2022 (*Anhui University*). [[Paper](https://arxiv.org/abs/2208.12398)]
 * Continual Learning:
     * **MEAT**: "Meta-attention for ViT-backed Continual Learning", CVPR, 2022 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2203.11684)][[Code (in construction)](https://github.com/zju-vipa/MEAT-TIL)]
     * **DyTox**: "DyTox: Transformers for Continual Learning with DYnamic TOken eXpansion", CVPR, 2022 (*Sorbonne Universite, France*). [[Paper](https://arxiv.org/abs/2111.11326)][[PyTorch](https://github.com/arthurdouillard/dytox)]
@@ -1847,6 +1848,7 @@ Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2204.08696)]
 * **Style-Transformer**: "Style Transformer for Image Inversion and Editing", CVPR, 2022 (*East China Normal University*). [[Paper](https://arxiv.org/abs/2203.07932)][[PyTorch](https://github.com/sapphire497/style-transformer)]
 * **StyleSwin**: "StyleSwin: Transformer-based GAN for High-resolution Image Generation", CVPR, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2112.10762)][[PyTorch](https://github.com/microsoft/StyleSwin)]
 * **Styleformer**: "Styleformer: Transformer based Generative Adversarial Networks with Style Vector", CVPR, 2022 (*Seoul National University*). [[Paper](https://arxiv.org/abs/2106.07023)][[PyTorch](https://github.com/Jeeseung-Park/Styleformer)]
+* **?**: "User-Controllable Latent Transformer for StyleGAN Image Layout Editing", Pacific Graphics, 2022 (*University of Tsukuba*). [[Paper](https://arxiv.org/abs/2208.12408)][[Website](http://www.cgg.cs.tsukuba.ac.jp/~endo/projects/UserControllableLT/)]
 * **DynaST**: "DynaST: Dynamic Sparse Transformer for Exemplar-Guided Image Generation", ECCV, 2022 (*NUS*). [[Paper](https://arxiv.org/abs/2207.06124)][[PyTorch](https://github.com/Huage001/DynaST)]
 * **U-Attention**: "Paying U-Attention to Textures: Multi-Stage Hourglass Vision Transformer for Universal Texture Synthesis", arXiv, 2022 (*Adobe*). [[Paper](https://arxiv.org/abs/2202.11703)]
 * **MaskGIT**: "MaskGIT: Masked Generative Image Transformer", CVPR, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2202.04200)][[PyTorch (dome272)](https://github.com/dome272/MaskGIT-pytorch)]
@@ -1920,6 +1922,7 @@ Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2204.08696)]
 * Matting:
     * **MatteFormer**: "MatteFormer: Transformer-Based Image Matting via Prior-Tokens", CVPR, 2022 (*SNU + NAVER*). [[Paper](https://arxiv.org/abs/2203.15662)][[PyTorch](https://github.com/webtoon/matteformer)]
     * **TransMatting**: "TransMatting: Enhancing Transparent Objects Matting with Transformers", ECCV, 2022 (*CAS*). [[Paper](https://arxiv.org/abs/2208.03007)][[Code (in construction)](https://github.com/AceCHQ/TransMatting)]
+    * **VMFormer**: "VMFormer: End-to-End Video Matting with Transformer", arXiv, 2022 (*PicsArt*). [[Paper](https://arxiv.org/abs/2208.12801)][[PyTorch](https://github.com/SHI-Labs/VMFormer)][[Website](https://chrisjuniorli.github.io/project/VMFormer/)]
 * Reconstruction
     * **ET-Net**: "Event-Based Video Reconstruction Using Transformer", ICCV, 2021 (*University of Science and Technology of China*). [[Paper](https://openaccess.thecvf.com/content/ICCV2021/html/Weng_Event-Based_Video_Reconstruction_Using_Transformer_ICCV_2021_paper.html)][[PyTorch](https://github.com/WarranWeng/ET-Net)]
     * **GradViT**: "GradViT: Gradient Inversion of Vision Transformers", CVPR, 2022 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2203.11894)][[Website](https://gradvit.github.io/)]
@@ -2045,6 +2048,7 @@ Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2207.11553)][[Cod
 * **?**: "When CNN Meet with ViT: Towards Semi-Supervised Learning for Multi-Class Medical Image Semantic Segmentation", arXiv, 2022 (*Oxford*). [[Paper](https://arxiv.org/abs/2208.06449)][[Code (in construction)](https://github.com/ziyangwang007/CV-SSL-MIS)]
 * **CM-MLP**: "CM-MLP: Cascade Multi-scale MLP with Axial Context Relation Encoder for Edge Segmentation of Medical Image", arXiv, 2022 (*Zhengzhou University*). [[Paper](https://arxiv.org/abs/2208.10701)]
 * **CATS**: "Cats: Complementary CNN and Transformer Encoders for Segmentation", arXiv, 2022 (*Vanderbilt University, Nashville*). [[Paper](https://arxiv.org/abs/2208.11572)]
+* **TFusion**: "TFusion: Transformer based N-to-One Multimodal Fusion Block", arXiv, 2022 (*SouthChinaUniversityofTechnology*). [[Paper](https://arxiv.org/abs/2208.12776)]
 
 [[Back to Overview](#overview)]
 
