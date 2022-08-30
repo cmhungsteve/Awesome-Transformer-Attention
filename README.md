@@ -301,6 +301,7 @@ Feel free to share this list with others!
 * **Next-ViT**: "Next-ViT: Next Generation Vision Transformer for Efficient Deployment in Realistic Industrial Scenarios", arXiv, 2022 (*ByteDance*). [[Paper](https://arxiv.org/abs/2207.05501)]
 * **XFormer**: "Lightweight Vision Transformer with Cross Feature Attention", arXiv, 2022 (*Samsung*). [[Paper](https://arxiv.org/pdf/2207.07268.pdf)]
 * **PatchDropout**: "PatchDropout: Economizing Vision Transformers Using Patch Dropout", arXiv, 2022 (*KTH, Sweden*). [[Paper](https://arxiv.org/abs/2208.07220)]
+* **ClusTR**: "ClusTR: Exploring Efficient Self-attention via Clustering for Vision Transformers", arXiv, 2022 (*The University of Adelaide, Australia*). [[Paper](https://arxiv.org/abs/2208.13138)]
 #### Conv + Transformer
 * **LeViT**: "LeViT: a Vision Transformer in ConvNet's Clothing for Faster Inference", ICCV, 2021 (*Facebook*). [[Paper](https://arxiv.org/abs/2104.01136)][[PyTorch](https://github.com/facebookresearch/LeViT)]
 * **CeiT**: "Incorporating Convolution Designs into Visual Transformers", ICCV, 2021 (*SenseTime*). [[Paper](https://arxiv.org/abs/2103.11816)][[PyTorch (rishikksh20)](https://github.com/rishikksh20/CeiT)]
@@ -1238,6 +1239,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **Prefix-conditioning**: "Prefix Conditioning Unifies Language and Label Supervision", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2206.01125)]
 * **VLMAE**: "VLMAE: Vision-Language Masked Autoencoder", arXiv, 2022 (*Tencent*). [[Paper](https://arxiv.org/abs/2208.09374)]
 * **BEiT-3**: "Image as a Foreign Language: BEiT Pretraining for All Vision and Vision-Language Tasks", arXiv, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2208.10442)][[PyTorch](https://github.com/microsoft/unilm/tree/master/beit)]
+* **ViCHA**: "Efficient Vision-Language Pretraining with Visual Concepts and Hierarchical Alignment", arXiv, 2022 (*Sorbonne University, France*). [[Paper](https://arxiv.org/abs/2208.13628)][[Code (in construction)](https://github.com/mshukor/ViCHA)]
 
 [[Back to Overview](#overview)]
 
@@ -2192,15 +2194,6 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **LP-Transformer**: "Forensic License Plate Recognition with Compression-Informed Transformers", ICIP, 2022 (*University of Erlangen-Nurnberg, Germany*). [[Paper](https://arxiv.org/abs/2207.14686)]
     * **CoMER**: "CoMER: Modeling Coverage for Transformer-based Handwritten Mathematical Expression Recognition", ECCV, 2022 (*Peking University*). [[Paper](https://arxiv.org/abs/2207.04410)][[PyTorch](https://github.com/Green-Wood/CoMER)]
     * **CONSENT**: "CONSENT: Context Sensitive Transformer for Bold Words Classification", arXiv, 2022 (*Amazon*). [[Paper](https://arxiv.org/abs/2205.07683)]
-* Crowd Counting:
-    * **CC-AV**: "Audio-Visual Transformer Based Crowd Counting", ICCVW, 2021 (*University of Kansas*). [[Paper](https://arxiv.org/abs/2109.01926)]
-    * **TransCrowd**: "TransCrowd: Weakly-Supervised Crowd Counting with Transformer", arXiv, 2021 (*Huazhong University of Science and Technology*). [[Paper](https://arxiv.org/abs/2104.09116)][[PyTorch](https://github.com/dk-liang/TransCrowd)]
-    * **TAM-RTM**: "Boosting Crowd Counting with Transformers", arXiv, 2021 (*ETHZ*). [[Paper](https://arxiv.org/abs/2105.10926)]
-    * **CCTrans**: "CCTrans: Simplifying and Improving Crowd Counting with Transformer", arXiv, 2021 (*Meituan*). [[Paper](https://arxiv.org/abs/2109.14483)]
-    * **MAN**: "Boosting Crowd Counting via Multifaceted Attention", CVPR, 2022 (*Xi'an Jiaotong*). [[Paper](https://arxiv.org/abs/2203.02636)][[PyTorch](https://github.com/LoraLinH/Boosting-Crowd-Counting-via-Multifaceted-Attention)]
-    * **SAANet**: "Scene-Adaptive Attention Network for Crowd Counting", arXiv, 2022 (*Xi'an Jiaotong*). [[Paper](https://arxiv.org/abs/2112.15509)]
-    * **JCTNet**: "Joint CNN and Transformer Network via weakly supervised Learning for efficient crowd counting", arXiv, 2022 (*Chongqing University*). [[Paper](https://arxiv.org/abs/2203.06388)]
-    * **CrowdMLP**: "CrowdMLP: Weakly-Supervised Crowd Counting via Multi-Granularity MLP", arXiv, 2022 (*University of Guelph, Canada*). [[Paper](https://arxiv.org/abs/2203.08219)]
 * Curriculum Learning:
     * **SSTN**: "Spatial Transformer Networks for Curriculum Learning", arXiv, 2021 (*TU Kaiserslautern, Germany*). [[Paper](https://arxiv.org/abs/2108.09696)]
 * Defect Classification:
@@ -2369,6 +2362,16 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **Wayformer**: "Wayformer: Motion Forecasting via Simple & Efficient Attention Networks", arXiv, 2022 (*Waymo*). [[Paper](https://arxiv.org/abs/2207.05844)]
     * **LaTTe**: "LaTTe: Language Trajectory TransformEr", arXiv, 2022 (*TUM*). [[Paper](https://arxiv.org/abs/2208.02918)][[Tensorflow](https://github.com/arthurfenderbucker/NL_trajectory_reshaper)]
     * **SoMoFormer**: "SoMoFormer: Social-Aware Motion Transformer for Multi-Person Motion Prediction", arXiv, 2022 (*Hangzhou Dianzi University*). [[Paper](https://arxiv.org/abs/2208.09224)]
+* Visual Counting:
+    * **CC-AV**: "Audio-Visual Transformer Based Crowd Counting", ICCVW, 2021 (*University of Kansas*). [[Paper](https://arxiv.org/abs/2109.01926)]
+    * **TransCrowd**: "TransCrowd: Weakly-Supervised Crowd Counting with Transformer", arXiv, 2021 (*Huazhong University of Science and Technology*). [[Paper](https://arxiv.org/abs/2104.09116)][[PyTorch](https://github.com/dk-liang/TransCrowd)]
+    * **TAM-RTM**: "Boosting Crowd Counting with Transformers", arXiv, 2021 (*ETHZ*). [[Paper](https://arxiv.org/abs/2105.10926)]
+    * **CCTrans**: "CCTrans: Simplifying and Improving Crowd Counting with Transformer", arXiv, 2021 (*Meituan*). [[Paper](https://arxiv.org/abs/2109.14483)]
+    * **MAN**: "Boosting Crowd Counting via Multifaceted Attention", CVPR, 2022 (*Xi'an Jiaotong*). [[Paper](https://arxiv.org/abs/2203.02636)][[PyTorch](https://github.com/LoraLinH/Boosting-Crowd-Counting-via-Multifaceted-Attention)]
+    * **SAANet**: "Scene-Adaptive Attention Network for Crowd Counting", arXiv, 2022 (*Xi'an Jiaotong*). [[Paper](https://arxiv.org/abs/2112.15509)]
+    * **JCTNet**: "Joint CNN and Transformer Network via weakly supervised Learning for efficient crowd counting", arXiv, 2022 (*Chongqing University*). [[Paper](https://arxiv.org/abs/2203.06388)]
+    * **CrowdMLP**: "CrowdMLP: Weakly-Supervised Crowd Counting via Multi-Granularity MLP", arXiv, 2022 (*University of Guelph, Canada*). [[Paper](https://arxiv.org/abs/2203.08219)]
+    * **CounTR**: "CounTR: Transformer-based Generalised Visual Counting", arXiv, 2022 (*Shanghai Jiao Tong University*). [[Paper](https://arxiv.org/abs/2208.13721)][[Website](https://verg-avesta.github.io/CounTR_Webpage/)]
 * Visual Quality Assessment:
     * **TRIQ**: "Transformer for Image Quality Assessment", arXiv, 2020 (*NORCE*). [[Paper](https://arxiv.org/abs/2101.01097)][[Tensorflow-Keras](https://github.com/junyongyou/triq)]
     * **IQT**: "Perceptual Image Quality Assessment with Transformers", CVPRW, 2021 (*LG*). [[Paper](https://arxiv.org/abs/2104.14730)][[Code (in construction)](https://github.com/manricheon/IQT)]
