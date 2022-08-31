@@ -964,6 +964,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **TALLFormer**: "TALLFormer: Temporal Action Localization with Long-memory Transformer", arXiv, 2022 (*UNC*). [[Paper](https://arxiv.org/abs/2204.01680)][[Code (in construction)](https://github.com/klauscc/TALLFormer)]
 * **HTNet**: "HTNet: Anchor-free Temporal Action Localization with Hierarchical Transformers", arXiv, 2022 (*Korea University*). [[Paper](https://arxiv.org/abs/2207.09662)]
 * **AdaPerFormer**: "Adaptive Perception Transformer for Temporal Action Localization", arXiv, 2022 (*Tianjin University*). [[Paper](https://arxiv.org/abs/2208.11908)][[PyTorch](https://github.com/SouperO/AdaPerFormer)]
+* **CWC-Trans**: "A Circular Window-based Cascade Transformer for Online Action Detection", arXiv, 2022 (*Meituan*). [[Paper](https://arxiv.org/abs/2208.14209)]
 
 [[Back to Overview](#overview)]
 
@@ -1496,6 +1497,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **OTPose**: "OTPose: Occlusion-Aware Transformer for Pose Estimation in Sparsely-Labeled Videos", arXiv, 2022 (*Korea University*). [[Paper](https://arxiv.org/abs/2207.09725)]
     * **PoseBERT**: "PoseBERT: A Generic Transformer Module for Temporal 3D Human Modeling", arXiv, 2022 (*NAVER*). [[Paper](https://arxiv.org/abs/2208.10211)][[PyTorch](https://github.com/naver/posebert)]
     * **KOG-Transformer**: "K-Order Graph-oriented Transformer with GraAttention for 3D Pose and Shape Estimation", arXiv, 2022 (*CAS*). [[Paper](https://arxiv.org/abs/2208.11328)]
+    * **SoMoFormer**: "SoMoFormer: Multi-Person Pose Forecasting with Transformers", arXiv, 2022 (*Stanford*). [[Paper](https://arxiv.org/abs/2208.14023)]
 * Others:
     * **TAPE**: "Transformer Guided Geometry Model for Flow-Based Unsupervised Visual Odometry", arXiv, 2020 (*Tianjing University*). [[Paper](https://arxiv.org/abs/2101.02143)]
     * **T6D-Direct**: "T6D-Direct: Transformers for Multi-Object 6D Pose Direct Regression", GCPR, 2021 (*University of Bonn*). [[Paper](https://arxiv.org/abs/2109.10948)]
@@ -2220,6 +2222,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **COTR**: "COTR: Correspondence Transformer for Matching Across Images", ICCV, 2021 (*UBC*). [[Paper](https://arxiv.org/abs/2103.14167)]
     * **CATs**: "CATs: Cost Aggregation Transformers for Visual Correspondence", NeurIPS, 2021 (*Yonsei University + Korea University*). [[Paper](https://arxiv.org/abs/2106.02520)][[PyTorch](https://github.com/SunghwanHong/Cost-Aggregation-transformers)][[Website](https://sunghwanhong.github.io/CATs/)]
     * **TransforMatcher**: "TransforMatcher: Match-to-Match Attention for Semantic Correspondence", CVPR, 2022 (*POSTECH*). [[Paper](https://arxiv.org/abs/2205.11634)]
+    * **ASpanFormer**: "ASpanFormer: Detector-Free Image Matching with Adaptive Span Transformer", ECCV, 2022 (*HKUST*). [[Paper](https://arxiv.org/abs/2208.14201)][[Website](https://aspanformer.github.io/)]
     * **CATs++**: "CATs++: Boosting Cost Aggregation with Convolutions and Transformers", arXiv, 2022 (*Korea University*). [[Paper](https://arxiv.org/abs/2202.06817)]
     * **LoFTR-TensorRT**: "Local Feature Matching with Transformers for low-end devices", arXiv, 2022 (*?*). [[Paper](https://arxiv.org/abs/2202.00770)][[PyTorch](https://github.com/Kolkir/Coarse_LoFTR_TRT)]
     * **MatchFormer**: "MatchFormer: Interleaving Attention in Transformers for Feature Matching", arXiv, 2022 (*Karlsruhe Institute of Technology, Germany*). [[Paper](https://arxiv.org/abs/2203.09645)]
@@ -2347,6 +2350,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **UniFormer**: "UniFormer: Unified Multi-view Fusion Transformer for Spatial-Temporal Representation in Bird's-Eye-View", arXiv, 2022 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2207.08536)]
     * **STrajNet**: "STrajNet: Occupancy Flow Prediction via Multi-modal Swin Transformer", arXiv, 2022 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2208.00394)]
     * **MTPP**: "Multi-modal Transformer Path Prediction for Autonomous Vehicle", arXiv, 2022 (*National Central University*). [[Paper](https://arxiv.org/abs/2208.07256)]
+    * **MapTR**: "MapTR: Structured Modeling and Learning for Online Vectorized HD Map Construction", arXiv, 2022 (*Horizon Robotics*). [[Paper](https://arxiv.org/abs/2208.14437)][[Code (in construction)](https://github.com/hustvl/MapTR)]
 * Trajectory Prediction:
     * **mmTransformer**: "Multimodal Motion Prediction with Stacked Transformers", CVPR, 2021 (*CUHK + SenseTime*). [[Paper](https://arxiv.org/abs/2103.11624)][[Code (in construction)](https://github.com/decisionforce/mmTransformer)][[Website](https://decisionforce.github.io/mmTransformer/)]
     * **AgentFormer**: "AgentFormer: Agent-Aware Transformers for Socio-Temporal Multi-Agent Forecasting", ICCV, 2021 (*CMU*). [[Paper](https://arxiv.org/abs/2103.14023)][[PyTorch](https://github.com/Khrylx/AgentFormer)][[Website](https://www.ye-yuan.com/agentformer/)]
@@ -2500,6 +2504,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
 * **Flowformer**: "Flowformer: Linearizing Transformers with Conservation Flows", ICML, 2022 (*Tsinghua University*). [[Paper](https://arxiv.org/abs/2202.06258)][[PyTorch](https://github.com/thuml/Flowformer)]
 * **MRA**: "Multi Resolution Analysis (MRA) for Approximate Self-Attention", ICML, 2022 (*University of Wisconsin, Madison*). [[Paper](https://proceedings.mlr.press/v162/zeng22a.html)][[PyTorch](https://github.com/mlpen/mra-attention)]
 * **?**: "Horizontal and Vertical Attention in Transformers", arXiv, 2022 (*University of Technology Sydney*). [[Paper](https://arxiv.org/abs/2207.04399)]
+* **MRL**: "MRL: Learning to Mix with Attention and Convolutions", arXiv, 2022 (*Sony*). [[Paper](https://arxiv.org/abs/2208.13975)]
 
 [[Back to Overview](#overview)]
 
