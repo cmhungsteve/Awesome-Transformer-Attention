@@ -1176,6 +1176,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **BEST**: "Visual Clues: Bridging Vision and Language Foundations for Image Paragraph Captioning", arXiv, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2206.01843)]
 * **GLIPv2**: "GLIPv2: Unifying Localization and Vision-Language Understanding", arXiv, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2206.05836)][[PyTorch](https://github.com/microsoft/GLIP)]
 * **TransVG++**: "TransVG++: End-to-End Visual Grounding with Language Conditioned Vision Transformer", arXiv, 2022 (*USTC*). [[Paper](https://arxiv.org/abs/2206.06619)]
+* **HLGT**: "Hierarchical Local-Global Transformer for Temporal Sentence Grounding", arXiv, 2022 (*Huazhong University of Science and Technology*). [[Paper](https://arxiv.org/abs/2208.14882)]
 
 [[Back to Overview](#overview)]
 
@@ -1241,6 +1242,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **VLMAE**: "VLMAE: Vision-Language Masked Autoencoder", arXiv, 2022 (*Tencent*). [[Paper](https://arxiv.org/abs/2208.09374)]
 * **BEiT-3**: "Image as a Foreign Language: BEiT Pretraining for All Vision and Vision-Language Tasks", arXiv, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2208.10442)][[PyTorch](https://github.com/microsoft/unilm/tree/master/beit)]
 * **ViCHA**: "Efficient Vision-Language Pretraining with Visual Concepts and Hierarchical Alignment", arXiv, 2022 (*Sorbonne University, France*). [[Paper](https://arxiv.org/abs/2208.13628)][[Code (in construction)](https://github.com/mshukor/ViCHA)]
+* **DetailCLIP**: "Injecting Image Details into CLIP's Feature Space", arXiv, 2022 (*Megvii*). [[Paper](https://arxiv.org/abs/2208.14649)]
 
 [[Back to Overview](#overview)]
 
@@ -1310,6 +1312,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **MATrIX**: "MATrIX - Modality-Aware Transformer for Information eXtraction", arXiv, 2022 (*Amazon*). [[Paper](https://arxiv.org/abs/2205.08094)]
 * **VLCDoC**: "VLCDoC: Vision-Language Contrastive Pre-Training Model for Cross-Modal Document Classification", arXiv, 2022 (*La Rochelle University, France*). [[Paper](https://arxiv.org/abs/2205.12029)]
 * **Bi-VLDoc**: "Bi-VLDoc: Bidirectional Vision-Language Modeling for Visually-Rich Document Understanding", arXiv, 2022 (*Alibaba*). [[Paper](https://arxiv.org/abs/2206.13155)]
+* **TRUST**: "TRUST: An Accurate and End-to-End Table structure Recognizer Using Splitting-based Transformers", arXiv, 2022 (*Baidu*). [[Paper](https://arxiv.org/abs/2208.14687)]
 
 [[Back to Overview](#overview)]
 
@@ -1751,6 +1754,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **LBNet**: "Lightweight Bimodal Network for Single-Image Super-Resolution via Symmetric CNN and Recursive Transformer", IJCAI, 2022 (*Nanjing University of Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2204.13286)][[PyTorch (in construction)](https://github.com/IVIPLab/LBNet)]
 * **PTNet**: "Learning Parallax Transformer Network for Stereo Image JPEG Artifacts Removal", ACMMM, 2022 (*Fudan University*). [[Paper](https://arxiv.org/abs/2207.07335)]
 * **CharFormer**: "CharFormer: A Glyph Fusion based Attentive Framework for High-precision Character Image Denoising", ACMMM, 2022 (*Jilin University*). [[Paper](https://arxiv.org/abs/2207.07798)][[PyTorch (in construction)](https://github.com/daqians/CharFormer)]
+* **ELMformer**: "ELMformer: Efficient Raw Image Restoration with a Locally Multiplicative Transformer", ACMMM, 2022 (*Horizon Robotics*). [[Paper](https://arxiv.org/abs/2208.14704)][[Code (in construction)](https://github.com/leonmakise/ELMformer)]
 * **DATSR**: "Reference-based Image Super-Resolution with Deformable Attention Transformer", ECCV, 2022 (*ETHZ*). [[Paper](https://arxiv.org/abs/2207.11938)][[Code (in construction)](https://github.com/caojiezhang/DATSR)]
 * **TurbNet**: "Single Frame Atmospheric Turbulence Mitigation: A Benchmark Study and A New Physics-Inspired Transformer Model", ECCV, 2022 (*Purdue + UT Austin*). [[Paper](https://arxiv.org/abs/2207.10040)][[PyTorch (in construction)](https://github.com/VITA-Group/TurbNet)]
 * **LFT**: "Light Field Image Super-Resolution with Transformers", IEEE Signal Processing Letters, 2022 (*National University of Defense Technology, China*). [[Paper](https://arxiv.org/abs/2108.07597)][[PyTorch](https://github.com/ZhengyuLiang24/LFT)]
@@ -2021,6 +2025,7 @@ Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2204.08696)]
 * **MIL**: "Transformer based multiple instance learning for weakly supervised histopathology image segmentation", MICCAI, 2022 (*Beihang University*). [[Paper](https://arxiv.org/abs/2205.08878)]
 * **mmFormer**: "mmFormer: Multimodal Medical Transformer for Incomplete Multimodal Learning of Brain Tumor Segmentation", MICCAI, 2022 (*CAS*). [[Paper](https://arxiv.org/abs/2206.02425)][[PyTorch](https://github.com/YaoZhang93/mmFormer)]
 * **Patcher**: "Patcher: Patch Transformers with Mixture of Experts for Precise Medical Image Segmentation", MICCAI, 2022 (*Pennsylvania State University*). [[Paper](https://arxiv.org/abs/2206.01741)]
+* **NestedFormer**: "NestedFormer: Nested Modality-Aware Transformer for Brain Tumor Segmentation", MICCAI, 2022 (*Tianjin University*). [[Paper](https://arxiv.org/abs/2208.14876)][[Code (in construction)](https://github.com/920232796/NestedFormer)]
 * **TransDeepLab**: "TransDeepLab: Convolution-Free Transformer-based DeepLab v3+ for Medical Image Segmentation", MICCAIW, 2022 (*RWTH Aachen University, Germany*). [[Paper](https://arxiv.org/abs/2208.00713)][[PyTorch](https://github.com/rezazad68/transdeeplab)]
 * **Video-TransUNet**: "Video-TransUNet: Temporally Blended Vision Transformer for CT VFSS Instance Segmentation", International Conference on Machine Vision (ICMV), 2022 (*University of Bristol, UK*). [[Paper](https://arxiv.org/abs/2208.08315)]
 * **Tempera**: "Tempera: Spatial Transformer Feature Pyramid Network for Cardiac MRI Segmentation", arXiv, 2022 (*ICL*). [[Paper](https://arxiv.org/abs/2203.00355)]
@@ -2235,6 +2240,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **AFTrans**: "A free lunch from ViT: Adaptive Attention Multi-scale Fusion Transformer for Fine-grained Visual Recognition", arXiv, 2021 (*Peking University*). [[Paper](https://arxiv.org/abs/2110.01240)]
     * **TransFG**: "TransFG: A Transformer Architecture for Fine-grained Recognition", AAAI, 2022 (*Johns Hopkins*). [[Paper](https://arxiv.org/abs/2103.07976)][[PyTorch](https://github.com/TACJu/TransFG)]
     * **DynamicMLP**: "Dynamic MLP for Fine-Grained Image Classification by Leveraging Geographical and Temporal Information", CVPR, 2022 (*Megvii*). [[Paper](https://arxiv.org/abs/2203.03253)][[PyTorch](https://github.com/ylingfeng/DynamicMLP)]
+    * **SIM-Trans**: "SIM-Trans: Structure Information Modeling Transformer for Fine-grained Visual Categorization", ACMMM, 2022 (*Peking University*). [[Paper](https://arxiv.org/abs/2208.14607)][[PyTorch](https://github.com/PKU-ICST-MIPL/SIM-Trans_ACMMM2022)]
     * **MetaFormer**: "MetaFormer: A Unified Meta Framework for Fine-Grained Recognition", arXiv, 2022 (*ByteDance*). [[Paper](https://arxiv.org/abs/2203.02751)][[PyTorch](https://github.com/dqshuai/MetaFormer)]
     * **ViT-FOD**: "ViT-FOD: A Vision Transformer based Fine-grained Object Discriminator", arXiv, 2022 (*Shandong University*). [[Paper](https://arxiv.org/abs/2203.12816)]
 * Gait:
@@ -2262,6 +2268,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **TransHash**: "TransHash: Transformer-based Hamming Hashing for Efficient Image Retrieval", arXiv, 2021 (*Shanghai Jiao Tong University*). [[Paper](https://arxiv.org/abs/2105.01823)]
     * **VTS**: "Vision Transformer Hashing for Image Retrieval", arXiv, 2021 (*IIIT-Allahabad*). [[Paper](https://arxiv.org/abs/2109.12564)]
     * **GTZSR**: "Zero-Shot Sketch Based Image Retrieval using Graph Transformer", arXiv, 2022 (*IIT Bombay*). [[Paper](https://arxiv.org/abs/2201.10185)]
+    * **EViT**: "EViT: Privacy-Preserving Image Retrieval via Encrypted Vision Transformer in Cloud Computing", arXiv, 2022 (*Jinan University*). [[Paper](https://arxiv.org/abs/2208.14657)][[PyTorch (in construction)](https://github.com/onlinehuazai/EViT)]
 * Layout Generation:
     * **VTN**: "Variational Transformer Networks for Layout Generation", CVPR, 2021 (*Google*). [[Paper](https://arxiv.org/abs/2104.02416)]
     * **LayoutTransformer**: "LayoutTransformer: Scene Layout Generation With Conceptual and Spatial Diversity", CVPR, 2021 (*NTU*). [[Paper](https://openaccess.thecvf.com/content/CVPR2021/html/Yang_LayoutTransformer_Scene_Layout_Generation_With_Conceptual_and_Spatial_Diversity_CVPR_2021_paper.html)][[PyTorch](https://github.com/davidhalladay/LayoutTransformer)]
