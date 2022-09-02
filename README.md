@@ -656,9 +656,10 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * X-supervised:
     * **LOST**: "Localizing Objects with Self-Supervised Transformers and no Labels", BMVC, 2021 (*Valeo.ai*). [[Paper](https://arxiv.org/abs/2109.14279)][[PyTorch](https://github.com/valeoai/LOST)]
     * **Omni-DETR**: "Omni-DETR: Omni-Supervised Object Detection with Transformers", CVPR, 2022 (*Amazon*). [[Paper](https://arxiv.org/abs/2203.16089)][[PyTorch](https://github.com/amazon-research/omni-detr)]
-    * **TokenCut**: "Self-Supervised Transformers for Unsupervised Object Discovery using Normalized Cut", CVPR, 2022 (*Univ. Grenoble Alpes, France*). [[Paper](https://arxiv.org/abs/2202.11539)][[Website](https://www.m-psi.fr/Papers/TokenCut2022/)]
+    * **TokenCut**: "Self-Supervised Transformers for Unsupervised Object Discovery using Normalized Cut", CVPR, 2022 (*Univ. Grenoble Alpes, France*). [[Paper](https://arxiv.org/abs/2202.11539)][[PyTorch](https://github.com/YangtaoWANG95/TokenCut)][[Website](https://www.m-psi.fr/Papers/TokenCut2022/)]
     * **WS-DETR**: "Scaling Novel Object Detection with Weakly Supervised Detection Transformers", CVPRW, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2207.05205)]
     * **TRT**: "Re-Attention Transformer for Weakly Supervised Object Localization", arXiv, 2022 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2208.01838)][[PyTorch](https://github.com/su-hui-zz/ReAttentionTransformer)]
+    * **TokenCut**: "TokenCut: Segmenting Objects in Images and Videos with Self-supervised Transformer and Normalized Cut", arXiv, 2022 (*Univ. Grenoble Alpes, France*). [[Paper](https://arxiv.org/abs/2209.00383)][[PyTorch](https://github.com/YangtaoWANG95/TokenCut)][[Website](https://www.m-psi.fr/Papers/TokenCut2022/)]
 * X-Shot Object Detection:
     * **AIT**: "Adaptive Image Transformer for One-Shot Object Detection", CVPR, 2021 (*Academia Sinica*). [[Paper](https://openaccess.thecvf.com/content/CVPR2021/html/Chen_Adaptive_Image_Transformer_for_One-Shot_Object_Detection_CVPR_2021_paper.html)]
     * **Meta-DETR**: "Meta-DETR: Few-Shot Object Detection via Unified Image-Level Meta-Learning", arXiv, 2021 (*NTU Singapore*). [[Paper](https://arxiv.org/abs/2103.11731)][[PyTorch](https://github.com/ZhangGongjie/Meta-DETR)]
@@ -1104,6 +1105,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **?**: "A Dual-Attentive Approach to Style-Based Image Captioning Using a CNN-Transformer Model", CVPRW, 2022 (*The University of the West Indies, Jamaica*). [[Paper](https://drive.google.com/file/d/1QYq69dBFMBKHYDUolZqPaermiFz67k77/view)]
 * **SpaCap3D**: "Spatiality-guided Transformer for 3D Dense Captioning on Point Clouds", IJCAI, 2022 (*University of Sydney*). [[Paper](https://arxiv.org/abs/2204.10688)][[Code (in construction)](https://github.com/heng-hw/SpaCap3D)][[Website](https://spacap3d.github.io/)]
 * **RA-Transformer**: "Retrieval-Augmented Transformer for Image Captioning", International Conference on Content-based Multimedia Indexing (CMBI), 2022 (*University of Modena and Reggio Emilia, Italy*). [[Paper](https://arxiv.org/abs/2207.13162)]
+* **VGCL**: "Video-Guided Curriculum Learning for Spoken Video Grounding", ACMMM, 2022 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2209.00277)][[PyTorch](https://github.com/marmot-xy/Spoken-Video-Grounding)]
 * **GRIT**: "GRIT: Faster and Better Image captioning Transformer Using Dual Visual Features", ECCV, 2022 (*Tohoku University + RIKEN AIP*). [[Paper](https://arxiv.org/abs/2207.09666)][[PyTorch (in construction)](https://github.com/davidnvq/grit)]
 * **ViNTER**: "ViNTER: Image Narrative Generation with Emotion-Arc-Aware Transformer", arXiv, 2022 (*The University of Tokyo*). [[Paper](https://arxiv.org/abs/2202.07305)]
 * **D2**: "Dual-Level Decoupled Transformer for Video Captioning", arXiv, 2022 (*Northwestern Polytechnical University, China*). [[Paper](https://arxiv.org/abs/2205.03039)]
@@ -1825,6 +1827,7 @@ Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2204.08696)]
 * **U-Transformer**: "Generalised Image Outpainting with U-Transformer", arXiv, 2022 (*Xi'an Jiaotong-Liverpool University*). [[Paper](https://arxiv.org/abs/2201.11403)]
 * **SpA-Former**: "SpA-Former: Transformer image shadow detection and removal via spatial attention", arXiv, 2022 (*Shanghai Jiao Tong University*). [[Paper](https://arxiv.org/abs/2206.10910)][[PyTorch](https://github.com/zhangbaijin/SpA-Former-shadow-removal)]
 * **CRFormer**: "CRFormer: A Cross-Region Transformer for Shadow Removal", arXiv, 2022 (*Beijing Jiaotong University*). [[Paper](https://arxiv.org/abs/2207.01600)]
+* **?**: "Visual Prompting via Image Inpainting", arXiv, 2022 (*Berkeley*). [[Paper](https://arxiv.org/abs/2209.00647)][[Website](https://yossigandelsman.github.io/visual_prompt/)]
 
 [[Back to Overview](#overview)]
 
@@ -1978,6 +1981,7 @@ Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2204.08696)]
 * **PromptDT**: "Prompting Decision Transformer for Few-Shot Policy Generalization", ICML, 2022 (*CMU*). [[Paper](https://arxiv.org/abs/2206.13499)][[Website](https://mxu34.github.io/PromptDT/)]
 * **RAD**: "Evaluating Vision Transformer Methods for Deep Reinforcement Learning from Pixels", arXiv, 2022 (*UBC, Canada*). [[Paper](https://arxiv.org/abs/2204.04905)]
 * **MWM**: "Masked World Models for Visual Control", arXiv, 2022 (*Berkeley*). [[Paper](https://arxiv.org/abs/2206.14244)][[Tensorflow](https://github.com/younggyoseo/MWM)][[Website](https://sites.google.com/view/mwm-rl)]
+* **IRIS**: "Transformers are Sample Efficient World Models", arXiv, 2022 (*University of Geneva, Switzerland*). [[Paper](https://arxiv.org/abs/2209.00588)][[PyTorch](https://github.com/eloialonso/iris)]
 
 [[Back to Overview](#overview)]
 
