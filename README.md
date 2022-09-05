@@ -102,6 +102,7 @@ Feel free to share this list with others!
 * "A Survey on Visual Transformer", TPAMI, 2022 (*Huawei*). [[Paper](https://arxiv.org/abs/2012.12556)] 
 * "A Comprehensive Study of Vision Transformers on Dense Prediction Tasks", VISAP, 2022 (*NavInfo Europe, Netherlands*). [[Paper](https://arxiv.org/abs/2201.08683)]
 * "Vision-and-Language Pretrained Models: A Survey", IJCAI, 2022 (*The University of Sydney*). [[Paper](https://arxiv.org/abs/2204.07356)]
+* "Transformers in Remote Sensing: A Survey", arXiv, 2022 (*MBZUAI*). [[Paper](https://arxiv.org/abs/2209.01206)][[Github](https://github.com/VIROBO-15/Transformer-in-Remote-Sensing)]
 * "Medical image analysis based on transformer: A Review", arXiv, 2022 (*NUS, Singapore*). [[Paper](https://arxiv.org/abs/2208.06643)]
 * "3D Vision with Transformers: A Survey", arXiv, 2022 (*MBZUAI*). [[Paper](https://arxiv.org/abs/2208.04309)][[GitHub](https://github.com/lahoud/3d-vision-transformers)]
 * "Vision Transformers: State of the Art and Research Challenges", arXiv, 2022 (*NYCU*). [[Paper](https://arxiv.org/abs/2207.03041)]
@@ -1435,6 +1436,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **SeedFormer**: "SeedFormer: Patch Seeds based Point Cloud Completion with Upsample Transformer", ECCV, 2022 (*Tencent*). [[Paper](https://arxiv.org/abs/2207.10315)][[PyTorch](https://github.com/hrzhou2/seedformer)]
 * **MeshMAE**: "MeshMAE: Masked Autoencoders for 3D Mesh Data Analysis", ECCV, 2022 (*JD*). [[Paper](https://arxiv.org/abs/2207.10228)]
 * **PPTr**: "Point Primitive Transformer for Long-Term 4D Point Cloud Video Understanding", ECCV, 2022 (*Tsinghua University*). [[Paper](https://arxiv.org/abs/2208.00281)]
+* **PTT**: "Real-time 3D Single Object Tracking with Transformer", TMM, 2022 (*Northeastern University, China*). [[Paper](https://arxiv.org/abs/2209.00860)][[PyTorch](https://github.com/shanjiayao/PTT)]
 * **LighTN**: "LighTN: Light-weight Transformer Network for Performance-overhead Tradeoff in Point Cloud Downsampling", arXiv, 2022 (*Beijing Jiaotong University*). [[Paper](https://arxiv.org/abs/2202.06263)]
 * **PMP-Net++**: "PMP-Net++: Point Cloud Completion by Transformer-Enhanced Multi-step Point Moving Paths", arXiv, 2022 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2202.09507)]
 * **SnowflakeNet**: "Snowflake Point Deconvolution for Point Cloud Completion and Generation with Skip-Transformer", arXiv, 2022 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2202.09367)][[PyTorch](https://github.com/AllenXiangX/SnowflakeNet)]
@@ -2062,6 +2064,7 @@ Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2207.11553)][[Cod
 * **CM-MLP**: "CM-MLP: Cascade Multi-scale MLP with Axial Context Relation Encoder for Edge Segmentation of Medical Image", arXiv, 2022 (*Zhengzhou University*). [[Paper](https://arxiv.org/abs/2208.10701)]
 * **CATS**: "Cats: Complementary CNN and Transformer Encoders for Segmentation", arXiv, 2022 (*Vanderbilt University, Nashville*). [[Paper](https://arxiv.org/abs/2208.11572)]
 * **TFusion**: "TFusion: Transformer based N-to-One Multimodal Fusion Block", arXiv, 2022 (*SouthChinaUniversityofTechnology*). [[Paper](https://arxiv.org/abs/2208.12776)]
+* **AutoPET**: "AutoPET Challenge: Combining nn-Unet with Swin UNETR Augmented by Maximum Intensity Projection Classifier", arXiv, 2022 (*University Hospital Essen, Germany*). [[Paper](https://arxiv.org/abs/2209.01112)]
 
 [[Back to Overview](#overview)]
 
@@ -2177,6 +2180,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
 * **Surgical-VQA**: "Surgical-VQA: Visual Question Answering in Surgical Scenes using Transformer", arXiv, 2022 (*NUS*). [[Paper](https://arxiv.org/abs/2206.11053)][[PyTorch (in construction)](https://github.com/lalithjets/Surgical_VQA)]
 * **SwinMLP-TranCAP**: "Rethinking Surgical Captioning: End-to-End Window-Based MLP Transformer Using Patches", arXiv, 2022 (*CUHK*). [[Paper](https://arxiv.org/abs/2207.00113)][[PyTorch](https://github.com/XuMengyaAmy/SwinMLP_TranCAP)]
 * **CASHformer**: "CASHformer: Cognition Aware SHape Transformer for Longitudinal Analysis", arXiv, 2022 (*TUM*). [[Paper](https://arxiv.org/abs/2207.02091)]
+* **ARST**: "ARST: Auto-Regressive Surgical Transformer for Phase Recognition from Laparoscopic Videos", arXiv, 2022 (*Shanghai Jiao Tong University*). [[Paper](https://arxiv.org/abs/2209.01148)]
 
 [[Back to Overview](#overview)]
 
@@ -2281,6 +2285,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **CADTransformer**: "CADTransformer: Panoptic Symbol Spotting Transformer for CAD Drawings", CVPR, 2022 (*UT Austin*). [[Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Fan_CADTransformer_Panoptic_Symbol_Spotting_Transformer_for_CAD_Drawings_CVPR_2022_paper.html)]
     * **GAT-CADNet**: "GAT-CADNet: Graph Attention Network for Panoptic Symbol Spotting in CAD Drawings", CVPR, 2022 (*TUM + Alibaba*). [[Paper](https://arxiv.org/abs/2201.00625)]
     * **LayoutBERT**: "LayoutBERT: Masked Language Layout Model for Object Insertion", CVPRW, 2022 (*Adobe*). [[Paper](https://arxiv.org/abs/2205.00347)]
+    * **ICVT**: "Geometry Aligned Variational Transformer for Image-conditioned Layout Generation", ACMMM, 2022 (*Alibaba*). [[Paper](https://arxiv.org/abs/2209.00852)]
     * **ATEK**: "ATEK: Augmenting Transformers with Expert Knowledge for Indoor Layout Synthesis", arXiv, 2022 (*New Jersey Institute of Technology*). [[Paper](https://arxiv.org/abs/2202.00185)]
     * **?**: "Extreme Floorplan Reconstruction by Structure-Hallucinating Transformer Cascades", arXiv, 2022 (*Simon Fraser*). [[Paper](https://arxiv.org/abs/2206.00645)]
     * **UniLayout**: "UniLayout: Taming Unified Sequence-to-Sequence Transformers for Graphic Layout Generation", arXiv, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2208.08037)]
@@ -2334,6 +2339,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **STKM**: "Self-attention based Text Knowledge Mining for Text Detection", CVPR, 2021 (*?*). [[Paper]()][[Code (in construction)](https://github.com/CVI-SZU/STKM)]
     * **I2C2W**: "I2C2W: Image-to-Character-to-Word Transformers for Accurate Scene Text Recognition", arXiv, 2021 (*NTU Singapoer*). [[Paper](https://arxiv.org/abs/2105.08383)]
     * **CornerTransformer**: "Toward Understanding WordArt: Corner-Guided Transformer for Scene Text Recognition", ECCV, 2022 (*Huazhong University of Science and Technology*). [[Paper](https://arxiv.org/abs/2208.00438)][[PyTorch](https://github.com/xdxie/WordArt)]
+    * **VLAMD**: "Vision-Language Adaptive Mutual Decoder for OOV-STR", ECCVW, 2022 (*iFLYTEK, China*). [[Paper](https://arxiv.org/abs/2209.00859)]
 * Stereo:
     * **STTR**: "Revisiting Stereo Depth Estimation From a Sequence-to-Sequence Perspective with Transformers", ICCV, 2021 (*Johns Hopkins*). [[Paper](https://arxiv.org/abs/2011.02910)][[PyTorch](https://github.com/mli0603/stereo-transformer)]
     * **PS-Transformer**: "PS-Transformer: Learning Sparse Photometric Stereo Network using Self-Attention Mechanism", BMVC, 2021 (*National Institute of Informatics, JAPAN*). [[Paper](https://www.bmvc2021-virtualconference.com/assets/papers/0319.pdf)]
