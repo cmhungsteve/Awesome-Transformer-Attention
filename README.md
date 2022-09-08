@@ -2145,6 +2145,7 @@ Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2207.11553)][[Cod
 * **CTformer**: "CTformer: Convolution-free Token2Token Dilated Vision Transformer for Low-dose CT Denoising", arXiv, 2022 (*UMass Lowell*). [[Paper](https://arxiv.org/abs/2202.13517)][[PyTorch](https://github.com/wdayang/CTformer)]
 * **Cohf-T**: "Cross-Modality High-Frequency Transformer for MR Image Super-Resolution", arXiv, 2022 (*Xidian University*). [[Paper](https://arxiv.org/abs/2203.15314)]
 * **SIST**: "Low-Dose CT Denoising via Sinogram Inner-Structure Transformer", arXiv, 2022 (*?*). [[Paper](https://arxiv.org/abs/2204.03163)]
+* **Spach-Transformer**: "Spach Transformer: Spatial and Channel-wise Transformer Based on Local and Global Self-attentions for PET Image Denoising", arXiv, 2022 (*Harvard*). [[Paper](https://arxiv.org/abs/2209.03300)]
 
 [[Back to Overview](#overview)]
 
