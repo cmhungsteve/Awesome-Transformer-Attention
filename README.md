@@ -1709,6 +1709,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **MG-ViT**: "Mask-guided Vision Transformer (MG-ViT) for Few-Shot Learning", arXiv, 2022 (*University of Electronic Science and Technology of China*). [[Paper](https://arxiv.org/abs/2205.09995)]
     * **MUST**: "Masked Unsupervised Self-training for Zero-shot Image Classification", arXiv, 2022 (*Salesforce*). [[Paper](https://arxiv.org/abs/2206.02967)]
     * **QSFormer**: "Few-Shot Learning Meets Transformer: Unified Query-Support Transformers for Few-Shot Classification", arXiv, 2022 (*Anhui University*). [[Paper](https://arxiv.org/abs/2208.12398)]
+    * **CuPL**: "What does a platypus look like? Generating customized prompts for zero-shot image classification", arXiv, 2022 (*University of Washington*). [[Paper](https://arxiv.org/abs/2209.03320)][[PyTorch](https://github.com/sarahpratt/CuPL)]
 * Continual Learning:
     * **MEAT**: "Meta-attention for ViT-backed Continual Learning", CVPR, 2022 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2203.11684)][[Code (in construction)](https://github.com/zju-vipa/MEAT-TIL)]
     * **DyTox**: "DyTox: Transformers for Continual Learning with DYnamic TOken eXpansion", CVPR, 2022 (*Sorbonne Universite, France*). [[Paper](https://arxiv.org/abs/2111.11326)][[PyTorch](https://github.com/arthurdouillard/dytox)]
