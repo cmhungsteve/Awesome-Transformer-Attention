@@ -1024,6 +1024,10 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **SC-Transformer**: "Structured Context Transformer for Generic Event Boundary Detection", arXiv, 2022 (*CAS*). [[Paper](https://arxiv.org/abs/2206.02985)]
 * Video Segmentation (General):
     * **TF-DL**: "TubeFormer-DeepLab: Video Mask Transformer", CVPR, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2205.15361)]
+* Video Semantic Segmentation:
+    * **STT**: "Video Semantic Segmentation via Sparse Temporal Transformer", MM, 2021 (*Shanghai Jiao Tong*). [[Paper](https://dl.acm.org/doi/abs/10.1145/3474085.3475409)]
+    * **CFFM**: "Coarse-to-Fine Feature Mining for Video Semantic Segmentation", CVPR, 2022 (*ETH Zurich*). [[Paper](https://arxiv.org/abs/2204.03330)][[PyTorch](https://github.com/GuoleiSun/VSS-CFFM)]
+    * **MRCFA**: "Mining Relations among Cross-Frame Affinities for Video Semantic Segmentation", ECCV, 2022 (*ETH Zurich*). [[Paper](https://arxiv.org/pdf/2207.10436)][[PyTorch](https://github.com/GuoleiSun/VSS-MRCFA)]   
 * Video Object Detection:
     * **TransVOD**: "End-to-End Video Object Detection with Spatial-Temporal Transformers", arXiv, 2021 (*Shanghai Jiao Tong + SenseTime*). [[Paper](https://arxiv.org/abs/2105.10920)][[Code (in construction)](https://github.com/SJTU-LuHe/TransVOD)]
     * **MODETR**: "MODETR: Moving Object Detection with Transformers", arXiv, 2021 (*Valeo, Egypt*). [[Paper](https://arxiv.org/abs/2106.11422)]
