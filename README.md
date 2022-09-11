@@ -390,6 +390,7 @@ Feel free to share this list with others!
 * **PSS**: "Accelerating Vision Transformer Training via a Patch Sampling Schedule", arXiv, 2022 (*Franklin and Marshall College, Pennsylvania*). [[Paper](https://arxiv.org/abs/2208.09520)][[PyTorch](https://github.com/BradMcDanel/pss)]
 * **MaskCLIP**: "MaskCLIP: Masked Self-Distillation Advances Contrastive Language-Image Pretraining", arXiv, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2208.12262)]
 * **DMAE**: "Masked Autoencoders Enable Efficient Knowledge Distillers", arXiv, 2022 (*JHU + UC Santa Cruz*). [[Paper](https://arxiv.org/abs/2208.12256)][[Code (in construction)](https://github.com/UCSC-VLAA/DMAE)]
+* **dBOT**: "Exploring Target Representations for Masked Autoencoders", arXiv, 2022 (*ByteDance*). [[Paper](https://arxiv.org/abs/2209.03917)]
 #### Robustness + Transformer
 * **ViT-Robustness**: "Understanding Robustness of Transformers for Image Classification", ICCV, 2021 (*Google*). [[Paper](https://arxiv.org/abs/2103.14586)]
 * **SAGA**: "On the Robustness of Vision Transformers to Adversarial Examples", ICCV, 2021 (*University of Connecticut*). [[Paper](https://arxiv.org/abs/2104.02610)]
@@ -1159,6 +1160,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **TAG**: "TAG: Boosting Text-VQA via Text-aware Visual Question-answer Generation", arXiv, 2022 (*Maryland + Salesforce*). [[Paper](https://arxiv.org/abs/2208.01813)][[PyTorch](https://github.com/HenryJunW/TAG)]
 * **UniCon**: "UniCon: Unidirectional Split Learning with Contrastive Loss for Visual Question Answering", arXiv, 2022 (*University of Tokyo*). [[Paper](https://arxiv.org/abs/2208.11435)]
 * **CLOVE**: "Symbolic Replay: Scene Graph as Prompt for Continual Learning on VQA Task", arXiv, 2022 (*NUS*). [[Paper](https://arxiv.org/abs/2208.12037)][[Code (in construction)](https://github.com/showlab/CLVQA)]
+* **WSQG**: "Frame-Subtitle Self-Supervision for Multi-Modal Video Question Answering", arXiv, 2022 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2209.03609)]
 
 [[Back to Overview](#overview)]
 
@@ -1615,6 +1617,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **Cycle-Text2Face**: "Cycle Text2Face: Cycle Text-to-face GAN via Transformers", arXiv, 2022 (*Shahed Univerisity, Iran*). [[Paper](https://arxiv.org/abs/2206.04503)]
     * **CodeFormer**: "Towards Robust Blind Face Restoration with Codebook Lookup Transformer", arXiv, 2022 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2206.11253)][[PyTorch (in construction)](https://github.com/sczhou/CodeFormer)][[Website](https://shangchenzhou.com/projects/CodeFormer/)]
     * **FaceFormer**: "FaceFormer: Scale-aware Blind Face Restoration with Transformers", arXiv, 2022 (*Tencent*). [[Paper](https://arxiv.org/abs/2207.09790)]
+    * **text2StyleGAN**: "Text-Free Learning of a Natural Language Interface for Pretrained Face Generators", arXiv, 2022 (*Toyota Technological Institute, Chicago*). [[Paper](https://arxiv.org/abs/2209.03953)][[PyTorch](https://github.com/duxiaodan/Fast_text2StyleGAN)]
 * Facial Expression:
     * **TransFER**: "TransFER: Learning Relation-aware Facial Expression Representations with Transformers", ICCV, 2021 (*CAS*). [[Paper](https://arxiv.org/abs/2108.11116)]
     * **CVT-Face**: "Robust Facial Expression Recognition with Convolutional Visual Transformers", arXiv, 2021 (*Hunan University*). [[Paper](https://arxiv.org/abs/2103.16854)]
@@ -2080,6 +2083,7 @@ Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2207.11553)][[Cod
 * **CATS**: "Cats: Complementary CNN and Transformer Encoders for Segmentation", arXiv, 2022 (*Vanderbilt University, Nashville*). [[Paper](https://arxiv.org/abs/2208.11572)]
 * **TFusion**: "TFusion: Transformer based N-to-One Multimodal Fusion Block", arXiv, 2022 (*SouthChinaUniversityofTechnology*). [[Paper](https://arxiv.org/abs/2208.12776)]
 * **AutoPET**: "AutoPET Challenge: Combining nn-Unet with Swin UNETR Augmented by Maximum Intensity Projection Classifier", arXiv, 2022 (*University Hospital Essen, Germany*). [[Paper](https://arxiv.org/abs/2209.01112)]
+* **SPAN**: "Prior Knowledge-Guided Attention in Self-Supervised Vision Transformers", arXiv, 2022 (*Berkeley*). [[Paper](https://arxiv.org/abs/2209.03745)]
 
 [[Back to Overview](#overview)]
 
