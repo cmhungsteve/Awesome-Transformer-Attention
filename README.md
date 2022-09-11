@@ -102,6 +102,7 @@ Feel free to share this list with others!
 * "A Survey on Visual Transformer", TPAMI, 2022 (*Huawei*). [[Paper](https://arxiv.org/abs/2012.12556)] 
 * "A Comprehensive Study of Vision Transformers on Dense Prediction Tasks", VISAP, 2022 (*NavInfo Europe, Netherlands*). [[Paper](https://arxiv.org/abs/2201.08683)]
 * "Vision-and-Language Pretrained Models: A Survey", IJCAI, 2022 (*The University of Sydney*). [[Paper](https://arxiv.org/abs/2204.07356)]
+* "VLP: A Survey on Vision-Language Pre-training", arXiv, 2022 (*CAS*). [[Paper](https://arxiv.org/abs/2202.09061)]
 * "Transformers in Remote Sensing: A Survey", arXiv, 2022 (*MBZUAI*). [[Paper](https://arxiv.org/abs/2209.01206)][[Github](https://github.com/VIROBO-15/Transformer-in-Remote-Sensing)]
 * "Medical image analysis based on transformer: A Review", arXiv, 2022 (*NUS, Singapore*). [[Paper](https://arxiv.org/abs/2208.06643)]
 * "3D Vision with Transformers: A Survey", arXiv, 2022 (*MBZUAI*). [[Paper](https://arxiv.org/abs/2208.04309)][[GitHub](https://github.com/lahoud/3d-vision-transformers)]
