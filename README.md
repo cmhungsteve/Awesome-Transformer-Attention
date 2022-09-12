@@ -1259,6 +1259,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **ViCHA**: "Efficient Vision-Language Pretraining with Visual Concepts and Hierarchical Alignment", arXiv, 2022 (*Sorbonne University, France*). [[Paper](https://arxiv.org/abs/2208.13628)][[Code (in construction)](https://github.com/mshukor/ViCHA)]
 * **DetailCLIP**: "Injecting Image Details into CLIP's Feature Space", arXiv, 2022 (*Megvii*). [[Paper](https://arxiv.org/abs/2208.14649)]
 * **?**: "An Empirical Study of End-to-End Video-Language Transformers with Masked Visual Modeling", arXiv, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2209.01540)]
+* **?**: "Pre-training image-language transformers for open-vocabulary tasks", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2209.04372)]
 
 [[Back to Overview](#overview)]
 
@@ -1893,6 +1894,7 @@ Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2204.08696)]
 * **VisionNeRF**: "Vision Transformer for NeRF-Based View Synthesis from a Single Input Image", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2207.05736)][[Website](https://cseweb.ucsd.edu/~viscomp/projects/VisionNeRF/)]
 * **NUWA-Infinity**: "NUWA-Infinity: Autoregressive over Autoregressive Generation for Infinite Visual Synthesis", arXiv, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2207.09814)][[GitHub](https://github.com/microsoft/NUWA)][[Website](https://nuwa-infinity.microsoft.com/)]
 * **Diffusion-ViT**: "Your ViT is Secretly a Hybrid Discriminative-Generative Diffusion Model", arXiv, 2022 (*Etsy, NY*). [[Paper](https://arxiv.org/abs/2208.07791)]
+* **Token-Critic**: "Improved Masked Image Generation with Token-Critic", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2209.04439)]
 
 [[Back to Overview](#overview)]
 
