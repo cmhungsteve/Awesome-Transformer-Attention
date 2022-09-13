@@ -1162,6 +1162,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **UniCon**: "UniCon: Unidirectional Split Learning with Contrastive Loss for Visual Question Answering", arXiv, 2022 (*University of Tokyo*). [[Paper](https://arxiv.org/abs/2208.11435)]
 * **CLOVE**: "Symbolic Replay: Scene Graph as Prompt for Continual Learning on VQA Task", arXiv, 2022 (*NUS*). [[Paper](https://arxiv.org/abs/2208.12037)][[Code (in construction)](https://github.com/showlab/CLVQA)]
 * **WSQG**: "Frame-Subtitle Self-Supervision for Multi-Modal Video Question Answering", arXiv, 2022 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2209.03609)]
+* **mVQA**: "Towards Multi-Lingual Visual Question Answering", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2209.05401)]
 
 [[Back to Overview](#overview)]
 
@@ -1654,6 +1655,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **ViTransPAD**: "ViTransPAD: Video Transformer using convolution and self-attention for Face Presentation Attack Detection", arXiv, 2022 (*University of La Rochelle, France*). [[Paper](https://arxiv.org/abs/2203.01562)]
     * **?**: "Cross-Forgery Analysis of Vision Transformers and CNNs for Deepfake Image Detection", arXiv, 2022 (*National Research Council, Italy*). [[Paper](https://arxiv.org/abs/2206.13829)]
     * **STDT**: "Deepfake Video Detection with Spatiotemporal Dropout Transformer", arXiv, 2022 (*CAS*). [[Paper](https://arxiv.org/abs/2207.06612)]
+    * **?**: "Deep Convolutional Pooling Transformer for Deepfake Detection", arXiv, 2022 (*HKU*). [[Paper](https://arxiv.org/abs/2209.05299)]
 
 [[Back to Overview](#overview)]
 
@@ -1993,6 +1995,7 @@ Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2204.08696)]
 * **?**: "Learning from Unlabeled 3D Environments for Vision-and-Language Navigation", ECCV, 2022 (*INRIA*). [[Paper](https://arxiv.org/abs/2208.11781)][[Website](https://cshizhe.github.io/projects/hm3d_autovln.html)]
 * **TransFuser**: "TransFuser: Imitation with Transformer-Based Sensor Fusion for Autonomous Driving", arXiv, 2022 (*MPI*). [[Paper](https://arxiv.org/abs/2205.15997)]
 * **TD-STP**: "Target-Driven Structured Transformer Planner for Vision-Language Navigation", arXiv, 2022 (*Beihang University*). [[Paper](https://arxiv.org/abs/2207.11201)][[Code (in construction)](https://github.com/YushengZhao/TD-STP)]
+* **DAVIS**: "Anticipating the Unseen Discrepancy for Vision and Language Navigation", arXiv, 2022 (*UCSB*). [[Paper](https://arxiv.org/abs/2209.04725)]
 
 [[Back to Overview](#overview)]
 
@@ -2087,6 +2090,7 @@ Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2207.11553)][[Cod
 * **TFusion**: "TFusion: Transformer based N-to-One Multimodal Fusion Block", arXiv, 2022 (*SouthChinaUniversityofTechnology*). [[Paper](https://arxiv.org/abs/2208.12776)]
 * **AutoPET**: "AutoPET Challenge: Combining nn-Unet with Swin UNETR Augmented by Maximum Intensity Projection Classifier", arXiv, 2022 (*University Hospital Essen, Germany*). [[Paper](https://arxiv.org/abs/2209.01112)]
 * **SPAN**: "Prior Knowledge-Guided Attention in Self-Supervised Vision Transformers", arXiv, 2022 (*Berkeley*). [[Paper](https://arxiv.org/abs/2209.03745)]
+* **TMSS**: "TMSS: An End-to-End Transformer-based Multimodal Network for Segmentation and Survival Prediction", arXiv, 2022 (*MBZUAI*). [[Paper](https://arxiv.org/abs/2209.05036)]
 
 [[Back to Overview](#overview)]
 
@@ -2354,6 +2358,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
 * Robotics:
     * **TF-Grasp**: "When Transformer Meets Robotic Grasping: Exploits Context for Efficient Grasp Detection", arXiv, 2022 (*University of Science and Technology of China*). [[Paper](https://arxiv.org/abs/2202.11911)][[Code (in construction)](https://github.com/WangShaoSUN/grasp-transformer)]
     * **BeT**: "Behavior Transformers: Cloning k modes with one stone", arXiv, 2022 (*NYU*). [[Paper](https://arxiv.org/abs/2206.11251)][[PyTorch](https://github.com/notmahi/bet)]
+    * **Perceiver-Actor**: "Perceiver-Actor: A Multi-Task Transformer for Robotic Manipulation", Conference on Robot Learning (CoRL), 2022 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2209.05451)][[Website](https://peract.github.io/)]
 * Scene Decomposition:
     * **SRT**: "Scene Representation Transformer: Geometry-Free Novel View Synthesis Through Set-Latent Scene Representations", CVPR, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2111.13152)][[PyTorch (stelzner)](https://github.com/stelzner/srt)][[Website](https://srt-paper.github.io/)]
     * **OSRT**: "Object Scene Representation Transformer", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2206.06922)][[Website](https://osrt-paper.github.io/)]
