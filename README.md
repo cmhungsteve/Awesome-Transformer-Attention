@@ -9,7 +9,7 @@ Contributions in any form to make this list more comprehensive are welcome.
 If you find this repository useful, please consider **[citing](#citation)** and **★STARing** this list. <br>
 Feel free to share this list with others! 
 
-**[Update: September, 2022]** Added the [Transformer tutorial slides](lucasb.eyer.be/transformer) made by [Lucas Beyer](https://twitter.com/giffmana)! <br>
+**[Update: September, 2022]** Added the [Transformer tutorial slides](http://lucasb.eyer.be/transformer) made by [Lucas Beyer](https://twitter.com/giffmana)! <br>
 **[Update: July, 2022]** Added all the related papers from *ICML 2022*! <br>
 **[Update: June, 2022]** Added all the related papers from *CVPR 2022*!
 
@@ -2599,7 +2599,7 @@ If you find this repository useful, please consider citing this list:
 ## References
 * Online Resources:
     * [Papers with Code](https://paperswithcode.com/methods/category/vision-transformer)
-    * [Transformer tutorial (Lucas Beyer)](lucasb.eyer.be/transformer)
+    * [Transformer tutorial (Lucas Beyer)](http://lucasb.eyer.be/transformer)
     * [CS25: Transformers United (Course @ Stanford)](https://web.stanford.edu/class/cs25/)
     * [The Annotated Transformer (Blog)](http://nlp.seas.harvard.edu/annotated-transformer/)
     * [3D Vision with Transformers (GitHub)](https://github.com/lahoud/3d-vision-transformers)
