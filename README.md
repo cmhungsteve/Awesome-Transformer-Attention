@@ -9,6 +9,7 @@ Contributions in any form to make this list more comprehensive are welcome.
 If you find this repository useful, please consider **[citing](#citation)** and **★STARing** this list. <br>
 Feel free to share this list with others! 
 
+**[Update: September, 2022]** Added the [Transformer tutorial slides](lucasb.eyer.be/transformer) made by [Lucas Beyer](https://twitter.com/giffmana)! <br>
 **[Update: July, 2022]** Added all the related papers from *ICML 2022*! <br>
 **[Update: June, 2022]** Added all the related papers from *CVPR 2022*!
 
@@ -62,7 +63,7 @@ Feel free to share this list with others!
     - [Scene Graph](#scene-graph)
     - [Other Multi-Modal Tasks](#other-multi-modal-tasks)
 - [Other High-level Vision Tasks](#other-high-level-vision-tasks)
-    - [Point Cloud](#point-cloud)
+    - [Point Cloud / 3D](#point-cloud--3d)
     - [Pose Estimation](#pose-estimation)
     - [Tracking](#tracking)
     - [Re-ID](#re-id)
@@ -484,6 +485,7 @@ Feel free to share this list with others!
 of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github.com/Zhicaiwww/PosMLP)]
 * **SplitMixer**: "SplitMixer: Fat Trimmed From MLP-like Models", arXiv, 2022 (*Quintic AI, California*). [[Paper](https://arxiv.org/abs/2207.10255)][[PyTorch](https://github.com/aliborji/splitmixer)]
 * **gSwin**: "gSwin: Gated MLP Vision Model with Hierarchical Structure of Shifted Window", arXiv, 2022 (*PKSHATechnology, Japan*). [[Paper](https://arxiv.org/abs/2208.11718)]
+* **?**: "Analysis of Quantization on MLP-based Vision Models", arXiv, 2022 (*Berkeley*). [[Paper](https://arxiv.org/abs/2209.06383)]
 #### Other Attention-Free
 * **PoolFormer**: "MetaFormer is Actually What You Need for Vision", CVPR, 2022 (*Sea AI Lab*). [[Paper](https://arxiv.org/abs/2111.11418)][[PyTorch](https://github.com/sail-sg/poolformer)]
 * **FocalNet**: "Focal Modulation Networks", arXiv, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2203.11926)][[PyTorch](https://github.com/microsoft/FocalNet)]
@@ -609,6 +611,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **PolarFormer**: "PolarFormer: Multi-camera 3D Object Detection with Polar Transformer", arXiv, 2022 (*Fudan University*). [[Paper](https://arxiv.org/abs/2206.15398#)][[Code (in construction)](https://github.com/fudan-zvg/PolarFormer)]
 * **AST-GRU**: "Graph Neural Network and Spatiotemporal Transformer Attention for 3D Video Object Detection from Point Clouds", arXiv, 2022 (*Beijing Institute of Technology*). [[Paper](https://arxiv.org/abs/2207.12659)]
 * **SEFormer**: "SEFormer: Structure Embedding Transformer for 3D Object Detection", arXiv, 2022 (*Tsinghua University*). [[Paper](https://arxiv.org/abs/2209.01745)]
+* **CRAFT**: "CRAFT: Camera-Radar 3D Object Detection with Spatio-Contextual Fusion Transformer", arXiv, 2022 (*KAIST*). [[Paper](https://arxiv.org/abs/2209.06535)]
 
 [[Back to Overview](#overview)]
 
@@ -1155,9 +1158,11 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **WebQA**: "WebQA: Multihop and Multimodal QA", CVPR, 2022 (*CMU + Microsoft*). [[Paper](https://arxiv.org/abs/2109.00590)][[PyTorch](https://github.com/WebQnA/WebQA_Baseline)][[Website](https://webqna.github.io/)]
 * **?**: "Efficient Adaptive Image-Language Learning for Visual Question Answering", CVPRW, 2022 (*Google*). [[Paper](https://drive.google.com/file/d/1SPeCqJ_Uzs_jk4yxxcSS8OOUKZmXf_Mt/view)]
 * **cViL**: "cViL: Cross-Lingual Training of Vision-Language Models using Knowledge Distillation", ICPR, 2022 (*IIIT, Hyderabad*). [[Paper](https://arxiv.org/abs/2206.03354)]
+* **WildQA**: "WildQA: In-the-Wild Video Question Answering", International Conference on Computational Linguistics (COLING), 2022 (*University of Michigan*). [[Paper](https://arxiv.org/abs/2209.06650)][[Website](https://lit.eecs.umich.edu/wildqa/)]
 * **?**: "Weakly Supervised Grounding for VQA in Vision-Language Transformers", ECCV, 2022 (*UCF*). [[Paper](https://arxiv.org/abs/2207.02334)][[PyTorch (in construction)](https://github.com/aurooj/WSG-VQA-VLTransformers)]
 * **VGT**: "Video Graph Transformer for Video Question Answering", ECCV, 2022 (*Sea AI Lab*). [[Paper](https://arxiv.org/abs/2207.05342)]
 * **?**: "Video Question Answering with Iterative Video-Text Co-Tokenization", ECCV, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2208.00934)][[Website (in construction)](https://sites.google.com/view/videoqa-cotokenization)]
+* **MUST-VQA**: "MUST-VQA: MUltilingual Scene-text VQA", ECCVW, 2022 (*UAB, Spain*). [[Paper](https://arxiv.org/abs/2209.06730)]
 * **TMN**: "Transformer Module Networks for Systematic Generalization in Visual Question Answering", arXiv, 2022 (*Fujitsu*). [[Paper](https://arxiv.org/abs/2201.11316)]
 * **?**: "On the Efficacy of Co-Attention Transformer Layers in Visual Question Answering", arXiv, 2022 (*Birla Institute of Technology Mesra, India*). [[Paper](https://arxiv.org/abs/2201.03965)]
 * **DST**: "Towards Efficient and Elastic Visual Question Answering with Doubly Slimmable Transformer", arXiv, 2022 (*Hangzhou Dianzi University*). [[Paper](https://arxiv.org/abs/2203.12814)]
@@ -1266,6 +1271,8 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **DetailCLIP**: "Injecting Image Details into CLIP's Feature Space", arXiv, 2022 (*Megvii*). [[Paper](https://arxiv.org/abs/2208.14649)]
 * **?**: "An Empirical Study of End-to-End Video-Language Transformers with Masked Visual Modeling", arXiv, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2209.01540)]
 * **?**: "Pre-training image-language transformers for open-vocabulary tasks", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2209.04372)]
+* **PaLI**: "PaLI: A Jointly-Scaled Multilingual Language-Image Model", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2209.06794)]
+* **CLIP-ViP**: "CLIP-ViP: Adapting Pre-trained Image-Text Model to Video-Language Representation Alignment", arXiv, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2209.06430)][[Code (in construction)](https://github.com/microsoft/XPretrain/tree/main/CLIP-ViP)]
 
 [[Back to Overview](#overview)]
 
@@ -1422,7 +1429,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 
 
 ## Other High-level Vision Tasks
-### Point Cloud
+### Point Cloud / 3D
 * **PCT**: "PCT: Point Cloud Transformer", arXiv, 2020 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2012.09688)][[Jittor](https://github.com/MenghaoGuo/PCT)][[PyTorch (uyzhang)](https://github.com/uyzhang/PCT_Pytorch)]
 * **Point-Transformer**: "Point Transformer", arXiv, 2020 (*Ulm University*). [[Paper](https://arxiv.org/abs/2011.00931)]
 * **NDT-Transformer**: "NDT-Transformer: Large-Scale 3D Point Cloud Localisation using the Normal Distribution Transform Representation", ICRA, 2021 (*University of Sheffield*). [[Paper](https://arxiv.org/abs/2103.12292)][[PyTorch](https://github.com/dachengxiaocheng/NDT-Transformer)]
@@ -1471,6 +1478,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **PointConvFormer**: "PointConvFormer: Revenge of the Point-based Convolution", arXiv, 2022 (*Apple*). [[Paper](https://arxiv.org/abs/2208.02879)]
 * **PTTR++**: "Exploring Point-BEV Fusion for 3D Point Cloud Object Tracking with Transformer", arXiv, 2022 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2208.05216)][[PyTorch](https://github.com/Jasonkks/PTTR)]
 * **Pix4Point**: "Pix4Point: Image Pretrained Transformers for 3D Point Cloud Understanding", arXiv, 2022 (*KAUST*). [[Paper](https://arxiv.org/abs/2208.12259)][[Code (in construction)](https://github.com/guochengqian/Pix4Point)]
+* **MVP**: "Multiple View Performers for Shape Completion", arXiv, 2022 (*Columbia University*). [[Paper](https://arxiv.org/abs/2209.06291)]
 
 [[Back to Overview](#overview)]
 
@@ -2312,6 +2320,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **VTS**: "Vision Transformer Hashing for Image Retrieval", arXiv, 2021 (*IIIT-Allahabad*). [[Paper](https://arxiv.org/abs/2109.12564)]
     * **GTZSR**: "Zero-Shot Sketch Based Image Retrieval using Graph Transformer", arXiv, 2022 (*IIT Bombay*). [[Paper](https://arxiv.org/abs/2201.10185)]
     * **EViT**: "EViT: Privacy-Preserving Image Retrieval via Encrypted Vision Transformer in Cloud Computing", arXiv, 2022 (*Jinan University*). [[Paper](https://arxiv.org/abs/2208.14657)][[PyTorch (in construction)](https://github.com/onlinehuazai/EViT)]
+    * **?**: "Transformers and CNNs both Beat Humans on SBIR", arXiv, 2022 (*University of Mons, Belgium*). [[Paper](https://arxiv.org/abs/2209.06629)]
 * Layout Generation:
     * **VTN**: "Variational Transformer Networks for Layout Generation", CVPR, 2021 (*Google*). [[Paper](https://arxiv.org/abs/2104.02416)]
     * **LayoutTransformer**: "LayoutTransformer: Scene Layout Generation With Conceptual and Spatial Diversity", CVPR, 2021 (*NTU*). [[Paper](https://openaccess.thecvf.com/content/CVPR2021/html/Yang_LayoutTransformer_Scene_Layout_Generation_With_Conceptual_and_Spatial_Diversity_CVPR_2021_paper.html)][[PyTorch](https://github.com/davidhalladay/LayoutTransformer)]
@@ -2590,6 +2599,7 @@ If you find this repository useful, please consider citing this list:
 ## References
 * Online Resources:
     * [Papers with Code](https://paperswithcode.com/methods/category/vision-transformer)
+    * [Transformer tutorial (Lucas Beyer)](lucasb.eyer.be/transformer)
     * [CS25: Transformers United (Course @ Stanford)](https://web.stanford.edu/class/cs25/)
     * [The Annotated Transformer (Blog)](http://nlp.seas.harvard.edu/annotated-transformer/)
     * [3D Vision with Transformers (GitHub)](https://github.com/lahoud/3d-vision-transformers)
