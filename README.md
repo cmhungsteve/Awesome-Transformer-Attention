@@ -521,6 +521,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **?**: "How Well Do Vision Transformers (VTs) Transfer To The Non-Natural Image Domain? An Empirical Study Involving Art Classification", arXiv, 2022 (*University of Groningen, The Netherlands*). [[Paper](https://arxiv.org/abs/2208.04693)]
 * **?**: "Transformer Vs. MLP-Mixer Exponential Expressive Gap For NLP Problems", arXiv, 2022 (*Technion Israel Institute Of Technology*). [[Paper](https://arxiv.org/abs/2208.08191)]
 * **ProtoPFormer**: "ProtoPFormer: Concentrating on Prototypical Parts in Vision Transformers for Interpretable Image Recognition", arXiv, 2022 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2208.10431)][[PyTorch](https://github.com/zju-vipa/ProtoPFormer)]
+* **ICLIP**: "Exploring Visual Interpretability for Contrastive Language-Image Pre-training", arXiv, 2022 (*HKUST*). [[Paper](https://arxiv.org/abs/2209.07046)][[Code (in construction)](https://github.com/xmed-lab/ICLIP)]
 
 [[Back to Overview](#overview)]
 
@@ -692,6 +693,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **Laneformer**: "Laneformer: Object-aware Row-Column Transformers for Lane Detection", AAAI, 2022 (*Huawei*). [[Paper](https://arxiv.org/abs/2203.09830)]
     * **TLC**: "Transformer Based Line Segment Classifier With Image Context for Real-Time Vanishing Point Detection in Manhattan World", CVPR, 2022 (*Peking University*). [[Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Tong_Transformer_Based_Line_Segment_Classifier_With_Image_Context_for_Real-Time_CVPR_2022_paper.html)]
     * **PersFormer**: "PersFormer: 3D Lane Detection via Perspective Transformer and the OpenLane Benchmark", arXiv, 2022 (*Shanghai AI Laboratory*). [[Paper](https://arxiv.org/abs/2203.11089)][[GitHub](https://github.com/OpenPerceptionX/OpenLane)]
+    * **PriorLane**: "PriorLane: A Prior Knowledge Enhanced Lane Detection Approach Based on Transformer", arXiv, 2022 (*Zhejiang Lab*). [[Paper](https://arxiv.org/abs/2209.06994)][[PyTorch](https://github.com/vincentqqb/priorlane)]
 * Object Localization:
     * **TS-CAM**: "TS-CAM: Token Semantic Coupled Attention Map for Weakly Supervised Object Localization", arXiv, 2021 (*CAS*). [[Paper](https://arxiv.org/abs/2103.14862)]
     * **LCTR**: "LCTR: On Awakening the Local Continuity of Transformer for Weakly Supervised Object Localization", AAAI, 2022 (*Xiamen University*). [[Paper](https://arxiv.org/abs/2112.05291)]
@@ -1176,6 +1178,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **CLOVE**: "Symbolic Replay: Scene Graph as Prompt for Continual Learning on VQA Task", arXiv, 2022 (*NUS*). [[Paper](https://arxiv.org/abs/2208.12037)][[Code (in construction)](https://github.com/showlab/CLVQA)]
 * **WSQG**: "Frame-Subtitle Self-Supervision for Multi-Modal Video Question Answering", arXiv, 2022 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2209.03609)]
 * **mVQA**: "Towards Multi-Lingual Visual Question Answering", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2209.05401)]
+* **CIB**: "Finetuning Pretrained Vision-Language Models with Correlation Information Bottleneck for Robust Visual Question Answering", arXiv, 2022 (*Xi'an Jiaotong University*). [[Paper](https://arxiv.org/abs/2209.06954)]
 
 [[Back to Overview](#overview)]
 
@@ -1483,6 +1486,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **PTTR++**: "Exploring Point-BEV Fusion for 3D Point Cloud Object Tracking with Transformer", arXiv, 2022 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2208.05216)][[PyTorch](https://github.com/Jasonkks/PTTR)]
 * **Pix4Point**: "Pix4Point: Image Pretrained Transformers for 3D Point Cloud Understanding", arXiv, 2022 (*KAUST*). [[Paper](https://arxiv.org/abs/2208.12259)][[Code (in construction)](https://github.com/guochengqian/Pix4Point)]
 * **MVP**: "Multiple View Performers for Shape Completion", arXiv, 2022 (*Columbia University*). [[Paper](https://arxiv.org/abs/2209.06291)]
+* **Simple3D-Former**: "Can We Solve 3D Vision Tasks Starting from A 2D Vision Transformer?", arXiv, 2022 (*UT Austin*). [[Paper](https://arxiv.org/abs/2209.07026)][[PyTorch](https://github.com/Reimilia/Simple3D-Former)]
 
 [[Back to Overview](#overview)]
 
@@ -1910,6 +1914,7 @@ Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2204.08696)]
 * **AttnFlow**: "Generative Flows with Invertible Attentions", CVPR, 2022 (*ETHZ*). [[Paper](https://arxiv.org/abs/2106.03959)]
 * **NÜWA**: "NÜWA: Visual Synthesis Pre-training for Neural visUal World creAtion", ECCV, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2111.12417)][[GitHub](https://github.com/microsoft/NUWA)]
 * **Trans-INR**: "Transformers as Meta-Learners for Implicit Neural Representations", ECCV, 2022 (*UCSD*). [[Paper](https://arxiv.org/abs/2208.02801)][[PyTorch](https://github.com/yinboc/trans-inr)][[Websiste](https://yinboc.github.io/trans-inr/)]
+* **PromptGen**: "Generative Visual Prompt: Unifying Distributional Control of Pre-Trained Generative Models", NeurIPS, 2022 (*CMU*). [[Paper](https://arxiv.org/abs/2209.06970)][[PyTorch](https://github.com/ChenWu98/Generative-Visual-Prompt)]
 * **ViT-Patch**: "A Robust Framework of Chromosome Straightening with ViT-Patch GAN", arXiv, 2022 (*Xi'an Jiaotong-Liverpool University*). [[Paper](https://arxiv.org/abs/2203.02901)]
 * **ViewFormer**: "ViewFormer: NeRF-free Neural Rendering from Few Images Using Transformers", arXiv, 2022 (*Czech Technical University in Prague*). [[Paper](https://arxiv.org/abs/2203.10157)][[Tensorflow](https://github.com/jkulhanek/viewformer)]
 * **TransNeRF**: "Generalizable Neural Radiance Fields for Novel View Synthesis with Transformer", arXiv, 2022 (*UBC*). [[Paper](https://arxiv.org/abs/2206.05375)]
