@@ -329,6 +329,7 @@ Feel free to share this list with others!
 * **MoCoViT**: "MoCoViT: Mobile Convolutional Vision Transformer", arXiv, 2022 (*ByteDance*). [[Paper](https://arxiv.org/abs/2205.12635)]
 * **DynamicViT**: "Dynamic Spatial Sparsification for Efficient Vision Transformers and Convolutional Neural Networks", arXiv, 2022 (*Tsinghua University*). [[Paper](https://arxiv.org/abs/2207.01580)][[PyTorch](https://github.com/raoyongming/DynamicViT)]
 * **CETNet**: "Convolutional Embedding Makes Hierarchical Vision Transformer Stronger", arXiv, 2022 (*OPPO*). [[Paper](https://arxiv.org/abs/2207.13317)]
+* **ConvFormer**: "ConvFormer: Closing the Gap Between CNN and Vision Transformers", arXiv, 2022 (*National University of Defense Technology, China*). [[Paper](https://arxiv.org/abs/2209.07738)]
 #### Training + Transformer
 * **iGPT**: "Generative Pretraining From Pixels", ICML, 2020 (*OpenAI*). [[Paper](http://proceedings.mlr.press/v119/chen20s.html)][[Tensorflow](https://github.com/openai/image-gpt)]
 * **MoCo-V3**: "An Empirical Study of Training Self-Supervised Vision Transformers", ICCV, 2021 (*Facebook*). [[Paper](https://arxiv.org/abs/2104.02057)]
@@ -694,6 +695,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **TLC**: "Transformer Based Line Segment Classifier With Image Context for Real-Time Vanishing Point Detection in Manhattan World", CVPR, 2022 (*Peking University*). [[Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Tong_Transformer_Based_Line_Segment_Classifier_With_Image_Context_for_Real-Time_CVPR_2022_paper.html)]
     * **PersFormer**: "PersFormer: 3D Lane Detection via Perspective Transformer and the OpenLane Benchmark", arXiv, 2022 (*Shanghai AI Laboratory*). [[Paper](https://arxiv.org/abs/2203.11089)][[GitHub](https://github.com/OpenPerceptionX/OpenLane)]
     * **PriorLane**: "PriorLane: A Prior Knowledge Enhanced Lane Detection Approach Based on Transformer", arXiv, 2022 (*Zhejiang Lab*). [[Paper](https://arxiv.org/abs/2209.06994)][[PyTorch](https://github.com/vincentqqb/priorlane)]
+    * **CurveFormer**: "CurveFormer: 3D Lane Detection by Curve Propagation with Curve Queries and Attention", arXiv, 2022 (*NullMax, China*). [[Paper](https://arxiv.org/abs/2209.07989)]
 * Object Localization:
     * **TS-CAM**: "TS-CAM: Token Semantic Coupled Attention Map for Weakly Supervised Object Localization", arXiv, 2021 (*CAS*). [[Paper](https://arxiv.org/abs/2103.14862)]
     * **LCTR**: "LCTR: On Awakening the Local Continuity of Transformer for Weakly Supervised Object Localization", AAAI, 2022 (*Xiamen University*). [[Paper](https://arxiv.org/abs/2112.05291)]
@@ -2117,6 +2119,7 @@ Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2207.11553)][[Cod
 * **AutoPET**: "AutoPET Challenge: Combining nn-Unet with Swin UNETR Augmented by Maximum Intensity Projection Classifier", arXiv, 2022 (*University Hospital Essen, Germany*). [[Paper](https://arxiv.org/abs/2209.01112)]
 * **SPAN**: "Prior Knowledge-Guided Attention in Self-Supervised Vision Transformers", arXiv, 2022 (*Berkeley*). [[Paper](https://arxiv.org/abs/2209.03745)]
 * **TMSS**: "TMSS: An End-to-End Transformer-based Multimodal Network for Segmentation and Survival Prediction", arXiv, 2022 (*MBZUAI*). [[Paper](https://arxiv.org/abs/2209.05036)]
+* **CR-Swin2-VT**: "Hybrid Window Attention Based Transformer Architecture for Brain Tumor Segmentation", arXiv, 2022 (*Monash University*). [[Paper](https://arxiv.org/abs/2209.07704)][[PyTorch](https://github.com/himashi92/vizviva_fets_2022)]
 
 [[Back to Overview](#overview)]
 
@@ -2369,6 +2372,8 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
 * Place Recognition:
     * **SVT-Net**: "SVT-Net: A Super Light-Weight Network for Large Scale Place Recognition using Sparse Voxel Transformers", AAAI, 2022 (*Renmin University of China*). [[Paper](https://arxiv.org/abs/2105.00149)]
     * **TransVPR**: "TransVPR: Transformer-based place recognition with multi-level attention aggregation", CVPR, 2022 (*Xi'an Jiaotong*). [[Paper](https://arxiv.org/abs/2201.02001)]
+    * **OverlapTransformer**: "OverlapTransformer: An Efficient and Rotation-Invariant Transformer Network for LiDAR-Based Place Recognition", IROS, 2022 (*HAOMO.AI, China*). [[Paper](https://arxiv.org/abs/2203.03397)][[PyTorch](https://github.com/haomo-ai/OverlapTransformer)]
+    * **SeqOT**: "SeqOT: A Spatial-Temporal Transformer Network for Place Recognition Using Sequential LiDAR Data", arXiv, 2022 (*National University of Defense Technology, China*). [[Paper](https://arxiv.org/abs/2209.07951)][[PyTorch](https://github.com/BIT-MJY/SeqOT)]
 * Remote Sensing/Hyperspectral/Satellite:
     * **DCFAM**: "Transformer Meets DCFAM: A Novel Semantic Segmentation Scheme for Fine-Resolution Remote Sensing Images", arXiv, 2021 (*Wuhan University*). [[Paper](https://arxiv.org/abs/2104.12137)]
     * **WiCNet**: "Looking Outside the Window: Wider-Context Transformer for the Semantic Segmentation of High-Resolution Remote Sensing Images", arXiv, 2021 (*University of Trento*). [[Paper](https://arxiv.org/abs/2106.15754)]
