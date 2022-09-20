@@ -236,6 +236,7 @@ Feel free to share this list with others!
 * **Dual-ViT**: "Dual Vision Transformer", arXiv, 2022 (*JD*). [[Paper](https://arxiv.org/abs/2207.04976)][[PyTorch](https://github.com/YehLi/ImageNetModel)]
 * **MMA**: "Multi-manifold Attention for Vision Transformers", arXiv, 2022 (*Centre for Research and Technology Hellas, Greece*). [[Paper](https://arxiv.org/abs/2207.08569)]
 * **MAFormer**: "MAFormer: A Transformer Network with Multi-scale Attention Fusion for Visual Recognition", arXiv, 2022 (*Baidu*). [[Paper](https://arxiv.org/abs/2209.01620)]
+* **AEWin**: "Axially Expanded Windows for Local-Global Interaction in Vision Transformers", arXiv, 2022 (*Southwest Jiaotong University*). [[Paper](https://arxiv.org/abs/2209.08726)]
 #### Efficient Vision Transformer
 * **DeiT**: "Training data-efficient image transformers & distillation through attention", ICML, 2021 (*Facebook*). [[Paper](https://arxiv.org/abs/2012.12877)][[PyTorch](https://github.com/facebookresearch/deit)]
 * **ConViT**: "ConViT: Improving Vision Transformers with Soft Convolutional Inductive Biases", ICML, 2021 (*Facebook*). [[Paper](https://arxiv.org/abs/2103.10697)][[Code](https://github.com/facebookresearch/convit)]
@@ -979,6 +980,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **?**: "Exploring Anchor-based Detection for Ego4D Natural Language Query", arXiv, 2022 (*Renmin University of China*). [[Paper](https://arxiv.org/abs/2208.05375)]
 * **EAMAT**: "Entity-aware and Motion-aware Transformers for Language-driven Action Localization in Videos", IJCAI, 2022 (*Beijing Institute of Technology*). [[Paper](https://arxiv.org/abs/2205.05854)][[Code (in construction)](https://github.com/shuoyang129/EAMAT)]
 * **STPT**: "An Efficient Spatio-Temporal Pyramid Transformer for Action Detection", ECCV, 2022 (*Monash University, Australia*). [[Paper](https://arxiv.org/abs/2207.10448)]
+* **TeSTra**: "Real-time Online Video Detection with Temporal Smoothing Transformers", ECCV, 2022 (*UT Austin*). [[Paper](https://arxiv.org/abs/2209.09236)][[PyTorch](https://github.com/zhaoyue-zephyrus/TeSTra)]
 * **CoOadTR**: "Continual Transformers: Redundancy-Free Attention for Online Inference", arXiv, 2022 (*Aarhus University, Denmark*). [[Paper](https://arxiv.org/abs/2201.06268)][[PyTorch](https://github.com/LukasHedegaard/continual-transformers)]
 * **ActionFormer**: "ActionFormer: Localizing Moments of Actions with Transformers", arXiv, 2022 (*UW-Madison*). [[Paper](https://arxiv.org/abs/2202.07925)][[PyTorch](https://github.com/happyharrycn/actionformer_release)]
 * **Temporal-Perceiver**: "Temporal Perceiver: A General Architecture for Arbitrary Boundary Detection", arXiv, 2022 (*Nanjing University*). [[Paper](https://arxiv.org/abs/2203.00307)]
@@ -2436,6 +2438,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **STrajNet**: "STrajNet: Occupancy Flow Prediction via Multi-modal Swin Transformer", arXiv, 2022 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2208.00394)]
     * **MTPP**: "Multi-modal Transformer Path Prediction for Autonomous Vehicle", arXiv, 2022 (*National Central University*). [[Paper](https://arxiv.org/abs/2208.07256)]
     * **MapTR**: "MapTR: Structured Modeling and Learning for Online Vectorized HD Map Construction", arXiv, 2022 (*Horizon Robotics*). [[Paper](https://arxiv.org/abs/2208.14437)][[Code (in construction)](https://github.com/hustvl/MapTR)]
+    * **DCT**: "A Dual-Cycled Cross-View Transformer Network for Unified Road Layout Estimation and 3D Object Detection in the Bird's-Eye-View", arXiv, 2022 (*Gwang-ju Institute of Science and Technology*). [[Paper](https://arxiv.org/abs/2209.08844)]
 * Trajectory Prediction:
     * **mmTransformer**: "Multimodal Motion Prediction with Stacked Transformers", CVPR, 2021 (*CUHK + SenseTime*). [[Paper](https://arxiv.org/abs/2103.11624)][[Code (in construction)](https://github.com/decisionforce/mmTransformer)][[Website](https://decisionforce.github.io/mmTransformer/)]
     * **AgentFormer**: "AgentFormer: Agent-Aware Transformers for Socio-Temporal Multi-Agent Forecasting", ICCV, 2021 (*CMU*). [[Paper](https://arxiv.org/abs/2103.14023)][[PyTorch](https://github.com/Khrylx/AgentFormer)][[Website](https://www.ye-yuan.com/agentformer/)]
@@ -2494,6 +2497,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **3D-C2FT**: "3D-C2FT: Coarse-to-fine Transformer for Multi-view 3D Reconstruction", arXiv, 2022 (*Korea Institute of Science and Technology*). [[Paper](https://arxiv.org/abs/2205.14575)]
 * 360 Scene:
     * **?**: "Improving 360 Monocular Depth Estimation via Non-local Dense Prediction Transformer and Joint Supervised and Self-supervised Learning", AAAI, 2022 (*Seoul National University*). [[Paper](https://arxiv.org/abs/2109.10563)][[PyTorch](https://github.com/yuniw18/Joint_360depth)]
+    * **PAVER**: "Panoramic Vision Transformer for Saliency Detection in 360° Videos", ECCV, 2022 (*Seoul National University*). [[Paper](https://arxiv.org/abs/2209.08956)]
     * **SPH**: "Spherical Transformer", arXiv, 2022 (*Chung-Ang University, Korea*). [[Paper](https://arxiv.org/abs/2202.04942)]
     * **PanoFormer**: "PanoFormer: Panorama Transformer for Indoor 360° Depth Estimation", arXiv, 2022 (*Beijing Jiaotong University*). [[Paper](https://arxiv.org/abs/2203.09283)]
 
@@ -2589,6 +2593,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
 * **LARA**: "Linear Complexity Randomized Self-attention Mechanism", ICML, 2022 (*Bytedance*). [[Paper](https://arxiv.org/abs/2204.04667)]
 * **Flowformer**: "Flowformer: Linearizing Transformers with Conservation Flows", ICML, 2022 (*Tsinghua University*). [[Paper](https://arxiv.org/abs/2202.06258)][[PyTorch](https://github.com/thuml/Flowformer)]
 * **MRA**: "Multi Resolution Analysis (MRA) for Approximate Self-Attention", ICML, 2022 (*University of Wisconsin, Madison*). [[Paper](https://proceedings.mlr.press/v162/zeng22a.html)][[PyTorch](https://github.com/mlpen/mra-attention)]
+* **EcoFormer**: "EcoFormer: Energy-Saving Attention with Linear Complexity", NeurIPS, 2022 (*Monash University*). [[Paper](https://arxiv.org/abs/2209.09004)][[Code (in construction)](https://github.com/ziplab/EcoFormer)]
 * **?**: "Horizontal and Vertical Attention in Transformers", arXiv, 2022 (*University of Technology Sydney*). [[Paper](https://arxiv.org/abs/2207.04399)]
 * **MRL**: "MRL: Learning to Mix with Attention and Convolutions", arXiv, 2022 (*Sony*). [[Paper](https://arxiv.org/abs/2208.13975)]
 
