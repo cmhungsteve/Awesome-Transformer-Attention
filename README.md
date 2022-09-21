@@ -1986,6 +1986,7 @@ Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2204.08696)]
     * **SPGAT**: "Structural Prior Guided Generative Adversarial Transformers for Low-Light Image Enhancement", arXiv, 2022 (*The Hong Kong Polytechnic University*). [[Paper](https://arxiv.org/abs/2207.07828)]
 * HDR:
     * **CA-ViT**: "Ghost-free High Dynamic Range Imaging with Context-aware Transformer", ECCV, 2022 (*Megvii*). [[Paper](https://arxiv.org/abs/2208.05114)][[Code](https://github.com/megvii-research/HDR-Transformer)]
+    * **Text2Light**: "Text2Light: Zero-Shot Text-Driven HDR Panorama Generation", SIGGRAPH Asia, 2022 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2209.09898)][[PyTorch](https://github.com/FrozenBurning/Text2Light)][[Website](https://frozenburning.github.io/projects/text2light/)]
 * Harmonization:
     * **HT**: "Image Harmonization With Transformer", ICCV, 2021 (*Ocean University of China*). [[Paper](https://openaccess.thecvf.com/content/ICCV2021/html/Guo_Image_Harmonization_With_Transformer_ICCV_2021_paper.html)]
 * Compression:
