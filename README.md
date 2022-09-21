@@ -686,6 +686,8 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **SaFT**: "Semantic-aligned Fusion Transformer for One-shot Object Detection", CVPR, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2203.09093)]
     * **Meta-DETR**: "Meta-DETR: Image-Level Few-Shot Detection with Inter-Class Correlation Exploitation", TPAMI, 2022 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2208.00219)]
     * **Incremental-DETR**: "Incremental-DETR: Incremental Few-Shot Object Detection via Self-Supervised Learning", arXiv, 2022 (*NUS*). [[Paper](https://arxiv.org/abs/2205.04042)]
+* Open-World:
+    * **DetCLIP**: "DetCLIP: Dictionary-Enriched Visual-Concept Paralleled Pre-training for Open-world Detection", NeurIPS, 2022 (*HKUST*). [[Paper](https://arxiv.org/abs/2209.09407)]
 * Pedestrian Detection:
     * **PED**: "DETR for Crowd Pedestrian Detection", arXiv, 2020 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2012.06785)][[PyTorch](https://github.com/Hatmm/PED-DETR-for-Pedestrian-Detection)]
     * **Pedestron**: "Pedestrian Detection: Domain Generalization, CNNs, Transformers and Beyond", arXiv, 2022 (*IIAI*). [[Paper](https://arxiv.org/abs/2201.03176)][[PyTorch](https://github.com/hasanirtiza/Pedestron)]
@@ -780,6 +782,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **TopFormer**: "TopFormer: Token Pyramid Transformer for Mobile Semantic Segmentation", CVPR, 2022 (*Tencent*). [[Paper](https://arxiv.org/abs/2204.05525)][[PyTorch](https://github.com/hustvl/TopFormer)]
 * **GroupViT**: "GroupViT: Semantic Segmentation Emerges from Text Supervision", CVPR, 2022 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2202.11094)][[Website](https://jerryxu.net/GroupViT/)][[PyTorch](https://github.com/NVlabs/GroupViT)]
 * **HRViT**: "Multi-Scale High-Resolution Vision Transformer for Semantic Segmentation", CVPR, 2022 (*Meta*). [[Paper](https://arxiv.org/abs/2111.01236)][[PyTorch](https://github.com/facebookresearch/HRViT)]
+* **GReaT**: "Graph Reasoning Transformer for Image Parsing", ACMMM, 2022 (*HKUST*). [[Paper](https://arxiv.org/abs/2209.09545)]
 * **Lawin**: "Lawin Transformer: Improving Semantic Segmentation Transformer with Multi-Scale Representations via Large Window Attention", arXiv, 2022 (*Beijing University of Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2201.01615)][[PyTorch](https://github.com/yan-hao-tian/lawin)]
 * **PFT**: "Pyramid Fusion Transformer for Semantic Segmentation", arXiv, 2022 (*CUHK + SenseTime*). [[Paper](https://arxiv.org/abs/2201.04019)]
 * **DFlatFormer**: "Dual-Flattening Transformers through Decomposed Row and Column Queries for Semantic Segmentation", arXiv, 2022 (*OPPO*). [[Paper](https://arxiv.org/abs/2201.09139)]
@@ -1553,6 +1556,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **KOG-Transformer**: "K-Order Graph-oriented Transformer with GraAttention for 3D Pose and Shape Estimation", arXiv, 2022 (*CAS*). [[Paper](https://arxiv.org/abs/2208.11328)]
     * **SoMoFormer**: "SoMoFormer: Multi-Person Pose Forecasting with Transformers", arXiv, 2022 (*Stanford*). [[Paper](https://arxiv.org/abs/2208.14023)]
     * **DPIT**: "DPIT: Dual-Pipeline Integrated Transformer for Human Pose Estimation", arXiv, 2022 (*Shanghai University*). [[Paper](https://arxiv.org/abs/2209.02431)]
+    * **HTT**: "Hierarchical Temporal Transformer for 3D Hand Pose Estimation and Action Recognition from Egocentric RGB Videos", arXiv, 2022 (*HKU*). [[Paper](https://arxiv.org/abs/2209.09484)]
 * Others:
     * **TAPE**: "Transformer Guided Geometry Model for Flow-Based Unsupervised Visual Odometry", arXiv, 2020 (*Tianjing University*). [[Paper](https://arxiv.org/abs/2101.02143)]
     * **T6D-Direct**: "T6D-Direct: Transformers for Multi-Object 6D Pose Direct Regression", GCPR, 2021 (*University of Bonn*). [[Paper](https://arxiv.org/abs/2109.10948)]
@@ -2087,6 +2091,7 @@ Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2204.08696)]
 * **?**: "Transformer-based out-of-distribution detection for clinically safe segmentation", Medical Imaging with Deep Learning (MIDL), 2022 (*King’s College London*). [[Paper](https://arxiv.org/abs/2205.10650)]
 * **ScaleFormer**: "ScaleFormer: Revisiting the Transformer-based Backbones from a Scale-wise Perspective for Medical Image Segmentation", IJCAI, 2022 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2207.14552)][[Code (in construction)](https://github.com/ZJUGiveLab/ScaleFormer)]
 * **FCBFormer**: "FCN-Transformer Feature Fusion for Polyp Segmentation", Annual Conference on Medical Image Understanding and Analysis (MIUA), 2022 (*University of Central Lancashire, UK*). [[Paper](https://arxiv.org/abs/2208.08352)][[PyTorch](https://github.com/ESandML/FCBFormer)]
+* **VDFormer**: "View-Disentangled Transformer for Brain Lesion Detection", ISBI, 2022 (*CUHK*). [[Paper](https://arxiv.org/abs/2209.09657)][[PyTorch](https://github.com/lhaof/ISBI-VDFormer)]
 * **TFCNs**: "TFCNs: A CNN-Transformer Hybrid Network for Medical Image Segmentation", International Conference on Artificial Neural Networks (ICANN), 2022 (*Xiamen University*). [[Paper](https://arxiv.org/abs/2207.03450)][[PyTorch (in construction)](https://github.com/HUANGLIZI/TFCNs)]
 * **MIL**: "Transformer based multiple instance learning for weakly supervised histopathology image segmentation", MICCAI, 2022 (*Beihang University*). [[Paper](https://arxiv.org/abs/2205.08878)]
 * **mmFormer**: "mmFormer: Multimodal Medical Transformer for Incomplete Multimodal Learning of Brain Tumor Segmentation", MICCAI, 2022 (*CAS*). [[Paper](https://arxiv.org/abs/2206.02425)][[PyTorch](https://github.com/YaoZhang93/mmFormer)]
