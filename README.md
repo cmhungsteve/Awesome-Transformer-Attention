@@ -792,6 +792,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **HILA**: "Improving Semantic Segmentation in Transformers using Hierarchical Inter-Level Attention", arXiv, 2022 (*University of Toronto*). [[Paper](https://arxiv.org/abs/2207.02126)][[Website](https://www.cs.toronto.edu/~garyleung/hila/)][[PyTorch](https://github.com/fidler-lab/hila)]
 * **HLG**: "Visual Representation Learning with Transformer: A Sequence-to-Sequence Perspective", arXiv, 2022 (*Fudan University*). [[Paper](https://arxiv.org/abs/2207.09339)][[PyTorch](https://github.com/fudan-zvg/SETR)]
 * **SSformer**: "SSformer: A Lightweight Transformer for Semantic Segmentation", arXiv, 2022 (*Nanjing University of Aeronautics and Astronautics*). [[Paper](https://arxiv.org/abs/2208.02034)][[PyTorch](https://github.com/shiwt03/SSformer)]
+* **NamedMask**: "NamedMask: Distilling Segmenters from Complementary Foundation Models", arXiv, 2022 (*Oxford*). [[Paper](https://arxiv.org/abs/2209.11228)][[PyTorch](https://github.com/NoelShin/namedmask)][[Website](https://www.robots.ox.ac.uk/~vgg/research/namedmask/)]
 
 [[Back to Overview](#overview)]
 
@@ -1979,6 +1980,7 @@ Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2204.08696)]
 * Colorization: 
     * **ColTran**: "Colorization Transformer", ICLR, 2021 (*Google*). [[Paper](https://openreview.net/forum?id=5NA1PinlGFu)][[Tensorflow](https://github.com/google-research/google-research/tree/master/coltran)]
     * **ViT-I-GAN**: "ViT-Inception-GAN for Image Colourising", arXiv, 2021 (*D.Y Patil College of Engineering, India*). [[Paper](https://arxiv.org/abs/2106.06321)]
+    * **UniColor**: "UniColor: A Unified Framework for Multi-Modal Colorization with Transformer", SIGGRAPH Asia, 2022 (*CUHK*). [[Paper](https://arxiv.org/abs/2209.11223)][[Website](https://luckyhzt.github.io/unicolor/)]
     * **iColoriT**: "iColoriT: Towards Propagating Local Hint to the Right Region in Interactive Colorization by Leveraging Vision Transformer", arXiv, 2022 (*KAIST*). [[Paper](https://arxiv.org/abs/2207.06831)]
 * Enhancement:
     * **PanFormer**: "PanFormer: a Transformer Based Model for Pan-sharpening", ICME, 2022 (*Beihang University*). [[Paper](https://arxiv.org/abs/2203.02916)][[PyTorch](https://github.com/zhysora/PanFormer)]
@@ -2328,6 +2330,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
 * Gaze:
     * **GazeTR**: "Gaze Estimation using Transformer", arXiv, 2021 (*Beihang University*). [[Paper](https://arxiv.org/abs/2105.14424)][[PyTorch](https://github.com/yihuacheng/GazeTR)]
     * **HGTTR**: "End-to-End Human-Gaze-Target Detection with Transformers", CVPR, 2022 (*Shanghai Jiao Tong*). [[Paper](https://arxiv.org/abs/2203.10433)]
+    * **MGTR**: "MGTR: End-to-End Mutual Gaze Detection with Transformer", ACCV, 2022 (*Nankai University*). [[Paper](https://arxiv.org/abs/2209.10930)][[PyTorch](https://github.com/Gmbition/MGTR)]
     * **GLC**: "In the Eye of Transformer: Global-Local Correlation for Egocentric Gaze Estimation", arXiv, 2022 (*Georgia Tech*). [[Paper](https://arxiv.org/abs/2208.04464)][[Website](https://bolinlai.github.io/GLC-EgoGazeEst/)]
 * Geo-Localization:
     * **EgoTR**: "Cross-view Geo-localization with Evolving Transformer", arXiv, 2021 (*Shenzhen University*). [[Paper](https://arxiv.org/abs/2107.00842)]
@@ -2407,6 +2410,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **TF-Grasp**: "When Transformer Meets Robotic Grasping: Exploits Context for Efficient Grasp Detection", arXiv, 2022 (*University of Science and Technology of China*). [[Paper](https://arxiv.org/abs/2202.11911)][[Code (in construction)](https://github.com/WangShaoSUN/grasp-transformer)]
     * **BeT**: "Behavior Transformers: Cloning k modes with one stone", arXiv, 2022 (*NYU*). [[Paper](https://arxiv.org/abs/2206.11251)][[PyTorch](https://github.com/notmahi/bet)]
     * **Perceiver-Actor**: "Perceiver-Actor: A Multi-Task Transformer for Robotic Manipulation", Conference on Robot Learning (CoRL), 2022 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2209.05451)][[Website](https://peract.github.io/)]
+    * **PACT**: "PACT: Perception-Action Causal Transformer for Autoregressive Robotics Pre-Training", arXiv, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2209.11133)]
 * Scene Decomposition:
     * **SRT**: "Scene Representation Transformer: Geometry-Free Novel View Synthesis Through Set-Latent Scene Representations", CVPR, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2111.13152)][[PyTorch (stelzner)](https://github.com/stelzner/srt)][[Website](https://srt-paper.github.io/)]
     * **OSRT**: "Object Scene Representation Transformer", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2206.06922)][[Website](https://osrt-paper.github.io/)]
@@ -2447,6 +2451,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **MTPP**: "Multi-modal Transformer Path Prediction for Autonomous Vehicle", arXiv, 2022 (*National Central University*). [[Paper](https://arxiv.org/abs/2208.07256)]
     * **MapTR**: "MapTR: Structured Modeling and Learning for Online Vectorized HD Map Construction", arXiv, 2022 (*Horizon Robotics*). [[Paper](https://arxiv.org/abs/2208.14437)][[Code (in construction)](https://github.com/hustvl/MapTR)]
     * **DCT**: "A Dual-Cycled Cross-View Transformer Network for Unified Road Layout Estimation and 3D Object Detection in the Bird's-Eye-View", arXiv, 2022 (*Gwang-ju Institute of Science and Technology*). [[Paper](https://arxiv.org/abs/2209.08844)]
+    * **C-ViT**: "Traffic Accident Risk Forecasting using Contextual Vision Transformers", arXiv, 2022 (*University of Technology Sydney*). [[Paper](https://arxiv.org/abs/2209.11180)]
 * Trajectory Prediction:
     * **mmTransformer**: "Multimodal Motion Prediction with Stacked Transformers", CVPR, 2021 (*CUHK + SenseTime*). [[Paper](https://arxiv.org/abs/2103.11624)][[Code (in construction)](https://github.com/decisionforce/mmTransformer)][[Website](https://decisionforce.github.io/mmTransformer/)]
     * **AgentFormer**: "AgentFormer: Agent-Aware Transformers for Socio-Temporal Multi-Agent Forecasting", ICCV, 2021 (*CMU*). [[Paper](https://arxiv.org/abs/2103.14023)][[PyTorch](https://github.com/Khrylx/AgentFormer)][[Website](https://www.ye-yuan.com/agentformer/)]
