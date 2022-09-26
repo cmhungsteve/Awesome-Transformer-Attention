@@ -1501,6 +1501,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **Pix4Point**: "Pix4Point: Image Pretrained Transformers for 3D Point Cloud Understanding", arXiv, 2022 (*KAUST*). [[Paper](https://arxiv.org/abs/2208.12259)][[Code (in construction)](https://github.com/guochengqian/Pix4Point)]
 * **MVP**: "Multiple View Performers for Shape Completion", arXiv, 2022 (*Columbia University*). [[Paper](https://arxiv.org/abs/2209.06291)]
 * **Simple3D-Former**: "Can We Solve 3D Vision Tasks Starting from A 2D Vision Transformer?", arXiv, 2022 (*UT Austin*). [[Paper](https://arxiv.org/abs/2209.07026)][[PyTorch](https://github.com/Reimilia/Simple3D-Former)]
+* **3DPCT**: "3DPCT: 3D Point Cloud Transformer with Dual Self-attention", arXiv, 2022 (*University of Waterloo, Canada*). [[Paper](https://arxiv.org/abs/2209.11255)]
 
 [[Back to Overview](#overview)]
 
@@ -1821,6 +1822,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **ELMformer**: "ELMformer: Efficient Raw Image Restoration with a Locally Multiplicative Transformer", ACMMM, 2022 (*Horizon Robotics*). [[Paper](https://arxiv.org/abs/2208.14704)][[Code (in construction)](https://github.com/leonmakise/ELMformer)]
 * **DATSR**: "Reference-based Image Super-Resolution with Deformable Attention Transformer", ECCV, 2022 (*ETHZ*). [[Paper](https://arxiv.org/abs/2207.11938)][[Code (in construction)](https://github.com/caojiezhang/DATSR)]
 * **TurbNet**: "Single Frame Atmospheric Turbulence Mitigation: A Benchmark Study and A New Physics-Inspired Transformer Model", ECCV, 2022 (*Purdue + UT Austin*). [[Paper](https://arxiv.org/abs/2207.10040)][[PyTorch (in construction)](https://github.com/VITA-Group/TurbNet)]
+* **Swin2SR**: "Swin2SR: SwinV2 Transformer for Compressed Image Super-Resolution and Restoration", ECCVW, 2022 (*University of Wurzburg, Germany*). [[Paper](https://arxiv.org/abs/2209.11345)]
 * **LFT**: "Light Field Image Super-Resolution with Transformers", IEEE Signal Processing Letters, 2022 (*National University of Defense Technology, China*). [[Paper](https://arxiv.org/abs/2108.07597)][[PyTorch](https://github.com/ZhengyuLiang24/LFT)]
 * **EDT**: "On Efficient Transformer-Based Image Pre-training for Low-Level Vision", arXiv, 2022 (*CUHK*). [[Paper](https://arxiv.org/abs/2112.10175)][[PyTorch](https://github.com/fenglinglwb/EDT)]
 * **ELAN**: "Efficient Long-Range Attention Network for Image Super-resolution", arXiv, 2022 (*The Hong Kong Polytechnic University*). [[Paper](https://arxiv.org/abs/2203.06697)][[Code (in construction)](https://github.com/xindongzhang/ELAN)]
@@ -2193,6 +2195,7 @@ Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2207.11553)][[Cod
 * **?**: "Adaptively Re-weighting Multi-Loss Untrained Transformer for Sparse-View Cone-Beam CT Reconstruction", arXiv, 2022 (*Zhejiang Lab*). [[Paper](https://arxiv.org/abs/2203.12476)]
 * **K-Space-Transformer**: "K-Space Transformer for Fast MRI Reconstruction with Implicit Representation", arXiv, 2022 (*Shanghai Jiao Tong University*). [[Paper](https://arxiv.org/abs/2206.06947)][[Code (in construction)](https://github.com/zhaoziheng/K-Space-Transformer)][[Website](https://zhaoziheng.github.io/Website/K-Space-Transformer/)]
 * **McSTRA**: "Multi-head Cascaded Swin Transformers with Attention to k-space Sampling Pattern for Accelerated MRI Reconstruction", arXiv, 2022 (*Monash University, Australia*). [[Paper](https://arxiv.org/abs/2207.08412)]
+* **?**: "Colonoscopy Landmark Detection using Vision Transformers", arXiv, 2022 (*Intuitive Surgical, CA*). [[Paper](https://arxiv.org/abs/2209.11304)]
 
 [[Back to Overview](#overview)]
 
