@@ -934,6 +934,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **ORViT**: "Object-Region Video Transformers", CVPR, 2022 (*Tel Aviv*). [[Paper](https://arxiv.org/abs/2110.06915)][[Website](https://roeiherz.github.io/ORViT/)]
     * **TIME**: "Time Is MattEr: Temporal Self-supervision for Video Transformers", ICML, 2022 (*KAIST*). [[Paper](https://arxiv.org/abs/2207.09067)][[PyTorch](https://github.com/alinlab/temporal-selfsupervision)]
     * **TPS**: "Spatiotemporal Self-attention Modeling with Temporal Patch Shift for Action Recognition", ECCV, 2022 (*Alibaba*). [[Paper](https://arxiv.org/abs/2207.13259)][[Code (in construction)](https://github.com/MartinXM/TPS)]
+    * **MultiTrain**: "Multi-dataset Training of Transformers for Robust Action Recognition", NeurIPS, 2022 (*Tencent*). [[Paper](https://arxiv.org/abs/2209.12362)][[Code (in construction)](https://github.com/JunweiLiang/MultiTrain)]
     * **AIA**: "Attention in Attention: Modeling Context Correlation for Efficient Video Classification", TCSVT, 2022 (*University of Science and Technology of China*). [[Paper](https://arxiv.org/abs/2204.09303)][[PyTorch](https://github.com/haoyanbin918/Attention-in-Attention)]
     * **MSCA**: "Vision Transformer with Cross-attention by Temporal Shift for Efficient Action Recognition", arXiv, 2022 (*Nagoya Institute of Technology*). [[Paper](https://arxiv.org/abs/2204.00452)]
     * **SViT**: "Bringing Image Scene Structure to Video via Frame-Clip Consistency of Object Tokens", arXiv, 2022 (*Tel Aviv*). [[Paper](https://arxiv.org/abs/2206.06346)][[Website](https://eladb3.github.io/SViT/)]
@@ -1086,6 +1087,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * Anomaly Detection:
     * **CT-D2GAN**: "Convolutional Transformer based Dual Discriminator Generative Adversarial Networks for Video Anomaly Detection", ACMMM, 2021 (*NEC*). [[Paper](https://arxiv.org/abs/2107.13720)]
     * **ADTR**: "ADTR: Anomaly Detection Transformer with Feature Reconstruction", International Conference on Neural Information Processing (ICONIP), 2022 (*Shanghai Jiao Tong University*). [[Paper](https://arxiv.org/abs/2209.01816)]
+    * **SSMCTB**: "Self-Supervised Masked Convolutional Transformer Block for Anomaly Detection", arXiv, 2022 (*UCF*). [[Paper](https://arxiv.org/abs/2209.12148)][[Code (in construction)](https://github.com/ristea/ssmctb)]
 * Relation Detection:
     * **VidVRD**: "Video Relation Detection via Tracklet based Visual Transformer", ACMMMW, 2021 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2108.08669)][[PyTorch](https://github.com/Dawn-LX/VidVRD-tracklets)]
     * **VRDFormer**: "VRDFormer: End-to-End Video Visual Relation Detection With Transformers", CVPR, 2022 (*Renmin University of China*). [[Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Zheng_VRDFormer_End-to-End_Video_Visual_Relation_Detection_With_Transformers_CVPR_2022_paper.html)][[Code (in construction)](https://github.com/zhengsipeng/VRDFormer_VRD)]
@@ -2009,6 +2011,7 @@ Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2204.08696)]
     * **GradViT**: "GradViT: Gradient Inversion of Vision Transformers", CVPR, 2022 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2203.11894)][[Website](https://gradvit.github.io/)]
     * **MST**: "Mask-guided Spectral-wise Transformer for Efficient Hyperspectral Image Reconstruction", CVPR, 2022 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2111.07910)][[PyTorch](https://github.com/caiyuanhao1998/MST)]
     * **MST++**: "MST++: Multi-stage Spectral-wise Transformer for Efficient Spectral Reconstruction", CVPRW, 2022 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2204.07908)][[PyTorch](https://github.com/caiyuanhao1998/MST-plus-plus)]
+    * **S<sup>2</sup>-Transformer**: "S<sup>2</sup>-Transformer for Mask-Aware Hyperspectral Image Reconstruction", arXiv, 2022 (*Rochester Institute of Technology*). [[Paper](https://arxiv.org/abs/2209.12075)]
 * 3D:
     * **MNSRNet**: "MNSRNet: Multimodal Transformer Network for 3D Surface Super-Resolution", CVPR, 2022 (*Shenzhen University*). [[Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Xie_MNSRNet_Multimodal_Transformer_Network_for_3D_Surface_Super-Resolution_CVPR_2022_paper.html)]
 * Others:
@@ -2042,6 +2045,7 @@ Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2204.08696)]
 * **TransFuser**: "TransFuser: Imitation with Transformer-Based Sensor Fusion for Autonomous Driving", arXiv, 2022 (*MPI*). [[Paper](https://arxiv.org/abs/2205.15997)]
 * **TD-STP**: "Target-Driven Structured Transformer Planner for Vision-Language Navigation", arXiv, 2022 (*Beihang University*). [[Paper](https://arxiv.org/abs/2207.11201)][[Code (in construction)](https://github.com/YushengZhao/TD-STP)]
 * **DAVIS**: "Anticipating the Unseen Discrepancy for Vision and Language Navigation", arXiv, 2022 (*UCSB*). [[Paper](https://arxiv.org/abs/2209.04725)]
+* **LOViS**: "LOViS: Learning Orientation and Visual Signals for Vision and Language Navigation", arXiv, 2022 (*Michigan State*). [[Paper](https://arxiv.org/abs/2209.12723)]
 
 [[Back to Overview](#overview)]
 
