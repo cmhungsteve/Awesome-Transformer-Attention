@@ -702,7 +702,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **LETR**: "Line Segment Detection Using Transformers without Edges", CVPR, 2021 (*UCSD*). [[Paper](https://arxiv.org/abs/2101.01909)][[PyTorch](https://github.com/mlpc-ucsd/LETR)]
     * **Laneformer**: "Laneformer: Object-aware Row-Column Transformers for Lane Detection", AAAI, 2022 (*Huawei*). [[Paper](https://arxiv.org/abs/2203.09830)]
     * **TLC**: "Transformer Based Line Segment Classifier With Image Context for Real-Time Vanishing Point Detection in Manhattan World", CVPR, 2022 (*Peking University*). [[Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Tong_Transformer_Based_Line_Segment_Classifier_With_Image_Context_for_Real-Time_CVPR_2022_paper.html)]
-    * **PersFormer**: "PersFormer: 3D Lane Detection via Perspective Transformer and the OpenLane Benchmark", arXiv, 2022 (*Shanghai AI Laboratory*). [[Paper](https://arxiv.org/abs/2203.11089)][[GitHub](https://github.com/OpenPerceptionX/OpenLane)]
+    * **PersFormer**: "PersFormer: 3D Lane Detection via Perspective Transformer and the OpenLane Benchmark", ECCV, 2022 (*Shanghai AI Laboratory*). [[Paper](https://arxiv.org/abs/2203.11089)][[PyTorch](https://github.com/OpenPerceptionX/OpenLane)]
     * **PriorLane**: "PriorLane: A Prior Knowledge Enhanced Lane Detection Approach Based on Transformer", arXiv, 2022 (*Zhejiang Lab*). [[Paper](https://arxiv.org/abs/2209.06994)][[PyTorch](https://github.com/vincentqqb/priorlane)]
     * **CurveFormer**: "CurveFormer: 3D Lane Detection by Curve Propagation with Curve Queries and Attention", arXiv, 2022 (*NullMax, China*). [[Paper](https://arxiv.org/abs/2209.07989)]
 * Object Localization:
@@ -852,7 +852,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **CRAFT**: "CRAFT: Cross-Attentional Flow Transformer for Robust Optical Flow", CVPR, 2022 (*A\*STAR, Singapore*). [[Paper](https://arxiv.org/abs/2203.16896)][[PyTorch](https://github.com/askerlee/craft)]
     * **KPA-Flow**: "Learning Optical Flow With Kernel Patch Attention", CVPR, 2022 (*Megvii*). [[Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Luo_Learning_Optical_Flow_With_Kernel_Patch_Attention_CVPR_2022_paper.html)][[PyTorch (in construction)](https://github.com/megvii-research/KPAFlow)]
     * **GMFlowNet**: "Global Matching with Overlapping Attention for Optical Flow Estimation", CVPR, 2022 (*Rutgers*). [[Paper](https://arxiv.org/abs/2203.11335)][[PyTorch](https://github.com/xiaofeng94/GMFlowNet)]
-    * **FlowFormer**: "FlowFormer: A Transformer Architecture for Optical Flow", arXiv, 2022 (*CUHK*). [[Paper](https://arxiv.org/abs/2203.16194)][[Website](https://drinkingcoder.github.io/publication/flowformer/)]
+    * **FlowFormer**: "FlowFormer: A Transformer Architecture for Optical Flow", ECCV, 2022 (*CUHK*). [[Paper](https://arxiv.org/abs/2203.16194)][[Website](https://drinkingcoder.github.io/publication/flowformer/)]
 * Panoramic Semantic Segmentation:
     * **Trans4PASS**: "Bending Reality: Distortion-aware Transformers for Adapting to Panoramic Semantic Segmentation", CVPR, 2022 (*Karlsruhe Institute of Technology, Germany*). [[Paper](https://arxiv.org/abs/2203.01452)][[PyTorch](https://github.com/jamycheung/Trans4PASS)]
 * X-Shot:
@@ -1022,8 +1022,8 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **SITVOS**: "Siamese Network with Interactive Transformer for Video Object Segmentation", AAAI, 2022 (*JD*). [[Paper](https://arxiv.org/abs/2112.13983)] 
 * **MTTR**: "End-to-End Referring Video Object Segmentation with Multimodal Transformers", CVPR, 2022 (*Technion - Israel Institute of Technology*). [[Paper](https://arxiv.org/abs/2111.14821)][[PyTorch](https://github.com/mttr2021/MTTR)]
 * **HODOR**: "Differentiable Soft-Masked Attention", CVPRW, 2022 (*RWTH Aachen University, Germany*). [[Paper](https://arxiv.org/abs/2206.00182)]
+* **BATMAN**: "BATMAN: Bilateral Attention Transformer in Motion-Appearance Neighboring Space for Video Object Segmentation", ECCV, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2208.01159)]
 * **AOT**: "Associating Objects with Scalable Transformers for Video Object Segmentation", arXiv, 2022 (*University of Technology Sydney*). [[Paper](https://arxiv.org/abs/2203.11442)][[Code (in construction)](https://github.com/z-x-yang/AOT)]
-* **BATMAN**: "BATMAN: Bilateral Attention Transformer in Motion-Appearance Neighboring Space for Video Object Segmentation", arXiv, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2208.01159)]
 
 [[Back to Overview](#overview)]
 
@@ -1034,6 +1034,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **TeViT**: "Temporally Efficient Vision Transformer for Video Instance Segmentation", CVPR, 2022 (*Tencent*). [[Paper](https://arxiv.org/abs/2204.08412)][[PyTorch](https://github.com/hustvl/TeViT)]
 * **GMP-VIS**: "A Graph Matching Perspective With Transformers on Video Instance Segmentation", CVPR, 2022 (*Shandong University*). [[Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Qin_A_Graph_Matching_Perspective_With_Transformers_on_Video_Instance_Segmentation_CVPR_2022_paper.html)]
 * **VMT**: "Video Mask Transfiner for High-Quality Video Instance Segmentation", ECCV, 2022 (*ETHZ*). [[Paper](https://arxiv.org/abs/2207.14012)][[GitHub](https://github.com/SysCV/vmt)][[Website](https://www.vis.xyz/pub/vmt/)]
+* **SeqFormer**: "SeqFormer: Sequential Transformer for Video Instance Segmentation", ECCV, 2022 (*ByteDance*). [[Paper](https://arxiv.org/abs/2112.08275)][[PyTorch](https://github.com/wjf5203/SeqFormer)]
 * **MS-STS**: "Video Instance Segmentation via Multi-scale Spatio-temporal Split Attention Transformer", arXiv, 2022 (*MBZUAI*). [[Paper](https://arxiv.org/abs/2203.13253)][[Code (in construction)](https://github.com/OmkarThawakar/MSSTS-VIS)]
 * **VITA**: "VITA: Video Instance Segmentation via Object Token Association", arXiv, 2022 (*Yonsei University*). [[Paper](https://arxiv.org/abs/2206.04403)][[Code (in construction)](https://github.com/sukjunhwang/VITA)]
 * **IFR**: "Consistent Video Instance Segmentation with Inter-Frame Recurrent Attention", arXiv, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2206.07011)]
@@ -1841,6 +1842,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **ELMformer**: "ELMformer: Efficient Raw Image Restoration with a Locally Multiplicative Transformer", ACMMM, 2022 (*Horizon Robotics*). [[Paper](https://arxiv.org/abs/2208.14704)][[Code (in construction)](https://github.com/leonmakise/ELMformer)]
 * **DATSR**: "Reference-based Image Super-Resolution with Deformable Attention Transformer", ECCV, 2022 (*ETHZ*). [[Paper](https://arxiv.org/abs/2207.11938)][[Code (in construction)](https://github.com/caojiezhang/DATSR)]
 * **TurbNet**: "Single Frame Atmospheric Turbulence Mitigation: A Benchmark Study and A New Physics-Inspired Transformer Model", ECCV, 2022 (*Purdue + UT Austin*). [[Paper](https://arxiv.org/abs/2207.10040)][[PyTorch (in construction)](https://github.com/VITA-Group/TurbNet)]
+* **Stripformer**: "Stripformer: Strip Transformer for Fast Image Deblurring", ECCV, 2022 (*NTHU*). [[Paper](https://arxiv.org/abs/2204.04627)]
 * **Swin2SR**: "Swin2SR: SwinV2 Transformer for Compressed Image Super-Resolution and Restoration", ECCVW, 2022 (*University of Wurzburg, Germany*). [[Paper](https://arxiv.org/abs/2209.11345)]
 * **LFT**: "Light Field Image Super-Resolution with Transformers", IEEE Signal Processing Letters, 2022 (*National University of Defense Technology, China*). [[Paper](https://arxiv.org/abs/2108.07597)][[PyTorch](https://github.com/ZhengyuLiang24/LFT)]
 * **EDT**: "On Efficient Transformer-Based Image Pre-training for Low-Level Vision", arXiv, 2022 (*CUHK*). [[Paper](https://arxiv.org/abs/2112.10175)][[PyTorch](https://github.com/fenglinglwb/EDT)]
@@ -1849,7 +1851,6 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **?**: "Transform your Smartphone into a DSLR Camera: Learning the ISP in the Wild", arXiv, 2022 (*ETHZ*). [[Paper](https://arxiv.org/abs/2203.10636)]
 * **HIPA**: "HIPA: Hierarchical Patch Transformer for Single Image Super Resolution", arXiv, 2022 (*CUHK*). [[Paper](https://arxiv.org/abs/2203.10247)]
 * **DehazeFormer**: "Vision Transformers for Single Image Dehazing", arXiv, 2022 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2204.03883)][[PyTorch](https://github.com/IDKiro/DehazeFormer)]
-* **Stripformer**: "Stripformer: Strip Transformer for Fast Image Deblurring", arXiv, 2022 (*NTHU*). [[Paper](https://arxiv.org/abs/2204.04627)]
 * **RSTCANet**: "Residual Swin Transformer Channel Attention Network for Image Demosaicing", arXiv, 2022 (*Tampere University, Finland*). [[Paper](https://arxiv.org/abs/2204.07098)]
 * **CTCNet**: "CTCNet: A CNN-Transformer Cooperation Network for Face Image Super-Resolution", arXiv, 2022 (*Nanjing University of
 Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2204.08696)]
@@ -2002,6 +2003,7 @@ Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2204.08696)]
 * Colorization: 
     * **ColTran**: "Colorization Transformer", ICLR, 2021 (*Google*). [[Paper](https://openreview.net/forum?id=5NA1PinlGFu)][[Tensorflow](https://github.com/google-research/google-research/tree/master/coltran)]
     * **ViT-I-GAN**: "ViT-Inception-GAN for Image Colourising", arXiv, 2021 (*D.Y Patil College of Engineering, India*). [[Paper](https://arxiv.org/abs/2106.06321)]
+    * **CT<sup>2</sup>**: "CT<sup>2</sup>: Colorization Transformer via Color Tokens", ECCV, 2022 (*Peking University*). [[Paper](https://ci.idm.pku.edu.cn/Weng_ECCV22b.pdf)][[PyTorch](https://github.com/shuchenweng/CT2)]
     * **UniColor**: "UniColor: A Unified Framework for Multi-Modal Colorization with Transformer", SIGGRAPH Asia, 2022 (*CUHK*). [[Paper](https://arxiv.org/abs/2209.11223)][[Website](https://luckyhzt.github.io/unicolor/)]
     * **iColoriT**: "iColoriT: Towards Propagating Local Hint to the Right Region in Interactive Colorization by Leveraging Vision Transformer", arXiv, 2022 (*KAIST*). [[Paper](https://arxiv.org/abs/2207.06831)]
 * Enhancement:
@@ -2492,6 +2494,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **ST-MR**: "Graph-based Spatial Transformer with Memory Replay for Multi-Future Pedestrian Trajectory Prediction", CVPR, 2022 (*University of New South Wales, Australia*). [[Paper](https://arxiv.org/abs/2206.05712)][[Tensorflow](https://github.com/Jacobieee/ST-MR)]
     * **HiVT**: "HiVT: Hierarchical Vector Transformer for Multi-Agent Motion Prediction", CVPR, 2022 (*CUHK*). [[Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Zhou_HiVT_Hierarchical_Vector_Transformer_for_Multi-Agent_Motion_Prediction_CVPR_2022_paper.html)]
     * **EF-Transformer**: "Entry-Flipped Transformer for Inference and Prediction of Participant Behavior", ECCV, 2022 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2207.06235)]
+    * **Social-SSL**: "Social-SSL: Self-Supervised Cross-Sequence Representation Learning Based on Transformers for Multi-Agent Trajectory Prediction", ECCV, 2022 (*NYCU*). [[Paper](https://basiclab.lab.nycu.edu.tw/assets/Social-SSL.pdf)][[PyTorch](https://github.com/Sigta678/Social-SSL)]
     * **LatentFormer**: "LatentFormer: Multi-Agent Transformer-Based Interaction Modeling and Trajectory Prediction", arXiv, 2022 (*Huawei*). [[Paper](https://arxiv.org/abs/2203.01880)]
     * **PreTR**: "PreTR: Spatio-Temporal Non-Autoregressive Trajectory Prediction Transformer", arXiv, 2022 (*Stellantis, France*). [[Paper](https://arxiv.org/abs/2203.09293)]
     * **Wayformer**: "Wayformer: Motion Forecasting via Simple & Efficient Attention Networks", arXiv, 2022 (*Waymo*). [[Paper](https://arxiv.org/abs/2207.05844)]
@@ -2503,6 +2506,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **TAM-RTM**: "Boosting Crowd Counting with Transformers", arXiv, 2021 (*ETHZ*). [[Paper](https://arxiv.org/abs/2105.10926)]
     * **CCTrans**: "CCTrans: Simplifying and Improving Crowd Counting with Transformer", arXiv, 2021 (*Meituan*). [[Paper](https://arxiv.org/abs/2109.14483)]
     * **MAN**: "Boosting Crowd Counting via Multifaceted Attention", CVPR, 2022 (*Xi'an Jiaotong*). [[Paper](https://arxiv.org/abs/2203.02636)][[PyTorch](https://github.com/LoraLinH/Boosting-Crowd-Counting-via-Multifaceted-Attention)]
+    * **CLTR**: "An End-to-End Transformer Model for Crowd Localization", ECCV, 2022 (*Huazhong University of Science and Technology*). [[Paper](https://arxiv.org/abs/2202.13065)][[PyTorch](https://github.com/dk-liang/CLTR)][[Website](https://dk-liang.github.io/CLTR/)]
     * **SAANet**: "Scene-Adaptive Attention Network for Crowd Counting", arXiv, 2022 (*Xi'an Jiaotong*). [[Paper](https://arxiv.org/abs/2112.15509)]
     * **JCTNet**: "Joint CNN and Transformer Network via weakly supervised Learning for efficient crowd counting", arXiv, 2022 (*Chongqing University*). [[Paper](https://arxiv.org/abs/2203.06388)]
     * **CrowdMLP**: "CrowdMLP: Weakly-Supervised Crowd Counting via Multi-Granularity MLP", arXiv, 2022 (*University of Guelph, Canada*). [[Paper](https://arxiv.org/abs/2203.08219)]
