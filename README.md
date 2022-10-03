@@ -557,7 +557,6 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **SAM-DETR**: "Accelerating DETR Convergence via Semantic-Aligned Matching", CVPR, 2022 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2203.06883)][[PyTorch](https://github.com/ZhangGongjie/SAM-DETR)]
     * **AdaMixer**: "AdaMixer: A Fast-Converging Query-Based Object Detector", CVPR, 2022 (*Nanjing University*). [[Paper](https://arxiv.org/abs/2203.16507)][[Code (in construction)](https://github.com/MCG-NJU/AdaMixer)]
     * **DESTR**: "DESTR: Object Detection With Split Transformer", CVPR, 2022 (*Oregon State*). [[Paper](https://openaccess.thecvf.com/content/CVPR2022/html/He_DESTR_Object_Detection_With_Split_Transformer_CVPR_2022_paper.html)]
-    * **OW-DETR**: "OW-DETR: Open-world Detection Transformer", CVPR, 2022 (*IIAI*). [[Paper](https://arxiv.org/abs/2112.01513)][[PyTorch](https://github.com/akshitac8/OW-DETR)]
     * **REGO**: "Recurrent Glimpse-based Decoder for Detection with Transformer", CVPR, 2022 (*The University of Sydney*). [[Paper](https://arxiv.org/abs/2112.04632)][[PyTorch](https://github.com/zhechen/Deformable-DETR-REGO)]
     * **?**: "Training Object Detectors From Scratch: An Empirical Study in the Era of Vision Transformer", CVPR, 2022 (*Ant Group*). [[Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Hong_Training_Object_Detectors_From_Scratch_An_Empirical_Study_in_the_CVPR_2022_paper.html)]
     * **DE-DETR**: "Towards Data-Efficient Detection Transformers", ECCV, 2022 (*JD*). [[Paper](https://arxiv.org/abs/2203.09507)][[PyTorch](https://github.com/encounter1997/DE-DETRs)]
@@ -639,6 +638,8 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **?**: "DALL-E for Detection: Language-driven Context Image Synthesis for Object Detection", arXiv, 2022 (*USC*). [[Paper](https://arxiv.org/abs/2206.09592)]
 * **YONOD**: "You Only Need One Detector: Unified Object Detector for Different Modalities based on Vision Transformers", arXiv, 2022 (*CUNY*). [[Paper](https://arxiv.org/abs/2207.01071)][[PyTorch](https://github.com/liketheflower/YONOD)]
 * **OmDet**: "OmDet: Language-Aware Object Detection with Large-scale Vision-Language Multi-dataset Pre-training", arXiv, 2022 (*Binjiang Institute of Zhejiang University*). [[Paper](https://arxiv.org/abs/2209.05946)]
+* **Detection-Hub**: "Detection Hub: Unifying Object Detection Datasets via Query Adaptation on Language Embedding", arXiv, 2022 (*Fudan + Microsoft*). [[Paper](https://arxiv.org/abs/2206.03484)]
+* **F-VLM**: "F-VLM: Open-Vocabulary Object Detection upon Frozen Vision and Language Models", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2209.15639)]
 
 [[Back to Overview](#overview)]
 
@@ -693,6 +694,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **Meta-DETR**: "Meta-DETR: Image-Level Few-Shot Detection with Inter-Class Correlation Exploitation", TPAMI, 2022 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2208.00219)]
     * **Incremental-DETR**: "Incremental-DETR: Incremental Few-Shot Object Detection via Self-Supervised Learning", arXiv, 2022 (*NUS*). [[Paper](https://arxiv.org/abs/2205.04042)]
 * Open-World:
+    * **OW-DETR**: "OW-DETR: Open-world Detection Transformer", CVPR, 2022 (*IIAI*). [[Paper](https://arxiv.org/abs/2112.01513)][[PyTorch](https://github.com/akshitac8/OW-DETR)]
     * **DetCLIP**: "DetCLIP: Dictionary-Enriched Visual-Concept Paralleled Pre-training for Open-world Detection", NeurIPS, 2022 (*HKUST*). [[Paper](https://arxiv.org/abs/2209.09407)]
 * Pedestrian Detection:
     * **PED**: "DETR for Crowd Pedestrian Detection", arXiv, 2020 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2012.06785)][[PyTorch](https://github.com/Hatmm/PED-DETR-for-Pedestrian-Detection)]
@@ -762,8 +764,6 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **ObjectFormer**: "ObjectFormer for Image Manipulation Detection and Localization", CVPR, 2022 (*Fudan University*). [[Paper](https://arxiv.org/abs/2203.14681)]
 * Grounded Situation Recognition:
     * **CoFormer**: "Collaborative Transformers for Grounded Situation Recognition", CVPR, 2022 (*POSTECH*). [[Paper](https://arxiv.org/abs/2203.16518)][[PyTorch](https://github.com/jhcho99/CoFormer)]
-* Multi-Modal:
-    * **Detection-Hub**: "Detection Hub: Unifying Object Detection Datasets via Query Adaptation on Language Embedding", arXiv, 2022 (*Fudan + Microsoft*). [[Paper](https://arxiv.org/abs/2206.03484)]
 * Mirror Detection:
     * **SATNet**: "Symmetry-Aware Transformer-based Mirror Detection", arXiv, 2022 (*Harbin Institute of Technology*). [[Paper](https://arxiv.org/abs/2207.06332)][[PyTorch](https://github.com/tyhuang0428/SATNet)]
 
