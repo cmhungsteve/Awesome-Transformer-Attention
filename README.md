@@ -310,6 +310,7 @@ Feel free to share this list with others!
 * **ClusTR**: "ClusTR: Exploring Efficient Self-attention via Clustering for Vision Transformers", arXiv, 2022 (*The University of Adelaide, Australia*). [[Paper](https://arxiv.org/abs/2208.13138)]
 * **AS**: "Adaptive Sparse ViT: Towards Learnable Adaptive Token Pruning by Fully Exploiting Self-Attention", arXiv, 2022 (*Baidu*). [[Paper](https://arxiv.org/abs/2209.13802)]
 * **DiNAT**: "Dilated Neighborhood Attention Transformer", arXiv, 2022 (*University of Oregon*). [[Paper](https://arxiv.org/abs/2209.15001)][[PyTorch](https://github.com/SHI-Labs/Neighborhood-Attention-Transformer)]
+* **MobileViTv3**: "MobileViTv3: Mobile-Friendly Vision Transformer with Simple and Effective Fusion of Local, Global and Input Features", arXiv, 2022 (*Micron*). [[Paper](https://arxiv.org/abs/2209.15159)][[PyTorch](https://github.com/micronDLA/MobileViTv3)]
 #### Conv + Transformer
 * **LeViT**: "LeViT: a Vision Transformer in ConvNet's Clothing for Faster Inference", ICCV, 2021 (*Facebook*). [[Paper](https://arxiv.org/abs/2104.01136)][[PyTorch](https://github.com/facebookresearch/LeViT)]
 * **CeiT**: "Incorporating Convolution Designs into Visual Transformers", ICCV, 2021 (*SenseTime*). [[Paper](https://arxiv.org/abs/2103.11816)][[PyTorch (rishikksh20)](https://github.com/rishikksh20/CeiT)]
@@ -1308,6 +1309,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **?**: "Pre-training image-language transformers for open-vocabulary tasks", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2209.04372)]
 * **PaLI**: "PaLI: A Jointly-Scaled Multilingual Language-Image Model", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2209.06794)]
 * **CLIP-ViP**: "CLIP-ViP: Adapting Pre-trained Image-Text Model to Video-Language Representation Alignment", arXiv, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2209.06430)][[Code (in construction)](https://github.com/microsoft/XPretrain/tree/main/CLIP-ViP)]
+* **ERNIE**: "ERNIE-ViL 2.0: Multi-view Contrastive Learning for Image-Text Pre-training", arXiv, 2022 (*Baidu*). [[Paper](https://arxiv.org/abs/2209.15270)][[Paddle](https://github.com/PaddlePaddle/ERNIE)]
 
 [[Back to Overview](#overview)]
 
@@ -1763,6 +1765,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **FAMLP**: "FAMLP: A Frequency-Aware MLP-Like Architecture For Domain Generalization", arXiv, 2022 (*University of Science and Technology of China*). [[Paper](https://arxiv.org/abs/2203.12893)]
     * **PACMAC**: "Adapting Self-Supervised Vision Transformers by Probing Attention-Conditioned Masking Consistency", arXiv, 2022 (*Georgia Tech*). [[Paper](https://arxiv.org/abs/2206.08222)][[PyTorch](https://github.com/virajprabhu/PACMAC)]
     * **ERM-ViT**: "Self-Distilled Vision Transformer for Domain Generalization", arXiv, 2022 (*MBZUAI*). [[Paper](https://arxiv.org/abs/2207.12392)][[PyTorch](https://github.com/maryam089/SDViT)]
+    * **MPA**: "Multi-Prompt Alignment for Multi-source Unsupervised Domain Adaptation", arXiv, 2022 (*Fudan University*). [[Paper](https://arxiv.org/abs/2209.15210)]
 * X-Supervised:
     * **Semiformer**: "Semi-Supervised Vision Transformers", ECCV, 2022 (*Fudan University*). [[Paper](https://arxiv.org/abs/2111.11067)][[PyTorch](https://github.com/wengzejia1/Semiformer)]
     * **Semi-ViT**: "Semi-supervised Vision Transformers at Scale", arXiv, 2022 (*Amazon*). [[Paper](https://arxiv.org/abs/2208.05688)]
@@ -2173,6 +2176,7 @@ Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2207.11553)][[Cod
 * **SPAN**: "Prior Knowledge-Guided Attention in Self-Supervised Vision Transformers", arXiv, 2022 (*Berkeley*). [[Paper](https://arxiv.org/abs/2209.03745)]
 * **TMSS**: "TMSS: An End-to-End Transformer-based Multimodal Network for Segmentation and Survival Prediction", arXiv, 2022 (*MBZUAI*). [[Paper](https://arxiv.org/abs/2209.05036)]
 * **CR-Swin2-VT**: "Hybrid Window Attention Based Transformer Architecture for Brain Tumor Segmentation", arXiv, 2022 (*Monash University*). [[Paper](https://arxiv.org/abs/2209.07704)][[PyTorch](https://github.com/himashi92/vizviva_fets_2022)]
+* **3DUX-Net**: "3D UX-Net: A Large Kernel Volumetric ConvNet Modernizing Hierarchical Transformer for Medical Image Segmentation", arXiv, 2022 (*Vanderbilt University*). [[Paper](https://arxiv.org/abs/2209.15076)][[PyTorch](https://github.com/MASILab/3DUX-Net)]
 
 [[Back to Overview](#overview)]
 
@@ -2461,6 +2465,8 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **I2C2W**: "I2C2W: Image-to-Character-to-Word Transformers for Accurate Scene Text Recognition", arXiv, 2021 (*NTU Singapoer*). [[Paper](https://arxiv.org/abs/2105.08383)]
     * **CornerTransformer**: "Toward Understanding WordArt: Corner-Guided Transformer for Scene Text Recognition", ECCV, 2022 (*Huazhong University of Science and Technology*). [[Paper](https://arxiv.org/abs/2208.00438)][[PyTorch](https://github.com/xdxie/WordArt)]
     * **VLAMD**: "Vision-Language Adaptive Mutual Decoder for OOV-STR", ECCVW, 2022 (*iFLYTEK, China*). [[Paper](https://arxiv.org/abs/2209.00859)]
+* Spike:
+    * **Spikformer**: "Spikformer: When Spiking Neural Network Meets Transformer", arXiv, 2022 (*Peking*). [[Paper](https://arxiv.org/abs/2209.15425)]
 * Stereo:
     * **STTR**: "Revisiting Stereo Depth Estimation From a Sequence-to-Sequence Perspective with Transformers", ICCV, 2021 (*Johns Hopkins*). [[Paper](https://arxiv.org/abs/2011.02910)][[PyTorch](https://github.com/mli0603/stereo-transformer)]
     * **PS-Transformer**: "PS-Transformer: Learning Sparse Photometric Stereo Network using Self-Attention Mechanism", BMVC, 2021 (*National Institute of Informatics, JAPAN*). [[Paper](https://www.bmvc2021-virtualconference.com/assets/papers/0319.pdf)]
@@ -2478,6 +2484,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **?**: "Translating Images into Maps", ICRA, 2022 (*University of Surrey, UK*). [[Paper](https://arxiv.org/abs/2110.00966)][[PyTorch (in construction)](https://github.com/avishkarsaha/translating-images-into-maps)]
     * **Crossview-Transformer**: "Cross-view Transformers for real-time Map-view Semantic Segmentation", CVPR, 2022 (*UT Austin*). [[Paper](https://arxiv.org/abs/2205.02833)][[PyTorch](https://github.com/bradyz/cross_view_transformers)]
     * **ViT-BEVSeg**: "ViT-BEVSeg: A Hierarchical Transformer Network for Monocular Birds-Eye-View Segmentation", IJCNN, 2022 (*Maynooth University, Ireland*). [[Paper](https://arxiv.org/abs/2205.15667)][[Code (in construction)](https://github.com/robotvisionmu/ViT-BEVSeg)]
+    * **TransLPC**: "Transformers for Object Detection in Large Point Clouds", ITSC, 2022 (*Bosch*). [[Paper](https://arxiv.org/abs/2209.15258)]
     * **PicT**: "PicT: A Slim Weakly Supervised Vision Transformer for Pavement Distress Classification", ACMMM, 2022 (*Chongqing University*). [[Paper](https://arxiv.org/abs/2209.10074)][[PyTorch (in construction)](https://github.com/DearCaat/PicT)]
     * **BEVFormer**: "BEVFormer: Learning Bird's-Eye-View Representation from Multi-Camera Images via Spatiotemporal Transformers", ECCV, 2022 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2203.17270)][[PyTorch](https://github.com/zhiqi-li/BEVFormer)]
     * **JPerceiver**: "JPerceiver: Joint Perception Network for Depth, Pose and Layout Estimation in Driving Scenes", ECCV, 2022 (*The University of Sydney*). [[Paper](https://arxiv.org/abs/2207.07895)][[PyTorch](https://github.com/sunnyHelen/JPerceiver)]
