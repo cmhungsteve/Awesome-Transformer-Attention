@@ -614,7 +614,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **SST**: "Embracing Single Stride 3D Object Detector with Sparse Transformer", CVPR, 2022 (*CAS*). [[Paper](https://arxiv.org/abs/2112.06375)][[PyTorch](https://github.com/TuSimple/SST)]
 * **LIFT**: "LIFT: Learning 4D LiDAR Image Fusion Transformer for 3D Object Detection", CVPR, 2022 (*Shanghai Jiao Tong University*). [[Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Zeng_LIFT_Learning_4D_LiDAR_Image_Fusion_Transformer_for_3D_Object_CVPR_2022_paper.html)]
 * **BoxeR**: "BoxeR: Box-Attention for 2D and 3D Transformers", CVPR, 2022 (*University of Amsterdam*). [[Paper](https://arxiv.org/abs/2111.13087)][[PyTorch](https://github.com/kienduynguyen/BoxeR)]
-* **BrT**: "Bridged Transformer for Vision and Point Cloud 3D Object Detection", CVPR, 2022 (*Tsinghua*). [[Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Wang_Bridged_Transformer_for_Vision_and_Point_Cloud_3D_Object_Detection_CVPR_2022_paper.html)]
+* **BrT**: "Bridged Transformer for Vision and Point Cloud 3D Object Detection", CVPR, 2022 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2210.01391)]
 * **VISTA**: "VISTA: Boosting 3D Object Detection via Dual Cross-VIew SpaTial Attention", CVPR, 2022 (*South China University of Technology*). [[Paper](https://arxiv.org/abs/2203.09704)][[PyTorch](https://github.com/Gorilla-Lab-SCUT/VISTA)]
 * **STRL**: "Towards Self-Supervised Pre-Training of 3DETR for Label-Efficient 3D Object Detection", CVPRW, 2022 (*Bosch*). [[Paper](https://drive.google.com/file/d/1_2RedCoqCH4cM6J-TOy18nevVd9RTr8c/view)]
 * **MTrans**: "Multimodal Transformer for Automatic 3D Annotation and Object Detection", ECCV, 2022 (*HKU*). [[Paper](https://arxiv.org/abs/2207.09805)][[PyTorch](https://github.com/Cliu2/MTrans)]
@@ -1166,6 +1166,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **RA-Transformer**: "Retrieval-Augmented Transformer for Image Captioning", International Conference on Content-based Multimedia Indexing (CMBI), 2022 (*University of Modena and Reggio Emilia, Italy*). [[Paper](https://arxiv.org/abs/2207.13162)]
 * **VGCL**: "Video-Guided Curriculum Learning for Spoken Video Grounding", ACMMM, 2022 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2209.00277)][[PyTorch](https://github.com/marmot-xy/Spoken-Video-Grounding)]
 * **GRIT**: "GRIT: Faster and Better Image captioning Transformer Using Dual Visual Features", ECCV, 2022 (*Tohoku University + RIKEN AIP*). [[Paper](https://arxiv.org/abs/2207.09666)][[PyTorch](https://github.com/davidnvq/grit)]
+* **CVLNM**: "Learning to Collocate Visual-Linguistic Neural Modules for Image Captioning", IJCV, 2022 (*Southeast University, China*). [[Paper](https://arxiv.org/abs/2210.01338)][[PyTorch](https://github.com/GCYZSL/CVLMN)]
 * **ViNTER**: "ViNTER: Image Narrative Generation with Emotion-Arc-Aware Transformer", arXiv, 2022 (*The University of Tokyo*). [[Paper](https://arxiv.org/abs/2202.07305)]
 * **D2**: "Dual-Level Decoupled Transformer for Video Captioning", arXiv, 2022 (*Northwestern Polytechnical University, China*). [[Paper](https://arxiv.org/abs/2205.03039)]
 * **VaT**: "Variational Transformer: A Framework Beyond the Trade-off between Accuracy and Diversity for Image Captioning", arXiv, 2022 (*Tongji University*). [[Paper](https://arxiv.org/abs/2205.14458)]
@@ -1320,6 +1321,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **CLIP-ViP**: "CLIP-ViP: Adapting Pre-trained Image-Text Model to Video-Language Representation Alignment", arXiv, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2209.06430)][[Code (in construction)](https://github.com/microsoft/XPretrain/tree/main/CLIP-ViP)]
 * **ERNIE**: "ERNIE-ViL 2.0: Multi-view Contrastive Learning for Image-Text Pre-training", arXiv, 2022 (*Baidu*). [[Paper](https://arxiv.org/abs/2209.15270)][[Paddle](https://github.com/PaddlePaddle/ERNIE)]
 * **LASP**: "Language-Aware Soft Prompting for Vision & Language Foundation Models", arXiv, 2022 (*Samsung*). [[Paper](https://arxiv.org/abs/2210.01115)]
+* **PLOT**: "Prompt Learning with Optimal Transport for Vision-Language Models", arXiv, 2022 (*CMU*). [[Paper](https://arxiv.org/abs/2210.01253)]
 
 [[Back to Overview](#overview)]
 
@@ -1345,6 +1347,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **TS2-Net**: "TS2-Net: Token Shift and Selection Transformer for Text-Video Retrieval", ECCV, 2022 (*Tencent*). [[Paper](https://arxiv.org/abs/2207.07852)][[PyTorch](https://github.com/yuqi657/ts2_net)]
 * **TASK-former**: "A Sketch Is Worth a Thousand Words: Image Retrieval with Text and Sketch", ECCV, 2022 (*Georgia Tech*). [[Paper](https://arxiv.org/abs/2208.03354)][[Website](https://patsorn.me/projects/tsbir/)]
 * **?**: "Text-Adaptive Multiple Visual Prototype Matching for Video-Text Retrieval", NeurIPS, 2022 (*Sun Yat-sen University*). [[Paper](https://arxiv.org/abs/2209.13307)]
+* **SpeechCLIP**: "SpeechCLIP: Integrating Speech with Pre-Trained Vision and Language Model", IEEE Workshop on Spoken Language Technology (SLT), 2022 (*NTU*). [[Paper](https://arxiv.org/abs/2210.00705)]
 * **BridgeFormer**: "BridgeFormer: Bridging Video-text Retrieval with Multiple Choice Questions", arXiv, 2022 (*HKU*). [[Paper](https://arxiv.org/abs/2201.04850)][[Website](https://geyuying.github.io/MCQ.html)]
 * **LoopITR**: "LoopITR: Combining Dual and Cross Encoder Architectures for Image-Text Retrieval", arXiv, 2022 (*UNC*). [[Paper](https://arxiv.org/abs/2203.05465)]
 * **MDMMT-2**: "MDMMT-2: Multidomain Multimodal Transformer for Video Retrieval, One More Step Towards Generalization", arXiv, 2022 (*Huawei*). [[Paper](https://arxiv.org/abs/2203.07086)]
@@ -1602,6 +1605,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **RayTran**: "RayTran: 3D pose estimation and shape reconstruction of multiple objects from videos with ray-traced transformers", ECCV, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2203.13296)]
     * **DProST**: "DProST: Dynamic Projective Spatial Transformer Network for 6D Pose Estimation", ECCV, 2022 (*Seoul National University*). [[Paper](https://arxiv.org/abs/2112.08775)][[PyTorch](https://github.com/parkjaewoo0611/DProST)]
     * **AFT-VO**: "AFT-VO: Asynchronous Fusion Transformers for Multi-View Visual Odometry Estimation", arXiv, 2022 (*University of Surrey, UK*). [[Paper](https://arxiv.org/abs/2206.12946)]
+    * **DPT-VO**: "Dense Prediction Transformer for Scale Estimation in Monocular Visual Odometry", arXiv, 2022 (*Aeronautics Institute of Technology, Brazil*). [[Paper](https://arxiv.org/abs/2210.01723)]
 
 [[Back to Overview](#overview)]
 
@@ -1892,6 +1896,7 @@ Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2204.08696)]
 * **SwinFIR**: "SwinFIR: Revisiting the SwinIR with Fast Fourier Convolution and Improved Training for Image Super-Resolution", arXiv, 2022 (*Samsung*). [[Paper](https://arxiv.org/abs/2208.11247)]
 * **LRT**: "LRT: An Efficient Low-Light Restoration Transformer for Dark Light Field Images", arXiv, 2022 (*HKU*). [[Paper](https://arxiv.org/abs/2209.02197)]
 * **DMTNet**: "DMTNet: Dynamic Multi-scale Network for Dual-pixel Images Defocus Deblurring with Transformer", arXiv, 2022 (*Samsung*). [[Paper](https://arxiv.org/abs/2209.06040)]
+* **ART**: "Accurate Image Restoration with Attention Retractable Transformer", arXiv, 2022 (*Shanghai Jiao Tong University*). [[Paper](https://arxiv.org/abs/2210.01427)][[PyTorch](https://github.com/gladzhang/ART)]
 
 [[Back to Overview](#overview)]
 
@@ -1988,6 +1993,7 @@ Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2204.08696)]
 * **Diffusion-ViT**: "Your ViT is Secretly a Hybrid Discriminative-Generative Diffusion Model", arXiv, 2022 (*Etsy, NY*). [[Paper](https://arxiv.org/abs/2208.07791)]
 * **Token-Critic**: "Improved Masked Image Generation with Token-Critic", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2209.04439)]
 * **?**: "Visual Prompt Tuning for Generative Transfer Learning", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2210.00990)]
+* **Frido**: "Frido: Feature Pyramid Diffusion for Complex Scene Image Synthesis", arXiv, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2208.13753)][[PyTorch](https://github.com/davidhalladay/Frido)]
 
 [[Back to Overview](#overview)]
 
