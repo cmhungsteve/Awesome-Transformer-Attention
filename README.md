@@ -1215,6 +1215,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **WSQG**: "Frame-Subtitle Self-Supervision for Multi-Modal Video Question Answering", arXiv, 2022 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2209.03609)]
 * **mVQA**: "Towards Multi-Lingual Visual Question Answering", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2209.05401)]
 * **CIB**: "Finetuning Pretrained Vision-Language Models with Correlation Information Bottleneck for Robust Visual Question Answering", arXiv, 2022 (*Xi'an Jiaotong University*). [[Paper](https://arxiv.org/abs/2209.06954)]
+* **LocAns**: "Locate before Answering: Answer Guided Question Localization for Video Question Answering", arXiv, 2022 (*Fudan University*). [[Paper](https://arxiv.org/abs/2210.02081)]
 
 [[Back to Overview](#overview)]
 
@@ -1322,6 +1323,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **ERNIE**: "ERNIE-ViL 2.0: Multi-view Contrastive Learning for Image-Text Pre-training", arXiv, 2022 (*Baidu*). [[Paper](https://arxiv.org/abs/2209.15270)][[Paddle](https://github.com/PaddlePaddle/ERNIE)]
 * **LASP**: "Language-Aware Soft Prompting for Vision & Language Foundation Models", arXiv, 2022 (*Samsung*). [[Paper](https://arxiv.org/abs/2210.01115)]
 * **PLOT**: "Prompt Learning with Optimal Transport for Vision-Language Models", arXiv, 2022 (*CMU*). [[Paper](https://arxiv.org/abs/2210.01253)]
+* **VPT**: "Variational prompt tuning improves generalization of vision-language models", arXiv, 2022 (*Samsung*). [[Paper](https://arxiv.org/abs/2210.02390)]
 
 [[Back to Overview](#overview)]
 
@@ -1380,6 +1382,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **Textual-Inversion**: "An Image is Worth One Word: Personalizing Text-to-Image Generation using Textual Inversion", arXiv, 2022 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2208.01618)][[Website](https://textual-inversion.github.io/)]
 * **VLMGAN**: "Vision-Language Matching for Text-to-Image Synthesis via Generative Adversarial Networks", arXiv, 2022 (*Fudan University*). [[Paper](https://arxiv.org/abs/2208.09596)]
 * **Make-A-Video**: "Make-A-Video: Text-to-Video Generation without Text-Video Data", arXiv, 2022 (*Meta*). [[Paper](https://arxiv.org/abs/2209.14792)]
+* **PDM**: "Progressive Denoising Model for Fine-Grained Text-to-Image Generation", arXiv, 2022 (*Meituan*). [[Paper](https://arxiv.org/abs/2210.02291)]
 
 [[Back to Overview](#overview)]
 
@@ -1422,6 +1425,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * X-Shot:
     * **LIMoE**: "Multimodal Contrastive Learning with LIMoE: the Language-Image Mixture of Experts", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2206.02770)]
     * **CAVPT**: "Class-Aware Visual Prompt Tuning for Vision-Language Pre-Trained Model", arXiv, 2022 (*Northwestern Polytechnical University, China*). [[Paper](https://arxiv.org/abs/2208.08340)]
+    * 
 * Segmentation:
     * **VLT**: "Vision-Language Transformer and Query Generation for Referring Segmentation", ICCV, 2021 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2108.05565)][[Tensorflow](https://github.com/henghuiding/Vision-Language-Transformer)]
     * **LAVT**: "LAVT: Language-Aware Vision Transformer for Referring Image Segmentation", CVPR, 2022 (*Oxford*). [[Paper](https://arxiv.org/abs/2112.02244)]
@@ -1540,6 +1544,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **MVP**: "Multiple View Performers for Shape Completion", arXiv, 2022 (*Columbia University*). [[Paper](https://arxiv.org/abs/2209.06291)]
 * **Simple3D-Former**: "Can We Solve 3D Vision Tasks Starting from A 2D Vision Transformer?", arXiv, 2022 (*UT Austin*). [[Paper](https://arxiv.org/abs/2209.07026)][[PyTorch](https://github.com/Reimilia/Simple3D-Former)]
 * **3DPCT**: "3DPCT: 3D Point Cloud Transformer with Dual Self-attention", arXiv, 2022 (*University of Waterloo, Canada*). [[Paper](https://arxiv.org/abs/2209.11255)]
+* **PS-Former**: "Point Cloud Recognition with Position-to-Structure Attention Transformers", arXiv, 2022 (*UCSD*). [[Paper](https://arxiv.org/abs/2210.02030)]
 
 [[Back to Overview](#overview)]
 
@@ -2012,6 +2017,7 @@ Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2204.08696)]
 * **POVT**: "Patch-based Object-centric Transformers for Efficient Video Generation", arXiv, 2022 (*Berkeley*). [[Paper](https://arxiv.org/abs/2206.04003)][[PyTorch](https://github.com/wilson1yan/povt)][[Website](https://sites.google.com/view/povt-public)]
 * **TAIN**: "Cross-Attention Transformer for Video Interpolation", arXiv, 2022 (*Duke*). [[Paper](https://arxiv.org/abs/2207.04132)]
 * **TTVFI**: "TTVFI: Learning Trajectory-Aware Transformer for Video Frame Interpolation", arXiv, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2207.09048)]
+* **TECO**: "Temporally Consistent Video Transformer for Long-Term Video Prediction", arXiv, 2022 (*Berkeley*). [[Paper](https://arxiv.org/abs/2210.02396)][[Jax](https://github.com/wilson1yan/teco)][[Website](https://wilson1yan.github.io/teco/index.html)]
 
 [[Back to Overview](#overview)]
 
@@ -2487,6 +2493,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **Perceiver-Actor**: "Perceiver-Actor: A Multi-Task Transformer for Robotic Manipulation", Conference on Robot Learning (CoRL), 2022 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2209.05451)][[Website](https://peract.github.io/)]
     * **PACT**: "PACT: Perception-Action Causal Transformer for Autoregressive Robotics Pre-Training", arXiv, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2209.11133)]
     * **?**: "A Strong Transfer Baseline for RGB-D Fusion in Vision Transformers", arXiv, 2022 (*University of Groningen, The Netherlands*). [[Paper](https://arxiv.org/abs/2210.00843)]
+    * **?**: "Grounding Language with Visual Affordances over Unstructured Data", arXiv, 2022 (*University of Freiburg, Germany*). [[Paper](https://arxiv.org/abs/2210.01911)][[Website](http://hulc2.cs.uni-freiburg.de/)]
 * Scene Decomposition:
     * **SRT**: "Scene Representation Transformer: Geometry-Free Novel View Synthesis Through Set-Latent Scene Representations", CVPR, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2111.13152)][[PyTorch (stelzner)](https://github.com/stelzner/srt)][[Website](https://srt-paper.github.io/)]
     * **OSRT**: "Object Scene Representation Transformer", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2206.06922)][[Website](https://osrt-paper.github.io/)]
