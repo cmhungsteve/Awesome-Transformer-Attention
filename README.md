@@ -1383,6 +1383,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **VLMGAN**: "Vision-Language Matching for Text-to-Image Synthesis via Generative Adversarial Networks", arXiv, 2022 (*Fudan University*). [[Paper](https://arxiv.org/abs/2208.09596)]
 * **Make-A-Video**: "Make-A-Video: Text-to-Video Generation without Text-Video Data", arXiv, 2022 (*Meta*). [[Paper](https://arxiv.org/abs/2209.14792)]
 * **PDM**: "Progressive Denoising Model for Fine-Grained Text-to-Image Generation", arXiv, 2022 (*Meituan*). [[Paper](https://arxiv.org/abs/2210.02291)]
+* **Imagen-Video**: "Imagen Video: High Definition Video Generation with Diffusion Models", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2210.02303)][[Website](https://imagen.research.google/video/)]
 
 [[Back to Overview](#overview)]
 
