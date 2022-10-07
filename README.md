@@ -1727,6 +1727,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **CodeFormer**: "Towards Robust Blind Face Restoration with Codebook Lookup Transformer", arXiv, 2022 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2206.11253)][[PyTorch (in construction)](https://github.com/sczhou/CodeFormer)][[Website](https://shangchenzhou.com/projects/CodeFormer/)]
     * **FaceFormer**: "FaceFormer: Scale-aware Blind Face Restoration with Transformers", arXiv, 2022 (*Tencent*). [[Paper](https://arxiv.org/abs/2207.09790)]
     * **text2StyleGAN**: "Text-Free Learning of a Natural Language Interface for Pretrained Face Generators", arXiv, 2022 (*Toyota Technological Institute, Chicago*). [[Paper](https://arxiv.org/abs/2209.03953)][[PyTorch](https://github.com/duxiaodan/Fast_text2StyleGAN)]
+    * **ManiCLIP**: "ManiCLIP: Multi-Attribute Face Manipulation from Text", arXiv, 2022 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2210.00445)]
 * Facial Expression:
     * **TransFER**: "TransFER: Learning Relation-aware Facial Expression Representations with Transformers", ICCV, 2021 (*CAS*). [[Paper](https://arxiv.org/abs/2108.11116)]
     * **CVT-Face**: "Robust Facial Expression Recognition with Convolutional Visual Transformers", arXiv, 2021 (*Hunan University*). [[Paper](https://arxiv.org/abs/2103.16854)]
