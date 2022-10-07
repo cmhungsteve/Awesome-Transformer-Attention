@@ -705,8 +705,10 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **SaFT**: "Semantic-aligned Fusion Transformer for One-shot Object Detection", CVPR, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2203.09093)]
     * **Meta-DETR**: "Meta-DETR: Image-Level Few-Shot Detection with Inter-Class Correlation Exploitation", TPAMI, 2022 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2208.00219)]
     * **Incremental-DETR**: "Incremental-DETR: Incremental Few-Shot Object Detection via Self-Supervised Learning", arXiv, 2022 (*NUS*). [[Paper](https://arxiv.org/abs/2205.04042)]
-* Open-World:
+* Open-World/Vocabulary:
     * **OW-DETR**: "OW-DETR: Open-world Detection Transformer", CVPR, 2022 (*IIAI*). [[Paper](https://arxiv.org/abs/2112.01513)][[PyTorch](https://github.com/akshitac8/OW-DETR)]
+    * **DetPro**: "Learning to Prompt for Open-Vocabulary Object Detection with Vision-Language Model", CVPR, 2022 (*Tsinghua University*). [[Paper](https://arxiv.org/abs/2203.14940)][[PyTorch](https://github.com/dyabel/detpro)]
+    * **PromptDet**: "PromptDet: Towards Open-vocabulary Detection using Uncurated Images", ECCV, 2022 (*Meituan*). [[Paper](https://arxiv.org/abs/2203.16513)][[PyTorch](https://github.com/fcjian/PromptDet)][[Website](https://fcjian.github.io/promptdet/)]
     * **DetCLIP**: "DetCLIP: Dictionary-Enriched Visual-Concept Paralleled Pre-training for Open-world Detection", NeurIPS, 2022 (*HKUST*). [[Paper](https://arxiv.org/abs/2209.09407)]
 * Pedestrian Detection:
     * **PED**: "DETR for Crowd Pedestrian Detection", arXiv, 2020 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2012.06785)][[PyTorch](https://github.com/Hatmm/PED-DETR-for-Pedestrian-Detection)]
@@ -845,6 +847,11 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 [[Back to Overview](#overview)]
 
 ### Other Segmentation Tasks
+* Vision-Language:
+    * **LSeg**: "Language-driven Semantic Segmentation", ICLR, 2022 (*Cornell*). [[Paper](https://arxiv.org/abs/2201.03546)][[PyTorch](https://github.com/isl-org/lang-seg)]
+    * **ZegFormer**: "Decoupling Zero-Shot Semantic Segmentation", CVPR, 2022 (*Wuhan University*). [[Paper](https://arxiv.org/abs/2112.07910)][[PyTorch](https://github.com/dingjiansw101/ZegFormer)]
+    * **CLIPSeg**: "Image Segmentation Using Text and Image Prompts", CVPR, 2022 (*University of Göttingen, Germany*). [[Paper](https://arxiv.org/abs/2112.10003)][[PyTorch](https://github.com/timojl/clipseg)]
+    * **DenseCLIP**: "DenseCLIP: Language-Guided Dense Prediction with Context-Aware Prompting", CVPR, 2022 (*Tsinghua University*). [[Paper](https://arxiv.org/abs/2112.01518)][[PyTorch](https://github.com/raoyongming/DenseCLIP)][[Website](https://denseclip.ivg-research.xyz/)]
 * Multi-Modal:
     * **CMX**: "CMX: Cross-Modal Fusion for RGB-X Semantic Segmentation with Transformers", arXiv, 2022 (*Karlsruhe Institute of Technology, Germany*). [[Paper](https://arxiv.org/abs/2203.04838)][[PyTorch](https://github.com/huaaaliu/RGBX_Semantic_Segmentation)]
 * Panoptic Segmentation:
@@ -871,8 +878,6 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **Trans4PASS**: "Bending Reality: Distortion-aware Transformers for Adapting to Panoramic Semantic Segmentation", CVPR, 2022 (*Karlsruhe Institute of Technology, Germany*). [[Paper](https://arxiv.org/abs/2203.01452)][[PyTorch](https://github.com/jamycheung/Trans4PASS)]
 * X-Shot:
     * **CyCTR**: "Few-Shot Segmentation via Cycle-Consistent Transformer", NeurIPS, 2021 (*University of Technology Sydney*). [[Paper](https://arxiv.org/abs/2106.02320)]
-    * **LSeg**: "Language-driven Semantic Segmentation", ICLR, 2022 (*Cornell*). [[Paper](https://arxiv.org/abs/2201.03546)][[PyTorch](https://github.com/isl-org/lang-seg)]
-    * **ZegFormer**: "Decoupling Zero-Shot Semantic Segmentation", CVPR, 2022 (*Wuhan University*). [[Paper](https://arxiv.org/abs/2112.07910)][[PyTorch](https://github.com/dingjiansw101/ZegFormer)]
     * **CATrans**: "CATrans: Context and Affinity Transformer for Few-Shot Segmentation", IJCAI, 2022 (*Baidu*). [[Paper](https://arxiv.org/abs/2204.12817)]
     * **VAT**: "Cost Aggregation with 4D Convolutional Swin Transformer for Few-Shot Segmentation", ECCV, 2022 (*Korea University*). [[Paper](https://arxiv.org/abs/2207.10866)][[PyTorch](https://github.com/Seokju-Cho/Volumetric-Aggregation-Transformer)][[Website](https://seokju-cho.github.io/VAT/)]
     * **TAFT**: "Task-Adaptive Feature Transformer with Semantic Enrichment for Few-Shot Segmentation", arXiv, 2022 (*KAIST*). [[Paper](https://arxiv.org/abs/2202.06498)]
@@ -1065,6 +1070,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 ### Other Video Tasks
 * Action Segmentation
     * **ASFormer**: "ASFormer: Transformer for Action Segmentation", BMVC, 2021 (*Peking University*). [[Paper](https://arxiv.org/abs/2110.08568)][[PyTorch](https://github.com/ChinaYi/ASFormer)]
+    * **Bridge-Prompt**: "Bridge-Prompt: Towards Ordinal Action Understanding in Instructional Videos", CVPR, 2022 (*Tsinghua University*). [[Paper](https://arxiv.org/abs/2203.14104)][[PyTorch](https://github.com/ttlmh/Bridge-Prompt)]
     * **SC-Transformer++**: "SC-Transformer++: Structured Context Transformer for Generic Event Boundary Detection", CVPRW, 2022 (*CAS*). [[Paper](https://arxiv.org/abs/2206.12634)][[Code (in construction)](https://github.com/lufficc/SC-Transformer)]
     * **LocVTP**: "LocVTP: Video-Text Pre-training for Temporal Localization", ECCV, 2022 (*Peking University*). [[Paper](https://arxiv.org/abs/2207.10362)][[PyTorch](https://github.com/mengcaopku/LocVTP)]
     * **?**: "Transformers in Action: Weakly Supervised Action Segmentation", arXiv, 2022 (*TUM*). [[Paper](https://arxiv.org/abs/2201.05675)]
@@ -1089,10 +1095,11 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **SVRTN**: "Self-supervised Video Retrieval Transformer Network", arXiv, 2021 (*Alibaba*). [[Paper](https://arxiv.org/abs/2104.07993)]
 * Video Hashing
     * **BTH**: "Self-Supervised Video Hashing via Bidirectional Transformers", CVPR, 2021 (*Tsinghua*). [[Paper](https://openaccess.thecvf.com/content/CVPR2021/html/Li_Self-Supervised_Video_Hashing_via_Bidirectional_Transformers_CVPR_2021_paper.html)][[PyTorch](https://github.com/Lily1994/BTH)]
-* Vision-Language Pre-training:
+* Vision-Language:
     * **?**: "Prompting Visual-Language Models for Efficient Video Understanding", ECCV, 2022 (*Shanghai Jiao Tong + Oxford*). [[Paper](https://arxiv.org/abs/2112.04478)][[PyTorch](https://github.com/ju-chen/Efficient-Prompt)][[Website](https://ju-chen.github.io/efficient-prompt/)]
     * **X-CLIP**: "Expanding Language-Image Pretrained Models for General Video Recognition", ECCV, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2208.02816)][[PyTorch](https://github.com/microsoft/VideoX/tree/master/X-CLIP)]
     * **EVL**: "Frozen CLIP Models are Efficient Video Learners", ECCV, 2022 (*CUHK*). [[Paper](https://arxiv.org/abs/2208.03550)][[PyTorch (in construction)](https://github.com/OpenGVLab/efficient-video-recognition)]
+    * **STALE**: "Zero-Shot Temporal Action Detection via Vision-Language Prompting", ECCV, 2022 (*University of Surrey, UK*). [[Paper](https://arxiv.org/abs/2207.08184)][[Code (in construction)](https://github.com/sauradip/STALE)]
 * X-supervised Learning:
     * **LSTCL**: "Long-Short Temporal Contrastive Learning of Video Transformers", CVPR, 2022 (*Facebook*). [[Paper](https://arxiv.org/abs/2106.09212)]
     * **SVT**: "Self-supervised Video Transformer", CVPR, 2022 (*Stony Brook*). [[Paper](https://arxiv.org/abs/2112.01514)][[PyTorch](https://github.com/kahnchana/svt)][[Website](https://kahnchana.github.io/svt/)]
@@ -1107,7 +1114,6 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **?**: "On the Surprising Effectiveness of Transformers in Low-Labeled Video Recognition", arXiv, 2022 (*Georgia Tech*). [[Paper](https://arxiv.org/abs/2209.07474)]
 * X-shot:
     * **ResT**: "Cross-modal Representation Learning for Zero-shot Action Recognition", CVPR, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2205.01657)]
-    * **STALE**: "Zero-Shot Temporal Action Detection via Vision-Language Prompting", ECCV, 2022 (*University of Surrey, UK*). [[Paper](https://arxiv.org/abs/2207.08184)][[Code (in construction)](https://github.com/sauradip/STALE)]
     * **ViSET**: "Zero-Shot Action Recognition with Transformer-based Video Semantic Embedding", arXiv, 2022 (*University of South FLorida*). [[Paper](https://arxiv.org/abs/2203.05156)]
     * **REST**: "REST: REtrieve & Self-Train for generative action recognition", arXiv, 2022 (*Samsung*). [[Paper](https://arxiv.org/abs/2209.15000)]
 * Anomaly Detection:
@@ -1280,6 +1286,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **METER**: "An Empirical Study of Training End-to-End Vision-and-Language Transformers", CVPR, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2111.02387)][[PyTorch](https://github.com/zdou0830/METER)]
 * **HD-VILA**: "Advancing High-Resolution Video-Language Representation with Large-Scale Video Transcriptions", CVPR, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2111.10337)][[GitHub](https://github.com/microsoft/XPretrain)]
 * **ATP**: "Revisiting the "Video" in Video-Language Understanding", CVPR, 2022 (*Stanford*). [[Paper](https://arxiv.org/abs/2206.01720)][[Website](https://stanfordvl.github.io/atp-revisit-video-lang/)]
+* **ALPRO**: "Align and Prompt: Video-and-Language Pre-training with Entity Prompts", CVPR, 2022 (*Salesforce*). [[Paper](https://arxiv.org/abs/2112.09583)][[PyTorch](https://github.com/salesforce/ALPRO)]
 * **CM-mix**: "Pre-training image-language transformers for open-vocabulary tasks", CVPRW, 2022 (*Google*). [[Paper](https://drive.google.com/file/d/1dYM4g42rptj647v1EfNARmnCt3HdPpNR/view)]
 * **VLMixer**: "VLMixer: Unpaired Vision-Language Pre-training via Cross-Modal CutMix", ICML, 2022 (*Southern University of Science and Technology*). [[Paper](https://arxiv.org/abs/2206.08919)][[Code (in construction)](https://github.com/ttengwang/VLMixer)]
 * **VLUE**: "VLUE: A Multi-Task Benchmark for Evaluating Vision-Language Models", ICML, 2022 (*ByteDance*). [[Paper](https://arxiv.org/abs/2205.15237)][[Website](https://vlue-benchmark.github.io/)][[PyTorch](https://github.com/MichaelZhouwang/VLUE)]
@@ -1419,8 +1426,8 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **SGTR**: "SGTR: End-to-end Scene Graph Generation with Transformer", CVPR, 2022 (*ShanghaiTech*). [[Paper](https://arxiv.org/abs/2112.12970)][[Code (in construction)](https://github.com/Scarecrow0/SGTR)]
 * **GCL**: "Stacked Hybrid-Attention and Group Collaborative Learning for Unbiased Scene Graph Generation", CVPR, 2022 (*Shandong University*). [[Paper](https://arxiv.org/abs/2203.09811)][[PyTorch](https://github.com/dongxingning/SHA-GCL-for-SGG)]
 * **Relationformer**: "Relationformer: A Unified Framework for Image-to-Graph Generation", ECCV, 2022 (*TUM*). [[Paper](https://arxiv.org/abs/2203.10202)][[Code (in construction)](https://github.com/suprosanna/relationformer)]
+* **SVRP**: "Towards Open-vocabulary Scene Graph Generation with Prompt-based Finetuning", ECCV, 2022 (*Monash University*). [[Paper](https://arxiv.org/abs/2208.08165)]
 * **RelTR**: "RelTR: Relation Transformer for Scene Graph Generation", arXiv, 2022 (*Leibniz University Hannover, Germany*). [[Paper](https://arxiv.org/abs/2201.11460)][[PyTorch](https://github.com/yrcong/RelTR)]
-* **SVRP**: "Towards Open-vocabulary Scene Graph Generation with Prompt-based Finetuning", arXiv, 2022 (*Monash University*). [[Paper](https://arxiv.org/abs/2208.08165)]
 
 [[Back to Overview](#overview)]
 
@@ -1428,6 +1435,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * Prompt Engineering:
     * **CoCoOp**: "Conditional Prompt Learning for Vision-Language Models", CVPR, 2022 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2203.05557)][[PyTorch](https://github.com/KaiyangZhou/CoOp)]
     * **ProDA**: "Prompt Distribution Learning", CVPR, 2022 (*Huawei*). [[Paper](https://arxiv.org/abs/2205.03340)]
+    * **VPT**: "Visual Prompt Tuning", ECCV, 2022 (*Cornell*). [[Paper](https://arxiv.org/abs/2203.12119)][[PyTorch](https://github.com/kmnp/vpt)]
     * **CoOp**: "Learning to Prompt for Vision-Language Models", IJCV, 2022 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2109.01134)][[PyTorch](https://github.com/KaiyangZhou/CoOp)]
     * **LASP**: "Language-Aware Soft Prompting for Vision & Language Foundation Models", arXiv, 2022 (*Samsung*). [[Paper](https://arxiv.org/abs/2210.01115)]
     * **PLOT**: "Prompt Learning with Optimal Transport for Vision-Language Models", arXiv, 2022 (*CMU*). [[Paper](https://arxiv.org/abs/2210.01253)]
@@ -1833,6 +1841,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **?**: "Simpler is Better: off-the-shelf Continual Learning Through Pretrained Backbones", CVPRW, 2022 (*Ca' Foscari University, Italy*). [[Paper](https://arxiv.org/abs/2205.01586)][[PyTorch](https://github.com/francesco-p/off-the-shelf-cl)]
     * **ADA**: "Continual Learning with Transformers for Image Classification", CVPRW, 2022 (*Amazon*). [[Paper](https://arxiv.org/abs/2206.14085)]
     * **?**: "Towards Exemplar-Free Continual Learning in Vision Transformers: an Account of Attention, Functional and Weight Regularization", CVPRW, 2022 (*Ca' Foscari University, Italy*). [[Paper](https://arxiv.org/abs/2203.13167)]
+    * **DualPrompt**: "DualPrompt: Complementary Prompting for Rehearsal-free Continual Learning", ECCV, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2204.04799)][[Tensorflow](https://github.com/google-research/l2p)]
     * **CVT**: "Online Continual Learning with Contrastive Vision Transformer", ECCV, 2022 (*The University of Sydney*). [[Paper](https://arxiv.org/abs/2207.13516)]
     * **COLT**: "Transformers Are Better Continual Learners", arXiv, 2022 (*Hikvision*). [[Paper](https://arxiv.org/abs/2201.04924)]
     * **S-Prompts**: "S-Prompts Learning with Pre-trained Transformers: An Occam's Razor for Domain Incremental Learning", arXiv, 2022 (*Singapore Management University*). [[Paper](https://arxiv.org/abs/2207.12819)]
