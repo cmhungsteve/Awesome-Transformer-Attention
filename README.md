@@ -2519,6 +2519,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **PACT**: "PACT: Perception-Action Causal Transformer for Autoregressive Robotics Pre-Training", arXiv, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2209.11133)]
     * **?**: "A Strong Transfer Baseline for RGB-D Fusion in Vision Transformers", arXiv, 2022 (*University of Groningen, The Netherlands*). [[Paper](https://arxiv.org/abs/2210.00843)]
     * **?**: "Grounding Language with Visual Affordances over Unstructured Data", arXiv, 2022 (*University of Freiburg, Germany*). [[Paper](https://arxiv.org/abs/2210.01911)][[Website](http://hulc2.cs.uni-freiburg.de/)]
+    * **VIMA**: "VIMA: General Robot Manipulation with Multimodal Prompts", arXiv, 2022 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2210.03094)][[PyTorch](https://github.com/vimalabs/VIMA)][[Website](https://vimalabs.github.io/)]
 * Scene Decomposition:
     * **SRT**: "Scene Representation Transformer: Geometry-Free Novel View Synthesis Through Set-Latent Scene Representations", CVPR, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2111.13152)][[PyTorch (stelzner)](https://github.com/stelzner/srt)][[Website](https://srt-paper.github.io/)]
     * **OSRT**: "Object Scene Representation Transformer", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2206.06922)][[Website](https://osrt-paper.github.io/)]
