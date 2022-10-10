@@ -1084,6 +1084,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **TF-DL**: "TubeFormer-DeepLab: Video Mask Transformer", CVPR, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2205.15361)]
     * **MRCFA**: "Mining Relations among Cross-Frame Affinities for Video Semantic Segmentation", ECCV, 2022 (*ETH Zurich*). [[Paper](https://arxiv.org/pdf/2207.10436)][[PyTorch](https://github.com/GuoleiSun/VSS-MRCFA)]   
     * **PolyphonicFormer**: "PolyphonicFormer: Unified Query Learning for Depth-aware Video Panoptic Segmentation, ECCV, 2022 (*Wuhan University*). [[Paper](https://arxiv.org/abs/2112.02582)][[Code (in construction)](https://github.com/HarborYuan/PolyphonicFormer)]
+    * **?**: "Time-Space Transformers for Video Panoptic Segmentation", arXiv, 2022 (*Technical University of Cluj-Napoca, Romania*). [[Paper](https://arxiv.org/abs/2210.03546)]
 * Video Object Detection:
     * **TransVOD**: "End-to-End Video Object Detection with Spatial-Temporal Transformers", arXiv, 2021 (*Shanghai Jiao Tong + SenseTime*). [[Paper](https://arxiv.org/abs/2105.10920)][[Code (in construction)](https://github.com/SJTU-LuHe/TransVOD)]
     * **MODETR**: "MODETR: Moving Object Detection with Transformers", arXiv, 2021 (*Valeo, Egypt*). [[Paper](https://arxiv.org/abs/2106.11422)]
@@ -1335,6 +1336,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **PaLI**: "PaLI: A Jointly-Scaled Multilingual Language-Image Model", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2209.06794)]
 * **CLIP-ViP**: "CLIP-ViP: Adapting Pre-trained Image-Text Model to Video-Language Representation Alignment", arXiv, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2209.06430)][[Code (in construction)](https://github.com/microsoft/XPretrain/tree/main/CLIP-ViP)]
 * **ERNIE**: "ERNIE-ViL 2.0: Multi-view Contrastive Learning for Image-Text Pre-training", arXiv, 2022 (*Baidu*). [[Paper](https://arxiv.org/abs/2209.15270)][[Paddle](https://github.com/PaddlePaddle/ERNIE)]
+* **Pix2Struct**: "Pix2Struct: Screenshot Parsing as Pretraining for Visual Language Understanding", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2210.03347)]
 
 [[Back to Overview](#overview)]
 
@@ -2236,6 +2238,7 @@ Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2207.11553)][[Cod
 * **TMSS**: "TMSS: An End-to-End Transformer-based Multimodal Network for Segmentation and Survival Prediction", arXiv, 2022 (*MBZUAI*). [[Paper](https://arxiv.org/abs/2209.05036)]
 * **CR-Swin2-VT**: "Hybrid Window Attention Based Transformer Architecture for Brain Tumor Segmentation", arXiv, 2022 (*Monash University*). [[Paper](https://arxiv.org/abs/2209.07704)][[PyTorch](https://github.com/himashi92/vizviva_fets_2022)]
 * **3DUX-Net**: "3D UX-Net: A Large Kernel Volumetric ConvNet Modernizing Hierarchical Transformer for Medical Image Segmentation", arXiv, 2022 (*Vanderbilt University*). [[Paper](https://arxiv.org/abs/2209.15076)][[PyTorch](https://github.com/MASILab/3DUX-Net)]
+* **FocalUNETR**: "FocalUNETR: A Focal Transformer for Boundary-aware Segmentation of CT Images", arXiv, 2022 (*Wayne State University, Detroit*). [[Paper](https://arxiv.org/abs/2210.03189)]
 
 [[Back to Overview](#overview)]
 
