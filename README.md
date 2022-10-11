@@ -968,6 +968,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **TPS**: "Spatiotemporal Self-attention Modeling with Temporal Patch Shift for Action Recognition", ECCV, 2022 (*Alibaba*). [[Paper](https://arxiv.org/abs/2207.13259)][[PyTorch](https://github.com/MartinXM/TPS)]
     * **DualFormer**: "DualFormer: Local-Global Stratified Transformer for Efficient Video Recognition", ECCV, 2022 (*Sea AI Lab*). [[Paper](https://arxiv.org/abs/2112.04674)][[PyTorch](https://github.com/sail-sg/dualformer)]
     * **STTS**: "Efficient Video Transformers with Spatial-Temporal Token Selection", ECCV, 2022 (*Fudan University*). [[Paper](https://arxiv.org/abs/2111.11591)][[PyTorch](https://github.com/wangjk666/STTS)]
+    * **Turbo**: "Turbo Training with Token Dropout", BMVC, 2022 (*Oxford*). [[Paper](https://arxiv.org/abs/2210.04889)]
     * **MultiTrain**: "Multi-dataset Training of Transformers for Robust Action Recognition", NeurIPS, 2022 (*Tencent*). [[Paper](https://arxiv.org/abs/2209.12362)][[Code (in construction)](https://github.com/JunweiLiang/MultiTrain)]
     * **AIA**: "Attention in Attention: Modeling Context Correlation for Efficient Video Classification", TCSVT, 2022 (*University of Science and Technology of China*). [[Paper](https://arxiv.org/abs/2204.09303)][[PyTorch](https://github.com/haoyanbin918/Attention-in-Attention)]
     * **MSCA**: "Vision Transformer with Cross-attention by Temporal Shift for Efficient Action Recognition", arXiv, 2022 (*Nagoya Institute of Technology*). [[Paper](https://arxiv.org/abs/2204.00452)]
@@ -1772,6 +1773,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **ICT**: "Protecting Celebrities from DeepFake with Identity Consistency Transformer", CVPR, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2203.01318)][[PyTorch](https://github.com/LightDXY/ICT_DeepFake)]
     * **?**: "Hybrid Transformer Network for Deepfake Detection", International Conference on Content-Based Multimedia Indexing (CBMI), 2022 (*MediaFutures, Norway*). [[Paper](https://arxiv.org/abs/2208.05820)]
     * **ViTAF**: "Adaptive Transformers for Robust Few-shot Cross-domain Face Anti-spoofing", ECCV, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2203.12175)]
+    * **?**: "Multi-Scale Wavelet Transformer for Face Forgery Detection", ACCV, 2022 (*Hikvision*). [[Paper](https://arxiv.org/abs/2210.03899)]
     * **?**: "Self-supervised Transformer for Deepfake Detection", arXiv, 2022 (*USTC, China*). [[Paper](https://arxiv.org/abs/2203.01265)]
     * **ViTransPAD**: "ViTransPAD: Video Transformer using convolution and self-attention for Face Presentation Attack Detection", arXiv, 2022 (*University of La Rochelle, France*). [[Paper](https://arxiv.org/abs/2203.01562)]
     * **?**: "Cross-Forgery Analysis of Vision Transformers and CNNs for Deepfake Image Detection", arXiv, 2022 (*National Research Council, Italy*). [[Paper](https://arxiv.org/abs/2206.13829)]
@@ -1826,6 +1828,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **DePT**: "Visual Prompt Tuning for Test-time Domain Adaptation", arXiv, 2022 (*Amazon*). [[Paper](https://arxiv.org/abs/2210.04831)]
 * X-Supervised:
     * **Semiformer**: "Semi-Supervised Vision Transformers", ECCV, 2022 (*Fudan University*). [[Paper](https://arxiv.org/abs/2111.11067)][[PyTorch](https://github.com/wengzejia1/Semiformer)]
+    * **SVL-Adapter**: "SVL-Adapter: Self-Supervised Adapter for Vision-Language Pretrained Models", BMVC, 2022 (*UCL*). [[Paper](https://arxiv.org/abs/2210.03794)][[Code (in construction)](https://github.com/omipan/svl_adapter)]
     * **Semi-ViT**: "Semi-supervised Vision Transformers at Scale", arXiv, 2022 (*Amazon*). [[Paper](https://arxiv.org/abs/2208.05688)]
 * Zero-Shot:
     * **ViT-ZSL**: "Multi-Head Self-Attention via Vision Transformer for Zero-Shot Learning", IMVIP, 2021 (*University of Exeter, UK*). [[Paper](https://arxiv.org/abs/2108.00045)]
@@ -2071,6 +2074,7 @@ Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2204.08696)]
 * **ManiTrans**: "ManiTrans: Entity-Level Text-Guided Image Manipulation via Token-wise Semantic Alignment and Generation", CVPR, 2022 (*Huawei*). [[Paper](https://arxiv.org/abs/2204.04428)][[Website](https://jawang19.github.io/manitrans/)]
 * **QS-Attn**: "QS-Attn: Query-Selected Attention for Contrastive Learning in I2I Translation", CVPR, 2022 (*Shanghai Key Laboratory*). [[Paper](https://arxiv.org/abs/2203.08483)][[PyTorch](https://github.com/sapphire497/query-selected-attention)]
 * **ASSET**: "ASSET: Autoregressive Semantic Scene Editing with Transformers at High Resolutions", SIGGRAPH, 2022 (*Adobe*). [[Paper](https://arxiv.org/abs/2205.12231)][[PyTorch](https://github.com/DifanLiu/ASSET)][[Website](https://people.cs.umass.edu/~dliu/projects/ASSET/)]
+* **SCAM**: "SCAM! Transferring humans between images with Semantic Cross Attention Modulation", ECCV, 2022 (*Univ Gustave Eiffel, France*). [[Paper](https://arxiv.org/abs/2210.04883)][[PyTorch](https://github.com/nicolas-dufour/SCAM)][[Website](https://imagine.enpc.fr/~dufourn/publications/scam.html)]
 * **Splice**: "Splicing ViT Features for Semantic Appearance Transfer", arXiv, 2022 (*Weizmann Institute of Science, Israel*). [[Paper](https://arxiv.org/abs/2201.00424)][[PyTorch](https://github.com/omerbt/Splice)][[Website](https://splice-vit.github.io/)]
 * **UVCGAN**: "UVCGAN: UNet Vision Transformer cycle-consistent GAN for unpaired image-to-image translation", arXiv, 2022 (*Brookhaven National Laboratory, NY*). [[Paper](https://arxiv.org/abs/2203.02557)]
 * **ITTR**: "ITTR: Unpaired Image-to-Image Translation with Transformers", arXiv, 2022 (*Kuaishou*). [[Paper](https://arxiv.org/abs/2203.16015)]
@@ -2656,6 +2660,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **SPH**: "Spherical Transformer", arXiv, 2022 (*Chung-Ang University, Korea*). [[Paper](https://arxiv.org/abs/2202.04942)]
 * Others:
     * **?**: "Connecting Compression Spaces with Transformer for Approximate Nearest Neighbor Search", ECCV, 2022 (*Intellifusion, China*). [[Paper](https://arxiv.org/abs/2107.14415)]
+    * **?**: "Strong Gravitational Lensing Parameter Estimation with Vision Transformer", ECCVW, 2022 (*CMU*). [[Paper](https://arxiv.org/abs/2210.04143)][[PyTorch](https://github.com/kuanweih/strong_lensing_vit_resnet)]
 
 [[Back to Overview](#overview)]
 
