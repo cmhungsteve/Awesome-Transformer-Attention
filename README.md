@@ -406,6 +406,7 @@ Feel free to share this list with others!
 * **dBOT**: "Exploring Target Representations for Masked Autoencoders", arXiv, 2022 (*ByteDance*). [[Paper](https://arxiv.org/abs/2209.03917)]
 * **PatchErasing**: "Effective Vision Transformer Training: A Data-Centric Perspective", arXiv, 2022 (*Alibaba*). [[Paper](https://arxiv.org/abs/2209.15006)] 
 * **Self-Distillation**: "Self-Distillation for Further Pre-training of Transformers", arXiv, 2022 (*KAIST*). [[Paper](https://arxiv.org/abs/2210.02871)]
+* **TL-Align**: "Token-Label Alignment for Vision Transformers", arXiv, 2022 (*Tsinghua University*). [[Paper](https://arxiv.org/abs/2210.06455)][[PyTorch](https://github.com/Euphoria16/TL-Align)]
 #### Robustness + Transformer
 * **ViT-Robustness**: "Understanding Robustness of Transformers for Image Classification", ICCV, 2021 (*Google*). [[Paper](https://arxiv.org/abs/2103.14586)]
 * **SAGA**: "On the Robustness of Vision Transformers to Adversarial Examples", ICCV, 2021 (*University of Connecticut*). [[Paper](https://arxiv.org/abs/2104.02610)]
@@ -452,6 +453,7 @@ Feel free to share this list with others!
 * **CLIPping Privacy**: "CLIPping Privacy: Identity Inference Attacks on Multi-Modal Machine Learning Models", arXiv, 2022 (*TUM*). [[Paper](https://arxiv.org/abs/2209.07341)]
 * **?**: "A Light Recipe to Train Robust Vision Transformers", arXiv, 2022 (*EPFL*). [[Paper](https://arxiv.org/abs/2209.07399)]
 * **?**: "Attacking Compressed Vision Transformers", arXiv, 2022 (*NYU*). [[Paper](https://arxiv.org/abs/2209.13785)]
+* **C-AVP**: "Visual Prompting for Adversarial Robustness", arXiv, 2022 (*Michigan State*). [[Paper](https://arxiv.org/abs/2210.06284)]
 #### Model Compression + Transformer
 * **ViT-quant**: "Post-Training Quantization for Vision Transformer", NeurIPS, 2021 (*Huawei*). [[Paper](https://arxiv.org/abs/2106.14156)]
 * **VTP**: "Visual Transformer Pruning", arXiv, 2021 (*Huawei*). [[Paper](https://arxiv.org/abs/2104.08500)]
@@ -872,6 +874,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **BoundaryFormer**: "Instance Segmentation With Mask-Supervised Polygonal Boundary Transformers", CVPR, 2022 (*UCSD*). [[Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Lazarow_Instance_Segmentation_With_Mask-Supervised_Polygonal_Boundary_Transformers_CVPR_2022_paper.html)]
     * **PPT**: "Parallel Pre-trained Transformers (PPT) for Synthetic Data-based Instance Segmentation", CVPRW, 2022 (*ByteDance*). [[Paper](https://arxiv.org/abs/2206.10845)]
     * **OSFormer**: "OSFormer: One-Stage Camouflaged Instance Segmentation with Transformers", ECCV, 2022 (*Huazhong University of Science and Technology*). [[Paper](https://arxiv.org/abs/2207.02255)][[PyTorch](https://github.com/PJLallen/OSFormer)]
+    * **AISFormer**: "AISFormer: Amodal Instance Segmentation with Transformer", BMVC, 2022 (*University of Arkansas, Arkansas*). [[Paper](https://arxiv.org/abs/2210.06323)][[Code (in construction)](https://github.com/UARK-AICV/AISFormer)]
 * Optical Flow:
     * **CRAFT**: "CRAFT: Cross-Attentional Flow Transformer for Robust Optical Flow", CVPR, 2022 (*A\*STAR, Singapore*). [[Paper](https://arxiv.org/abs/2203.16896)][[PyTorch](https://github.com/askerlee/craft)]
     * **KPA-Flow**: "Learning Optical Flow With Kernel Patch Attention", CVPR, 2022 (*Megvii*). [[Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Luo_Learning_Optical_Flow_With_Kernel_Patch_Attention_CVPR_2022_paper.html)][[PyTorch (in construction)](https://github.com/megvii-research/KPAFlow)]
@@ -1350,6 +1353,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **Pix2Struct**: "Pix2Struct: Screenshot Parsing as Pretraining for Visual Language Understanding", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2210.03347)]
 * **VoLTA**: "VoLTA: Vision-Language Transformer with Weakly-Supervised Local-Feature Alignment", arXiv, 2022 (*JHU*). [[Paper](https://arxiv.org/abs/2210.04135)]
 * **MAP**: "MAP: Modality-Agnostic Uncertainty-Aware Vision-Language Pre-training Model", arXiv, 2022 (*Tsinghua + Waseda*). [[Paper](https://arxiv.org/abs/2210.05335)][[PyTorch](https://github.com/IIGROUP/MAP)]
+* **?**: "One does not fit all! On the Complementarity of Vision Encoders for Vision and Language Tasks", arXiv, 2022 (*Technical University of Darmstadt, Germany*). [[Paper](https://arxiv.org/abs/2210.06379)]
 
 [[Back to Overview](#overview)]
 
@@ -1464,6 +1468,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **MaPLe**: "MaPLe: Multi-modal Prompt Learning", arXiv, 2022 (*MBZUAI*). [[Paper](https://arxiv.org/abs/2210.03117)][[PyTorch](https://github.com/muzairkhattak/multimodal-prompt-learning)]
     * **CAVPT**: "Class-Aware Visual Prompt Tuning for Vision-Language Pre-Trained Model", arXiv, 2022 (*Northwestern Polytechnical University, China*). [[Paper](https://arxiv.org/abs/2208.08340)]
     * **Visual-Prompting**: "Exploring Visual Prompts for Adapting Large-Scale Models", arXiv, 2022 (*MIT*). [[Paper](https://arxiv.org/abs/2203.17274)][[PyTorch](https://github.com/hjbahng/visual_prompting)][[Website](https://hjbahng.github.io/visual_prompting/)]
+    * **PGN**: "Prompt Generation Networks for Efficient Adaptation of Frozen Vision Transformers", arXiv, 2022 (*University of Amsterdam*). [[Paper](https://arxiv.org/abs/2210.06466)][[PyTorch](https://github.com/jochemloedeman/PGN)]
 * X-Shot:
     * **LIMoE**: "Multimodal Contrastive Learning with LIMoE: the Language-Image Mixture of Experts", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2206.02770)]
 * Segmentation:
@@ -1647,6 +1652,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **SoMoFormer**: "SoMoFormer: Multi-Person Pose Forecasting with Transformers", arXiv, 2022 (*Stanford*). [[Paper](https://arxiv.org/abs/2208.14023)]
     * **DPIT**: "DPIT: Dual-Pipeline Integrated Transformer for Human Pose Estimation", arXiv, 2022 (*Shanghai University*). [[Paper](https://arxiv.org/abs/2209.02431)]
     * **HTT**: "Hierarchical Temporal Transformer for 3D Hand Pose Estimation and Action Recognition from Egocentric RGB Videos", arXiv, 2022 (*HKU*). [[Paper](https://arxiv.org/abs/2209.09484)]
+    * **Uplift-Upsample**: "Uplift and Upsample: Efficient 3D Human Pose Estimation with Uplifting Transformers", WACV, 2023 (*University of Augsburg, Germany*). [[Paper](https://arxiv.org/abs/2210.06110)][[Tensorflow](https://github.com/goldbricklemon/uplift-upsample-3dhpe)]
 * Others:
     * **TAPE**: "Transformer Guided Geometry Model for Flow-Based Unsupervised Visual Odometry", arXiv, 2020 (*Tianjing University*). [[Paper](https://arxiv.org/abs/2101.02143)]
     * **T6D-Direct**: "T6D-Direct: Transformers for Multi-Object 6D Pose Direct Regression", GCPR, 2021 (*University of Bonn*). [[Paper](https://arxiv.org/abs/2109.10948)]
@@ -1780,6 +1786,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **M2TR**: "M2TR: Multi-modal Multi-scale Transformers for Deepfake Detection", arXiv, 2021 (*Fudan University*). [[Paper](https://arxiv.org/abs/2104.09770)]
     * **Cross-ViT**: "Combining EfficientNet and Vision Transformers for Video Deepfake Detection", arXiv, 2021 (*University of Pisa*). [[Paper](https://arxiv.org/abs/2107.02612)][[PyTorch](https://github.com/davide-coccomini/Combining-EfficientNet-and-Vision-Transformers-for-Video-Deepfake-Detection)]
     * **ICT**: "Protecting Celebrities from DeepFake with Identity Consistency Transformer", CVPR, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2203.01318)][[PyTorch](https://github.com/LightDXY/ICT_DeepFake)]
+    * **GGViT**: "GGViT: Multistream Vision Transformer Network in Face2Face Facial Reenactment Detection", ICPR, 2022 (*CAS*). [[Paper](https://arxiv.org/abs/2210.05990)]
     * **?**: "Hybrid Transformer Network for Deepfake Detection", International Conference on Content-Based Multimedia Indexing (CBMI), 2022 (*MediaFutures, Norway*). [[Paper](https://arxiv.org/abs/2208.05820)]
     * **ViTAF**: "Adaptive Transformers for Robust Few-shot Cross-domain Face Anti-spoofing", ECCV, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2203.12175)]
     * **?**: "Multi-Scale Wavelet Transformer for Face Forgery Detection", ACCV, 2022 (*Hikvision*). [[Paper](https://arxiv.org/abs/2210.03899)]
@@ -2621,6 +2628,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **Wayformer**: "Wayformer: Motion Forecasting via Simple & Efficient Attention Networks", arXiv, 2022 (*Waymo*). [[Paper](https://arxiv.org/abs/2207.05844)]
     * **LaTTe**: "LaTTe: Language Trajectory TransformEr", arXiv, 2022 (*TUM*). [[Paper](https://arxiv.org/abs/2208.02918)][[Tensorflow](https://github.com/arthurfenderbucker/NL_trajectory_reshaper)]
     * **SoMoFormer**: "SoMoFormer: Social-Aware Motion Transformer for Multi-Person Motion Prediction", arXiv, 2022 (*Hangzhou Dianzi University*). [[Paper](https://arxiv.org/abs/2208.09224)]
+    * **ViewBirdiformer**: "ViewBirdiformer: Learning to recover ground-plane crowd trajectories and ego-motion from a single ego-centric view", arXiv, 2022 (*Kyoto University*). [[Paper](https://arxiv.org/abs/2210.06332)]
 * Visual Counting:
     * **CC-AV**: "Audio-Visual Transformer Based Crowd Counting", ICCVW, 2021 (*University of Kansas*). [[Paper](https://arxiv.org/abs/2109.01926)]
     * **TransCrowd**: "TransCrowd: Weakly-Supervised Crowd Counting with Transformer", arXiv, 2021 (*Huazhong University of Science and Technology*). [[Paper](https://arxiv.org/abs/2104.09116)][[PyTorch](https://github.com/dk-liang/TransCrowd)]
