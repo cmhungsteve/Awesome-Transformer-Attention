@@ -239,6 +239,7 @@ Feel free to share this list with others!
 * **MMA**: "Multi-manifold Attention for Vision Transformers", arXiv, 2022 (*Centre for Research and Technology Hellas, Greece*). [[Paper](https://arxiv.org/abs/2207.08569)]
 * **MAFormer**: "MAFormer: A Transformer Network with Multi-scale Attention Fusion for Visual Recognition", arXiv, 2022 (*Baidu*). [[Paper](https://arxiv.org/abs/2209.01620)]
 * **AEWin**: "Axially Expanded Windows for Local-Global Interaction in Vision Transformers", arXiv, 2022 (*Southwest Jiaotong University*). [[Paper](https://arxiv.org/abs/2209.08726)]
+* **MAGNETO**: "Foundation Transformers", arXiv, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2210.06423)]
 #### Efficient Vision Transformer
 * **DeiT**: "Training data-efficient image transformers & distillation through attention", ICML, 2021 (*Facebook*). [[Paper](https://arxiv.org/abs/2012.12877)][[PyTorch](https://github.com/facebookresearch/deit)]
 * **ConViT**: "ConViT: Improving Vision Transformers with Soft Convolutional Inductive Biases", ICML, 2021 (*Facebook*). [[Paper](https://arxiv.org/abs/2103.10697)][[Code](https://github.com/facebookresearch/convit)]
@@ -284,7 +285,6 @@ Feel free to share this list with others!
 * **Rev-MViT**: "Reversible Vision Transformers", CVPR, 2022 (*Meta*). [[Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Mangalam_Reversible_Vision_Transformers_CVPR_2022_paper.html)][[PyTorch](https://github.com/facebookresearch/mvit)]
 * **AdaViT**: "AdaViT: Adaptive Vision Transformers for Efficient Image Recognition", CVPR, 2022 (*Fudan*). [[Paper](https://arxiv.org/abs/2111.15668)]
 * **DQS**: "Dynamic Query Selection for Fast Visual Perceiver", CVPRW, 2022 (*Sorbonne Universite', France*). [[Paper](https://arxiv.org/abs/2205.10873)]
-* **SPViT**: "SPViT: Enabling Faster Vision Transformers via Soft Token Pruning", ECCV, 2022 (*Northeastern University*). [[Paper](https://arxiv.org/abs/2112.13890)][[PyTorch](https://github.com/PeiyanFlying/SPViT)]
 * **ATS**: "Adaptive Token Sampling For Efficient Vision Transformers", ECCV, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2111.15667)][[Website](https://adaptivetokensampling.github.io/)]
 * **EdgeViT**: "EdgeViTs: Competing Light-weight CNNs on Mobile Devices with Vision Transformers", ECCV, 2022 (*Samsung*). [[Paper](https://arxiv.org/abs/2205.03436)][[PyTorch](https://github.com/saic-fi/edgevit)]
 * **SReT**: "Sliced Recursive Transformer", ECCV, 2022 (*CMU + MBZUAI*). [[Paper](https://arxiv.org/abs/2111.05297)][[PyTorch](https://github.com/szq0214/SReT)]
@@ -311,7 +311,6 @@ Feel free to share this list with others!
 * **XFormer**: "Lightweight Vision Transformer with Cross Feature Attention", arXiv, 2022 (*Samsung*). [[Paper](https://arxiv.org/pdf/2207.07268.pdf)]
 * **PatchDropout**: "PatchDropout: Economizing Vision Transformers Using Patch Dropout", arXiv, 2022 (*KTH, Sweden*). [[Paper](https://arxiv.org/abs/2208.07220)]
 * **ClusTR**: "ClusTR: Exploring Efficient Self-attention via Clustering for Vision Transformers", arXiv, 2022 (*The University of Adelaide, Australia*). [[Paper](https://arxiv.org/abs/2208.13138)]
-* **AS**: "Adaptive Sparse ViT: Towards Learnable Adaptive Token Pruning by Fully Exploiting Self-Attention", arXiv, 2022 (*Baidu*). [[Paper](https://arxiv.org/abs/2209.13802)]
 * **DiNAT**: "Dilated Neighborhood Attention Transformer", arXiv, 2022 (*University of Oregon*). [[Paper](https://arxiv.org/abs/2209.15001)][[PyTorch](https://github.com/SHI-Labs/Neighborhood-Attention-Transformer)]
 * **MobileViTv3**: "MobileViTv3: Mobile-Friendly Vision Transformer with Simple and Effective Fusion of Local, Global and Input Features", arXiv, 2022 (*Micron*). [[Paper](https://arxiv.org/abs/2209.15159)][[PyTorch](https://github.com/micronDLA/MobileViTv3)]
 #### Conv + Transformer
@@ -329,6 +328,7 @@ Feel free to share this list with others!
 * **TinyViT**: "TinyViT: Fast Pretraining Distillation for Small Vision Transformers", ECCV, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2207.10666)][[PyTorch](https://github.com/microsoft/Cream/tree/main/TinyViT)]
 * **CETNet**: "Convolutional Embedding Makes Hierarchical Vision Transformer Stronger", ECCV, 2022 (*OPPO*). [[Paper](https://arxiv.org/abs/2207.13317)]
 * **ParC-Net**: "ParC-Net: Position Aware Circular Convolution with Merits from ConvNets and Transformer", ECCV, 2022 (*Intellifusion, China*). [[Paper](https://arxiv.org/abs/2203.03952)][[PyTorch](https://github.com/hkzhang91/ParC-Net)]
+* **DHVT**: "Bridging the Gap Between Vision Transformers and Convolutional Neural Networks on Small Datasets", NeurIPS, 2022 (*USTC*). [[Paper](https://arxiv.org/abs/2210.05958)][[Code (in construction)](https://github.com/ArieSeirack/DHVT)]
 * **CXV**: "Convolutional Xformers for Vision", arXiv, 2022 (*IIT Bombay*). [[Paper](https://arxiv.org/abs/2201.10271)][[PyTorch](https://github.com/pranavphoenix/CXV)]
 * **ConvMixer**: "Patches Are All You Need?", arXiv, 2022 (*CMU*). [[Paper](https://arxiv.org/abs/2201.09792)][[PyTorch](https://github.com/locuslab/convmixer)]
 * **MobileViTv2**: "Separable Self-attention for Mobile Vision Transformers", arXiv, 2022 (*Apple*). [[Paper](https://arxiv.org/abs/2206.02680)][[PyTorch](https://github.com/apple/ml-cvnets)]
@@ -454,6 +454,8 @@ Feel free to share this list with others!
 * **?**: "A Light Recipe to Train Robust Vision Transformers", arXiv, 2022 (*EPFL*). [[Paper](https://arxiv.org/abs/2209.07399)]
 * **?**: "Attacking Compressed Vision Transformers", arXiv, 2022 (*NYU*). [[Paper](https://arxiv.org/abs/2209.13785)]
 * **C-AVP**: "Visual Prompting for Adversarial Robustness", arXiv, 2022 (*Michigan State*). [[Paper](https://arxiv.org/abs/2210.06284)]
+* **?**: "Curved Representation Space of Vision Transformers", arXiv, 2022 (*Yonsei University*). [[Paper](https://arxiv.org/abs/2210.05742)]
+* **RKDE**: "Robustify Transformers with Robust Kernel Density Estimation", arXiv, 2022 (*UT Austin*). [[Paper](https://arxiv.org/abs/2210.05794)]
 #### Model Compression + Transformer
 * **ViT-quant**: "Post-Training Quantization for Vision Transformer", NeurIPS, 2021 (*Huawei*). [[Paper](https://arxiv.org/abs/2106.14156)]
 * **VTP**: "Visual Transformer Pruning", arXiv, 2021 (*Huawei*). [[Paper](https://arxiv.org/abs/2104.08500)]
@@ -463,6 +465,7 @@ Feel free to share this list with others!
 * **UVC**: "Unified Visual Transformer Compression", ICLR, 2022 (*UT Austin*). [[Paper](https://arxiv.org/abs/2203.08243)][[PyTorch](https://github.com/VITA-Group/UVC)]
 * **MiniViT**: "MiniViT: Compressing Vision Transformers with Weight Multiplexing", CVPR, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2204.07154)][[PyTorch](https://github.com/microsoft/Cream/tree/main/MiniViT)]
 * **Auto-ViT-Acc**: "Auto-ViT-Acc: An FPGA-Aware Automatic Acceleration Framework for Vision Transformer with Mixed-Scheme Quantization", International Conference on Field Programmable Logic and Applications (FPL), 2022 (*Northeastern University*). [[Paper](https://arxiv.org/abs/2208.05163)]
+* **SPViT**: "SPViT: Enabling Faster Vision Transformers via Soft Token Pruning", ECCV, 2022 (*Northeastern University*). [[Paper](https://arxiv.org/abs/2112.13890)][[PyTorch](https://github.com/PeiyanFlying/SPViT)]
 * **PSAQ-ViT**: "Patch Similarity Aware Data-Free Quantization for Vision Transformers", ECCV, 2022 (*CAS*). [[Paper](https://arxiv.org/abs/2203.02250)][[PyTorch](https://github.com/zkkli/PSAQ-ViT)]
 * **PTQ4ViT**: "PTQ4ViT: Post-Training Quantization Framework for Vision Transformers", ECCV, 2022 (*Peking University*). [[Paper](https://arxiv.org/abs/2111.12293)]
 * **EAPruning**: "EAPruning: Evolutionary Pruning for Vision Transformers and CNNs", BMVC, 2022 (*Meituan*). [[Paper](https://arxiv.org/abs/2210.00181)]
@@ -472,6 +475,8 @@ Feel free to share this list with others!
 * **SiDT**: "Searching Intrinsic Dimensions of Vision Transformers", arXiv, 2022 (*UC Irvine*). [[Paper](https://arxiv.org/abs/2204.07722)]
 * **I-ViT**: "I-ViT: Integer-only Quantization for Efficient Vision Transformer Inference", arXiv, 2022 (*CAS*). [[Paper](https://arxiv.org/abs/2207.01405)]
 * **PSAQ-ViT-V2**: "PSAQ-ViT V2: Towards Accurate and General Data-Free Quantization for Vision Transformers", arXiv, 2022 (*CAS*). [[Paper](https://arxiv.org/abs/2209.05687)][[PyTorch](https://github.com/zkkli/PSAQ-ViT)]
+* **AS**: "Adaptive Sparse ViT: Towards Learnable Adaptive Token Pruning by Fully Exploiting Self-Attention", arXiv, 2022 (*Baidu*). [[Paper](https://arxiv.org/abs/2209.13802)]
+* **SaiT**: "SaiT: Sparse Vision Transformers through Adaptive Token Pruning", arXiv, 2022 (*Samsung*). [[Paper](https://arxiv.org/abs/2210.05832)]
 
 [[Back to Overview](#overview)]
 
@@ -540,6 +545,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **?**: "Transformer Vs. MLP-Mixer Exponential Expressive Gap For NLP Problems", arXiv, 2022 (*Technion Israel Institute Of Technology*). [[Paper](https://arxiv.org/abs/2208.08191)]
 * **ProtoPFormer**: "ProtoPFormer: Concentrating on Prototypical Parts in Vision Transformers for Interpretable Image Recognition", arXiv, 2022 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2208.10431)][[PyTorch](https://github.com/zju-vipa/ProtoPFormer)]
 * **ICLIP**: "Exploring Visual Interpretability for Contrastive Language-Image Pre-training", arXiv, 2022 (*HKUST*). [[Paper](https://arxiv.org/abs/2209.07046)][[Code (in construction)](https://github.com/xmed-lab/ICLIP)]
+* **?**: "Large Models are Parsimonious Learners: Activation Sparsity in Trained Transformers", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2210.06313)]
 
 [[Back to Overview](#overview)]
 
@@ -808,6 +814,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **GroupViT**: "GroupViT: Semantic Segmentation Emerges from Text Supervision", CVPR, 2022 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2202.11094)][[Website](https://jerryxu.net/GroupViT/)][[PyTorch](https://github.com/NVlabs/GroupViT)]
 * **HRViT**: "Multi-Scale High-Resolution Vision Transformer for Semantic Segmentation", CVPR, 2022 (*Meta*). [[Paper](https://arxiv.org/abs/2111.01236)][[PyTorch](https://github.com/facebookresearch/HRViT)]
 * **GReaT**: "Graph Reasoning Transformer for Image Parsing", ACMMM, 2022 (*HKUST*). [[Paper](https://arxiv.org/abs/2209.09545)]
+* **SegViT**: "SegViT: Semantic Segmentation with Plain Vision Transformers", NeurIPS, 2022 (*The University of Adelaide, Australia*). [[Paper](https://arxiv.org/abs/2210.05844)]
 * **Lawin**: "Lawin Transformer: Improving Semantic Segmentation Transformer with Multi-Scale Representations via Large Window Attention", arXiv, 2022 (*Beijing University of Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2201.01615)][[PyTorch](https://github.com/yan-hao-tian/lawin)]
 * **PFT**: "Pyramid Fusion Transformer for Semantic Segmentation", arXiv, 2022 (*CUHK + SenseTime*). [[Paper](https://arxiv.org/abs/2201.04019)]
 * **DFlatFormer**: "Dual-Flattening Transformers through Decomposed Row and Column Queries for Semantic Segmentation", arXiv, 2022 (*OPPO*). [[Paper](https://arxiv.org/abs/2201.09139)]
@@ -2009,6 +2016,7 @@ Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2204.08696)]
 * **CRFormer**: "CRFormer: A Cross-Region Transformer for Shadow Removal", arXiv, 2022 (*Beijing Jiaotong University*). [[Paper](https://arxiv.org/abs/2207.01600)]
 * **?**: "Visual Prompting via Image Inpainting", arXiv, 2022 (*Berkeley*). [[Paper](https://arxiv.org/abs/2209.00647)][[Website](https://yossigandelsman.github.io/visual_prompt/)]
 * **DeViT**: "DeViT: Deformed Vision Transformers in Video Inpainting", arXiv, 2022 (*Kuaishou*). [[Paper](https://arxiv.org/abs/2209.13925)]
+* **ZITS++**: "ZITS++: Image Inpainting by Improving the Incremental Transformer on Structural Priors", arXiv, 2022 (*Fudan*). [[Paper](https://arxiv.org/abs/2210.05950)]
 
 [[Back to Overview](#overview)]
 
@@ -2081,6 +2089,7 @@ Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2204.08696)]
 * **TAIN**: "Cross-Attention Transformer for Video Interpolation", arXiv, 2022 (*Duke*). [[Paper](https://arxiv.org/abs/2207.04132)]
 * **TTVFI**: "TTVFI: Learning Trajectory-Aware Transformer for Video Frame Interpolation", arXiv, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2207.09048)]
 * **TECO**: "Temporally Consistent Video Transformer for Long-Term Video Prediction", arXiv, 2022 (*Berkeley*). [[Paper](https://arxiv.org/abs/2210.02396)][[Jax](https://github.com/wilson1yan/teco)][[Website](https://wilson1yan.github.io/teco/index.html)]
+* **SlotFormer**: "SlotFormer: Unsupervised Visual Dynamics Simulation with Object-Centric Models", arXiv, 2022 (*University of Toronto*). [[Paper](https://arxiv.org/abs/2210.05861)][[Website](https://slotformer.github.io/)]
 
 [[Back to Overview](#overview)]
 
