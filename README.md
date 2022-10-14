@@ -328,6 +328,7 @@ Feel free to share this list with others!
 * **TinyViT**: "TinyViT: Fast Pretraining Distillation for Small Vision Transformers", ECCV, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2207.10666)][[PyTorch](https://github.com/microsoft/Cream/tree/main/TinyViT)]
 * **CETNet**: "Convolutional Embedding Makes Hierarchical Vision Transformer Stronger", ECCV, 2022 (*OPPO*). [[Paper](https://arxiv.org/abs/2207.13317)]
 * **ParC-Net**: "ParC-Net: Position Aware Circular Convolution with Merits from ConvNets and Transformer", ECCV, 2022 (*Intellifusion, China*). [[Paper](https://arxiv.org/abs/2203.03952)][[PyTorch](https://github.com/hkzhang91/ParC-Net)]
+* **?**: "How to Train Vision Transformer on Small-scale Datasets?", BMVC, 2022 (*MBZUAI*). [[Paper](https://arxiv.org/abs/2210.07240)][[PyTorch](https://github.com/hananshafi/vits-for-small-scale-datasets)]
 * **DHVT**: "Bridging the Gap Between Vision Transformers and Convolutional Neural Networks on Small Datasets", NeurIPS, 2022 (*USTC*). [[Paper](https://arxiv.org/abs/2210.05958)][[Code (in construction)](https://github.com/ArieSeirack/DHVT)]
 * **CXV**: "Convolutional Xformers for Vision", arXiv, 2022 (*IIT Bombay*). [[Paper](https://arxiv.org/abs/2201.10271)][[PyTorch](https://github.com/pranavphoenix/CXV)]
 * **ConvMixer**: "Patches Are All You Need?", arXiv, 2022 (*CMU*). [[Paper](https://arxiv.org/abs/2201.09792)][[PyTorch](https://github.com/locuslab/convmixer)]
@@ -469,6 +470,7 @@ Feel free to share this list with others!
 * **PSAQ-ViT**: "Patch Similarity Aware Data-Free Quantization for Vision Transformers", ECCV, 2022 (*CAS*). [[Paper](https://arxiv.org/abs/2203.02250)][[PyTorch](https://github.com/zkkli/PSAQ-ViT)]
 * **PTQ4ViT**: "PTQ4ViT: Post-Training Quantization Framework for Vision Transformers", ECCV, 2022 (*Peking University*). [[Paper](https://arxiv.org/abs/2111.12293)]
 * **EAPruning**: "EAPruning: Evolutionary Pruning for Vision Transformers and CNNs", BMVC, 2022 (*Meituan*). [[Paper](https://arxiv.org/abs/2210.00181)]
+* **Q-ViT**: "Q-ViT: Accurate and Fully Quantized Low-bit Vision Transformer", NeurIPS, 2022 (*Beihang University*). [[Paper](https://arxiv.org/abs/2210.06707)][[PyTorch](https://github.com/YanjingLi0202/Q-ViT)]
 * **Q-ViT**: "Q-ViT: Fully Differentiable Quantization for Vision Transformer", arXiv, 2022 (*Megvii*). [[Paper](https://arxiv.org/abs/2201.07703)]
 * **VAQF**: "VAQF: Fully Automatic Software-Hardware Co-Design Framework for Low-Bit Vision Transformer", arXiv, 2022 (*Northeastern University*). [[Paper](https://arxiv.org/abs/2201.06618)]
 * **VTP**: "Vision Transformer Compression with Structured Pruning and Low Rank Approximation", arXiv, 2022 (*UCLA*). [[Paper](https://arxiv.org/abs/2203.13444)]
@@ -815,6 +817,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **HRViT**: "Multi-Scale High-Resolution Vision Transformer for Semantic Segmentation", CVPR, 2022 (*Meta*). [[Paper](https://arxiv.org/abs/2111.01236)][[PyTorch](https://github.com/facebookresearch/HRViT)]
 * **GReaT**: "Graph Reasoning Transformer for Image Parsing", ACMMM, 2022 (*HKUST*). [[Paper](https://arxiv.org/abs/2209.09545)]
 * **SegViT**: "SegViT: Semantic Segmentation with Plain Vision Transformers", NeurIPS, 2022 (*The University of Adelaide, Australia*). [[Paper](https://arxiv.org/abs/2210.05844)]
+* **RTFormer**: "RTFormer: Efficient Design for Real-Time Semantic Segmentation with Transformer", NeurIPS, 2022 (*Baidu*). [[Paper](https://arxiv.org/abs/2210.07124)][[Paddle](https://github.com/PaddlePaddle/PaddleSeg)]
 * **Lawin**: "Lawin Transformer: Improving Semantic Segmentation Transformer with Multi-Scale Representations via Large Window Attention", arXiv, 2022 (*Beijing University of Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2201.01615)][[PyTorch](https://github.com/yan-hao-tian/lawin)]
 * **PFT**: "Pyramid Fusion Transformer for Semantic Segmentation", arXiv, 2022 (*CUHK + SenseTime*). [[Paper](https://arxiv.org/abs/2201.04019)]
 * **DFlatFormer**: "Dual-Flattening Transformers through Decomposed Row and Column Queries for Semantic Segmentation", arXiv, 2022 (*OPPO*). [[Paper](https://arxiv.org/abs/2201.09139)]
@@ -893,6 +896,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **CyCTR**: "Few-Shot Segmentation via Cycle-Consistent Transformer", NeurIPS, 2021 (*University of Technology Sydney*). [[Paper](https://arxiv.org/abs/2106.02320)]
     * **CATrans**: "CATrans: Context and Affinity Transformer for Few-Shot Segmentation", IJCAI, 2022 (*Baidu*). [[Paper](https://arxiv.org/abs/2204.12817)]
     * **VAT**: "Cost Aggregation with 4D Convolutional Swin Transformer for Few-Shot Segmentation", ECCV, 2022 (*Korea University*). [[Paper](https://arxiv.org/abs/2207.10866)][[PyTorch](https://github.com/Seokju-Cho/Volumetric-Aggregation-Transformer)][[Website](https://seokju-cho.github.io/VAT/)]
+    * **IPMT**: "Intermediate Prototype Mining Transformer for Few-Shot Semantic Segmentation", NeurIPS, 2022 (*Northwestern Polytechnical University*). [[Paper](https://arxiv.org/abs/2210.06780)][[PyTorch](https://github.com/LIUYUANWEI98/IPMT)]
     * **TAFT**: "Task-Adaptive Feature Transformer with Semantic Enrichment for Few-Shot Segmentation", arXiv, 2022 (*KAIST*). [[Paper](https://arxiv.org/abs/2202.06498)]
     * **MSANet**: "MSANet: Multi-Similarity and Attention Guidance for Boosting Few-Shot Segmentation", arXiv, 2022 (*AiV Research Group, Korea*). [[Paper](https://arxiv.org/abs/2206.09667)][[PyTorch](https://github.com/AIVResearch/MSANet)]
 * X-Supervised:
@@ -1010,6 +1014,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **Hi-TRS**: "Hierarchically Self-Supervised Transformer for Human Skeleton Representation Learning", ECCV, 2022 (*Rutgers*). [[Paper](https://arxiv.org/abs/2207.09644)][[PyTorch](https://github.com/yuxiaochen1103/Hi-TRS)]
     * **MVFT**: "Multi-View Fusion Transformer for Sensor-Based Human Activity Recognition", arXiv, 2022 (*Alibaba*). [[Paper](https://arxiv.org/abs/2202.12949)]
     * **MOV**: "Multimodal Open-Vocabulary Video Classification via Pre-Trained Vision and Language Models", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2207.07646)]
+    * **MotionBERT**: "MotionBERT: Unified Pretraining for Human Motion Analysis", arXiv, 2022 (*Peking University*). [[Paper](https://arxiv.org/abs/2210.06551)][[Code (in construction)](https://github.com/Walter0807/MotionBERT)][[Website](https://motionbert.github.io/)]
 * Group Activity:
     * **GroupFormer**: "GroupFormer: Group Activity Recognition with Clustered Spatial-Temporal Transformer", ICCV, 2021 (*Sensetime*). [[Paper](https://arxiv.org/abs/2108.12630)]
     * **?**: "Hunting Group Clues with Transformers for Social Group Activity Recognition", ECCV, 2022 (*Hitachi*). [[Paper](https://arxiv.org/abs/2207.05254)]
@@ -1361,6 +1366,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **VoLTA**: "VoLTA: Vision-Language Transformer with Weakly-Supervised Local-Feature Alignment", arXiv, 2022 (*JHU*). [[Paper](https://arxiv.org/abs/2210.04135)]
 * **MAP**: "MAP: Modality-Agnostic Uncertainty-Aware Vision-Language Pre-training Model", arXiv, 2022 (*Tsinghua + Waseda*). [[Paper](https://arxiv.org/abs/2210.05335)][[PyTorch](https://github.com/IIGROUP/MAP)]
 * **?**: "One does not fit all! On the Complementarity of Vision Encoders for Vision and Language Tasks", arXiv, 2022 (*Technical University of Darmstadt, Germany*). [[Paper](https://arxiv.org/abs/2210.06379)]
+* **MAPL**: "MAPL: Parameter-Efficient Adaptation of Unimodal Pre-Trained Models for Vision-Language Few-Shot Prompting", arXiv, 2022 (*Mila*). [[Paper](https://arxiv.org/abs/2210.07179)]
 
 [[Back to Overview](#overview)]
 
@@ -1395,6 +1401,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **TS2-Net**: "TS2-Net: Token Shift and Selection Transformer for Text-Video Retrieval", ECCV, 2022 (*Tencent*). [[Paper](https://arxiv.org/abs/2207.07852)][[PyTorch](https://github.com/yuqi657/ts2_net)]
     * **?**: "Text-Adaptive Multiple Visual Prototype Matching for Video-Text Retrieval", NeurIPS, 2022 (*Sun Yat-sen University*). [[Paper](https://arxiv.org/abs/2209.13307)]
     * **ConTra**: "ConTra: (Con)text (Tra)nsformer for Cross-Modal Video Retrieval", ACCV, 2022 (*University of Bristol, UK*). [[Paper](https://arxiv.org/abs/2210.04341)]
+    * **RaP**: "RaP: Redundancy-aware Video-language Pre-training for Text-Video Retrieval", EMNLP, 2022 (*CAS*). [[Paper](https://arxiv.org/abs/2210.06881)][[PyTorch](https://github.com/caskcsg/VLP/tree/main/RaP)]
     * **BridgeFormer**: "BridgeFormer: Bridging Video-text Retrieval with Multiple Choice Questions", arXiv, 2022 (*HKU*). [[Paper](https://arxiv.org/abs/2201.04850)][[Website](https://geyuying.github.io/MCQ.html)]
     * **MDMMT-2**: "MDMMT-2: Multidomain Multimodal Transformer for Video Retrieval, One More Step Towards Generalization", arXiv, 2022 (*Huawei*). [[Paper](https://arxiv.org/abs/2203.07086)]
     * **MILES**: "MILES: Visual BERT Pre-training with Injected Language Semantics for Video-text Retrieval", arXiv, 2022 (*HKU*). [[Paper](https://arxiv.org/abs/2204.12408)]
@@ -1425,6 +1432,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **Make-A-Video**: "Make-A-Video: Text-to-Video Generation without Text-Video Data", arXiv, 2022 (*Meta*). [[Paper](https://arxiv.org/abs/2209.14792)]
 * **PDM**: "Progressive Denoising Model for Fine-Grained Text-to-Image Generation", arXiv, 2022 (*Meituan*). [[Paper](https://arxiv.org/abs/2210.02291)]
 * **Imagen-Video**: "Imagen Video: High Definition Video Generation with Diffusion Models", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2210.02303)][[Website](https://imagen.research.google/video/)]
+* **FS-VQG**: "Few-Shot Visual Question Generation: A Novel Task and Benchmark Datasets", arXiv, 2022 (*IIT Kharagpur*). [[Paper](https://arxiv.org/abs/2210.07076)]
 
 [[Back to Overview](#overview)]
 
@@ -1464,7 +1472,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 [[Back to Overview](#overview)]
 
 ### Other Multi-Modal Tasks
-* Prompt Engineering:
+* Prompt Learning:
     * **CoCoOp**: "Conditional Prompt Learning for Vision-Language Models", CVPR, 2022 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2203.05557)][[PyTorch](https://github.com/KaiyangZhou/CoOp)]
     * **ProDA**: "Prompt Distribution Learning", CVPR, 2022 (*Huawei*). [[Paper](https://arxiv.org/abs/2205.03340)]
     * **VPT**: "Visual Prompt Tuning", ECCV, 2022 (*Cornell*). [[Paper](https://arxiv.org/abs/2203.12119)][[PyTorch](https://github.com/kmnp/vpt)]
@@ -1476,6 +1484,8 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **CAVPT**: "Class-Aware Visual Prompt Tuning for Vision-Language Pre-Trained Model", arXiv, 2022 (*Northwestern Polytechnical University, China*). [[Paper](https://arxiv.org/abs/2208.08340)]
     * **Visual-Prompting**: "Exploring Visual Prompts for Adapting Large-Scale Models", arXiv, 2022 (*MIT*). [[Paper](https://arxiv.org/abs/2203.17274)][[PyTorch](https://github.com/hjbahng/visual_prompting)][[Website](https://hjbahng.github.io/visual_prompting/)]
     * **PGN**: "Prompt Generation Networks for Efficient Adaptation of Frozen Vision Transformers", arXiv, 2022 (*University of Amsterdam*). [[Paper](https://arxiv.org/abs/2210.06466)][[PyTorch](https://github.com/jochemloedeman/PGN)]
+    * **UPT**: "Unified Vision and Language Prompt Learning", arXiv, 2022 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2210.07225)][[Code (in construction)](https://github.com/yuhangzang/UPT)]
+    * **?**: "Visual Classification via Description from Large Language Models", arXiv, 2022 (*Columbia*). [[Paper](https://arxiv.org/abs/2210.07183)]
 * X-Shot:
     * **LIMoE**: "Multimodal Contrastive Learning with LIMoE: the Language-Image Mixture of Experts", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2206.02770)]
 * Segmentation:
@@ -1874,6 +1884,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **CPM**: "Compound Prototype Matching for Few-shot Action Recognition", ECCV, 2022 (*The University of Tokyo*). [[Paper](https://arxiv.org/abs/2207.05515)]
     * **SUN**: "Self-Promoted Supervision for Few-Shot Transformer", ECCV, 2022 (*Harbin Institute of Technology + NUS*). [[Paper](https://arxiv.org/abs/2203.07057)][[PyTorch](https://github.com/DongSky/few-shot-vit)]
     * **BaseTransformers**: "BaseTransformers: Attention over base data-points for One Shot Learning", BMVC, 2022 (*Dublin City University, Ireland*). [[Paper](https://arxiv.org/abs/2210.02476)][[PyTorch](https://github.com/mayug/BaseTransformers)]
+    * **FPTrans**: "Feature-Proxy Transformer for Few-Shot Segmentation", NeurIPS, 2022 (*Baidu*). [[Paper](https://arxiv.org/abs/2210.06908)][[Code (in construction)](https://github.com/Jarvis73/FPTrans)]
     * **MG-ViT**: "Mask-guided Vision Transformer (MG-ViT) for Few-Shot Learning", arXiv, 2022 (*University of Electronic Science and Technology of China*). [[Paper](https://arxiv.org/abs/2205.09995)]
     * **QSFormer**: "Few-Shot Learning Meets Transformer: Unified Query-Support Transformers for Few-Shot Classification", arXiv, 2022 (*Anhui University*). [[Paper](https://arxiv.org/abs/2208.12398)]
 * Continual Learning:
@@ -2287,6 +2298,7 @@ Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2207.11553)][[Cod
 * **FocalUNETR**: "FocalUNETR: A Focal Transformer for Boundary-aware Segmentation of CT Images", arXiv, 2022 (*Wayne State University, Detroit*). [[Paper](https://arxiv.org/abs/2210.03189)]
 * **LAPFormer**: "LAPFormer: A Light and Accurate Polyp Segmentation Transformer", arXiv, 2022 (*Sun\*, Hanoi*). [[Paper](https://arxiv.org/abs/2210.04393)]
 * **FINE**: "Memory transformers for full context and high-resolution 3D Medical Segmentation", arXiv, 2022 (*National Conservatory of Arts and Crafts, France*). [[Paper](https://arxiv.org/abs/2210.05313)]
+* **ConvTransSeg**: "ConvTransSeg: A Multi-resolution Convolution-Transformer Network for Medical Image Segmentation", arXiv, 2022 (*University of Nottingham, UK*). [[Paper](https://arxiv.org/abs/2210.07072)]
 
 [[Back to Overview](#overview)]
 
@@ -2395,6 +2407,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
 * **LKU-Net**: "U-Net vs Transformer: Is U-Net Outdated in Medical Image Registration?", MICCAIW, 2022 (*University of Birmingham, UK*). [[Paper](https://arxiv.org/abs/2208.04939)]
 * **LVOT**: "Shifted Windows Transformers for Medical Image Quality Assessment", MICCAIW, 2022 (*Istanbul Technical University, Turkey*). [[Paper](https://arxiv.org/abs/2208.06034)]
 * **MINiT**: "Multiple Instance Neuroimage Transformer", MICCAIW, 2022 (*Stanford*). [[Paper](https://arxiv.org/abs/2208.09567)][[Code (in construction)](https://github.com/singlaayush/MINIT)]
+* **BrainNetTF**: "Brain Network Transformer", NeurIPS, 2022 (*Emory University*). [[Paper](https://arxiv.org/abs/2210.06681)][[PyTorch](https://github.com/Wayfear/BrainNetworkTransformer)]
 * **SiT**: "Surface Vision Transformers: Flexible Attention-Based Modelling of Biomedical Surfaces", arXiv, 2022 (*King’s College London, UK*). [[Paper](https://arxiv.org/abs/2204.03408)][[PyTorch](https://github.com/metrics-lab/surface-vision-transformers)]
 * **TransMorph**: "TransMorph: Transformer for unsupervised medical image registration", arXiv, 2022 (*JHU*). [[Paper](https://arxiv.org/abs/2111.10480)]
 * **MDBERT**: "Hierarchical BERT for Medical Document Understanding", arXiv, 2022 (*IQVIA, NC*). [[Paper](https://arxiv.org/abs/2204.09600)]
