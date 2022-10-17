@@ -460,6 +460,7 @@ Feel free to share this list with others!
 * **C-AVP**: "Visual Prompting for Adversarial Robustness", arXiv, 2022 (*Michigan State*). [[Paper](https://arxiv.org/abs/2210.06284)]
 * **?**: "Curved Representation Space of Vision Transformers", arXiv, 2022 (*Yonsei University*). [[Paper](https://arxiv.org/abs/2210.05742)]
 * **RKDE**: "Robustify Transformers with Robust Kernel Density Estimation", arXiv, 2022 (*UT Austin*). [[Paper](https://arxiv.org/abs/2210.05794)]
+* **MRAP**: "Pretrained Transformers Do not Always Improve Robustness", arXiv, 2022 (*Arizona State University*). [[Paper](https://arxiv.org/abs/2210.07663)]
 #### Model Compression + Transformer
 * **ViT-quant**: "Post-Training Quantization for Vision Transformer", NeurIPS, 2021 (*Huawei*). [[Paper](https://arxiv.org/abs/2106.14156)]
 * **VTP**: "Visual Transformer Pruning", arXiv, 2021 (*Huawei*). [[Paper](https://arxiv.org/abs/2104.08500)]
@@ -1375,6 +1376,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **MAP**: "MAP: Modality-Agnostic Uncertainty-Aware Vision-Language Pre-training Model", arXiv, 2022 (*Tsinghua + Waseda*). [[Paper](https://arxiv.org/abs/2210.05335)][[PyTorch](https://github.com/IIGROUP/MAP)]
 * **?**: "One does not fit all! On the Complementarity of Vision Encoders for Vision and Language Tasks", arXiv, 2022 (*Technical University of Darmstadt, Germany*). [[Paper](https://arxiv.org/abs/2210.06379)]
 * **MAPL**: "MAPL: Parameter-Efficient Adaptation of Unimodal Pre-Trained Models for Vision-Language Few-Shot Prompting", arXiv, 2022 (*Mila*). [[Paper](https://arxiv.org/abs/2210.07179)]
+* **EfficientVLM**: "EfficientVLM: Fast and Accurate Vision-Language Models via Knowledge Distillation and Modal-adaptive Pruning", arXiv, 2022 (*Bytedance*). [[Paper](https://arxiv.org/abs/2210.07795)][[PyTorch (in construction)](https://github.com/swaggy-TN/EfficientVLM)]
 
 [[Back to Overview](#overview)]
 
@@ -1783,11 +1785,13 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **SSAT**: "SSAT: A Symmetric Semantic-Aware Transformer Network for Makeup Transfer and Removal", AAAI, 2022 (*Wuhan University*). [[Paper](https://arxiv.org/abs/2112.03631)][[PyTorch](https://gitee.com/sunzhaoyang0304/ssat-msp)]
     * **TransEditor**: "TransEditor: Transformer-Based Dual-Space GAN for Highly Controllable Facial Editing", CVPR, 2022 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2203.17266)][[PyTorch](https://github.com/BillyXYB/TransEditor)][[Website](https://billyxyb.github.io/TransEditor/)]
     * **RestoreFormer**: "RestoreFormer: High-Quality Blind Face Restoration From Undegraded Key-Value Pairs", CVPR, 2022 (*HKU*). [[Paper](https://arxiv.org/abs/2201.06374)]
+    * **HairCLIP**: "HairCLIP: Design Your Hair by Text and Reference Image", CVPR, 2022 (*USTC*). [[Paper](https://arxiv.org/abs/2112.05142)][[PyTorch](https://github.com/wty-ustc/HairCLIP)]
     * **Cycle-Text2Face**: "Cycle Text2Face: Cycle Text-to-face GAN via Transformers", arXiv, 2022 (*Shahed Univerisity, Iran*). [[Paper](https://arxiv.org/abs/2206.04503)]
     * **CodeFormer**: "Towards Robust Blind Face Restoration with Codebook Lookup Transformer", arXiv, 2022 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2206.11253)][[PyTorch (in construction)](https://github.com/sczhou/CodeFormer)][[Website](https://shangchenzhou.com/projects/CodeFormer/)]
     * **FaceFormer**: "FaceFormer: Scale-aware Blind Face Restoration with Transformers", arXiv, 2022 (*Tencent*). [[Paper](https://arxiv.org/abs/2207.09790)]
     * **text2StyleGAN**: "Text-Free Learning of a Natural Language Interface for Pretrained Face Generators", arXiv, 2022 (*Toyota Technological Institute, Chicago*). [[Paper](https://arxiv.org/abs/2209.03953)][[PyTorch](https://github.com/duxiaodan/Fast_text2StyleGAN)]
     * **ManiCLIP**: "ManiCLIP: Multi-Attribute Face Manipulation from Text", arXiv, 2022 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2210.00445)]
+    * **FEAT**: "FEAT: Face Editing with Attention", arXiv, 2022 (*Shenzhen University*). [[Paper](https://arxiv.org/abs/2202.02713)]
 * Facial Expression:
     * **TransFER**: "TransFER: Learning Relation-aware Facial Expression Representations with Transformers", ICCV, 2021 (*CAS*). [[Paper](https://arxiv.org/abs/2108.11116)]
     * **CVT-Face**: "Robust Facial Expression Recognition with Convolutional Visual Transformers", arXiv, 2021 (*Hunan University*). [[Paper](https://arxiv.org/abs/2103.16854)]
@@ -2120,6 +2124,7 @@ Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2204.08696)]
 
 ### Transfer / Translation / Manipulation
 * **AdaAttN**: "AdaAttN: Revisit Attention Mechanism in Arbitrary Neural Style Transfer", ICCV, 2021 (*Baidu*). [[Paper](https://arxiv.org/abs/2108.03647)][[Paddle](https://github.com/PaddlePaddle/PaddleGAN)][[PyTorch](https://github.com/Huage001/AdaAttN)]
+* **StyleCLIP**: "StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery", ICCV, 2021 (*Hebrew University of Jerusalem*). [[Paper](https://arxiv.org/abs/2103.17249)][[PyTorch](https://github.com/orpatashnik/StyleCLIP)]
 * **StyTr2**: "StyTr^2: Unbiased Image Style Transfer with Transformers", CVPR, 2022 (*CAS*). [[Paper](https://arxiv.org/abs/2105.14576)][[PyTorch](https://github.com/diyiiyiii/StyTR-2)]
 * **InstaFormer**: "InstaFormer: Instance-Aware Image-to-Image Translation with Transformer", CVPR, 2022 (*Korea University*). [[Paper](https://arxiv.org/abs/2203.16248)]
 * **ManiTrans**: "ManiTrans: Entity-Level Text-Guided Image Manipulation via Token-wise Semantic Alignment and Generation", CVPR, 2022 (*Huawei*). [[Paper](https://arxiv.org/abs/2204.04428)][[Website](https://jawang19.github.io/manitrans/)]
@@ -2382,6 +2387,7 @@ Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2207.11553)][[Cod
 * **CyTran**: "CyTran: Cycle-Consistent Transformers for Non-Contrast to Contrast CT Translation", arXiv, 2021 (*University Politehnica of Bucharest, Romania*). [[Paper](https://arxiv.org/abs/2110.06400)][[PyTorch](https://github.com/ristea/cycle-transformer)]
 * **McMRSR**: "Transformer-empowered Multi-scale Contextual Matching and Aggregation for Multi-contrast MRI Super-resolution", CVPR, 2022 (*Yantai University, China*). [[Paper](https://arxiv.org/abs/2203.13963)][[PyTorch](https://github.com/XAIMI-Lab/McMRSR)]
 * **RPLHR-CT**: "RPLHR-CT Dataset and Transformer Baseline for Volumetric Super-Resolution from CT Scans", MICCAI, 2022 (*Infervision Medical Technology, China*). [[Paper](https://arxiv.org/abs/2206.06253)][[Code (in construction)](https://arxiv.org/abs/2206.06253)]
+* **W-G2L-ART**: "Wide Range MRI Artifact Removal with Transformers", BMVC, 2022 (*KTH*). [[Paper](https://arxiv.org/abs/2210.07976)]
 * **RFormer**: "RFormer: Transformer-based Generative Adversarial Network for Real Fundus Image Restoration on A New Clinical Benchmark", arXiv, 2022 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2201.00466)]
 * **CTformer**: "CTformer: Convolution-free Token2Token Dilated Vision Transformer for Low-dose CT Denoising", arXiv, 2022 (*UMass Lowell*). [[Paper](https://arxiv.org/abs/2202.13517)][[PyTorch](https://github.com/wdayang/CTformer)]
 * **Cohf-T**: "Cross-Modality High-Frequency Transformer for MR Image Super-Resolution", arXiv, 2022 (*Xidian University*). [[Paper](https://arxiv.org/abs/2203.15314)]
