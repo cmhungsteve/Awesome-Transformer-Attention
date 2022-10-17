@@ -375,6 +375,7 @@ Feel free to share this list with others!
 * **HAT**: "Improving Vision Transformers by Revisiting High-frequency Components", ECCV, 2022 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2204.00993)][[PyTorch](https://github.com/jiawangbai/HAT)]
 * **IDMM**: "Training Vision Transformers with Only 2040 Images", ECCV, 2022 (*Nanjing University*). [[Paper](https://arxiv.org/abs/2201.10728)]
 * **AttMask**: "What to Hide from Your Students: Attention-Guided Masked Image Modeling", ECCV, 2022 (*National Technical University of Athens*). [[Paper](https://arxiv.org/abs/2203.12719)][[PyTorch](https://github.com/gkakogeorgiou/attmask)]
+* **TokenMixup**: "TokenMixup: Efficient Attention-guided Token-level Data Augmentation for Transformers", NeurIPS, 2022 (*Korea University*). [[Paper](https://arxiv.org/abs/2210.07562)][[Code (in construction)](https://github.com/mlvlab/TokenMixup)]
 * **?**: "How to train your ViT? Data, Augmentation, and Regularization in Vision Transformers", Transactions on Machine Learning Research (TMLR), 2022 (*Google*). [[Paper](https://openreview.net/forum?id=4nPswr1KcP)][[Tensorflow](https://github.com/google-research/vision_transformer)][[PyTorch (rwightman)](https://github.com/rwightman/pytorch-image-models)]
 * **PeCo**: "PeCo: Perceptual Codebook for BERT Pre-training of Vision Transformers", arXiv, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2111.12710)]
 * **RePre**: "RePre: Improving Self-Supervised Vision Transformer with Reconstructive Pre-training", arXiv, 2022 (*Beijing University of Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2201.06857)]
@@ -441,6 +442,7 @@ Feel free to share this list with others!
 * **AGAT**: "Towards Efficient Adversarial Training on Vision Transformers", ECCV, 2022 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2207.10498)]
 * **?**: "Are Vision Transformers Robust to Patch Perturbations?", ECCV, 2022 (*TUM*). [[Paper](https://arxiv.org/abs/2111.10659)]
 * **ViP**: "ViP: Unified Certified Detection and Recovery for Patch Attack with Vision Transformers", ECCV, 2022 (*UC Santa Cruz*). [[Paper](https://cihangxie.github.io/data/li2022vip.pdf)][[PyTorch](https://github.com/UCSC-VLAA/vit_cert)]
+* **?**: "When Adversarial Training Meets Vision Transformers: Recipes from Training to Architecture", NeurIPS, 2022 (*Peking University*). [[Paper](https://arxiv.org/abs/2210.07540)][[Code (in construction)](https://github.com/mo666666/When-Adversarial-Training-Meets-Vision-Transformers)]
 * **?**: "Are Vision Transformers Robust to Spurious Correlations?", arXiv, 2022 (*UW-Madison*). [[Paper](https://arxiv.org/abs/2203.09125)]
 * **MA**: "Boosting Adversarial Transferability of MLP-Mixer", arXiv, 2022 (*Beijing Institute of Technology*). [[Paper](https://arxiv.org/abs/2204.12204)]
 * **?**: "Deeper Insights into ViTs Robustness towards Common Corruptions", arXiv, 2022 (*Fudan + Microsoft*). [[Paper](https://arxiv.org/abs/2204.12143)]
@@ -549,6 +551,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **ProtoPFormer**: "ProtoPFormer: Concentrating on Prototypical Parts in Vision Transformers for Interpretable Image Recognition", arXiv, 2022 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2208.10431)][[PyTorch](https://github.com/zju-vipa/ProtoPFormer)]
 * **ICLIP**: "Exploring Visual Interpretability for Contrastive Language-Image Pre-training", arXiv, 2022 (*HKUST*). [[Paper](https://arxiv.org/abs/2209.07046)][[Code (in construction)](https://github.com/xmed-lab/ICLIP)]
 * **?**: "Large Models are Parsimonious Learners: Activation Sparsity in Trained Transformers", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2210.06313)]
+* **?**: "Vision Transformer Visualization: What Neurons Tell and How Neurons Behave?", arXiv, 2022 (*Monash University*). [[Paper](https://arxiv.org/abs/2210.07646)][[PyTorch](https://github.com/byM1902/ViT_visualization)]
 
 [[Back to Overview](#overview)]
 
@@ -645,6 +648,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **SEFormer**: "SEFormer: Structure Embedding Transformer for 3D Object Detection", arXiv, 2022 (*Tsinghua University*). [[Paper](https://arxiv.org/abs/2209.01745)]
 * **CRAFT**: "CRAFT: Camera-Radar 3D Object Detection with Spatio-Contextual Fusion Transformer", arXiv, 2022 (*KAIST*). [[Paper](https://arxiv.org/abs/2209.06535)]
 * **CrossDTR**: "CrossDTR: Cross-view and Depth-guided Transformers for 3D Object Detection", arXiv, 2022 (*NTU*). [[Paper](https://arxiv.org/abs/2209.13507)][[Code (in construction)](https://github.com/sty61010/CrossDTR)]
+* **SWFormer**: "SWFormer: Sparse Window Transformer for 3D Object Detection in Point Clouds", arXiv, 2022 (*Waymo*). [[Paper](https://arxiv.org/abs/2210.07372)]
 
 [[Back to Overview](#overview)]
 
@@ -1008,6 +1012,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **ProFormer**: "ProFormer: Learning Data-efficient Representations of Body Movement with Prototype-based Feature Augmentation and Visual Transformers", arXiv, 2022 (*Karlsruhe Institute of Technology, Germany*). [[Paper](https://arxiv.org/abs/2202.11423)][[PyTorch](https://github.com/KPeng9510/ProFormer)]
     * **?**: "Spatial Transformer Network with Transfer Learning for Small-scale Fine-grained Skeleton-based Tai Chi Action Recognition", arXiv, 2022 (*Harbin Institute of Technology*). [[Paper](https://arxiv.org/abs/2206.15002)]
     * **STAN**: "Two-Stream Transformer Architecture for Long Video Understanding", arXiv, 2022 (*The University of Surrey, UK*). [[Paper](https://arxiv.org/abs/2208.01753)]
+    * **STAR-Transformer**: "STAR-Transformer: A Spatio-temporal Cross Attention Transformer for Human Action Recognition", WACV, 2023 (*Keimyung University, Korea*). [[Paper](https://arxiv.org/abs/2210.07503)]
 * Multi-modal:
     * **MBT**: "Attention Bottlenecks for Multimodal Fusion", NeurIPS, 2021 (*Google*). [[Paper](https://arxiv.org/abs/2107.00135)]
     * **MM-ViT**: "MM-ViT: Multi-Modal Video Transformer for Compressed Video Action Recognition", WACV, 2022 (*OPPO*). [[Paper](https://arxiv.org/abs/2108.09322)]
@@ -2130,6 +2135,7 @@ Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2204.08696)]
 * **PI-Trans**: "PI-Trans: Parallel-ConvMLP and Implicit-Transformation Based GAN for Cross-View Image Translation", arXiv, 2022 (*University of Trento, Italy*). [[Paper](https://arxiv.org/abs/2207.04242)][[PyTorch (in construction)](https://github.com/Amazingren/PI-Trans)]
 * **CSLA**: "Bridging CLIP and StyleGAN through Latent Alignment for Image Editing", arXiv, 2022 (*Kuaishou*). [[Paper](https://arxiv.org/abs/2210.04506)]
 * **CLIP-PAE**: "CLIP-PAE: Projection-Augmentation Embedding to Extract Relevant Features for a Disentangled, Interpretable, and Controllable Text-Guided Image Manipulation", arXiv, 2022 (*University of Cambridge*). [[Paper](https://arxiv.org/abs/2210.03919)]
+* **FFCLIP**: "One Model to Edit Them All: Free-Form Text-Driven Image Manipulation with Semantic Modulations", NeurIPS, 2022 (*Tencent*). [[Paper](https://arxiv.org/abs/2210.07883)][[Code (in construction)](https://github.com/KumapowerLIU/FFCLIP)]
 
 [[Back to Overview](#overview)]
 
@@ -2200,6 +2206,7 @@ Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2204.08696)]
 * **LSA**: "Local Slot Attention for Vision-and-Language Navigation", ICMR, 2022 (*Fudan*). [[Paper](https://arxiv.org/abs/2206.08645)]
 * **?**: "Learning from Unlabeled 3D Environments for Vision-and-Language Navigation", ECCV, 2022 (*INRIA*). [[Paper](https://arxiv.org/abs/2208.11781)][[Website](https://cshizhe.github.io/projects/hm3d_autovln.html)]
 * **MTVM**: "Multimodal Transformer with Variable-length Memory for Vision-and-Language Navigation", ECCV, 2022 (*ByteDance*). [[Paper](https://arxiv.org/abs/2111.05759)][[PyTorch](https://github.com/clin1223/MTVM)]
+* **AVLEN**: "AVLEN: Audio-Visual-Language Embodied Navigation in 3D Environments", NeurIPS, 2022 (*UC Riverside*). [[Paper](https://arxiv.org/abs/2210.07940)]
 * **TransFuser**: "TransFuser: Imitation with Transformer-Based Sensor Fusion for Autonomous Driving", arXiv, 2022 (*MPI*). [[Paper](https://arxiv.org/abs/2205.15997)]
 * **TD-STP**: "Target-Driven Structured Transformer Planner for Vision-Language Navigation", arXiv, 2022 (*Beihang University*). [[Paper](https://arxiv.org/abs/2207.11201)][[Code (in construction)](https://github.com/YushengZhao/TD-STP)]
 * **DAVIS**: "Anticipating the Unseen Discrepancy for Vision and Language Navigation", arXiv, 2022 (*UCSB*). [[Paper](https://arxiv.org/abs/2209.04725)]
@@ -2590,6 +2597,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **RVSA**: "Advancing Plain Vision Transformer Towards Remote Sensing Foundation Model", arXiv, 2022 (*Wuhan University + The University of Sydney*). [[Paper](https://arxiv.org/abs/2208.03987)]
     * **SatViT**: "Transfer Learning with Pretrained Remote Sensing Transformers", arXiv, 2022 (*?*). [[Paper](https://arxiv.org/abs/2209.14969)][[PyTorch](https://github.com/antofuller/SatViT)]
     * **FTN**: "Fully Transformer Network for Change Detection of Remote Sensing Images", arXiv, 2022 (*Dalian University of Technology*). [[Paper](https://arxiv.org/abs/2210.00757)]
+    * **MCTNet**: "MCTNet: A Multi-Scale CNN-Transformer Network for Change Detection in Optical Remote Sensing Images", arXiv, 2022 (*Tsinghua University*). [[Paper](https://arxiv.org/abs/2210.07601)]
 * Robotics:
     * **TF-Grasp**: "When Transformer Meets Robotic Grasping: Exploits Context for Efficient Grasp Detection", arXiv, 2022 (*University of Science and Technology of China*). [[Paper](https://arxiv.org/abs/2202.11911)][[Code (in construction)](https://github.com/WangShaoSUN/grasp-transformer)]
     * **BeT**: "Behavior Transformers: Cloning k modes with one stone", arXiv, 2022 (*NYU*). [[Paper](https://arxiv.org/abs/2206.11251)][[PyTorch](https://github.com/notmahi/bet)]
@@ -2660,6 +2668,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **LaTTe**: "LaTTe: Language Trajectory TransformEr", arXiv, 2022 (*TUM*). [[Paper](https://arxiv.org/abs/2208.02918)][[Tensorflow](https://github.com/arthurfenderbucker/NL_trajectory_reshaper)]
     * **SoMoFormer**: "SoMoFormer: Social-Aware Motion Transformer for Multi-Person Motion Prediction", arXiv, 2022 (*Hangzhou Dianzi University*). [[Paper](https://arxiv.org/abs/2208.09224)]
     * **ViewBirdiformer**: "ViewBirdiformer: Learning to recover ground-plane crowd trajectories and ego-motion from a single ego-centric view", arXiv, 2022 (*Kyoto University*). [[Paper](https://arxiv.org/abs/2210.06332)]
+    * **PedFormer**: "PedFormer: Pedestrian Behavior Prediction via Cross-Modal Attention Modulation and Gated Multitask Learning", arXiv, 2022 (*Huawei*). [[Paper](https://arxiv.org/abs/2210.07886)]
 * Visual Counting:
     * **CC-AV**: "Audio-Visual Transformer Based Crowd Counting", ICCVW, 2021 (*University of Kansas*). [[Paper](https://arxiv.org/abs/2109.01926)]
     * **TransCrowd**: "TransCrowd: Weakly-Supervised Crowd Counting with Transformer", arXiv, 2021 (*Huazhong University of Science and Technology*). [[Paper](https://arxiv.org/abs/2104.09116)][[PyTorch](https://github.com/dk-liang/TransCrowd)]
