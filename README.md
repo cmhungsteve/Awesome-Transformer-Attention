@@ -314,6 +314,8 @@ Feel free to share this list with others!
 * **ClusTR**: "ClusTR: Exploring Efficient Self-attention via Clustering for Vision Transformers", arXiv, 2022 (*The University of Adelaide, Australia*). [[Paper](https://arxiv.org/abs/2208.13138)]
 * **DiNAT**: "Dilated Neighborhood Attention Transformer", arXiv, 2022 (*University of Oregon*). [[Paper](https://arxiv.org/abs/2209.15001)][[PyTorch](https://github.com/SHI-Labs/Neighborhood-Attention-Transformer)]
 * **MobileViTv3**: "MobileViTv3: Mobile-Friendly Vision Transformer with Simple and Effective Fusion of Local, Global and Input Features", arXiv, 2022 (*Micron*). [[Paper](https://arxiv.org/abs/2209.15159)][[PyTorch](https://github.com/micronDLA/MobileViTv3)]
+* **ToMe**: "Token Merging: Your ViT But Faster", arXiv, 2022 (*Meta*). [[Paper](https://arxiv.org/abs/2210.09461)][[PyTorch](https://github.com/facebookresearch/ToMe)]
+* **ViTCoD**: "ViTCoD: Vision Transformer Acceleration via Dedicated Algorithm and Accelerator Co-Design", arXiv, 2022 (*Georgia Tech*). [[Paper](https://arxiv.org/abs/2210.09573)]
 #### Conv + Transformer
 * **LeViT**: "LeViT: a Vision Transformer in ConvNet's Clothing for Faster Inference", ICCV, 2021 (*Facebook*). [[Paper](https://arxiv.org/abs/2104.01136)][[PyTorch](https://github.com/facebookresearch/LeViT)]
 * **CeiT**: "Incorporating Convolution Designs into Visual Transformers", ICCV, 2021 (*SenseTime*). [[Paper](https://arxiv.org/abs/2103.11816)][[PyTorch (rishikksh20)](https://github.com/rishikksh20/CeiT)]
@@ -413,6 +415,7 @@ Feel free to share this list with others!
 * **Self-Distillation**: "Self-Distillation for Further Pre-training of Transformers", arXiv, 2022 (*KAIST*). [[Paper](https://arxiv.org/abs/2210.02871)]
 * **TL-Align**: "Token-Label Alignment for Vision Transformers", arXiv, 2022 (*Tsinghua University*). [[Paper](https://arxiv.org/abs/2210.06455)][[PyTorch](https://github.com/Euphoria16/TL-Align)]
 * **AutoView**: "Learning Self-Regularized Adversarial Views for Self-Supervised Vision Transformers", arXiv, 2022 (*Sun Yat-sen University*). [[Paper](https://arxiv.org/abs/2210.08458)][[Code (in construction)](https://github.com/Trent-tangtao/AutoView)]
+* **CLIPpy**: "Perceptual Grouping in Vision-Language Models", arXiv, 2022 (*Apple*). [[Paper](https://arxiv.org/abs/2210.09996)]
 #### Robustness + Transformer
 * **ViT-Robustness**: "Understanding Robustness of Transformers for Image Classification", ICCV, 2021 (*Google*). [[Paper](https://arxiv.org/abs/2103.14586)]
 * **SAGA**: "On the Robustness of Vision Transformers to Adversarial Examples", ICCV, 2021 (*University of Connecticut*). [[Paper](https://arxiv.org/abs/2104.02610)]
@@ -1458,6 +1461,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **?**: "A very preliminary analysis of DALL-E 2", arXiv, 2022 (*NYU*). [[Paper](https://arxiv.org/abs/2204.13807)]
     * **Imagen**: "Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding", arXiv, 2022 (*Google*). [[Paper](https://gweb-research-imagen.appspot.com/paper.pdf)][[Website](https://gweb-research-imagen.appspot.com/)]
     * **GLIDE**: "GLIDE: Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models", arXiv, 2022 (*OpenAI*). [[Paper](https://arxiv.org/abs/2112.10741)][[PyTorch](https://github.com/openai/glide-text2im)]
+    * **Make-A-Scene**: "Make-A-Scene: Scene-Based Text-to-Image Generation with Human Priors", arXiv, 2022 (*Meta*). [[Paper](https://arxiv.org/abs/2203.13131)][[Video](https://www.youtube.com/watch?v=QLTyqoJJKTo&ab_channel=OranGafni)]
     * **?**: "Discovering the Hidden Vocabulary of DALLE-2", arXiv, 2022 (*UT Austin*). [[Paper](https://arxiv.org/abs/2206.00169)]
     * **Parti**: "Scaling Autoregressive Models for Content-Rich Text-to-Image Generation", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2206.10789)][[GitHub](https://github.com/google-research/parti)][[Website](https://parti.research.google/)]
     * **?**: "Prompt-to-Prompt Image Editing with Cross Attention Control", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2208.01626)]
@@ -1465,6 +1469,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **VLMGAN**: "Vision-Language Matching for Text-to-Image Synthesis via Generative Adversarial Networks", arXiv, 2022 (*Fudan University*). [[Paper](https://arxiv.org/abs/2208.09596)]
     * **PDM**: "Progressive Denoising Model for Fine-Grained Text-to-Image Generation", arXiv, 2022 (*Meituan*). [[Paper](https://arxiv.org/abs/2210.02291)]
     * **FS-VQG**: "Few-Shot Visual Question Generation: A Novel Task and Benchmark Datasets", arXiv, 2022 (*IIT Kharagpur*). [[Paper](https://arxiv.org/abs/2210.07076)]
+    * **Swinv2-Imagen**: "Swinv2-Imagen: Hierarchical Vision Transformer Diffusion Models for Text-to-Image Generation", arXiv, 2022 (*Auckland University of Technology*). [[Paper](https://arxiv.org/abs/2210.09549)]
 * Video:
     * **CogVideo**: "CogVideo: Large-scale Pretraining for Text-to-Video Generation via Transformers", arXiv, 2022 (*Tsinghua University*) [[Paper](https://arxiv.org/abs/2205.15868)][[GitHub (in construction)](https://github.com/THUDM/CogVideo)]
     * **Make-A-Video**: "Make-A-Video: Text-to-Video Generation without Text-Video Data", arXiv, 2022 (*Meta*). [[Paper](https://arxiv.org/abs/2209.14792)]
@@ -1812,6 +1817,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **TransEditor**: "TransEditor: Transformer-Based Dual-Space GAN for Highly Controllable Facial Editing", CVPR, 2022 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2203.17266)][[PyTorch](https://github.com/BillyXYB/TransEditor)][[Website](https://billyxyb.github.io/TransEditor/)]
     * **RestoreFormer**: "RestoreFormer: High-Quality Blind Face Restoration From Undegraded Key-Value Pairs", CVPR, 2022 (*HKU*). [[Paper](https://arxiv.org/abs/2201.06374)]
     * **HairCLIP**: "HairCLIP: Design Your Hair by Text and Reference Image", CVPR, 2022 (*USTC*). [[Paper](https://arxiv.org/abs/2112.05142)][[PyTorch](https://github.com/wty-ustc/HairCLIP)]
+    * **AnyFace**: "AnyFace: Free-style Text-to-Face Synthesis and Manipulation", CVPR, 2022 (*CAS*). [[Paper](https://arxiv.org/abs/2203.15334)]
     * **Cycle-Text2Face**: "Cycle Text2Face: Cycle Text-to-face GAN via Transformers", arXiv, 2022 (*Shahed Univerisity, Iran*). [[Paper](https://arxiv.org/abs/2206.04503)]
     * **CodeFormer**: "Towards Robust Blind Face Restoration with Codebook Lookup Transformer", arXiv, 2022 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2206.11253)][[PyTorch (in construction)](https://github.com/sczhou/CodeFormer)][[Website](https://shangchenzhou.com/projects/CodeFormer/)]
     * **FaceFormer**: "FaceFormer: Scale-aware Blind Face Restoration with Transformers", arXiv, 2022 (*Tencent*). [[Paper](https://arxiv.org/abs/2207.09790)]
@@ -1902,6 +1908,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **ERM-ViT**: "Self-Distilled Vision Transformer for Domain Generalization", arXiv, 2022 (*MBZUAI*). [[Paper](https://arxiv.org/abs/2207.12392)][[PyTorch](https://github.com/maryam089/SDViT)]
     * **MPA**: "Multi-Prompt Alignment for Multi-source Unsupervised Domain Adaptation", arXiv, 2022 (*Fudan University*). [[Paper](https://arxiv.org/abs/2209.15210)]
     * **DePT**: "Visual Prompt Tuning for Test-time Domain Adaptation", arXiv, 2022 (*Amazon*). [[Paper](https://arxiv.org/abs/2210.04831)]
+    * **LADS**: "Using Language to Extend to Unseen Domains", arXiv, 2022 (*Berkeley*). [[Paper](https://arxiv.org/abs/2210.09520)]
 * X-Supervised:
     * **Semiformer**: "Semi-Supervised Vision Transformers", ECCV, 2022 (*Fudan University*). [[Paper](https://arxiv.org/abs/2111.11067)][[PyTorch](https://github.com/wengzejia1/Semiformer)]
     * **SVL-Adapter**: "SVL-Adapter: Self-Supervised Adapter for Vision-Language Pretrained Models", BMVC, 2022 (*UCL*). [[Paper](https://arxiv.org/abs/2210.03794)][[Code (in construction)](https://github.com/omipan/svl_adapter)]
