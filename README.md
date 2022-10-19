@@ -1472,6 +1472,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **PDM**: "Progressive Denoising Model for Fine-Grained Text-to-Image Generation", arXiv, 2022 (*Meituan*). [[Paper](https://arxiv.org/abs/2210.02291)]
     * **FS-VQG**: "Few-Shot Visual Question Generation: A Novel Task and Benchmark Datasets", arXiv, 2022 (*IIT Kharagpur*). [[Paper](https://arxiv.org/abs/2210.07076)]
     * **Swinv2-Imagen**: "Swinv2-Imagen: Hierarchical Vision Transformer Diffusion Models for Text-to-Image Generation", arXiv, 2022 (*Auckland University of Technology*). [[Paper](https://arxiv.org/abs/2210.09549)]
+    * **UniTune**: "UniTune: Text-Driven Image Editing by Fine Tuning an Image Generation Model on a Single Image", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2210.09477)]
 * Video:
     * **CogVideo**: "CogVideo: Large-scale Pretraining for Text-to-Video Generation via Transformers", arXiv, 2022 (*Tsinghua University*) [[Paper](https://arxiv.org/abs/2205.15868)][[GitHub (in construction)](https://github.com/THUDM/CogVideo)]
     * **Make-A-Video**: "Make-A-Video: Text-to-Video Generation without Text-Video Data", arXiv, 2022 (*Meta*). [[Paper](https://arxiv.org/abs/2209.14792)]
