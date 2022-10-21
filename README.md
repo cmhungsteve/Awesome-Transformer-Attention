@@ -1086,6 +1086,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 [[Back to Overview](#overview)]
 
 ### Video Object Segmentation
+* **GC**: "Fast Video Object Segmentation using the Global Context Module", ECCV, 2020 (*Tencent*). [[Paper](https://arxiv.org/abs/2001.11243)]
 * **SSTVOS**: "SSTVOS: Sparse Spatiotemporal Transformers for Video Object Segmentation", CVPR, 2021 (*Modiface*). [[Paper](https://arxiv.org/abs/2101.08833)][[Code (in construction)](https://github.com/dukebw/SSTVOS)]
 * **JOINT**: "Joint Inductive and Transductive Learning for Video Object Segmentation", ICCV, 2021 (*University of Science and Technology of China*). [[Paper](https://arxiv.org/abs/2108.03679)][[PyTorch](https://github.com/maoyunyao/JOINT)]
 * **AOT**: "Associating Objects with Transformers for Video Object Segmentation", NeurIPS, 2021 (*University of Technology Sydney*). [[Paper](https://arxiv.org/abs/2106.02638)][[PyTorch (yoxu515)](https://github.com/yoxu515/aot-benchmark)][[Code (in construction)](https://github.com/z-x-yang/AOT)]
@@ -1095,7 +1096,6 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **HODOR**: "Differentiable Soft-Masked Attention", CVPRW, 2022 (*RWTH Aachen University, Germany*). [[Paper](https://arxiv.org/abs/2206.00182)]
 * **BATMAN**: "BATMAN: Bilateral Attention Transformer in Motion-Appearance Neighboring Space for Video Object Segmentation", ECCV, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2208.01159)]
 * **AOT**: "Associating Objects with Scalable Transformers for Video Object Segmentation", arXiv, 2022 (*University of Technology Sydney*). [[Paper](https://arxiv.org/abs/2203.11442)][[Code (in construction)](https://github.com/z-x-yang/AOT)]
-* **GC**: "Fast Video Object Segmentation using the Global Context Module", ECCV, 2020 (*Tencent*). [[Paper](https://arxiv.org/abs/2001.11243)]
 
 [[Back to Overview](#overview)]
 
