@@ -1603,6 +1603,8 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * Audio-Visual:
     * **AVCA**: "Audio-visual Generalised Zero-shot Learning with Cross-modal Attention and Language", CVPR, 2022 (*University of Tubingen, Germany*). [[Paper](https://arxiv.org/abs/2203.03598)][[PyTorch](https://github.com/ExplainableML/AVCA-GZSL)]
     * **TCaF**: "Temporal and cross-modal attention for audio-visual zero-shot learning", ECCV, 2022 (*University of Tubingen, Germany*). [[Paper](https://arxiv.org/abs/2207.09966)][[PyTorch](https://github.com/ExplainableML/TCAF-GZSL)]
+    * **?**: "Learning Audio-Video Modalities from Image Captions", ECCV, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2204.00679)]
+    * **AVSBench**: "Audio-Visual Segmentation", ECCV, 2022 (*SenseTime*). [[Paper](https://arxiv.org/abs/2207.05042)][[PyTorch](https://github.com/OpenNLPLab/AVSBench)][[Website](https://opennlplab.github.io/AVSBench/)]
     * **AVE-CLIP**: "AVE-CLIP: AudioCLIP-based Multi-window Temporal Transformer for Audio Visual Event Localization", WACV, 2023 (*UT Austin*). [[Paper](https://arxiv.org/abs/2210.05060)]
 * Sentiment Analysis:
     * **CubeMLP**: "CubeMLP: A MLP-based Model for Multimodal Sentiment Analysis and Depression Estimation", ACMMM, 2022 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2207.14087)]
