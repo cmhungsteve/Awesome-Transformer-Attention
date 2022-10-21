@@ -1152,6 +1152,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **EVL**: "Frozen CLIP Models are Efficient Video Learners", ECCV, 2022 (*CUHK*). [[Paper](https://arxiv.org/abs/2208.03550)][[PyTorch (in construction)](https://github.com/OpenGVLab/efficient-video-recognition)]
     * **STALE**: "Zero-Shot Temporal Action Detection via Vision-Language Prompting", ECCV, 2022 (*University of Surrey, UK*). [[Paper](https://arxiv.org/abs/2207.08184)][[Code (in construction)](https://github.com/sauradip/STALE)]
     * **FineCo**: "Contrastive Video-Language Learning with Fine-grained Frame Sampling", AACL, 2022 (*ICL, UK*). [[Paper](https://arxiv.org/abs/2210.05039)]
+    * **MovieCLIP**: "MovieCLIP: Visual Scene Recognition in Movies", WACV, 2023 (*USC*). [[Paper](https://arxiv.org/abs/2210.11065)][[Website](https://sail.usc.edu/~mica/MovieCLIP/)]
 * X-supervised Learning:
     * **LSTCL**: "Long-Short Temporal Contrastive Learning of Video Transformers", CVPR, 2022 (*Facebook*). [[Paper](https://arxiv.org/abs/2106.09212)]
     * **SVT**: "Self-supervised Video Transformer", CVPR, 2022 (*Stony Brook*). [[Paper](https://arxiv.org/abs/2112.01514)][[PyTorch](https://github.com/kahnchana/svt)][[Website](https://kahnchana.github.io/svt/)]
@@ -1441,6 +1442,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **LAFF**: "Lightweight Attentional Feature Fusion: A New Baseline for Text-to-Video Retrieval", ECCV, 2022 (*Renmin University of China*). [[Paper](https://arxiv.org/abs/2112.01832)]
     * **ECLIPSE**: "ECLIPSE: Efficient Long-range Video Retrieval using Sight and Sound", ECCV, 2022 (*UNC*). [[Paper](https://arxiv.org/abs/2204.02874)][[PyTorch](https://github.com/GenjiB/ECLIPSE)][[Website](https://yblin.ml/project_page/eclipse/)]
     * **MILES**: "MILES: Visual BERT Pre-training with Injected Language Semantics for Video-text Retrieval", ECCV, 2022 (*HKU*). [[Paper](https://arxiv.org/abs/2204.12408)]
+    * **VTC**: "VTC: Improving Video-Text Retrieval with User Comments", ECCV, 2022 (*Unitary, UK*). [[Paper](https://arxiv.org/abs/2210.10820)][[PyTorch](https://github.com/unitaryai/VTC)][[Website](https://unitaryai.github.io/vtc-paper/)]
     * **?**: "Text-Adaptive Multiple Visual Prototype Matching for Video-Text Retrieval", NeurIPS, 2022 (*Sun Yat-sen University*). [[Paper](https://arxiv.org/abs/2209.13307)]
     * **ConTra**: "ConTra: (Con)text (Tra)nsformer for Cross-Modal Video Retrieval", ACCV, 2022 (*University of Bristol, UK*). [[Paper](https://arxiv.org/abs/2210.04341)]
     * **RaP**: "RaP: Redundancy-aware Video-language Pre-training for Text-Video Retrieval", EMNLP, 2022 (*CAS*). [[Paper](https://arxiv.org/abs/2210.06881)][[PyTorch](https://github.com/caskcsg/VLP/tree/main/RaP)]
@@ -1477,6 +1479,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **FS-VQG**: "Few-Shot Visual Question Generation: A Novel Task and Benchmark Datasets", arXiv, 2022 (*IIT Kharagpur*). [[Paper](https://arxiv.org/abs/2210.07076)]
     * **Swinv2-Imagen**: "Swinv2-Imagen: Hierarchical Vision Transformer Diffusion Models for Text-to-Image Generation", arXiv, 2022 (*Auckland University of Technology*). [[Paper](https://arxiv.org/abs/2210.09549)]
     * **UniTune**: "UniTune: Text-Driven Image Editing by Fine Tuning an Image Generation Model on a Single Image", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2210.09477)]
+    * **VSD**: "Visual Spatial Description: Controlled Spatial-Oriented Image-to-Text Generation", arXiv, 2022 (*Tianjin University*). [[Paper](https://arxiv.org/abs/2210.11109)][[Code (in construction)](https://github.com/zhaoyucs/VSD)]
 * Video:
     * **CogVideo**: "CogVideo: Large-scale Pretraining for Text-to-Video Generation via Transformers", arXiv, 2022 (*Tsinghua University*) [[Paper](https://arxiv.org/abs/2205.15868)][[GitHub (in construction)](https://github.com/THUDM/CogVideo)]
     * **Make-A-Video**: "Make-A-Video: Text-to-Video Generation without Text-Video Data", arXiv, 2022 (*Meta*). [[Paper](https://arxiv.org/abs/2209.14792)]
@@ -1502,6 +1505,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **VLCDoC**: "VLCDoC: Vision-Language Contrastive Pre-Training Model for Cross-Modal Document Classification", arXiv, 2022 (*La Rochelle University, France*). [[Paper](https://arxiv.org/abs/2205.12029)]
 * **Bi-VLDoc**: "Bi-VLDoc: Bidirectional Vision-Language Modeling for Visually-Rich Document Understanding", arXiv, 2022 (*Alibaba*). [[Paper](https://arxiv.org/abs/2206.13155)]
 * **TRUST**: "TRUST: An Accurate and End-to-End Table structure Recognizer Using Splitting-based Transformers", arXiv, 2022 (*Baidu*). [[Paper](https://arxiv.org/abs/2208.14687)]
+* **OCR-VQGAN**: "OCR-VQGAN: Taming Text-within-Image Generation", WACV, 2023 (*UAB, Spain*). [[Paper](https://arxiv.org/abs/2210.11248)]
 
 [[Back to Overview](#overview)]
 
@@ -1537,6 +1541,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **UPT**: "Unified Vision and Language Prompt Learning", arXiv, 2022 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2210.07225)][[Code (in construction)](https://github.com/yuhangzang/UPT)]
     * **?**: "Visual Classification via Description from Large Language Models", arXiv, 2022 (*Columbia*). [[Paper](https://arxiv.org/abs/2210.07183)]
     * **CPL**: "CPL: Counterfactual Prompt Learning for Vision and Language Models", arXiv, 2022 (*UC Santa Cruz*). [[Paper](https://arxiv.org/abs/2210.10362)]
+    * **PTP**: "Prompting through Prototype: A Prototype-based Prompt Learning on Pretrained Vision-Language Models", arXiv, 2022 (*Baidu*). [[Paper](https://arxiv.org/abs/2210.10841)]
 * X-Shot:
     * **VidIL**: "Language Models with Image Descriptors are Strong Few-Shot Video-Language Learners", NeurIPS, 2022 (*UIUC*). [[Paper](https://arxiv.org/abs/2205.10747)][[PyTorch](https://github.com/MikeWangWZHL/VidIL)]
     * **LIMoE**: "Multimodal Contrastive Learning with LIMoE: the Language-Image Mixture of Experts", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2206.02770)]
@@ -2496,6 +2501,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
 * **CSM**: "Contrastive Transformer-based Multiple Instance Learning for Weakly Supervised Polyp Frame Detection", arXiv, 2022 (*University of Adelaide, Australia*). [[Paper](https://arxiv.org/abs/2203.12121)]
 * **CASHformer**: "CASHformer: Cognition Aware SHape Transformer for Longitudinal Analysis", arXiv, 2022 (*TUM*). [[Paper](https://arxiv.org/abs/2207.02091)]
 * **ARST**: "ARST: Auto-Regressive Surgical Transformer for Phase Recognition from Laparoscopic Videos", arXiv, 2022 (*Shanghai Jiao Tong University*). [[Paper](https://arxiv.org/abs/2209.01148)]
+* **SSiT**: "SSiT: Saliency-guided Self-supervised Image Transformer for Diabetic Retinopathy Grading", arXiv, 2022 (*Southern University of Science and Techonology, China*). [[Paper](https://arxiv.org/abs/2210.10969)][[Code (in construction)](https://github.com/YijinHuang/SSiT)]
 
 [[Back to Overview](#overview)]
 
