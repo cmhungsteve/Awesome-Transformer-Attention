@@ -145,7 +145,7 @@ Feel free to share this list with others!
 * **SAN**: "Exploring Self-attention for Image Recognition", CVPR, 2020 (*CUHK + Intel*). [[Paper](https://arxiv.org/abs/2004.13621)][[PyTorch](https://github.com/hszhao/SAN)]
 * **Axial-DeepLab**: "Axial-DeepLab: Stand-Alone Axial-Attention for Panoptic Segmentation", ECCV, 2020 (*Google*). [[Paper](https://arxiv.org/abs/2003.07853)][[PyTorch](https://github.com/csrhddlam/axial-deeplab)]
 #### Conv-stem + Attention
-* **GSA**: "Global Self-Attention Networks for Image Recognition", arXiv, 2020 (*Google*). [[Paper](https://openreview.net/forum?id=KiFeuZu24k)][[PyTorch (lucidrains)](https://github.com/lucidrains/global-self-attention-network)]
+* **GSA-Net**: "Global Self-Attention Networks for Image Recognition", arXiv, 2020 (*Google*). [[Paper](https://arxiv.org/abs/2010.03019)][[PyTorch (lucidrains)](https://github.com/lucidrains/global-self-attention-network)]
 * **HaloNet**: "Scaling Local Self-Attention For Parameter Efficient Visual Backbones", CVPR, 2021 (*Google*). [[Paper](https://arxiv.org/abs/2103.12731)][[PyTorch (lucidrains)](https://github.com/lucidrains/halonet-pytorch)]
 * **CoTNet**: "Contextual Transformer Networks for Visual Recognition", CVPRW, 2021 (*JD*). [[Paper](https://arxiv.org/abs/2107.12292)][[PyTorch](https://github.com/JDAI-CV/CoTNet)]
 * **HAT-Net**: "Vision Transformers with Hierarchical Attention", arXiv, 2022 (*ETHZ*). [[Paper](https://arxiv.org/abs/2106.03180)][[PyTorch (in construction)](https://github.com/yun-liu/HAT-Net)]
@@ -678,7 +678,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **MEDUSA**: "Exploiting Scene Depth for Object Detection with Multimodal Transformers", BMVC, 2021 (*Google*). [[Paper](https://www.bmvc2021-virtualconference.com/assets/papers/0568.pdf)][[PyTorch](https://github.com/songhwanjun/MEDUSA)]
 * **StrucTexT**: "StrucTexT: Structured Text Understanding with Multi-Modal Transformers", arXiv, 2021 (*Baidu*). [[Paper](https://arxiv.org/abs/2108.02923)]
 * **MAVL**: "Class-agnostic Object Detection with Multi-modal Transformer", ECCV, 2022 (*MBZUAI*). [[Paper](https://arxiv.org/abs/2111.11430)][[PyTorch](https://github.com/mmaaz60/mvits_for_class_agnostic_od)]
-* **OWL-ViT**: "Simple Open-Vocabulary Object Detection with Vision Transformers", ECCV, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2205.06230)]
+* **OWL-ViT**: "Simple Open-Vocabulary Object Detection with Vision Transformers", ECCV, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2205.06230)][[JAX](https://github.com/google-research/scenic/tree/main/scenic/projects/owl_vit)][[Hugging Face](https://huggingface.co/docs/transformers/model_doc/owlvit)]
 * **X-DETR**: "X-DETR: A Versatile Architecture for Instance-wise Vision-Language Tasks", ECCV, 2022 (*Amazon*). [[Paper](https://arxiv.org/abs/2204.05626)]
 * **simCrossTrans**: "simCrossTrans: A Simple Cross-Modality Transfer Learning for Object Detection with ConvNets or Vision Transformers", arXiv, 2022 (*The City University of New York*). [[Paper](https://arxiv.org/abs/2203.10456)][[PyTorch](https://github.com/liketheflower/simCrossTrans)]
 * **?**: "DALL-E for Detection: Language-driven Context Image Synthesis for Object Detection", arXiv, 2022 (*USC*). [[Paper](https://arxiv.org/abs/2206.09592)]
@@ -1103,6 +1103,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 [[Back to Overview](#overview)]
 
 ### Video Object Segmentation
+* **GC**: "Fast Video Object Segmentation using the Global Context Module", ECCV, 2020 (*Tencent*). [[Paper](https://arxiv.org/abs/2001.11243)]
 * **SSTVOS**: "SSTVOS: Sparse Spatiotemporal Transformers for Video Object Segmentation", CVPR, 2021 (*Modiface*). [[Paper](https://arxiv.org/abs/2101.08833)][[Code (in construction)](https://github.com/dukebw/SSTVOS)]
 * **JOINT**: "Joint Inductive and Transductive Learning for Video Object Segmentation", ICCV, 2021 (*University of Science and Technology of China*). [[Paper](https://arxiv.org/abs/2108.03679)][[PyTorch](https://github.com/maoyunyao/JOINT)]
 * **AOT**: "Associating Objects with Transformers for Video Object Segmentation", NeurIPS, 2021 (*University of Technology Sydney*). [[Paper](https://arxiv.org/abs/2106.02638)][[PyTorch (yoxu515)](https://github.com/yoxu515/aot-benchmark)][[Code (in construction)](https://github.com/z-x-yang/AOT)]
