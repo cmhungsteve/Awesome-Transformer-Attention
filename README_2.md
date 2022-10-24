@@ -158,6 +158,7 @@
     * **DProST**: "DProST: Dynamic Projective Spatial Transformer Network for 6D Pose Estimation", ECCV, 2022 (*Seoul National University*). [[Paper](https://arxiv.org/abs/2112.08775)][[PyTorch](https://github.com/parkjaewoo0611/DProST)]
     * **AFT-VO**: "AFT-VO: Asynchronous Fusion Transformers for Multi-View Visual Odometry Estimation", arXiv, 2022 (*University of Surrey, UK*). [[Paper](https://arxiv.org/abs/2206.12946)]
     * **DPT-VO**: "Dense Prediction Transformer for Scale Estimation in Monocular Visual Odometry", arXiv, 2022 (*Aeronautics Institute of Technology, Brazil*). [[Paper](https://arxiv.org/abs/2210.01723)]
+    * **CRT-6D**: "CRT-6D: Fast 6D Object Pose Estimation with Cascaded Refinement Transformers", WACV, 2023 (ICL, UK**). [[Paper](https://arxiv.org/abs/2210.11718)][[Code (in construction)](https://github.com/PedroCastro/CRT-6D)]
 
 [[Back to Overview](#overview)]
 
@@ -241,6 +242,7 @@
     * **PhysFormer**: "PhysFormer: Facial Video-based Physiological Measurement with Temporal Difference Transformer", CVPR, 2022 (*University of Oulu, Finland*). [[Paper](https://arxiv.org/abs/2111.12082)][[PyTorch](https://github.com/ZitongYu/PhysFormer)]
     * **VTP**: "Sub-word Level Lip Reading With Visual Attention", CVPR, 2022 (*Oxford*). [[Paper](https://arxiv.org/abs/2110.07603)]
     * **Label2Label**: "Label2Label: A Language Modeling Framework for Multi-Attribute Learning", ECCV, 2022 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2207.08677)][[PyTorch](https://github.com/Li-Wanhua/Label2Label)]
+    * **FPVT**: "Face Pyramid Vision Transformer", BMVC, 2022 (*FloppyDisk.AI, Pakistan*). [[Paper](https://arxiv.org/abs/2210.11974)][[PyTorch](https://github.com/khawar-islam/FPVT_BMVC22)][[Website](https://khawar-islam.github.io/fpvt/)]
     * **EventFormer**: "EventFormer: AU Event Transformer for Facial Action Unit Event Detection", arXiv, 2022 (*Peking*). [[Paper](https://arxiv.org/abs/2203.06355)]
     * **MFT**: "Multi-Modal Learning for AU Detection Based on Multi-Head Fused Transformers", arXiv, 2022 (*SUNY Binghamton*). [[Paper](https://arxiv.org/abs/2203.11441)]
     * **VC-TRSF**: "Self-supervised Video-centralised Transformer for Video Face Clustering", arXiv, 2022 (*ICL*). [[Paper](https://arxiv.org/abs/2203.13166)]
@@ -1038,6 +1040,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **GTZSR**: "Zero-Shot Sketch Based Image Retrieval using Graph Transformer", arXiv, 2022 (*IIT Bombay*). [[Paper](https://arxiv.org/abs/2201.10185)]
     * **EViT**: "EViT: Privacy-Preserving Image Retrieval via Encrypted Vision Transformer in Cloud Computing", arXiv, 2022 (*Jinan University*). [[Paper](https://arxiv.org/abs/2208.14657)][[PyTorch (in construction)](https://github.com/onlinehuazai/EViT)]
     * **?**: "Transformers and CNNs both Beat Humans on SBIR", arXiv, 2022 (*University of Mons, Belgium*). [[Paper](https://arxiv.org/abs/2209.06629)]
+    * **DToP**: "Boosting vision transformers for image retrieval", WACV, 2023 (*Dealicious, Korea*). [[Paper](https://arxiv.org/abs/2210.11909)][[Code (in construction)](https://github.com/dealicious-inc/DToP)]
 * Layout Generation:
     * **VTN**: "Variational Transformer Networks for Layout Generation", CVPR, 2021 (*Google*). [[Paper](https://arxiv.org/abs/2104.02416)]
     * **LayoutTransformer**: "LayoutTransformer: Scene Layout Generation With Conceptual and Spatial Diversity", CVPR, 2021 (*NTU*). [[Paper](https://openaccess.thecvf.com/content/CVPR2021/html/Yang_LayoutTransformer_Scene_Layout_Generation_With_Conceptual_and_Spatial_Diversity_CVPR_2021_paper.html)][[PyTorch](https://github.com/davidhalladay/LayoutTransformer)]
@@ -1129,7 +1132,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **ChiTransformer**: "ChiTransformer: Towards Reliable Stereo from Cues", CVPR, 2022 (*GSU*). [[Paper](https://arxiv.org/abs/2203.04554)]
     * **TransMVSNet**: "TransMVSNet: Global Context-aware Multi-view Stereo Network with Transformers", CVPR, 2022 (*Megvii*). [[Paper](https://arxiv.org/abs/2111.14600)][[Code (in construction)](https://github.com/MegviiRobot/TransMVSNet)]
     * **MVSTER**: "MVSTER: Epipolar Transformer for Efficient Multi-View Stereo", ECCV, 2022 (*CAS*). [[Paper](https://arxiv.org/abs/2204.07346)][[PyTorch](https://github.com/JeffWang987/MVSTER)]
-    * **CEST**: "Context-Enhanced Stereo Transformer", ECCV, 2022 (*CAS*). [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/2649_ECCV_2022_paper.php)][[PyTorch](https://github.com/guoweiyu/Context-Enhanced-Stereo-Transformer)]
+    * **CEST**: "Context-Enhanced Stereo Transformer", ECCV, 2022 (*CAS*). [[Paper](Context-Enhanced Stereo Transformer)][[PyTorch](https://github.com/guoweiyu/Context-Enhanced-Stereo-Transformer)]
     * **WT-MVSNet**: "WT-MVSNet: Window-based Transformers for Multi-view Stereo", arXiv, 2022 (*Tsinghua University*). [[Paper](https://arxiv.org/abs/2205.14319)]
     * **MVSFormer**: "MVSFormer: Learning Robust Image Representations via Transformers and Temperature-based Depth for Multi-View Stereo", arXiv, 2022 (*Fudan University*). [[Paper](https://arxiv.org/abs/2208.02541)]
 * Time Series:
