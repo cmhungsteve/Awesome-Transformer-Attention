@@ -91,6 +91,7 @@
 * **Simple3D-Former**: "Can We Solve 3D Vision Tasks Starting from A 2D Vision Transformer?", arXiv, 2022 (*UT Austin*). [[Paper](https://arxiv.org/abs/2209.07026)][[PyTorch](https://github.com/Reimilia/Simple3D-Former)]
 * **3DPCT**: "3DPCT: 3D Point Cloud Transformer with Dual Self-attention", arXiv, 2022 (*University of Waterloo, Canada*). [[Paper](https://arxiv.org/abs/2209.11255)]
 * **PS-Former**: "Point Cloud Recognition with Position-to-Structure Attention Transformers", arXiv, 2022 (*UCSD*). [[Paper](https://arxiv.org/abs/2210.02030)]
+* **LCPFormer**: "LCPFormer: Towards Effective 3D Point Cloud Analysis via Local Context Propagation in Transformers", arXiv, 2022 (*Aberystwyth University, UK*). [[Paper](https://arxiv.org/abs/2210.12755)]
 
 [[Back to Overview](#overview)]
 
@@ -296,7 +297,7 @@
     * **GGViT**: "GGViT: Multistream Vision Transformer Network in Face2Face Facial Reenactment Detection", ICPR, 2022 (*CAS*). [[Paper](https://arxiv.org/abs/2210.05990)]
     * **?**: "Hybrid Transformer Network for Deepfake Detection", International Conference on Content-Based Multimedia Indexing (CBMI), 2022 (*MediaFutures, Norway*). [[Paper](https://arxiv.org/abs/2208.05820)]
     * **ViTAF**: "Adaptive Transformers for Robust Few-shot Cross-domain Face Anti-spoofing", ECCV, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2203.12175)]
-    * **UIA-ViT**: "UIA-ViT: Unsupervised Inconsistency-Aware Method Based on Vision Transformer for Face Forgery Detection", ECCV, 2022 (*USTC*). [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/6739_ECCV_2022_paper.php)]
+    * **UIA-ViT**: "UIA-ViT: Unsupervised Inconsistency-Aware Method Based on Vision Transformer for Face Forgery Detection", ECCV, 2022 (*USTC*). [[Paper](https://arxiv.org/abs/2210.12752)]
     * **?**: "Multi-Scale Wavelet Transformer for Face Forgery Detection", ACCV, 2022 (*Hikvision*). [[Paper](https://arxiv.org/abs/2210.03899)]
     * **?**: "Self-supervised Transformer for Deepfake Detection", arXiv, 2022 (*USTC, China*). [[Paper](https://arxiv.org/abs/2203.01265)]
     * **ViTransPAD**: "ViTransPAD: Video Transformer using convolution and self-attention for Face Presentation Attack Detection", arXiv, 2022 (*University of La Rochelle, France*). [[Paper](https://arxiv.org/abs/2203.01562)]
@@ -615,6 +616,7 @@ Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2204.08696)]
 * **SCAM**: "SCAM! Transferring humans between images with Semantic Cross Attention Modulation", ECCV, 2022 (*Univ Gustave Eiffel, France*). [[Paper](https://arxiv.org/abs/2210.04883)][[PyTorch](https://github.com/nicolas-dufour/SCAM)][[Website](https://imagine.enpc.fr/~dufourn/publications/scam.html)]
 * **TargetCLIP**: "Image-Based CLIP-Guided Essence Transfer", ECCV, 2022 (*Tel Aviv*). [[Paper](https://arxiv.org/abs/2110.12427)][[PyTorch](https://github.com/hila-chefer/TargetCLIP)]
 * **STTR**: "Fine-Grained Image Style Transfer with Visual Transformers", ACCV, 2022 (*The Univerisity of Tokyo*). [[Paper](https://arxiv.org/abs/2210.05176)][[PyTorch (in construction)](https://github.com/researchmm/STTR)]
+* **FFCLIP**: "One Model to Edit Them All: Free-Form Text-Driven Image Manipulation with Semantic Modulations", NeurIPS, 2022 (*Tencent*). [[Paper](https://arxiv.org/abs/2210.07883)][[Code (in construction)](https://github.com/KumapowerLIU/FFCLIP)]
 * **Splice**: "Splicing ViT Features for Semantic Appearance Transfer", arXiv, 2022 (*Weizmann Institute of Science, Israel*). [[Paper](https://arxiv.org/abs/2201.00424)][[PyTorch](https://github.com/omerbt/Splice)][[Website](https://splice-vit.github.io/)]
 * **UVCGAN**: "UVCGAN: UNet Vision Transformer cycle-consistent GAN for unpaired image-to-image translation", arXiv, 2022 (*Brookhaven National Laboratory, NY*). [[Paper](https://arxiv.org/abs/2203.02557)]
 * **ITTR**: "ITTR: Unpaired Image-to-Image Translation with Transformers", arXiv, 2022 (*Kuaishou*). [[Paper](https://arxiv.org/abs/2203.16015)]
@@ -623,7 +625,7 @@ Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2204.08696)]
 * **PI-Trans**: "PI-Trans: Parallel-ConvMLP and Implicit-Transformation Based GAN for Cross-View Image Translation", arXiv, 2022 (*University of Trento, Italy*). [[Paper](https://arxiv.org/abs/2207.04242)][[PyTorch (in construction)](https://github.com/Amazingren/PI-Trans)]
 * **CSLA**: "Bridging CLIP and StyleGAN through Latent Alignment for Image Editing", arXiv, 2022 (*Kuaishou*). [[Paper](https://arxiv.org/abs/2210.04506)]
 * **CLIP-PAE**: "CLIP-PAE: Projection-Augmentation Embedding to Extract Relevant Features for a Disentangled, Interpretable, and Controllable Text-Guided Image Manipulation", arXiv, 2022 (*University of Cambridge*). [[Paper](https://arxiv.org/abs/2210.03919)]
-* **FFCLIP**: "One Model to Edit Them All: Free-Form Text-Driven Image Manipulation with Semantic Modulations", NeurIPS, 2022 (*Tencent*). [[Paper](https://arxiv.org/abs/2210.07883)][[Code (in construction)](https://github.com/KumapowerLIU/FFCLIP)]
+* **S2WAT**: "S2WAT: Image Style Transfer via Hierarchical Vision Transformer using Strips Window Attention", arXiv, 2022 (*Sichuan Normal University*). [[Paper](https://arxiv.org/abs/2210.12381)]
 
 [[Back to Overview](#overview)]
 
@@ -719,6 +721,7 @@ Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2204.08696)]
 * **RAD**: "Evaluating Vision Transformer Methods for Deep Reinforcement Learning from Pixels", arXiv, 2022 (*UBC, Canada*). [[Paper](https://arxiv.org/abs/2204.04905)]
 * **MWM**: "Masked World Models for Visual Control", arXiv, 2022 (*Berkeley*). [[Paper](https://arxiv.org/abs/2206.14244)][[Tensorflow](https://github.com/younggyoseo/MWM)][[Website](https://sites.google.com/view/mwm-rl)]
 * **IRIS**: "Transformers are Sample Efficient World Models", arXiv, 2022 (*University of Geneva, Switzerland*). [[Paper](https://arxiv.org/abs/2209.00588)][[PyTorch](https://github.com/eloialonso/iris)]
+* **InstructRL**: "Instruction-Following Agents with Jointly Pre-Trained Vision-Language Models", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2210.13431)]
 
 [[Back to Overview](#overview)]
 
@@ -1103,6 +1106,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **SatViT**: "Transfer Learning with Pretrained Remote Sensing Transformers", arXiv, 2022 (*?*). [[Paper](https://arxiv.org/abs/2209.14969)][[PyTorch](https://github.com/antofuller/SatViT)]
     * **FTN**: "Fully Transformer Network for Change Detection of Remote Sensing Images", arXiv, 2022 (*Dalian University of Technology*). [[Paper](https://arxiv.org/abs/2210.00757)]
     * **MCTNet**: "MCTNet: A Multi-Scale CNN-Transformer Network for Change Detection in Optical Remote Sensing Images", arXiv, 2022 (*Tsinghua University*). [[Paper](https://arxiv.org/abs/2210.07601)]
+    * **?**: "Transformers For Recognition In Overhead Imagery: A Reality Check", arXiv, 2022 (*Duke University*). [[Paper](https://arxiv.org/abs/2210.12599)]
 * Robotics:
     * **TF-Grasp**: "When Transformer Meets Robotic Grasping: Exploits Context for Efficient Grasp Detection", arXiv, 2022 (*University of Science and Technology of China*). [[Paper](https://arxiv.org/abs/2202.11911)][[Code (in construction)](https://github.com/WangShaoSUN/grasp-transformer)]
     * **BeT**: "Behavior Transformers: Cloning k modes with one stone", arXiv, 2022 (*NYU*). [[Paper](https://arxiv.org/abs/2206.11251)][[PyTorch](https://github.com/notmahi/bet)]
@@ -1238,6 +1242,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **?**: "Connecting Compression Spaces with Transformer for Approximate Nearest Neighbor Search", ECCV, 2022 (*Intellifusion, China*). [[Paper](https://arxiv.org/abs/2107.14415)]
     * **?**: "Strong Gravitational Lensing Parameter Estimation with Vision Transformer", ECCVW, 2022 (*CMU*). [[Paper](https://arxiv.org/abs/2210.04143)][[PyTorch](https://github.com/kuanweih/strong_lensing_vit_resnet)]
     * **Transformer-DR**: "Transformer-based dimensionality reduction", arXiv, 2022 (*Chongqing Normal University, China*). [[Paper](https://arxiv.org/abs/2210.08288)]
+    * **?**: "mm-Wave Radar Hand Shape Classification Using Deformable Transformers", arXiv, 2022 (*Intel*). [[Paper](https://arxiv.org/abs/2210.13079)]
 
 [[Back to Overview](#overview)]
 
