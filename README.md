@@ -895,6 +895,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **Trans2Seg**: "Segmenting Transparent Object in the Wild with Transformer", arXiv, 2021 (*HKU + SenseTime*). [[Paper](https://arxiv.org/abs/2101.08461)][[PyTorch](https://github.com/xieenze/Trans2Seg)]
 * **SOIT**: "SOIT: Segmenting Objects with Instance-Aware Transformers", AAAI, 2022 (*Hikvision*). [[Paper](https://arxiv.org/abs/2112.11037)][[PyTorch](https://github.com/hikvision-research/opera)]
 * **CAST**: "Concurrent Recognition and Segmentation with Adaptive Segment Tokens", arXiv, 2022 (*Berkeley*). [[Paper](https://arxiv.org/abs/2210.00314)]
+* **?**: "Learning Explicit Object-Centric Representations with Vision Transformers", arXiv, 2022 (*Aalto University, Finland*). [[Paper](https://arxiv.org/abs/2210.14139)]
 
 [[Back to Overview](#overview)]
 
@@ -1317,6 +1318,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **mVQA**: "Towards Multi-Lingual Visual Question Answering", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2209.05401)]
 * **CIB**: "Finetuning Pretrained Vision-Language Models with Correlation Information Bottleneck for Robust Visual Question Answering", arXiv, 2022 (*Xi'an Jiaotong University*). [[Paper](https://arxiv.org/abs/2209.06954)]
 * **LocAns**: "Locate before Answering: Answer Guided Question Localization for Video Question Answering", arXiv, 2022 (*Fudan University*). [[Paper](https://arxiv.org/abs/2210.02081)]
+* **VLC-BERT**: "VLC-BERT: Visual Question Answering with Contextualized Commonsense Knowledge", WACV, 2023 (*UBC, Canada*). [[Paper](https://arxiv.org/abs/2210.13626)][[PyTorch](https://github.com/aditya10/VLC-BERT)]
 
 [[Back to Overview](#overview)]
 
@@ -1523,6 +1525,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **Swinv2-Imagen**: "Swinv2-Imagen: Hierarchical Vision Transformer Diffusion Models for Text-to-Image Generation", arXiv, 2022 (*Auckland University of Technology*). [[Paper](https://arxiv.org/abs/2210.09549)]
     * **UniTune**: "UniTune: Text-Driven Image Editing by Fine Tuning an Image Generation Model on a Single Image", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2210.09477)]
     * **VSD**: "Visual Spatial Description: Controlled Spatial-Oriented Image-to-Text Generation", arXiv, 2022 (*Tianjin University*). [[Paper](https://arxiv.org/abs/2210.11109)][[Code (in construction)](https://github.com/zhaoyucs/VSD)]
+    * **Lafite2**: "Lafite2: Few-shot Text-to-Image Generation", arXiv, 2022 (*SUNY, Buffalo*). [[Paper](https://arxiv.org/abs/2210.14124)]
 * Video:
     * **CogVideo**: "CogVideo: Large-scale Pretraining for Text-to-Video Generation via Transformers", arXiv, 2022 (*Tsinghua University*) [[Paper](https://arxiv.org/abs/2205.15868)][[GitHub (in construction)](https://github.com/THUDM/CogVideo)]
     * **Make-A-Video**: "Make-A-Video: Text-to-Video Generation without Text-Video Data", arXiv, 2022 (*Meta*). [[Paper](https://arxiv.org/abs/2209.14792)]
