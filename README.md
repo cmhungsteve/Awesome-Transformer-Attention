@@ -1176,6 +1176,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * Video Hashing
     * **BTH**: "Self-Supervised Video Hashing via Bidirectional Transformers", CVPR, 2021 (*Tsinghua*). [[Paper](https://openaccess.thecvf.com/content/CVPR2021/html/Li_Self-Supervised_Video_Hashing_via_Bidirectional_Transformers_CVPR_2021_paper.html)][[PyTorch](https://github.com/Lily1994/BTH)]
 * Video-Language:
+    * **ActionCLIP**: "ActionCLIP: A New Paradigm for Video Action Recognition", arXiv, 2022 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2109.08472)][[PyTorch](https://github.com/sallymmx/ActionCLIP)]
     * **?**: "Prompting Visual-Language Models for Efficient Video Understanding", ECCV, 2022 (*Shanghai Jiao Tong + Oxford*). [[Paper](https://arxiv.org/abs/2112.04478)][[PyTorch](https://github.com/ju-chen/Efficient-Prompt)][[Website](https://ju-chen.github.io/efficient-prompt/)]
     * **X-CLIP**: "Expanding Language-Image Pretrained Models for General Video Recognition", ECCV, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2208.02816)][[PyTorch](https://github.com/microsoft/VideoX/tree/master/X-CLIP)]
     * **EVL**: "Frozen CLIP Models are Efficient Video Learners", ECCV, 2022 (*CUHK*). [[Paper](https://arxiv.org/abs/2208.03550)][[PyTorch (in construction)](https://github.com/OpenGVLab/efficient-video-recognition)]
