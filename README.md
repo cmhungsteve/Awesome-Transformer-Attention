@@ -1108,6 +1108,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **VPTR**: "VPTR: Efficient Transformers for Video Prediction", ICPR, 2022 (*Polytechnique Montreal, Canada*). [[Paper](https://arxiv.org/abs/2203.15836)][[PyTorch](https://github.com/XiYe20/VPTR)]
 * **Earthformer**: "Earthformer: Exploring Space-Time Transformers for Earth System Forecasting", arXiv, 2022 (*Amazon*). [[Paper](https://arxiv.org/abs/2207.05833)]
 * **AFFT**: "Anticipative Feature Fusion Transformer for Multi-Modal Action Anticipation", WACV, 2023 (*Karlsruhe Institute of Technology, Germany*). [[Paper](https://arxiv.org/abs/2210.12649)][[Code (in construction)](https://github.com/zeyun-zhong/AFFT)]
+* **GliTr**: "GliTr: Glimpse Transformers with Spatiotemporal Consistency for Online Action Prediction", WACV, 2023 (*McGill University, Canada*). [[Paper](https://arxiv.org/abs/2210.13605)]
 
 [[Back to Overview](#overview)]
 
@@ -1428,7 +1429,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **MAPL**: "MAPL: Parameter-Efficient Adaptation of Unimodal Pre-Trained Models for Vision-Language Few-Shot Prompting", arXiv, 2022 (*Mila*). [[Paper](https://arxiv.org/abs/2210.07179)]
     * **EfficientVLM**: "EfficientVLM: Fast and Accurate Vision-Language Models via Knowledge Distillation and Modal-adaptive Pruning", arXiv, 2022 (*Bytedance*). [[Paper](https://arxiv.org/abs/2210.07795)][[PyTorch (in construction)](https://github.com/swaggy-TN/EfficientVLM)]
     * **xCLIP**: "Non-Contrastive Learning Meets Language-Image Pre-Training", arXiv, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2210.09304)]
-
+    * **WFH**: "Learning by Hallucinating: Vision-Language Pre-training with Weak Supervision", WACV, 2023 (*Aalto University, Finland*). [[Paper](https://arxiv.org/abs/2210.13591)]
 * Video:
     * **COOT**: "COOT: Cooperative Hierarchical Transformer for Video-Text Representation Learning", NeurIPS, 2020 (*University of Freiburg*). [[Paper](https://arxiv.org/abs/2011.00597)][[PyTorch](https://github.com/gingsi/coot-videotext)]
     * **Parameter-Reduction**: "Parameter Efficient Multimodal Transformers for Video Representation Learning", ICLR, 2021 (*Seoul National University*). [[Paper](https://openreview.net/forum?id=6UdQLhqJyFD)]
