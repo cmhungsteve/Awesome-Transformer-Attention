@@ -159,6 +159,7 @@
     * **DProST**: "DProST: Dynamic Projective Spatial Transformer Network for 6D Pose Estimation", ECCV, 2022 (*Seoul National University*). [[Paper](https://arxiv.org/abs/2112.08775)][[PyTorch](https://github.com/parkjaewoo0611/DProST)]
     * **AFT-VO**: "AFT-VO: Asynchronous Fusion Transformers for Multi-View Visual Odometry Estimation", arXiv, 2022 (*University of Surrey, UK*). [[Paper](https://arxiv.org/abs/2206.12946)]
     * **DPT-VO**: "Dense Prediction Transformer for Scale Estimation in Monocular Visual Odometry", arXiv, 2022 (*Aeronautics Institute of Technology, Brazil*). [[Paper](https://arxiv.org/abs/2210.01723)]
+    * **?**: "Video based Object 6D Pose Estimation using Transformers", arXiv, 2022 (*Georgia Tech*). [[Paper](https://arxiv.org/abs/2210.13540)][[PyTorch](https://github.com/ApoorvaBeedu/VideoPose)]
     * **CRT-6D**: "CRT-6D: Fast 6D Object Pose Estimation with Cascaded Refinement Transformers", WACV, 2023 (ICL, UK**). [[Paper](https://arxiv.org/abs/2210.11718)][[Code (in construction)](https://github.com/PedroCastro/CRT-6D)]
 
 [[Back to Overview](#overview)]
@@ -200,6 +201,7 @@
 * **LPAT**: "Local Perception-Aware Transformer for Aerial Tracking", arXiv, 2022 (*Tongji University*). [[Paper](https://arxiv.org/abs/2208.00662)][[PyTorch](https://github.com/vision4robotics/LPAT)]
 * **TADN**: "Transformer-based assignment decision network for multiple object tracking", arXiv, 2022 (*National Technical University of Athens, Greece*). [[Paper](https://arxiv.org/abs/2208.03571)][[Code (in construction)](https://github.com/psaltaath/tadn-mot)]
 * **InterTrack**: "InterTrack: Interaction Transformer for 3D Multi-Object Tracking", arXiv, 2022 (*University of Toronto*). [[Paper](https://arxiv.org/abs/2208.08041)]
+* **Strong-TransCenter**: "Strong-TransCenter: Improved Multi-Object Tracking based on Transformers with Dense Representations", arXiv, 2022 (*Tel-Aviv University*). [[Paper](https://arxiv.org/abs/2210.13570)][[PyTorch](https://github.com/amitgalor18/STC_Tracker)]
 
 [[Back to Overview](#overview)]
 
@@ -643,6 +645,7 @@ Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2204.08696)]
     * **URSCT-UIE**: "Reinforced Swin-Convs Transformer for Underwater Image Enhancement", arXiv, 2022 (*Ningbo University*). [[Paper](https://arxiv.org/abs/2205.00434)]
     * **IAT**: "Illumination Adaptive Transformer", arXiv, 2022 (*The University of Tokyo*). [[Paper](https://arxiv.org/abs/2205.14871)][[PyTorch](https://github.com/cuiziteng/Illumination-Adaptive-Transformer)]
     * **SPGAT**: "Structural Prior Guided Generative Adversarial Transformers for Low-Light Image Enhancement", arXiv, 2022 (*The Hong Kong Polytechnic University*). [[Paper](https://arxiv.org/abs/2207.07828)]
+    * **SSTF**: "End-to-end Transformer for Compressed Video Quality Enhancement", arXiv, 2022 (*Nanjing University of Information Science and Technology*). [[Paper](https://arxiv.org/abs/2210.13827)]
 * HDR:
     * **CA-ViT**: "Ghost-free High Dynamic Range Imaging with Context-aware Transformer", ECCV, 2022 (*Megvii*). [[Paper](https://arxiv.org/abs/2208.05114)][[PyTorch](https://github.com/megvii-research/HDR-Transformer)]
     * **Selective-TransHDR**: "Selective TransHDR: Transformer-Based Selective HDR Imaging Using Ghost Region Mask", ECCV, 2022 (*Sogang University, Korea*). [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/6670_ECCV_2022_paper.php)]
@@ -1154,6 +1157,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **JPerceiver**: "JPerceiver: Joint Perception Network for Depth, Pose and Layout Estimation in Driving Scenes", ECCV, 2022 (*The University of Sydney*). [[Paper](https://arxiv.org/abs/2207.07895)][[PyTorch](https://github.com/sunnyHelen/JPerceiver)]
     * **V2X-ViT**: "V2X-ViT: Vehicle-to-Everything Cooperative Perception with Vision Transformer", ECCV, 2022 (*UCLA*). [[Paper](https://arxiv.org/abs/2203.10638)]
     * **MTR**: "Motion Transformer with Global Intention Localization and Local Movement Refinement", NeurIPS, 2022 (*MPI*). [[Paper](https://arxiv.org/abs/2209.13508)][[Code (in construction)](https://github.com/sshaoshuai/MTR)]
+    * **PlanT**: "PlanT: Explainable Planning Transformers via Object-Level Representations", Conference on Robot Learning (CoRL), 2022 (*TUM*). [[Paper](https://arxiv.org/abs/2210.14222)][[PyTorch](https://github.com/autonomousvision/plant)][[Website](https://www.katrinrenz.de/plant/)]
     * **BEVSegFormer**: "BEVSegFormer: Bird's Eye View Semantic Segmentation From Arbitrary Camera Rigs", arXiv, 2022 (*Nullmax, China*). [[Paper](https://arxiv.org/abs/2203.04050)]
     * **ParkPredict+**: "ParkPredict+: Multimodal Intent and Motion Prediction for Vehicles in Parking Lots with CNN and Transformer", arXiv, 2022 (*Berkeley*). [[Paper](https://arxiv.org/abs/2204.10777)]
     * **GKT**: "Efficient and Robust 2D-to-BEV Representation Learning via Geometry-guided Kernel Transformer", arXiv, 2022 (*Huazhong University of Science and Technology*). [[Paper](https://arxiv.org/abs/2206.04584)][[Code (in construction)](https://github.com/hustvl/GKT)]
