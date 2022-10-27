@@ -202,6 +202,7 @@
 * **TADN**: "Transformer-based assignment decision network for multiple object tracking", arXiv, 2022 (*National Technical University of Athens, Greece*). [[Paper](https://arxiv.org/abs/2208.03571)][[Code (in construction)](https://github.com/psaltaath/tadn-mot)]
 * **InterTrack**: "InterTrack: Interaction Transformer for 3D Multi-Object Tracking", arXiv, 2022 (*University of Toronto*). [[Paper](https://arxiv.org/abs/2208.08041)]
 * **Strong-TransCenter**: "Strong-TransCenter: Improved Multi-Object Tracking based on Transformers with Dense Representations", arXiv, 2022 (*Tel-Aviv University*). [[Paper](https://arxiv.org/abs/2210.13570)][[PyTorch](https://github.com/amitgalor18/STC_Tracker)]
+* **MQT**: "End-to-end Tracking with a Multi-query Transformer", arXiv, 2022 (*Oxford*). [[Paper](https://arxiv.org/abs/2210.14601)]
 
 [[Back to Overview](#overview)]
 
@@ -531,6 +532,7 @@ Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2204.08696)]
 * **?**: "Visual Prompting via Image Inpainting", arXiv, 2022 (*Berkeley*). [[Paper](https://arxiv.org/abs/2209.00647)][[Website](https://yossigandelsman.github.io/visual_prompt/)]
 * **DeViT**: "DeViT: Deformed Vision Transformers in Video Inpainting", arXiv, 2022 (*Kuaishou*). [[Paper](https://arxiv.org/abs/2209.13925)]
 * **ZITS++**: "ZITS++: Image Inpainting by Improving the Incremental Transformer on Structural Priors", arXiv, 2022 (*Fudan*). [[Paper](https://arxiv.org/abs/2210.05950)]
+* **TPFNet**: "TPFNet: A Novel Text In-painting Transformer for Text Removal", arXiv, 2022 (*?*). [[Paper](https://arxiv.org/abs/2210.14461)][[Code (in construction)](https://github.com/CandleLabAI/TPFNet)]
 
 [[Back to Overview](#overview)]
 
@@ -1156,6 +1158,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **BEVFormer**: "BEVFormer: Learning Bird's-Eye-View Representation from Multi-Camera Images via Spatiotemporal Transformers", ECCV, 2022 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2203.17270)][[PyTorch](https://github.com/zhiqi-li/BEVFormer)]
     * **JPerceiver**: "JPerceiver: Joint Perception Network for Depth, Pose and Layout Estimation in Driving Scenes", ECCV, 2022 (*The University of Sydney*). [[Paper](https://arxiv.org/abs/2207.07895)][[PyTorch](https://github.com/sunnyHelen/JPerceiver)]
     * **V2X-ViT**: "V2X-ViT: Vehicle-to-Everything Cooperative Perception with Vision Transformer", ECCV, 2022 (*UCLA*). [[Paper](https://arxiv.org/abs/2203.10638)]
+    * **?**: "Can Transformer Attention Spread Give Insights Into Uncertainty of Detected and Tracked Objects?", IROSW, 2022 (*Bosch*). [[Paper](https://arxiv.org/abs/2210.14391)]
     * **MTR**: "Motion Transformer with Global Intention Localization and Local Movement Refinement", NeurIPS, 2022 (*MPI*). [[Paper](https://arxiv.org/abs/2209.13508)][[Code (in construction)](https://github.com/sshaoshuai/MTR)]
     * **PlanT**: "PlanT: Explainable Planning Transformers via Object-Level Representations", Conference on Robot Learning (CoRL), 2022 (*TUM*). [[Paper](https://arxiv.org/abs/2210.14222)][[PyTorch](https://github.com/autonomousvision/plant)][[Website](https://www.katrinrenz.de/plant/)]
     * **BEVSegFormer**: "BEVSegFormer: Bird's Eye View Semantic Segmentation From Arbitrary Camera Rigs", arXiv, 2022 (*Nullmax, China*). [[Paper](https://arxiv.org/abs/2203.04050)]
@@ -1187,6 +1190,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **SoMoFormer**: "SoMoFormer: Social-Aware Motion Transformer for Multi-Person Motion Prediction", arXiv, 2022 (*Hangzhou Dianzi University*). [[Paper](https://arxiv.org/abs/2208.09224)]
     * **ViewBirdiformer**: "ViewBirdiformer: Learning to recover ground-plane crowd trajectories and ego-motion from a single ego-centric view", arXiv, 2022 (*Kyoto University*). [[Paper](https://arxiv.org/abs/2210.06332)]
     * **PedFormer**: "PedFormer: Pedestrian Behavior Prediction via Cross-Modal Attention Modulation and Gated Multitask Learning", arXiv, 2022 (*Huawei*). [[Paper](https://arxiv.org/abs/2210.07886)]
+    * **TAMFormer**: "TAMFormer: Multi-Modal Transformer with Learned Attention Mask for Early Intent Prediction", arXiv, 2022 (*University of Padova, Italy*). [[Paper](https://arxiv.org/abs/2210.14714)]
 * Visual Counting:
     * **CC-AV**: "Audio-Visual Transformer Based Crowd Counting", ICCVW, 2021 (*University of Kansas*). [[Paper](https://arxiv.org/abs/2109.01926)]
     * **TransCrowd**: "TransCrowd: Weakly-Supervised Crowd Counting with Transformer", arXiv, 2021 (*Huazhong University of Science and Technology*). [[Paper](https://arxiv.org/abs/2104.09116)][[PyTorch](https://github.com/dk-liang/TransCrowd)]
