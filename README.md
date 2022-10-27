@@ -1040,6 +1040,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **Video-MobileFormer**: "Video Mobile-Former: Video Recognition with Efficient Global Spatial-temporal Modeling", arXiv, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2208.12257)]
     * **MAM<sup>2</sup>**: "It Takes Two: Masked Appearance-Motion Modeling for Self-supervised Video Transformer Pre-training", arXiv, 2022 (*Baidu*). [[Paper](https://arxiv.org/abs/2210.05234)]
     * **?**: "Linear Video Transformer with Feature Fixation", arXiv, 2022 (*SenseTime*). [[Paper](https://arxiv.org/abs/2210.08164)]
+    * **EVL**: "Frozen CLIP Models are Efficient Video Learners", ECCV, 2022 (*CUHK/Rutgers/Shanghai AI Laboratory/SenseTime/HPI*). [[Paper](https://arxiv.org/abs/2208.03550)] [[Code]([link](https://github.com/OpenGVLab/efficient-video-recognition))]
 * Depth:
     * **Trear**: "Trear: Transformer-based RGB-D Egocentric Action Recognition",  IEEE Transactions on Cognitive and Developmental Systems, 2021 (*Tianjing University*). [[Paper](https://ieeexplore.ieee.org/document/9312201)]
 * Pose:
