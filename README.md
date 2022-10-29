@@ -1397,6 +1397,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **OmniVL**: "OmniVL: One Foundation Model for Image-Language and Video-Language Tasks", NeurIPS, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2209.07526)]
     * **UniCLIP**: "UniCLIP: Unified Framework for Contrastive Language-Image Pre-training", NeurIPS, 2022 (*LG*). [[Paper](https://arxiv.org/abs/2209.13430)]
     * **TVLT**: "TVLT: Textless Vision-Language Transformer", NeurIPS, 2022 (*UNC*). [[Paper](https://arxiv.org/abs/2209.14156)][[PyTorch](https://github.com/zinengtang/TVLT)]
+    * **FaD-VLP**: "FaD-VLP: Fashion Vision-and-Language Pre-training towards Unified Retrieval and Captioning", EMNLP, 2022 (*Meta*). [[Paper](https://arxiv.org/abs/2210.15028)]
     * **VLMo**: "VLMo: Unified Vision-Language Pre-Training with Mixture-of-Modality-Experts", arXiv, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2111.02358)][[PyTorch (in construction)](https://github.com/microsoft/unilm/tree/master/vlmo)]
     * **Omnivore**: "Omnivore: A Single Model for Many Visual Modalities", arXiv, 2022 (*Meta*). [[Paper](https://arxiv.org/abs/2201.08377)][[PyTorch](https://github.com/facebookresearch/omnivore)]
     * **MultiMAE**: "MultiMAE: Multi-modal Multi-task Masked Autoencoders", arXiv, 2022 (*EPFL*). [[Paper](https://arxiv.org/abs/2204.01678)][[PyTorch](https://github.com/EPFL-VILAB/MultiMAE)][[Website](https://multimae.epfl.ch/)]
