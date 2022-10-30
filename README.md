@@ -676,6 +676,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **SEFormer**: "SEFormer: Structure Embedding Transformer for 3D Object Detection", arXiv, 2022 (*Tsinghua University*). [[Paper](https://arxiv.org/abs/2209.01745)]
 * **CRAFT**: "CRAFT: Camera-Radar 3D Object Detection with Spatio-Contextual Fusion Transformer", arXiv, 2022 (*KAIST*). [[Paper](https://arxiv.org/abs/2209.06535)]
 * **CrossDTR**: "CrossDTR: Cross-view and Depth-guided Transformers for 3D Object Detection", arXiv, 2022 (*NTU*). [[Paper](https://arxiv.org/abs/2209.13507)][[Code (in construction)](https://github.com/sty61010/CrossDTR)]
+* **Li3DeTr**: "Li3DeTr: A LiDAR based 3D Detection Transformer", WACV, 2023 (*University of Coimbra, Portugal*). [[Paper](https://arxiv.org/abs/2210.15365)]
 
 [[Back to Overview](#overview)]
 
@@ -990,6 +991,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **Trans4Map**: "Trans4Map: Revisiting Holistic Top-down Mapping from Egocentric Images to Allocentric Semantics with Vision Transformers", arXiv, 2022 (*Karlsruhe Institute of Technology, Germany*). [[Paper](https://arxiv.org/abs/2207.06205)]
 * Open-World/Vocabulary:
     * **ViL-Seg**: "Open-world Semantic Segmentation via Contrasting and Clustering Vision-Language Embedding", ECCV, 2022 (*CUHK*). [[Paper](https://arxiv.org/abs/2207.08455)]
+    * **Fusioner**: "Open-vocabulary Semantic Segmentation with Frozen Vision-Language Models", BMVC, 2022 (*Shanghai Jiao Tong University*). [[Paper](https://arxiv.org/abs/2210.15138)][[Website](https://yyh-rain-song.github.io/Fusioner_webpage/)]
     * **OVSeg**: "Open-Vocabulary Semantic Segmentation with Mask-adapted CLIP", arXiv, 2022 (*Meta*). [[Paper](https://arxiv.org/abs/2210.04150)][[Website](https://jeff-liangf.github.io/projects/ovseg/)]
 * Applications:
     * **FloodTransformer**: "Transformer-based Flood Scene Segmentation for Developing Countries", NeurIPSW, 2022 (*BITS Pilani, India*). [[Paper](https://arxiv.org/abs/2210.04218)]
@@ -1659,6 +1661,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **?**: "Learning Audio-Video Modalities from Image Captions", ECCV, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2204.00679)]
     * **AVSBench**: "Audio-Visual Segmentation", ECCV, 2022 (*SenseTime*). [[Paper](https://arxiv.org/abs/2207.05042)][[PyTorch](https://github.com/OpenNLPLab/AVSBench)][[Website](https://opennlplab.github.io/AVSBench/)]
     * **AVA-Memory**: "Audio-Visual Mismatch-Aware Video Retrieval via Association and Adjustment", ECCV, 2022 (*KAIST*). [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/5034_ECCV_2022_paper.php)]
+    * **MTD**: "Multimodal Transformer Distillation for Audio-Visual Synchronization", arXiv, 2022 (*NTU*). [[Paper](https://arxiv.org/abs/2210.15563)]
     * **AVE-CLIP**: "AVE-CLIP: AudioCLIP-based Multi-window Temporal Transformer for Audio Visual Event Localization", WACV, 2023 (*UT Austin*). [[Paper](https://arxiv.org/abs/2210.05060)]
 * Sentiment Analysis:
     * **CubeMLP**: "CubeMLP: A MLP-based Model for Multimodal Sentiment Analysis and Depression Estimation", ACMMM, 2022 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2207.14087)]
