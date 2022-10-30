@@ -203,6 +203,7 @@
 * **InterTrack**: "InterTrack: Interaction Transformer for 3D Multi-Object Tracking", arXiv, 2022 (*University of Toronto*). [[Paper](https://arxiv.org/abs/2208.08041)]
 * **Strong-TransCenter**: "Strong-TransCenter: Improved Multi-Object Tracking based on Transformers with Dense Representations", arXiv, 2022 (*Tel-Aviv University*). [[Paper](https://arxiv.org/abs/2210.13570)][[PyTorch](https://github.com/amitgalor18/STC_Tracker)]
 * **MQT**: "End-to-end Tracking with a Multi-query Transformer", arXiv, 2022 (*Oxford*). [[Paper](https://arxiv.org/abs/2210.14601)]
+* **ProContEXT**: "ProContEXT: Exploring Progressive Context Transformer for Tracking", arXiv, 2022 (*Alibaba*). [[Paper](https://arxiv.org/abs/2210.15511)]
 
 [[Back to Overview](#overview)]
 
@@ -999,6 +1000,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **FashionViL**: "FashionViL: Fashion-Focused Vision-and-Language Representation Learning", ECCV, 2022 (*University of Surrey, UK*). [[Paper](https://arxiv.org/abs/2207.08150)][[PyTorch](https://github.com/BrandonHanx/mmf)]
     * **OutfitTransformer**: "OutfitTransformer: Learning Outfit Representations for Fashion Recommendation", arXiv, 2022 (*Amazon*). [[Paper](https://arxiv.org/abs/2204.04812)]
     * **Fashionformer**: "Fashionformer: A simple, Effective and Unified Baseline for Human Fashion Segmentation and Recognition", ECCV, 2022 (*Peking*). [[Paper](https://arxiv.org/abs/2204.04654)][[PyTorch](https://github.com/xushilin1/FashionFormer)]
+    * **MVLT**: "Masked Vision-Language Transformer in Fashion", Machine Intelligence Research, 2023 (*Alibaba*). [[Paper](https://arxiv.org/abs/2210.15110)][[PyTorch](https://github.com/GewelsJI/MVLT)]
 * Feature Matching:
     * **SuperGlue**: "SuperGlue: Learning Feature Matching with Graph Neural Networks", CVPR, 2020 (*Magic Leap*). [[Paper](https://arxiv.org/abs/1911.11763)][[PyTorch](https://github.com/magicleap/SuperGluePretrainedNetwork)]
     * **LoFTR**: "LoFTR: Detector-Free Local Feature Matching with Transformers", CVPR, 2021 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2104.00680)][[PyTorch](https://github.com/zju3dv/LoFTR)][[Website](https://zju3dv.github.io/loftr/)]
@@ -1153,6 +1155,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **?**: "Translating Images into Maps", ICRA, 2022 (*University of Surrey, UK*). [[Paper](https://arxiv.org/abs/2110.00966)][[PyTorch (in construction)](https://github.com/avishkarsaha/translating-images-into-maps)]
     * **Crossview-Transformer**: "Cross-view Transformers for real-time Map-view Semantic Segmentation", CVPR, 2022 (*UT Austin*). [[Paper](https://arxiv.org/abs/2205.02833)][[PyTorch](https://github.com/bradyz/cross_view_transformers)]
     * **ViT-BEVSeg**: "ViT-BEVSeg: A Hierarchical Transformer Network for Monocular Birds-Eye-View Segmentation", IJCNN, 2022 (*Maynooth University, Ireland*). [[Paper](https://arxiv.org/abs/2205.15667)][[Code (in construction)](https://github.com/robotvisionmu/ViT-BEVSeg)]
+    * **MSF3DDETR**: "MSF3DDETR: Multi-Sensor Fusion 3D Detection Transformer for Autonomous Driving", ICPRW, 2022 (*University of Coimbra, Portugal*). [[Paper](https://arxiv.org/abs/2210.15316)]
     * **TransLPC**: "Transformers for Object Detection in Large Point Clouds", ITSC, 2022 (*Bosch*). [[Paper](https://arxiv.org/abs/2209.15258)]
     * **PicT**: "PicT: A Slim Weakly Supervised Vision Transformer for Pavement Distress Classification", ACMMM, 2022 (*Chongqing University*). [[Paper](https://arxiv.org/abs/2209.10074)][[PyTorch (in construction)](https://github.com/DearCaat/PicT)]
     * **BEVFormer**: "BEVFormer: Learning Bird's-Eye-View Representation from Multi-Camera Images via Spatiotemporal Transformers", ECCV, 2022 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2203.17270)][[PyTorch](https://github.com/zhiqi-li/BEVFormer)]
