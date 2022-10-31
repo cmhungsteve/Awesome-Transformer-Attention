@@ -394,6 +394,8 @@ Feel free to share this list with others!
 * **mc-BEiT**: "mc-BEiT: Multi-Choice Discretization for Image BERT Pre-training", ECCV, 2022 (*Peking University*). [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/1197_ECCV_2022_paper.php)]
 * **SL2O**: "Scalable Learning to Optimize: A Learned Optimizer Can Train Big Models", ECCV, 2022 (*UT Austin*). [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/2909_ECCV_2022_paper.php)][[PyTorch](https://github.com/VITA-Group/Scalable-L2O)]
 * **TokenMixup**: "TokenMixup: Efficient Attention-guided Token-level Data Augmentation for Transformers", NeurIPS, 2022 (*Korea University*). [[Paper](https://arxiv.org/abs/2210.07562)][[Code (in construction)](https://github.com/mlvlab/TokenMixup)]
+* **PatchRot**: "PatchRot: A Self-Supervised Technique for Training Vision Transformers", NeurIPSW, 2022 (*Arizona State University*). [[Paper](https://arxiv.org/abs/2210.15722)]
+* **DP-CutMix**: "Differentially Private CutMix for Split Learning with Vision Transformer", NeurIPSW, 2022 (*Yonsei University*). [[Paper](https://arxiv.org/abs/2210.15986)]
 * **?**: "How to train your ViT? Data, Augmentation, and Regularization in Vision Transformers", Transactions on Machine Learning Research (TMLR), 2022 (*Google*). [[Paper](https://openreview.net/forum?id=4nPswr1KcP)][[Tensorflow](https://github.com/google-research/vision_transformer)][[PyTorch (rwightman)](https://github.com/rwightman/pytorch-image-models)]
 * **PeCo**: "PeCo: Perceptual Codebook for BERT Pre-training of Vision Transformers", arXiv, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2111.12710)]
 * **RePre**: "RePre: Improving Self-Supervised Vision Transformer with Reconstructive Pre-training", arXiv, 2022 (*Beijing University of Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2201.06857)]
@@ -1607,6 +1609,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **VLT**: "Vision-Language Transformer and Query Generation for Referring Segmentation", ICCV, 2021 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2108.05565)][[Tensorflow](https://github.com/henghuiding/Vision-Language-Transformer)]
     * **LAVT**: "LAVT: Language-Aware Vision Transformer for Referring Image Segmentation", CVPR, 2022 (*Oxford*). [[Paper](https://arxiv.org/abs/2112.02244)]
     * **ReSTR**: "ReSTR: Convolution-free Referring Image Segmentation Using Transformers", CVPR, 2022 (*POSTECH*). [[Paper](https://arxiv.org/abs/2203.16768)][[Website](http://cvlab.postech.ac.kr/research/restr/)]
+    * **VLT**: "VLT: Vision-Language Transformer and Query Generation for Referring Segmentation", TPAMI, 2022 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2210.15871)]
 * Tracking:
     * **ModaMixer**: "Divert More Attention to Vision-Language Tracking", arXiv, 2022 (*Beijing Jiaotong University*). [[Paper](https://arxiv.org/abs/2207.01076)][[PyTorch](https://github.com/JudasDie/SOTS)]
 * Analysis:
@@ -1663,6 +1666,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **?**: "Learning Audio-Video Modalities from Image Captions", ECCV, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2204.00679)]
     * **AVSBench**: "Audio-Visual Segmentation", ECCV, 2022 (*SenseTime*). [[Paper](https://arxiv.org/abs/2207.05042)][[PyTorch](https://github.com/OpenNLPLab/AVSBench)][[Website](https://opennlplab.github.io/AVSBench/)]
     * **AVA-Memory**: "Audio-Visual Mismatch-Aware Video Retrieval via Association and Adjustment", ECCV, 2022 (*KAIST*). [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/5034_ECCV_2022_paper.php)]
+    * **PC-VAE**: "Multimodal Transformer for Parallel Concatenated Variational Autoencoders", NeurIPSW, 2022 (*USC*). [[Paper](https://arxiv.org/abs/2210.16174)]
     * **MTD**: "Multimodal Transformer Distillation for Audio-Visual Synchronization", arXiv, 2022 (*NTU*). [[Paper](https://arxiv.org/abs/2210.15563)]
     * **AVE-CLIP**: "AVE-CLIP: AudioCLIP-based Multi-window Temporal Transformer for Audio Visual Event Localization", WACV, 2023 (*UT Austin*). [[Paper](https://arxiv.org/abs/2210.05060)]
 * Sentiment Analysis:
