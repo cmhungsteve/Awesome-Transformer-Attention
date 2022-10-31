@@ -247,6 +247,7 @@ Feel free to share this list with others!
 * **MAFormer**: "MAFormer: A Transformer Network with Multi-scale Attention Fusion for Visual Recognition", arXiv, 2022 (*Baidu*). [[Paper](https://arxiv.org/abs/2209.01620)]
 * **AEWin**: "Axially Expanded Windows for Local-Global Interaction in Vision Transformers", arXiv, 2022 (*Southwest Jiaotong University*). [[Paper](https://arxiv.org/abs/2209.08726)]
 * **MAGNETO**: "Foundation Transformers", arXiv, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2210.06423)]
+* **GrafT**: "Grafting Vision Transformers", arXiv, 2022 (*Stony Brook*). [[Paper](https://arxiv.org/abs/2210.15943)]
 #### Efficient Vision Transformer
 * **DeiT**: "Training data-efficient image transformers & distillation through attention", ICML, 2021 (*Facebook*). [[Paper](https://arxiv.org/abs/2012.12877)][[PyTorch](https://github.com/facebookresearch/deit)]
 * **ConViT**: "ConViT: Improving Vision Transformers with Soft Convolutional Inductive Biases", ICML, 2021 (*Facebook*). [[Paper](https://arxiv.org/abs/2103.10697)][[Code](https://github.com/facebookresearch/convit)]
@@ -731,6 +732,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **DTMINet**: "Dual Swin-Transformer based Mutual Interactive Network for RGB-D Salient Object Detection", arXiv, 2022 (*CUHK*). [[Paper](https://arxiv.org/abs/2206.03105)]
 * **MCNet**: "Mirror Complementary Transformer Network for RGB-thermal Salient Object Detection", arXiv, 2022 (*Beijing University of Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2207.03558)][[PyTorch](https://github.com/jxr326/SwinMCNet)]
 * **SiaTrans**: "SiaTrans: Siamese Transformer Network for RGB-D Salient Object Detection with Depth Image Classification", arXiv, 2022 (*Shandong University of Science and Technology*). [[Paper](https://arxiv.org/abs/2207.04224)]
+* **PSFormer**: "PSFormer: Point Transformer for 3D Salient Object Detection", arXiv, 2022 (*Nanjing University of Aeronautics and Astronautics*). [[Paper](https://arxiv.org/abs/2210.15933)]
 
 [[Back to Overview](#overview)]
 
