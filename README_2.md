@@ -483,6 +483,7 @@ Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2204.08696)]
 * **ART**: "Accurate Image Restoration with Attention Retractable Transformer", arXiv, 2022 (*Shanghai Jiao Tong University*). [[Paper](https://arxiv.org/abs/2210.01427)][[PyTorch](https://github.com/gladzhang/ART)]
 * **LMQFormer**: "LMQFormer: A Laplace-Prior-Guided Mask Query Transformer for Lightweight Snow Removal", arXiv, 2022 (*Fuzhou University*). [[Paper](https://arxiv.org/abs/2210.04787)]
 * **ITSRN++**: "ITSRN++: Stronger and Better Implicit Transformer Network for Continuous Screen Content Image Super-Resolution", arXiv, 2022 (*Tianjin University*). [[Paper](https://arxiv.org/abs/2210.08812)]
+* **Semi-UFormer**: "Semi-UFormer: Semi-supervised Uncertainty-aware Transformer for Image Dehazing", arXiv, 2022 (*Nanjing University of Aeronautics and Astronautics*). [[Paper](https://arxiv.org/abs/2210.16057)]
 
 [[Back to Overview](#overview)]
 
@@ -1232,6 +1233,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **ActFormer**: "ActFormer: A GAN Transformer Framework towards General Action-Conditioned 3D Human Motion Generation", arXiv, 2022 (*SenseTime*). [[Paper](https://arxiv.org/abs/2203.07706)]
     * **?**: "Diverse Dance Synthesis via Keyframes with Transformer Controllers", arXiv, 2022 (*Beihang University*). [[Paper](https://arxiv.org/abs/2207.05906)]
     * **MARIONET**: "NEURAL MARIONETTE: A Transformer-based Multi-action Human Motion Synthesis System", arXiv, 2022 (*Wuhan University*). [[Paper](https://arxiv.org/abs/2209.13204)]
+    * **OhMG**: "OhMG: Zero-shot Open-vocabulary Human Motion Generation", arXiv, 2022 (*Sun Yat-Sen University*). [[Paper](https://arxiv.org/abs/2210.15929)]
 * 3D Object Recognition:
     * **MVT**: "MVT: Multi-view Vision Transformer for 3D Object Recognition", BMVC, 2021 (*Baidu*). [[Paper](https://arxiv.org/abs/2110.13083)]
 * 3D Reconstruction:
