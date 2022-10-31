@@ -1256,6 +1256,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **?**: "Strong Gravitational Lensing Parameter Estimation with Vision Transformer", ECCVW, 2022 (*CMU*). [[Paper](https://arxiv.org/abs/2210.04143)][[PyTorch](https://github.com/kuanweih/strong_lensing_vit_resnet)]
     * **Transformer-DR**: "Transformer-based dimensionality reduction", arXiv, 2022 (*Chongqing Normal University, China*). [[Paper](https://arxiv.org/abs/2210.08288)]
     * **?**: "mm-Wave Radar Hand Shape Classification Using Deformable Transformers", arXiv, 2022 (*Intel*). [[Paper](https://arxiv.org/abs/2210.13079)]
+    * **?**: "Fully-attentive and interpretable: vision and video vision transformers for pain detection", NeurIPSW, 2022 (*Utrecht University, Netherlands*). [[Paper](https://arxiv.org/abs/2210.15769)][[Code (in construction)](https://github.com/IPDTFE/ViT-McMaster)]
 
 [[Back to Overview](#overview)]
 
