@@ -96,8 +96,7 @@
 [[Back to Overview](#overview)]
 
 ### Pose Estimation
-* Human-related: 
-    * **Hand-Transformer**: "Hand-Transformer: Non-Autoregressive Structured Modeling for 3D Hand Pose Estimation", ECCV, 2020 (*Kwai*). [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/4836_ECCV_2020_paper.php)]
+* Human-body: 
     * **HOT-Net**: "HOT-Net: Non-Autoregressive Transformer for 3D Hand-Object Pose Estimation", ACMMM. 2020 (*Kwai*). [[Paper](https://cse.buffalo.edu/~jmeng2/publications/hotnet_mm20)]
     * **TransPose**: "TransPose: Towards Explainable Human Pose Estimation by Transformer", arXiv, 2020 (*Southeast University*). [[Paper](https://arxiv.org/abs/2012.14214)][[PyTorch](https://github.com/yangsenius/TransPose)]
     * **PTF**: "Locally Aware Piecewise Transformation Fields for 3D Human Mesh Registration", CVPR, 2021 (*ETHZ*). [[Paper](https://arxiv.org/abs/2104.08160)][[Code (in construction)](https://github.com/taconite/PTF)][[Website](https://taconite.github.io/PTF/website/PTF.html)]
@@ -107,7 +106,6 @@
     * **THUNDR**: "THUNDR: Transformer-based 3D HUmaN Reconstruction with Markers", ICCV, 2021 (*Google*). [[Paper](https://arxiv.org/abs/2106.09336)]
     * **PoseFormer**: "3D Human Pose Estimation with Spatial and Temporal Transformers", ICCV, 2021 (*UNC*). [[Paper](https://arxiv.org/abs/2103.10455)][[PyTorch](https://github.com/zczcwh/PoseFormer)]
     * **TransPose**: "TransPose: Keypoint Localization via Transformer", ICCV, 2021 (*Southeast University, China*). [[Paper](https://arxiv.org/abs/2012.14214)][[PyTorch](https://github.com/yangsenius/TransPose)]
-    * **SCAT**: "SCAT: Stride Consistency With Auto-Regressive Regressor and Transformer for Hand Pose Estimation", ICCVW, 2021 (*Alibaba*). [[Paper](https://openaccess.thecvf.com/content/ICCV2021W/SoMoF/html/Gao_SCAT_Stride_Consistency_With_Auto-Regressive_Regressor_and_Transformer_for_Hand_ICCVW_2021_paper.html)]
     * **POTR**: "Pose Transformers (POTR): Human Motion Prediction With Non-Autoregressive Transformers", ICCVW, 2021 (*Idiap*). [[Paper](https://openaccess.thecvf.com/content/ICCV2021W/SoMoF/html/Martinez-Gonzalez_Pose_Transformers_POTR_Human_Motion_Prediction_With_Non-Autoregressive_Transformers_ICCVW_2021_paper.html)]
     * **TransFusion**: "TransFusion: Cross-view Fusion with Transformer for 3D Human Pose Estimation", BMVC, 2021 (*UC Irvine*). [[Paper](https://arxiv.org/abs/2110.09554)][[PyTorch](https://github.com/HowieMa/TransFusion-Pose)]
     * **HRT**: "HRFormer: High-Resolution Transformer for Dense Prediction", NeurIPS, 2021 (*CAS*). [[Paper](https://arxiv.org/abs/2110.09408)][[PyTorch](https://github.com/HRNet/HRFormer)]
@@ -140,7 +138,6 @@
     * **ViTPose**: "ViTPose: Simple Vision Transformer Baselines for Human Pose Estimation", arXiv, 2022 (*The University of Sydney*). [[Paper](https://arxiv.org/abs/2204.12484)][[PyTorch](https://github.com/ViTAE-Transformer/ViTPose)]
     * **VTP**: "VTP: Volumetric Transformer for Multi-view Multi-person 3D Pose Estimation", arXiv, 2022 (*Hangzhou Dianzi University*). [[Paper](https://arxiv.org/abs/2205.12602)]
     * **HeatER**: "HeatER: An Efficient and Unified Network for Human Reconstruction via Heatmap-based TransformER", arXiv, 2022 (*UCF*). [[Paper](https://arxiv.org/abs/2205.15448)]
-    * **SeTHPose**: "Learning Sequential Contexts using Transformer for 3D Hand Pose Estimation", arXiv, 2022 (*Queen's University, Canada*). [[Paper](https://arxiv.org/abs/2206.00171)]
     * **GraphMLP**: "GraphMLP: A Graph MLP-Like Architecture for 3D Human Pose Estimation", arXiv, 2022 (*Peking University*). [[Paper](https://arxiv.org/abs/2206.06420)]
     * **siMLPe**: "Back to MLP: A Simple Baseline for Human Motion Prediction", arXiv, 2022 (*INRIA*). [[Paper](https://arxiv.org/abs/2207.01567)][[Pytorch](https://github.com/dulucas/siMLPe)]
     * **Snipper**: "Snipper: A Spatiotemporal Transformer for Simultaneous Multi-Person 3D Pose Estimation Tracking and Forecasting on a Video Snippet", arXiv, 2022 (*University of Alberta, Canada*). [[Paper](https://arxiv.org/abs/2207.04320)][[PyTorch](https://github.com/JimmyZou/Snipper)]
@@ -149,8 +146,13 @@
     * **KOG-Transformer**: "K-Order Graph-oriented Transformer with GraAttention for 3D Pose and Shape Estimation", arXiv, 2022 (*CAS*). [[Paper](https://arxiv.org/abs/2208.11328)]
     * **SoMoFormer**: "SoMoFormer: Multi-Person Pose Forecasting with Transformers", arXiv, 2022 (*Stanford*). [[Paper](https://arxiv.org/abs/2208.14023)]
     * **DPIT**: "DPIT: Dual-Pipeline Integrated Transformer for Human Pose Estimation", arXiv, 2022 (*Shanghai University*). [[Paper](https://arxiv.org/abs/2209.02431)]
-    * **HTT**: "Hierarchical Temporal Transformer for 3D Hand Pose Estimation and Action Recognition from Egocentric RGB Videos", arXiv, 2022 (*HKU*). [[Paper](https://arxiv.org/abs/2209.09484)]
     * **Uplift-Upsample**: "Uplift and Upsample: Efficient 3D Human Pose Estimation with Uplifting Transformers", WACV, 2023 (*University of Augsburg, Germany*). [[Paper](https://arxiv.org/abs/2210.06110)][[Tensorflow](https://github.com/goldbricklemon/uplift-upsample-3dhpe)]
+* Hands:
+    * **Hand-Transformer**: "Hand-Transformer: Non-Autoregressive Structured Modeling for 3D Hand Pose Estimation", ECCV, 2020 (*Kwai*). [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/4836_ECCV_2020_paper.php)]
+    * **SCAT**: "SCAT: Stride Consistency With Auto-Regressive Regressor and Transformer for Hand Pose Estimation", ICCVW, 2021 (*Alibaba*). [[Paper](https://openaccess.thecvf.com/content/ICCV2021W/SoMoF/html/Gao_SCAT_Stride_Consistency_With_Auto-Regressive_Regressor_and_Transformer_for_Hand_ICCVW_2021_paper.html)]
+    * **SeTHPose**: "Learning Sequential Contexts using Transformer for 3D Hand Pose Estimation", arXiv, 2022 (*Queen's University, Canada*). [[Paper](https://arxiv.org/abs/2206.00171)]
+    * **HTT**: "Hierarchical Temporal Transformer for 3D Hand Pose Estimation and Action Recognition from Egocentric RGB Videos", arXiv, 2022 (*HKU*). [[Paper](https://arxiv.org/abs/2209.09484)]
+    * **?**: "Image-free Domain Generalization via CLIP for 3D Hand Pose Estimation", arXiv, 2022 (*UNIST, Korea*). [[Paper](https://arxiv.org/abs/2210.16788)]
 * Others:
     * **TAPE**: "Transformer Guided Geometry Model for Flow-Based Unsupervised Visual Odometry", arXiv, 2020 (*Tianjing University*). [[Paper](https://arxiv.org/abs/2101.02143)]
     * **T6D-Direct**: "T6D-Direct: Transformers for Multi-Object 6D Pose Direct Regression", GCPR, 2021 (*University of Bonn*). [[Paper](https://arxiv.org/abs/2109.10948)]
@@ -398,7 +400,7 @@
     * **?**: "Towards Exemplar-Free Continual Learning in Vision Transformers: an Account of Attention, Functional and Weight Regularization", CVPRW, 2022 (*Ca' Foscari University, Italy*). [[Paper](https://arxiv.org/abs/2203.13167)]
     * **DualPrompt**: "DualPrompt: Complementary Prompting for Rehearsal-free Continual Learning", ECCV, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2204.04799)][[Tensorflow](https://github.com/google-research/l2p)]
     * **CVT**: "Online Continual Learning with Contrastive Vision Transformer", ECCV, 2022 (*The University of Sydney*). [[Paper](https://arxiv.org/abs/2207.13516)]
-    * **IncCLIP**: "Generative Negative Text Replay for Continual Vision-Language Pretraining", ECCV, 2022 (*ShanghaiTech*). [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/1693_ECCV_2022_paper.php)]
+    * **IncCLIP**: "Generative Negative Text Replay for Continual Vision-Language Pretraining", ECCV, 2022 (*ShanghaiTech*). [[Paper](https://arxiv.org/abs/2210.17322)]
     * **COLT**: "Transformers Are Better Continual Learners", arXiv, 2022 (*Hikvision*). [[Paper](https://arxiv.org/abs/2201.04924)]
     * **S-Prompts**: "S-Prompts Learning with Pre-trained Transformers: An Occam's Razor for Domain Incremental Learning", arXiv, 2022 (*Singapore Management University*). [[Paper](https://arxiv.org/abs/2207.12819)]
     * **D<sup>3</sup>Former**: "D<sup>3</sup>Former: Debiased Dual Distilled Transformer for Incremental Learning", arXiv, 2022 (*MBZUAI*). [[Paper](https://arxiv.org/abs/2208.00777)][[PyTorch](https://github.com/abdohelmy/D-3Former)]
