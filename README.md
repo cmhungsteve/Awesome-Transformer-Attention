@@ -765,6 +765,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **OV-DETR**: "Open-Vocabulary DETR with Conditional Matching", ECCV, 2022 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2203.11876)]
     * **VL-PLM**: "Exploiting Unlabeled Data with Vision and Language Models for Object Detection", ECCV, 2022 (*Rutgers University*). [[Paper](https://arxiv.org/abs/2207.08954)][[PyTorch](https://github.com/xiaofeng94/VL-PLM)][[Website](https://www.nec-labs.com/~mas/VL-PLM/)]
     * **DetCLIP**: "DetCLIP: Dictionary-Enriched Visual-Concept Paralleled Pre-training for Open-world Detection", NeurIPS, 2022 (*HKUST*). [[Paper](https://arxiv.org/abs/2209.09407)]
+    * **P<sup>3</sup>OVD**: "P<sup>3</sup>OVD: Fine-grained Visual-Text Prompt-Driven Self-Training for Open-Vocabulary Object Detection", arXiv, 2022 (*Sun Yat-sen University*). [[Paper](https://arxiv.org/abs/2211.00849)]
 * Pedestrian Detection:
     * **PED**: "DETR for Crowd Pedestrian Detection", arXiv, 2020 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2012.06785)][[PyTorch](https://github.com/Hatmm/PED-DETR-for-Pedestrian-Detection)]
     * **Pedestron**: "Pedestrian Detection: Domain Generalization, CNNs, Transformers and Beyond", arXiv, 2022 (*IIAI*). [[Paper](https://arxiv.org/abs/2201.03176)][[PyTorch](https://github.com/hasanirtiza/Pedestron)]
@@ -813,7 +814,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **TransVisDrone**: "TransVisDrone: Spatio-Temporal Transformer for Vision-based Drone-to-Drone Detection in Aerial Videos", arXiv, 2022 (*UCF*). [[Paper](https://arxiv.org/abs/2210.08423)][[Code (in construction)](https://github.com/tusharsangam/TransVisDrone)]
 * Infrared:
     * **?**: "Infrared Small-Dim Target Detection with Transformer under Complex Backgrounds", arXiv, 2021 (*Chongqing University of Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2109.14379)]
-* Text:
+* Text Detection:
     * **SwinTextSpotter**: "SwinTextSpotter: Scene Text Spotting via Better Synergy between Text Detection and Text Recognition", CVPR, 2022 (*South China University of Technology*). [[Paper](https://arxiv.org/abs/2203.10209)][[PyTorch](https://github.com/mxin262/SwinTextSpotter)]
     * **TESTR**: "Text Spotting Transformers", CVPR, 2022 (*UCSD*). [[Paper](https://arxiv.org/abs/2204.01918)][[PyTorch](https://github.com/mlpc-ucsd/TESTR)]
     * **TTS**: "Towards Weakly-Supervised Text Spotting using a Multi-Task Transformer", CVPR, 2022 (*Amazon*). [[Paper](https://arxiv.org/abs/2202.05508)]
@@ -1450,6 +1451,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **EfficientVLM**: "EfficientVLM: Fast and Accurate Vision-Language Models via Knowledge Distillation and Modal-adaptive Pruning", arXiv, 2022 (*Bytedance*). [[Paper](https://arxiv.org/abs/2210.07795)][[PyTorch (in construction)](https://github.com/swaggy-TN/EfficientVLM)]
     * **xCLIP**: "Non-Contrastive Learning Meets Language-Image Pre-Training", arXiv, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2210.09304)]
     * **WFH**: "Learning by Hallucinating: Vision-Language Pre-training with Weak Supervision", WACV, 2023 (*Aalto University, Finland*). [[Paper](https://arxiv.org/abs/2210.13591)]
+    * **CN-CLIP**: "Chinese CLIP: Contrastive Vision-Language Pretraining in Chinese", arXiv, 2022 (*Alibaba*). [[Paper](https://arxiv.org/abs/2211.01335)]
 * Video:
     * **COOT**: "COOT: Cooperative Hierarchical Transformer for Video-Text Representation Learning", NeurIPS, 2020 (*University of Freiburg*). [[Paper](https://arxiv.org/abs/2011.00597)][[PyTorch](https://github.com/gingsi/coot-videotext)]
     * **Parameter-Reduction**: "Parameter Efficient Multimodal Transformers for Video Representation Learning", ICLR, 2021 (*Seoul National University*). [[Paper](https://openreview.net/forum?id=6UdQLhqJyFD)]
@@ -1547,6 +1549,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **UniTune**: "UniTune: Text-Driven Image Editing by Fine Tuning an Image Generation Model on a Single Image", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2210.09477)]
     * **VSD**: "Visual Spatial Description: Controlled Spatial-Oriented Image-to-Text Generation", arXiv, 2022 (*Tianjin University*). [[Paper](https://arxiv.org/abs/2210.11109)][[Code (in construction)](https://github.com/zhaoyucs/VSD)]
     * **Lafite2**: "Lafite2: Few-shot Text-to-Image Generation", arXiv, 2022 (*SUNY, Buffalo*). [[Paper](https://arxiv.org/abs/2210.14124)]
+    * **eDiffi**: "eDiffi: Text-to-Image Diffusion Models with an Ensemble of Expert Denoisers", arXiv, 2022 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2211.01324)][[Website](https://deepimagination.cc/eDiffi/)]
 * Video:
     * **CogVideo**: "CogVideo: Large-scale Pretraining for Text-to-Video Generation via Transformers", arXiv, 2022 (*Tsinghua University*) [[Paper](https://arxiv.org/abs/2205.15868)][[GitHub (in construction)](https://github.com/THUDM/CogVideo)]
     * **Make-A-Video**: "Make-A-Video: Text-to-Video Generation without Text-Video Data", arXiv, 2022 (*Meta*). [[Paper](https://arxiv.org/abs/2209.14792)]
