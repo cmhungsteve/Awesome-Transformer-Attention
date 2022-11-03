@@ -384,7 +384,7 @@
     * **CPM**: "Compound Prototype Matching for Few-shot Action Recognition", ECCV, 2022 (*The University of Tokyo*). [[Paper](https://arxiv.org/abs/2207.05515)]
     * **SUN**: "Self-Promoted Supervision for Few-Shot Transformer", ECCV, 2022 (*Harbin Institute of Technology + NUS*). [[Paper](https://arxiv.org/abs/2203.07057)][[PyTorch](https://github.com/DongSky/few-shot-vit)]
     * **Tip-Adapter**: "Tip-Adapter: Training-free Adaption of CLIP for Few-shot Classification", ECCV, 2022 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2207.09519)][[PyTorch](https://github.com/gaopengcuhk/Tip-Adapter)]
-    * **tSF**: "tSF: Transformer-Based Semantic Filter for Few-Shot Learning", ECCV, 2022 (*Tencent*). [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/2494_ECCV_2022_paper.php)]
+    * **tSF**: "tSF: Transformer-Based Semantic Filter for Few-Shot Learning", ECCV, 2022 (*Tencent*). [[Paper](https://arxiv.org/abs/2211.00868)]
     * **TransVLAD**: "TransVLAD: Focusing on Locally Aggregated Descriptors for Few-Shot Learning", ECCV, 2022 (*Southern University of Science and Technology, China*). [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/7722_ECCV_2022_paper.php)]
     * **BaseTransformers**: "BaseTransformers: Attention over base data-points for One Shot Learning", BMVC, 2022 (*Dublin City University, Ireland*). [[Paper](https://arxiv.org/abs/2210.02476)][[PyTorch](https://github.com/mayug/BaseTransformers)]
     * **FPTrans**: "Feature-Proxy Transformer for Few-Shot Segmentation", NeurIPS, 2022 (*Baidu*). [[Paper](https://arxiv.org/abs/2210.06908)][[Code (in construction)](https://github.com/Jarvis73/FPTrans)]
@@ -486,6 +486,7 @@ Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2204.08696)]
 * **LMQFormer**: "LMQFormer: A Laplace-Prior-Guided Mask Query Transformer for Lightweight Snow Removal", arXiv, 2022 (*Fuzhou University*). [[Paper](https://arxiv.org/abs/2210.04787)]
 * **ITSRN++**: "ITSRN++: Stronger and Better Implicit Transformer Network for Continuous Screen Content Image Super-Resolution", arXiv, 2022 (*Tianjin University*). [[Paper](https://arxiv.org/abs/2210.08812)]
 * **Semi-UFormer**: "Semi-UFormer: Semi-supervised Uncertainty-aware Transformer for Image Dehazing", arXiv, 2022 (*Nanjing University of Aeronautics and Astronautics*). [[Paper](https://arxiv.org/abs/2210.16057)]
+* **WITT**: "WITT: A Wireless Image Transmission Transformer for Semantic Communications", arXiv, 2022 (*Beijing University of Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2211.00937)][[Code (in construction)](https://github.com/KeYang8/WITT)]
 
 [[Back to Overview](#overview)]
 
