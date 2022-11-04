@@ -248,6 +248,8 @@ Feel free to share this list with others!
 * **AEWin**: "Axially Expanded Windows for Local-Global Interaction in Vision Transformers", arXiv, 2022 (*Southwest Jiaotong University*). [[Paper](https://arxiv.org/abs/2209.08726)]
 * **MAGNETO**: "Foundation Transformers", arXiv, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2210.06423)]
 * **GrafT**: "Grafting Vision Transformers", arXiv, 2022 (*Stony Brook*). [[Paper](https://arxiv.org/abs/2210.15943)]
+* **?**: "Rethinking Hierarchicies in Pre-trained Plain Vision Transformer", arXiv, 2022 (*The University of Sydney*). [[Paper](https://arxiv.org/abs/2211.01785)]
+* **LTH-ViT**: "The Lottery Ticket Hypothesis for Vision Transformers", arXiv, 2022 (*Northeastern University, China*). [[Paper](https://arxiv.org/abs/2211.01484)]
 #### Efficient Vision Transformer
 * **DeiT**: "Training data-efficient image transformers & distillation through attention", ICML, 2021 (*Facebook*). [[Paper](https://arxiv.org/abs/2012.12877)][[PyTorch](https://github.com/facebookresearch/deit)]
 * **ConViT**: "ConViT: Improving Vision Transformers with Soft Convolutional Inductive Biases", ICML, 2021 (*Facebook*). [[Paper](https://arxiv.org/abs/2103.10697)][[Code](https://github.com/facebookresearch/convit)]
@@ -628,6 +630,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **ComplETR**: "ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers", arXiv, 2022 (*Amazon*). [[Paper](https://arxiv.org/abs/2209.05654)]
     * **Obj2Seq**: "Obj2Seq: Formatting Objects as Sequences with Class Prompt for Visual Tasks", arXiv, 2022 (*CAS*). [[Paper](https://arxiv.org/abs/2209.13948)][[PyTorch](https://github.com/CASIA-IVA-Lab/Obj2Seq)]
     * **Pair-DETR**: "Pair DETR: Contrastive Learning Speeds Up DETR Training", arXiv, 2022 (*Amazon*). [[Paper](https://arxiv.org/abs/2210.16476)]
+    * **SAP-DETR**: "SAP-DETR: Bridging the Gap Between Salient Points and Queries-Based Transformer Detector for Fast Model Convergency", arXiv, 2022 (*CAS*). [[Paper](https://arxiv.org/abs/2211.02006)]
 * Transformer-based backbone:
     * **ViT-FRCNN**: "Toward Transformer-Based Object Detection", arXiv, 2020 (*Pinterest*). [[Paper](https://arxiv.org/abs/2012.09958)]
     * **WB-DETR**: "WB-DETR: Transformer-Based Detector Without Backbone", ICCV, 2021 (*CAS*). [[Paper](https://openaccess.thecvf.com/content/ICCV2021/html/Liu_WB-DETR_Transformer-Based_Detector_Without_Backbone_ICCV_2021_paper.html)]
@@ -1368,6 +1371,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **TransVG++**: "TransVG++: End-to-End Visual Grounding with Language Conditioned Vision Transformer", arXiv, 2022 (*USTC*). [[Paper](https://arxiv.org/abs/2206.06619)]
     * **HLGT**: "Hierarchical Local-Global Transformer for Temporal Sentence Grounding", arXiv, 2022 (*Huazhong University of Science and Technology*). [[Paper](https://arxiv.org/abs/2208.14882)]
     * **Dynamic-MDETR**: "Dynamic MDETR: A Dynamic Multimodal Transformer Decoder for Visual Grounding", arXiv, 2022 (*Nanjing University*). [[Paper](https://arxiv.org/abs/2209.13959)]
+    * **VL-MPAG-Net**: "Grounding Scene Graphs on Natural Images via Visio-Lingual Message Passing", WACV, 2023 (*Indian Institute of Science*). [[Paper](https://arxiv.org/abs/2211.01969)][[PyTorch](https://github.com/IISCAditayTripathi/Scene-graph-localization)][[Website](https://iiscaditaytripathi.github.io/sgl/)]
 * Video:
     * **Multi-Stage-Transformer**: "Multi-Stage Aggregated Transformer Network for Temporal Language Localization in Videos", CVPR, 2021 (*University of Electronic Science and Technology of China*). [[Paper](https://openaccess.thecvf.com/content/CVPR2021/html/Zhang_Multi-Stage_Aggregated_Transformer_Network_for_Temporal_Language_Localization_in_Videos_CVPR_2021_paper.html)]
     * **GTR**: "On Pursuit of Designing Multi-modal Transformer for Video Grounding", EMNLP, 2021 (*Peking*). [[Paper](https://arxiv.org/abs/2109.06085)]
