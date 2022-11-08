@@ -581,6 +581,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **ICLIP**: "Exploring Visual Interpretability for Contrastive Language-Image Pre-training", arXiv, 2022 (*HKUST*). [[Paper](https://arxiv.org/abs/2209.07046)][[Code (in construction)](https://github.com/xmed-lab/ICLIP)]
 * **?**: "Large Models are Parsimonious Learners: Activation Sparsity in Trained Transformers", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2210.06313)]
 * **?**: "Vision Transformer Visualization: What Neurons Tell and How Neurons Behave?", arXiv, 2022 (*Monash University*). [[Paper](https://arxiv.org/abs/2210.07646)][[PyTorch](https://github.com/byM1902/ViT_visualization)]
+* **ViT-CX**: "ViT-CX: Causal Explanation of Vision Transformers", arXiv, 2022 (*HKUST*). [[Paper](https://arxiv.org/abs/2211.03064)]
 
 [[Back to Overview](#overview)]
 
@@ -631,6 +632,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **Obj2Seq**: "Obj2Seq: Formatting Objects as Sequences with Class Prompt for Visual Tasks", arXiv, 2022 (*CAS*). [[Paper](https://arxiv.org/abs/2209.13948)][[PyTorch](https://github.com/CASIA-IVA-Lab/Obj2Seq)]
     * **Pair-DETR**: "Pair DETR: Contrastive Learning Speeds Up DETR Training", arXiv, 2022 (*Amazon*). [[Paper](https://arxiv.org/abs/2210.16476)]
     * **SAP-DETR**: "SAP-DETR: Bridging the Gap Between Salient Points and Queries-Based Transformer Detector for Fast Model Convergency", arXiv, 2022 (*CAS*). [[Paper](https://arxiv.org/abs/2211.02006)]
+    * **Group-DETR-v2**: "Group DETR v2: Strong Object Detector with Encoder-Decoder Pretraining", arXiv, 2022 (*Baidu*). [[Paper](https://arxiv.org/abs/2211.03594)]
 * Transformer-based backbone:
     * **ViT-FRCNN**: "Toward Transformer-Based Object Detection", arXiv, 2020 (*Pinterest*). [[Paper](https://arxiv.org/abs/2012.09958)]
     * **WB-DETR**: "WB-DETR: Transformer-Based Detector Without Backbone", ICCV, 2021 (*CAS*). [[Paper](https://openaccess.thecvf.com/content/ICCV2021/html/Liu_WB-DETR_Transformer-Based_Detector_Without_Backbone_ICCV_2021_paper.html)]
@@ -1320,6 +1322,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **MuRAG**: "MuRAG: Multimodal Retrieval-Augmented Generator for Open Question Answering over Images and Text", EMNLP, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2210.02928)]
     * **MMBS**: "Towards Robust Visual Question Answering: Making the Most of Biased Samples via Contrastive Learning", EMNLP, 2022 (*CAS*). [[Paper](https://arxiv.org/abs/2210.04563)][[PyTorch](https://github.com/PhoebusSi/MMBS)]
     * **EnFoRe**: "Entity-Focused Dense Passage Retrieval for Outside-Knowledge Visual Question Answering", EMNLP, 2022 (*UT Austin*). [[Paper](https://arxiv.org/abs/2210.10176)]
+    * **CRIPP-VQA**: "CRIPP-VQA: Counterfactual Reasoning about Implicit Physical Properties via Video Question Answering", EMNLP, 2022 (*Arizona State University*). [[Paper](https://arxiv.org/abs/2211.03779)][[PyTorch](https://github.com/Maitreyapatel/CRIPP-VQA/)][[Website](https://maitreyapatel.com/CRIPP-VQA/)]
     * **PnP-VQA**: "Plug-and-Play VQA: Zero-shot VQA by Conjoining Large Pretrained Models with Zero Training", EMNLP Findings, 2022 (*Salesforce*). [[Paper](https://arxiv.org/abs/2210.08773)]
     * **TMN**: "Transformer Module Networks for Systematic Generalization in Visual Question Answering", arXiv, 2022 (*Fujitsu*). [[Paper](https://arxiv.org/abs/2201.11316)]
     * **?**: "On the Efficacy of Co-Attention Transformer Layers in Visual Question Answering", arXiv, 2022 (*Birla Institute of Technology Mesra, India*). [[Paper](https://arxiv.org/abs/2201.03965)]
@@ -1465,6 +1468,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **HD-VILA**: "Advancing High-Resolution Video-Language Representation with Large-Scale Video Transcriptions", CVPR, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2111.10337)][[GitHub](https://github.com/microsoft/XPretrain)]
     * **ATP**: "Revisiting the "Video" in Video-Language Understanding", CVPR, 2022 (*Stanford*). [[Paper](https://arxiv.org/abs/2206.01720)][[Website](https://stanfordvl.github.io/atp-revisit-video-lang/)]
     * **ALPRO**: "Align and Prompt: Video-and-Language Pre-training with Entity Prompts", CVPR, 2022 (*Salesforce*). [[Paper](https://arxiv.org/abs/2112.09583)][[PyTorch](https://github.com/salesforce/ALPRO)]
+    * **CLOP**: "CLOP: Video-and-Language Pre-Training with Knowledge Regularizations", ACMMM, 2022 (*Baidu*). [[Paper](https://arxiv.org/abs/2211.03314)]
     * **?**: "Learning Audio-Video Modalities from Image Captions", ECCV, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2204.00679)]
     * **MUGEN**: "MUGEN: A Playground for Video-Audio-Text Multimodal Understanding and GENeration", ECCV, 2022 (*Meta*). [[Paper](https://arxiv.org/abs/2204.08058)][[Website](https://mugen-org.github.io/)]
     * **LiteVL**: "LiteVL: Efficient Video-Language Learning with Enhanced Spatial-Temporal Modeling", EMNLP, 2022 (*Peking University*). [[Paper](https://arxiv.org/abs/2210.11929)]
