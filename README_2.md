@@ -233,6 +233,7 @@
 * **?**: "Motion-Aware Transformer For Occluded Person Re-identification", arXiv, 2022 (*NetEase, China*). [[Paper](https://arxiv.org/abs/2202.04243)]
 * **PFT**: "Short Range Correlation Transformer for Occluded Person Re-Identification", arXiv, 2022 (*Nanjing University of Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2201.01090)]
 * **?**: "CLIP-Driven Fine-grained Text-Image Person Re-identification", arXiv, 2022 (*Nanjing University of Science and Technology*). [[Paper](https://arxiv.org/abs/2210.10276)]
+* **SeqTR**: "Sequential Transformer for End-to-End Person Search", arXiv, 2022 (*East China Normal University*). [[Paper](https://arxiv.org/abs/2211.04323)]
 
 [[Back to Overview](#overview)]
 
