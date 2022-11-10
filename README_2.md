@@ -373,6 +373,7 @@
     * **CuPL**: "What does a platypus look like? Generating customized prompts for zero-shot image classification", arXiv, 2022 (*University of Washington*). [[Paper](https://arxiv.org/abs/2209.03320)][[PyTorch](https://github.com/sarahpratt/CuPL)]
     * **VL-Taboo**: "VL-Taboo: An Analysis of Attribute-based Zero-shot Capabilities of Vision-Language Models", arXiv, 2022 (*Goethe University Frankfurt, Germany*). [[Paper](https://arxiv.org/abs/2209.06103)][[Code (in construction)](https://github.com/felixVogel02/VL-Taboo)]
     * **CALIP**: "CALIP: Zero-Shot Enhancement of CLIP with Parameter-free Attention", arXiv, 2022 (*Peking University*). [[Paper](https://arxiv.org/abs/2209.14169)]
+    * **PromptCompVL**: "Prompting Large Pre-trained Vision-Language Models For Compositional Concept Learning", arXiv, 2022 (*Michigan State*). [[Paper](https://arxiv.org/abs/2211.05077)]
 * X-Shot:
     * **CrossTransformer**: "CrossTransformers: spatially-aware few-shot transfer", NeurIPS, 2020 (*DeepMind*). [[Paper](https://arxiv.org/abs/2007.11498)][[Tensorflow](https://github.com/google-research/meta-dataset)]
     * **URT**: "A Universal Representation Transformer Layer for Few-Shot Image Classification", ICLR, 2021 (*Mila*). [[Paper](https://openreview.net/forum?id=04cII6MumYV)][[PyTorch](https://github.com/liulu112601/URT)]
@@ -1138,9 +1139,10 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **CornerTransformer**: "Toward Understanding WordArt: Corner-Guided Transformer for Scene Text Recognition", ECCV, 2022 (*Huazhong University of Science and Technology*). [[Paper](https://arxiv.org/abs/2208.00438)][[PyTorch](https://github.com/xdxie/WordArt)]
     * **CUTE**: "Contextual Text Block Detection towards Scene Text Understanding", ECCV, 2022 (*NTU Singapore*). [[Paper](https://arxiv.org/abs/2207.12955)][[Website](https://sg-vilab.github.io/publication/xue2022contextual/)]
     * **PARSeq**: "Scene Text Recognition with Permuted Autoregressive Sequence Models", ECCV, 2022 (*University of the Philippines*). [[Paper](https://arxiv.org/abs/2207.06966)][[PyTorch](https://github.com/baudm/parseq)]
-    * **PTIE**: "Pure Transformer with Integrated Experts for Scene Text Recognition", ECCV, 2022 (*NTU Singapore*). [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/7288_ECCV_2022_paper.php)]
+    * **PTIE**: "Pure Transformer with Integrated Experts for Scene Text Recognition", ECCV, 2022 (*NTU Singapore*). [[Paper](https://arxiv.org/abs/2211.04963)]
     * **MGP-STR**: "Multi-Granularity Prediction for Scene Text Recognition", ECCV, 2022 (*Alibaba*). [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/3821_ECCV_2022_paper.php)]
     * **VLAMD**: "Vision-Language Adaptive Mutual Decoder for OOV-STR", ECCVW, 2022 (*iFLYTEK, China*). [[Paper](https://arxiv.org/abs/2209.00859)]
+    * **MVLT**: "Masked Vision-Language Transformers for Scene Text Recognition", BMVC, 2022 (*Westone Information Industry Inc., China*). [[Paper](https://arxiv.org/abs/2211.04785)][[PyTorch](https://github.com/onealwj/MVLT)]
 * Spike:
     * **Spikformer**: "Spikformer: When Spiking Neural Network Meets Transformer", arXiv, 2022 (*Peking*). [[Paper](https://arxiv.org/abs/2209.15425)]
 * Stereo:
