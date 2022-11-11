@@ -206,6 +206,7 @@
 * **Strong-TransCenter**: "Strong-TransCenter: Improved Multi-Object Tracking based on Transformers with Dense Representations", arXiv, 2022 (*Tel-Aviv University*). [[Paper](https://arxiv.org/abs/2210.13570)][[PyTorch](https://github.com/amitgalor18/STC_Tracker)]
 * **MQT**: "End-to-end Tracking with a Multi-query Transformer", arXiv, 2022 (*Oxford*). [[Paper](https://arxiv.org/abs/2210.14601)]
 * **ProContEXT**: "ProContEXT: Exploring Progressive Context Transformer for Tracking", arXiv, 2022 (*Alibaba*). [[Paper](https://arxiv.org/abs/2210.15511)]
+* **?**: "Efficient Joint Detection and Multiple Object Tracking with Spatially Aware Transformer", arXiv, 2022 (*Sony*). [[Paper](https://arxiv.org/abs/2211.05654)]
 
 [[Back to Overview](#overview)]
 
@@ -367,6 +368,7 @@
 * Zero-Shot:
     * **ViT-ZSL**: "Multi-Head Self-Attention via Vision Transformer for Zero-Shot Learning", IMVIP, 2021 (*University of Exeter, UK*). [[Paper](https://arxiv.org/abs/2108.00045)]
     * **TransZero**: "TransZero: Attribute-guided Transformer for Zero-Shot Learning", AAAI, 2022 (*Huazhong University of Science and Technology*). [[Paper](https://arxiv.org/abs/2112.01683)][[PyTorch](https://github.com/shiming-chen/TransZero)]
+    * **?**: "Zero-shot Visual Commonsense Immorality Prediction", BMVC, 2022 (*Korea University*). [[Paper](https://arxiv.org/abs/2211.05521)][[PyTorch](https://github.com/ku-vai/Zero-shot-Visual-Commonsense-Immorality-Prediction)]
     * **TPT**: "Test-Time Prompt Tuning for Zero-Shot Generalization in Vision-Language Models", NeurIPS, 2022 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2209.07511)][[Code (in construction)](https://github.com/azshue/TPT)][[Website](https://azshue.github.io/TPT/)]
     * **HRT**: "Hybrid Routing Transformer for Zero-Shot Learning", arXiv, 2022 (*Xidian University*). [[Paper](https://arxiv.org/abs/2203.15310)]
     * **MUST**: "Masked Unsupervised Self-training for Zero-shot Image Classification", arXiv, 2022 (*Salesforce*). [[Paper](https://arxiv.org/abs/2206.02967)]
