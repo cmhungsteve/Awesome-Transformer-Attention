@@ -327,6 +327,7 @@ Feel free to share this list with others!
 * **MobileViTv3**: "MobileViTv3: Mobile-Friendly Vision Transformer with Simple and Effective Fusion of Local, Global and Input Features", arXiv, 2022 (*Micron*). [[Paper](https://arxiv.org/abs/2209.15159)][[PyTorch](https://github.com/micronDLA/MobileViTv3)]
 * **ToMe**: "Token Merging: Your ViT But Faster", arXiv, 2022 (*Meta*). [[Paper](https://arxiv.org/abs/2210.09461)][[PyTorch](https://github.com/facebookresearch/ToMe)]
 * **ViT-LSLA**: "ViT-LSLA: Vision Transformer with Light Self-Limited-Attention", arXiv, 2022 (*Southwest University*). [[Paper](https://arxiv.org/abs/2210.17115)]
+* **?**: "Training a Vision Transformer from scratch in less than 24 hours with 1 GPU", NeurIPSW, 2022 (*Borealis AI, Canada*). [[Paper](https://arxiv.org/abs/2211.05187)]
 * **ViTCoD**: "ViTCoD: Vision Transformer Acceleration via Dedicated Algorithm and Accelerator Co-Design", IEEE International Symposium on High-Performance Computer Architecture (HPCA), 2023 (*Georgia Tech*). [[Paper](https://arxiv.org/abs/2210.09573)]
 * **ViTALiTy**: "ViTALiTy: Unifying Low-rank and Sparse Approximation for Vision Transformer Acceleration with a Linear Taylor Attention", IEEE International Symposium on High-Performance Computer Architecture (HPCA), 2023 (*Rice University*). [[Paper](https://arxiv.org/abs/2211.05109)]
 #### Conv + Transformer
@@ -358,6 +359,8 @@ Feel free to share this list with others!
 * **ConvFormer**: "ConvFormer: Closing the Gap Between CNN and Vision Transformers", arXiv, 2022 (*National University of Defense Technology, China*). [[Paper](https://arxiv.org/abs/2209.07738)]
 * **Fast-ParC**: "Fast-ParC: Position Aware Global Kernel for ConvNets and ViTs", arXiv, 2022 (*Intellifusion, China*). [[Paper](https://arxiv.org/abs/2210.04020)]
 * **MetaFormer**: "MetaFormer Baselines for Vision", arXiv, 2022 (*Sea AI Lab*). [[Paper](https://arxiv.org/abs/2210.13452)][[PyTorch](https://github.com/sail-sg/metaformer)]
+* **STM**: "Demystify Transformers & Convolutions in Modern Image Deep Networks", arXiv, 2022 (*Tsinghua University*). [[Paper](https://arxiv.org/abs/2211.05781)][[Code (in construction)(https://github.com/OpenGVLab/STM-Evaluation)]]
+* **InternImage**: "InternImage: Exploring Large-Scale Vision Foundation Models with Deformable Convolutions", arXiv, 2022 (*Shanghai AI Laboratory*). [[Paper](https://arxiv.org/abs/2211.05778)][[Code (in construction)](https://github.com/OpenGVLab/InternImage)]
 * **SATA**: "Accumulated Trivial Attention Matters in Vision Transformers on Small Datasets", WACV, 2023 (*University of Kansas*). [[Paper](https://arxiv.org/abs/2210.12333)][[PyTorch (in construction)](https://github.com/xiangyu8/SATA)]
 #### Training + Transformer
 * **iGPT**: "Generative Pretraining From Pixels", ICML, 2020 (*OpenAI*). [[Paper](http://proceedings.mlr.press/v119/chen20s.html)][[Tensorflow](https://github.com/openai/image-gpt)]
@@ -1347,6 +1350,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **DeST**: "Learning Fine-Grained Visual Understanding for Video Question Answering via Decoupling Spatial-Temporal Modeling", BMVC, 2022 (*NTU*). [[Paper](https://arxiv.org/abs/2210.03941)][[PyTorch](https://github.com/shinying/dest)]
     * **WSQG**: "Frame-Subtitle Self-Supervision for Multi-Modal Video Question Answering", arXiv, 2022 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2209.03609)]
     * **LocAns**: "Locate before Answering: Answer Guided Question Localization for Video Question Answering", arXiv, 2022 (*Fudan University*). [[Paper](https://arxiv.org/abs/2210.02081)]
+    * **NewsVideoQA**: "Watching the News: Towards VideoQA Models that can Read", arXiv, 2022 (*IIIT Hyderabad, India*). [[Paper](https://arxiv.org/abs/2211.05588)]
 
 [[Back to Overview](#overview)]
 
