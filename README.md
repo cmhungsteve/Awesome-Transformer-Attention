@@ -109,6 +109,7 @@ Feel free to share this list with others!
 * "A Survey on Visual Transformer", TPAMI, 2022 (*Huawei*). [[Paper](https://arxiv.org/abs/2012.12556)] 
 * "A Comprehensive Study of Vision Transformers on Dense Prediction Tasks", VISAP, 2022 (*NavInfo Europe, Netherlands*). [[Paper](https://arxiv.org/abs/2201.08683)]
 * "Vision-and-Language Pretrained Models: A Survey", IJCAI, 2022 (*The University of Sydney*). [[Paper](https://arxiv.org/abs/2204.07356)]
+* "A Comprehensive Survey of Transformers for Computer Vision", arXiv, 2022 (*Sejong University*). [[Paper](https://arxiv.org/abs/2211.06004)]
 * "Vision-Language Pre-training: Basics, Recent Advances, and Future Trends", arXiv, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2210.09263)]
 * "Vision+X: A Survey on Multimodal Learning in the Light of Data", arXiv, 2022 (*Illinois Institute of Technology, Chicago*). [[Paper](https://arxiv.org/abs/2210.02884)]
 * "Vision Transformers for Action Recognition: A Survey", arXiv, 2022 (*Charles Sturt University, Australia*). [[Paper](https://arxiv.org/abs/2209.05700)]
@@ -250,6 +251,7 @@ Feel free to share this list with others!
 * **GrafT**: "Grafting Vision Transformers", arXiv, 2022 (*Stony Brook*). [[Paper](https://arxiv.org/abs/2210.15943)]
 * **?**: "Rethinking Hierarchicies in Pre-trained Plain Vision Transformer", arXiv, 2022 (*The University of Sydney*). [[Paper](https://arxiv.org/abs/2211.01785)]
 * **LTH-ViT**: "The Lottery Ticket Hypothesis for Vision Transformers", arXiv, 2022 (*Northeastern University, China*). [[Paper](https://arxiv.org/abs/2211.01484)]
+* **TT**: "Token Transformer: Can class token help window-based transformer build better long-range interactions?", arXiv, 2022 (*Hangzhou Dianzi University*). [[Paper](https://arxiv.org/abs/2211.06083)]
 #### Efficient Vision Transformer
 * **DeiT**: "Training data-efficient image transformers & distillation through attention", ICML, 2021 (*Facebook*). [[Paper](https://arxiv.org/abs/2012.12877)][[PyTorch](https://github.com/facebookresearch/deit)]
 * **ConViT**: "ConViT: Improving Vision Transformers with Soft Convolutional Inductive Biases", ICML, 2021 (*Facebook*). [[Paper](https://arxiv.org/abs/2103.10697)][[Code](https://github.com/facebookresearch/convit)]
@@ -946,6 +948,8 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **OSFormer**: "OSFormer: One-Stage Camouflaged Instance Segmentation with Transformers", ECCV, 2022 (*Huazhong University of Science and Technology*). [[Paper](https://arxiv.org/abs/2207.02255)][[PyTorch](https://github.com/PJLallen/OSFormer)]
     * **AISFormer**: "AISFormer: Amodal Instance Segmentation with Transformer", BMVC, 2022 (*University of Arkansas, Arkansas*). [[Paper](https://arxiv.org/abs/2210.06323)][[Code (in construction)](https://github.com/UARK-AICV/AISFormer)]
     * **TOIST**: "TOIST: Task Oriented Instance Segmentation Transformer with Noun-Pronoun Distillation", NeurIPS, 2022 (*Tsinghua University*). [[Paper](https://arxiv.org/abs/2210.10775)][[PyTorch](https://github.com/AIR-DISCOVER/TOIST)]
+* Universal Segmentation:
+    * **OneFormer**: "OneFormer: One Transformer to Rule Universal Image Segmentation", arXiv, 2022 (*Oregon*). [[Paper](https://arxiv.org/abs/2211.06220)][[PyTorch](https://github.com/SHI-Labs/OneFormer)][[Website](https://praeclarumjj3.github.io/oneformer/)]
 * Optical Flow:
     * **CRAFT**: "CRAFT: Cross-Attentional Flow Transformer for Robust Optical Flow", CVPR, 2022 (*A\*STAR, Singapore*). [[Paper](https://arxiv.org/abs/2203.16896)][[PyTorch](https://github.com/askerlee/craft)]
     * **KPA-Flow**: "Learning Optical Flow With Kernel Patch Attention", CVPR, 2022 (*Megvii*). [[Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Luo_Learning_Optical_Flow_With_Kernel_Patch_Attention_CVPR_2022_paper.html)][[PyTorch (in construction)](https://github.com/megvii-research/KPAFlow)]
