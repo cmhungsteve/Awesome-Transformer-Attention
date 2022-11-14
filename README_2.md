@@ -914,6 +914,7 @@ Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2207.11553)][[Cod
 * **SwinMLP-TranCAP**: "Rethinking Surgical Captioning: End-to-End Window-Based MLP Transformer Using Patches", arXiv, 2022 (*CUHK*). [[Paper](https://arxiv.org/abs/2207.00113)][[PyTorch](https://github.com/XuMengyaAmy/SwinMLP_TranCAP)]
 * **SAT**: "Medical Image Captioning via Generative Pretrained Transformers", arXiv, 2022 (*Philips Innovation Labs Rus, Russia*). [[Paper](https://arxiv.org/abs/2209.13983)]
 * **RepsNet**: "RepsNet: Combining Vision with Language for Automated Medical Reports", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2209.13171)][[Website](https://sites.google.com/view/repsnet)]
+* **MF<sup>2</sup>-MVQA**: "MF<sup>2</sup>-MVQA: A Multi-stage Feature Fusion method for Medical Visual Question Answering", arXiv, 2022 (*University of Science and Technology Beijing*). [[Paper](https://arxiv.org/abs/2211.05991)]
 
 [[Back to Overview](#overview)]
 
