@@ -335,6 +335,7 @@
 * **VTCAS**: "Vision Transformer with Convolutions Architecture Search", arXiv, 2022 (*Donghua University*). [[Paper](https://arxiv.org/abs/2203.10435)]
 * **NOAH**: "Neural Prompt Search", arXiv, 2022 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2206.04673)][[PyTorch](https://github.com/Davidzhangyuanhan/NOAH)]
 * **FocusFormer**: "FocusFormer: Focusing on What We Need via Architecture Sampler", arXiv, 2022 (*Monash University, Australia*). [[Paper](https://arxiv.org/abs/2208.10861)]
+* **NAR-Former**: "NAR-Former: Neural Architecture Representation Learning towards Holistic Attributes Prediction", arXiv, 2022 (*Xidian University, China*). [[Paper](https://arxiv.org/abs/2211.08024)]
 
 [[Back to Overview](#overview)]
 
@@ -361,6 +362,7 @@
     * **MPA**: "Multi-Prompt Alignment for Multi-source Unsupervised Domain Adaptation", arXiv, 2022 (*Fudan University*). [[Paper](https://arxiv.org/abs/2209.15210)]
     * **DePT**: "Visual Prompt Tuning for Test-time Domain Adaptation", arXiv, 2022 (*Amazon*). [[Paper](https://arxiv.org/abs/2210.04831)]
     * **LADS**: "Using Language to Extend to Unseen Domains", arXiv, 2022 (*Berkeley*). [[Paper](https://arxiv.org/abs/2210.09520)]
+    * **FedAPT**: "Cross-domain Federated Adaptive Prompt Tuning for CLIP", arXiv, 2022 (*Fudan University*). [[Paper](https://arxiv.org/abs/2211.07864)]
 * X-Supervised:
     * **Semiformer**: "Semi-Supervised Vision Transformers", ECCV, 2022 (*Fudan University*). [[Paper](https://arxiv.org/abs/2111.11067)][[PyTorch](https://github.com/wengzejia1/Semiformer)]
     * **SVL-Adapter**: "SVL-Adapter: Self-Supervised Adapter for Vision-Language Pretrained Models", BMVC, 2022 (*UCL*). [[Paper](https://arxiv.org/abs/2210.03794)][[Code (in construction)](https://github.com/omipan/svl_adapter)]
