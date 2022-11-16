@@ -333,6 +333,7 @@ Feel free to share this list with others!
 * **?**: "Training a Vision Transformer from scratch in less than 24 hours with 1 GPU", NeurIPSW, 2022 (*Borealis AI, Canada*). [[Paper](https://arxiv.org/abs/2211.05187)]
 * **ViTCoD**: "ViTCoD: Vision Transformer Acceleration via Dedicated Algorithm and Accelerator Co-Design", IEEE International Symposium on High-Performance Computer Architecture (HPCA), 2023 (*Georgia Tech*). [[Paper](https://arxiv.org/abs/2210.09573)]
 * **ViTALiTy**: "ViTALiTy: Unifying Low-rank and Sparse Approximation for Vision Transformer Acceleration with a Linear Taylor Attention", IEEE International Symposium on High-Performance Computer Architecture (HPCA), 2023 (*Rice University*). [[Paper](https://arxiv.org/abs/2211.05109)]
+* **HeatViT**: "HeatViT: Hardware-Efficient Adaptive Token Pruning for Vision Transformers", IEEE International Symposium on High-Performance Computer Architecture (HPCA), 2023 (*Northeastern University*). [[Paper](https://arxiv.org/abs/2211.08110)]
 #### Conv + Transformer
 * **LeViT**: "LeViT: a Vision Transformer in ConvNet's Clothing for Faster Inference", ICCV, 2021 (*Facebook*). [[Paper](https://arxiv.org/abs/2104.01136)][[PyTorch](https://github.com/facebookresearch/LeViT)]
 * **CeiT**: "Incorporating Convolution Designs into Visual Transformers", ICCV, 2021 (*SenseTime*). [[Paper](https://arxiv.org/abs/2103.11816)][[PyTorch (rishikksh20)](https://github.com/rishikksh20/CeiT)]
@@ -642,6 +643,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **Pair-DETR**: "Pair DETR: Contrastive Learning Speeds Up DETR Training", arXiv, 2022 (*Amazon*). [[Paper](https://arxiv.org/abs/2210.16476)]
     * **SAP-DETR**: "SAP-DETR: Bridging the Gap Between Salient Points and Queries-Based Transformer Detector for Fast Model Convergency", arXiv, 2022 (*CAS*). [[Paper](https://arxiv.org/abs/2211.02006)]
     * **Group-DETR-v2**: "Group DETR v2: Strong Object Detector with Encoder-Decoder Pretraining", arXiv, 2022 (*Baidu*). [[Paper](https://arxiv.org/abs/2211.03594)]
+    * **KD-DETR**: "Knowledge Distillation for Detection Transformer with Consistent Distillation Points Sampling", arXiv, 2022 (*Baidu*). [[Paper](https://arxiv.org/abs/2211.08071)]
 * Transformer-based backbone:
     * **ViT-FRCNN**: "Toward Transformer-Based Object Detection", arXiv, 2020 (*Pinterest*). [[Paper](https://arxiv.org/abs/2012.09958)]
     * **WB-DETR**: "WB-DETR: Transformer-Based Detector Without Backbone", ICCV, 2021 (*CAS*). [[Paper](https://openaccess.thecvf.com/content/ICCV2021/html/Liu_WB-DETR_Transformer-Based_Detector_Without_Backbone_ICCV_2021_paper.html)]
@@ -1310,11 +1312,11 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 
 ### Visual Question Answering
 * General:
-* **MCAN**: "Deep Modular Co-Attention Networks for Visual Question Answering", CVPR, 2019 (*Hangzhou Dianzi University*). [[Paper](https://arxiv.org/abs/1906.10770)][[PyTorch](https://github.com/MILVLG/mcan-vqa)]
-* **M4C**: "Iterative Answer Prediction with Pointer-Augmented Multimodal Transformers for TextVQA", CVPR, 2020 (*Facebook*). [[Paper](https://arxiv.org/abs/1911.06258)]
-* **SA-M4C**: "Spatially Aware Multimodal Transformers for TextVQA", ECCV, 2020 (*Georgia Tech*). [[Paper](https://arxiv.org/abs/2007.12146)][[PyTorch](https://github.com/yashkant/sam-textvqa)][[Website](https://yashkant.github.io/projects/sam-textvqa.html)]
-* **ConClaT**: "Contrast and Classify: Training Robust VQA Models", ICCV, 2021 (*Georgia Tech*). [[Paper](https://arxiv.org/abs/2010.06087)]
-* **TRAR**: "TRAR: Routing the Attention Spans in Transformer for Visual Question Answering", ICCV, 2021 (*Xiamen University*). [[Paper](https://openaccess.thecvf.com/content/ICCV2021/html/Zhou_TRAR_Routing_the_Attention_Spans_in_Transformer_for_Visual_Question_ICCV_2021_paper.html)]
+    * **MCAN**: "Deep Modular Co-Attention Networks for Visual Question Answering", CVPR, 2019 (*Hangzhou Dianzi University*). [[Paper](https://arxiv.org/abs/1906.10770)][[PyTorch](https://github.com/MILVLG/mcan-vqa)]
+    * **M4C**: "Iterative Answer Prediction with Pointer-Augmented Multimodal Transformers for TextVQA", CVPR, 2020 (*Facebook*). [[Paper](https://arxiv.org/abs/1911.06258)]
+    * **SA-M4C**: "Spatially Aware Multimodal Transformers for TextVQA", ECCV, 2020 (*Georgia Tech*). [[Paper](https://arxiv.org/abs/2007.12146)][[PyTorch](https://github.com/yashkant/sam-textvqa)][[Website](https://yashkant.github.io/projects/sam-textvqa.html)]
+    * **ConClaT**: "Contrast and Classify: Training Robust VQA Models", ICCV, 2021 (*Georgia Tech*). [[Paper](https://arxiv.org/abs/2010.06087)]
+    * **TRAR**: "TRAR: Routing the Attention Spans in Transformer for Visual Question Answering", ICCV, 2021 (*Xiamen University*). [[Paper](https://openaccess.thecvf.com/content/ICCV2021/html/Zhou_TRAR_Routing_the_Attention_Spans_in_Transformer_for_Visual_Question_ICCV_2021_paper.html)]
     * **UniQer**: "Unified Questioner Transformer for Descriptive Question Generation in Goal-Oriented Visual Dialogue", ICCV, 2021 (*Keio*). [[Paper](https://arxiv.org/abs/2106.15550)]
     * **TxT**: "TxT: Crossmodal End-to-End Learning with Transformers", GCPR, 2021 (*TU Darmstadt*). [[Paper](https://arxiv.org/abs/2109.04422)]
     * **ProTo**: "ProTo: Program-Guided Transformer for Program-Guided Tasks", NeurIPS, 2021 (*Georiga Tech*). [[Paper](https://arxiv.org/abs/2110.00804)]
@@ -1349,6 +1351,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **mVQA**: "Towards Multi-Lingual Visual Question Answering", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2209.05401)]
     * **CIB**: "Finetuning Pretrained Vision-Language Models with Correlation Information Bottleneck for Robust Visual Question Answering", arXiv, 2022 (*Xi'an Jiaotong University*). [[Paper](https://arxiv.org/abs/2209.06954)]
     * **?**: "Compressing And Debiasing Vision-Language Pre-Trained Models for Visual Question Answering", arXiv, 2022 (*CAS*). [[Paper](https://arxiv.org/abs/2210.14558)]
+    * **VLR**: "Visually Grounded VQA by Lattice-based Retrieval", arXiv, 2022 (*University of Bremen, Germany*). [[Paper](https://arxiv.org/abs/2211.08086)]
     * **VLC-BERT**: "VLC-BERT: Visual Question Answering with Contextualized Commonsense Knowledge", WACV, 2023 (*UBC, Canada*). [[Paper](https://arxiv.org/abs/2210.13626)][[PyTorch](https://github.com/aditya10/VLC-BERT)]
 * Video:
     * **?**: "Mounting Video Metadata on Transformer-based Language Model for Open-ended Video Question Answering", arXiv, 2021 (*Seoul National University*). [[Paper](https://arxiv.org/abs/2108.05158)]
@@ -1382,6 +1385,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **SiRi**: "SiRi: A Simple Selective Retraining Mechanism for Transformer-based Visual Grounding", ECCV, 2022 (*JD*). [[Paper](https://arxiv.org/abs/2207.13325)][[PyTorch](https://github.com/qumengxue/siri-vg)]
     * **UniTAB**: "UniTAB: Unifying Text and Box Outputs for Grounded Vision-Language Modeling", ECCV, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2111.12085)]
     * **TAP**: "Improving Closed and Open-Vocabulary Attribute Prediction Using Transformers", ECCV, 2022 (*Adobe*). [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/5247_ECCV_2022_paper.php)][[GitHub](https://github.com/adobe-research/vaw_dataset)][[Website](https://vkhoi.github.io/TAP/)]
+    * **YORO**: "YORO - Lightweight End to End Visual Grounding", ECCVW, 2022 (*Amazon*). [[Paper](https://arxiv.org/abs/2211.07912)]
     * **?**: "Do Vision-and-Language Transformers Learn Grounded Predicate-Noun Dependencies?", EMNLP, 2022 (*Aix-Marseille University, France*). [[Paper](https://arxiv.org/abs/2210.12079)]
     * **SeqTR**: "SeqTR: A Simple yet Universal Network for Visual Grounding", arXiv, 2022 (*Xiamen University*). [[Paper](https://arxiv.org/abs/2203.16265)][[Code (in construction)](https://github.com/sean-zhuh/SeqTR)]
     * **BEST**: "Visual Clues: Bridging Vision and Language Foundations for Image Paragraph Captioning", arXiv, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2206.01843)]
@@ -1573,6 +1577,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **VSD**: "Visual Spatial Description: Controlled Spatial-Oriented Image-to-Text Generation", arXiv, 2022 (*Tianjin University*). [[Paper](https://arxiv.org/abs/2210.11109)][[Code (in construction)](https://github.com/zhaoyucs/VSD)]
     * **Lafite2**: "Lafite2: Few-shot Text-to-Image Generation", arXiv, 2022 (*SUNY, Buffalo*). [[Paper](https://arxiv.org/abs/2210.14124)]
     * **eDiffi**: "eDiffi: Text-to-Image Diffusion Models with an Ensemble of Expert Denoisers", arXiv, 2022 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2211.01324)][[Website](https://deepimagination.cc/eDiffi/)]
+    * **VD**: "Versatile Diffusion: Text, Images and Variations All in One Diffusion Model", arXiv, 2022 (*Oregon*). [[Paper](https://arxiv.org/abs/2211.08332)][[PyTorch](https://github.com/SHI-Labs/Versatile-Diffusion)]
 * Video:
     * **CogVideo**: "CogVideo: Large-scale Pretraining for Text-to-Video Generation via Transformers", arXiv, 2022 (*Tsinghua University*) [[Paper](https://arxiv.org/abs/2205.15868)][[GitHub (in construction)](https://github.com/THUDM/CogVideo)]
     * **Make-A-Video**: "Make-A-Video: Text-to-Video Generation without Text-Video Data", arXiv, 2022 (*Meta*). [[Paper](https://arxiv.org/abs/2209.14792)]
