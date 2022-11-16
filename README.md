@@ -252,6 +252,7 @@ Feel free to share this list with others!
 * **?**: "Rethinking Hierarchicies in Pre-trained Plain Vision Transformer", arXiv, 2022 (*The University of Sydney*). [[Paper](https://arxiv.org/abs/2211.01785)]
 * **LTH-ViT**: "The Lottery Ticket Hypothesis for Vision Transformers", arXiv, 2022 (*Northeastern University, China*). [[Paper](https://arxiv.org/abs/2211.01484)]
 * **TT**: "Token Transformer: Can class token help window-based transformer build better long-range interactions?", arXiv, 2022 (*Hangzhou Dianzi University*). [[Paper](https://arxiv.org/abs/2211.06083)]
+* **CabViT**: "CabViT: Cross Attention among Blocks for Vision Transformer", arXiv, 2022 (*Intellifusion, China*). [[Paper](https://arxiv.org/abs/2211.07198)][[PyTorch (in construction)](https://github.com/hkzhang91/CabViT)]
 #### Efficient Vision Transformer
 * **DeiT**: "Training data-efficient image transformers & distillation through attention", ICML, 2021 (*Facebook*). [[Paper](https://arxiv.org/abs/2012.12877)][[PyTorch](https://github.com/facebookresearch/deit)]
 * **ConViT**: "ConViT: Improving Vision Transformers with Soft Convolutional Inductive Biases", ICML, 2021 (*Facebook*). [[Paper](https://arxiv.org/abs/2103.10697)][[Code](https://github.com/facebookresearch/convit)]
@@ -363,6 +364,7 @@ Feel free to share this list with others!
 * **MetaFormer**: "MetaFormer Baselines for Vision", arXiv, 2022 (*Sea AI Lab*). [[Paper](https://arxiv.org/abs/2210.13452)][[PyTorch](https://github.com/sail-sg/metaformer)]
 * **STM**: "Demystify Transformers & Convolutions in Modern Image Deep Networks", arXiv, 2022 (*Tsinghua University*). [[Paper](https://arxiv.org/abs/2211.05781)][[Code (in construction)(https://github.com/OpenGVLab/STM-Evaluation)]]
 * **InternImage**: "InternImage: Exploring Large-Scale Vision Foundation Models with Deformable Convolutions", arXiv, 2022 (*Shanghai AI Laboratory*). [[Paper](https://arxiv.org/abs/2211.05778)][[Code (in construction)](https://github.com/OpenGVLab/InternImage)]
+* **ParCNetV2**: "ParCNetV2: Oversized Kernel with Enhanced Attention", arXiv, 2022 (*Intellifusion, China*). [[Paper](https://arxiv.org/abs/2211.07157)]
 * **SATA**: "Accumulated Trivial Attention Matters in Vision Transformers on Small Datasets", WACV, 2023 (*University of Kansas*). [[Paper](https://arxiv.org/abs/2210.12333)][[PyTorch (in construction)](https://github.com/xiangyu8/SATA)]
 #### Training + Transformer
 * **iGPT**: "Generative Pretraining From Pixels", ICML, 2020 (*OpenAI*). [[Paper](http://proceedings.mlr.press/v119/chen20s.html)][[Tensorflow](https://github.com/openai/image-gpt)]
@@ -515,6 +517,7 @@ Feel free to share this list with others!
 * **AS**: "Adaptive Sparse ViT: Towards Learnable Adaptive Token Pruning by Fully Exploiting Self-Attention", arXiv, 2022 (*Baidu*). [[Paper](https://arxiv.org/abs/2209.13802)]
 * **SaiT**: "SaiT: Sparse Vision Transformers through Adaptive Token Pruning", arXiv, 2022 (*Samsung*). [[Paper](https://arxiv.org/abs/2210.05832)]
 * **oViT**: "oViT: An Accurate Second-Order Pruning Framework for Vision Transformers", arXiv, 2022 (*IST Austria*). [[Paper](https://arxiv.org/abs/2210.09223)]
+* **BiViT**: "BiViT: Extremely Compressed Binary Vision Transformer", arXiv, 2022 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2211.07091)]
 
 [[Back to Overview](#overview)]
 
@@ -850,6 +853,8 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **CoFormer**: "Collaborative Transformers for Grounded Situation Recognition", CVPR, 2022 (*POSTECH*). [[Paper](https://arxiv.org/abs/2203.16518)][[PyTorch](https://github.com/jhcho99/CoFormer)]
 * Mirror Detection:
     * **SATNet**: "Symmetry-Aware Transformer-based Mirror Detection", arXiv, 2022 (*Harbin Institute of Technology*). [[Paper](https://arxiv.org/abs/2207.06332)][[PyTorch](https://github.com/tyhuang0428/SATNet)]
+* Shadow Detection:
+    * **SCOTCH-SODA**: "SCOTCH and SODA: A Transformer Video Shadow Detection Framework", arXiv, 2022 (*University of Cambridge*). [[Paper](https://arxiv.org/abs/2211.06885)]
 
 [[Back to Overview](#overview)]
 
@@ -1292,6 +1297,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **VaT**: "Variational Transformer: A Framework Beyond the Trade-off between Accuracy and Diversity for Image Captioning", arXiv, 2022 (*Tongji University*). [[Paper](https://arxiv.org/abs/2205.14458)]
     * **SCST-GEG**: "Distincive Image Captioning via CLIP Guided Group Optimization", arXiv, 2022 (*McGill University*). [[Paper](https://arxiv.org/abs/2208.04254)]
     * **?**: "Vision Transformer Based Model for Describing a Set of Images as a Story", arXiv, 2022 (*The University of Western Australia*). [[Paper](https://arxiv.org/abs/2210.02762)]
+    * **CLM**: "Zero-shot Image Captioning by Anchor-augmented Vision-Language Space Alignment", arXiv, 2022 (*CAS*). [[Paper](https://arxiv.org/abs/2211.07275)]
 * Video
     * **Masked Transformers**: "End-to-End Dense Video Captioning with Masked Transformer", CVPR, 2018 (*UMich + Salesforce*). [[Paper](https://openaccess.thecvf.com/content_cvpr_2018/html/Zhou_End-to-End_Dense_Video_CVPR_2018_paper.html)][[PyTorch](https://github.com/salesforce/densecap)]
     * **BMT**: "A Better Use of Audio-Visual Cues: Dense Video Captioning with Bi-modal Transformer", BMVC, 2020 (*Tampere University, Finland*). [[Paper](https://arxiv.org/abs/2005.08271)][[PyTorch](https://github.com/v-iashin/bmt)][[Website](https://iashin.ai/bmt)]
