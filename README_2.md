@@ -394,6 +394,7 @@
     * **FPTrans**: "Feature-Proxy Transformer for Few-Shot Segmentation", NeurIPS, 2022 (*Baidu*). [[Paper](https://arxiv.org/abs/2210.06908)][[Code (in construction)](https://github.com/Jarvis73/FPTrans)]
     * **MG-ViT**: "Mask-guided Vision Transformer (MG-ViT) for Few-Shot Learning", arXiv, 2022 (*University of Electronic Science and Technology of China*). [[Paper](https://arxiv.org/abs/2205.09995)]
     * **QSFormer**: "Few-Shot Learning Meets Transformer: Unified Query-Support Transformers for Few-Shot Classification", arXiv, 2022 (*Anhui University*). [[Paper](https://arxiv.org/abs/2208.12398)]
+    * **FS-CT**: "Enhancing Few-shot Image Classification with Cosine Transformer", arXiv, 2022 (*VinUniversity, Vietnam*). [[Paper](https://arxiv.org/abs/2211.06828)][[PyTorch](https://github.com/vinuni-vishc/Few-Shot-Cosine-Transformer)]
 * Continual Learning:
     * **MEAT**: "Meta-attention for ViT-backed Continual Learning", CVPR, 2022 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2203.11684)][[Code (in construction)](https://github.com/zju-vipa/MEAT-TIL)]
     * **DyTox**: "DyTox: Transformers for Continual Learning with DYnamic TOken eXpansion", CVPR, 2022 (*Sorbonne Universite, France*). [[Paper](https://arxiv.org/abs/2111.11326)][[PyTorch](https://github.com/arthurdouillard/dytox)]
