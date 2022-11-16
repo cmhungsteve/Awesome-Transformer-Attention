@@ -260,6 +260,7 @@
     * **LOTR**: "LOTR: Face Landmark Localization Using Localization Transformer", arXiv, 2021 (*Sertis, Thailand*). [[Paper](https://arxiv.org/abs/2109.10057)]
     * **SLPT**: "Sparse Local Patch Transformer for Robust Face Alignment and Landmarks Inherent Relation Learning", CVPR, 2022 (*University of Technology Sydney*). [[Paper](https://arxiv.org/abs/2203.06541)][[PyTorch](https://github.com/Jiahao-UTS/SLPT-master)]
     * **DTLD**: "Towards Accurate Facial Landmark Detection via Cascaded Transformers", CVPR, 2022 (*Samsung*). [[Paper](https://arxiv.org/abs/2208.10808)]
+    * **RePFormer**: "RePFormer: Refinement Pyramid Transformer for Robust Facial Landmark Detection", arXiv, 2022 (*CUHK*). [[Paper](https://arxiv.org/abs/2207.03917)]
 * Face Low-Level Vision:
     * **Latent-Transformer**: "A Latent Transformer for Disentangled Face Editing in Images and Videos", ICCV, 2021 (*Institut Polytechnique de Paris*). [[Paper](https://arxiv.org/abs/2106.11895)][[PyTorch](https://github.com/InterDigitalInc/latent-transformer)]
     * **FAT**: "Facial Attribute Transformers for Precise and Robust Makeup Transfer", WACV, 2022 (*University of Rochester*). [[Paper](https://arxiv.org/abs/2104.02894)]
@@ -288,7 +289,6 @@
     * **STT**: "Spatio-Temporal Transformer for Dynamic Facial Expression Recognition in the Wild", arXiv, 2022 (*Hunan University
 *). [[Paper](https://arxiv.org/abs/2205.04749)]
     * **FaceMAE**: "FaceMAE: Privacy-Preserving Face Recognition via Masked Autoencoders", arXiv, 2022 (*NUS*). [[Paper](https://arxiv.org/abs/2205.11090)][[Code (in construction)](https://github.com/kaiwang960112/FaceMAE)]
-    * **RePFormer**: "RePFormer: Refinement Pyramid Transformer for Robust Facial Landmark Detection", arXiv, 2022 (*CUHK*). [[Paper](https://arxiv.org/abs/2207.03917)]
     * **TransFA**: "TransFA: Transformer-based Representation for Face Attribute Evaluation", arXiv, 2022 (*Xidian University*). [[Paper](https://arxiv.org/abs/2207.05456)]
     * **AU-CVT**: "AU-Supervised Convolutional Vision Transformers for Synthetic Facial Expression Recognition", arXiv, 2022 (*Shenzhen Technology University*). [[Paper](https://arxiv.org/abs/2207.09777)][[PyTorch](https://github.com/msy1412/ABAW4)]
     * **?**: "Multi-Task Transformer with uncertainty modelling for Face Based Affective Computing", arXiv, 2022 (*Datakalab, France*). [[Paper](https://arxiv.org/abs/2208.03506)]
