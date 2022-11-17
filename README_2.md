@@ -903,6 +903,7 @@ Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2207.11553)][[Cod
 * **Cohf-T**: "Cross-Modality High-Frequency Transformer for MR Image Super-Resolution", arXiv, 2022 (*Xidian University*). [[Paper](https://arxiv.org/abs/2203.15314)]
 * **SIST**: "Low-Dose CT Denoising via Sinogram Inner-Structure Transformer", arXiv, 2022 (*?*). [[Paper](https://arxiv.org/abs/2204.03163)]
 * **Spach-Transformer**: "Spach Transformer: Spatial and Channel-wise Transformer Based on Local and Global Self-attentions for PET Image Denoising", arXiv, 2022 (*Harvard*). [[Paper](https://arxiv.org/abs/2209.03300)]
+* **ConvFormer**: "ConvFormer: Combining CNN and Transformer for Medical Image Segmentation", arXiv, 2022 (*University of Notre Dame*). [[Paper](https://arxiv.org/abs/2211.08564)]
 
 [[Back to Overview](#overview)]
 
