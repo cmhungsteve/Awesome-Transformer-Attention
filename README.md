@@ -592,6 +592,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **?**: "Large Models are Parsimonious Learners: Activation Sparsity in Trained Transformers", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2210.06313)]
 * **?**: "Vision Transformer Visualization: What Neurons Tell and How Neurons Behave?", arXiv, 2022 (*Monash University*). [[Paper](https://arxiv.org/abs/2210.07646)][[PyTorch](https://github.com/byM1902/ViT_visualization)]
 * **ViT-CX**: "ViT-CX: Causal Explanation of Vision Transformers", arXiv, 2022 (*HKUST*). [[Paper](https://arxiv.org/abs/2211.03064)]
+* **?**: "Demystify Self-Attention in Vision Transformers from a Semantic Perspective: Analysis and Application", arXiv, 2022 (*The Hong Kong Polytechnic University*). [[Paper](https://arxiv.org/abs/2211.08543)]
 
 [[Back to Overview](#overview)]
 
@@ -1083,6 +1084,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **ProFormer**: "ProFormer: Learning Data-efficient Representations of Body Movement with Prototype-based Feature Augmentation and Visual Transformers", arXiv, 2022 (*Karlsruhe Institute of Technology, Germany*). [[Paper](https://arxiv.org/abs/2202.11423)][[PyTorch](https://github.com/KPeng9510/ProFormer)]
     * **?**: "Spatial Transformer Network with Transfer Learning for Small-scale Fine-grained Skeleton-based Tai Chi Action Recognition", arXiv, 2022 (*Harbin Institute of Technology*). [[Paper](https://arxiv.org/abs/2206.15002)]
     * **STAN**: "Two-Stream Transformer Architecture for Long Video Understanding", arXiv, 2022 (*The University of Surrey, UK*). [[Paper](https://arxiv.org/abs/2208.01753)]
+    * **AdaMAE**: "AdaMAE: Adaptive Masking for Efficient Spatiotemporal Learning with Masked Autoencoders", arXiv, 2022 (*JHU*). [[Paper](https://arxiv.org/abs/2211.09120)][[PyTorch](https://github.com/wgcban/adamae)]
     * **STAR-Transformer**: "STAR-Transformer: A Spatio-temporal Cross Attention Transformer for Human Action Recognition", WACV, 2023 (*Keimyung University, Korea*). [[Paper](https://arxiv.org/abs/2210.07503)]
 * Multi-modal:
     * **MBT**: "Attention Bottlenecks for Multimodal Fusion", NeurIPS, 2021 (*Google*). [[Paper](https://arxiv.org/abs/2107.00135)]
@@ -1122,6 +1124,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **TALLFormer**: "TALLFormer: Temporal Action Localization with Long-memory Transformer", ECCV, 2022 (*UNC*). [[Paper](https://arxiv.org/abs/2204.01680)][[PyTorch](https://github.com/klauscc/TALLFormer)]
 * **?**: "Uncertainty-Based Spatial-Temporal Attention for Online Action Detection", ECCV, 2022 (*Rensselaer Polytechnic Institute, NY*). [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/2138_ECCV_2022_paper.php)]
 * **ActionFormer**: "ActionFormer: Localizing Moments of Actions with Transformers", ECCV, 2022 (*UW-Madison*). [[Paper](https://arxiv.org/abs/2202.07925)][[PyTorch](https://github.com/happyharrycn/actionformer_release)]
+* **ActionFormer**: "Where a Strong Backbone Meets Strong Features -- ActionFormer for Ego4D Moment Queries Challenge", ECCVW, 2022 (*UW-Madison*). [[Paper](https://arxiv.org/abs/2211.09074)][[Pytorch](https://github.com/happyharrycn/actionformer_release)]
 * **CoOadTR**: "Continual Transformers: Redundancy-Free Attention for Online Inference", arXiv, 2022 (*Aarhus University, Denmark*). [[Paper](https://arxiv.org/abs/2201.06268)][[PyTorch](https://github.com/LukasHedegaard/continual-transformers)]
 * **Temporal-Perceiver**: "Temporal Perceiver: A General Architecture for Arbitrary Boundary Detection", arXiv, 2022 (*Nanjing University*). [[Paper](https://arxiv.org/abs/2203.00307)]
 * **LocATe**: "LocATe: End-to-end Localization of Actions in 3D with Transformers", arXiv, 2022 (*Stanford*). [[Paper](https://arxiv.org/abs/2203.10719)]
@@ -1537,6 +1540,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **MILES**: "MILES: Visual BERT Pre-training with Injected Language Semantics for Video-text Retrieval", ECCV, 2022 (*HKU*). [[Paper](https://arxiv.org/abs/2204.12408)]
     * **VTC**: "VTC: Improving Video-Text Retrieval with User Comments", ECCV, 2022 (*Unitary, UK*). [[Paper](https://arxiv.org/abs/2210.10820)][[PyTorch](https://github.com/unitaryai/VTC)][[Website](https://unitaryai.github.io/vtc-paper/)]
     * **LINAS**: "Learning Linguistic Association towards Efficient Text-Video Retrieval", ECCV, 2022 (*CAS*). [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/3305_ECCV_2022_paper.php)][[PyTorch](https://github.com/silenceFS/LINAS)]
+    * **?**: "A Simple Transformer-Based Model for Ego4D Natural Language Queries Challenge", ECCVW, 2022 (*UW-Madison*). [[Paper](https://arxiv.org/abs/2211.08704)]
     * **?**: "Text-Adaptive Multiple Visual Prototype Matching for Video-Text Retrieval", NeurIPS, 2022 (*Sun Yat-sen University*). [[Paper](https://arxiv.org/abs/2209.13307)]
     * **ConTra**: "ConTra: (Con)text (Tra)nsformer for Cross-Modal Video Retrieval", ACCV, 2022 (*University of Bristol, UK*). [[Paper](https://arxiv.org/abs/2210.04341)]
     * **RaP**: "RaP: Redundancy-aware Video-language Pre-training for Text-Video Retrieval", EMNLP, 2022 (*CAS*). [[Paper](https://arxiv.org/abs/2210.06881)][[PyTorch](https://github.com/caskcsg/VLP/tree/main/RaP)]
