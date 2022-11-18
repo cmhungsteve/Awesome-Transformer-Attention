@@ -737,6 +737,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **HQM**: "Towards Hard-Positive Query Mining for DETR-based Human-Object Interaction Detection", ECCV, 2022 (*South China University of Technology*). [[Paper](https://arxiv.org/abs/2207.05293)][[PyTorch](https://github.com/MuchHair/HQM)]
 * **Iwin**: "Iwin: Human-Object Interaction Detection via Transformer with Irregular Windows", ECCV, 2022 (*Shanghai Jiao Tong*). [[Paper](https://arxiv.org/abs/2203.10537)]
 * **?**: "Understanding Embodied Reference with Touch-Line Transformer", arXiv, 2022 (*Tsinghua University*). [[Paper](https://arxiv.org/abs/2210.05668)][[PyTorch](https://github.com/Yang-Li-2000/Understanding-Embodied-Reference-with-Touch-Line-Transformer)]
+* **RLIP**: "RLIP: Relational Language-Image Pre-training for Human-Object Interaction Detection", NeurIPS Spotlight, 2022 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2209.01814)][[PyTorch](https://github.com/JacobYuan7/RLIP)]
 
 [[Back to Overview](#overview)]
 
