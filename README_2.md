@@ -207,6 +207,7 @@
 * **MQT**: "End-to-end Tracking with a Multi-query Transformer", arXiv, 2022 (*Oxford*). [[Paper](https://arxiv.org/abs/2210.14601)]
 * **ProContEXT**: "ProContEXT: Exploring Progressive Context Transformer for Tracking", arXiv, 2022 (*Alibaba*). [[Paper](https://arxiv.org/abs/2210.15511)]
 * **?**: "Efficient Joint Detection and Multiple Object Tracking with Spatially Aware Transformer", arXiv, 2022 (*Sony*). [[Paper](https://arxiv.org/abs/2211.05654)]
+* **MOTRv2**: "MOTRv2: Bootstrapping End-to-End Multi-Object Tracking by Pretrained Object Detectors", arXiv, 2022 (*Megvii*). [[Paper](https://arxiv.org/abs/2211.09791)][[Pytorch](https://github.com/megvii-research/MOTRv2)]
 
 [[Back to Overview](#overview)]
 
