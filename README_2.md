@@ -1191,6 +1191,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **MapTR**: "MapTR: Structured Modeling and Learning for Online Vectorized HD Map Construction", arXiv, 2022 (*Horizon Robotics*). [[Paper](https://arxiv.org/abs/2208.14437)][[Code (in construction)](https://github.com/hustvl/MapTR)]
     * **DCT**: "A Dual-Cycled Cross-View Transformer Network for Unified Road Layout Estimation and 3D Object Detection in the Bird's-Eye-View", arXiv, 2022 (*Gwang-ju Institute of Science and Technology*). [[Paper](https://arxiv.org/abs/2209.08844)]
     * **C-ViT**: "Traffic Accident Risk Forecasting using Contextual Vision Transformers", arXiv, 2022 (*University of Technology Sydney*). [[Paper](https://arxiv.org/abs/2209.11180)]
+    * **BEVFormer-v2**: "BEVFormer v2: Adapting Modern Image Backbones to Bird's-Eye-View Recognition via Perspective Supervision", arXiv, 2022 (*Tsinghua University*). [[Paper](https://arxiv.org/abs/2211.10439)]
 * Trajectory Prediction:
     * **mmTransformer**: "Multimodal Motion Prediction with Stacked Transformers", CVPR, 2021 (*CUHK + SenseTime*). [[Paper](https://arxiv.org/abs/2103.11624)][[Code (in construction)](https://github.com/decisionforce/mmTransformer)][[Website](https://decisionforce.github.io/mmTransformer/)]
     * **AgentFormer**: "AgentFormer: Agent-Aware Transformers for Socio-Temporal Multi-Agent Forecasting", ICCV, 2021 (*CMU*). [[Paper](https://arxiv.org/abs/2103.14023)][[PyTorch](https://github.com/Khrylx/AgentFormer)][[Website](https://www.ye-yuan.com/agentformer/)]
