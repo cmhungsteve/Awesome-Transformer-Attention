@@ -254,6 +254,7 @@ Feel free to share this list with others!
 * **LTH-ViT**: "The Lottery Ticket Hypothesis for Vision Transformers", arXiv, 2022 (*Northeastern University, China*). [[Paper](https://arxiv.org/abs/2211.01484)]
 * **TT**: "Token Transformer: Can class token help window-based transformer build better long-range interactions?", arXiv, 2022 (*Hangzhou Dianzi University*). [[Paper](https://arxiv.org/abs/2211.06083)]
 * **CabViT**: "CabViT: Cross Attention among Blocks for Vision Transformer", arXiv, 2022 (*Intellifusion, China*). [[Paper](https://arxiv.org/abs/2211.07198)][[PyTorch (in construction)](https://github.com/hkzhang91/CabViT)]
+* **SViT**: "Vision Transformer with Super Token Sampling", arXiv, 2022 (*CAS*). [[Paper](https://arxiv.org/abs/2211.11167)]
 #### Efficient Vision Transformer
 * **DeiT**: "Training data-efficient image transformers & distillation through attention", ICML, 2021 (*Facebook*). [[Paper](https://arxiv.org/abs/2012.12877)][[PyTorch](https://github.com/facebookresearch/deit)]
 * **ConViT**: "ConViT: Improving Vision Transformers with Soft Convolutional Inductive Biases", ICML, 2021 (*Facebook*). [[Paper](https://arxiv.org/abs/2103.10697)][[Code](https://github.com/facebookresearch/convit)]
@@ -332,6 +333,7 @@ Feel free to share this list with others!
 * **ToMe**: "Token Merging: Your ViT But Faster", arXiv, 2022 (*Meta*). [[Paper](https://arxiv.org/abs/2210.09461)][[PyTorch](https://github.com/facebookresearch/ToMe)]
 * **ViT-LSLA**: "ViT-LSLA: Vision Transformer with Light Self-Limited-Attention", arXiv, 2022 (*Southwest University*). [[Paper](https://arxiv.org/abs/2210.17115)]
 * **?**: "Training a Vision Transformer from scratch in less than 24 hours with 1 GPU", NeurIPSW, 2022 (*Borealis AI, Canada*). [[Paper](https://arxiv.org/abs/2211.05187)]
+* **Tri-Level**: "Peeling the Onion: Hierarchical Reduction of Data Redundancy for Efficient Vision Transformer Training", AAAI, 2023 (*Northeastern University*). [[Paper](https://arxiv.org/abs/2211.10801)][[Code (in construction)](https://github.com/ZLKong/Tri-Level-ViT)]
 * **ViTCoD**: "ViTCoD: Vision Transformer Acceleration via Dedicated Algorithm and Accelerator Co-Design", IEEE International Symposium on High-Performance Computer Architecture (HPCA), 2023 (*Georgia Tech*). [[Paper](https://arxiv.org/abs/2210.09573)]
 * **ViTALiTy**: "ViTALiTy: Unifying Low-rank and Sparse Approximation for Vision Transformer Acceleration with a Linear Taylor Attention", IEEE International Symposium on High-Performance Computer Architecture (HPCA), 2023 (*Rice University*). [[Paper](https://arxiv.org/abs/2211.05109)]
 * **HeatViT**: "HeatViT: Hardware-Efficient Adaptive Token Pruning for Vision Transformers", IEEE International Symposium on High-Performance Computer Architecture (HPCA), 2023 (*Northeastern University*). [[Paper](https://arxiv.org/abs/2211.08110)]
@@ -913,6 +915,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **DEST**: "Depth Estimation with Simplified Transformer", CVPRW, 2022 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2204.13791)]
 * **MonoViT**: "MonoViT: Self-Supervised Monocular Depth Estimation with a Vision Transformer", 3DV, 2022 (*University of Bologna, Italy*). [[Paper](https://arxiv.org/abs/2208.03543)][[PyTorch](https://github.com/zxcqlf/MonoViT)]
 * **Spike-Transformer**: "Spike Transformer: Monocular Depth Estimation for Spiking Camera", ECCV, 2022 (*Peking University*). [[Paper]()][[PyTorch](https://github.com/Leozhangjiyuan/MDE-SpikingCamera)]
+* **?**: "Hybrid Transformer Based Feature Fusion for Self-Supervised Monocular Depth Estimation", ECCVW, 2022 (*IIT Madras*). [[Paper](https://arxiv.org/abs/2211.11066)]
 * **GLPanoDepth**: "GLPanoDepth: Global-to-Local Panoramic Depth Estimation", arXiv, 2022 (*Nanjing University*). [[Paper](https://arxiv.org/abs/2202.02796)]
 * **DepthFormer**: "DepthFormer: Exploiting Long-Range Correlation and Local Information for Accurate Monocular Depth Estimation", arXiv, 2022 (*Harbin Institute of Technology*). [[Paper](https://arxiv.org/abs/2203.14211)][[PyTorch](https://github.com/zhyever/Monocular-Depth-Estimation-Toolbox)]
 * **BinsFormer**: "BinsFormer: Revisiting Adaptive Bins for Monocular Depth Estimation", arXiv, 2022 (*Harbin Institute of Technology*). [[Paper](https://arxiv.org/abs/2204.00987)][[PyTorch](https://github.com/zhyever/Monocular-Depth-Estimation-Toolbox)]
@@ -930,6 +933,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **SOIT**: "SOIT: Segmenting Objects with Instance-Aware Transformers", AAAI, 2022 (*Hikvision*). [[Paper](https://arxiv.org/abs/2112.11037)][[PyTorch](https://github.com/hikvision-research/opera)]
 * **CAST**: "Concurrent Recognition and Segmentation with Adaptive Segment Tokens", arXiv, 2022 (*Berkeley*). [[Paper](https://arxiv.org/abs/2210.00314)]
 * **?**: "Learning Explicit Object-Centric Representations with Vision Transformers", arXiv, 2022 (*Aalto University, Finland*). [[Paper](https://arxiv.org/abs/2210.14139)]
+* **MSMFormer**: "Mean Shift Mask Transformer for Unseen Object Instance Segmentation", arXiv, 2022 (*UT Dallas*). [[Paper](https://arxiv.org/abs/2211.11679)][[PyTorch](https://github.com/YoungSean/UnseenObjectsWithMeanShift)]
 
 [[Back to Overview](#overview)]
 
@@ -1314,7 +1318,8 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **CLM**: "Zero-shot Image Captioning by Anchor-augmented Vision-Language Space Alignment", arXiv, 2022 (*CAS*). [[Paper](https://arxiv.org/abs/2211.07275)]
     * **PromptCap**: "PromptCap: Prompt-Guided Task-Aware Image Captioning", arXiv, 2022 (*UW*). [[Paper](https://arxiv.org/abs/2211.09699)]
     * **PTSN**: "Progressive Tree-Structured Prototype Network for End-to-End Image Captioning", arXiv, 2022 (*University of Electronic Science and Technology of China (UESTC)*). [[Paper](https://arxiv.org/abs/2211.09460)][[PyTorch (in construction)](https://github.com/NovaMind-Z/PTSN)]
-* Video
+    * **DDCap**: "Exploring Discrete Diffusion Models for Image Captioning", arXiv, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2211.11694)][[PyTorch](https://github.com/buxiangzhiren/DDCap)]
+* Video:
     * **Masked Transformers**: "End-to-End Dense Video Captioning with Masked Transformer", CVPR, 2018 (*UMich + Salesforce*). [[Paper](https://openaccess.thecvf.com/content_cvpr_2018/html/Zhou_End-to-End_Dense_Video_CVPR_2018_paper.html)][[PyTorch](https://github.com/salesforce/densecap)]
     * **BMT**: "A Better Use of Audio-Visual Cues: Dense Video Captioning with Bi-modal Transformer", BMVC, 2020 (*Tampere University, Finland*). [[Paper](https://arxiv.org/abs/2005.08271)][[PyTorch](https://github.com/v-iashin/bmt)][[Website](https://iashin.ai/bmt)]
     * **?**: "Optimizing Latency for Online Video Captioning Using Audio-Visual Transformers", Interspeech, 2021 (*MERL*). [[Paper](https://arxiv.org/abs/2108.02147)]
@@ -1367,6 +1372,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **CIB**: "Finetuning Pretrained Vision-Language Models with Correlation Information Bottleneck for Robust Visual Question Answering", arXiv, 2022 (*Xi'an Jiaotong University*). [[Paper](https://arxiv.org/abs/2209.06954)]
     * **?**: "Compressing And Debiasing Vision-Language Pre-Trained Models for Visual Question Answering", arXiv, 2022 (*CAS*). [[Paper](https://arxiv.org/abs/2210.14558)]
     * **VLR**: "Visually Grounded VQA by Lattice-based Retrieval", arXiv, 2022 (*University of Bremen, Germany*). [[Paper](https://arxiv.org/abs/2211.08086)]
+    * **CMCL**: "Cross-Modal Contrastive Learning for Robust Reasoning in VQA", arxiv, 2022 (*University of Sydney*). [[Paper](https://arxiv.org/abs/2211.11190)][[PyTorch](https://github.com/qizhust/cmcl_vqa_pl)]
     * **VLC-BERT**: "VLC-BERT: Visual Question Answering with Contextualized Commonsense Knowledge", WACV, 2023 (*UBC, Canada*). [[Paper](https://arxiv.org/abs/2210.13626)][[PyTorch](https://github.com/aditya10/VLC-BERT)]
 * Video:
     * **?**: "Mounting Video Metadata on Transformer-based Language Model for Open-ended Video Question Answering", arXiv, 2021 (*Seoul National University*). [[Paper](https://arxiv.org/abs/2108.05158)]
@@ -1408,6 +1414,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **TransVG++**: "TransVG++: End-to-End Visual Grounding with Language Conditioned Vision Transformer", arXiv, 2022 (*USTC*). [[Paper](https://arxiv.org/abs/2206.06619)]
     * **HLGT**: "Hierarchical Local-Global Transformer for Temporal Sentence Grounding", arXiv, 2022 (*Huazhong University of Science and Technology*). [[Paper](https://arxiv.org/abs/2208.14882)]
     * **Dynamic-MDETR**: "Dynamic MDETR: A Dynamic Multimodal Transformer Decoder for Visual Grounding", arXiv, 2022 (*Nanjing University*). [[Paper](https://arxiv.org/abs/2209.13959)]
+    * **ClipCrop**: "ClipCrop: Conditioned Cropping Driven by Vision-Language Model", arXiv, 2022 (*The University of Tokyo*). [[Paper](https://arxiv.org/abs/2211.11492)]
     * **VL-MPAG-Net**: "Grounding Scene Graphs on Natural Images via Visio-Lingual Message Passing", WACV, 2023 (*Indian Institute of Science*). [[Paper](https://arxiv.org/abs/2211.01969)][[PyTorch](https://github.com/IISCAditayTripathi/Scene-graph-localization)][[Website](https://iiscaditaytripathi.github.io/sgl/)]
 * Video:
     * **Multi-Stage-Transformer**: "Multi-Stage Aggregated Transformer Network for Temporal Language Localization in Videos", CVPR, 2021 (*University of Electronic Science and Technology of China*). [[Paper](https://openaccess.thecvf.com/content/CVPR2021/html/Zhang_Multi-Stage_Aggregated_Transformer_Network_for_Temporal_Language_Localization_in_Videos_CVPR_2021_paper.html)]
@@ -1497,6 +1504,8 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **CN-CLIP**: "Chinese CLIP: Contrastive Vision-Language Pretraining in Chinese", arXiv, 2022 (*Alibaba*). [[Paper](https://arxiv.org/abs/2211.01335)]
     * **Uni-Perceiver-v2**: "Uni-Perceiver v2: A Generalist Model for Large-Scale Vision and Vision-Language Tasks", arXiv, 2022 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2211.09808)][[PyTorch](https://github.com/fundamentalvision/Uni-Perceiver)]
     * **CLOSE**: "I Can't Believe There's No Images! Learning Visual Tasks Using only Language Data", arXiv, 2022 (*AI2*). [[Paper](https://arxiv.org/abs/2211.09778)]
+    * **SVLC**: "Teaching Structured Vision&Language Concepts to Vision&Language Models", arXiv, 2022 (*IBM*). [[Paper](https://arxiv.org/abs/2211.11733)]
+    * **Perceiver-VL**: "Perceiver-VL: Efficient Vision-and-Language Modeling with Iterative Latent Attention", WACV, 2023 (*UNC*). [[Paper](https://arxiv.org/abs/2211.11701)][[PyTorch](https://github.com/zinengtang/Perceiver_VL)]
 * Video:
     * **COOT**: "COOT: Cooperative Hierarchical Transformer for Video-Text Representation Learning", NeurIPS, 2020 (*University of Freiburg*). [[Paper](https://arxiv.org/abs/2011.00597)][[PyTorch](https://github.com/gingsi/coot-videotext)]
     * **Parameter-Reduction**: "Parameter Efficient Multimodal Transformers for Video Representation Learning", ICLR, 2021 (*Seoul National University*). [[Paper](https://openreview.net/forum?id=6UdQLhqJyFD)]
@@ -1510,6 +1519,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **?**: "Learning Audio-Video Modalities from Image Captions", ECCV, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2204.00679)]
     * **MUGEN**: "MUGEN: A Playground for Video-Audio-Text Multimodal Understanding and GENeration", ECCV, 2022 (*Meta*). [[Paper](https://arxiv.org/abs/2204.08058)][[Website](https://mugen-org.github.io/)]
     * **LiteVL**: "LiteVL: Efficient Video-Language Learning with Enhanced Spatial-Temporal Modeling", EMNLP, 2022 (*Peking University*). [[Paper](https://arxiv.org/abs/2210.11929)]
+    * **EMCL**: "Expectation-Maximization Contrastive Learning for Compact Video-and-Language Representations", NeurIPS, 2022 (*Peking University*). [[Paper](https://arxiv.org/abs/2211.11427)][[PyTorch](https://github.com/jpthu17/EMCL)]
     * **EgoVLP**: "Egocentric Video-Language Pretraining", arXiv, 2022 (*NUS*). [[Paper](https://arxiv.org/abs/2206.01670)][[Code (in construction)](https://github.com/showlab/EgoVLP)]
     * **Singularity**: "Revealing Single Frame Bias for Video-and-Language Learning", arXiv, 2022 (*UNC*). [[Paper](https://arxiv.org/abs/2206.03428)]
     * **LAVENDER**: "LAVENDER: Unifying Video-Language Understanding as Masked Language Modeling", arXiv, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2206.07160)][[Code (in construction)](https://github.com/microsoft/LAVENDER)]
@@ -1664,6 +1674,8 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **CPL**: "CPL: Counterfactual Prompt Learning for Vision and Language Models", arXiv, 2022 (*UC Santa Cruz*). [[Paper](https://arxiv.org/abs/2210.10362)]
     * **PTP**: "Prompting through Prototype: A Prototype-based Prompt Learning on Pretrained Vision-Language Models", arXiv, 2022 (*Baidu*). [[Paper](https://arxiv.org/abs/2210.10841)]
     * **TaskRes**: "Task Residual for Tuning Vision-Language Models", arXiv, 2022 (*NUS*). [[Paper](https://arxiv.org/abs/2211.10277)][[Code (in construction)](https://github.com/geekyutao/TaskRes)]
+    * **MVLPT**: "Multitask Vision-Language Prompt Tuning", arXiv, 2022 (*Berkeley*). [[Paper](https://arxiv.org/abs/2211.11720)][[PyTorch](https://github.com/sIncerass/MVLPT)]
+    * **ILM-VP**: "Understanding and Improving Visual Prompting: A Label-Mapping Perspective", arXiv, 2022 (*Michigan State*). [[Paper](https://arxiv.org/abs/2211.11635)][[PyTorch (in construction)](https://github.com/OPTML-Group/ILM-VP)]
 * X-Shot:
     * **VidIL**: "Language Models with Image Descriptors are Strong Few-Shot Video-Language Learners", NeurIPS, 2022 (*UIUC*). [[Paper](https://arxiv.org/abs/2205.10747)][[PyTorch](https://github.com/MikeWangWZHL/VidIL)]
     * **LIMoE**: "Multimodal Contrastive Learning with LIMoE: the Language-Image Mixture of Experts", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2206.02770)]
