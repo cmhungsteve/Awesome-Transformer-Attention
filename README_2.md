@@ -150,6 +150,7 @@
     * **SoMoFormer**: "SoMoFormer: Multi-Person Pose Forecasting with Transformers", arXiv, 2022 (*Stanford*). [[Paper](https://arxiv.org/abs/2208.14023)]
     * **DPIT**: "DPIT: Dual-Pipeline Integrated Transformer for Human Pose Estimation", arXiv, 2022 (*Shanghai University*). [[Paper](https://arxiv.org/abs/2209.02431)]
     * **Uplift-Upsample**: "Uplift and Upsample: Efficient 3D Human Pose Estimation with Uplifting Transformers", WACV, 2023 (*University of Augsburg, Germany*). [[Paper](https://arxiv.org/abs/2210.06110)][[Tensorflow](https://github.com/goldbricklemon/uplift-upsample-3dhpe)]
+    * **TORE**: "TORE: Token Reduction for Efficient Human Mesh Recovery with Transformer", arXiv, 2022 (*HKU*). [[Paper](https://arxiv.org/abs/2211.10705)]
 * Hands:
     * **Hand-Transformer**: "Hand-Transformer: Non-Autoregressive Structured Modeling for 3D Hand Pose Estimation", ECCV, 2020 (*Kwai*). [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/4836_ECCV_2020_paper.php)]
     * **SCAT**: "SCAT: Stride Consistency With Auto-Regressive Regressor and Transformer for Hand Pose Estimation", ICCVW, 2021 (*Alibaba*). [[Paper](https://openaccess.thecvf.com/content/ICCV2021W/SoMoF/html/Gao_SCAT_Stride_Consistency_With_Auto-Regressive_Regressor_and_Transformer_for_Hand_ICCVW_2021_paper.html)]
@@ -1097,6 +1098,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **LPT**: "LPT: Long-tailed Prompt Tuning for Image Classification", arXiv, 2022 (*Harbin Institute of Technology*). [[Paper](https://arxiv.org/abs/2210.01033)]
 * Metric Learning:
     * **Hyp-ViT**: "Hyperbolic Vision Transformers: Combining Improvements in Metric Learning", CVPR, 2022 (*University of Trento, Italy*). [[Paper](https://arxiv.org/abs/2203.10833)][[PyTorch](https://github.com/htdt/hyp_metric)]
+    * **BGFormer**: "Rethinking Batch Sample Relationships for Data Representation: A Batch-Graph Transformer based Approach", arXiv, 2022 (*Anhui University*). [[Paper](https://arxiv.org/abs/2211.10622)]
 * Multi-Input:
     * **MixViT**: "Adapting Multi-Input Multi-Output schemes to Vision Transformers", CVPRW, 2022 (*Sorbonne Universite, France*). [[Paper](https://remysun.github.io/publication/wcvpr_2022_mixvit/paper.pdf)]
 * Multi-label:
