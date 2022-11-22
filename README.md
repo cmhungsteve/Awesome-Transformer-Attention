@@ -306,6 +306,7 @@ Feel free to share this list with others!
 * **SiT**: "Self-slimmed Vision Transformer", ECCV, 2022 (*SenseTime*). [[Paper](https://arxiv.org/abs/2111.12624)][[PyTorch](https://github.com/Sense-X/SiT)]
 * **DFvT**: "Doubly-Fused ViT: Fuse Information from Vision Transformer Doubly with Local Representation", ECCV, 2022 (*Alibaba*). [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/322_ECCV_2022_paper.php)]
 * **M<sup>3</sup>ViT**: "M<sup>3</sup>ViT: Mixture-of-Experts Vision Transformer for Efficient Multi-task Learning with Model-Accelerator Co-design", NeurIPS, 2022 (*UT Austin*). [[Paper](https://arxiv.org/abs/2210.14793)][[PyTorch](https://github.com/VITA-Group/M3ViT)]
+* **?**: "Training a Vision Transformer from scratch in less than 24 hours with 1 GPU", NeurIPSW, 2022 (*Borealis AI, Canada*). [[Paper](https://arxiv.org/abs/2211.05187)]
 * **TerViT**: "TerViT: An Efficient Ternary Vision Transformer", arXiv, 2022 (*Beihang University*). [[Paper](https://arxiv.org/abs/2201.08050)]
 * **MT-ViT**: "Multi-Tailed Vision Transformer for Efficient Inference", arXiv, 2022 (*Wuhan University*). [[Paper](https://arxiv.org/abs/2203.01587)]
 * **ViT-P**: "ViT-P: Rethinking Data-efficient Vision Transformers from Locality", arXiv, 2022 (*Chongqing University of Technology*). [[Paper](https://arxiv.org/abs/2203.02358)]
@@ -332,7 +333,7 @@ Feel free to share this list with others!
 * **MobileViTv3**: "MobileViTv3: Mobile-Friendly Vision Transformer with Simple and Effective Fusion of Local, Global and Input Features", arXiv, 2022 (*Micron*). [[Paper](https://arxiv.org/abs/2209.15159)][[PyTorch](https://github.com/micronDLA/MobileViTv3)]
 * **ToMe**: "Token Merging: Your ViT But Faster", arXiv, 2022 (*Meta*). [[Paper](https://arxiv.org/abs/2210.09461)][[PyTorch](https://github.com/facebookresearch/ToMe)]
 * **ViT-LSLA**: "ViT-LSLA: Vision Transformer with Light Self-Limited-Attention", arXiv, 2022 (*Southwest University*). [[Paper](https://arxiv.org/abs/2210.17115)]
-* **?**: "Training a Vision Transformer from scratch in less than 24 hours with 1 GPU", NeurIPSW, 2022 (*Borealis AI, Canada*). [[Paper](https://arxiv.org/abs/2211.05187)]
+* **Castling-ViT**: "Castling-ViT: Compressing Self-Attention via Switching Towards Linear-Angular Attention During Vision Transformer Inference", arXiv, 2022 (*Meta*). [[Paper](https://arxiv.org/abs/2211.10526)]
 * **Tri-Level**: "Peeling the Onion: Hierarchical Reduction of Data Redundancy for Efficient Vision Transformer Training", AAAI, 2023 (*Northeastern University*). [[Paper](https://arxiv.org/abs/2211.10801)][[Code (in construction)](https://github.com/ZLKong/Tri-Level-ViT)]
 * **ViTCoD**: "ViTCoD: Vision Transformer Acceleration via Dedicated Algorithm and Accelerator Co-Design", IEEE International Symposium on High-Performance Computer Architecture (HPCA), 2023 (*Georgia Tech*). [[Paper](https://arxiv.org/abs/2210.09573)]
 * **ViTALiTy**: "ViTALiTy: Unifying Low-rank and Sparse Approximation for Vision Transformer Acceleration with a Linear Taylor Attention", IEEE International Symposium on High-Performance Computer Architecture (HPCA), 2023 (*Rice University*). [[Paper](https://arxiv.org/abs/2211.05109)]
@@ -1032,6 +1033,8 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **ViL-Seg**: "Open-world Semantic Segmentation via Contrasting and Clustering Vision-Language Embedding", ECCV, 2022 (*CUHK*). [[Paper](https://arxiv.org/abs/2207.08455)]
     * **Fusioner**: "Open-vocabulary Semantic Segmentation with Frozen Vision-Language Models", BMVC, 2022 (*Shanghai Jiao Tong University*). [[Paper](https://arxiv.org/abs/2210.15138)][[Website](https://yyh-rain-song.github.io/Fusioner_webpage/)]
     * **OVSeg**: "Open-Vocabulary Semantic Segmentation with Mask-adapted CLIP", arXiv, 2022 (*Meta*). [[Paper](https://arxiv.org/abs/2210.04150)][[Website](https://jeff-liangf.github.io/projects/ovseg/)]
+* Surface Normal:
+    * **Normal-Transformer**: "Normal Transformer: Extracting Surface Geometry from LiDAR Points Enhanced by Visual Semantics", arXiv, 2022 (*University of Technology Sydney*). [[Paper](https://arxiv.org/abs/2211.10580)]
 * Applications:
     * **FloodTransformer**: "Transformer-based Flood Scene Segmentation for Developing Countries", NeurIPSW, 2022 (*BITS Pilani, India*). [[Paper](https://arxiv.org/abs/2210.04218)]
 
@@ -1373,6 +1376,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **?**: "Compressing And Debiasing Vision-Language Pre-Trained Models for Visual Question Answering", arXiv, 2022 (*CAS*). [[Paper](https://arxiv.org/abs/2210.14558)]
     * **VLR**: "Visually Grounded VQA by Lattice-based Retrieval", arXiv, 2022 (*University of Bremen, Germany*). [[Paper](https://arxiv.org/abs/2211.08086)]
     * **CMCL**: "Cross-Modal Contrastive Learning for Robust Reasoning in VQA", arxiv, 2022 (*University of Sydney*). [[Paper](https://arxiv.org/abs/2211.11190)][[PyTorch](https://github.com/qizhust/cmcl_vqa_pl)]
+    * **CL-CrossVQA**: "CL-CrossVQA: A Continual Learning Benchmark for Cross-Domain Visual Question Answering", arXiv, 2022 (*LMU Munich*). [[Paper](https://arxiv.org/abs/2211.10567)]
     * **VLC-BERT**: "VLC-BERT: Visual Question Answering with Contextualized Commonsense Knowledge", WACV, 2023 (*UBC, Canada*). [[Paper](https://arxiv.org/abs/2210.13626)][[PyTorch](https://github.com/aditya10/VLC-BERT)]
 * Video:
     * **?**: "Mounting Video Metadata on Transformer-based Language Model for Open-ended Video Question Answering", arXiv, 2021 (*Seoul National University*). [[Paper](https://arxiv.org/abs/2108.05158)]
@@ -1506,6 +1510,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **CLOSE**: "I Can't Believe There's No Images! Learning Visual Tasks Using only Language Data", arXiv, 2022 (*AI2*). [[Paper](https://arxiv.org/abs/2211.09778)]
     * **SVLC**: "Teaching Structured Vision&Language Concepts to Vision&Language Models", arXiv, 2022 (*IBM*). [[Paper](https://arxiv.org/abs/2211.11733)]
     * **Perceiver-VL**: "Perceiver-VL: Efficient Vision-and-Language Modeling with Iterative Latent Attention", WACV, 2023 (*UNC*). [[Paper](https://arxiv.org/abs/2211.11701)][[PyTorch](https://github.com/zinengtang/Perceiver_VL)]
+    * **?**: "Unifying Vision-Language Representation Space with Single-tower Transformer", AAAI, 2023 (*NAVER*). [[Paper](https://arxiv.org/abs/2211.11153)]
 * Video:
     * **COOT**: "COOT: Cooperative Hierarchical Transformer for Video-Text Representation Learning", NeurIPS, 2020 (*University of Freiburg*). [[Paper](https://arxiv.org/abs/2011.00597)][[PyTorch](https://github.com/gingsi/coot-videotext)]
     * **Parameter-Reduction**: "Parameter Efficient Multimodal Transformers for Video Representation Learning", ICLR, 2021 (*Seoul National University*). [[Paper](https://openreview.net/forum?id=6UdQLhqJyFD)]
@@ -1615,6 +1620,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **Imagen-Video**: "Imagen Video: High Definition Video Generation with Diffusion Models", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2210.02303)][[Website](https://imagen.research.google/video/)]
     * **Phenaki**: "Phenaki: Variable Length Video Generation From Open Domain Textual Description", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2210.02399)][[PyTorch (LAION-AI, in construction)](https://github.com/LAION-AI/phenaki)][[Website](https://phenaki.video/)]
     * **?**: "Towards Real-Time Text2Video via CLIP-Guided, Pixel-Level Optimization", arXiv, 2022 (*CMU*). [[Paper](https://arxiv.org/abs/2210.12826)][[PyTorch](https://github.com/pschaldenbrand/Text2Video)][[Website](https://pschaldenbrand.github.io/text2video/)]
+    * **MagicVideo**: "MagicVideo: Efficient Video Generation With Latent Diffusion Models", arXiv, 2022 (*ByteDance*). [[Paper](https://arxiv.org/abs/2211.11018)][[Website](https://magicvideo.github.io/)]
 
 [[Back to Overview](#overview)]
 
@@ -1742,6 +1748,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **AVA-Memory**: "Audio-Visual Mismatch-Aware Video Retrieval via Association and Adjustment", ECCV, 2022 (*KAIST*). [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/5034_ECCV_2022_paper.php)]
     * **PC-VAE**: "Multimodal Transformer for Parallel Concatenated Variational Autoencoders", NeurIPSW, 2022 (*USC*). [[Paper](https://arxiv.org/abs/2210.16174)]
     * **MTD**: "Multimodal Transformer Distillation for Audio-Visual Synchronization", arXiv, 2022 (*NTU*). [[Paper](https://arxiv.org/abs/2210.15563)]
+    * **VATLM**: "VATLM: Visual-Audio-Text Pre-Training with Unified Masked Prediction for Speech Representation Learning", arXiv, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2211.11275)][[PyTorch](https://github.com/microsoft/SpeechT5/tree/main/VATLM)]
     * **AVE-CLIP**: "AVE-CLIP: AudioCLIP-based Multi-window Temporal Transformer for Audio Visual Event Localization", WACV, 2023 (*UT Austin*). [[Paper](https://arxiv.org/abs/2210.05060)]
 * Sentiment Analysis:
     * **CubeMLP**: "CubeMLP: A MLP-based Model for Multimodal Sentiment Analysis and Depression Estimation", ACMMM, 2022 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2207.14087)]
