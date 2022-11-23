@@ -370,6 +370,7 @@ Feel free to share this list with others!
 * **STM**: "Demystify Transformers & Convolutions in Modern Image Deep Networks", arXiv, 2022 (*Tsinghua University*). [[Paper](https://arxiv.org/abs/2211.05781)][[Code (in construction)(https://github.com/OpenGVLab/STM-Evaluation)]]
 * **InternImage**: "InternImage: Exploring Large-Scale Vision Foundation Models with Deformable Convolutions", arXiv, 2022 (*Shanghai AI Laboratory*). [[Paper](https://arxiv.org/abs/2211.05778)][[Code (in construction)](https://github.com/OpenGVLab/InternImage)]
 * **ParCNetV2**: "ParCNetV2: Oversized Kernel with Enhanced Attention", arXiv, 2022 (*Intellifusion, China*). [[Paper](https://arxiv.org/abs/2211.07157)]
+* **Conv2Former**: "Conv2Former: A Simple Transformer-Style ConvNet for Visual Recognition", arXiv, 2022 (*ByteDance*). [[Paper](https://arxiv.org/abs/2211.11943)]
 * **SATA**: "Accumulated Trivial Attention Matters in Vision Transformers on Small Datasets", WACV, 2023 (*University of Kansas*). [[Paper](https://arxiv.org/abs/2210.12333)][[PyTorch (in construction)](https://github.com/xiangyu8/SATA)]
 #### Training + Transformer
 * **iGPT**: "Generative Pretraining From Pixels", ICML, 2020 (*OpenAI*). [[Paper](http://proceedings.mlr.press/v119/chen20s.html)][[Tensorflow](https://github.com/openai/image-gpt)]
@@ -652,6 +653,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **KD-DETR**: "Knowledge Distillation for Detection Transformer with Consistent Distillation Points Sampling", arXiv, 2022 (*Baidu*). [[Paper](https://arxiv.org/abs/2211.08071)]
     * **D<sup>3</sup>ETR**: "D<sup>3</sup>ETR: Decoder Distillation for Detection Transformer", arXiv, 2022 (*Peking University*). [[Paper](https://arxiv.org/abs/2211.09768)]
     * **DETRDistill**: "DETRDistill: A Universal Knowledge Distillation Framework for DETR-families", arXiv, 2022 (*USTC*). [[Paper](https://arxiv.org/abs/2211.10156)]
+    * **each-DETR**: "Teach-DETR: Better Training DETR with Teachers", arXiv, 2022 (*CUHK*). [[Paper](https://arxiv.org/abs/2211.11953)][[Code (in construction)](https://github.com/LeonHLJ/Teach-DETR)]
 * Transformer-based backbone:
     * **ViT-FRCNN**: "Toward Transformer-Based Object Detection", arXiv, 2020 (*Pinterest*). [[Paper](https://arxiv.org/abs/2012.09958)]
     * **WB-DETR**: "WB-DETR: Transformer-Based Detector Without Backbone", ICCV, 2021 (*CAS*). [[Paper](https://openaccess.thecvf.com/content/ICCV2021/html/Liu_WB-DETR_Transformer-Based_Detector_Without_Backbone_ICCV_2021_paper.html)]
@@ -1233,6 +1235,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **EVL**: "Frozen CLIP Models are Efficient Video Learners", ECCV, 2022 (*CUHK*). [[Paper](https://arxiv.org/abs/2208.03550)][[PyTorch (in construction)](https://github.com/OpenGVLab/efficient-video-recognition)]
     * **STALE**: "Zero-Shot Temporal Action Detection via Vision-Language Prompting", ECCV, 2022 (*University of Surrey, UK*). [[Paper](https://arxiv.org/abs/2207.08184)][[Code (in construction)](https://github.com/sauradip/STALE)]
     * **FineCo**: "Contrastive Video-Language Learning with Fine-grained Frame Sampling", AACL, 2022 (*ICL, UK*). [[Paper](https://arxiv.org/abs/2210.05039)]
+    * **?**: "Knowledge Prompting for Few-shot Action Recognition", arXiv, 2022 (*Beijing Laboratory of Intelligent Information Technology*). [[Paper](https://arxiv.org/abs/2211.12030)]
     * **MovieCLIP**: "MovieCLIP: Visual Scene Recognition in Movies", WACV, 2023 (*USC*). [[Paper](https://arxiv.org/abs/2210.11065)][[Website](https://sail.usc.edu/~mica/MovieCLIP/)]
 * X-supervised Learning:
     * **LSTCL**: "Long-Short Temporal Contrastive Learning of Video Transformers", CVPR, 2022 (*Facebook*). [[Paper](https://arxiv.org/abs/2106.09212)]
@@ -1327,6 +1330,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **BMT**: "A Better Use of Audio-Visual Cues: Dense Video Captioning with Bi-modal Transformer", BMVC, 2020 (*Tampere University, Finland*). [[Paper](https://arxiv.org/abs/2005.08271)][[PyTorch](https://github.com/v-iashin/bmt)][[Website](https://iashin.ai/bmt)]
     * **?**: "Optimizing Latency for Online Video Captioning Using Audio-Visual Transformers", Interspeech, 2021 (*MERL*). [[Paper](https://arxiv.org/abs/2108.02147)]
     * **VGCL**: "Video-Guided Curriculum Learning for Spoken Video Grounding", ACMMM, 2022 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2209.00277)][[PyTorch](https://github.com/marmot-xy/Spoken-Video-Grounding)]
+    * **UVC-VI**: "Aligning Source Visual and Target Language Domains for Unpaired Video Captioning", TPAMI, 2022 (*Peking University*). [[Paper](https://arxiv.org/abs/2211.12148)]
     * **D2**: "Dual-Level Decoupled Transformer for Video Captioning", arXiv, 2022 (*Northwestern Polytechnical University, China*). [[Paper](https://arxiv.org/abs/2205.03039)]
     * **VASTA**: "Diverse Video Captioning by Adaptive Spatio-temporal Attention", arXiv, 2022 (*University of Tubingen, Germany*). [[Paper](https://arxiv.org/abs/2208.09266)]
     * **VCRN**: "Visual Commonsense-aware Representation Network for Video Captioning", arXiv, 2022 (*University of Electronic Science and Technology of China (UESTC)*). [[Paper](https://arxiv.org/abs/2211.09469)][[PyTorch (in construction)](https://github.com/zchoi/VCRN)]
@@ -1420,6 +1424,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **Dynamic-MDETR**: "Dynamic MDETR: A Dynamic Multimodal Transformer Decoder for Visual Grounding", arXiv, 2022 (*Nanjing University*). [[Paper](https://arxiv.org/abs/2209.13959)]
     * **ClipCrop**: "ClipCrop: Conditioned Cropping Driven by Vision-Language Model", arXiv, 2022 (*The University of Tokyo*). [[Paper](https://arxiv.org/abs/2211.11492)]
     * **VL-MPAG-Net**: "Grounding Scene Graphs on Natural Images via Visio-Lingual Message Passing", WACV, 2023 (*Indian Institute of Science*). [[Paper](https://arxiv.org/abs/2211.01969)][[PyTorch](https://github.com/IISCAditayTripathi/Scene-graph-localization)][[Website](https://iiscaditaytripathi.github.io/sgl/)]
+    * **CLEVER**: "Visually Grounded Commonsense Knowledge Acquisition", AAAI, 2023 (*Tsinghua University*). [[Paper](https://arxiv.org/abs/2211.12054)][[PyTorch](https://github.com/thunlp/CLEVER)]
 * Video:
     * **Multi-Stage-Transformer**: "Multi-Stage Aggregated Transformer Network for Temporal Language Localization in Videos", CVPR, 2021 (*University of Electronic Science and Technology of China*). [[Paper](https://openaccess.thecvf.com/content/CVPR2021/html/Zhang_Multi-Stage_Aggregated_Transformer_Network_for_Temporal_Language_Localization_in_Videos_CVPR_2021_paper.html)]
     * **GTR**: "On Pursuit of Designing Multi-modal Transformer for Video Grounding", EMNLP, 2021 (*Peking*). [[Paper](https://arxiv.org/abs/2109.06085)]
@@ -1512,6 +1517,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **CLOSE**: "I Can't Believe There's No Images! Learning Visual Tasks Using only Language Data", arXiv, 2022 (*AI2*). [[Paper](https://arxiv.org/abs/2211.09778)]
     * **SVLC**: "Teaching Structured Vision&Language Concepts to Vision&Language Models", arXiv, 2022 (*IBM*). [[Paper](https://arxiv.org/abs/2211.11733)]
     * **VATLM**: "VATLM: Visual-Audio-Text Pre-Training with Unified Masked Prediction for Speech Representation Learning", arXiv, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2211.11275)][[PyTorch](https://github.com/microsoft/SpeechT5/tree/main/VATLM)]
+    * **X<sup>2</sup>-VLM**: "X<sup>2</sup>-VLM: All-In-One Pre-trained Model For Vision-Language Tasks", arXiv, 2022 (*ByteDance*). [[Paper](https://arxiv.org/abs/2211.12402)][[Code (in construction)](https://github.com/zengyan-97/X2-VLM)]
     * **Perceiver-VL**: "Perceiver-VL: Efficient Vision-and-Language Modeling with Iterative Latent Attention", WACV, 2023 (*UNC*). [[Paper](https://arxiv.org/abs/2211.11701)][[PyTorch](https://github.com/zinengtang/Perceiver_VL)]
     * **?**: "Unifying Vision-Language Representation Space with Single-tower Transformer", AAAI, 2023 (*NAVER*). [[Paper](https://arxiv.org/abs/2211.11153)]
 * Video:
@@ -1598,6 +1604,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **StoryDALL-E**: "StoryDALL-E: Adapting Pretrained Text-to-Image Transformers for Story Continuation", ECCV, 2022 (*UNC*). [[Paper](https://arxiv.org/abs/2209.06192)][[PyTorch](https://github.com/adymaharana/storydalle)]	
     * **Make-A-Scene**: "Make-A-Scene: Scene-Based Text-to-Image Generation with Human Priors", ECCV, 2022 (*Meta*). [[Paper](https://arxiv.org/abs/2203.13131)][[Video](https://www.youtube.com/watch?v=QLTyqoJJKTo&ab_channel=OranGafni)]
     * **TCTIG**: "Trace Controlled Text to Image Generation", ECCV, 2022 (*Beihang University*). [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/1894_ECCV_2022_paper.php)]
+    * **?**: "Human Evaluation of Text-to-Image Models on a Multi-Task Benchmark", NeurIPSW, 2022 (*Boston + MIT + Columbia*). [[Paper](https://arxiv.org/abs/2211.12112)]
     * **DALL-Eval**: "DALL-Eval: Probing the Reasoning Skills and Social Biases of Text-to-Image Generative Transformers", arXiv, 2022 (*UNC*). [[Paper](https://arxiv.org/abs/2202.04053)][[PyTorch](https://github.com/j-min/DallEval)]
     * **DALL-E-2**: "Hierarchical Text-Conditional Image Generation with CLIP Latents", arXiv, 2022 (*OpenAI*). [[Paper](https://arxiv.org/abs/2204.06125)][[Website](https://openai.com/dall-e-2/)]
     * **CogView2**: "CogView2: Faster and Better Text-to-Image Generation via Hierarchical Transformers", arXiv, 2022 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2204.14217)][[PyTorch](https://github.com/THUDM/CogView2)]
