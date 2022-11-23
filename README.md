@@ -1329,6 +1329,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **Masked Transformers**: "End-to-End Dense Video Captioning with Masked Transformer", CVPR, 2018 (*UMich + Salesforce*). [[Paper](https://openaccess.thecvf.com/content_cvpr_2018/html/Zhou_End-to-End_Dense_Video_CVPR_2018_paper.html)][[PyTorch](https://github.com/salesforce/densecap)]
     * **BMT**: "A Better Use of Audio-Visual Cues: Dense Video Captioning with Bi-modal Transformer", BMVC, 2020 (*Tampere University, Finland*). [[Paper](https://arxiv.org/abs/2005.08271)][[PyTorch](https://github.com/v-iashin/bmt)][[Website](https://iashin.ai/bmt)]
     * **?**: "Optimizing Latency for Online Video Captioning Using Audio-Visual Transformers", Interspeech, 2021 (*MERL*). [[Paper](https://arxiv.org/abs/2108.02147)]
+    * **MV-GPT**: "End-to-end Generative Pretraining for Multimodal Video Captioning", CVPR, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2201.08264)]
     * **VGCL**: "Video-Guided Curriculum Learning for Spoken Video Grounding", ACMMM, 2022 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2209.00277)][[PyTorch](https://github.com/marmot-xy/Spoken-Video-Grounding)]
     * **UVC-VI**: "Aligning Source Visual and Target Language Domains for Unpaired Video Captioning", TPAMI, 2022 (*Peking University*). [[Paper](https://arxiv.org/abs/2211.12148)]
     * **D2**: "Dual-Level Decoupled Transformer for Video Captioning", arXiv, 2022 (*Northwestern Polytechnical University, China*). [[Paper](https://arxiv.org/abs/2205.03039)]
