@@ -1444,6 +1444,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **CATT**: "Causal Attention for Vision-Language Tasks", CVPR, 2021 (*NTU Singapore*). [[Paper](https://arxiv.org/abs/2103.03493)][[PyTorch](https://github.com/yangxuntu/lxmertcatt)]
     * **CLIP**: "Learning Transferable Visual Models From Natural Language Supervision", ICML, 2021 (*OpenAI*). [[Paper](https://arxiv.org/abs/2103.00020)][[PyTorch](https://github.com/openai/CLIP)]
     * **ViLT**: "ViLT: Vision-and-Language Transformer Without Convolution or Region Supervision", ICML, 2021 (*Kakao*). [[Paper](https://arxiv.org/abs/2102.03334)][[PyTorch](https://github.com/dandelin/vilt)]
+    * **MERLOT**: "MERLOT: Multimodal Neural Script Knowledge Models", NeurIPS, 2021 (*UW + AI2*). [[Paper(https://arxiv.org/abs/2106.02636)]][[Tensorflow](https://github.com/rowanz/merlot)][[Website](https://rowanzellers.com/merlot/)]
     * **SVO-Probes**: "Probing Image-Language Transformers for Verb Understanding", arXiv, 2021 (*DeepMind*). [[Paper](https://arxiv.org/abs/2106.09141)]
     * **CLIP-ViL**: "How Much Can CLIP Benefit Vision-and-Language Tasks?", arXiv, 2021 (*Berkeley + UCLA*). [[Paper](https://arxiv.org/abs/2107.06383)][[PyTorch](https://github.com/clip-vil/CLIP-ViL)]
     * **Florence**: "Florence: A New Foundation Model for Computer Vision", arXiv, 2021 (*Microsoft*). [[Paper](https://arxiv.org/abs/2111.11432)]
@@ -1454,6 +1455,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **LEMON**: "Scaling Up Vision-Language Pre-training for Image Captioning", CVPR, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2111.12233)]
     * **METER**: "An Empirical Study of Training End-to-End Vision-and-Language Transformers", CVPR, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2111.02387)][[PyTorch](https://github.com/zdou0830/METER)]
     * **Uni-Perceiver**: "Uni-Perceiver: Pre-training Unified Architecture for Generic Perception for Zero-shot and Few-shot Tasks", CVPR, 2022 (*SenseTime*). [[Paper](https://arxiv.org/abs/2112.01522)][[PyTorch](https://github.com/fundamentalvision/Uni-Perceiver)]
+    * **MERLOT-Reserve**: "MERLOT Reserve: Neural Script Knowledge through Vision and Language and Sound", CVPR, 2022 (*UW + AI2*). [[Paper](https://arxiv.org/abs/2201.02639)][[JAX](https://github.com/rowanz/merlot_reserve)][[Website](https://rowanzellers.com/merlotreserve/)]
     * **CM-mix**: "Pre-training image-language transformers for open-vocabulary tasks", CVPRW, 2022 (*Google*). [[Paper](https://drive.google.com/file/d/1dYM4g42rptj647v1EfNARmnCt3HdPpNR/view)]
     * **VLMixer**: "VLMixer: Unpaired Vision-Language Pre-training via Cross-Modal CutMix", ICML, 2022 (*Southern University of Science and Technology*). [[Paper](https://arxiv.org/abs/2206.08919)][[Code (in construction)](https://github.com/ttengwang/VLMixer)]
     * **VLUE**: "VLUE: A Multi-Task Benchmark for Evaluating Vision-Language Models", ICML, 2022 (*ByteDance*). [[Paper](https://arxiv.org/abs/2205.15237)][[Website](https://vlue-benchmark.github.io/)][[PyTorch](https://github.com/MichaelZhouwang/VLUE)]
@@ -1509,6 +1511,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **Uni-Perceiver-v2**: "Uni-Perceiver v2: A Generalist Model for Large-Scale Vision and Vision-Language Tasks", arXiv, 2022 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2211.09808)][[PyTorch](https://github.com/fundamentalvision/Uni-Perceiver)]
     * **CLOSE**: "I Can't Believe There's No Images! Learning Visual Tasks Using only Language Data", arXiv, 2022 (*AI2*). [[Paper](https://arxiv.org/abs/2211.09778)]
     * **SVLC**: "Teaching Structured Vision&Language Concepts to Vision&Language Models", arXiv, 2022 (*IBM*). [[Paper](https://arxiv.org/abs/2211.11733)]
+    * **VATLM**: "VATLM: Visual-Audio-Text Pre-Training with Unified Masked Prediction for Speech Representation Learning", arXiv, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2211.11275)][[PyTorch](https://github.com/microsoft/SpeechT5/tree/main/VATLM)]
     * **Perceiver-VL**: "Perceiver-VL: Efficient Vision-and-Language Modeling with Iterative Latent Attention", WACV, 2023 (*UNC*). [[Paper](https://arxiv.org/abs/2211.11701)][[PyTorch](https://github.com/zinengtang/Perceiver_VL)]
     * **?**: "Unifying Vision-Language Representation Space with Single-tower Transformer", AAAI, 2023 (*NAVER*). [[Paper](https://arxiv.org/abs/2211.11153)]
 * Video:
@@ -1748,7 +1751,6 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **AVA-Memory**: "Audio-Visual Mismatch-Aware Video Retrieval via Association and Adjustment", ECCV, 2022 (*KAIST*). [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/5034_ECCV_2022_paper.php)]
     * **PC-VAE**: "Multimodal Transformer for Parallel Concatenated Variational Autoencoders", NeurIPSW, 2022 (*USC*). [[Paper](https://arxiv.org/abs/2210.16174)]
     * **MTD**: "Multimodal Transformer Distillation for Audio-Visual Synchronization", arXiv, 2022 (*NTU*). [[Paper](https://arxiv.org/abs/2210.15563)]
-    * **VATLM**: "VATLM: Visual-Audio-Text Pre-Training with Unified Masked Prediction for Speech Representation Learning", arXiv, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2211.11275)][[PyTorch](https://github.com/microsoft/SpeechT5/tree/main/VATLM)]
     * **AVE-CLIP**: "AVE-CLIP: AudioCLIP-based Multi-window Temporal Transformer for Audio Visual Event Localization", WACV, 2023 (*UT Austin*). [[Paper](https://arxiv.org/abs/2210.05060)]
 * Sentiment Analysis:
     * **CubeMLP**: "CubeMLP: A MLP-based Model for Multimodal Sentiment Analysis and Depression Estimation", ACMMM, 2022 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2207.14087)]
