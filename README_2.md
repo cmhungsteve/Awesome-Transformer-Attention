@@ -243,6 +243,7 @@
 * **PFT**: "Short Range Correlation Transformer for Occluded Person Re-Identification", arXiv, 2022 (*Nanjing University of Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2201.01090)]
 * **?**: "CLIP-Driven Fine-grained Text-Image Person Re-identification", arXiv, 2022 (*Nanjing University of Science and Technology*). [[Paper](https://arxiv.org/abs/2210.10276)]
 * **SeqTR**: "Sequential Transformer for End-to-End Person Search", arXiv, 2022 (*East China Normal University*). [[Paper](https://arxiv.org/abs/2211.04323)]
+* **TMGF**: "Transformer Based Multi-Grained Features for Unsupervised Person Re-Identification", WACVW, 2023 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2211.12280)][[Code (in construction)](https://github.com/RikoLi/WACV23-workshop-TMGF)]
 
 [[Back to Overview](#overview)]
 
@@ -421,6 +422,7 @@
     * **S-Prompts**: "S-Prompts Learning with Pre-trained Transformers: An Occam's Razor for Domain Incremental Learning", arXiv, 2022 (*Singapore Management University*). [[Paper](https://arxiv.org/abs/2207.12819)]
     * **D<sup>3</sup>Former**: "D<sup>3</sup>Former: Debiased Dual Distilled Transformer for Incremental Learning", arXiv, 2022 (*MBZUAI*). [[Paper](https://arxiv.org/abs/2208.00777)][[PyTorch](https://github.com/abdohelmy/D-3Former)]
     * **Continual-CLIP**: "CLIP model is an Efficient Continual Learner", arXiv, 2022 (*MBZUAI*). [[Paper](https://arxiv.org/abs/2210.03114)][[Code (in construction)](https://github.com/vgthengane/Continual-CLIP)]
+    * **GCAB-CFDC**: "Gated Class-Attention with Cascaded Feature Drift Compensation for Exemplar-free Continual Learning of Vision Transformers", arXiv, 2022 (*University of Pavia, Italy*). [[Paper](https://arxiv.org/abs/2211.12292)][[Code (in construction)](https://github.com/OcraM17/GCAB-CFDC)]
 * Knowledge Distillation:
     * **?**: "Knowledge Distillation via the Target-aware Transformer", CVPR, 2022 (*Alibaba*). [[Paper](https://arxiv.org/abs/2205.10793)]
     * **DearKD**: "DearKD: Data-Efficient Early Knowledge Distillation for Vision Transformers", CVPR, 2022 (*JD*). [[Paper](https://arxiv.org/abs/2204.12997)]
@@ -506,6 +508,7 @@
     * **Semi-UFormer**: "Semi-UFormer: Semi-supervised Uncertainty-aware Transformer for Image Dehazing", arXiv, 2022 (*Nanjing University of Aeronautics and Astronautics*). [[Paper](https://arxiv.org/abs/2210.16057)]
     * **WITT**: "WITT: A Wireless Image Transmission Transformer for Semantic Communications", arXiv, 2022 (*Beijing University of Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2211.00937)][[Code (in construction)](https://github.com/KeYang8/WITT)]
     * **BiT**: "Blur Interpolation Transformer for Real-World Motion from Blur", arXiv, 2022 (*The University of Tokyo*). [[Paper](https://arxiv.org/abs/2211.11423)]
+    * **FFTformer**: "Efficient Frequency Domain-based Transformers for High-Quality Image Deblurring", arXiv, 2022 (*Nanjing University of Science and Technology*). [[Paper](https://arxiv.org/abs/2211.12250)][[Code (in construction)](https://github.com/kkkls/FFTformer)]
 
 [[Back to Overview](#overview)]
 
