@@ -1539,6 +1539,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **Singularity**: "Revealing Single Frame Bias for Video-and-Language Learning", arXiv, 2022 (*UNC*). [[Paper](https://arxiv.org/abs/2206.03428)]
     * **LAVENDER**: "LAVENDER: Unifying Video-Language Understanding as Masked Language Modeling", arXiv, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2206.07160)][[Code (in construction)](https://github.com/microsoft/LAVENDER)]
     * **Clover**: "Clover: Towards A Unified Video-Language Alignment and Fusion Model", arXiv, 2022 (*ByteDance*). [[Paper](https://arxiv.org/abs/2207.07885)][[PyTorch (in construction)](https://github.com/LeeYN-43/Clover)]
+    * **VIOLET**: "VIOLET : End-to-End Video-Language Transformers with Masked Visual-token Modeling", arXiv, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2111.12681)][[PyTorch](https://github.com/tsujuifu/pytorch_violet)]
     * **?**: "An Empirical Study of End-to-End Video-Language Transformers with Masked Visual Modeling", arXiv, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2209.01540)]
     * **CLIP-ViP**: "CLIP-ViP: Adapting Pre-trained Image-Text Model to Video-Language Representation Alignment", arXiv, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2209.06430)][[Code (in construction)](https://github.com/microsoft/XPretrain/tree/main/CLIP-ViP)]
 
