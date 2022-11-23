@@ -1571,6 +1571,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **MMFT**: "Everything at Once - Multi-modal Fusion Transformer for Video Retrieval", CVPR, 2022 (*Goethe University Frankfurt, Germany*). [[Paper](https://arxiv.org/abs/2112.04446)]
     * **X-Pool**: "X-Pool: Cross-Modal Language-Video Attention for Text-Video Retrieval", CVPR, 2022 (*Layer 6 AI, Toronto*). [[Paper](https://arxiv.org/abs/2203.15086)][[PyTorch](https://github.com/layer6ai-labs/xpool)][[Website](https://layer6ai-labs.github.io/xpool/)]
     * **MVPt**: "It's Time for Artistic Correspondence in Music and Video", CVPR, 2022 (*Adobe*). [[Paper](https://arxiv.org/abs/2206.07148)][[Website](https://musicforvideo.cs.columbia.edu/)]
+    * **OA-Trans**: "Object-aware Video-language Pre-training for Retrieval", CVPR, 2022 (*NUS*). [[Paper](https://arxiv.org/abs/2112.00656)][[PyTorch](https://github.com/FingerRec/OA-Transformer)]
     * **CenterCLIP**: "CenterCLIP: Token Clustering for Efficient Text-Video Retrieval", SIGIR, 2022 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2205.00823)]
     * **X-CLIP**: "X-CLIP: End-to-End Multi-grained Contrastive Learning for Video-Text Retrieval", ACMMM, 2022 (*Alibaba*). [[Paper](https://arxiv.org/abs/2207.07285)]
     * **HiSE**: "Boosting Video-Text Retrieval with Explicit High-Level Semantics", ACMMM, 2022 (*Baidu*). [[Paper](https://arxiv.org/abs/2208.04215)]
