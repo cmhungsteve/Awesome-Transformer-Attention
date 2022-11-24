@@ -449,6 +449,7 @@ Feel free to share this list with others!
 * **TL-Align**: "Token-Label Alignment for Vision Transformers", arXiv, 2022 (*Tsinghua University*). [[Paper](https://arxiv.org/abs/2210.06455)][[PyTorch](https://github.com/Euphoria16/TL-Align)]
 * **AutoView**: "Learning Self-Regularized Adversarial Views for Self-Supervised Vision Transformers", arXiv, 2022 (*Sun Yat-sen University*). [[Paper](https://arxiv.org/abs/2210.08458)][[Code (in construction)](https://github.com/Trent-tangtao/AutoView)]
 * **CLIPpy**: "Perceptual Grouping in Vision-Language Models", arXiv, 2022 (*Apple*). [[Paper](https://arxiv.org/abs/2210.09996)]
+* **iTPN**: "Integrally Pre-Trained Transformer Pyramid Networks", arXiv, 2022 (*CAS*). [[Paper](https://arxiv.org/abs/2211.12735)][[PyTorch](https://github.com/sunsmarterjie/iTPN)]
 #### Robustness + Transformer
 * **ViT-Robustness**: "Understanding Robustness of Transformers for Image Classification", ICCV, 2021 (*Google*). [[Paper](https://arxiv.org/abs/2103.14586)]
 * **SAGA**: "On the Robustness of Vision Transformers to Adversarial Examples", ICCV, 2021 (*University of Connecticut*). [[Paper](https://arxiv.org/abs/2104.02610)]
@@ -654,6 +655,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **D<sup>3</sup>ETR**: "D<sup>3</sup>ETR: Decoder Distillation for Detection Transformer", arXiv, 2022 (*Peking University*). [[Paper](https://arxiv.org/abs/2211.09768)]
     * **DETRDistill**: "DETRDistill: A Universal Knowledge Distillation Framework for DETR-families", arXiv, 2022 (*USTC*). [[Paper](https://arxiv.org/abs/2211.10156)]
     * **each-DETR**: "Teach-DETR: Better Training DETR with Teachers", arXiv, 2022 (*CUHK*). [[Paper](https://arxiv.org/abs/2211.11953)][[Code (in construction)](https://github.com/LeonHLJ/Teach-DETR)]
+    * **Co-DETR**: "DETRs with Collaborative Hybrid Assignments Training", arXiv, 2022 (*SenseTime*). [[Paper](https://arxiv.org/abs/2211.12860)][[Code (in construction)](https://github.com/Sense-X/Co-DETR)]
 * Transformer-based backbone:
     * **ViT-FRCNN**: "Toward Transformer-Based Object Detection", arXiv, 2020 (*Pinterest*). [[Paper](https://arxiv.org/abs/2012.09958)]
     * **WB-DETR**: "WB-DETR: Transformer-Based Detector Without Backbone", ICCV, 2021 (*CAS*). [[Paper](https://openaccess.thecvf.com/content/ICCV2021/html/Liu_WB-DETR_Transformer-Based_Detector_Without_Backbone_ICCV_2021_paper.html)]
@@ -793,6 +795,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **VL-PLM**: "Exploiting Unlabeled Data with Vision and Language Models for Object Detection", ECCV, 2022 (*Rutgers University*). [[Paper](https://arxiv.org/abs/2207.08954)][[PyTorch](https://github.com/xiaofeng94/VL-PLM)][[Website](https://www.nec-labs.com/~mas/VL-PLM/)]
     * **DetCLIP**: "DetCLIP: Dictionary-Enriched Visual-Concept Paralleled Pre-training for Open-world Detection", NeurIPS, 2022 (*HKUST*). [[Paper](https://arxiv.org/abs/2209.09407)]
     * **P<sup>3</sup>OVD**: "P<sup>3</sup>OVD: Fine-grained Visual-Text Prompt-Driven Self-Training for Open-Vocabulary Object Detection", arXiv, 2022 (*Sun Yat-sen University*). [[Paper](https://arxiv.org/abs/2211.00849)]
+    * **OVAD**: "Open-vocabulary Attribute Detection", arXiv, 2022 (*University of Freiburg, Germany*). [[Paper](https://arxiv.org/abs/2211.12914)][[Website](https://ovad-benchmark.github.io/)]
 * Pedestrian Detection:
     * **PED**: "DETR for Crowd Pedestrian Detection", arXiv, 2020 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2012.06785)][[PyTorch](https://github.com/Hatmm/PED-DETR-for-Pedestrian-Detection)]
     * **Pedestron**: "Pedestrian Detection: Domain Generalization, CNNs, Transformers and Beyond", arXiv, 2022 (*IIAI*). [[Paper](https://arxiv.org/abs/2201.03176)][[PyTorch](https://github.com/hasanirtiza/Pedestron)]
@@ -926,6 +929,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **MonoFormer**: "MonoFormer: Towards Generalization of self-supervised monocular depth estimation with Transformers", arXiv, 2022 (*DGIST, Korea*). [[Paper](https://arxiv.org/abs/2205.11083)]
 * **Depthformer**: "Depthformer : Multiscale Vision Transformer For Monocular Depth Estimation With Local Global Information Fusion", arXiv, 2022 (*Indian Institute of Technology Delhi*). [[Paper](https://arxiv.org/abs/2207.04535)]
 * **TODE-Trans**: "TODE-Trans: Transparent Object Depth Estimation with Transformer", arXiv, 2022 (*USTC*). [[Paper](https://arxiv.org/abs/2209.08455)][[Code (in construction)](https://github.com/yuchendoudou/TODE)]
+* **Lite-Mono**: "Lite-Mono: A Lightweight CNN and Transformer Architecture for Self-Supervised Monocular Depth Estimation", arXiv, 2022 (*University of Twente, Netherlands*). [[Paper](https://arxiv.org/abs/2211.13202)][[PyTorch (in construction)](https://github.com/noahzn/Lite-Mono)]
 
 [[Back to Overview](#overview)]
 
@@ -1249,6 +1253,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **OmniMAE**: "OmniMAE: Single Model Masked Pretraining on Images and Videos", arXiv, 2022 (*Meta*). [[Paper](https://arxiv.org/abs/2206.08356)][[PyTorch](https://github.com/facebookresearch/omnivore)]
     * **MaskViT**: "MaskViT: Masked Visual Pre-Training for Video Prediction", arXiv, 2022 (*Stanford*). [[Paper](https://arxiv.org/abs/2206.11894)][[Website](https://maskedvit.github.io/)]
     * **?**: "On the Surprising Effectiveness of Transformers in Low-Labeled Video Recognition", arXiv, 2022 (*Georgia Tech*). [[Paper](https://arxiv.org/abs/2209.07474)]
+    * **SVFormer**: "SVFormer: Semi-supervised Video Transformer for Action Recognition", arXiv, 2022 (*Fudan University*). [[Paper](https://arxiv.org/abs/2211.13222)][[PyTorch](https://github.com/ChenHsing/SVFormer)]
 * X-shot:
     * **ResT**: "Cross-modal Representation Learning for Zero-shot Action Recognition", CVPR, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2205.01657)]
     * **ViSET**: "Zero-Shot Action Recognition with Transformer-based Video Semantic Embedding", arXiv, 2022 (*University of South FLorida*). [[Paper](https://arxiv.org/abs/2203.05156)]
@@ -1595,6 +1600,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **M2HF**: "M2HF: Multi-level Multi-modal Hybrid Fusion for Text-Video Retrieval", arXiv, 2022 (*Tencent*). [[Paper](https://arxiv.org/abs/2208.07664)]
     * **FIRE**: "Fighting FIRe with FIRE: Assessing the Validity of Text-to-Video Retrieval Benchmarks", arXiv, 2022 (*Meta*). [[Paper](https://arxiv.org/abs/2210.05038)][[PyTorch](https://github.com/facebookresearch/mm-retrieval-evaluation)]
     * **Cross-Modal-Adapter**: "Cross-Modal Adapter for Text-Video Retrieval", arXiv, 2022 (*Tsinghua University*). [[Paper](https://arxiv.org/abs/2211.09623)][[PyTorch (in construction)](https://github.com/LeapLabTHU/Cross-Modal-Adapter)]
+    * **VoP**: "VoP: Text-Video Co-operative Prompt Tuning for Cross-Modal Retrieval", arXiv, 2022 (*Alibaba*). [[Paper](https://arxiv.org/abs/2211.12764)][[Code (in construction)](https://github.com/bighuang624/VoP)]
 
 [[Back to Overview](#overview)]
 
@@ -1637,6 +1643,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **Phenaki**: "Phenaki: Variable Length Video Generation From Open Domain Textual Description", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2210.02399)][[PyTorch (LAION-AI, in construction)](https://github.com/LAION-AI/phenaki)][[Website](https://phenaki.video/)]
     * **?**: "Towards Real-Time Text2Video via CLIP-Guided, Pixel-Level Optimization", arXiv, 2022 (*CMU*). [[Paper](https://arxiv.org/abs/2210.12826)][[PyTorch](https://github.com/pschaldenbrand/Text2Video)][[Website](https://pschaldenbrand.github.io/text2video/)]
     * **MagicVideo**: "MagicVideo: Efficient Video Generation With Latent Diffusion Models", arXiv, 2022 (*ByteDance*). [[Paper](https://arxiv.org/abs/2211.11018)][[Website](https://magicvideo.github.io/)]
+    * **MMVG**: "Tell Me What Happened: Unifying Text-guided Video Completion via Multimodal Masked Video Generation", arXiv, 2022 (*Meta*). [[Paper](https://arxiv.org/abs/2211.12824)]
 
 [[Back to Overview](#overview)]
 
@@ -1678,7 +1685,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 [[Back to Overview](#overview)]
 
 ### Other Multi-Modal Tasks
-* Prompt Learning:
+* Prompt Learning/Tuning:
     * **CoCoOp**: "Conditional Prompt Learning for Vision-Language Models", CVPR, 2022 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2203.05557)][[PyTorch](https://github.com/KaiyangZhou/CoOp)]
     * **ProDA**: "Prompt Distribution Learning", CVPR, 2022 (*Huawei*). [[Paper](https://arxiv.org/abs/2205.03340)]
     * **VPT**: "Visual Prompt Tuning", ECCV, 2022 (*Cornell*). [[Paper](https://arxiv.org/abs/2203.12119)][[PyTorch](https://github.com/kmnp/vpt)]
@@ -1698,6 +1705,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **TaskRes**: "Task Residual for Tuning Vision-Language Models", arXiv, 2022 (*NUS*). [[Paper](https://arxiv.org/abs/2211.10277)][[Code (in construction)](https://github.com/geekyutao/TaskRes)]
     * **MVLPT**: "Multitask Vision-Language Prompt Tuning", arXiv, 2022 (*Berkeley*). [[Paper](https://arxiv.org/abs/2211.11720)][[PyTorch](https://github.com/sIncerass/MVLPT)]
     * **ILM-VP**: "Understanding and Improving Visual Prompting: A Label-Mapping Perspective", arXiv, 2022 (*Michigan State*). [[Paper](https://arxiv.org/abs/2211.11635)][[PyTorch (in construction)](https://github.com/OPTML-Group/ILM-VP)]
+    * **TaI-DP**: "Texts as Images in Prompt Tuning for Multi-Label Image Recognition", arXiv, 2022 (*Tomorrow Advancing Life (TAL)*). [[Paper](https://arxiv.org/abs/2211.12739)][[PyTorch](https://github.com/guozix/TaI-DPT)]
 * X-Shot:
     * **VidIL**: "Language Models with Image Descriptors are Strong Few-Shot Video-Language Learners", NeurIPS, 2022 (*UIUC*). [[Paper](https://arxiv.org/abs/2205.10747)][[PyTorch](https://github.com/MikeWangWZHL/VidIL)]
     * **LIMoE**: "Multimodal Contrastive Learning with LIMoE: the Language-Image Mixture of Experts", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2206.02770)]
