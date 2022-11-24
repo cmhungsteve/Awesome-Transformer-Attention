@@ -95,6 +95,7 @@
 * **LCPFormer**: "LCPFormer: Towards Effective 3D Point Cloud Analysis via Local Context Propagation in Transformers", arXiv, 2022 (*Aberystwyth University, UK*). [[Paper](https://arxiv.org/abs/2210.12755)]
 * **PointCLIP-V2**: "PointCLIP V2: Adapting CLIP for Powerful 3D Open-world Learning", arXiv, 2022 (*CUHK*). [[Paper](https://arxiv.org/abs/2211.11682)][[Code (in construction)](https://github.com/yangyangyang127/PointCLIP_V2)]
 * **R<sup>2</sup>-MLP**: "R<sup>2</sup>-MLP: Round-Roll MLP for Multi-View 3D Object Recognition", arXiv, 2022 (*Baidu*). [[Paper](https://arxiv.org/abs/2211.11085)]
+* **PVT3D**: "PVT3D: Point Voxel Transformers for Place Recognition from Sparse Lidar Scans", arXiv, 2022 (*TUM*). [[Paper](https://arxiv.org/abs/2211.12542)]
 
 [[Back to Overview](#overview)]
 
@@ -423,6 +424,7 @@
     * **D<sup>3</sup>Former**: "D<sup>3</sup>Former: Debiased Dual Distilled Transformer for Incremental Learning", arXiv, 2022 (*MBZUAI*). [[Paper](https://arxiv.org/abs/2208.00777)][[PyTorch](https://github.com/abdohelmy/D-3Former)]
     * **Continual-CLIP**: "CLIP model is an Efficient Continual Learner", arXiv, 2022 (*MBZUAI*). [[Paper](https://arxiv.org/abs/2210.03114)][[Code (in construction)](https://github.com/vgthengane/Continual-CLIP)]
     * **GCAB-CFDC**: "Gated Class-Attention with Cascaded Feature Drift Compensation for Exemplar-free Continual Learning of Vision Transformers", arXiv, 2022 (*University of Pavia, Italy*). [[Paper](https://arxiv.org/abs/2211.12292)][[Code (in construction)](https://github.com/OcraM17/GCAB-CFDC)]
+    * **CODA-Prompt**: "CODA-Prompt: COntinual Decomposed Attention-based Prompting for Rehearsal-Free Continual Learning", arXiv, 2022 (*IBM*). [[Paper](https://arxiv.org/abs/2211.13218)]
 * Knowledge Distillation:
     * **?**: "Knowledge Distillation via the Target-aware Transformer", CVPR, 2022 (*Alibaba*). [[Paper](https://arxiv.org/abs/2205.10793)]
     * **DearKD**: "DearKD: Data-Efficient Early Knowledge Distillation for Vision Transformers", CVPR, 2022 (*JD*). [[Paper](https://arxiv.org/abs/2204.12997)]
@@ -935,6 +937,7 @@ Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2207.11553)][[Cod
 * **SAT**: "Medical Image Captioning via Generative Pretrained Transformers", arXiv, 2022 (*Philips Innovation Labs Rus, Russia*). [[Paper](https://arxiv.org/abs/2209.13983)]
 * **RepsNet**: "RepsNet: Combining Vision with Language for Automated Medical Reports", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2209.13171)][[Website](https://sites.google.com/view/repsnet)]
 * **MF<sup>2</sup>-MVQA**: "MF<sup>2</sup>-MVQA: A Multi-stage Feature Fusion method for Medical Visual Question Answering", arXiv, 2022 (*University of Science and Technology Beijing*). [[Paper](https://arxiv.org/abs/2211.05991)]
+* **RoentGen**: "RoentGen: Vision-Language Foundation Model for Chest X-ray Generation", arXiv, 2022 (*Stanford*). [[Paper](https://arxiv.org/abs/2211.12737)]
 
 [[Back to Overview](#overview)]
 
