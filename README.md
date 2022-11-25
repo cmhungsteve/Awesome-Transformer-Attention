@@ -227,6 +227,7 @@ Feel free to share this list with others!
 * **MaxViT**: "MaxViT: Multi-Axis Vision Transformer", ECCV, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2204.01697)][[Tensorflow](https://github.com/google-research/maxvit)]
 * **VSA**: "VSA: Learning Varied-Size Window Attention in Vision Transformers", ECCV, 2022 (*The University of Sydney*). [[Paper](https://arxiv.org/abs/2204.08446)][[PyTorch](https://github.com/ViTAE-Transformer/ViTAE-VSA)]
 * **?**: "Expediting Large-Scale Vision Transformer for Dense Prediction without Fine-tuning", NeurIPS (*Microsoft*). [[Paper](https://arxiv.org/abs/2210.01035)]
+* **Ortho**: "Orthogonal Transformer: An Efficient Vision Transformer Backbone with Token Orthogonalization", NeurIPS, 2022 (*CAS*). [[Paper](https://openreview.net/forum?id=GGtH47T31ZC)]
 * **BViT**: "BViT: Broad Attention based Vision Transformer", arXiv, 2022 (*CAS*). [[Paper](https://arxiv.org/abs/2202.06268)]
 * **O-ViT**: "O-ViT: Orthogonal Vision Transformer", arXiv, 2022 (*East China Normal University*). [[Paper](https://arxiv.org/abs/2201.12133)]
 * **MOA-Transformer**: "Aggregating Global Features into Local Vision Transformer", arXiv, 2022 (*University of Kansas*). [[Paper](https://arxiv.org/abs/2201.12903)][[PyTorch](https://github.com/krushi1992/MOA-transformer)]
@@ -484,11 +485,12 @@ Feel free to share this list with others!
 * **ViP**: "ViP: Unified Certified Detection and Recovery for Patch Attack with Vision Transformers", ECCV, 2022 (*UC Santa Cruz*). [[Paper](https://cihangxie.github.io/data/li2022vip.pdf)][[PyTorch](https://github.com/UCSC-VLAA/vit_cert)]
 * **?**: "When Adversarial Training Meets Vision Transformers: Recipes from Training to Architecture", NeurIPS, 2022 (*Peking University*). [[Paper](https://arxiv.org/abs/2210.07540)][[PyTorch](https://github.com/mo666666/When-Adversarial-Training-Meets-Vision-Transformers)]
 * **PAR**: "Decision-based Black-box Attack Against Vision Transformers via Patch-wise Adversarial Removal", NeurIPS, 2022 (*Tianjin University*). [[Paper](https://arxiv.org/abs/2112.03492)]
+* **RobustViT**: "Optimizing Relevance Maps of Vision Transformers Improves Robustness", NeurIPS, 2022 (*Tel-Aviv*). [[Paper](https://arxiv.org/abs/2206.01161)][[PyTorch](https://github.com/hila-chefer/RobustViT)]
+* **?**: "Understanding and Improving Robustness of Vision Transformers through Patch-based Negative Augmentation", NeurIPS, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2110.07858)]
 * **?**: "Are Vision Transformers Robust to Spurious Correlations?", arXiv, 2022 (*UW-Madison*). [[Paper](https://arxiv.org/abs/2203.09125)]
 * **MA**: "Boosting Adversarial Transferability of MLP-Mixer", arXiv, 2022 (*Beijing Institute of Technology*). [[Paper](https://arxiv.org/abs/2204.12204)]
 * **?**: "Deeper Insights into ViTs Robustness towards Common Corruptions", arXiv, 2022 (*Fudan + Microsoft*). [[Paper](https://arxiv.org/abs/2204.12143)]
 * **?**: "Privacy-Preserving Image Classification Using Vision Transformer", arXiv, 2022 (*Tokyo Metropolitan University*). [[Paper](https://arxiv.org/abs/2205.12041)]
-* **RobustViT**: "Optimizing Relevance Maps of Vision Transformers Improves Robustness", arXiv, 2022 (*Tel-Aviv*). [[Paper](https://arxiv.org/abs/2206.01161)][[PyTorch](https://github.com/hila-chefer/RobustViT)]
 * **FedWAvg**: "Federated Adversarial Training with Transformers", arXiv, 2022 (*Institute of Electronics and Digital Technologies (IETR), France*). [[Paper](https://arxiv.org/abs/2206.02131)]
 * **RobustCNN**: "Can CNNs Be More Robust Than Transformers?", arXiv, 2022 (*UC Santa Cruz + JHU*). [[Paper](https://arxiv.org/abs/2206.03452)][[PyTorch](https://github.com/UCSC-VLAA/RobustCNN)]
 * **Backdoor-Transformer**: "Backdoor Attacks on Vision Transformers", arXiv, 2022 (*Maryland + UC Davis*). [[Paper](https://arxiv.org/abs/2206.08477)][[Code (in construction)](https://github.com/UCDvision/backdoor_transformer)]
@@ -1163,12 +1165,12 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 
 ### Action Prediction/Anticipation
 * **AVT**: "Anticipative Video Transformer", ICCV, 2021 (*Facebook*). [[Paper](https://arxiv.org/abs/2106.02036)][[PyTorch](https://github.com/facebookresearch/AVT)][[Website](https://facebookresearch.github.io/AVT/)]
+* **TTPP**: "TTPP: Temporal Transformer with Progressive Prediction for Efficient Action Anticipation", Neurocomputing, 2021 (*CAS*). [[Paper](https://arxiv.org/abs/2003.03530)]
 * **HORST**: "Higher Order Recurrent Space-Time Transformer", arXiv, 2021 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2104.08665)][[PyTorch](https://github.com/CorcovadoMing/HORST)]
 * **?**: "Action Forecasting with Feature-wise Self-Attention", arXiv, 2021 (*A\*STAR*). [[Paper](https://arxiv.org/abs/2107.08579)]
 * **FUTR**: "Future Transformer for Long-term Action Anticipation", CVPR, 2022 (*POSTECH*). [[Paper](https://arxiv.org/abs/2205.14022)]
-* **TTPP**: "TTPP: Temporal Transformer with Progressive Prediction for Efficient Action Anticipation", arXiv, 2022 (*CAS*). [[Paper](https://arxiv.org/abs/2003.03530)]
 * **VPTR**: "VPTR: Efficient Transformers for Video Prediction", ICPR, 2022 (*Polytechnique Montreal, Canada*). [[Paper](https://arxiv.org/abs/2203.15836)][[PyTorch](https://github.com/XiYe20/VPTR)]
-* **Earthformer**: "Earthformer: Exploring Space-Time Transformers for Earth System Forecasting", arXiv, 2022 (*Amazon*). [[Paper](https://arxiv.org/abs/2207.05833)]
+* **Earthformer**: "Earthformer: Exploring Space-Time Transformers for Earth System Forecasting", NeurIPS, 2022 (*Amazon*). [[Paper](https://arxiv.org/abs/2207.05833)]
 * **AFFT**: "Anticipative Feature Fusion Transformer for Multi-Modal Action Anticipation", WACV, 2023 (*Karlsruhe Institute of Technology, Germany*). [[Paper](https://arxiv.org/abs/2210.12649)][[Code (in construction)](https://github.com/zeyun-zhong/AFFT)]
 * **GliTr**: "GliTr: Glimpse Transformers with Spatiotemporal Consistency for Online Action Prediction", WACV, 2023 (*McGill University, Canada*). [[Paper](https://arxiv.org/abs/2210.13605)]
 
@@ -1197,10 +1199,10 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **VMT**: "Video Mask Transfiner for High-Quality Video Instance Segmentation", ECCV, 2022 (*ETHZ*). [[Paper](https://arxiv.org/abs/2207.14012)][[GitHub](https://github.com/SysCV/vmt)][[Website](https://www.vis.xyz/pub/vmt/)]
 * **SeqFormer**: "SeqFormer: Sequential Transformer for Video Instance Segmentation", ECCV, 2022 (*ByteDance*). [[Paper](https://arxiv.org/abs/2112.08275)][[PyTorch](https://github.com/wjf5203/SeqFormer)]
 * **MS-STS**: "Video Instance Segmentation via Multi-scale Spatio-temporal Split Attention Transformer", ECCV, 2022 (*MBZUAI*). [[Paper](https://arxiv.org/abs/2203.13253)][[PyTorch](https://github.com/OmkarThawakar/MSSTS-VIS)]
+* **MinVIS**: "MinVIS: A Minimal Video Instance Segmentation Framework without Video-based Training", NeurIPS, 2022 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2208.02245)][[PyTorch](https://github.com/NVlabs/MinVIS)]
 * **VITA**: "VITA: Video Instance Segmentation via Object Token Association", arXiv, 2022 (*Yonsei University*). [[Paper](https://arxiv.org/abs/2206.04403)][[Code (in construction)](https://github.com/sukjunhwang/VITA)]
 * **IFR**: "Consistent Video Instance Segmentation with Inter-Frame Recurrent Attention", arXiv, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2206.07011)]
 * **DeVIS**: "DeVIS: Making Deformable Transformers Work for Video Instance Segmentation", arXiv, 2022 (*TUM*). [[Paper](https://arxiv.org/abs/2207.11103)][[PyTorch](https://github.com/acaelles97/DeVIS)]
-* **MinVIS**: "MinVIS: A Minimal Video Instance Segmentation Framework without Video-based Training", arXiv, 2022 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2208.02245)][[PyTorch](https://github.com/NVlabs/MinVIS)]
 * **InstanceFormer**: "InstanceFormer: An Online Video Instance Segmentation Framework", arXiv, 2022 (*Ludwig Maximilian University of Munich*). [[Paper](https://arxiv.org/abs/2208.10547)][[Code (in construction)](https://github.com/rajatkoner08/InstanceFormer)]
 
 [[Back to Overview](#overview)]
@@ -1555,7 +1557,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **VIOLET**: "VIOLET : End-to-End Video-Language Transformers with Masked Visual-token Modeling", arXiv, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2111.12681)][[PyTorch](https://github.com/tsujuifu/pytorch_violet)]
     * **?**: "An Empirical Study of End-to-End Video-Language Transformers with Masked Visual Modeling", arXiv, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2209.01540)]
     * **CLIP-ViP**: "CLIP-ViP: Adapting Pre-trained Image-Text Model to Video-Language Representation Alignment", arXiv, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2209.06430)][[Code (in construction)](https://github.com/microsoft/XPretrain/tree/main/CLIP-ViP)]
-
+    * **i-Code**: "i-Code: An Integrative and Composable Multimodal Learning Framework", AAAI, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2205.01818)]
 
 [[Back to Overview](#overview)]
 
