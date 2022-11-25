@@ -353,7 +353,7 @@
 
 ## Transfer / X-Supervised / X-Shot / Continual Learning
 * Transfer Learning:
-    * **AdaptFormer**: "AdaptFormer: Adapting Vision Transformers for Scalable Visual Recognition", arXiv, 2022 (*HKU*). [[Paper](https://arxiv.org/abs/2205.13535)][[Website](http://www.shoufachen.com/adaptformer-page/)]
+    * **AdaptFormer**: "AdaptFormer: Adapting Vision Transformers for Scalable Visual Recognition", NeurIPS, 2022 (*HKU*). [[Paper](https://arxiv.org/abs/2205.13535)][[PyTorch](https://github.com/ShoufaChen/AdaptFormer)][[Website](http://www.shoufachen.com/adaptformer-page/)]
     * **Convpass**: "Convolutional Bypasses Are Better Vision Transformer Adapters", arXiv, 2022 (*Peking University*). [[Paper](https://arxiv.org/abs/2207.07039)]
 * Domain Adaptation/Generalization:
     * **TransDA**: "Transformer-Based Source-Free Domain Adaptation", arXiv, 2021 (*Haerbin Institute of Technology*). [[Paper](https://arxiv.org/abs/2105.14138)][[PyTorch](https://github.com/ygjwd12345/TransDA)]
@@ -377,7 +377,7 @@
 * X-Supervised:
     * **Semiformer**: "Semi-Supervised Vision Transformers", ECCV, 2022 (*Fudan University*). [[Paper](https://arxiv.org/abs/2111.11067)][[PyTorch](https://github.com/wengzejia1/Semiformer)]
     * **SVL-Adapter**: "SVL-Adapter: Self-Supervised Adapter for Vision-Language Pretrained Models", BMVC, 2022 (*UCL*). [[Paper](https://arxiv.org/abs/2210.03794)][[Code (in construction)](https://github.com/omipan/svl_adapter)]
-    * **Semi-ViT**: "Semi-supervised Vision Transformers at Scale", arXiv, 2022 (*Amazon*). [[Paper](https://arxiv.org/abs/2208.05688)]
+    * **Semi-ViT**: "Semi-supervised Vision Transformers at Scale", NeurIPS, 2022 (*Amazon*). [[Paper](https://arxiv.org/abs/2208.05688)]
 * Zero-Shot:
     * **ViT-ZSL**: "Multi-Head Self-Attention via Vision Transformer for Zero-Shot Learning", IMVIP, 2021 (*University of Exeter, UK*). [[Paper](https://arxiv.org/abs/2108.00045)]
     * **TransZero**: "TransZero: Attribute-guided Transformer for Zero-Shot Learning", AAAI, 2022 (*Huazhong University of Science and Technology*). [[Paper](https://arxiv.org/abs/2112.01683)][[PyTorch](https://github.com/shiming-chen/TransZero)]
@@ -609,6 +609,7 @@
 * **VQGAN-CLIP**: "VQGAN-CLIP: Open Domain Image Generation and Manipulation Using Natural Language	", ECCV, 2022 (*EleutherAI*). [[Paper](https://arxiv.org/abs/2204.08583)][[PyTorch](https://github.com/EleutherAI/vqgan-clip)]
 * **Token-Critic**: "Improved Masked Image Generation with Token-Critic", ECCV, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2209.04439)]
 * **PromptGen**: "Generative Visual Prompt: Unifying Distributional Control of Pre-Trained Generative Models", NeurIPS, 2022 (*CMU*). [[Paper](https://arxiv.org/abs/2209.06970)][[PyTorch](https://github.com/ChenWu98/Generative-Visual-Prompt)]
+* **Contextual-RQ-Transformer**: "Draft-and-Revise: Effective Image Generation with Contextual RQ-Transformer", NeurIPS, 2022 (*POSTECH + Kakao*). [[Paper](https://arxiv.org/abs/2206.04452)]
 * **ViT-Patch**: "A Robust Framework of Chromosome Straightening with ViT-Patch GAN", arXiv, 2022 (*Xi'an Jiaotong-Liverpool University*). [[Paper](https://arxiv.org/abs/2203.02901)]
 * **?**: "Transforming Image Generation from Scene Graphs", arXiv, 2022 (*University of Catania, Italy*). [[Paper](https://arxiv.org/abs/2207.00545)]
 * **VisionNeRF**: "Vision Transformer for NeRF-Based View Synthesis from a Single Input Image", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2207.05736)][[Website](https://cseweb.ucsd.edu/~viscomp/projects/VisionNeRF/)]
@@ -1387,6 +1388,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
 * **Flowformer**: "Flowformer: Linearizing Transformers with Conservation Flows", ICML, 2022 (*Tsinghua University*). [[Paper](https://arxiv.org/abs/2202.06258)][[PyTorch](https://github.com/thuml/Flowformer)]
 * **MRA**: "Multi Resolution Analysis (MRA) for Approximate Self-Attention", ICML, 2022 (*University of Wisconsin, Madison*). [[Paper](https://proceedings.mlr.press/v162/zeng22a.html)][[PyTorch](https://github.com/mlpen/mra-attention)]
 * **EcoFormer**: "EcoFormer: Energy-Saving Attention with Linear Complexity", NeurIPS, 2022 (*Monash University*). [[Paper](https://arxiv.org/abs/2209.09004)][[PyTorch](https://github.com/ziplab/EcoFormer)]
+* **SBM-Transformer**: "Transformers meet Stochastic Block Models: Attention with Data-Adaptive Sparsity and Cost", NeurIPS, 2022 (*LG*). [[Paper](https://arxiv.org/abs/2210.15541)][[PyTorch](https://github.com/sc782/SBM-Transformer)]
 * **?**: "Horizontal and Vertical Attention in Transformers", arXiv, 2022 (*University of Technology Sydney*). [[Paper](https://arxiv.org/abs/2207.04399)]
 * **MRL**: "MRL: Learning to Mix with Attention and Convolutions", arXiv, 2022 (*Sony*). [[Paper](https://arxiv.org/abs/2208.13975)]
 
