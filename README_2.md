@@ -428,8 +428,10 @@
     * **DualPrompt**: "DualPrompt: Complementary Prompting for Rehearsal-free Continual Learning", ECCV, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2204.04799)][[Tensorflow](https://github.com/google-research/l2p)]
     * **CVT**: "Online Continual Learning with Contrastive Vision Transformer", ECCV, 2022 (*The University of Sydney*). [[Paper](https://arxiv.org/abs/2207.13516)]
     * **IncCLIP**: "Generative Negative Text Replay for Continual Vision-Language Pretraining", ECCV, 2022 (*ShanghaiTech*). [[Paper](https://arxiv.org/abs/2210.17322)]
-     * **S-Prompts**: "S-Prompts Learning with Pre-trained Transformers: An Occam's Razor for Domain Incremental Learning", NeurIPS, 2022 (*Singapore Management University*). [[Paper](https://arxiv.org/abs/2207.12819)]
-     * **ADA**: "Memory Efficient Continual Learning with Transformers", NeurIPS, 2022 (*Amazon*). [[Paper](https://openreview.net/forum?id=U07d1Y-x2E)]
+    * **S-Prompts**: "S-Prompts Learning with Pre-trained Transformers: An Occam's Razor for Domain Incremental Learning", NeurIPS, 2022 (*Singapore Management University*). [[Paper](https://arxiv.org/abs/2207.12819)]
+    * **ADA**: "Memory Efficient Continual Learning with Transformers", NeurIPS, 2022 (*Amazon*). [[Paper](https://openreview.net/forum?id=U07d1Y-x2E)]
+    * **BMU-MoCo**: "BMU-MoCo: Bidirectional Momentum Update for Continual Video-Language Modeling", NeurIPS, 2022 (*Renmin University of China*). [[Paper](https://openreview.net/forum?id=H5z5Q--YdYd)]
+    * **CLiMB**: "CLiMB: A Continual Learning Benchmark for Vision-and-Language Tasks", NeurIPS (Datasets and Benchmarks), 2022 (*USC*). [[Paper](https://arxiv.org/abs/2206.09059)][[PyTorch](https://github.com/GLAMOR-USC/CLiMB)]
     * **COLT**: "Transformers Are Better Continual Learners", arXiv, 2022 (*Hikvision*). [[Paper](https://arxiv.org/abs/2201.04924)]
     * **D<sup>3</sup>Former**: "D<sup>3</sup>Former: Debiased Dual Distilled Transformer for Incremental Learning", arXiv, 2022 (*MBZUAI*). [[Paper](https://arxiv.org/abs/2208.00777)][[PyTorch](https://github.com/abdohelmy/D-3Former)]
     * **Continual-CLIP**: "CLIP model is an Efficient Continual Learner", arXiv, 2022 (*MBZUAI*). [[Paper](https://arxiv.org/abs/2210.03114)][[Code (in construction)](https://github.com/vgthengane/Continual-CLIP)]
@@ -751,6 +753,7 @@
 * **Sim2Sim**: "Sim-2-Sim Transfer for Vision-and-Language Navigation in Continuous Environments", ECCV, 2022 (*Oregon State University*). [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/5303_ECCV_2022_paper.php)][[PyTorch](https://github.com/jacobkrantz/Sim2Sim-VLNCE)][[Website](https://jacobkrantz.github.io/sim-2-sim)]
 * **AVLEN**: "AVLEN: Audio-Visual-Language Embodied Navigation in 3D Environments", NeurIPS, 2022 (*UC Riverside*). [[Paper](https://arxiv.org/abs/2210.07940)]
 * **ZSON**: "ZSON: Zero-Shot Object-Goal Navigation using Multimodal Goal Embeddings", NeurIPS, 2022 (*Georgia Tech*). [[Paper](https://arxiv.org/abs/2206.12403)]
+* **WS-MGMap**: "Weakly-Supervised Multi-Granularity Map Learning for Vision-and-Language Navigation", NeurIPS, 2022 (*South China University of Technology*). [[Paper](https://arxiv.org/abs/2210.07506)][[PyTorch (in construction)](https://github.com/PeihaoChen/WS-MGMap)]
 * **TransFuser**: "TransFuser: Imitation with Transformer-Based Sensor Fusion for Autonomous Driving", arXiv, 2022 (*MPI*). [[Paper](https://arxiv.org/abs/2205.15997)]
 * **TD-STP**: "Target-Driven Structured Transformer Planner for Vision-Language Navigation", arXiv, 2022 (*Beihang University*). [[Paper](https://arxiv.org/abs/2207.11201)][[Code (in construction)](https://github.com/YushengZhao/TD-STP)]
 * **DAVIS**: "Anticipating the Unseen Discrepancy for Vision and Language Navigation", arXiv, 2022 (*UCSB*). [[Paper](https://arxiv.org/abs/2209.04725)]
@@ -1036,6 +1039,8 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **?**: "Convolutional Neural Network (CNN) vs Visual Transformer (ViT) for Digital Holography", ICCCR, 2022 (*UBFC, France*). [[Paper](https://arxiv.org/abs/2108.09147)]
 * Disentangled representation:
     * **VCT**: "Visual Concepts Tokenization", NeurIPS, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2205.10093)][[PyTorch](https://github.com/thomasmry/VCT)]
+* E-Commerce:
+    * **WebShop**: "WebShop: Towards Scalable Real-World Web Interaction with Grounded Language Agents", NeurIPS, 2022 (*Princeton*). [[Paper](https://arxiv.org/abs/2207.01206)][[PyTorch](https://github.com/princeton-nlp/WebShop)][[Website](https://webshop-pnlp.github.io/)]
 * Event data:
     * **EvT**: "Event Transformer: A sparse-aware solution for efficient event data processing", arXiv, 2022 (*Universidad de Zaragoza, Spain*). [[Paper](https://arxiv.org/abs/2204.03355)][[PyTorch](https://github.com/AlbertoSabater/EventTransformer)]
     * **ETB**: "Event Transformer", arXiv, 2022 (*Nanjing University*). [[Paper](https://arxiv.org/abs/2204.05172)]
@@ -1133,6 +1138,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **OSR-ViT**: "Open Set Recognition using Vision Transformer with an Additional Detection Head", arXiv, 2022 (*Vanderbilt University, Tennessee*). [[Paper](https://arxiv.org/abs/2203.08441)]
 * Out-Of-Distribution:
     * **OODformer**: "OODformer: Out-Of-Distribution Detection Transformer", BMVC, 2021 (*LMU Munich*). [[Paper](https://arxiv.org/abs/2107.08976)][[PyTorch](https://github.com/rajatkoner08/oodformer)]
+    * **MCM**: "Delving into Out-of-Distribution Detection with Vision-Language Representations", NeurIPS, 2022 (*UW-Madison*). [[Paper](https://openreview.net/forum?id=KnCS9390Va)]
 * Pedestrian Intention:
     * **IntFormer**: "IntFormer: Predicting pedestrian intention with the aid of the Transformer architecture", arXiv, 2021 (*Universidad de Alcala*). [[Paper](https://arxiv.org/abs/2105.08647)]
 * Physics Simulation:
@@ -1280,6 +1286,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **PoseGPT**: "PoseGPT: Quantization-based 3D Human Motion Generation and Forecasting", ECCV, 2022 (*NAVER*). [[Paper](https://arxiv.org/abs/2210.10542)]
     * **TEMOS**: "TEMOS: Generating diverse human motions from textual descriptions", ECCV, 2022 (*MPI*). [[Paper](https://arxiv.org/abs/2204.14109)][[PyTorch](https://github.com/Mathux/TEMOS)][[Website](https://mathis.petrovich.fr/temos/)]
     * **TM2T**: "TM2T: Stochastic and Tokenized Modeling for the Reciprocal Generation of 3D Human Motions and Texts", ECCV, 2022 (*University of Alberta, Canada*). [[Paper](https://arxiv.org/abs/2207.01696)][[PyTorch](https://github.com/EricGuo5513/TM2T)][[Website](https://ericguo5513.github.io/TM2T/)]
+    * **HUMANISE**: "HUMANISE: Language-conditioned Human Motion Generation in 3D Scenes", NeurIPS, 2022 (*Beijing Institute of Technology*). [[Paper](https://arxiv.org/abs/2210.09729)][[GitHub](https://github.com/Silverster98/HUMANISE)][[Website](https://silvester.wang/HUMANISE/)]
     * **ActFormer**: "ActFormer: A GAN Transformer Framework towards General Action-Conditioned 3D Human Motion Generation", arXiv, 2022 (*SenseTime*). [[Paper](https://arxiv.org/abs/2203.07706)]
     * **?**: "Diverse Dance Synthesis via Keyframes with Transformer Controllers", arXiv, 2022 (*Beihang University*). [[Paper](https://arxiv.org/abs/2207.05906)]
     * **MARIONET**: "NEURAL MARIONETTE: A Transformer-based Multi-action Human Motion Synthesis System", arXiv, 2022 (*Wuhan University*). [[Paper](https://arxiv.org/abs/2209.13204)]
