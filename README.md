@@ -9,6 +9,7 @@ Contributions in any form to make this list more comprehensive are welcome.
 If you find this repository useful, please consider **[citing](#citation)** and **★STARing** this list. <br>
 Feel free to share this list with others! 
 
+**[Update: November, 2022]** Added all the related papers from *NeurIPS 2022*! <br>
 **[Update: October, 2022]** Split the 2nd half of the paper list to [README_2.md](README_2.md) <br>
 **[Update: October, 2022]** Added all the related papers from *ECCV 2022*! <br>
 **[Update: September, 2022]** Added the [Transformer tutorial slides](http://lucasb.eyer.be/transformer) made by [Lucas Beyer](https://twitter.com/giffmana)! <br>
@@ -879,8 +880,6 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **PSTR**: "PSTR: End-to-End One-Step Person Search With Transformers", CVPR, 2022 (*Tianjin University*). [[Paper](https://arxiv.org/abs/2204.03340)][[PyTorch](https://github.com/JialeCao001/PSTR)]
 * Manipulation Detection:
     * **ObjectFormer**: "ObjectFormer for Image Manipulation Detection and Localization", CVPR, 2022 (*Fudan University*). [[Paper](https://arxiv.org/abs/2203.14681)]
-* Grounded Situation Recognition:
-    * **CoFormer**: "Collaborative Transformers for Grounded Situation Recognition", CVPR, 2022 (*POSTECH*). [[Paper](https://arxiv.org/abs/2203.16518)][[PyTorch](https://github.com/jhcho99/CoFormer)]
 * Mirror Detection:
     * **SATNet**: "Symmetry-Aware Transformer-based Mirror Detection", arXiv, 2022 (*Harbin Institute of Technology*). [[Paper](https://arxiv.org/abs/2207.06332)][[PyTorch](https://github.com/tyhuang0428/SATNet)]
 * Shadow Detection:
@@ -1436,6 +1435,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **VGTR**: "Visual Grounding with Transformers", arXiv, 2021 (*Beihang University*). [[Paper](https://arxiv.org/abs/2105.04281)]
     * **UNICORN**: "Crossing the Format Boundary of Text and Boxes: Towards Unified Vision-Language Modeling", arXiv, 2021 (*Microsoft*). [[Paper](https://arxiv.org/abs/2111.12085)]
     * **Word2Pix**: "Word2Pix: Word to Pixel Cross Attention Transformer in Visual Grounding", arXiv, 2021 (*A\*STAR*). [[Paper](https://arxiv.org/abs/2108.00205)]
+    * **CoFormer**: "Collaborative Transformers for Grounded Situation Recognition", CVPR, 2022 (*POSTECH*). [[Paper](https://arxiv.org/abs/2203.16518)][[PyTorch](https://github.com/jhcho99/CoFormer)]
     * **MVT**: "Multi-View Transformer for 3D Visual Grounding", CVPR, 2022 (*CUHK*). [[Paper](https://arxiv.org/abs/2204.02174)][[PyTorch](https://github.com/sega-hsj/MVT-3DVG)]
     * **GLIP**: "Grounded Language-Image Pre-training", CVPR, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2112.03857)][[PyTorch](https://github.com/microsoft/GLIP)]
     * **M-DGT**: "Multi-Modal Dynamic Graph Transformer for Visual Grounding", CVPR, 2022 (*University of Toronto*). [[Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Chen_Multi-Modal_Dynamic_Graph_Transformer_for_Visual_Grounding_CVPR_2022_paper.html)][[PyTorch](https://github.com/iQua/M-DGT)]
@@ -1460,10 +1460,14 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **DRFT**: "End-to-end Multi-modal Video Temporal Grounding", NeurIPS, 2021 (*UC Merced*). [[Paper](https://arxiv.org/abs/2107.05624)]
     * **TubeDETR**: "TubeDETR: Spatio-Temporal Video Grounding with Transformers", CVPR, 2022 (*INRIA*). [[Paper](https://arxiv.org/abs/2203.16434)][[Website](https://antoyang.github.io/tubedetr.html)]
     * **STVGFormer**: "STVGFormer: Spatio-Temporal Video Grounding with Static-Dynamic Cross-Modal Understanding", ACMMMW, 2022 (*Sun Yat-sen University*). [[Paper](https://arxiv.org/abs/2207.02756)]
+    * **STCAT**: "Embracing Consistency: A One-Stage Approach for Spatio-Temporal Video Grounding", NeurIPS, 2022 (*Peking University*). [[Paper](https://arxiv.org/abs/2209.13306)][[PyTorch](https://github.com/jy0205/STCAT)]
+    * **VideoWhisperer**: "Grounded Video Situation Recognition", NeurIPS, 2022 (*IIIT Hyderabad, India*). [[Paper](https://arxiv.org/abs/2210.10828)][[Website](https://zeeshank95.github.io/grvidsitu)]
     * **VidGTR**: "Explore and Match: End-to-End Video Grounding with Transformer", arXiv, 2022 (*KAIST*). [[Paper](https://arxiv.org/abs/2201.10168)]
     * **?**: "Language-free Training for Zero-shot Video Grounding", WACV, 2023 (*Yonsei University*). [[Paper](https://arxiv.org/abs/2210.12977)]
 * 3D:
     * **ViL3DRel**: "Language Conditioned Spatial Relation Reasoning for 3D Object Grounding", NeurIPS, 2022 (*INRIA*). [[Paper](https://arxiv.org/abs/2211.09646)][[Website](https://cshizhe.github.io/projects/vil3dref.html)]
+    * **LAR**: "Look Around and Refer: 2D Synthetic Semantics Knowledge Distillation for 3D Visual Grounding", NeurIPS, 2022 (*KAUST*). [[Paper](https://openreview.net/forum?id=-AxpnEv1f1)][[PyTorch](https://github.com/eslambakr/LAR-Look-Around-and-Refer)][[Website](https://eslambakr.github.io/LAR.github.io/)]
+    * **3D-CG**: "3D Concept Grounding on Neural Fields", NeurIPS, 2022 (*MIT*). [[Paper](https://arxiv.org/abs/2207.06403)][[Website](http://3d-cg.csail.mit.edu/)]
 
 [[Back to Overview](#overview)]
 
