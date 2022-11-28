@@ -1564,6 +1564,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **VATLM**: "VATLM: Visual-Audio-Text Pre-Training with Unified Masked Prediction for Speech Representation Learning", arXiv, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2211.11275)][[PyTorch](https://github.com/microsoft/SpeechT5/tree/main/VATLM)]
     * **X<sup>2</sup>-VLM**: "X<sup>2</sup>-VLM: All-In-One Pre-trained Model For Vision-Language Tasks", arXiv, 2022 (*ByteDance*). [[Paper](https://arxiv.org/abs/2211.12402)][[Code (in construction)](https://github.com/zengyan-97/X2-VLM)]
     * **SkillNet**: "One Model, Multiple Modalities: A Sparsely Activated Approach for Text, Sound, Image, Video and Code", arXiv, 2022 (*Tencent*). [[Paper](https://arxiv.org/abs/2205.06126)]
+    * **SCL**: "Seeing What You Miss: Vision-Language Pre-training with Semantic Completion Learning", arXiv, 2022 (*Tencent*). [[Paper](https://arxiv.org/abs/2211.13437)]
     * **Perceiver-VL**: "Perceiver-VL: Efficient Vision-and-Language Modeling with Iterative Latent Attention", WACV, 2023 (*UNC*). [[Paper](https://arxiv.org/abs/2211.11701)][[PyTorch](https://github.com/zinengtang/Perceiver_VL)]
     * **?**: "Unifying Vision-Language Representation Space with Single-tower Transformer", AAAI, 2023 (*NAVER*). [[Paper](https://arxiv.org/abs/2211.11153)]
 * Video:
@@ -1756,7 +1757,8 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **TaI-DP**: "Texts as Images in Prompt Tuning for Multi-Label Image Recognition", arXiv, 2022 (*Tomorrow Advancing Life (TAL)*). [[Paper](https://arxiv.org/abs/2211.12739)][[PyTorch](https://github.com/guozix/TaI-DPT)]
 * X-Shot:
     * **VidIL**: "Language Models with Image Descriptors are Strong Few-Shot Video-Language Learners", NeurIPS, 2022 (*UIUC*). [[Paper](https://arxiv.org/abs/2205.10747)][[PyTorch](https://github.com/MikeWangWZHL/VidIL)]
-    * **LIMoE**: "Multimodal Contrastive Learning with LIMoE: the Language-Image Mixture of Experts", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2206.02770)]
+    * **ComCLIP**: "ComCLIP: Training-Free Compositional Image and Text Matching", arXiv, 2022 (*UC Santa Cruz*). [[Paper](https://arxiv.org/abs/2211.13854)]
+    * **TCT**: "Efficient Zero-shot Visual Search via Target and Context-aware Transformer", arXiv, 2022 (*Baylor College of Medicine, TX*). [[Paper](https://arxiv.org/abs/2211.13470)]
 * Segmentation:
     * **VLT**: "Vision-Language Transformer and Query Generation for Referring Segmentation", ICCV, 2021 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2108.05565)][[Tensorflow](https://github.com/henghuiding/Vision-Language-Transformer)]
     * **LAVT**: "LAVT: Language-Aware Vision Transformer for Referring Image Segmentation", CVPR, 2022 (*Oxford*). [[Paper](https://arxiv.org/abs/2112.02244)]
