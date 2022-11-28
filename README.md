@@ -1683,6 +1683,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **eDiffi**: "eDiffi: Text-to-Image Diffusion Models with an Ensemble of Expert Denoisers", arXiv, 2022 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2211.01324)][[Website](https://deepimagination.cc/eDiffi/)]
     * **VD**: "Versatile Diffusion: Text, Images and Variations All in One Diffusion Model", arXiv, 2022 (*Oregon*). [[Paper](https://arxiv.org/abs/2211.08332)][[PyTorch](https://github.com/SHI-Labs/Versatile-Diffusion)]
     * **SpaText**: "SpaText: Spatio-Textual Representation for Controllable Image Generation", arXiv, 2022 (*Meta*). [[Paper](https://arxiv.org/abs/2211.14305)][[Website](https://omriavrahami.com/spatext/)]
+    * **Story-LDM**: "Make-A-Story: Visual Memory Conditioned Consistent Story Generation", arXiv, 2022 (*UBC + Snap*). [[Paper](https://arxiv.org/abs/2211.13319)]
 * Video:
     * **CogVideo**: "CogVideo: Large-scale Pretraining for Text-to-Video Generation via Transformers", arXiv, 2022 (*Tsinghua University*) [[Paper](https://arxiv.org/abs/2205.15868)][[GitHub (in construction)](https://github.com/THUDM/CogVideo)]
     * **Make-A-Video**: "Make-A-Video: Text-to-Video Generation without Text-Video Data", arXiv, 2022 (*Meta*). [[Paper](https://arxiv.org/abs/2209.14792)]
