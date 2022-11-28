@@ -158,6 +158,7 @@
     * **DPIT**: "DPIT: Dual-Pipeline Integrated Transformer for Human Pose Estimation", arXiv, 2022 (*Shanghai University*). [[Paper](https://arxiv.org/abs/2209.02431)]
     * **Uplift-Upsample**: "Uplift and Upsample: Efficient 3D Human Pose Estimation with Uplifting Transformers", WACV, 2023 (*University of Augsburg, Germany*). [[Paper](https://arxiv.org/abs/2210.06110)][[Tensorflow](https://github.com/goldbricklemon/uplift-upsample-3dhpe)]
     * **TORE**: "TORE: Token Reduction for Efficient Human Mesh Recovery with Transformer", arXiv, 2022 (*HKU*). [[Paper](https://arxiv.org/abs/2211.10705)]
+    * **MPT**: "MPT: Mesh Pre-Training with Transformers for Human Pose and Mesh Reconstruction", arXiv, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2211.13357)]
 * Hands:
     * **Hand-Transformer**: "Hand-Transformer: Non-Autoregressive Structured Modeling for 3D Hand Pose Estimation", ECCV, 2020 (*Kwai*). [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/4836_ECCV_2020_paper.php)]
     * **SCAT**: "SCAT: Stride Consistency With Auto-Regressive Regressor and Transformer for Hand Pose Estimation", ICCVW, 2021 (*Alibaba*). [[Paper](https://openaccess.thecvf.com/content/ICCV2021W/SoMoF/html/Gao_SCAT_Stride_Consistency_With_Auto-Regressive_Regressor_and_Transformer_for_Hand_ICCVW_2021_paper.html)]
@@ -252,6 +253,7 @@
 * **PFT**: "Short Range Correlation Transformer for Occluded Person Re-Identification", arXiv, 2022 (*Nanjing University of Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2201.01090)]
 * **?**: "CLIP-Driven Fine-grained Text-Image Person Re-identification", arXiv, 2022 (*Nanjing University of Science and Technology*). [[Paper](https://arxiv.org/abs/2210.10276)]
 * **SeqTR**: "Sequential Transformer for End-to-End Person Search", arXiv, 2022 (*East China Normal University*). [[Paper](https://arxiv.org/abs/2211.04323)]
+* **CLIP-ReID**: "CLIP-ReID: Exploiting Vision-Language Model for Image Re-Identification without Concrete Text Labels", arXiv, 2022 (*East China Normal University*). [[Paper](https://arxiv.org/abs/2211.13977)]
 * **TMGF**: "Transformer Based Multi-Grained Features for Unsupervised Person Re-Identification", WACVW, 2023 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2211.12280)][[Code (in construction)](https://github.com/RikoLi/WACV23-workshop-TMGF)]
 
 [[Back to Overview](#overview)]
@@ -443,6 +445,7 @@
     * **DearKD**: "DearKD: Data-Efficient Early Knowledge Distillation for Vision Transformers", CVPR, 2022 (*JD*). [[Paper](https://arxiv.org/abs/2204.12997)]
     * **AttnDistill**: "Attention Distillation: self-supervised vision transformer students need more guidance", BMVC, 2022 (*UAB, Spain*). [[Paper](https://arxiv.org/abs/2210.00944)][[PyTorch](https://github.com/wangkai930418/attndistill)]
     * **ViTKD**: "ViTKD: Practical Guidelines for ViT feature knowledge distillation", arXiv, 2022 (*IDEA*). [[Paper](https://arxiv.org/abs/2209.02432)][[PyTorch (in construction)](https://github.com/yzd-v/cls_KD)]
+    * **?**: "Adaptive Attention Link-based Regularization for Vision Transformers", arXiv, 2022 (* Chung-Ang University, Korea*). [[Paper](https://arxiv.org/abs/2211.13852)]
 * Clustering:
     * **VTCC**: "Vision Transformer for Contrastive Clustering", arXiv, 2022 (*Sun Yat-sen University, China*). [[Paper](https://arxiv.org/abs/2206.12925)]
 
