@@ -869,6 +869,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **?**: "Arbitrary Shape Text Detection via Boundary Transformer", arXiv, 2022 (*University of Science and Technology Beijing*). [[Paper](https://arxiv.org/abs/2205.05320)][[Code (in construction)](https://github.com/GXYM/TextBPN-Plus-Plus)]
     * **DPText-DETR**: "DPText-DETR: Towards Better Scene Text Detection with Dynamic Points in Transformer", arXiv, 2022 (*JD*). [[Paper](https://arxiv.org/abs/2207.04491)][[Code (in construction)](https://github.com/ymy-k/DPText-DETR)]
     * **DPTNet**: "DPTNet: A Dual-Path Transformer Architecture for Scene Text Detection", arXiv, 2022 (*Xiamen University*). [[Paper](https://arxiv.org/abs/2208.09878)]
+    * **ATTR**: "Aggregated Text Transformer for Scene Text Detection", arXiv, 2022 (*Fudan*). [[Paper](https://arxiv.org/abs/2211.13984)]
 * Change Detection:
     * **ChangeFormer**: "A Transformer-Based Siamese Network for Change Detection", arXiv, 2022 (*JHU*). [[Paper](https://arxiv.org/abs/2201.01293)][[PyTorch](https://github.com/wgcban/ChangeFormer)]
     * **IDET**: "IDET: Iterative Difference-Enhanced Transformers for High-Quality Change Detection", arXiv, 2022 (*Civil Aviation University of China*). [[Paper](https://arxiv.org/abs/2207.09240)]
@@ -978,6 +979,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **Mask2Former**: "Masked-attention Mask Transformer for Universal Image Segmentation", CVPR, 2022 (*Meta*). [[Paper](https://arxiv.org/abs/2112.01527)][[PyTorch](https://github.com/facebookresearch/Mask2Former)][[Website](https://bowenc0221.github.io/mask2former/)]
     * **kMaX-DeepLab**: "k-means Mask Transformer", ECCV, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2207.04044)][[Tensorflow](https://github.com/google-research/deeplab2)]
     * **Panoptic-PartFormer**: "Panoptic-PartFormer: Learning a Unified Model for Panoptic Part Segmentation", ECCV, 2022 (*Peking*). [[Paper](https://arxiv.org/abs/2204.04655)][[PyTorch](https://github.com/lxtGH/Panoptic-PartFormer)]
+    * **CoMFormer**: "CoMFormer: Continual Learning in Semantic and Panoptic Segmentation", arXiv, 2022 (*Sorbonne Université, France*). [[Paper](https://arxiv.org/abs/2211.13999)]
 * Instance Segmentation:
     * **ISTR**: "ISTR: End-to-End Instance Segmentation with Transformers", arXiv, 2021 (*Xiamen University*). [[Paper](https://arxiv.org/abs/2105.00637)][[PyTorch](https://github.com/hujiecpp/ISTR)]
     * **Mask-Transfiner**: "Mask Transfiner for High-Quality Instance Segmentation", CVPR, 2022 (*ETHZ*). [[Paper](https://arxiv.org/abs/2111.13673)][[PyTorch](https://github.com/SysCV/transfiner)][[Website](https://www.vis.xyz/pub/transfiner/)]
@@ -1180,6 +1182,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **FUTR**: "Future Transformer for Long-term Action Anticipation", CVPR, 2022 (*POSTECH*). [[Paper](https://arxiv.org/abs/2205.14022)]
 * **VPTR**: "VPTR: Efficient Transformers for Video Prediction", ICPR, 2022 (*Polytechnique Montreal, Canada*). [[Paper](https://arxiv.org/abs/2203.15836)][[PyTorch](https://github.com/XiYe20/VPTR)]
 * **Earthformer**: "Earthformer: Exploring Space-Time Transformers for Earth System Forecasting", NeurIPS, 2022 (*Amazon*). [[Paper](https://arxiv.org/abs/2207.05833)]
+* **InAViT**: "Interaction Visual Transformer for Egocentric Action Anticipation", arXiv, 2022 (*A\*STAR*). [[Paper](https://arxiv.org/abs/2211.14154)]
 * **AFFT**: "Anticipative Feature Fusion Transformer for Multi-Modal Action Anticipation", WACV, 2023 (*Karlsruhe Institute of Technology, Germany*). [[Paper](https://arxiv.org/abs/2210.12649)][[Code (in construction)](https://github.com/zeyun-zhong/AFFT)]
 * **GliTr**: "GliTr: Glimpse Transformers with Spatiotemporal Consistency for Online Action Prediction", WACV, 2023 (*McGill University, Canada*). [[Paper](https://arxiv.org/abs/2210.13605)]
 
@@ -1466,7 +1469,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **?**: "Language-free Training for Zero-shot Video Grounding", WACV, 2023 (*Yonsei University*). [[Paper](https://arxiv.org/abs/2210.12977)]
 * 3D:
     * **ViL3DRel**: "Language Conditioned Spatial Relation Reasoning for 3D Object Grounding", NeurIPS, 2022 (*INRIA*). [[Paper](https://arxiv.org/abs/2211.09646)][[Website](https://cshizhe.github.io/projects/vil3dref.html)]
-    * **LAR**: "Look Around and Refer: 2D Synthetic Semantics Knowledge Distillation for 3D Visual Grounding", NeurIPS, 2022 (*KAUST*). [[Paper](https://openreview.net/forum?id=-AxpnEv1f1)][[PyTorch](https://github.com/eslambakr/LAR-Look-Around-and-Refer)][[Website](https://eslambakr.github.io/LAR.github.io/)]
+    * **LAR**: "Look Around and Refer: 2D Synthetic Semantics Knowledge Distillation for 3D Visual Grounding", NeurIPS, 2022 (*KAUST*). [[Paper](https://arxiv.org/abs/2211.14241)][[Website](https://eslambakr.github.io/LAR.github.io/)]
     * **3D-CG**: "3D Concept Grounding on Neural Fields", NeurIPS, 2022 (*MIT*). [[Paper](https://arxiv.org/abs/2207.06403)][[Website](http://3d-cg.csail.mit.edu/)]
 
 [[Back to Overview](#overview)]
@@ -1678,6 +1681,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **Lafite2**: "Lafite2: Few-shot Text-to-Image Generation", arXiv, 2022 (*SUNY, Buffalo*). [[Paper](https://arxiv.org/abs/2210.14124)]
     * **eDiffi**: "eDiffi: Text-to-Image Diffusion Models with an Ensemble of Expert Denoisers", arXiv, 2022 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2211.01324)][[Website](https://deepimagination.cc/eDiffi/)]
     * **VD**: "Versatile Diffusion: Text, Images and Variations All in One Diffusion Model", arXiv, 2022 (*Oregon*). [[Paper](https://arxiv.org/abs/2211.08332)][[PyTorch](https://github.com/SHI-Labs/Versatile-Diffusion)]
+    * **SpaText**: "SpaText: Spatio-Textual Representation for Controllable Image Generation", arXiv, 2022 (*Meta*). [[Paper](https://arxiv.org/abs/2211.14305)][[Website](https://omriavrahami.com/spatext/)]
 * Video:
     * **CogVideo**: "CogVideo: Large-scale Pretraining for Text-to-Video Generation via Transformers", arXiv, 2022 (*Tsinghua University*) [[Paper](https://arxiv.org/abs/2205.15868)][[GitHub (in construction)](https://github.com/THUDM/CogVideo)]
     * **Make-A-Video**: "Make-A-Video: Text-to-Video Generation without Text-Video Data", arXiv, 2022 (*Meta*). [[Paper](https://arxiv.org/abs/2209.14792)]
