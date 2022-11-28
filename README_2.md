@@ -173,6 +173,7 @@
     * **AFT-VO**: "AFT-VO: Asynchronous Fusion Transformers for Multi-View Visual Odometry Estimation", arXiv, 2022 (*University of Surrey, UK*). [[Paper](https://arxiv.org/abs/2206.12946)]
     * **DPT-VO**: "Dense Prediction Transformer for Scale Estimation in Monocular Visual Odometry", arXiv, 2022 (*Aeronautics Institute of Technology, Brazil*). [[Paper](https://arxiv.org/abs/2210.01723)]
     * **?**: "Video based Object 6D Pose Estimation using Transformers", arXiv, 2022 (*Georgia Tech*). [[Paper](https://arxiv.org/abs/2210.13540)][[PyTorch](https://github.com/ApoorvaBeedu/VideoPose)]
+    * **PoET**: "PoET: Pose Estimation Transformer for Single-View, Multi-Object 6D Pose Estimation", arXiv, 2022 (*Infineon Technologies Austria AG*). [[Paper](https://arxiv.org/abs/2211.14125)][[PyTorch](https://github.com/aau-cns/poet)]
     * **CRT-6D**: "CRT-6D: Fast 6D Object Pose Estimation with Cascaded Refinement Transformers", WACV, 2023 (ICL, UK**). [[Paper](https://arxiv.org/abs/2210.11718)][[Code (in construction)](https://github.com/PedroCastro/CRT-6D)]
 
 [[Back to Overview](#overview)]
@@ -485,7 +486,7 @@
     * **DATSR**: "Reference-based Image Super-Resolution with Deformable Attention Transformer", ECCV, 2022 (*ETHZ*). [[Paper](https://arxiv.org/abs/2207.11938)][[Code (in construction)](https://github.com/caojiezhang/DATSR)]
     * **ELAN**: "Efficient Long-Range Attention Network for Image Super-resolution", ECCV, 2022 (*The Hong Kong Polytechnic University*). [[Paper](https://arxiv.org/abs/2203.06697)][[PyTorch](https://github.com/xindongzhang/ELAN)]
     * **Swin2SR**: "Swin2SR: SwinV2 Transformer for Compressed Image Super-Resolution and Restoration", ECCVW, 2022 (*University of Wurzburg, Germany*). [[Paper](https://arxiv.org/abs/2209.11345)]
-    * **CAT**: "Cross Aggregation Transformer for Image Restoration", NeurIPS, 2022 (*Shanghai Jiao Tong*). [[Paper](https://openreview.net/forum?id=wQ2QNNP8GtM)]
+    * **CAT**: "Cross Aggregation Transformer for Image Restoration", NeurIPS, 2022 (*Shanghai Jiao Tong*). [[Paper](https://arxiv.org/abs/2211.13654)][[PyTorch](https://github.com/zhengchen1999/CAT)]
     * **Stoformer**: "Stochastic Window Transformer for Image Restoration", NeurIPS, 2022 (*USTC*). [[Paper](https://openreview.net/forum?id=0ucMtEKCihU)][[PyTorch](https://github.com/jiexiaou/Stoformer)]
     * **LFT**: "Light Field Image Super-Resolution with Transformers", IEEE Signal Processing Letters, 2022 (*National University of Defense Technology, China*). [[Paper](https://arxiv.org/abs/2108.07597)][[PyTorch](https://github.com/ZhengyuLiang24/LFT)]
     * **ELAN**: "Efficient Long-Range Attention Network for Image Super-resolution", arXiv, 2022 (*The Hong Kong Polytechnic University*). [[Paper](https://arxiv.org/abs/2203.06697)][[Code (in construction)](https://github.com/xindongzhang/ELAN)]
@@ -525,6 +526,7 @@
     * **WITT**: "WITT: A Wireless Image Transmission Transformer for Semantic Communications", arXiv, 2022 (*Beijing University of Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2211.00937)][[Code (in construction)](https://github.com/KeYang8/WITT)]
     * **BiT**: "Blur Interpolation Transformer for Real-World Motion from Blur", arXiv, 2022 (*The University of Tokyo*). [[Paper](https://arxiv.org/abs/2211.11423)]
     * **FFTformer**: "Efficient Frequency Domain-based Transformers for High-Quality Image Deblurring", arXiv, 2022 (*Nanjing University of Science and Technology*). [[Paper](https://arxiv.org/abs/2211.12250)][[Code (in construction)](https://github.com/kkkls/FFTformer)]
+    * **SST**: "Spatial-Spectral Transformer for Hyperspectral Image Denoising", arXiv, 2022 (*Beijing Institute of Technology*). [[Paper](https://arxiv.org/abs/2211.14090)][[PyTorch](https://github.com/MyuLi/SST)]
 
 [[Back to Overview](#overview)]
 
@@ -1138,7 +1140,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **OSR-ViT**: "Open Set Recognition using Vision Transformer with an Additional Detection Head", arXiv, 2022 (*Vanderbilt University, Tennessee*). [[Paper](https://arxiv.org/abs/2203.08441)]
 * Out-Of-Distribution:
     * **OODformer**: "OODformer: Out-Of-Distribution Detection Transformer", BMVC, 2021 (*LMU Munich*). [[Paper](https://arxiv.org/abs/2107.08976)][[PyTorch](https://github.com/rajatkoner08/oodformer)]
-    * **MCM**: "Delving into Out-of-Distribution Detection with Vision-Language Representations", NeurIPS, 2022 (*UW-Madison*). [[Paper](https://openreview.net/forum?id=KnCS9390Va)]
+    * **MCM**: "Delving into Out-of-Distribution Detection with Vision-Language Representations", NeurIPS, 2022 (*UW-Madison*). [[Paper](https://arxiv.org/abs/2211.13445)]
 * Pedestrian Intention:
     * **IntFormer**: "IntFormer: Predicting pedestrian intention with the aid of the Transformer architecture", arXiv, 2021 (*Universidad de Alcala*). [[Paper](https://arxiv.org/abs/2105.08647)]
 * Physics Simulation:
