@@ -1107,6 +1107,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **GTZSR**: "Zero-Shot Sketch Based Image Retrieval using Graph Transformer", arXiv, 2022 (*IIT Bombay*). [[Paper](https://arxiv.org/abs/2201.10185)]
     * **EViT**: "EViT: Privacy-Preserving Image Retrieval via Encrypted Vision Transformer in Cloud Computing", arXiv, 2022 (*Jinan University*). [[Paper](https://arxiv.org/abs/2208.14657)][[PyTorch (in construction)](https://github.com/onlinehuazai/EViT)]
     * **?**: "Transformers and CNNs both Beat Humans on SBIR", arXiv, 2022 (*University of Mons, Belgium*). [[Paper](https://arxiv.org/abs/2209.06629)]
+    * **?**: "A Light Touch Approach to Teaching Transformers Multi-view Geometry", arXiv, 2022 (*Oxford*). [[Paper](https://arxiv.org/abs/2211.15107)]
     * **DToP**: "Boosting vision transformers for image retrieval", WACV, 2023 (*Dealicious, Korea*). [[Paper](https://arxiv.org/abs/2210.11909)][[Code (in construction)](https://github.com/dealicious-inc/DToP)]
 * Layout Generation:
     * **VTN**: "Variational Transformer Networks for Layout Generation", CVPR, 2021 (*Google*). [[Paper](https://arxiv.org/abs/2104.02416)]
@@ -1296,6 +1297,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **?**: "Diverse Dance Synthesis via Keyframes with Transformer Controllers", arXiv, 2022 (*Beihang University*). [[Paper](https://arxiv.org/abs/2207.05906)]
     * **MARIONET**: "NEURAL MARIONETTE: A Transformer-based Multi-action Human Motion Synthesis System", arXiv, 2022 (*Wuhan University*). [[Paper](https://arxiv.org/abs/2209.13204)]
     * **OhMG**: "OhMG: Zero-shot Open-vocabulary Human Motion Generation", arXiv, 2022 (*Sun Yat-Sen University*). [[Paper](https://arxiv.org/abs/2210.15929)]
+    * **Action-GPT**: "Action-GPT: Leveraging Large-scale Language Models for Improved and Generalized Zero Shot Action Generation", arXiv, 2022 (*IIIT Hyderabad*). [[Paper](https://arxiv.org/abs/2211.15603)][[Website](https://actiongpt.github.io/)]
 * 3D Object Recognition:
     * **MVT**: "MVT: Multi-view Vision Transformer for 3D Object Recognition", BMVC, 2021 (*Baidu*). [[Paper](https://arxiv.org/abs/2110.13083)]
 * 3D Reconstruction:
@@ -1307,6 +1309,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **LegoFormer**: "LegoFormer: Transformers for Block-by-Block Multi-view 3D Reconstruction", arXiv, 2021 (*TUM + Google*). [[Paper](https://arxiv.org/abs/2106.12102)]
     * **PlaneFormers**: "PlaneFormers: From Sparse View Planes to 3D Reconstruction", ECCV, 2022 (*Michigan*). [[Paper](https://arxiv.org/abs/2208.04307)][[PyTorch](https://github.com/samiragarwala/PlaneFormers)][[Website](https://samiragarwala.github.io/PlaneFormers/)]
     * **3D-C2FT**: "3D-C2FT: Coarse-to-fine Transformer for Multi-view 3D Reconstruction", arXiv, 2022 (*Korea Institute of Science and Technology*). [[Paper](https://arxiv.org/abs/2205.14575)]
+    * **OpenScene**: "OpenScene: 3D Scene Understanding with Open Vocabularies", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2211.15654)][[Website](https://pengsongyou.github.io/openscene)]
 * 360 Scene:
     * **?**: "Improving 360 Monocular Depth Estimation via Non-local Dense Prediction Transformer and Joint Supervised and Self-supervised Learning", AAAI, 2022 (*Seoul National University*). [[Paper](https://arxiv.org/abs/2109.10563)][[PyTorch](https://github.com/yuniw18/Joint_360depth)]
     * **PAVER**: "Panoramic Vision Transformer for Saliency Detection in 360° Videos", ECCV, 2022 (*Seoul National University*). [[Paper](https://arxiv.org/abs/2209.08956)]
