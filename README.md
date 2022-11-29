@@ -722,6 +722,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **SEFormer**: "SEFormer: Structure Embedding Transformer for 3D Object Detection", arXiv, 2022 (*Tsinghua University*). [[Paper](https://arxiv.org/abs/2209.01745)]
 * **CRAFT**: "CRAFT: Camera-Radar 3D Object Detection with Spatio-Contextual Fusion Transformer", arXiv, 2022 (*KAIST*). [[Paper](https://arxiv.org/abs/2209.06535)]
 * **CrossDTR**: "CrossDTR: Cross-view and Depth-guided Transformers for 3D Object Detection", arXiv, 2022 (*NTU*). [[Paper](https://arxiv.org/abs/2209.13507)][[Code (in construction)](https://github.com/sty61010/CrossDTR)]
+* **?**: "3D Point Positional Encoding for Multi-Camera 3D Object Detection Transformers", arXiv, 2022 (*Houmo AI, China*). [[Paper](https://arxiv.org/abs/2211.14710)]
 * **Li3DeTr**: "Li3DeTr: A LiDAR based 3D Detection Transformer", WACV, 2023 (*University of Coimbra, Portugal*). [[Paper](https://arxiv.org/abs/2210.15365)]
 
 [[Back to Overview](#overview)]
@@ -968,7 +969,6 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **CLIPSeg**: "Image Segmentation Using Text and Image Prompts", CVPR, 2022 (*University of Göttingen, Germany*). [[Paper](https://arxiv.org/abs/2112.10003)][[PyTorch](https://github.com/timojl/clipseg)]
     * **DenseCLIP**: "DenseCLIP: Language-Guided Dense Prediction with Context-Aware Prompting", CVPR, 2022 (*Tsinghua University*). [[Paper](https://arxiv.org/abs/2112.01518)][[PyTorch](https://github.com/raoyongming/DenseCLIP)][[Website](https://denseclip.ivg-research.xyz/)]
     * **MaskCLIP**: "Extract Free Dense Labels from CLIP", ECCV, 2022 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2112.01071)][[PyTorch](https://github.com/chongzhou96/MaskCLIP)][[Website](https://www.mmlab-ntu.com/project/maskclip/)]
-    * **?**: "A Simple Baseline for Open Vocabulary Semantic Segmentation with Pre-trained Vision-language Model", ECCV, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2112.14757)][[PyTorch](https://github.com/MendelXu/zsseg.baseline)]
 * Multi-Modal:
     * **UCTNet**: "UCTNet: Uncertainty-Aware Cross-Modal Transformer Network for Indoor RGB-D Semantic Segmentation", ECCV, 2022 (*Lehigh University, Pennsylvania*). [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/7082_ECCV_2022_paper.php)]
     * **CMX**: "CMX: Cross-Modal Fusion for RGB-X Semantic Segmentation with Transformers", arXiv, 2022 (*Karlsruhe Institute of Technology, Germany*). [[Paper](https://arxiv.org/abs/2203.04838)][[PyTorch](https://github.com/huaaaliu/RGBX_Semantic_Segmentation)]
@@ -1024,6 +1024,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **SemFormer**: "SemFormer: Semantic Guided Activation Transformer for Weakly Supervised Semantic Segmentation", arXiv, 2022 (*Shenzhen University*). [[Paper](https://arxiv.org/abs/2210.14618)][[PyTorch](https://github.com/JLChen-C/SemFormer)]
 * Cross-Domain:
     * **DAFormer**: "DAFormer: Improving Network Architectures and Training Strategies for Domain-Adaptive Semantic Segmentation", CVPR, 2022 (*ETHZ*). [[Paper](https://arxiv.org/abs/2111.14887)][[PyTorch](https://github.com/lhoyer/DAFormer)]
+    * **?**: "Exploring Consistency in Cross-Domain Transformer for Domain Adaptive Semantic Segmentation", arXiv, 2022 (*Boston*). [[Paper](https://arxiv.org/abs/2211.14703)]
 * Continual Learning:
     * **TISS**: "Delving into Transformer for Incremental Semantic Segmentation", arXiv, 2022 (*Tencent*). [[Paper](https://arxiv.org/abs/2211.10253)]
 * Crack Detection:
@@ -1055,8 +1056,10 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **Trans4Map**: "Trans4Map: Revisiting Holistic Top-down Mapping from Egocentric Images to Allocentric Semantics with Vision Transformers", arXiv, 2022 (*Karlsruhe Institute of Technology, Germany*). [[Paper](https://arxiv.org/abs/2207.06205)]
 * Open-World/Vocabulary:
     * **ViL-Seg**: "Open-world Semantic Segmentation via Contrasting and Clustering Vision-Language Embedding", ECCV, 2022 (*CUHK*). [[Paper](https://arxiv.org/abs/2207.08455)]
+    * **?**: "A Simple Baseline for Open Vocabulary Semantic Segmentation with Pre-trained Vision-language Model", ECCV, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2112.14757)][[PyTorch](https://github.com/MendelXu/zsseg.baseline)]
     * **Fusioner**: "Open-vocabulary Semantic Segmentation with Frozen Vision-Language Models", BMVC, 2022 (*Shanghai Jiao Tong University*). [[Paper](https://arxiv.org/abs/2210.15138)][[Website](https://yyh-rain-song.github.io/Fusioner_webpage/)]
     * **OVSeg**: "Open-Vocabulary Semantic Segmentation with Mask-adapted CLIP", arXiv, 2022 (*Meta*). [[Paper](https://arxiv.org/abs/2210.04150)][[Website](https://jeff-liangf.github.io/projects/ovseg/)]
+    * **SegCLIP**: "SegCLIP: Patch Aggregation with Learnable Centers for Open-Vocabulary Semantic Segmentation", arXiv, 2022 (*JD*). [[Paper](https://arxiv.org/abs/2211.14813)][[Code (in construction)](https://github.com/ArrowLuo/SegCLIP)]
 * Surface Normal:
     * **Normal-Transformer**: "Normal Transformer: Extracting Surface Geometry from LiDAR Points Enhanced by Visual Semantics", arXiv, 2022 (*University of Technology Sydney*). [[Paper](https://arxiv.org/abs/2211.10580)]
 * Applications:
@@ -1113,6 +1116,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **STAN**: "Two-Stream Transformer Architecture for Long Video Understanding", arXiv, 2022 (*The University of Surrey, UK*). [[Paper](https://arxiv.org/abs/2208.01753)]
     * **AdaMAE**: "AdaMAE: Adaptive Masking for Efficient Spatiotemporal Learning with Masked Autoencoders", arXiv, 2022 (*JHU*). [[Paper](https://arxiv.org/abs/2211.09120)][[PyTorch](https://github.com/wgcban/adamae)]
     * **UniFormerV2**: "UniFormerV2: Spatiotemporal Learning by Arming Image ViTs with Video UniFormer", arXiv, 2022 (*CAS*). [[Paper](https://arxiv.org/abs/2211.09552)][[PyTorch](https://github.com/OpenGVLab/UniFormerV2)]
+    * **PatchBlender**: "PatchBlender: A Motion Prior for Video Transformers", arXiv, 2022 (*Mila*). [[Paper](https://arxiv.org/abs/2211.14449)]
 * Depth:
     * **Trear**: "Trear: Transformer-based RGB-D Egocentric Action Recognition",  IEEE Transactions on Cognitive and Developmental Systems, 2021 (*Tianjing University*). [[Paper](https://ieeexplore.ieee.org/document/9312201)]
 * Pose/Skeleton:
@@ -1694,6 +1698,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **Story-LDM**: "Make-A-Story: Visual Memory Conditioned Consistent Story Generation", arXiv, 2022 (*UBC + Snap*). [[Paper](https://arxiv.org/abs/2211.13319)]
     * **ReCo**: "ReCo: Region-Controlled Text-to-Image Generation", arXiv, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2211.15518)]
     * **Shifted-Diffusion**: "Shifted Diffusion for Text-to-image Generation", arXiv, 2022 (*ByteDance*). [[Paper](https://arxiv.org/abs/2211.15388)]
+    * **UniD3**: "Unified Discrete Diffusion for Simultaneous Vision-Language Generation", arXiv, 2022 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2211.14842)]
 * Video:
     * **CogVideo**: "CogVideo: Large-scale Pretraining for Text-to-Video Generation via Transformers", arXiv, 2022 (*Tsinghua University*) [[Paper](https://arxiv.org/abs/2205.15868)][[GitHub (in construction)](https://github.com/THUDM/CogVideo)]
     * **Make-A-Video**: "Make-A-Video: Text-to-Video Generation without Text-Video Data", arXiv, 2022 (*Meta*). [[Paper](https://arxiv.org/abs/2209.14792)]
