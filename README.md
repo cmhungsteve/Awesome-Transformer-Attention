@@ -169,7 +169,7 @@ Feel free to share this list with others!
 
 ### Vision Transformer
 #### General Vision Transformer
-* **ViT**: "An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale", ICLR, 2021 (*Google*). [[Paper](https://openreview.net/forum?id=YicbFdNTTy)][[Tensorflow](https://github.com/google-research/vision_transformer)][[PyTorch (lucidrains)](https://github.com/lucidrains/vit-pytorch)]
+* **ViT**: "An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale", ICLR, 2021 (*Google*). [[Paper](https://openreview.net/forum?id=YicbFdNTTy)][[Tensorflow](https://github.com/google-research/vision_transformer)][[PyTorch (lucidrains)](https://github.com/lucidrains/vit-pytorch)][[JAX (conceptofmind)](https://github.com/conceptofmind/vit-flax)]
 * **Perceiver**: "Perceiver: General Perception with Iterative Attention", ICML, 2021 (*DeepMind*). [[Paper](https://arxiv.org/abs/2103.03206)][[PyTorch (lucidrains)](https://github.com/lucidrains/perceiver-pytorch)]
 * **PiT**: "Rethinking Spatial Dimensions of Vision Transformers", ICCV, 2021 (*NAVER*). [[Paper](https://arxiv.org/abs/2103.16302)][[PyTorch](https://github.com/naver-ai/pit)]
 * **VT**: "Visual Transformers: Where Do Transformers Really Belong in Vision Models?", ICCV, 2021 (*Facebook*). [[Paper](https://openaccess.thecvf.com/content/ICCV2021/html/Wu_Visual_Transformers_Where_Do_Transformers_Really_Belong_in_Vision_Models_ICCV_2021_paper.html)][[PyTorch (tahmid0007)](https://github.com/tahmid0007/VisualTransformers)] 
@@ -1591,8 +1591,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **LAVENDER**: "LAVENDER: Unifying Video-Language Understanding as Masked Language Modeling", arXiv, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2206.07160)][[Code (in construction)](https://github.com/microsoft/LAVENDER)]
     * **Clover**: "Clover: Towards A Unified Video-Language Alignment and Fusion Model", arXiv, 2022 (*ByteDance*). [[Paper](https://arxiv.org/abs/2207.07885)][[PyTorch (in construction)](https://github.com/LeeYN-43/Clover)]
     * **VIOLET**: "VIOLET : End-to-End Video-Language Transformers with Masked Visual-token Modeling", arXiv, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2111.12681)][[PyTorch](https://github.com/tsujuifu/pytorch_violet)]
-    * **?**: "An Empirical Study of End-to-End Video-Language Transformers with Masked Visual Modeling", arXiv, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2209.01540)]
-    * **CLIP-ViP**: "CLIP-ViP: Adapting Pre-trained Image-Text Model to Video-Language Representation Alignment", arXiv, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2209.06430)][[Code (in construction)](https://github.com/microsoft/XPretrain/tree/main/CLIP-ViP)]
+    * **VIOLETv2**: "An Empirical Study of End-to-End Video-Language Transformers with Masked Visual Modeling", arXiv, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2209.01540)]
     * **i-Code**: "i-Code: An Integrative and Composable Multimodal Learning Framework", AAAI, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2205.01818)]
 
 [[Back to Overview](#overview)]
@@ -1641,6 +1640,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **ConTra**: "ConTra: (Con)text (Tra)nsformer for Cross-Modal Video Retrieval", ACCV, 2022 (*University of Bristol, UK*). [[Paper](https://arxiv.org/abs/2210.04341)]
     * **RaP**: "RaP: Redundancy-aware Video-language Pre-training for Text-Video Retrieval", EMNLP, 2022 (*CAS*). [[Paper](https://arxiv.org/abs/2210.06881)][[PyTorch](https://github.com/caskcsg/VLP/tree/main/RaP)]
     * **BridgeFormer**: "BridgeFormer: Bridging Video-text Retrieval with Multiple Choice Questions", arXiv, 2022 (*HKU*). [[Paper](https://arxiv.org/abs/2201.04850)][[Website](https://geyuying.github.io/MCQ.html)]
+    * **CLIP-ViP**: "CLIP-ViP: Adapting Pre-trained Image-Text Model to Video-Language Representation Alignment", arXiv, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2209.06430)][[Code (in construction)](https://github.com/microsoft/XPretrain/tree/main/CLIP-ViP)]
     * **MDMMT-2**: "MDMMT-2: Multidomain Multimodal Transformer for Video Retrieval, One More Step Towards Generalization", arXiv, 2022 (*Huawei*). [[Paper](https://arxiv.org/abs/2203.07086)]
     * **M2HF**: "M2HF: Multi-level Multi-modal Hybrid Fusion for Text-Video Retrieval", arXiv, 2022 (*Tencent*). [[Paper](https://arxiv.org/abs/2208.07664)]
     * **FIRE**: "Fighting FIRe with FIRE: Assessing the Validity of Text-to-Video Retrieval Benchmarks", arXiv, 2022 (*Meta*). [[Paper](https://arxiv.org/abs/2210.05038)][[PyTorch](https://github.com/facebookresearch/mm-retrieval-evaluation)]
