@@ -338,7 +338,7 @@
 
 ### Neural Architecture Search
 * **HR-NAS**: "HR-NAS: Searching Efficient High-Resolution Neural Architectures with Lightweight Transformers", CVPR, 2021 (*HKU*). [[Paper](https://arxiv.org/abs/2106.06560)][[PyTorch](https://github.com/dingmyu/HR-NAS)]
-* **CATE**: "CATE: Computation-aware Neural Architecture Encoding with Transformers", ICML, 2021 (*Michigan State University*). [[Paper](https://arxiv.org/abs/2102.07108)]
+* **CATE**: "CATE: Computation-aware Neural Architecture Encoding with Transformers", ICML, 2021 (*Michigan State*). [[Paper](https://arxiv.org/abs/2102.07108)]
 * **AutoFormer**: "AutoFormer: Searching Transformers for Visual Recognition", ICCV, 2021 (*Microsoft*). [[Paper](https://arxiv.org/abs/2107.00651)][[PyTorch](https://github.com/microsoft/Cream/tree/main/AutoFormer)]
 * **GLiT**: "GLiT: Neural Architecture Search for Global and Local Image Transformer", ICCV, 2021 (*The University of Sydney + SenseTime*). [[Paper](https://arxiv.org/abs/2107.02960)]
 * **BossNAS**: "BossNAS: Exploring Hybrid CNN-transformers with Block-wisely Self-supervised Neural Architecture Search", ICCV, 2021 (*Monash University*). [[Paper](https://arxiv.org/abs/2103.12424)][[PyTorch](https://github.com/changlin31/BossNAS)]
@@ -400,6 +400,7 @@
     * **VL-Taboo**: "VL-Taboo: An Analysis of Attribute-based Zero-shot Capabilities of Vision-Language Models", arXiv, 2022 (*Goethe University Frankfurt, Germany*). [[Paper](https://arxiv.org/abs/2209.06103)][[Code (in construction)](https://github.com/felixVogel02/VL-Taboo)]
     * **CALIP**: "CALIP: Zero-Shot Enhancement of CLIP with Parameter-free Attention", arXiv, 2022 (*Peking University*). [[Paper](https://arxiv.org/abs/2209.14169)]
     * **PromptCompVL**: "Prompting Large Pre-trained Vision-Language Models For Compositional Concept Learning", arXiv, 2022 (*Michigan State*). [[Paper](https://arxiv.org/abs/2211.05077)]
+    * **SuS-X**: "SuS-X: Training-Free Name-Only Transfer of Vision-Language Models", arXiv, 2022 (*Cambridge*). [[Paper](https://arxiv.org/abs/2211.16198)][[PyTorch](https://github.com/vishaal27/SuS-X)]
 * X-Shot:
     * **CrossTransformer**: "CrossTransformers: spatially-aware few-shot transfer", NeurIPS, 2020 (*DeepMind*). [[Paper](https://arxiv.org/abs/2007.11498)][[Tensorflow](https://github.com/google-research/meta-dataset)]
     * **URT**: "A Universal Representation Transformer Layer for Few-Shot Image Classification", ICLR, 2021 (*Mila*). [[Paper](https://openreview.net/forum?id=04cII6MumYV)][[PyTorch](https://github.com/liulu112601/URT)]
@@ -1307,9 +1308,11 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **3D-RETR**: "3D-RETR: End-to-End Single and Multi-View 3D Reconstruction with Transformers", BMVC, 2021 (*ETHZ*). [[Paper](https://arxiv.org/abs/2110.08861)][[PyTorch](https://github.com/FomalhautB/3D-RETR)]
     * **TransformerFusion**: "TransformerFusion: Monocular RGB Scene Reconstruction using Transformers", NeurIPS, 2021 (*TUM*). [[Paper](https://arxiv.org/abs/2107.02191)][[Website](https://aljazbozic.github.io/transformerfusion/)]
     * **LegoFormer**: "LegoFormer: Transformers for Block-by-Block Multi-view 3D Reconstruction", arXiv, 2021 (*TUM + Google*). [[Paper](https://arxiv.org/abs/2106.12102)]
-    * **PlaneFormers**: "PlaneFormers: From Sparse View Planes to 3D Reconstruction", ECCV, 2022 (*Michigan*). [[Paper](https://arxiv.org/abs/2208.04307)][[PyTorch](https://github.com/samiragarwala/PlaneFormers)][[Website](https://samiragarwala.github.io/PlaneFormers/)]
+    * **PlaneFormers**: "PlaneFormers: From Sparse View Planes to 3D Reconstruction", ECCV, 2022 (*UMich*). [[Paper](https://arxiv.org/abs/2208.04307)][[PyTorch](https://github.com/samiragarwala/PlaneFormers)][[Website](https://samiragarwala.github.io/PlaneFormers/)]
     * **3D-C2FT**: "3D-C2FT: Coarse-to-fine Transformer for Multi-view 3D Reconstruction", arXiv, 2022 (*Korea Institute of Science and Technology*). [[Paper](https://arxiv.org/abs/2205.14575)]
+* 3D Scene:
     * **OpenScene**: "OpenScene: 3D Scene Understanding with Open Vocabularies", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2211.15654)][[Website](https://pengsongyou.github.io/openscene)]
+    * **?**: "Language-driven Open-Vocabulary 3D Scene Understanding", arXiv, 2022 (*ByteDance*). [[Paper](https://arxiv.org/abs/2211.16312)] 
 * 360 Scene:
     * **?**: "Improving 360 Monocular Depth Estimation via Non-local Dense Prediction Transformer and Joint Supervised and Self-supervised Learning", AAAI, 2022 (*Seoul National University*). [[Paper](https://arxiv.org/abs/2109.10563)][[PyTorch](https://github.com/yuniw18/Joint_360depth)]
     * **PAVER**: "Panoramic Vision Transformer for Saliency Detection in 360° Videos", ECCV, 2022 (*Seoul National University*). [[Paper](https://arxiv.org/abs/2209.08956)]
