@@ -63,7 +63,6 @@ Feel free to share this list with others!
     - [Multi-Modal Retrieval](#multi-modal-retrieval)
     - [Multi-Modal Generation](#multi-modal-generation)
     - [Visual Document Understanding](#visual-document-understanding)
-    - [Scene Graph](#scene-graph)
     - [Other Multi-Modal Tasks](#other-multi-modal-tasks)
 - [Citation](#citation)
 - [References](#references)
@@ -76,6 +75,7 @@ Feel free to share this list with others!
     - [Tracking](README_2.md#tracking)
     - [Re-ID](README_2.md#re-id)
     - [Face](README_2.md#face)
+    - [Scene Graph](README_2.md#scene-graph)
     - [Neural Architecture Search](README_2.md#neural-architecture-search)
 - [Transfer / X-Supervised / X-Shot / Continual Learning](README_2.md#transfer--x-supervised--x-shot--continual-learning)
 - [Low-level Vision Tasks](README_2.md#low-level-vision-tasks)
@@ -949,6 +949,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **Depthformer**: "Depthformer : Multiscale Vision Transformer For Monocular Depth Estimation With Local Global Information Fusion", arXiv, 2022 (*Indian Institute of Technology Delhi*). [[Paper](https://arxiv.org/abs/2207.04535)]
 * **TODE-Trans**: "TODE-Trans: Transparent Object Depth Estimation with Transformer", arXiv, 2022 (*USTC*). [[Paper](https://arxiv.org/abs/2209.08455)][[Code (in construction)](https://github.com/yuchendoudou/TODE)]
 * **Lite-Mono**: "Lite-Mono: A Lightweight CNN and Transformer Architecture for Self-Supervised Monocular Depth Estimation", arXiv, 2022 (*University of Twente, Netherlands*). [[Paper](https://arxiv.org/abs/2211.13202)][[PyTorch (in construction)](https://github.com/noahzn/Lite-Mono)]
+* **ObjCAViT**: "ObjCAViT: Improving Monocular Depth Estimation Using Natural Language Models And Image-Object Cross-Attention", arXiv, 2022 (*ICL*). [[Paper](https://arxiv.org/abs/2211.17232)]
 
 [[Back to Overview](#overview)]
 
@@ -1361,6 +1362,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **PTSN**: "Progressive Tree-Structured Prototype Network for End-to-End Image Captioning", arXiv, 2022 (*University of Electronic Science and Technology of China (UESTC)*). [[Paper](https://arxiv.org/abs/2211.09460)][[PyTorch (in construction)](https://github.com/NovaMind-Z/PTSN)]
     * **DDCap**: "Exploring Discrete Diffusion Models for Image Captioning", arXiv, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2211.11694)][[PyTorch](https://github.com/buxiangzhiren/DDCap)]
     * **ARIC**: "Aesthetically Relevant Image Captioning", AAAI, 2023 (*Shenzhen University*). [[Paper](https://arxiv.org/abs/2211.15378)][[Code (in construction)](https://github.com/PengZai/ARIC)]
+    * **UAIC**: "Uncertainty-Aware Image Captioning", AAAI, 2023 (*Meituan*). [[Paper](https://arxiv.org/abs/2211.16769)]
 * Video:
     * **Masked Transformers**: "End-to-End Dense Video Captioning with Masked Transformer", CVPR, 2018 (*UMich + Salesforce*). [[Paper](https://openaccess.thecvf.com/content_cvpr_2018/html/Zhou_End-to-End_Dense_Video_CVPR_2018_paper.html)][[PyTorch](https://github.com/salesforce/densecap)]
     * **BMT**: "A Better Use of Audio-Visual Cues: Dense Video Captioning with Bi-modal Transformer", BMVC, 2020 (*Tampere University, Finland*). [[Paper](https://arxiv.org/abs/2005.08271)][[PyTorch](https://github.com/v-iashin/bmt)][[Website](https://iashin.ai/bmt)]
@@ -1732,22 +1734,6 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **Bi-VLDoc**: "Bi-VLDoc: Bidirectional Vision-Language Modeling for Visually-Rich Document Understanding", arXiv, 2022 (*Alibaba*). [[Paper](https://arxiv.org/abs/2206.13155)]
 * **TRUST**: "TRUST: An Accurate and End-to-End Table structure Recognizer Using Splitting-based Transformers", arXiv, 2022 (*Baidu*). [[Paper](https://arxiv.org/abs/2208.14687)]
 * **OCR-VQGAN**: "OCR-VQGAN: Taming Text-within-Image Generation", WACV, 2023 (*UAB, Spain*). [[Paper](https://arxiv.org/abs/2210.11248)]
-
-[[Back to Overview](#overview)]
-
-### Scene Graph
-* **BGT-Net**: "BGT-Net: Bidirectional GRU Transformer Network for Scene Graph Generation", CVPRW, 2021 (*ETHZ*). [[Paper](https://arxiv.org/abs/2109.05346)]
-* **STTran**: "Spatial-Temporal Transformer for Dynamic Scene Graph Generation", ICCV, 2021 (*Leibniz University Hannover, Germany*). [[Paper](https://arxiv.org/abs/2107.12309)][[PyTorch](https://github.com/yrcong/STTran)]
-* **SGG-NLS**: "Learning to Generate Scene Graph from Natural Language Supervision", ICCV, 2021 (*University of Wisconsin-Madison*). [[Paper](https://arxiv.org/abs/2109.02227)][[PyTorch](https://github.com/YiwuZhong/SGG_from_NLS)]
-* **SGG-Seq2Seq**: "Context-Aware Scene Graph Generation With Seq2Seq Transformers", ICCV, 2021 (*Layer 6 AI, Canada*). [[Paper](https://openaccess.thecvf.com/content/ICCV2021/html/Lu_Context-Aware_Scene_Graph_Generation_With_Seq2Seq_Transformers_ICCV_2021_paper.html)][[PyTorch](https://github.com/layer6ai-labs/SGG-Seq2Seq)]
-* **RELAX**: "Image-Text Alignment using Adaptive Cross-attention with Transformer Encoder for Scene Graphs", BMVC, 2021 (*Samsung*). [[Paper](https://www.bmvc2021-virtualconference.com/assets/papers/0117.pdf)]
-* **Relation-Transformer**: "Scenes and Surroundings: Scene Graph Generation using Relation Transformer", arXiv, 2021 (*LMU Munich*). [[Paper](https://arxiv.org/abs/2107.05448)]
-* **SGTR**: "SGTR: End-to-end Scene Graph Generation with Transformer", CVPR, 2022 (*ShanghaiTech*). [[Paper](https://arxiv.org/abs/2112.12970)][[Code (in construction)](https://github.com/Scarecrow0/SGTR)]
-* **GCL**: "Stacked Hybrid-Attention and Group Collaborative Learning for Unbiased Scene Graph Generation", CVPR, 2022 (*Shandong University*). [[Paper](https://arxiv.org/abs/2203.09811)][[PyTorch](https://github.com/dongxingning/SHA-GCL-for-SGG)]
-* **Relationformer**: "Relationformer: A Unified Framework for Image-to-Graph Generation", ECCV, 2022 (*TUM*). [[Paper](https://arxiv.org/abs/2203.10202)][[Code (in construction)](https://github.com/suprosanna/relationformer)]
-* **SVRP**: "Towards Open-vocabulary Scene Graph Generation with Prompt-based Finetuning", ECCV, 2022 (*Monash University*). [[Paper](https://arxiv.org/abs/2208.08165)]
-* **RelTR**: "RelTR: Relation Transformer for Scene Graph Generation", arXiv, 2022 (*Leibniz University Hannover, Germany*). [[Paper](https://arxiv.org/abs/2201.11460)][[PyTorch](https://github.com/yrcong/RelTR)]
-* **SG-Shuffle**: "SG-Shuffle: Multi-aspect Shuffle Transformer for Scene Graph Generation", arXiv, 2022 (*The University of Sydney*). [[Paper](https://arxiv.org/abs/2211.04773)]
 
 [[Back to Overview](#overview)]
 
