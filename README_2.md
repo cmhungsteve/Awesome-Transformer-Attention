@@ -7,6 +7,7 @@
     - [Re-ID](#re-id)
     - [Face](#face)
     - [Neural Architecture Search](#neural-architecture-search)
+    - [Scene Graph](#scene-graph)
 - [Transfer / X-Supervised / X-Shot / Continual Learning](#transfer--x-supervised--x-shot--continual-learning)
 - [Low-level Vision Tasks](#low-level-vision-tasks)
     - [Image Restoration](#image-restoration)
@@ -360,6 +361,23 @@
 
 [[Back to Overview](#overview)]
 
+### Scene Graph
+* **BGT-Net**: "BGT-Net: Bidirectional GRU Transformer Network for Scene Graph Generation", CVPRW, 2021 (*ETHZ*). [[Paper](https://arxiv.org/abs/2109.05346)]
+* **STTran**: "Spatial-Temporal Transformer for Dynamic Scene Graph Generation", ICCV, 2021 (*Leibniz University Hannover, Germany*). [[Paper](https://arxiv.org/abs/2107.12309)][[PyTorch](https://github.com/yrcong/STTran)]
+* **SGG-NLS**: "Learning to Generate Scene Graph from Natural Language Supervision", ICCV, 2021 (*University of Wisconsin-Madison*). [[Paper](https://arxiv.org/abs/2109.02227)][[PyTorch](https://github.com/YiwuZhong/SGG_from_NLS)]
+* **SGG-Seq2Seq**: "Context-Aware Scene Graph Generation With Seq2Seq Transformers", ICCV, 2021 (*Layer 6 AI, Canada*). [[Paper](https://openaccess.thecvf.com/content/ICCV2021/html/Lu_Context-Aware_Scene_Graph_Generation_With_Seq2Seq_Transformers_ICCV_2021_paper.html)][[PyTorch](https://github.com/layer6ai-labs/SGG-Seq2Seq)]
+* **RELAX**: "Image-Text Alignment using Adaptive Cross-attention with Transformer Encoder for Scene Graphs", BMVC, 2021 (*Samsung*). [[Paper](https://www.bmvc2021-virtualconference.com/assets/papers/0117.pdf)]
+* **Relation-Transformer**: "Scenes and Surroundings: Scene Graph Generation using Relation Transformer", arXiv, 2021 (*LMU Munich*). [[Paper](https://arxiv.org/abs/2107.05448)]
+* **SGTR**: "SGTR: End-to-end Scene Graph Generation with Transformer", CVPR, 2022 (*ShanghaiTech*). [[Paper](https://arxiv.org/abs/2112.12970)][[Code (in construction)](https://github.com/Scarecrow0/SGTR)]
+* **GCL**: "Stacked Hybrid-Attention and Group Collaborative Learning for Unbiased Scene Graph Generation", CVPR, 2022 (*Shandong University*). [[Paper](https://arxiv.org/abs/2203.09811)][[PyTorch](https://github.com/dongxingning/SHA-GCL-for-SGG)]
+* **Relationformer**: "Relationformer: A Unified Framework for Image-to-Graph Generation", ECCV, 2022 (*TUM*). [[Paper](https://arxiv.org/abs/2203.10202)][[Code (in construction)](https://github.com/suprosanna/relationformer)]
+* **SVRP**: "Towards Open-vocabulary Scene Graph Generation with Prompt-based Finetuning", ECCV, 2022 (*Monash University*). [[Paper](https://arxiv.org/abs/2208.08165)]
+* **RelTR**: "RelTR: Relation Transformer for Scene Graph Generation", arXiv, 2022 (*Leibniz University Hannover, Germany*). [[Paper](https://arxiv.org/abs/2201.11460)][[PyTorch](https://github.com/yrcong/RelTR)]
+* **SG-Shuffle**: "SG-Shuffle: Multi-aspect Shuffle Transformer for Scene Graph Generation", arXiv, 2022 (*The University of Sydney*). [[Paper](https://arxiv.org/abs/2211.04773)]
+* **IS-GGT**: "Iterative Scene Graph Generation with Generative Transformers", arXiv, 2022 (*Oklahoma State University*). [[Paper](https://arxiv.org/abs/2211.16636)]
+
+[[Back to Overview](#overview)]
+
 
 ## Transfer / X-Supervised / X-Shot / Continual Learning
 * Transfer Learning:
@@ -421,6 +439,7 @@
     * **MG-ViT**: "Mask-guided Vision Transformer (MG-ViT) for Few-Shot Learning", arXiv, 2022 (*University of Electronic Science and Technology of China*). [[Paper](https://arxiv.org/abs/2205.09995)]
     * **QSFormer**: "Few-Shot Learning Meets Transformer: Unified Query-Support Transformers for Few-Shot Classification", arXiv, 2022 (*Anhui University*). [[Paper](https://arxiv.org/abs/2208.12398)]
     * **FS-CT**: "Enhancing Few-shot Image Classification with Cosine Transformer", arXiv, 2022 (*VinUniversity, Vietnam*). [[Paper](https://arxiv.org/abs/2211.06828)][[PyTorch](https://github.com/vinuni-vishc/Few-Shot-Cosine-Transformer)]
+    * **CoCa-CNI**: "Exploiting Category Names for Few-Shot Classification with Vision-Language Models", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2211.16594)]
 * Continual Learning:
     * **MEAT**: "Meta-attention for ViT-backed Continual Learning", CVPR, 2022 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2203.11684)][[Code (in construction)](https://github.com/zju-vipa/MEAT-TIL)]
     * **DyTox**: "DyTox: Transformers for Continual Learning with DYnamic TOken eXpansion", CVPR, 2022 (*Sorbonne Universite, France*). [[Paper](https://arxiv.org/abs/2111.11326)][[PyTorch](https://github.com/arthurdouillard/dytox)]
@@ -760,6 +779,7 @@
 * **AVLEN**: "AVLEN: Audio-Visual-Language Embodied Navigation in 3D Environments", NeurIPS, 2022 (*UC Riverside*). [[Paper](https://arxiv.org/abs/2210.07940)]
 * **ZSON**: "ZSON: Zero-Shot Object-Goal Navigation using Multimodal Goal Embeddings", NeurIPS, 2022 (*Georgia Tech*). [[Paper](https://arxiv.org/abs/2206.12403)]
 * **WS-MGMap**: "Weakly-Supervised Multi-Granularity Map Learning for Vision-and-Language Navigation", NeurIPS, 2022 (*South China University of Technology*). [[Paper](https://arxiv.org/abs/2210.07506)][[PyTorch (in construction)](https://github.com/PeihaoChen/WS-MGMap)]
+* **CLIP-Nav**: "CLIP-Nav: Using CLIP for Zero-Shot Vision-and-Language Navigation", CoRLW, 2022 (*Amazon*). [[Paper](https://arxiv.org/abs/2211.16649)]
 * **TransFuser**: "TransFuser: Imitation with Transformer-Based Sensor Fusion for Autonomous Driving", arXiv, 2022 (*MPI*). [[Paper](https://arxiv.org/abs/2205.15997)]
 * **TD-STP**: "Target-Driven Structured Transformer Planner for Vision-Language Navigation", arXiv, 2022 (*Beihang University*). [[Paper](https://arxiv.org/abs/2207.11201)][[Code (in construction)](https://github.com/YushengZhao/TD-STP)]
 * **DAVIS**: "Anticipating the Unseen Discrepancy for Vision and Language Navigation", arXiv, 2022 (*UCSB*). [[Paper](https://arxiv.org/abs/2209.04725)]
