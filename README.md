@@ -1595,7 +1595,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **ATP**: "Revisiting the "Video" in Video-Language Understanding", CVPR, 2022 (*Stanford*). [[Paper](https://arxiv.org/abs/2206.01720)][[Website](https://stanfordvl.github.io/atp-revisit-video-lang/)]
     * **ALPRO**: "Align and Prompt: Video-and-Language Pre-training with Entity Prompts", CVPR, 2022 (*Salesforce*). [[Paper](https://arxiv.org/abs/2112.09583)][[PyTorch](https://github.com/salesforce/ALPRO)]
     * **CLOP**: "CLOP: Video-and-Language Pre-Training with Knowledge Regularizations", ACMMM, 2022 (*Baidu*). [[Paper](https://arxiv.org/abs/2211.03314)]
-    * **?**: "Learning Audio-Video Modalities from Image Captions", ECCV, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2204.00679)]
+    * **VideoCC**: "Learning Audio-Video Modalities from Image Captions", ECCV, 2022 (*Google*). [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/4217_ECCV_2022_paper.php)][[Website](https://a-nagrani.github.io/videocc.html)]
     * **MUGEN**: "MUGEN: A Playground for Video-Audio-Text Multimodal Understanding and GENeration", ECCV, 2022 (*Meta*). [[Paper](https://arxiv.org/abs/2204.08058)][[Website](https://mugen-org.github.io/)]
     * **EMCL**: "Expectation-Maximization Contrastive Learning for Compact Video-and-Language Representations", NeurIPS, 2022 (*Peking University*). [[Paper](https://arxiv.org/abs/2211.11427)][[PyTorch](https://github.com/jpthu17/EMCL)]
     * **LF-VILA**: "Long-Form Video-Language Pre-Training with Multimodal Temporal Contrastive Learning", NeurIPS, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2210.06031)][[GitHub](https://github.com/microsoft/XPretrain)]
