@@ -1266,7 +1266,6 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **X-CLIP**: "Expanding Language-Image Pretrained Models for General Video Recognition", ECCV, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2208.02816)][[PyTorch](https://github.com/microsoft/VideoX/tree/master/X-CLIP)]
     * **EVL**: "Frozen CLIP Models are Efficient Video Learners", ECCV, 2022 (*CUHK*). [[Paper](https://arxiv.org/abs/2208.03550)][[PyTorch (in construction)](https://github.com/OpenGVLab/efficient-video-recognition)]
     * **STALE**: "Zero-Shot Temporal Action Detection via Vision-Language Prompting", ECCV, 2022 (*University of Surrey, UK*). [[Paper](https://arxiv.org/abs/2207.08184)][[Code (in construction)](https://github.com/sauradip/STALE)]
-    * **FineCo**: "Contrastive Video-Language Learning with Fine-grained Frame Sampling", AACL, 2022 (*ICL, UK*). [[Paper](https://arxiv.org/abs/2210.05039)]
     * **?**: "Knowledge Prompting for Few-shot Action Recognition", arXiv, 2022 (*Beijing Laboratory of Intelligent Information Technology*). [[Paper](https://arxiv.org/abs/2211.12030)]
     * **MovieCLIP**: "MovieCLIP: Visual Scene Recognition in Movies", WACV, 2023 (*USC*). [[Paper](https://arxiv.org/abs/2210.11065)][[Website](https://sail.usc.edu/~mica/MovieCLIP/)]
 * X-supervised Learning:
@@ -1597,6 +1596,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **CLOP**: "CLOP: Video-and-Language Pre-Training with Knowledge Regularizations", ACMMM, 2022 (*Baidu*). [[Paper](https://arxiv.org/abs/2211.03314)]
     * **VideoCC**: "Learning Audio-Video Modalities from Image Captions", ECCV, 2022 (*Google*). [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/4217_ECCV_2022_paper.php)][[Website](https://a-nagrani.github.io/videocc.html)]
     * **MUGEN**: "MUGEN: A Playground for Video-Audio-Text Multimodal Understanding and GENeration", ECCV, 2022 (*Meta*). [[Paper](https://arxiv.org/abs/2204.08058)][[Website](https://mugen-org.github.io/)]
+    * **FineCo**: "Contrastive Video-Language Learning with Fine-grained Frame Sampling", AACL, 2022 (*ICL, UK*). [[Paper](https://arxiv.org/abs/2210.05039)]
     * **EMCL**: "Expectation-Maximization Contrastive Learning for Compact Video-and-Language Representations", NeurIPS, 2022 (*Peking University*). [[Paper](https://arxiv.org/abs/2211.11427)][[PyTorch](https://github.com/jpthu17/EMCL)]
     * **LF-VILA**: "Long-Form Video-Language Pre-Training with Multimodal Temporal Contrastive Learning", NeurIPS, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2210.06031)][[GitHub](https://github.com/microsoft/XPretrain)]
     * **VATT-GR-CL**: "Scaling Multimodal Pre-Training via Cross-Modality Gradient Harmonization", NeurIPS, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2211.02077)]
