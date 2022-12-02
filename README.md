@@ -257,6 +257,7 @@ Feel free to share this list with others!
 * **TT**: "Token Transformer: Can class token help window-based transformer build better long-range interactions?", arXiv, 2022 (*Hangzhou Dianzi University*). [[Paper](https://arxiv.org/abs/2211.06083)]
 * **CabViT**: "CabViT: Cross Attention among Blocks for Vision Transformer", arXiv, 2022 (*Intellifusion, China*). [[Paper](https://arxiv.org/abs/2211.07198)][[PyTorch (in construction)](https://github.com/hkzhang91/CabViT)]
 * **SViT**: "Vision Transformer with Super Token Sampling", arXiv, 2022 (*CAS*). [[Paper](https://arxiv.org/abs/2211.11167)]
+* **ResFormer**: "ResFormer: Scaling ViTs with Multi-Resolution Training", arXiv, 2022 (*Fudan*). [[Paper](https://arxiv.org/abs/2212.00776)]
 #### Efficient Vision Transformer
 * **DeiT**: "Training data-efficient image transformers & distillation through attention", ICML, 2021 (*Facebook*). [[Paper](https://arxiv.org/abs/2012.12877)][[PyTorch](https://github.com/facebookresearch/deit)]
 * **ConViT**: "ConViT: Improving Vision Transformers with Soft Convolutional Inductive Biases", ICML, 2021 (*Facebook*). [[Paper](https://arxiv.org/abs/2103.10697)][[Code](https://github.com/facebookresearch/convit)]
@@ -1062,6 +1063,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **Fusioner**: "Open-vocabulary Semantic Segmentation with Frozen Vision-Language Models", BMVC, 2022 (*Shanghai Jiao Tong University*). [[Paper](https://arxiv.org/abs/2210.15138)][[Website](https://yyh-rain-song.github.io/Fusioner_webpage/)]
     * **OVSeg**: "Open-Vocabulary Semantic Segmentation with Mask-adapted CLIP", arXiv, 2022 (*Meta*). [[Paper](https://arxiv.org/abs/2210.04150)][[Website](https://jeff-liangf.github.io/projects/ovseg/)]
     * **SegCLIP**: "SegCLIP: Patch Aggregation with Learnable Centers for Open-Vocabulary Semantic Segmentation", arXiv, 2022 (*JD*). [[Paper](https://arxiv.org/abs/2211.14813)][[Code (in construction)](https://github.com/ArrowLuo/SegCLIP)]
+    * **TCL**: "Learning to Generate Text-grounded Mask for Open-world Semantic Segmentation from Only Image-Text Pairs", arXiv, 2022 (*Kakao*). [[Paper](https://arxiv.org/abs/2212.00785)][[Code (in construction)](https://github.com/kakaobrain/tcl)]
 * Surface Normal:
     * **Normal-Transformer**: "Normal Transformer: Extracting Surface Geometry from LiDAR Points Enhanced by Visual Semantics", arXiv, 2022 (*University of Technology Sydney*). [[Paper](https://arxiv.org/abs/2211.10580)]
 * Applications:
@@ -1579,6 +1581,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **SkillNet**: "One Model, Multiple Modalities: A Sparsely Activated Approach for Text, Sound, Image, Video and Code", arXiv, 2022 (*Tencent*). [[Paper](https://arxiv.org/abs/2205.06126)]
     * **SCL**: "Seeing What You Miss: Vision-Language Pre-training with Semantic Completion Learning", arXiv, 2022 (*Tencent*). [[Paper](https://arxiv.org/abs/2211.13437)]
     * **EPIC**: "Leveraging per Image-Token Consistency for Vision-Language Pre-training", arXiv, 2022 (*ByteDance*). [[Paper](https://arxiv.org/abs/2211.15398)]
+    * **FLIP**: "Scaling Language-Image Pre-training via Masking", arXiv, 2022 (*Meta*). [[Paper](https://arxiv.org/abs/2212.00794)]
     * **Perceiver-VL**: "Perceiver-VL: Efficient Vision-and-Language Modeling with Iterative Latent Attention", WACV, 2023 (*UNC*). [[Paper](https://arxiv.org/abs/2211.11701)][[PyTorch](https://github.com/zinengtang/Perceiver_VL)]
     * **?**: "Unifying Vision-Language Representation Space with Single-tower Transformer", AAAI, 2023 (*NAVER*). [[Paper](https://arxiv.org/abs/2211.11153)]
 * Video:
@@ -1844,6 +1847,8 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **FMIT**: "Flat Multi-modal Interaction Transformer for Named Entity Recognition", International Conference on Computational Linguistics (COLING), 2022 (*South China University of Technology*). [[Paper](https://arxiv.org/abs/2208.11039)]
 * Localization via Embodied Dialog:
     * **LED-Bert**: "Transformer-based Localization from Embodied Dialog with Large-scale Pre-training", arXiv, 2022 (*Georgia Tech*). [[Paper](https://arxiv.org/abs/2210.04864)]
+* Object Captioning:
+    * **GRiT**: "GRiT: A Generative Region-to-text Transformer for Object Understanding", arXiv, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2212.00280)][[PyTorch](https://github.com/JialianW/GRiT)]
 
 [[Back to Overview](#overview)]
 
