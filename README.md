@@ -1827,7 +1827,6 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * Audio-Visual:
     * **AVCA**: "Audio-visual Generalised Zero-shot Learning with Cross-modal Attention and Language", CVPR, 2022 (*University of Tubingen, Germany*). [[Paper](https://arxiv.org/abs/2203.03598)][[PyTorch](https://github.com/ExplainableML/AVCA-GZSL)]
     * **TCaF**: "Temporal and cross-modal attention for audio-visual zero-shot learning", ECCV, 2022 (*University of Tubingen, Germany*). [[Paper](https://arxiv.org/abs/2207.09966)][[PyTorch](https://github.com/ExplainableML/TCAF-GZSL)]
-    * **?**: "Learning Audio-Video Modalities from Image Captions", ECCV, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2204.00679)]
     * **AVSBench**: "Audio-Visual Segmentation", ECCV, 2022 (*SenseTime*). [[Paper](https://arxiv.org/abs/2207.05042)][[PyTorch](https://github.com/OpenNLPLab/AVSBench)][[Website](https://opennlplab.github.io/AVSBench/)]
     * **AVA-Memory**: "Audio-Visual Mismatch-Aware Video Retrieval via Association and Adjustment", ECCV, 2022 (*KAIST*). [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/5034_ECCV_2022_paper.php)]
     * **TVLT**: "TVLT: Textless Vision-Language Transformer", NeurIPS, 2022 (*UNC*). [[Paper](https://arxiv.org/abs/2209.14156)][[PyTorch](https://github.com/zinengtang/TVLT)]
