@@ -256,6 +256,7 @@
 * **SeqTR**: "Sequential Transformer for End-to-End Person Search", arXiv, 2022 (*East China Normal University*). [[Paper](https://arxiv.org/abs/2211.04323)]
 * **CLIP-ReID**: "CLIP-ReID: Exploiting Vision-Language Model for Image Re-Identification without Concrete Text Labels", arXiv, 2022 (*East China Normal University*). [[Paper](https://arxiv.org/abs/2211.13977)]
 * **TMGF**: "Transformer Based Multi-Grained Features for Unsupervised Person Re-Identification", WACVW, 2023 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2211.12280)][[Code (in construction)](https://github.com/RikoLi/WACV23-workshop-TMGF)]
+* **PMT**: "Learning Progressive Modality-shared Transformers for Effective Visible-Infrared Person Re-identification", AAAI, 2023 (*Jiangsu University*). [[Paper](https://arxiv.org/abs/2212.00226)][[Code (in construction)](https://github.com/hulu88/PMT)]
 
 [[Back to Overview](#overview)]
 
@@ -273,6 +274,7 @@
     * **VTP**: "Sub-word Level Lip Reading With Visual Attention", CVPR, 2022 (*Oxford*). [[Paper](https://arxiv.org/abs/2110.07603)]
     * **Label2Label**: "Label2Label: A Language Modeling Framework for Multi-Attribute Learning", ECCV, 2022 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2207.08677)][[PyTorch](https://github.com/Li-Wanhua/Label2Label)]
     * **FPVT**: "Face Pyramid Vision Transformer", BMVC, 2022 (*FloppyDisk.AI, Pakistan*). [[Paper](https://arxiv.org/abs/2210.11974)][[PyTorch](https://github.com/khawar-islam/FPVT_BMVC22)][[Website](https://khawar-islam.github.io/fpvt/)]
+    * **fViT**: "Part-based Face Recognition with Vision Transformers", BMVC, 2022 (*Queen Mary University of London*). [[Paper](https://arxiv.org/abs/2212.00057)]
     * **EventFormer**: "EventFormer: AU Event Transformer for Facial Action Unit Event Detection", arXiv, 2022 (*Peking*). [[Paper](https://arxiv.org/abs/2203.06355)]
     * **MFT**: "Multi-Modal Learning for AU Detection Based on Multi-Head Fused Transformers", arXiv, 2022 (*SUNY Binghamton*). [[Paper](https://arxiv.org/abs/2203.11441)]
     * **VC-TRSF**: "Self-supervised Video-centralised Transformer for Video Face Clustering", arXiv, 2022 (*ICL*). [[Paper](https://arxiv.org/abs/2203.13166)]
