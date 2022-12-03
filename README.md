@@ -236,7 +236,6 @@ Feel free to share this list with others!
 * **MOA-Transformer**: "Aggregating Global Features into Local Vision Transformer", arXiv, 2022 (*University of Kansas*). [[Paper](https://arxiv.org/abs/2201.12903)][[PyTorch](https://github.com/krushi1992/MOA-transformer)]
 * **BOAT**: "BOAT: Bilateral Local Attention Vision Transformer", arXiv, 2022 (*Baidu + HKU*). [[Paper](https://arxiv.org/abs/2201.13027)]
 * **ViTAEv2**: "ViTAEv2: Vision Transformer Advanced by Exploring Inductive Bias for Image Recognition and Beyond", arXiv, 2022 (*The University of Sydney*). [[Paper](https://arxiv.org/abs/2202.10108)]
-* **VAN**: "Visual Attention Network", arXiv, 2022 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2202.09741)][[PyTorch](https://github.com/Visual-Attention-Network)]
 * **HiP**: "Hierarchical Perceiver", arXiv, 2022 (*DeepMind*). [[Paper](https://arxiv.org/abs/2202.10890)]
 * **PatchMerger**: "Learning to Merge Tokens in Vision Transformers", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2202.12015)]
 * **DGT**: "Dynamic Group Transformer: A General Vision Transformer Backbone with Dynamic Group Attention", arXiv, 2022 (*Baidu*). [[Paper](https://arxiv.org/abs/2203.03937)]
@@ -375,7 +374,7 @@ Feel free to share this list with others!
 * **STM**: "Demystify Transformers & Convolutions in Modern Image Deep Networks", arXiv, 2022 (*Tsinghua University*). [[Paper](https://arxiv.org/abs/2211.05781)][[Code (in construction)(https://github.com/OpenGVLab/STM-Evaluation)]]
 * **InternImage**: "InternImage: Exploring Large-Scale Vision Foundation Models with Deformable Convolutions", arXiv, 2022 (*Shanghai AI Laboratory*). [[Paper](https://arxiv.org/abs/2211.05778)][[Code (in construction)](https://github.com/OpenGVLab/InternImage)]
 * **ParCNetV2**: "ParCNetV2: Oversized Kernel with Enhanced Attention", arXiv, 2022 (*Intellifusion, China*). [[Paper](https://arxiv.org/abs/2211.07157)]
-* **Conv2Former**: "Conv2Former: A Simple Transformer-Style ConvNet for Visual Recognition", arXiv, 2022 (*ByteDance*). [[Paper](https://arxiv.org/abs/2211.11943)]
+* **VAN**: "Visual Attention Network", arXiv, 2022 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2202.09741)][[PyTorch](https://github.com/Visual-Attention-Network)]
 * **SATA**: "Accumulated Trivial Attention Matters in Vision Transformers on Small Datasets", WACV, 2023 (*University of Kansas*). [[Paper](https://arxiv.org/abs/2210.12333)][[PyTorch (in construction)](https://github.com/xiangyu8/SATA)]
 #### Training + Transformer
 * **iGPT**: "Generative Pretraining From Pixels", ICML, 2020 (*OpenAI*). [[Paper](http://proceedings.mlr.press/v119/chen20s.html)][[Tensorflow](https://github.com/openai/image-gpt)]
@@ -573,9 +572,16 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **gSwin**: "gSwin: Gated MLP Vision Model with Hierarchical Structure of Shifted Window", arXiv, 2022 (*PKSHATechnology, Japan*). [[Paper](https://arxiv.org/abs/2208.11718)]
 * **?**: "Analysis of Quantization on MLP-based Vision Models", arXiv, 2022 (*Berkeley*). [[Paper](https://arxiv.org/abs/2209.06383)]
 #### Other Attention-Free
+* **DWNet**: "On the Connection between Local Attention and Dynamic Depth-wise Convolution", ICLR, 2022 (*Nankai Univerisy*). [[Paper](https://arxiv.org/abs/2106.04263)][[PyTorch](https://github.com/Atten4Vis/DemystifyLocalViT)]
 * **PoolFormer**: "MetaFormer is Actually What You Need for Vision", CVPR, 2022 (*Sea AI Lab*). [[Paper](https://arxiv.org/abs/2111.11418)][[PyTorch](https://github.com/sail-sg/poolformer)]
+* **ConvNext**: "A ConvNet for the 2020s", CVPR, 2022 (*Facebook*). [[Paper](https://arxiv.org/abs/2201.03545)][[PyTorch](https://github.com/facebookresearch/ConvNeXt)]
+* **RepLKNet**: "Scaling Up Your Kernels to 31x31: Revisiting Large Kernel Design in CNNs", CVPR, 2022 (*Megvii*). [[Paper](https://arxiv.org/abs/2203.06717)][[MegEngine](https://github.com/MegEngine/RepLKNet)][[PyTorch](https://github.com/DingXiaoH/RepLKNet-pytorch)]
 * **FocalNet**: "Focal Modulation Networks", NeurIPS, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2203.11926)][[PyTorch](https://github.com/microsoft/FocalNet)]
+* **HorNet**: "HorNet: Efficient High-Order Spatial Interactions with Recursive Gated Convolutions", NeurIPS, 2022 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2207.14284)][[PyTorch](https://github.com/raoyongming/HorNet)][[Website](https://hornet.ivg-research.xyz/)]
+* **SLaK**: "More ConvNets in the 2020s: Scaling up Kernels Beyond 51x51 using Sparsity", arXiv, 2022 (*UT Austin*). [[Paper](https://arxiv.org/abs/2207.03620)][[PyTorch](https://github.com/VITA-Group/SLaK)]
 * **Sequencer**: "Sequencer: Deep LSTM for Image Classification", arXiv, 2022 (*Rikkyo University, Japan*). [[Paper](https://arxiv.org/abs/2205.01972)]
+* **MogaNet**: "Efficient Multi-order Gated Aggregation Network", arXiv, 2022 (*Westlake University, China*). [[Paper](https://arxiv.org/abs/2211.03295)]
+* **Conv2Former**: "Conv2Former: A Simple Transformer-Style ConvNet for Visual Recognition", arXiv, 2022 (*ByteDance*). [[Paper](https://arxiv.org/abs/2211.11943)]
 
 [[Back to Overview](#overview)]
 
@@ -594,7 +600,6 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **FDSL**: "Can Vision Transformers Learn without Natural Images?", AAAI, 2022 (*AIST*). [[Paper](https://arxiv.org/abs/2103.13023)][[PyTorch](https://github.com/nakashima-kodai/FractalDB-Pretrained-ViT-PyTorch)][[Website](https://hirokatsukataoka16.github.io/Vision-Transformers-without-Natural-Images/)]
 * **AlterNet**: "How Do Vision Transformers Work?", ICLR, 2022 (*Yonsei University*). [[Paper](https://arxiv.org/abs/2202.06709)][[PyTorch](https://github.com/xxxnell/how-do-vits-work)]
 * **?**: "When Vision Transformers Outperform ResNets without Pretraining or Strong Data Augmentations", ICLR, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2106.01548)][[Tensorflow](https://github.com/google-research/vision_transformer)]
-* **?**: "On the Connection between Local Attention and Dynamic Depth-wise Convolution", ICLR, 2022 (*Microsoft*). [[Paper](https://openreview.net/forum?id=L3_SsSNMmy)]
 * **?**: "Unraveling Attention via Convex Duality: Analysis and Interpretations of Vision Transformers", ICML, 2022 (*Stanford*). [[Paper](https://arxiv.org/abs/2205.08078)]
 * **?**: "Three things everyone should know about Vision Transformers", ECCV, 2022 (*Meta*). [[Paper](https://arxiv.org/abs/2203.09795)]
 * **?**: "Vision Transformers provably learn spatial structure", NeurIPS, 2022 (*Princeton*). [[Paper](https://arxiv.org/abs/2210.09221)]
