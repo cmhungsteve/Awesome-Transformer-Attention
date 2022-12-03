@@ -9,6 +9,7 @@ Contributions in any form to make this list more comprehensive are welcome.
 If you find this repository useful, please consider **[citing](#citation)** and **★STARing** this list. <br>
 Feel free to share this list with others! 
 
+**[Update: December, 2022]** Added attention-free papers from [Networks Beyond Attention (GitHub)](https://github.com/FocalNet/Networks-Beyond-Attention) made by [Jianwei Yang](https://github.com/jwyang) <br>
 **[Update: November, 2022]** Added all the related papers from *NeurIPS 2022*! <br>
 **[Update: October, 2022]** Split the 2nd half of the paper list to [README_2.md](README_2.md) <br>
 **[Update: October, 2022]** Added all the related papers from *ECCV 2022*! <br>
@@ -1880,6 +1881,7 @@ If you find this repository useful, please consider citing this list:
     * [CS25: Transformers United (Course @ Stanford)](https://web.stanford.edu/class/cs25/)
     * [The Annotated Transformer (Blog)](http://nlp.seas.harvard.edu/annotated-transformer/)
     * [3D Vision with Transformers (GitHub)](https://github.com/lahoud/3d-vision-transformers)
+    * [Networks Beyond Attention (GitHub)](https://github.com/FocalNet/Networks-Beyond-Attention)
     * [Practical Introduction to Transformers (GitHub)](https://github.com/IbrahimSobh/Transformers)
     * [Awesome Transformer Architecture Search (GitHub)](https://github.com/automl/awesome-transformer-search)
     * [Transformer-in-Vision (GitHub)](https://github.com/DirtyHarryLYL/Transformer-in-Vision)   
