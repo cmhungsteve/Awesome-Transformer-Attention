@@ -1588,6 +1588,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **SCL**: "Seeing What You Miss: Vision-Language Pre-training with Semantic Completion Learning", arXiv, 2022 (*Tencent*). [[Paper](https://arxiv.org/abs/2211.13437)]
     * **EPIC**: "Leveraging per Image-Token Consistency for Vision-Language Pre-training", arXiv, 2022 (*ByteDance*). [[Paper](https://arxiv.org/abs/2211.15398)]
     * **FLIP**: "Scaling Language-Image Pre-training via Masking", arXiv, 2022 (*Meta*). [[Paper](https://arxiv.org/abs/2212.00794)]
+    * **EVA**: "EVA: Exploring the Limits of Masked Visual Representation Learning at Scale", arXiv, 2022 (*Beijing Academy of Artificial Intelligence (BAAI)*). [[Paper](https://arxiv.org/abs/2211.07636)][[PyTorch](https://github.com/baaivision/EVA)]
     * **Perceiver-VL**: "Perceiver-VL: Efficient Vision-and-Language Modeling with Iterative Latent Attention", WACV, 2023 (*UNC*). [[Paper](https://arxiv.org/abs/2211.11701)][[PyTorch](https://github.com/zinengtang/Perceiver_VL)]
     * **?**: "Unifying Vision-Language Representation Space with Single-tower Transformer", AAAI, 2023 (*NAVER*). [[Paper](https://arxiv.org/abs/2211.11153)]
 * Video:
