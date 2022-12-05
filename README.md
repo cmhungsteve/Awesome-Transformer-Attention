@@ -1359,6 +1359,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **P2C**: "Paraphrasing Is All You Need for Novel Object Captioning", NeurIPS, 2022 (*NTU + CMU*). [[Paper](https://arxiv.org/abs/2209.12343)]
     * **BEST**: "Visual Clues: Bridging Vision and Language Foundations for Image Paragraph Captioning", NeurIPS, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2206.01843)]
     * **CapDec**: "Text-Only Training for Image Captioning using Noise-Injected CLIP", EMNLP, 2022 (*Tel Aviv*). [[Paper](https://arxiv.org/abs/2211.00575)][[Pytorch](https://github.com/DavidHuji/CapDec)]
+    * **?**: "Focus! Relevant and Sufficient Context Selection for News Image Captioning", EMNLP Findings, 2022 (*UC Davis*). [[Paper](https://arxiv.org/abs/2212.00843)]
     * **CVLNM**: "Learning to Collocate Visual-Linguistic Neural Modules for Image Captioning", IJCV, 2022 (*Southeast University, China*). [[Paper](https://arxiv.org/abs/2210.01338)][[PyTorch](https://github.com/GCYZSL/CVLMN)]
     * **ViNTER**: "ViNTER: Image Narrative Generation with Emotion-Arc-Aware Transformer", arXiv, 2022 (*The University of Tokyo*). [[Paper](https://arxiv.org/abs/2202.07305)]
     * **VaT**: "Variational Transformer: A Framework Beyond the Trade-off between Accuracy and Diversity for Image Captioning", arXiv, 2022 (*Tongji University*). [[Paper](https://arxiv.org/abs/2205.14458)]
@@ -1492,6 +1493,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **ViL3DRel**: "Language Conditioned Spatial Relation Reasoning for 3D Object Grounding", NeurIPS, 2022 (*INRIA*). [[Paper](https://arxiv.org/abs/2211.09646)][[Website](https://cshizhe.github.io/projects/vil3dref.html)]
     * **LAR**: "Look Around and Refer: 2D Synthetic Semantics Knowledge Distillation for 3D Visual Grounding", NeurIPS, 2022 (*KAUST*). [[Paper](https://arxiv.org/abs/2211.14241)][[Website](https://eslambakr.github.io/LAR.github.io/)]
     * **3D-CG**: "3D Concept Grounding on Neural Fields", NeurIPS, 2022 (*MIT*). [[Paper](https://arxiv.org/abs/2207.06403)][[Website](http://3d-cg.csail.mit.edu/)]
+    * **UniT3D**: "UniT3D: A Unified Transformer for 3D Dense Captioning and Visual Grounding", arXiv, 2022 (*TUM*). [[Paper](https://arxiv.org/abs/2212.00836)]
 
 [[Back to Overview](#overview)]
 
@@ -1660,7 +1662,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **TS2-Net**: "TS2-Net: Token Shift and Selection Transformer for Text-Video Retrieval", ECCV, 2022 (*Tencent*). [[Paper](https://arxiv.org/abs/2207.07852)][[PyTorch](https://github.com/yuqi657/ts2_net)]
     * **LAFF**: "Lightweight Attentional Feature Fusion: A New Baseline for Text-to-Video Retrieval", ECCV, 2022 (*Renmin University of China*). [[Paper](https://arxiv.org/abs/2112.01832)]
     * **ECLIPSE**: "ECLIPSE: Efficient Long-range Video Retrieval using Sight and Sound", ECCV, 2022 (*UNC*). [[Paper](https://arxiv.org/abs/2204.02874)][[PyTorch](https://github.com/GenjiB/ECLIPSE)][[Website](https://yblin.ml/project_page/eclipse/)]
-    * **MILES**: "MILES: Visual BERT Pre-training with Injected Language Semantics for Video-text Retrieval", ECCV, 2022 (*HKU*). [[Paper](https://arxiv.org/abs/2204.12408)]
+    * **MILES**: "MILES: Visual BERT Pre-training with Injected Language Semantics for Video-text Retrieval", ECCV, 2022 (*HKU*). [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/1159_ECCV_2022_paper.php)][[PyTorch](https://github.com/TencentARC/MCQ/blob/main/MILES.md)]
     * **VTC**: "VTC: Improving Video-Text Retrieval with User Comments", ECCV, 2022 (*Unitary, UK*). [[Paper](https://arxiv.org/abs/2210.10820)][[PyTorch](https://github.com/unitaryai/VTC)][[Website](https://unitaryai.github.io/vtc-paper/)]
     * **LINAS**: "Learning Linguistic Association towards Efficient Text-Video Retrieval", ECCV, 2022 (*CAS*). [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/3305_ECCV_2022_paper.php)][[PyTorch](https://github.com/silenceFS/LINAS)]
     * **?**: "A Simple Transformer-Based Model for Ego4D Natural Language Queries Challenge", ECCVW, 2022 (*UW-Madison*). [[Paper](https://arxiv.org/abs/2211.08704)]
@@ -1673,6 +1675,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **FIRE**: "Fighting FIRe with FIRE: Assessing the Validity of Text-to-Video Retrieval Benchmarks", arXiv, 2022 (*Meta*). [[Paper](https://arxiv.org/abs/2210.05038)][[PyTorch](https://github.com/facebookresearch/mm-retrieval-evaluation)]
     * **Cross-Modal-Adapter**: "Cross-Modal Adapter for Text-Video Retrieval", arXiv, 2022 (*Tsinghua University*). [[Paper](https://arxiv.org/abs/2211.09623)][[PyTorch (in construction)](https://github.com/LeapLabTHU/Cross-Modal-Adapter)]
     * **VoP**: "VoP: Text-Video Co-operative Prompt Tuning for Cross-Modal Retrieval", arXiv, 2022 (*Alibaba*). [[Paper](https://arxiv.org/abs/2211.12764)][[Code (in construction)](https://github.com/bighuang624/VoP)]
+    * **MAC**: "Masked Contrastive Pre-Training for Efficient Video-Text Retrieval", arXiv, 2022 (*Alibaba*). [[Paper](https://arxiv.org/abs/2212.00986)]
 
 [[Back to Overview](#overview)]
 
