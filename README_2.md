@@ -1321,6 +1321,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **MARIONET**: "NEURAL MARIONETTE: A Transformer-based Multi-action Human Motion Synthesis System", arXiv, 2022 (*Wuhan University*). [[Paper](https://arxiv.org/abs/2209.13204)]
     * **OhMG**: "OhMG: Zero-shot Open-vocabulary Human Motion Generation", arXiv, 2022 (*Sun Yat-Sen University*). [[Paper](https://arxiv.org/abs/2210.15929)]
     * **Action-GPT**: "Action-GPT: Leveraging Large-scale Language Models for Improved and Generalized Zero Shot Action Generation", arXiv, 2022 (*IIIT Hyderabad*). [[Paper](https://arxiv.org/abs/2211.15603)][[Website](https://actiongpt.github.io/)]
+    * **Optimus**: "Transformer-Based Learned Optimization", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2212.01055)]
 * 3D Object Recognition:
     * **MVT**: "MVT: Multi-view Vision Transformer for 3D Object Recognition", BMVC, 2021 (*Baidu*). [[Paper](https://arxiv.org/abs/2110.13083)]
 * 3D Reconstruction:
