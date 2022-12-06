@@ -103,6 +103,7 @@
 * **PointCLIP-V2**: "PointCLIP V2: Adapting CLIP for Powerful 3D Open-world Learning", arXiv, 2022 (*CUHK*). [[Paper](https://arxiv.org/abs/2211.11682)][[Code (in construction)](https://github.com/yangyangyang127/PointCLIP_V2)]
 * **R<sup>2</sup>-MLP**: "R<sup>2</sup>-MLP: Round-Roll MLP for Multi-View 3D Object Recognition", arXiv, 2022 (*Baidu*). [[Paper](https://arxiv.org/abs/2211.11085)]
 * **PVT3D**: "PVT3D: Point Voxel Transformers for Place Recognition from Sparse Lidar Scans", arXiv, 2022 (*TUM*). [[Paper](https://arxiv.org/abs/2211.12542)]
+* **PartSLIP**: "PartSLIP: Low-Shot Part Segmentation for 3D Point Clouds via Pretrained Image-Language Models", arXiv, 2022 (*Qualcomm*). [[Paper](https://arxiv.org/abs/2212.01558)]
 
 [[Back to Overview](#overview)]
 
@@ -421,6 +422,7 @@
     * **CALIP**: "CALIP: Zero-Shot Enhancement of CLIP with Parameter-free Attention", arXiv, 2022 (*Peking University*). [[Paper](https://arxiv.org/abs/2209.14169)]
     * **PromptCompVL**: "Prompting Large Pre-trained Vision-Language Models For Compositional Concept Learning", arXiv, 2022 (*Michigan State*). [[Paper](https://arxiv.org/abs/2211.05077)]
     * **SuS-X**: "SuS-X: Training-Free Name-Only Transfer of Vision-Language Models", arXiv, 2022 (*Cambridge*). [[Paper](https://arxiv.org/abs/2211.16198)][[PyTorch](https://github.com/vishaal27/SuS-X)]
+    * **I2MVFormer**: "I2MVFormer: Large Language Model Generated Multi-View Document Supervision for Zero-Shot Image Classification", arXiv, 2022 (*ETHZ*). [[Paper](https://arxiv.org/abs/2212.02291)]
 * X-Shot:
     * **CrossTransformer**: "CrossTransformers: spatially-aware few-shot transfer", NeurIPS, 2020 (*DeepMind*). [[Paper](https://arxiv.org/abs/2007.11498)][[Tensorflow](https://github.com/google-research/meta-dataset)]
     * **URT**: "A Universal Representation Transformer Layer for Few-Shot Image Classification", ICLR, 2021 (*Mila*). [[Paper](https://openreview.net/forum?id=04cII6MumYV)][[PyTorch](https://github.com/liulu112601/URT)]
@@ -462,6 +464,11 @@
     * **Continual-CLIP**: "CLIP model is an Efficient Continual Learner", arXiv, 2022 (*MBZUAI*). [[Paper](https://arxiv.org/abs/2210.03114)][[Code (in construction)](https://github.com/vgthengane/Continual-CLIP)]
     * **GCAB-CFDC**: "Gated Class-Attention with Cascaded Feature Drift Compensation for Exemplar-free Continual Learning of Vision Transformers", arXiv, 2022 (*University of Pavia, Italy*). [[Paper](https://arxiv.org/abs/2211.12292)][[Code (in construction)](https://github.com/OcraM17/GCAB-CFDC)]
     * **CODA-Prompt**: "CODA-Prompt: COntinual Decomposed Attention-based Prompting for Rehearsal-Free Continual Learning", arXiv, 2022 (*IBM*). [[Paper](https://arxiv.org/abs/2211.13218)]
+* Long-tail/Imbalanced:
+    * **BatchFormer**: "BatchFormer: Learning to Explore Sample Relationships for Robust Representation Learning", CVPR, 2022 (*The University of Sydney*). [[Paper](https://arxiv.org/abs/2203.01522)][[PyTorch](https://github.com/zhihou7/BatchFormer)]
+    * **BatchFormerV2**: "BatchFormerV2: Exploring Sample Relationships for Dense Representation Learning", arXiv, 2022 (*The University of Sydney*). [[Paper](https://arxiv.org/abs/2204.01254)]
+    * **LPT**: "LPT: Long-tailed Prompt Tuning for Image Classification", arXiv, 2022 (*Harbin Institute of Technology*). [[Paper](https://arxiv.org/abs/2210.01033)]
+    * **LiVT**: "Learning Imbalanced Data with Vision Transformers", arXiv, 2022 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2212.02015)][[PyTorch (in construction)](https://github.com/XuZhengzhuo/LiVT)]
 * Knowledge Distillation:
     * **?**: "Knowledge Distillation via the Target-aware Transformer", CVPR, 2022 (*Alibaba*). [[Paper](https://arxiv.org/abs/2205.10793)]
     * **DearKD**: "DearKD: Data-Efficient Early Knowledge Distillation for Vision Transformers", CVPR, 2022 (*JD*). [[Paper](https://arxiv.org/abs/2204.12997)]
@@ -1147,10 +1154,6 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **UniLayout**: "UniLayout: Taming Unified Sequence-to-Sequence Transformers for Graphic Layout Generation", arXiv, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2208.08037)]
 * Livestock Monitoring:
     * **STARFormer**: "Livestock Monitoring with Transformer", BMVC, 2021 (*IIT Dhanbad*). [[Paper](https://arxiv.org/abs/2111.00801)]
-* Long-tail:
-    * **BatchFormer**: "BatchFormer: Learning to Explore Sample Relationships for Robust Representation Learning", CVPR, 2022 (*The University of Sydney*). [[Paper](https://arxiv.org/abs/2203.01522)][[PyTorch](https://github.com/zhihou7/BatchFormer)]
-    * **BatchFormerV2**: "BatchFormerV2: Exploring Sample Relationships for Dense Representation Learning", arXiv, 2022 (*The University of Sydney*). [[Paper](https://arxiv.org/abs/2204.01254)]
-    * **LPT**: "LPT: Long-tailed Prompt Tuning for Image Classification", arXiv, 2022 (*Harbin Institute of Technology*). [[Paper](https://arxiv.org/abs/2210.01033)]
 * Metric Learning:
     * **Hyp-ViT**: "Hyperbolic Vision Transformers: Combining Improvements in Metric Learning", CVPR, 2022 (*University of Trento, Italy*). [[Paper](https://arxiv.org/abs/2203.10833)][[PyTorch](https://github.com/htdt/hyp_metric)]
     * **BGFormer**: "Rethinking Batch Sample Relationships for Data Representation: A Batch-Graph Transformer based Approach", arXiv, 2022 (*Anhui University*). [[Paper](https://arxiv.org/abs/2211.10622)]
