@@ -823,6 +823,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **WWbL**: "What is Where by Looking: Weakly-Supervised Open-World Phrase-Grounding without Text Inputs", NeurIPS, 2022 (*Tel-Aviv*). [[Paper](https://arxiv.org/abs/2206.09358)][[PyTorch](https://github.com/talshaharabany/what-is-where-by-looking)][[Demo](https://replicate.com/talshaharabany/what-is-where-by-looking)]
     * **P<sup>3</sup>OVD**: "P<sup>3</sup>OVD: Fine-grained Visual-Text Prompt-Driven Self-Training for Open-Vocabulary Object Detection", arXiv, 2022 (*Sun Yat-sen University*). [[Paper](https://arxiv.org/abs/2211.00849)]
     * **OVAD**: "Open-vocabulary Attribute Detection", arXiv, 2022 (*University of Freiburg, Germany*). [[Paper](https://arxiv.org/abs/2211.12914)][[Website](https://ovad-benchmark.github.io/)]
+    * **Open-World-DETR**: "Open World DETR: Transformer based Open World Object Detection", arXiv, 2022 (*NUS*). [[Paper](https://arxiv.org/abs/2212.02969)]
 * Pedestrian Detection:
     * **PED**: "DETR for Crowd Pedestrian Detection", arXiv, 2020 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2012.06785)][[PyTorch](https://github.com/Hatmm/PED-DETR-for-Pedestrian-Detection)]
     * **?**: "Effectiveness of Vision Transformer for Fast and Accurate Single-Stage Pedestrian Detection", NeurIPS, 2022 (*ICL*). [[Paper](https://openreview.net/forum?id=eow_ZGaw24j)]
@@ -935,6 +936,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **HLG**: "Visual Representation Learning with Transformer: A Sequence-to-Sequence Perspective", arXiv, 2022 (*Fudan University*). [[Paper](https://arxiv.org/abs/2207.09339)][[PyTorch](https://github.com/fudan-zvg/SETR)]
 * **SSformer**: "SSformer: A Lightweight Transformer for Semantic Segmentation", arXiv, 2022 (*Nanjing University of Aeronautics and Astronautics*). [[Paper](https://arxiv.org/abs/2208.02034)][[PyTorch](https://github.com/shiwt03/SSformer)]
 * **NamedMask**: "NamedMask: Distilling Segmenters from Complementary Foundation Models", arXiv, 2022 (*Oxford*). [[Paper](https://arxiv.org/abs/2209.11228)][[PyTorch](https://github.com/NoelShin/namedmask)][[Website](https://www.robots.ox.ac.uk/~vgg/research/namedmask/)]
+* **IncepFormer**: "IncepFormer: Efficient Inception Transformer with Pyramid Pooling for Semantic Segmentation", arXiv, 2022 (*Nanjing University of Aeronautics and Astronautics*). [[Paper](https://arxiv.org/abs/2212.03035)][[PyTorch](https://github.com/shendu0321/IncepFormer)]
 
 [[Back to Overview](#overview)]
 
@@ -1374,6 +1376,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **PromptCap**: "PromptCap: Prompt-Guided Task-Aware Image Captioning", arXiv, 2022 (*UW*). [[Paper](https://arxiv.org/abs/2211.09699)]
     * **PTSN**: "Progressive Tree-Structured Prototype Network for End-to-End Image Captioning", arXiv, 2022 (*University of Electronic Science and Technology of China (UESTC)*). [[Paper](https://arxiv.org/abs/2211.09460)][[PyTorch (in construction)](https://github.com/NovaMind-Z/PTSN)]
     * **DDCap**: "Exploring Discrete Diffusion Models for Image Captioning", arXiv, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2211.11694)][[PyTorch](https://github.com/buxiangzhiren/DDCap)]
+    * **SCD-Net**: "Semantic-Conditional Diffusion Networks for Image Captioning", arXiv, 2022 (*JD*). [[Paper](https://arxiv.org/abs/2212.03099)][[PyTorch](https://github.com/jianjieluo/SCD-Net)]
     * **ARIC**: "Aesthetically Relevant Image Captioning", AAAI, 2023 (*Shenzhen University*). [[Paper](https://arxiv.org/abs/2211.15378)][[Code (in construction)](https://github.com/PengZai/ARIC)]
     * **UAIC**: "Uncertainty-Aware Image Captioning", AAAI, 2023 (*Meituan*). [[Paper](https://arxiv.org/abs/2211.16769)]
 * Video:
@@ -1755,6 +1758,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **VLCDoC**: "VLCDoC: Vision-Language Contrastive Pre-Training Model for Cross-Modal Document Classification", arXiv, 2022 (*La Rochelle University, France*). [[Paper](https://arxiv.org/abs/2205.12029)]
 * **Bi-VLDoc**: "Bi-VLDoc: Bidirectional Vision-Language Modeling for Visually-Rich Document Understanding", arXiv, 2022 (*Alibaba*). [[Paper](https://arxiv.org/abs/2206.13155)]
 * **TRUST**: "TRUST: An Accurate and End-to-End Table structure Recognizer Using Splitting-based Transformers", arXiv, 2022 (*Baidu*). [[Paper](https://arxiv.org/abs/2208.14687)]
+* **UDOP**: "Unifying Vision, Text, and Layout for Universal Document Processing", arXiv, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2212.02623)]
 * **OCR-VQGAN**: "OCR-VQGAN: Taming Text-within-Image Generation", WACV, 2023 (*UAB, Spain*). [[Paper](https://arxiv.org/abs/2210.11248)]
 
 [[Back to Overview](#overview)]
