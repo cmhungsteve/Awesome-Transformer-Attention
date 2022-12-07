@@ -385,7 +385,8 @@
 ## Transfer / X-Supervised / X-Shot / Continual Learning
 * Transfer Learning:
     * **AdaptFormer**: "AdaptFormer: Adapting Vision Transformers for Scalable Visual Recognition", NeurIPS, 2022 (*HKU*). [[Paper](https://arxiv.org/abs/2205.13535)][[PyTorch](https://github.com/ShoufaChen/AdaptFormer)][[Website](http://www.shoufachen.com/adaptformer-page/)]
-    * **Convpass**: "Convolutional Bypasses Are Better Vision Transformer Adapters", arXiv, 2022 (*Peking University*). [[Paper](https://arxiv.org/abs/2207.07039)]
+    * **Convpass**: "Convolutional Bypasses Are Better Vision Transformer Adapters", arXiv, 2022 (*Peking University*). [[Paper](https://arxiv.org/abs/2207.07039)][[Pytorch](https://github.com/JieShibo/PETL-ViT)]
+    * **FacT**: "FacT: Factor-Tuning for Lightweight Adaptation on Vision Transformer", AAAI, 2023 (*Peking*). [[Paper](https://arxiv.org/abs/2212.03145)][[Pytorch](https://github.com/JieShibo/PETL-ViT)]
 * Domain Adaptation/Generalization:
     * **TransDA**: "Transformer-Based Source-Free Domain Adaptation", arXiv, 2021 (*Haerbin Institute of Technology*). [[Paper](https://arxiv.org/abs/2105.14138)][[PyTorch](https://github.com/ygjwd12345/TransDA)]
     * **TVT**: "TVT: Transferable Vision Transformer for Unsupervised Domain Adaptation", arXiv, 2021 (*UT Arlington + Kuaishou*). [[Paper](https://arxiv.org/abs/2108.05988)]
@@ -662,8 +663,9 @@
 * **NUWA-Infinity**: "NUWA-Infinity: Autoregressive over Autoregressive Generation for Infinite Visual Synthesis", arXiv, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2207.09814)][[GitHub](https://github.com/microsoft/NUWA)][[Website](https://nuwa-infinity.microsoft.com/)]
 * **Diffusion-ViT**: "Your ViT is Secretly a Hybrid Discriminative-Generative Diffusion Model", arXiv, 2022 (*Etsy, NY*). [[Paper](https://arxiv.org/abs/2208.07791)]
 * **?**: "Visual Prompt Tuning for Generative Transfer Learning", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2210.00990)]
-* **Frido**: "Frido: Feature Pyramid Diffusion for Complex Scene Image Synthesis", arXiv, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2208.13753)][[PyTorch](https://github.com/davidhalladay/Frido)]
+* **SeQ-GAN**: "Rethinking the Objectives of Vector-Quantized Tokenizers for Image Synthesis", arXiv, 2022 (*Tencent*). [[Paper](https://arxiv.org/abs/2212.03185)][[Code (in construction)](https://github.com/TencentARC/BasicVQ-GEN)]
 * **?**: "Style-Guided Inference of Transformer for High-resolution Image Synthesis", WACV, 2023 (*NCSOFT, Korea*). [[Paper](https://arxiv.org/abs/2210.05533)]
+* **Frido**: "Frido: Feature Pyramid Diffusion for Complex Scene Image Synthesis", AAAI, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2208.13753)][[PyTorch](https://github.com/davidhalladay/Frido)]
 
 [[Back to Overview](#overview)]
 
