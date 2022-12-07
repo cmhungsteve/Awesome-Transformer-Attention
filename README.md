@@ -258,6 +258,7 @@ Feel free to share this list with others!
 * **CabViT**: "CabViT: Cross Attention among Blocks for Vision Transformer", arXiv, 2022 (*Intellifusion, China*). [[Paper](https://arxiv.org/abs/2211.07198)][[PyTorch (in construction)](https://github.com/hkzhang91/CabViT)]
 * **SViT**: "Vision Transformer with Super Token Sampling", arXiv, 2022 (*CAS*). [[Paper](https://arxiv.org/abs/2211.11167)]
 * **ResFormer**: "ResFormer: Scaling ViTs with Multi-Resolution Training", arXiv, 2022 (*Fudan*). [[Paper](https://arxiv.org/abs/2212.00776)]
+* **INTERN**: "INTERN: A New Learning Paradigm Towards General Vision", arXiv, 2022 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2111.08687)][[Website](https://opengvlab.shlab.org.cn/)]
 #### Efficient Vision Transformer
 * **DeiT**: "Training data-efficient image transformers & distillation through attention", ICML, 2021 (*Facebook*). [[Paper](https://arxiv.org/abs/2012.12877)][[PyTorch](https://github.com/facebookresearch/deit)]
 * **ConViT**: "ConViT: Improving Vision Transformers with Soft Convolutional Inductive Biases", ICML, 2021 (*Facebook*). [[Paper](https://arxiv.org/abs/2103.10697)][[Code](https://github.com/facebookresearch/convit)]
@@ -1128,6 +1129,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **AdaMAE**: "AdaMAE: Adaptive Masking for Efficient Spatiotemporal Learning with Masked Autoencoders", arXiv, 2022 (*JHU*). [[Paper](https://arxiv.org/abs/2211.09120)][[PyTorch](https://github.com/wgcban/adamae)]
     * **UniFormerV2**: "UniFormerV2: Spatiotemporal Learning by Arming Image ViTs with Video UniFormer", arXiv, 2022 (*CAS*). [[Paper](https://arxiv.org/abs/2211.09552)][[PyTorch](https://github.com/OpenGVLab/UniFormerV2)]
     * **PatchBlender**: "PatchBlender: A Motion Prior for Video Transformers", arXiv, 2022 (*Mila*). [[Paper](https://arxiv.org/abs/2211.14449)]
+    * **TubeViT**: "Rethinking Video ViTs: Sparse Video Tubes for Joint Image and Video Learning", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2212.03229)]
 * Depth:
     * **Trear**: "Trear: Transformer-based RGB-D Egocentric Action Recognition",  IEEE Transactions on Cognitive and Developmental Systems, 2021 (*Tianjing University*). [[Paper](https://ieeexplore.ieee.org/document/9312201)]
 * Pose/Skeleton:
@@ -1277,6 +1279,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **STALE**: "Zero-Shot Temporal Action Detection via Vision-Language Prompting", ECCV, 2022 (*University of Surrey, UK*). [[Paper](https://arxiv.org/abs/2207.08184)][[Code (in construction)](https://github.com/sauradip/STALE)]
     * **?**: "Knowledge Prompting for Few-shot Action Recognition", arXiv, 2022 (*Beijing Laboratory of Intelligent Information Technology*). [[Paper](https://arxiv.org/abs/2211.12030)]
     * **VLG**: "VLG: General Video Recognition with Web Textual Knowledge", arXiv, 2022 (*Nanjing University*). [[Paper](https://arxiv.org/abs/2212.01638)]
+    * **InternVideo**: "InternVideo: General Video Foundation Models via Generative and Discriminative Learning", arXiv, 2022 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2212.03191)][[Code (in construction)](https://github.com/OpenGVLab/InternVideo)][[Website](https://opengvlab.shlab.org.cn/home)]
     * **MovieCLIP**: "MovieCLIP: Visual Scene Recognition in Movies", WACV, 2023 (*USC*). [[Paper](https://arxiv.org/abs/2210.11065)][[Website](https://sail.usc.edu/~mica/MovieCLIP/)]
 * X-supervised Learning:
     * **LSTCL**: "Long-Short Temporal Contrastive Learning of Video Transformers", CVPR, 2022 (*Facebook*). [[Paper](https://arxiv.org/abs/2106.09212)]
@@ -1722,6 +1725,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **ReCo**: "ReCo: Region-Controlled Text-to-Image Generation", arXiv, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2211.15518)]
     * **Shifted-Diffusion**: "Shifted Diffusion for Text-to-image Generation", arXiv, 2022 (*ByteDance*). [[Paper](https://arxiv.org/abs/2211.15388)]
     * **UniD3**: "Unified Discrete Diffusion for Simultaneous Vision-Language Generation", arXiv, 2022 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2211.14842)]
+    * **RA-CM3**: "Retrieval-Augmented Multimodal Language Modeling", arXiv, 2022 (*Meta*). [[Paper](https://arxiv.org/abs/2211.12561)]
 * Video:
     * **CogVideo**: "CogVideo: Large-scale Pretraining for Text-to-Video Generation via Transformers", arXiv, 2022 (*Tsinghua University*) [[Paper](https://arxiv.org/abs/2205.15868)][[GitHub (in construction)](https://github.com/THUDM/CogVideo)]
     * **Make-A-Video**: "Make-A-Video: Text-to-Video Generation without Text-Video Data", arXiv, 2022 (*Meta*). [[Paper](https://arxiv.org/abs/2209.14792)]
