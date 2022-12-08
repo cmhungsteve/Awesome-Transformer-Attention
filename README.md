@@ -620,6 +620,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **ViT-CX**: "ViT-CX: Causal Explanation of Vision Transformers", arXiv, 2022 (*HKUST*). [[Paper](https://arxiv.org/abs/2211.03064)]
 * **?**: "Demystify Self-Attention in Vision Transformers from a Semantic Perspective: Analysis and Application", arXiv, 2022 (*The Hong Kong Polytechnic University*). [[Paper](https://arxiv.org/abs/2211.08543)]
 * **IAV**: "Explanation on Pretraining Bias of Finetuned Vision Transformer", arXiv, 2022 (*KAIST*). [[Paper](https://arxiv.org/abs/2211.15428)]
+* **?**: "Teaching Matters: Investigating the Role of Supervision in Vision Transformers", arXiv, 2022 (*Maryland*). [[Paper](https://arxiv.org/abs/2212.03862)][[PyTorch](https://github.com/mwalmer-umd/vit_analysis)][[Website](https://www.cs.umd.edu/~sakshams/vit_analysis/)]
 
 [[Back to Overview](#overview)]
 
@@ -982,6 +983,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **CLIPSeg**: "Image Segmentation Using Text and Image Prompts", CVPR, 2022 (*University of Göttingen, Germany*). [[Paper](https://arxiv.org/abs/2112.10003)][[PyTorch](https://github.com/timojl/clipseg)]
     * **DenseCLIP**: "DenseCLIP: Language-Guided Dense Prediction with Context-Aware Prompting", CVPR, 2022 (*Tsinghua University*). [[Paper](https://arxiv.org/abs/2112.01518)][[PyTorch](https://github.com/raoyongming/DenseCLIP)][[Website](https://denseclip.ivg-research.xyz/)]
     * **MaskCLIP**: "Extract Free Dense Labels from CLIP", ECCV, 2022 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2112.01071)][[PyTorch](https://github.com/chongzhou96/MaskCLIP)][[Website](https://www.mmlab-ntu.com/project/maskclip/)]
+    * **ZegCLIP**: "ZegCLIP: Towards Adapting CLIP for Zero-shot Semantic Segmentation", arXiv, 2022 (*The University of Adelaide, Australia*). [[Paper](https://arxiv.org/abs/2212.03588)][[PyTorch (in construction)](https://github.com/ZiqinZhou66/ZegCLIP)]
 * Multi-Modal:
     * **UCTNet**: "UCTNet: Uncertainty-Aware Cross-Modal Transformer Network for Indoor RGB-D Semantic Segmentation", ECCV, 2022 (*Lehigh University, Pennsylvania*). [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/7082_ECCV_2022_paper.php)]
     * **CMX**: "CMX: Cross-Modal Fusion for RGB-X Semantic Segmentation with Transformers", arXiv, 2022 (*Karlsruhe Institute of Technology, Germany*). [[Paper](https://arxiv.org/abs/2203.04838)][[PyTorch](https://github.com/huaaaliu/RGBX_Semantic_Segmentation)]
@@ -1063,6 +1065,8 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **DiffAttn**: "Joint Forecasting of Panoptic Segmentations with Difference Attention", CVPR, 2022 (*UIUC*). [[Paper](https://arxiv.org/abs/2204.07157)][[Code (in construction)](https://github.com/cgraber/psf-diffattn)]
 * LiDAR:
     * **HelixNet**: "Online Segmentation of LiDAR Sequences: Dataset and Algorithm", CVPRW, 2022 (*CNRS, France*). [[Paper](https://arxiv.org/abs/2206.08194)][[Website](https://romainloiseau.fr/helixnet/)][[PyTorch](https://github.com/romainloiseau/Helix4D)]
+    * **Gaussian-Radar-Transformer**: "Gaussian Radar Transformer for Semantic Segmentation in Noisy Radar Data", RA-L, 2022 (*University of Bonn,
+Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
 * Co-Segmentation:
     * **DINO-ViT-feature**: "Deep ViT Features as Dense Visual Descriptors", arXiv, 2022 (*Weizmann Institute of Science, Israel*). [[Paper](https://arxiv.org/abs/2112.05814)][[PyTorch](https://github.com/ShirAmir/dino-vit-features)][[Website](https://dino-vit-features.github.io/)]
 * Top-Down Semantic Segmentation:
@@ -1246,7 +1250,6 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **ASFormer**: "ASFormer: Transformer for Action Segmentation", BMVC, 2021 (*Peking University*). [[Paper](https://arxiv.org/abs/2110.08568)][[PyTorch](https://github.com/ChinaYi/ASFormer)]
     * **Bridge-Prompt**: "Bridge-Prompt: Towards Ordinal Action Understanding in Instructional Videos", CVPR, 2022 (*Tsinghua University*). [[Paper](https://arxiv.org/abs/2203.14104)][[PyTorch](https://github.com/ttlmh/Bridge-Prompt)]
     * **SC-Transformer++**: "SC-Transformer++: Structured Context Transformer for Generic Event Boundary Detection", CVPRW, 2022 (*CAS*). [[Paper](https://arxiv.org/abs/2206.12634)][[Code (in construction)](https://github.com/lufficc/SC-Transformer)]
-    * **LocVTP**: "LocVTP: Video-Text Pre-training for Temporal Localization", ECCV, 2022 (*Peking University*). [[Paper](https://arxiv.org/abs/2207.10362)][[PyTorch](https://github.com/mengcaopku/LocVTP)]
     * **UVAST**: "Unified Fully and Timestamp Supervised Temporal Action Segmentation via Sequence to Sequence Translation", ECCV, 2022 (*Bosch*). [[Paper](https://arxiv.org/abs/2209.00638)][[PyTorch](https://github.com/boschresearch/UVAST)]
     * **?**: "Transformers in Action: Weakly Supervised Action Segmentation", arXiv, 2022 (*TUM*). [[Paper](https://arxiv.org/abs/2201.05675)]
     * **CETNet**: "Cross-Enhancement Transformer for Action Segmentation", arXiv, 2022 (*Shijiazhuang Tiedao University*). [[Paper](https://arxiv.org/abs/2205.09445)]
@@ -1282,6 +1285,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **?**: "Knowledge Prompting for Few-shot Action Recognition", arXiv, 2022 (*Beijing Laboratory of Intelligent Information Technology*). [[Paper](https://arxiv.org/abs/2211.12030)]
     * **VLG**: "VLG: General Video Recognition with Web Textual Knowledge", arXiv, 2022 (*Nanjing University*). [[Paper](https://arxiv.org/abs/2212.01638)]
     * **InternVideo**: "InternVideo: General Video Foundation Models via Generative and Discriminative Learning", arXiv, 2022 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2212.03191)][[Code (in construction)](https://github.com/OpenGVLab/InternVideo)][[Website](https://opengvlab.shlab.org.cn/home)]
+    * **ViFi-CLIP**: "Fine-tuned CLIP Models are Efficient Video Learners", arXiv, 2022 (*MBZUAI*). [[Paper](https://arxiv.org/abs/2212.03640)]
     * **MovieCLIP**: "MovieCLIP: Visual Scene Recognition in Movies", WACV, 2023 (*USC*). [[Paper](https://arxiv.org/abs/2210.11065)][[Website](https://sail.usc.edu/~mica/MovieCLIP/)]
 * X-supervised Learning:
     * **LSTCL**: "Long-Short Temporal Contrastive Learning of Video Transformers", CVPR, 2022 (*Facebook*). [[Paper](https://arxiv.org/abs/2106.09212)]
@@ -1619,6 +1623,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **CLOP**: "CLOP: Video-and-Language Pre-Training with Knowledge Regularizations", ACMMM, 2022 (*Baidu*). [[Paper](https://arxiv.org/abs/2211.03314)]
     * **VideoCC**: "Learning Audio-Video Modalities from Image Captions", ECCV, 2022 (*Google*). [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/4217_ECCV_2022_paper.php)][[Website](https://a-nagrani.github.io/videocc.html)]
     * **MUGEN**: "MUGEN: A Playground for Video-Audio-Text Multimodal Understanding and GENeration", ECCV, 2022 (*Meta*). [[Paper](https://arxiv.org/abs/2204.08058)][[Website](https://mugen-org.github.io/)]
+    * **LocVTP**: "LocVTP: Video-Text Pre-training for Temporal Localization", ECCV, 2022 (*Peking University*). [[Paper](https://arxiv.org/abs/2207.10362)][[PyTorch](https://github.com/mengcaopku/LocVTP)]
     * **FineCo**: "Contrastive Video-Language Learning with Fine-grained Frame Sampling", AACL, 2022 (*ICL, UK*). [[Paper](https://arxiv.org/abs/2210.05039)]
     * **EMCL**: "Expectation-Maximization Contrastive Learning for Compact Video-and-Language Representations", NeurIPS, 2022 (*Peking University*). [[Paper](https://arxiv.org/abs/2211.11427)][[PyTorch](https://github.com/jpthu17/EMCL)]
     * **LF-VILA**: "Long-Form Video-Language Pre-Training with Multimodal Temporal Contrastive Learning", NeurIPS, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2210.06031)][[GitHub](https://github.com/microsoft/XPretrain)]
@@ -1632,6 +1637,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **Clover**: "Clover: Towards A Unified Video-Language Alignment and Fusion Model", arXiv, 2022 (*ByteDance*). [[Paper](https://arxiv.org/abs/2207.07885)][[PyTorch (in construction)](https://github.com/LeeYN-43/Clover)]
     * **VIOLET**: "VIOLET : End-to-End Video-Language Transformers with Masked Visual-token Modeling", arXiv, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2111.12681)][[PyTorch](https://github.com/tsujuifu/pytorch_violet)]
     * **VIOLETv2**: "An Empirical Study of End-to-End Video-Language Transformers with Masked Visual Modeling", arXiv, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2209.01540)]
+    * **SimVTP**: "SimVTP: Simple Video Text Pre-training with Masked Autoencoders", arXiv, 2022 (*Tencent*). [[Paper](https://arxiv.org/abs/2212.03490)][[PyTorch (in construction)](https://github.com/mayuelala/SimVTP)]
     * **i-Code**: "i-Code: An Integrative and Composable Multimodal Learning Framework", AAAI, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2205.01818)]
 
 [[Back to Overview](#overview)]
@@ -1843,8 +1849,9 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * Emotion Recognition:
     * **?**: "A Pre-trained Audio-Visual Transformer for Emotion Recognition", ICASSP, 2022 (*USC*). [[Paper](https://arxiv.org/abs/2201.09165)]
     * **MDAN**: "MDAN: Multi-level Dependent Attention Network for Visual Emotion Analysis", CVPR, 2022 (*Tencent*). [[Paper](https://arxiv.org/abs/2203.13443)]
-* Voice Separation:
+* Sound Separation:
     * **VoViT**: "VoViT: Low Latency Graph-based Audio-Visual Voice Separation Transformer", ECCV, 2022 (*Universitat Pompeu Fabra, Spain*). [[Paper](https://arxiv.org/abs/2203.04099)][[PyTorch](https://github.com/JuanFMontesinos/VoViT)][[Website](https://ipcv.github.io/VoViT/)]
+    * **iQuery**: "iQuery: Instruments as Queries for Audio-Visual Sound Separation", arXiv, 2022 (*UCSD*). [[Paper](https://arxiv.org/abs/2212.03814)][[Code (in construction)](https://github.com/JiabenChen/iQuery)]
 * Language-guided Video Segmentation:
     * **Locater**: "Local-Global Context Aware Transformer for Language-Guided Video Segmentation", arXiv, 2022 (*Zhejiang*). [[Paper](https://arxiv.org/abs/2203.09773)][[PyTorch](https://github.com/leonnnop/Locater)]
 * Audio-Visual:
