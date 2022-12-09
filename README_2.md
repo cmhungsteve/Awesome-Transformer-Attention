@@ -104,6 +104,7 @@
 * **R<sup>2</sup>-MLP**: "R<sup>2</sup>-MLP: Round-Roll MLP for Multi-View 3D Object Recognition", arXiv, 2022 (*Baidu*). [[Paper](https://arxiv.org/abs/2211.11085)]
 * **PVT3D**: "PVT3D: Point Voxel Transformers for Place Recognition from Sparse Lidar Scans", arXiv, 2022 (*TUM*). [[Paper](https://arxiv.org/abs/2211.12542)]
 * **PartSLIP**: "PartSLIP: Low-Shot Part Segmentation for 3D Point Clouds via Pretrained Image-Language Models", arXiv, 2022 (*Qualcomm*). [[Paper](https://arxiv.org/abs/2212.01558)]
+* **EPCL**: "Frozen CLIP Model is Efficient Point Cloud Backbone", arXiv, 2022 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2212.04098)]
 
 [[Back to Overview](#overview)]
 
@@ -161,6 +162,7 @@
     * **Uplift-Upsample**: "Uplift and Upsample: Efficient 3D Human Pose Estimation with Uplifting Transformers", WACV, 2023 (*University of Augsburg, Germany*). [[Paper](https://arxiv.org/abs/2210.06110)][[Tensorflow](https://github.com/goldbricklemon/uplift-upsample-3dhpe)]
     * **TORE**: "TORE: Token Reduction for Efficient Human Mesh Recovery with Transformer", arXiv, 2022 (*HKU*). [[Paper](https://arxiv.org/abs/2211.10705)]
     * **MPT**: "MPT: Mesh Pre-Training with Transformers for Human Pose and Mesh Reconstruction", arXiv, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2211.13357)]
+    * **ViTPose+**: "ViTPose+: Vision Transformer Foundation Model for Generic Body Pose Estimation", arXiv, 2022 (*The University of Sydney*). [[Paper](https://arxiv.org/abs/2212.04246)][[PyTorch](https://github.com/ViTAE-Transformer/ViTPose)]
 * Hands:
     * **Hand-Transformer**: "Hand-Transformer: Non-Autoregressive Structured Modeling for 3D Hand Pose Estimation", ECCV, 2020 (*Kwai*). [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/4836_ECCV_2020_paper.php)]
     * **SCAT**: "SCAT: Stride Consistency With Auto-Regressive Regressor and Transformer for Hand Pose Estimation", ICCVW, 2021 (*Alibaba*). [[Paper](https://openaccess.thecvf.com/content/ICCV2021W/SoMoF/html/Gao_SCAT_Stride_Consistency_With_Auto-Regressive_Regressor_and_Transformer_for_Hand_ICCVW_2021_paper.html)]
@@ -406,6 +408,7 @@
     * **DePT**: "Visual Prompt Tuning for Test-time Domain Adaptation", arXiv, 2022 (*Amazon*). [[Paper](https://arxiv.org/abs/2210.04831)]
     * **LADS**: "Using Language to Extend to Unseen Domains", arXiv, 2022 (*Berkeley*). [[Paper](https://arxiv.org/abs/2210.09520)]
     * **FedAPT**: "Cross-domain Federated Adaptive Prompt Tuning for CLIP", arXiv, 2022 (*Fudan University*). [[Paper](https://arxiv.org/abs/2211.07864)]
+    * **MetaPrompt**: "Learning Domain Invariant Prompt for Vision-Language Models", arXiv, 2022 (*Tongji University + Microsoft*). [[Paper](https://arxiv.org/abs/2212.04196)]
 * X-Supervised:
     * **Semiformer**: "Semi-Supervised Vision Transformers", ECCV, 2022 (*Fudan University*). [[Paper](https://arxiv.org/abs/2111.11067)][[PyTorch](https://github.com/wengzejia1/Semiformer)]
     * **SVL-Adapter**: "SVL-Adapter: Self-Supervised Adapter for Vision-Language Pretrained Models", BMVC, 2022 (*UCL*). [[Paper](https://arxiv.org/abs/2210.03794)][[Code (in construction)](https://github.com/omipan/svl_adapter)]
@@ -796,6 +799,7 @@
 * **DAVIS**: "Anticipating the Unseen Discrepancy for Vision and Language Navigation", arXiv, 2022 (*UCSB*). [[Paper](https://arxiv.org/abs/2209.04725)]
 * **LOViS**: "LOViS: Learning Orientation and Visual Signals for Vision and Language Navigation", arXiv, 2022 (*Michigan State*). [[Paper](https://arxiv.org/abs/2209.12723)]
 * **IVLN**: "Iterative Vision-and-Language Navigation", arXiv, 2022 (*Oregon State University*). [[Paper](https://arxiv.org/abs/2210.03087)]
+* **BEVBert**: "BEVBert: Topo-Metric Map Pre-training for Language-guided Navigation", arXiv, 2022 (*CAS*). [[Paper](https://arxiv.org/abs/2212.04385)]
 
 [[Back to Overview](#overview)]
 
@@ -902,6 +906,7 @@ Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2207.11553)][[Cod
 * **FINE**: "Memory transformers for full context and high-resolution 3D Medical Segmentation", arXiv, 2022 (*National Conservatory of Arts and Crafts, France*). [[Paper](https://arxiv.org/abs/2210.05313)]
 * **ConvTransSeg**: "ConvTransSeg: A Multi-resolution Convolution-Transformer Network for Medical Image Segmentation", arXiv, 2022 (*University of Nottingham, UK*). [[Paper](https://arxiv.org/abs/2210.07072)]
 * **CS-Unet**: "Optimizing Vision Transformers for Medical Image Segmentation and Few-Shot Domain Adaptation", arXiv, 2022 (*University of Glasgow, UK*). [[Paper](https://arxiv.org/abs/2210.08066)]
+* **UNETR++**: "UNETR++: Delving into Efficient and Accurate 3D Medical Image Segmentation", arXiv, 2022 (*MBZUAI*). [[Paper](https://arxiv.org/abs/2212.04497)][[PyTorch](https://github.com/Amshaker/unetr_plus_plus)]
 
 [[Back to Overview](#overview)]
 
