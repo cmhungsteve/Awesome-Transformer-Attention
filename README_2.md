@@ -105,6 +105,7 @@
 * **PVT3D**: "PVT3D: Point Voxel Transformers for Place Recognition from Sparse Lidar Scans", arXiv, 2022 (*TUM*). [[Paper](https://arxiv.org/abs/2211.12542)]
 * **PartSLIP**: "PartSLIP: Low-Shot Part Segmentation for 3D Point Clouds via Pretrained Image-Language Models", arXiv, 2022 (*Qualcomm*). [[Paper](https://arxiv.org/abs/2212.01558)]
 * **EPCL**: "Frozen CLIP Model is Efficient Point Cloud Backbone", arXiv, 2022 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2212.04098)]
+* **ULIP**: "ULIP: Learning Unified Representation of Language, Image and Point Cloud for 3D Understanding", arXiv, 2022 (*Salesforce*). [[Paper](https://arxiv.org/abs/2212.05171)][[Website](https://tycho-xue.github.io/ULIP/)]
 
 [[Back to Overview](#overview)]
 
@@ -319,6 +320,7 @@
     * **TransFA**: "TransFA: Transformer-based Representation for Face Attribute Evaluation", arXiv, 2022 (*Xidian University*). [[Paper](https://arxiv.org/abs/2207.05456)]
     * **AU-CVT**: "AU-Supervised Convolutional Vision Transformers for Synthetic Facial Expression Recognition", arXiv, 2022 (*Shenzhen Technology University*). [[Paper](https://arxiv.org/abs/2207.09777)][[PyTorch](https://github.com/msy1412/ABAW4)]
     * **?**: "Multi-Task Transformer with uncertainty modelling for Face Based Affective Computing", arXiv, 2022 (*Datakalab, France*). [[Paper](https://arxiv.org/abs/2208.03506)]
+    * **APViT**: "Vision Transformer with Attentive Pooling for Robust Facial Expression Recognition", arXiv, 2022 (*Baidu*). [[Paper](https://arxiv.org/abs/2212.05463)]
 * Attack-related:
     * **?**: "Video Transformer for Deepfake Detection with Incremental Learning", ACMMM, 2021 (*MBZUAI*). [[Paper](https://arxiv.org/abs/2108.05307)]
     * **ViTranZFAS**: "On the Effectiveness of Vision Transformers for Zero-shot Face Anti-Spoofing", International Joint Conference on Biometrics (IJCB), 2021 (*Idiap*). [[Paper](https://arxiv.org/abs/2011.08019)]
@@ -692,6 +694,7 @@
 * **TTVFI**: "TTVFI: Learning Trajectory-Aware Transformer for Video Frame Interpolation", arXiv, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2207.09048)]
 * **TECO**: "Temporally Consistent Video Transformer for Long-Term Video Prediction", arXiv, 2022 (*Berkeley*). [[Paper](https://arxiv.org/abs/2210.02396)][[Jax](https://github.com/wilson1yan/teco)][[Website](https://wilson1yan.github.io/teco/index.html)]
 * **SlotFormer**: "SlotFormer: Unsupervised Visual Dynamics Simulation with Object-Centric Models", arXiv, 2022 (*University of Toronto*). [[Paper](https://arxiv.org/abs/2210.05861)][[Website](https://slotformer.github.io/)]
+* **MAGVIT**: "MAGVIT: Masked Generative Video Transformer", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2212.05199)][[Code (in construction)](https://github.com/MAGVIT/magvit)][[Website](https://magvit.cs.cmu.edu/)]
 
 [[Back to Overview](#overview)]
 
