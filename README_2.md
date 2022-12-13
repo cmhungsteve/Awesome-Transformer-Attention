@@ -482,6 +482,8 @@
     * **?**: "Adaptive Attention Link-based Regularization for Vision Transformers", arXiv, 2022 (* Chung-Ang University, Korea*). [[Paper](https://arxiv.org/abs/2211.13852)]
 * Clustering:
     * **VTCC**: "Vision Transformer for Contrastive Clustering", arXiv, 2022 (*Sun Yat-sen University, China*). [[Paper](https://arxiv.org/abs/2206.12925)]
+* Novel Category Discovery:
+    * **PromptCAL**: "PromptCAL: Contrastive Affinity Learning via Auxiliary Prompts for Generalized Novel Category Discovery", arXiv, 2022 (*MBZUAI*). [[Paper](https://arxiv.org/abs/2212.05590)][[Code (in construction)](https://github.com/sheng-eatamath/PromptCAL)]
 
 [[Back to Overview](#overview)]
 
@@ -1087,6 +1089,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
 * Event data:
     * **EvT**: "Event Transformer: A sparse-aware solution for efficient event data processing", arXiv, 2022 (*Universidad de Zaragoza, Spain*). [[Paper](https://arxiv.org/abs/2204.03355)][[PyTorch](https://github.com/AlbertoSabater/EventTransformer)]
     * **ETB**: "Event Transformer", arXiv, 2022 (*Nanjing University*). [[Paper](https://arxiv.org/abs/2204.05172)]
+    * **RVT**: "Recurrent Vision Transformers for Object Detection with Event Cameras", arXiv, 2022 (*University of Zurich*). [[Paper](https://arxiv.org/abs/2212.05598)]
 * Fashion:
     * **Kaleido-BERT**: "Kaleido-BERT: Vision-Language Pre-training on Fashion Domain", CVPR, 2021 (*Alibaba*). [[Paper](https://arxiv.org/abs/2103.16110)][[Tensorflow](https://github.com/mczhuge/Kaleido-BERT)]
     * **CIT**: "Cloth Interactive Transformer for Virtual Try-On", arXiv, 2021 (*University of Trento*). [[Paper](https://arxiv.org/abs/2104.05519)][[Code (in construction)](https://github.com/Amazingren/CIT)]
