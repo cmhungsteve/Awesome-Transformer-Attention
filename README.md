@@ -378,6 +378,7 @@ Feel free to share this list with others!
 * **InternImage**: "InternImage: Exploring Large-Scale Vision Foundation Models with Deformable Convolutions", arXiv, 2022 (*Shanghai AI Laboratory*). [[Paper](https://arxiv.org/abs/2211.05778)][[Code (in construction)](https://github.com/OpenGVLab/InternImage)]
 * **ParCNetV2**: "ParCNetV2: Oversized Kernel with Enhanced Attention", arXiv, 2022 (*Intellifusion, China*). [[Paper](https://arxiv.org/abs/2211.07157)]
 * **VAN**: "Visual Attention Network", arXiv, 2022 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2202.09741)][[PyTorch](https://github.com/Visual-Attention-Network)]
+* **SD-MAE**: "Masked autoencoders is an effective solution to transformer data-hungry", arXiv, 2022 (*Hangzhou Dianzi University*). [[Paper](https://arxiv.org/abs/2212.05677)][[PyTorch (in construction)](https://github.com/Talented-Q/SDMAE)]
 * **SATA**: "Accumulated Trivial Attention Matters in Vision Transformers on Small Datasets", WACV, 2023 (*University of Kansas*). [[Paper](https://arxiv.org/abs/2210.12333)][[PyTorch (in construction)](https://github.com/xiangyu8/SATA)]
 #### Training + Transformer
 * **iGPT**: "Generative Pretraining From Pixels", ICML, 2020 (*OpenAI*). [[Paper](http://proceedings.mlr.press/v119/chen20s.html)][[Tensorflow](https://github.com/openai/image-gpt)]
@@ -459,6 +460,7 @@ Feel free to share this list with others!
 * **CLIPpy**: "Perceptual Grouping in Vision-Language Models", arXiv, 2022 (*Apple*). [[Paper](https://arxiv.org/abs/2210.09996)]
 * **iTPN**: "Integrally Pre-Trained Transformer Pyramid Networks", arXiv, 2022 (*CAS*). [[Paper](https://arxiv.org/abs/2211.12735)][[PyTorch](https://github.com/sunsmarterjie/iTPN)]
 * **LOCA**: "Location-Aware Self-Supervised Transformers", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2212.02400)]
+* **FT-CLIP**: "CLIP Itself is a Strong Fine-tuner: Achieving 85.7% and 88.0% Top-1 Accuracy with ViT-B and ViT-L on ImageNet", arXiv, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2212.06138)][[Code (in construction)](https://github.com/LightDXY/FT-CLIP)]
 #### Robustness + Transformer
 * **ViT-Robustness**: "Understanding Robustness of Transformers for Image Classification", ICCV, 2021 (*Google*). [[Paper](https://arxiv.org/abs/2103.14586)]
 * **SAGA**: "On the Robustness of Vision Transformers to Adversarial Examples", ICCV, 2021 (*University of Connecticut*). [[Paper](https://arxiv.org/abs/2104.02610)]
@@ -963,6 +965,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **TODE-Trans**: "TODE-Trans: Transparent Object Depth Estimation with Transformer", arXiv, 2022 (*USTC*). [[Paper](https://arxiv.org/abs/2209.08455)][[Code (in construction)](https://github.com/yuchendoudou/TODE)]
 * **Lite-Mono**: "Lite-Mono: A Lightweight CNN and Transformer Architecture for Self-Supervised Monocular Depth Estimation", arXiv, 2022 (*University of Twente, Netherlands*). [[Paper](https://arxiv.org/abs/2211.13202)][[PyTorch (in construction)](https://github.com/noahzn/Lite-Mono)]
 * **ObjCAViT**: "ObjCAViT: Improving Monocular Depth Estimation Using Natural Language Models And Image-Object Cross-Attention", arXiv, 2022 (*ICL*). [[Paper](https://arxiv.org/abs/2211.17232)]
+* **ROIFormer**: "ROIFormer: Semantic-Aware Region of Interest Transformer for Efficient Self-Supervised Monocular Depth Estimation", AAAI, 2023 (*OPPO*). [[Paper](https://arxiv.org/abs/2212.05729)]
 
 [[Back to Overview](#overview)]
 
@@ -1211,6 +1214,7 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
 * **VPTR**: "VPTR: Efficient Transformers for Video Prediction", ICPR, 2022 (*Polytechnique Montreal, Canada*). [[Paper](https://arxiv.org/abs/2203.15836)][[PyTorch](https://github.com/XiYe20/VPTR)]
 * **Earthformer**: "Earthformer: Exploring Space-Time Transformers for Earth System Forecasting", NeurIPS, 2022 (*Amazon*). [[Paper](https://arxiv.org/abs/2207.05833)]
 * **InAViT**: "Interaction Visual Transformer for Egocentric Action Anticipation", arXiv, 2022 (*A\*STAR*). [[Paper](https://arxiv.org/abs/2211.14154)]
+* **VPTR**: "Video Prediction by Efficient Transformers", IVC, 2022 (*Polytechnique Montreal, Canada*). [[Paper](https://arxiv.org/abs/2212.06026)][[Pytorch](https://github.com/XiYe20/VPTR)]
 * **AFFT**: "Anticipative Feature Fusion Transformer for Multi-Modal Action Anticipation", WACV, 2023 (*Karlsruhe Institute of Technology, Germany*). [[Paper](https://arxiv.org/abs/2210.12649)][[Code (in construction)](https://github.com/zeyun-zhong/AFFT)]
 * **GliTr**: "GliTr: Glimpse Transformers with Spatiotemporal Consistency for Online Action Prediction", WACV, 2023 (*McGill University, Canada*). [[Paper](https://arxiv.org/abs/2210.13605)]
 
@@ -1775,6 +1779,7 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
 * **Bi-VLDoc**: "Bi-VLDoc: Bidirectional Vision-Language Modeling for Visually-Rich Document Understanding", arXiv, 2022 (*Alibaba*). [[Paper](https://arxiv.org/abs/2206.13155)]
 * **TRUST**: "TRUST: An Accurate and End-to-End Table structure Recognizer Using Splitting-based Transformers", arXiv, 2022 (*Baidu*). [[Paper](https://arxiv.org/abs/2208.14687)]
 * **UDOP**: "Unifying Vision, Text, and Layout for Universal Document Processing", arXiv, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2212.02623)]
+* **Hi-VT5**: "Hierarchical multimodal transformers for Multi-Page DocVQA", arXiv, 2022 (*UAB, Spain*). [[Paper](https://arxiv.org/abs/2212.05935)]
 * **OCR-VQGAN**: "OCR-VQGAN: Taming Text-within-Image Generation", WACV, 2023 (*UAB, Spain*). [[Paper](https://arxiv.org/abs/2210.11248)]
 
 [[Back to Overview](#overview)]
@@ -1879,6 +1884,7 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
     * **PC-VAE**: "Multimodal Transformer for Parallel Concatenated Variational Autoencoders", NeurIPSW, 2022 (*USC*). [[Paper](https://arxiv.org/abs/2210.16174)]
     * **AV-CAT**: "Masked Lip-Sync Prediction by Audio-Visual Contextual Exploitation in Transformers", SIGGRAPH Asia, 2022 (*Tokyo Institute of
 Technology + Baidu*). [[Paper](https://arxiv.org/abs/2212.04970)][[Website](https://hangz-nju-cuhk.github.io/projects/AV-CAT)]
+    * **Audiovisual-MAE**: "Audiovisual Masked Autoencoders", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2212.05922)]
     * **MTD**: "Multimodal Transformer Distillation for Audio-Visual Synchronization", arXiv, 2022 (*NTU*). [[Paper](https://arxiv.org/abs/2210.15563)]
     * **AVE-CLIP**: "AVE-CLIP: AudioCLIP-based Multi-window Temporal Transformer for Audio Visual Event Localization", WACV, 2023 (*UT Austin*). [[Paper](https://arxiv.org/abs/2210.05060)]
 * Sound Object Localization:
