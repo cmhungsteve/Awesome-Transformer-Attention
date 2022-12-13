@@ -737,6 +737,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **CRAFT**: "CRAFT: Camera-Radar 3D Object Detection with Spatio-Contextual Fusion Transformer", arXiv, 2022 (*KAIST*). [[Paper](https://arxiv.org/abs/2209.06535)]
 * **CrossDTR**: "CrossDTR: Cross-view and Depth-guided Transformers for 3D Object Detection", arXiv, 2022 (*NTU*). [[Paper](https://arxiv.org/abs/2209.13507)][[Code (in construction)](https://github.com/sty61010/CrossDTR)]
 * **?**: "3D Point Positional Encoding for Multi-Camera 3D Object Detection Transformers", arXiv, 2022 (*Houmo AI, China*). [[Paper](https://arxiv.org/abs/2211.14710)]
+* **Focal-PETR**: "Focal-PETR: Embracing Foreground for Efficient Multi-Camera 3D Object Detection", arXiv, 2022 (*Beijing Institute of Technology*). [[Paper](https://arxiv.org/abs/2212.05505)]
 * **Li3DeTr**: "Li3DeTr: A LiDAR based 3D Detection Transformer", WACV, 2023 (*University of Coimbra, Portugal*). [[Paper](https://arxiv.org/abs/2210.15365)]
 
 [[Back to Overview](#overview)]
@@ -857,7 +858,6 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **VT-ADL**: "VT-ADL: A Vision Transformer Network for Image Anomaly Detection and Localization", ISIE, 2021 (*University of Udine, Italy*). [[Paper](https://arxiv.org/abs/2104.10036)]
     * **InTra**: "Inpainting Transformer for Anomaly Detection", arXiv, 2021 (*Fujitsu*). [[Paper](https://arxiv.org/abs/2104.13897)]
     * **AnoViT**: "AnoViT: Unsupervised Anomaly Detection and Localization with Vision Transformer-based Encoder-Decoder", arXiv, 2022 (*Korea University*). [[Paper](https://arxiv.org/abs/2203.10808)]
-    * **?**: "Multi-Contextual Predictions with Vision Transformer for Video Anomaly Detection", arXiv, 2022 (*Korea University*). [[Paper](https://arxiv.org/abs/2206.08568)]
 * Cross-Domain:
     * **SSTN**: "SSTN: Self-Supervised Domain Adaptation Thermal Object Detection for Autonomous Driving", arXiv, 2021 (*Gwangju Institute of Science and Technology*). [[Paper](https://arxiv.org/abs/2103.03150)]
     * **DA-DETR**: "DA-DETR: Domain Adaptive Detection Transformer by Hybrid Attention", arXiv, 2021 (*NTU Singapore*). [[Paper](https://arxiv.org/abs/2103.17084)]
@@ -1317,6 +1317,8 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
     * **CT-D2GAN**: "Convolutional Transformer based Dual Discriminator Generative Adversarial Networks for Video Anomaly Detection", ACMMM, 2021 (*NEC*). [[Paper](https://arxiv.org/abs/2107.13720)]
     * **ADTR**: "ADTR: Anomaly Detection Transformer with Feature Reconstruction", International Conference on Neural Information Processing (ICONIP), 2022 (*Shanghai Jiao Tong University*). [[Paper](https://arxiv.org/abs/2209.01816)]
     * **SSMCTB**: "Self-Supervised Masked Convolutional Transformer Block for Anomaly Detection", arXiv, 2022 (*UCF*). [[Paper](https://arxiv.org/abs/2209.12148)][[Code (in construction)](https://github.com/ristea/ssmctb)]
+    * **?**: "Multi-Contextual Predictions with Vision Transformer for Video Anomaly Detection", arXiv, 2022 (*Korea University*). [[Paper](https://arxiv.org/abs/2206.08568)]
+    * **CLIP-TSA**: "CLIP-TSA: CLIP-Assisted Temporal Self-Attention for Weakly-Supervised Video Anomaly Detection", arXiv, 2022 (*University of Arkansas*). [[Paper](https://arxiv.org/abs/2212.05136)]
 * Relation Detection:
     * **VidVRD**: "Video Relation Detection via Tracklet based Visual Transformer", ACMMMW, 2021 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2108.08669)][[PyTorch](https://github.com/Dawn-LX/VidVRD-tracklets)]
     * **VRDFormer**: "VRDFormer: End-to-End Video Visual Relation Detection With Transformers", CVPR, 2022 (*Renmin University of China*). [[Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Zheng_VRDFormer_End-to-End_Video_Visual_Relation_Detection_With_Transformers_CVPR_2022_paper.html)][[Code (in construction)](https://github.com/zhengsipeng/VRDFormer_VRD)]
@@ -1616,6 +1618,7 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
     * **FLIP**: "Scaling Language-Image Pre-training via Masking", arXiv, 2022 (*Meta*). [[Paper](https://arxiv.org/abs/2212.00794)]
     * **EVA**: "EVA: Exploring the Limits of Masked Visual Representation Learning at Scale", arXiv, 2022 (*Beijing Academy of Artificial Intelligence (BAAI)*). [[Paper](https://arxiv.org/abs/2211.07636)][[PyTorch](https://github.com/baaivision/EVA)]
     * **Compound-Tokens**: "Compound Tokens: Channel Fusion for Vision-Language Representation Learning", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2212.01447)]
+    * **REVEAL**: "REVEAL: Retrieval-Augmented Visual-Language Pre-Training with Multi-Source Multimodal Knowledge Memory", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2212.05221)]
     * **Perceiver-VL**: "Perceiver-VL: Efficient Vision-and-Language Modeling with Iterative Latent Attention", WACV, 2023 (*UNC*). [[Paper](https://arxiv.org/abs/2211.11701)][[PyTorch](https://github.com/zinengtang/Perceiver_VL)]
     * **?**: "Unifying Vision-Language Representation Space with Single-tower Transformer", AAAI, 2023 (*NAVER*). [[Paper](https://arxiv.org/abs/2211.11153)]
 * Video:
