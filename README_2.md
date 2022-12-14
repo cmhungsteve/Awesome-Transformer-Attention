@@ -26,7 +26,7 @@
     - [Medical Detection](#medical-detection)
     - [Medical Reconstruction](#medical-detection)
     - [Medical Low-Level Vision](#medical-low-level-vision)
-    - [Medical Vision-Language](##medical-vision-language)
+    - [Medical Vision-Language](#medical-vision-language)
     - [Medical Others](#medical-others)
 - [Other Tasks](#other-tasks)
 - [Attention Mechanisms in Vision/NLP](#attention-mechanisms-in-visionnlp)
@@ -1182,6 +1182,11 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **MulT**: "MulT: An End-to-End Multitask Learning Transformer", CVPR, 2022 (*EPFL*). [[Paper](https://arxiv.org/abs/2205.08303)]
 * Open Set:
     * **OSR-ViT**: "Open Set Recognition using Vision Transformer with an Additional Detection Head", arXiv, 2022 (*Vanderbilt University, Tennessee*). [[Paper](https://arxiv.org/abs/2203.08441)]
+* Operator Learning for PDEs:
+    * **Galerkin Transformer**: "Choose a Transformer: Fourier or Galerkin", NeurIPS, 2021 (*Washington University, St. Louis*). [[Paper](https://arxiv.org/abs/2105.14995)][[PyTorch](https://github.com/scaomath/galerkin-transformer)]
+    * **Coupled Attention**: "Learning operators with coupled attention", JMLR, 2022 (*University of Pennsylvania*). [[Paper](https://arxiv.org/abs/2201.01032)]
+    * **HT-Net**: "HT-Net: Hierarchical Transformer based Operator Learning Model for Multiscale PDEs", arXiv, 2022 (*KAUST*). [[Paper](https://arxiv.org/abs/2210.10890)]
+    * **Relative-PE**: "Transformer for Partial Differential Equations' Operator Learning", arXiv, 2022 (*CMU*). [[Paper](https://arxiv.org/abs/2205.13671)]
 * Out-Of-Distribution:
     * **OODformer**: "OODformer: Out-Of-Distribution Detection Transformer", BMVC, 2021 (*LMU Munich*). [[Paper](https://arxiv.org/abs/2107.08976)][[PyTorch](https://github.com/rajatkoner08/oodformer)]
     * **MCM**: "Delving into Out-of-Distribution Detection with Vision-Language Representations", NeurIPS, 2022 (*UW-Madison*). [[Paper](https://arxiv.org/abs/2211.13445)]
@@ -1409,6 +1414,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
 * **Hydra**: "Hydra Attention: Efficient Attention with Many Heads", ECCVW, 2022 (*Meta*). [[Paper](https://arxiv.org/abs/2209.07484)]
 * **HiP**: "Hierarchical Perceiver", arXiv, 2022 (*DeepMind*). [[Paper](https://arxiv.org/abs/2202.10890)]
 * **AttendNeXt**: "Faster Attention Is What You Need: A Fast Self-Attention Neural Network Backbone Architecture for the Edge via Double-Condensing Attention Condensers", arXiv, 2022 (*University of Waterloo, Canada*). [[Paper](https://arxiv.org/abs/2208.06980)]
+* **Token-Mixing-Adaptive-FNO**: "Efficient Token Mixing for Transformers via Adaptive Fourier Neural Operators", ICLR, 2022 (*NVIDIA + Caltech + Stanford*). [[Paper](https://openreview.net/forum?id=EXHG-A3jlM)][[PyTorch](https://github.com/NVlabs/AFNO-transformer)]
 
 [[Back to Overview](#overview)]
 
@@ -1433,6 +1439,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
 * **∞-former**: "∞-former: Infinite Memory Transformer", arXiv, 2021 (*Instituto de Telecomunicações, Portugal*). [[Paper](https://arxiv.org/abs/2109.00301)]
 * **cosFormer**: "cosFormer: Rethinking Softmax In Attention", ICLR, 2022 (*SenseTime*). [[Paper](https://openreview.net/forum?id=Bl8CQrx2Up4)][[PyTorch (davidsvy)](https://github.com/davidsvy/cosformer-pytorch)]
 * **MGK**: "Improving Transformers with Probabilistic Attention Keys", ICML, 2022 (*UCLA*). [[Paper](https://arxiv.org/abs/2110.08678)]
+* **FNet**: "FNet: Mixing Tokens with Fourier Transforms", NAACL, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2105.03824)]
 
 [[Back to Overview](#overview)]
 
@@ -1468,7 +1475,6 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
 ### Attention for Others
 * **Informer**: "Informer: Beyond Efficient Transformer for Long Sequence Time-Series Forecasting", AAAI, 2021 (*Beihang University*). [[Paper](https://arxiv.org/abs/2012.07436)][[PyTorch](https://github.com/zhouhaoyi/Informer2020)]
 * **Attention-Rank-Collapse**: "Attention is Not All You Need: Pure Attention Loses Rank Doubly Exponentially with Depth", ICML, 2021 (*Google + EPFL*). [[Paper](https://arxiv.org/abs/2103.03404)][[PyTorch](https://github.com/twistedcubic/attention-rank-collapse)]
-* **?**: "Choose a Transformer: Fourier or Galerkin", NeurIPS, 2021 (*Washington University, St. Louis*). [[Paper](https://arxiv.org/abs/2105.14995)]
 * **NPT**: "Self-Attention Between Datapoints: Going Beyond Individual Input-Output Pairs in Deep Learning", arXiv, 2021 (*Oxford*). [[Paper](https://arxiv.org/abs/2106.02584)]
 * **FEDformer**: "FEDformer: Frequency Enhanced Decomposed Transformer for Long-term Series Forecasting", ICML, 2022 (*Alibaba*). [[Paper](https://arxiv.org/abs/2201.12740)][[PyTorch](https://github.com/DAMO-DI-ML/ICML2022-FEDformer)]
 * **?**: "Generalizable Memory-driven Transformer for Multivariate Long Sequence Time-series Forecasting", arXiv, 2022 (*University of Technology Sydney*). [[Paper](https://arxiv.org/abs/2207.07827)]
