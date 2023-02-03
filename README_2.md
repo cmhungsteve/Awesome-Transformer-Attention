@@ -411,6 +411,7 @@
     * **LADS**: "Using Language to Extend to Unseen Domains", arXiv, 2022 (*Berkeley*). [[Paper](https://arxiv.org/abs/2210.09520)]
     * **FedAPT**: "Cross-domain Federated Adaptive Prompt Tuning for CLIP", arXiv, 2022 (*Fudan University*). [[Paper](https://arxiv.org/abs/2211.07864)]
     * **MetaPrompt**: "Learning Domain Invariant Prompt for Vision-Language Models", arXiv, 2022 (*Tongji University + Microsoft*). [[Paper](https://arxiv.org/abs/2212.04196)]
+    * **GMoE**: "Sparse Mixture-of-Experts are Domain Generalizable Learners", ICLR, 2023 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2206.04046)]
 * X-Supervised:
     * **Semiformer**: "Semi-Supervised Vision Transformers", ECCV, 2022 (*Fudan University*). [[Paper](https://arxiv.org/abs/2111.11067)][[PyTorch](https://github.com/wengzejia1/Semiformer)]
     * **SVL-Adapter**: "SVL-Adapter: Self-Supervised Adapter for Vision-Language Pretrained Models", BMVC, 2022 (*UCL*). [[Paper](https://arxiv.org/abs/2210.03794)][[Code (in construction)](https://github.com/omipan/svl_adapter)]
@@ -1469,6 +1470,8 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
 * **SBM-Transformer**: "Transformers meet Stochastic Block Models: Attention with Data-Adaptive Sparsity and Cost", NeurIPS, 2022 (*LG*). [[Paper](https://arxiv.org/abs/2210.15541)][[PyTorch](https://github.com/sc782/SBM-Transformer)]
 * **?**: "Horizontal and Vertical Attention in Transformers", arXiv, 2022 (*University of Technology Sydney*). [[Paper](https://arxiv.org/abs/2207.04399)]
 * **MRL**: "MRL: Learning to Mix with Attention and Convolutions", arXiv, 2022 (*Sony*). [[Paper](https://arxiv.org/abs/2208.13975)]
+* **RSA**: "Encoding Recurrence into Transformers", ICLR, 2023 (*HKU*). [[Paper](https://openreview.net/forum?id=7YfHla7IxBJ)]
+* **EVA**: "Efficient Attention via Control Variates", ICLR, 2023 (*HKU*). [[Paper](https://openreview.net/forum?id=G-uNfHKrj46)]
 
 [[Back to Overview](#overview)]
 
