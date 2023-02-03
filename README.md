@@ -337,7 +337,6 @@ Feel free to share this list with others!
 * **ClusTR**: "ClusTR: Exploring Efficient Self-attention via Clustering for Vision Transformers", arXiv, 2022 (*The University of Adelaide, Australia*). [[Paper](https://arxiv.org/abs/2208.13138)]
 * **DiNAT**: "Dilated Neighborhood Attention Transformer", arXiv, 2022 (*University of Oregon*). [[Paper](https://arxiv.org/abs/2209.15001)][[PyTorch](https://github.com/SHI-Labs/Neighborhood-Attention-Transformer)]
 * **MobileViTv3**: "MobileViTv3: Mobile-Friendly Vision Transformer with Simple and Effective Fusion of Local, Global and Input Features", arXiv, 2022 (*Micron*). [[Paper](https://arxiv.org/abs/2209.15159)][[PyTorch](https://github.com/micronDLA/MobileViTv3)]
-* **ToMe**: "Token Merging: Your ViT But Faster", arXiv, 2022 (*Meta*). [[Paper](https://arxiv.org/abs/2210.09461)][[PyTorch](https://github.com/facebookresearch/ToMe)]
 * **ViT-LSLA**: "ViT-LSLA: Vision Transformer with Light Self-Limited-Attention", arXiv, 2022 (*Southwest University*). [[Paper](https://arxiv.org/abs/2210.17115)]
 * **Castling-ViT**: "Castling-ViT: Compressing Self-Attention via Switching Towards Linear-Angular Attention During Vision Transformer Inference", arXiv, 2022 (*Meta*). [[Paper](https://arxiv.org/abs/2211.10526)]
 * **ViT-Ti**: "RGB no more: Minimally-decoded JPEG Vision Transformers", arXiv, 2022 (*UMich*). [[Paper](https://arxiv.org/abs/2211.16421)]
@@ -345,6 +344,7 @@ Feel free to share this list with others!
 * **ViTCoD**: "ViTCoD: Vision Transformer Acceleration via Dedicated Algorithm and Accelerator Co-Design", IEEE International Symposium on High-Performance Computer Architecture (HPCA), 2023 (*Georgia Tech*). [[Paper](https://arxiv.org/abs/2210.09573)]
 * **ViTALiTy**: "ViTALiTy: Unifying Low-rank and Sparse Approximation for Vision Transformer Acceleration with a Linear Taylor Attention", IEEE International Symposium on High-Performance Computer Architecture (HPCA), 2023 (*Rice University*). [[Paper](https://arxiv.org/abs/2211.05109)]
 * **HeatViT**: "HeatViT: Hardware-Efficient Adaptive Token Pruning for Vision Transformers", IEEE International Symposium on High-Performance Computer Architecture (HPCA), 2023 (*Northeastern University*). [[Paper](https://arxiv.org/abs/2211.08110)]
+* **ToMe**: "Token Merging: Your ViT But Faster", ICLR, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2210.09461)][[PyTorch](https://github.com/facebookresearch/ToMe)]
 #### Conv + Transformer
 * **LeViT**: "LeViT: a Vision Transformer in ConvNet's Clothing for Faster Inference", ICCV, 2021 (*Facebook*). [[Paper](https://arxiv.org/abs/2104.01136)][[PyTorch](https://github.com/facebookresearch/LeViT)]
 * **CeiT**: "Incorporating Convolution Designs into Visual Transformers", ICCV, 2021 (*SenseTime*). [[Paper](https://arxiv.org/abs/2103.11816)][[PyTorch (rishikksh20)](https://github.com/rishikksh20/CeiT)]
@@ -588,6 +588,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **Sequencer**: "Sequencer: Deep LSTM for Image Classification", arXiv, 2022 (*Rikkyo University, Japan*). [[Paper](https://arxiv.org/abs/2205.01972)]
 * **MogaNet**: "Efficient Multi-order Gated Aggregation Network", arXiv, 2022 (*Westlake University, China*). [[Paper](https://arxiv.org/abs/2211.03295)]
 * **Conv2Former**: "Conv2Former: A Simple Transformer-Style ConvNet for Visual Recognition", arXiv, 2022 (*ByteDance*). [[Paper](https://arxiv.org/abs/2211.11943)]
+* **CoC**: "Image as Set of Points", ICLR, 2023 (*Northeastern*). [[Paper](https://openreview.net/forum?id=awnvqZja69)][[PyTorch](https://anonymous.4open.science/r/ContextCluster)]
 
 [[Back to Overview](#overview)]
 
@@ -1596,7 +1597,6 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
     * **ViCHA**: "Efficient Vision-Language Pretraining with Visual Concepts and Hierarchical Alignment", arXiv, 2022 (*Sorbonne University, France*). [[Paper](https://arxiv.org/abs/2208.13628)][[Code (in construction)](https://github.com/mshukor/ViCHA)]
     * **DetailCLIP**: "Injecting Image Details into CLIP's Feature Space", arXiv, 2022 (*Megvii*). [[Paper](https://arxiv.org/abs/2208.14649)]
     * **?**: "Pre-training image-language transformers for open-vocabulary tasks", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2209.04372)]
-    * **PaLI**: "PaLI: A Jointly-Scaled Multilingual Language-Image Model", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2209.06794)]
     * **ERNIE**: "ERNIE-ViL 2.0: Multi-view Contrastive Learning for Image-Text Pre-training", arXiv, 2022 (*Baidu*). [[Paper](https://arxiv.org/abs/2209.15270)][[Paddle](https://github.com/PaddlePaddle/ERNIE)]
     * **Pix2Struct**: "Pix2Struct: Screenshot Parsing as Pretraining for Visual Language Understanding", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2210.03347)]
     * **VoLTA**: "VoLTA: Vision-Language Transformer with Weakly-Supervised Local-Feature Alignment", arXiv, 2022 (*JHU*). [[Paper](https://arxiv.org/abs/2210.04135)]
@@ -1621,6 +1621,7 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
     * **REVEAL**: "REVEAL: Retrieval-Augmented Visual-Language Pre-Training with Multi-Source Multimodal Knowledge Memory", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2212.05221)]
     * **Perceiver-VL**: "Perceiver-VL: Efficient Vision-and-Language Modeling with Iterative Latent Attention", WACV, 2023 (*UNC*). [[Paper](https://arxiv.org/abs/2211.11701)][[PyTorch](https://github.com/zinengtang/Perceiver_VL)]
     * **?**: "Unifying Vision-Language Representation Space with Single-tower Transformer", AAAI, 2023 (*NAVER*). [[Paper](https://arxiv.org/abs/2211.11153)]
+    * **PaLI**: "PaLI: A Jointly-Scaled Multilingual Language-Image Model", ICLR, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2209.06794)]
 * Video:
     * **COOT**: "COOT: Cooperative Hierarchical Transformer for Video-Text Representation Learning", NeurIPS, 2020 (*University of Freiburg*). [[Paper](https://arxiv.org/abs/2011.00597)][[PyTorch](https://github.com/gingsi/coot-videotext)]
     * **Parameter-Reduction**: "Parameter Efficient Multimodal Transformers for Video Representation Learning", ICLR, 2021 (*Seoul National University*). [[Paper](https://openreview.net/forum?id=6UdQLhqJyFD)]
@@ -1784,6 +1785,7 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
 * **UDOP**: "Unifying Vision, Text, and Layout for Universal Document Processing", arXiv, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2212.02623)]
 * **Hi-VT5**: "Hierarchical multimodal transformers for Multi-Page DocVQA", arXiv, 2022 (*UAB, Spain*). [[Paper](https://arxiv.org/abs/2212.05935)]
 * **OCR-VQGAN**: "OCR-VQGAN: Taming Text-within-Image Generation", WACV, 2023 (*UAB, Spain*). [[Paper](https://arxiv.org/abs/2210.11248)]
+* **PIXEL**: "Language Modelling with Pixels", ICLR, 2023 (*University of Copenhagen, Denmark*). [[Paper](https://openreview.net/forum?id=FkSp8VW8RjH)]
 
 [[Back to Overview](#overview)]
 
