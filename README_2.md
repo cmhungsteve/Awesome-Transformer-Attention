@@ -164,6 +164,7 @@
     * **TORE**: "TORE: Token Reduction for Efficient Human Mesh Recovery with Transformer", arXiv, 2022 (*HKU*). [[Paper](https://arxiv.org/abs/2211.10705)]
     * **MPT**: "MPT: Mesh Pre-Training with Transformers for Human Pose and Mesh Reconstruction", arXiv, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2211.13357)]
     * **ViTPose+**: "ViTPose+: Vision Transformer Foundation Model for Generic Body Pose Estimation", arXiv, 2022 (*The University of Sydney*). [[Paper](https://arxiv.org/abs/2212.04246)][[PyTorch](https://github.com/ViTAE-Transformer/ViTPose)]
+    * **INT**: "Capturing the Motion of Every Joint: 3D Human Pose and Shape Estimation with Independent Tokens", ICLR, 2023 (*Southeast University*). [[Paper](https://openreview.net/forum?id=0Vv4H4Ch0la)]
 * Hands:
     * **Hand-Transformer**: "Hand-Transformer: Non-Autoregressive Structured Modeling for 3D Hand Pose Estimation", ECCV, 2020 (*Kwai*). [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/4836_ECCV_2020_paper.php)]
     * **SCAT**: "SCAT: Stride Consistency With Auto-Regressive Regressor and Transformer for Hand Pose Estimation", ICCVW, 2021 (*Alibaba*). [[Paper](https://openaccess.thecvf.com/content/ICCV2021W/SoMoF/html/Gao_SCAT_Stride_Consistency_With_Auto-Regressive_Regressor_and_Transformer_for_Hand_ICCVW_2021_paper.html)]
@@ -510,7 +511,7 @@
     * **?**: "Transform your Smartphone into a DSLR Camera: Learning the ISP in the Wild", arXiv, 2022 (*ETHZ*). [[Paper](https://arxiv.org/abs/2203.10636)]
     * **TMT**: "Imaging through the Atmosphere using Turbulence Mitigation Transformer", arXiv, 2022 (*Purdue*). [[Paper](https://arxiv.org/abs/2207.06465)][[Code (in construction)](https://github.com/xg416/TMT)][[Website](https://xg416.github.io/TMT/)]
     * **LRT**: "LRT: An Efficient Low-Light Restoration Transformer for Dark Light Field Images", arXiv, 2022 (*HKU*). [[Paper](https://arxiv.org/abs/2209.02197)]
-    * **ART**: "Accurate Image Restoration with Attention Retractable Transformer", arXiv, 2022 (*Shanghai Jiao Tong University*). [[Paper](https://arxiv.org/abs/2210.01427)][[PyTorch](https://github.com/gladzhang/ART)]
+    * **ART**: "Accurate Image Restoration with Attention Retractable Transformer", ICLR, 2023 (*Shanghai Jiao Tong University*). [[Paper](https://arxiv.org/abs/2210.01427)][[PyTorch](https://github.com/gladzhang/ART)]
 * Super-Resolution:
     * **SAN**: "Second-Order Attention Network for Single Image Super-Resolution", CVPR, 2019 (*Tsinghua*). [[Paper](https://openaccess.thecvf.com/content_CVPR_2019/html/Dai_Second-Order_Attention_Network_for_Single_Image_Super-Resolution_CVPR_2019_paper.html)][[PyTorch](https://github.com/daitao/SAN)]
     * **CS-NL**: "Image Super-Resolution with Cross-Scale Non-Local Attention and Exhaustive Self-Exemplars Mining", CVPR, 2020 (*UIUC*). [[Paper](https://arxiv.org/abs/2006.01424)][[PyTorch](https://github.com/SHI-Labs/Cross-Scale-Non-Local-Attention)]
@@ -750,6 +751,7 @@
     * **STF**: "The Devil Is in the Details: Window-based Attention for Image Compression", CVPR, 2022 (*CAS*). [[Paper](https://arxiv.org/abs/2203.08450)][[PyTorch](https://github.com/Googolxx/STF)]
     * **Contextformer**: "Contextformer: A Transformer with Spatio-Channel Attention for Context Modeling in Learned Image Compression", ECCV, 2022 (*TUM*). [[Paper](https://arxiv.org/abs/2203.02452)]
     * **VCT**: "VCT: A Video Compression Transformer", NeurIPS, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2206.07307)]
+    * **MIMT**: "MIMT: Masked Image Modeling Transformer for Video Compression", ICLR, 2023 (*Tencent*). [[Paper](https://openreview.net/forum?id=j9m-mVnndbm)]
 * Matting:
     * **MatteFormer**: "MatteFormer: Transformer-Based Image Matting via Prior-Tokens", CVPR, 2022 (*SNU + NAVER*). [[Paper](https://arxiv.org/abs/2203.15662)][[PyTorch](https://github.com/webtoon/matteformer)]
     * **TransMatting**: "TransMatting: Enhancing Transparent Objects Matting with Transformers", ECCV, 2022 (*CAS*). [[Paper](https://arxiv.org/abs/2208.03007)][[Code (in construction)](https://github.com/AceCHQ/TransMatting)]
@@ -1280,10 +1282,10 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **UniFormer**: "UniFormer: Unified Multi-view Fusion Transformer for Spatial-Temporal Representation in Bird's-Eye-View", arXiv, 2022 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2207.08536)]
     * **STrajNet**: "STrajNet: Occupancy Flow Prediction via Multi-modal Swin Transformer", arXiv, 2022 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2208.00394)]
     * **MTPP**: "Multi-modal Transformer Path Prediction for Autonomous Vehicle", arXiv, 2022 (*National Central University*). [[Paper](https://arxiv.org/abs/2208.07256)]
-    * **MapTR**: "MapTR: Structured Modeling and Learning for Online Vectorized HD Map Construction", arXiv, 2022 (*Horizon Robotics*). [[Paper](https://arxiv.org/abs/2208.14437)][[Code (in construction)](https://github.com/hustvl/MapTR)]
     * **DCT**: "A Dual-Cycled Cross-View Transformer Network for Unified Road Layout Estimation and 3D Object Detection in the Bird's-Eye-View", arXiv, 2022 (*Gwang-ju Institute of Science and Technology*). [[Paper](https://arxiv.org/abs/2209.08844)]
     * **C-ViT**: "Traffic Accident Risk Forecasting using Contextual Vision Transformers", arXiv, 2022 (*University of Technology Sydney*). [[Paper](https://arxiv.org/abs/2209.11180)]
     * **BEVFormer-v2**: "BEVFormer v2: Adapting Modern Image Backbones to Bird's-Eye-View Recognition via Perspective Supervision", arXiv, 2022 (*Tsinghua University*). [[Paper](https://arxiv.org/abs/2211.10439)]
+    * **MapTR**: "MapTR: Structured Modeling and Learning for Online Vectorized HD Map Construction", ICLR, 2023 (*Horizon Robotics*). [[Paper](https://arxiv.org/abs/2208.14437)][[PyTorch](https://github.com/hustvl/MapTR)]
 * Trajectory Prediction:
     * **mmTransformer**: "Multimodal Motion Prediction with Stacked Transformers", CVPR, 2021 (*CUHK + SenseTime*). [[Paper](https://arxiv.org/abs/2103.11624)][[Code (in construction)](https://github.com/decisionforce/mmTransformer)][[Website](https://decisionforce.github.io/mmTransformer/)]
     * **AgentFormer**: "AgentFormer: Agent-Aware Transformers for Socio-Temporal Multi-Agent Forecasting", ICCV, 2021 (*CMU*). [[Paper](https://arxiv.org/abs/2103.14023)][[PyTorch](https://github.com/Khrylx/AgentFormer)][[Website](https://www.ye-yuan.com/agentformer/)]
@@ -1345,6 +1347,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **OhMG**: "OhMG: Zero-shot Open-vocabulary Human Motion Generation", arXiv, 2022 (*Sun Yat-Sen University*). [[Paper](https://arxiv.org/abs/2210.15929)]
     * **Action-GPT**: "Action-GPT: Leveraging Large-scale Language Models for Improved and Generalized Zero Shot Action Generation", arXiv, 2022 (*IIIT Hyderabad*). [[Paper](https://arxiv.org/abs/2211.15603)][[Website](https://actiongpt.github.io/)]
     * **Optimus**: "Transformer-Based Learned Optimization", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2212.01055)]
+    * **MDM**: "Human Motion Diffusion Model", ICLR, 2023 (*Tel Aviv University*). [[Paper](https://arxiv.org/abs/2209.14916)][[PyTorch](https://github.com/GuyTevet/motion-diffusion-model)][[Website](https://guytevet.github.io/mdm-page/)]
 * 3D Object Recognition:
     * **MVT**: "MVT: Multi-view Vision Transformer for 3D Object Recognition", BMVC, 2021 (*Baidu*). [[Paper](https://arxiv.org/abs/2110.13083)]
 * 3D Reconstruction:
