@@ -14,7 +14,6 @@ Feel free to share this list with others!
 **[Update: October, 2022]** Split the 2nd half of the paper list to [README_2.md](README_2.md) <br>
 **[Update: October, 2022]** Added all the related papers from *ECCV 2022*! <br>
 **[Update: September, 2022]** Added the [Transformer tutorial slides](http://lucasb.eyer.be/transformer) made by [Lucas Beyer](https://twitter.com/giffmana)! <br>
-**[Update: July, 2022]** Added all the related papers from *ICML 2022*! <br>
 **[Update: June, 2022]** Added all the related papers from *CVPR 2022*!
 
 ---
@@ -259,7 +258,8 @@ Feel free to share this list with others!
 * **SViT**: "Vision Transformer with Super Token Sampling", arXiv, 2022 (*CAS*). [[Paper](https://arxiv.org/abs/2211.11167)]
 * **ResFormer**: "ResFormer: Scaling ViTs with Multi-Resolution Training", arXiv, 2022 (*Fudan*). [[Paper](https://arxiv.org/abs/2212.00776)]
 * **INTERN**: "INTERN: A New Learning Paradigm Towards General Vision", arXiv, 2022 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2111.08687)][[Website](https://opengvlab.shlab.org.cn/)]
-* **GGeM**: "Group Generalized Mean Pooling for Vision Transformer", arXiv, 2022 (*NAVER*). [[Paper](https://arxiv.org/abs/2212.04114)] 
+* **GGeM**: "Group Generalized Mean Pooling for Vision Transformer", arXiv, 2022 (*NAVER*). [[Paper](https://arxiv.org/abs/2212.04114)]
+* **GPViT**: "GPViT: A High Resolution Non-Hierarchical Vision Transformer with Group Propagation", ICLR, 2023 (*University of Edinburgh, Scotland + UCSD*). [[Paper](https://arxiv.org/abs/2212.06795)][[PyTorch](https://github.com/ChenhongyiYang/GPViT)]
 #### Efficient Vision Transformer
 * **DeiT**: "Training data-efficient image transformers & distillation through attention", ICML, 2021 (*Facebook*). [[Paper](https://arxiv.org/abs/2012.12877)][[PyTorch](https://github.com/facebookresearch/deit)]
 * **ConViT**: "ConViT: Improving Vision Transformers with Soft Convolutional Inductive Biases", ICML, 2021 (*Facebook*). [[Paper](https://arxiv.org/abs/2103.10697)][[Code](https://github.com/facebookresearch/convit)]
@@ -380,6 +380,7 @@ Feel free to share this list with others!
 * **VAN**: "Visual Attention Network", arXiv, 2022 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2202.09741)][[PyTorch](https://github.com/Visual-Attention-Network)]
 * **SD-MAE**: "Masked autoencoders is an effective solution to transformer data-hungry", arXiv, 2022 (*Hangzhou Dianzi University*). [[Paper](https://arxiv.org/abs/2212.05677)][[PyTorch (in construction)](https://github.com/Talented-Q/SDMAE)]
 * **SATA**: "Accumulated Trivial Attention Matters in Vision Transformers on Small Datasets", WACV, 2023 (*University of Kansas*). [[Paper](https://arxiv.org/abs/2210.12333)][[PyTorch (in construction)](https://github.com/xiangyu8/SATA)]
+* **SparK**: "Sparse and Hierarchical Masked Modeling for Convolutional Representation Learning", ICLR, 2023 (*Bytedance*). [[Paper](https://openreview.net/forum?id=NRxydtWup1S)][[PyTorch](https://github.com/keyu-tian/SparK)]
 #### Training + Transformer
 * **iGPT**: "Generative Pretraining From Pixels", ICML, 2020 (*OpenAI*). [[Paper](http://proceedings.mlr.press/v119/chen20s.html)][[Tensorflow](https://github.com/openai/image-gpt)]
 * **MoCo-V3**: "An Empirical Study of Training Self-Supervised Vision Transformers", ICCV, 2021 (*Facebook*). [[Paper](https://arxiv.org/abs/2104.02057)]
@@ -431,12 +432,11 @@ Feel free to share this list with others!
 * **DeiT-III**: "DeiT III: Revenge of the ViT", arXiv, 2022 (*Meta*). [[Paper](https://arxiv.org/abs/2204.07118)]
 * **?**: "Better plain ViT baselines for ImageNet-1k", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2205.01580)][[Tensorflow](https://github.com/google-research/big_vision)]
 * **ConvMAE**: "ConvMAE: Masked Convolution Meets Masked Autoencoders", arXiv, 2022 (*Shanghai AI Laboratory*). [[Paper](https://arxiv.org/abs/2205.03892)][[PyTorch (in construction)](https://github.com/Alpha-VL/ConvMAE)]
-* **ViT-Adapter**: "Vision Transformer Adapter for Dense Predictions", arXiv, 2022 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2205.08534)][[Code (in construction)](https://github.com/czczup/ViT-Adapter)]
 * **UM-MAE**: "Uniform Masking: Enabling MAE Pre-training for Pyramid-based Vision Transformers with Locality", arXiv, 2022 (*Nanjing University of Science and Technology*). [[Paper](https://arxiv.org/abs/2205.10063)][[PyTorch](https://github.com/implus/UM-MAE)]
 * **MixMIM**: "MixMIM: Mixed and Masked Image Modeling for Efficient Visual Representation Learning", arXiv, 2022 (*SenseTime*). [[Paper](https://arxiv.org/abs/2205.13137)][[Code (in construction)](https://github.com/Sense-X/MixMIM)]
 * **A<sup>2</sup>MIM**: "Architecture-Agnostic Masked Image Modeling - From ViT back to CNN", arXiv, 2022 (*Westlake University, China*). [[Paper](https://arxiv.org/abs/2205.13943)][[PyTorch](https://github.com/Westlake-AI/openmixup)]
 * **GMML**: "GMML is All you Need", arXiv, 2022 (*University of Surrey, UK*). [[Paper](https://arxiv.org/abs/2205.14986)][[PyTorch](https://github.com/Sara-Ahmed/GMML)]
-* **HiViT**: "HiViT: Hierarchical Vision Transformer Meets Masked Image Modeling", arXiv, 2022 (*CAS*). [[Paper](https://arxiv.org/abs/2205.14949)]
+* **HiViT**: "HiViT: A Simpler and More Efficient Design of Hierarchical Vision Transformer", ICLR, 2023 (*CAS*). [[Paper](https://openreview.net/forum?id=3F6I-0-57SC)]
 * **?**: "A Closer Look at Self-supervised Lightweight Vision Transformers", arXiv, 2022 (*Megvii*). [[Paper](https://arxiv.org/abs/2205.14443)]
 * **SIM**: "Siamese Image Modeling for Self-Supervised Vision Representation Learning", arXiv, 2022 (*SenseTime*). [[Paper](https://arxiv.org/abs/2206.01204)]
 * **SupMAE**: "SupMAE: Supervised Masked Autoencoders Are Efficient Vision Learners", arXiv, 2022 (*UT Austin*). [[Paper](https://arxiv.org/abs/2205.14540)][[PyTorch](https://github.com/cmu-enyac/supmae)]
@@ -515,6 +515,7 @@ Feel free to share this list with others!
 * **?**: "Curved Representation Space of Vision Transformers", arXiv, 2022 (*Yonsei University*). [[Paper](https://arxiv.org/abs/2210.05742)]
 * **RKDE**: "Robustify Transformers with Robust Kernel Density Estimation", arXiv, 2022 (*UT Austin*). [[Paper](https://arxiv.org/abs/2210.05794)]
 * **MRAP**: "Pretrained Transformers Do not Always Improve Robustness", arXiv, 2022 (*Arizona State University*). [[Paper](https://arxiv.org/abs/2210.07663)]
+* **model-soup**: "Revisiting adapters with adversarial training", ICLR, 2023 (*DeepMind*). [[Paper](https://arxiv.org/abs/2210.04886)]
 #### Model Compression + Transformer
 * **ViT-quant**: "Post-Training Quantization for Vision Transformer", NeurIPS, 2021 (*Huawei*). [[Paper](https://arxiv.org/abs/2106.14156)]
 * **VTP**: "Visual Transformer Pruning", arXiv, 2021 (*Huawei*). [[Paper](https://arxiv.org/abs/2104.08500)]
@@ -613,7 +614,6 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **AWD-ViT**: "Visualizing and Understanding Patch Interactions in Vision Transformer", arXiv, 2022 (*JD*). [[Paper](https://arxiv.org/abs/2203.05922)]
 * **?**: "CNNs and Transformers Perceive Hybrid Images Similar to Humans", arXiv, 2022 (*Quintic AI, CA*). [[Paper](https://arxiv.org/abs/2203.11678)][[Code](https://github.com/aliborji/hybrid_images)]
 * **MJP**: "Breaking the Chain of Gradient Leakage in Vision Transformers", arXiv, 2022 (*Tencent*). [[Paper](https://arxiv.org/abs/2205.12551)]
-* **ViT-Shapley**: "Learning to Estimate Shapley Values with Vision Transformers", arXiv, 2022 (*UW*). [[Paper](https://arxiv.org/abs/2206.05282)][[PyTorch](https://github.com/suinleelab/vit-shapley)]
 * **?**: "A Unified and Biologically-Plausible Relational Graph Representation of Vision Transformers", arXiv, 2022 (*University of Electronic Science and Technology of China*). [[Paper](https://arxiv.org/abs/2206.11073)]
 * **?**: "How Well Do Vision Transformers (VTs) Transfer To The Non-Natural Image Domain? An Empirical Study Involving Art Classification", arXiv, 2022 (*University of Groningen, The Netherlands*). [[Paper](https://arxiv.org/abs/2208.04693)]
 * **?**: "Transformer Vs. MLP-Mixer Exponential Expressive Gap For NLP Problems", arXiv, 2022 (*Technion Israel Institute Of Technology*). [[Paper](https://arxiv.org/abs/2208.08191)]
@@ -625,6 +625,8 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **?**: "Demystify Self-Attention in Vision Transformers from a Semantic Perspective: Analysis and Application", arXiv, 2022 (*The Hong Kong Polytechnic University*). [[Paper](https://arxiv.org/abs/2211.08543)]
 * **IAV**: "Explanation on Pretraining Bias of Finetuned Vision Transformer", arXiv, 2022 (*KAIST*). [[Paper](https://arxiv.org/abs/2211.15428)]
 * **?**: "Teaching Matters: Investigating the Role of Supervision in Vision Transformers", arXiv, 2022 (*Maryland*). [[Paper](https://arxiv.org/abs/2212.03862)][[PyTorch](https://github.com/mwalmer-umd/vit_analysis)][[Website](https://www.cs.umd.edu/~sakshams/vit_analysis/)]
+* **ViT-Shapley**: "Learning to Estimate Shapley Values with Vision Transformers", ICLR, 2023 (*UW*). [[Paper](https://arxiv.org/abs/2206.05282)][[PyTorch](https://github.com/suinleelab/vit-shapley)]
+* **ImageNet-X**: "ImageNet-X: Understanding Model Mistakes with Factor of Variation Annotations", ICLR, 2023 (*Meta*). [[Paper](https://openreview.net/forum?id=HXz7Vcm3VgM)]
 
 [[Back to Overview](#overview)]
 
@@ -681,6 +683,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **DETRDistill**: "DETRDistill: A Universal Knowledge Distillation Framework for DETR-families", arXiv, 2022 (*USTC*). [[Paper](https://arxiv.org/abs/2211.10156)]
     * **each-DETR**: "Teach-DETR: Better Training DETR with Teachers", arXiv, 2022 (*CUHK*). [[Paper](https://arxiv.org/abs/2211.11953)][[Code (in construction)](https://github.com/LeonHLJ/Teach-DETR)]
     * **Co-DETR**: "DETRs with Collaborative Hybrid Assignments Training", arXiv, 2022 (*SenseTime*). [[Paper](https://arxiv.org/abs/2211.12860)][[Code (in construction)](https://github.com/Sense-X/Co-DETR)]
+    * **ViT-Adapter**: "ViT-Adapter: Exploring Plain Vision Transformer for Accurate Dense Predictions", ICLR, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2205.08534)][[PyTorch](https://github.com/czczup/ViT-Adapter)]
 * Transformer-based backbone:
     * **ViT-FRCNN**: "Toward Transformer-Based Object Detection", arXiv, 2020 (*Pinterest*). [[Paper](https://arxiv.org/abs/2012.09958)]
     * **WB-DETR**: "WB-DETR: Transformer-Based Detector Without Backbone", ICCV, 2021 (*CAS*). [[Paper](https://openaccess.thecvf.com/content/ICCV2021/html/Liu_WB-DETR_Transformer-Based_Detector_Without_Backbone_ICCV_2021_paper.html)]
@@ -1836,7 +1839,7 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
 * Multi-task:
     * **UniT**: "Transformer is All You Need: Multimodal Multitask Learning with a Unified Transformer", ICCV, 2021 (*Facebook*). [[Paper](https://arxiv.org/abs/2102.10772)][[PyTorch](https://github.com/facebookresearch/mmf)][[Website](https://mmf.sh/)]
     * **Pix2Seq**: "A Unified Sequence Interface for Vision Tasks", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2206.07669)]
-    * **Unified-IO**: "Unified-IO: A Unified Model for Vision, Language, and Multi-Modal Tasks", arXiv, 2022 (*AI2*). [[Paper](https://arxiv.org/abs/2206.08916)][[Website](https://unified-io.allenai.org/)]
+    * **Unified-IO**: "Unified-IO: A Unified Model for Vision, Language, and Multi-Modal Tasks", ICLR, 2023 (*AI2*). [[Paper](https://arxiv.org/abs/2206.08916)][[JAX](https://github.com/allenai/unified-io-inference)][[Website](https://unified-io.allenai.org/)]
     * **LAVIS**: "LAVIS: A Library for Language-Vision Intelligence", arXiv, 2022 (*Salesforce*). [[Paper](https://arxiv.org/abs/2209.09019)][[PyTorch](https://github.com/salesforce/LAVIS)]
 * Language-based Video Editing:
     * **M<sup>3</sup>L**: "Language-based Video Editing via Multi-Modal Multi-Level Transformer", CVPR, 2022 (*UCSB*). [[Paper](https://arxiv.org/abs/2104.01122)]
