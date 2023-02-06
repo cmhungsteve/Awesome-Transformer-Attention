@@ -106,6 +106,7 @@
 * **PartSLIP**: "PartSLIP: Low-Shot Part Segmentation for 3D Point Clouds via Pretrained Image-Language Models", arXiv, 2022 (*Qualcomm*). [[Paper](https://arxiv.org/abs/2212.01558)]
 * **EPCL**: "Frozen CLIP Model is Efficient Point Cloud Backbone", arXiv, 2022 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2212.04098)]
 * **ULIP**: "ULIP: Learning Unified Representation of Language, Image and Point Cloud for 3D Understanding", arXiv, 2022 (*Salesforce*). [[Paper](https://arxiv.org/abs/2212.05171)][[Website](https://tycho-xue.github.io/ULIP/)]
+* **ACT**: "Autoencoders as Cross-Modal Teachers: Can Pretrained 2D Image Transformers Help 3D Representation Learning?", ICLR, 2023 (*Megvii*). [[Paper](https://arxiv.org/abs/2212.08320)][[PyTorch](https://github.com/RunpeiDong/ACT)]
 
 [[Back to Overview](#overview)]
 
@@ -392,6 +393,7 @@
     * **AdaptFormer**: "AdaptFormer: Adapting Vision Transformers for Scalable Visual Recognition", NeurIPS, 2022 (*HKU*). [[Paper](https://arxiv.org/abs/2205.13535)][[PyTorch](https://github.com/ShoufaChen/AdaptFormer)][[Website](http://www.shoufachen.com/adaptformer-page/)]
     * **Convpass**: "Convolutional Bypasses Are Better Vision Transformer Adapters", arXiv, 2022 (*Peking University*). [[Paper](https://arxiv.org/abs/2207.07039)][[Pytorch](https://github.com/JieShibo/PETL-ViT)]
     * **FacT**: "FacT: Factor-Tuning for Lightweight Adaptation on Vision Transformer", AAAI, 2023 (*Peking*). [[Paper](https://arxiv.org/abs/2212.03145)][[Pytorch](https://github.com/JieShibo/PETL-ViT)]
+    * **Consolidator**: "Consolidator: Mergable Adapter with Group Connections for Vision Transformer", ICLR, 2023 (*Tsinghua*). [[Paper](https://openreview.net/forum?id=J_Cja7cpgW)]
 * Domain Adaptation/Generalization:
     * **TransDA**: "Transformer-Based Source-Free Domain Adaptation", arXiv, 2021 (*Haerbin Institute of Technology*). [[Paper](https://arxiv.org/abs/2105.14138)][[PyTorch](https://github.com/ygjwd12345/TransDA)]
     * **TVT**: "TVT: Transferable Vision Transformer for Unsupervised Domain Adaptation", arXiv, 2021 (*UT Arlington + Kuaishou*). [[Paper](https://arxiv.org/abs/2108.05988)]
@@ -676,6 +678,7 @@
 * **SeQ-GAN**: "Rethinking the Objectives of Vector-Quantized Tokenizers for Image Synthesis", arXiv, 2022 (*Tencent*). [[Paper](https://arxiv.org/abs/2212.03185)][[Code (in construction)](https://github.com/TencentARC/BasicVQ-GEN)]
 * **?**: "Style-Guided Inference of Transformer for High-resolution Image Synthesis", WACV, 2023 (*NCSOFT, Korea*). [[Paper](https://arxiv.org/abs/2210.05533)]
 * **Frido**: "Frido: Feature Pyramid Diffusion for Complex Scene Image Synthesis", AAAI, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2208.13753)][[PyTorch](https://github.com/davidhalladay/Frido)]
+* **GNT**: "Is Attention All That NeRF Needs?", ICLR, 2023 (*UT Austin*). [[Paper](https://arxiv.org/abs/2207.13298)][[PyTorch](https://github.com/VITA-Group/GNT)][[Website](https://vita-group.github.io/GNT/)]
 
 [[Back to Overview](#overview)]
 
@@ -909,13 +912,13 @@ Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2207.11553)][[Cod
 * **SPAN**: "Prior Knowledge-Guided Attention in Self-Supervised Vision Transformers", arXiv, 2022 (*Berkeley*). [[Paper](https://arxiv.org/abs/2209.03745)]
 * **TMSS**: "TMSS: An End-to-End Transformer-based Multimodal Network for Segmentation and Survival Prediction", arXiv, 2022 (*MBZUAI*). [[Paper](https://arxiv.org/abs/2209.05036)]
 * **CR-Swin2-VT**: "Hybrid Window Attention Based Transformer Architecture for Brain Tumor Segmentation", arXiv, 2022 (*Monash University*). [[Paper](https://arxiv.org/abs/2209.07704)][[PyTorch](https://github.com/himashi92/vizviva_fets_2022)]
-* **3DUX-Net**: "3D UX-Net: A Large Kernel Volumetric ConvNet Modernizing Hierarchical Transformer for Medical Image Segmentation", arXiv, 2022 (*Vanderbilt University*). [[Paper](https://arxiv.org/abs/2209.15076)][[PyTorch](https://github.com/MASILab/3DUX-Net)]
 * **FocalUNETR**: "FocalUNETR: A Focal Transformer for Boundary-aware Segmentation of CT Images", arXiv, 2022 (*Wayne State University, Detroit*). [[Paper](https://arxiv.org/abs/2210.03189)]
 * **LAPFormer**: "LAPFormer: A Light and Accurate Polyp Segmentation Transformer", arXiv, 2022 (*Sun\*, Hanoi*). [[Paper](https://arxiv.org/abs/2210.04393)]
 * **FINE**: "Memory transformers for full context and high-resolution 3D Medical Segmentation", arXiv, 2022 (*National Conservatory of Arts and Crafts, France*). [[Paper](https://arxiv.org/abs/2210.05313)]
 * **ConvTransSeg**: "ConvTransSeg: A Multi-resolution Convolution-Transformer Network for Medical Image Segmentation", arXiv, 2022 (*University of Nottingham, UK*). [[Paper](https://arxiv.org/abs/2210.07072)]
 * **CS-Unet**: "Optimizing Vision Transformers for Medical Image Segmentation and Few-Shot Domain Adaptation", arXiv, 2022 (*University of Glasgow, UK*). [[Paper](https://arxiv.org/abs/2210.08066)]
 * **UNETR++**: "UNETR++: Delving into Efficient and Accurate 3D Medical Image Segmentation", arXiv, 2022 (*MBZUAI*). [[Paper](https://arxiv.org/abs/2212.04497)][[PyTorch](https://github.com/Amshaker/unetr_plus_plus)]
+* **3DUX-Net**: "3D UX-Net: A Large Kernel Volumetric ConvNet Modernizing Hierarchical Transformer for Medical Image Segmentation", ICLR, 2023 (*Vanderbilt University*). [[Paper](https://arxiv.org/abs/2209.15076)][[PyTorch](https://github.com/MASILab/3DUX-Net)]
 
 [[Back to Overview](#overview)]
 
@@ -1475,6 +1478,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
 * **MRL**: "MRL: Learning to Mix with Attention and Convolutions", arXiv, 2022 (*Sony*). [[Paper](https://arxiv.org/abs/2208.13975)]
 * **RSA**: "Encoding Recurrence into Transformers", ICLR, 2023 (*HKU*). [[Paper](https://openreview.net/forum?id=7YfHla7IxBJ)]
 * **EVA**: "Efficient Attention via Control Variates", ICLR, 2023 (*HKU*). [[Paper](https://openreview.net/forum?id=G-uNfHKrj46)]
+* **STTABT**: "Sparse Token Transformer with Attention Back Tracking", ICLR, 2023 (*KAIST*). [[Paper](https://openreview.net/forum?id=VV0hSE8AxCw)]
 
 [[Back to Overview](#overview)]
 
