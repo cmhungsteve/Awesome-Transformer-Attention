@@ -260,6 +260,8 @@ Feel free to share this list with others!
 * **INTERN**: "INTERN: A New Learning Paradigm Towards General Vision", arXiv, 2022 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2111.08687)][[Website](https://opengvlab.shlab.org.cn/)]
 * **GGeM**: "Group Generalized Mean Pooling for Vision Transformer", arXiv, 2022 (*NAVER*). [[Paper](https://arxiv.org/abs/2212.04114)]
 * **GPViT**: "GPViT: A High Resolution Non-Hierarchical Vision Transformer with Group Propagation", ICLR, 2023 (*University of Edinburgh, Scotland + UCSD*). [[Paper](https://arxiv.org/abs/2212.06795)][[PyTorch](https://github.com/ChenhongyiYang/GPViT)]
+* **CPVT**: "Conditional Positional Encodings for Vision Transformers", ICLR, 2023 (*Meituan*). [[Paper](https://openreview.net/forum?id=3KWnuT-R1bh)][[Code (in construction)](https://github.com/Meituan-AutoML/CPVT)]
+* **LipsFormer**: "LipsFormer: Introducing Lipschitz Continuity to Vision Transformers", ICLR, 2023 (*IDEA, China*). [[Paper](https://openreview.net/forum?id=cHf1DcCwcH3)]
 #### Efficient Vision Transformer
 * **DeiT**: "Training data-efficient image transformers & distillation through attention", ICML, 2021 (*Facebook*). [[Paper](https://arxiv.org/abs/2012.12877)][[PyTorch](https://github.com/facebookresearch/deit)]
 * **ConViT**: "ConViT: Improving Vision Transformers with Soft Convolutional Inductive Biases", ICML, 2021 (*Facebook*). [[Paper](https://arxiv.org/abs/2103.10697)][[Code](https://github.com/facebookresearch/convit)]
@@ -503,7 +505,6 @@ Feel free to share this list with others!
 * **?**: "Deeper Insights into ViTs Robustness towards Common Corruptions", arXiv, 2022 (*Fudan + Microsoft*). [[Paper](https://arxiv.org/abs/2204.12143)]
 * **?**: "Privacy-Preserving Image Classification Using Vision Transformer", arXiv, 2022 (*Tokyo Metropolitan University*). [[Paper](https://arxiv.org/abs/2205.12041)]
 * **FedWAvg**: "Federated Adversarial Training with Transformers", arXiv, 2022 (*Institute of Electronics and Digital Technologies (IETR), France*). [[Paper](https://arxiv.org/abs/2206.02131)]
-* **RobustCNN**: "Can CNNs Be More Robust Than Transformers?", arXiv, 2022 (*UC Santa Cruz + JHU*). [[Paper](https://arxiv.org/abs/2206.03452)][[PyTorch](https://github.com/UCSC-VLAA/RobustCNN)]
 * **Backdoor-Transformer**: "Backdoor Attacks on Vision Transformers", arXiv, 2022 (*Maryland + UC Davis*). [[Paper](https://arxiv.org/abs/2206.08477)][[Code (in construction)](https://github.com/UCDvision/backdoor_transformer)]
 * **?**: "Defending Backdoor Attacks on Vision Transformer via Patch Processing", arXiv, 2022 (*Baidu*). [[Paper](https://arxiv.org/abs/2206.12381)]
 * **?**: "Image and Model Transformation with Secret Key for Vision Transformer", arXiv, 2022 (*Tokyo Metropolitan University*). [[Paper](https://arxiv.org/abs/2207.05366)]
@@ -516,6 +517,8 @@ Feel free to share this list with others!
 * **RKDE**: "Robustify Transformers with Robust Kernel Density Estimation", arXiv, 2022 (*UT Austin*). [[Paper](https://arxiv.org/abs/2210.05794)]
 * **MRAP**: "Pretrained Transformers Do not Always Improve Robustness", arXiv, 2022 (*Arizona State University*). [[Paper](https://arxiv.org/abs/2210.07663)]
 * **model-soup**: "Revisiting adapters with adversarial training", ICLR, 2023 (*DeepMind*). [[Paper](https://arxiv.org/abs/2210.04886)]
+* **?**: "Budgeted Training for Vision Transformer", ICLR, 2023 (*Tsinghua*). [[Paper](https://openreview.net/forum?id=sVzBN-DlJRi)]
+* **RobustCNN**: "Can CNNs Be More Robust Than Transformers?", ICLR, 2023 (*UC Santa Cruz + JHU*). [[Paper](https://arxiv.org/abs/2206.03452)][[PyTorch](https://github.com/UCSC-VLAA/RobustCNN)]
 #### Model Compression + Transformer
 * **ViT-quant**: "Post-Training Quantization for Vision Transformer", NeurIPS, 2021 (*Huawei*). [[Paper](https://arxiv.org/abs/2106.14156)]
 * **VTP**: "Visual Transformer Pruning", arXiv, 2021 (*Huawei*). [[Paper](https://arxiv.org/abs/2104.08500)]
@@ -585,11 +588,11 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **RepLKNet**: "Scaling Up Your Kernels to 31x31: Revisiting Large Kernel Design in CNNs", CVPR, 2022 (*Megvii*). [[Paper](https://arxiv.org/abs/2203.06717)][[MegEngine](https://github.com/MegEngine/RepLKNet)][[PyTorch](https://github.com/DingXiaoH/RepLKNet-pytorch)]
 * **FocalNet**: "Focal Modulation Networks", NeurIPS, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2203.11926)][[PyTorch](https://github.com/microsoft/FocalNet)]
 * **HorNet**: "HorNet: Efficient High-Order Spatial Interactions with Recursive Gated Convolutions", NeurIPS, 2022 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2207.14284)][[PyTorch](https://github.com/raoyongming/HorNet)][[Website](https://hornet.ivg-research.xyz/)]
-* **SLaK**: "More ConvNets in the 2020s: Scaling up Kernels Beyond 51x51 using Sparsity", arXiv, 2022 (*UT Austin*). [[Paper](https://arxiv.org/abs/2207.03620)][[PyTorch](https://github.com/VITA-Group/SLaK)]
 * **Sequencer**: "Sequencer: Deep LSTM for Image Classification", arXiv, 2022 (*Rikkyo University, Japan*). [[Paper](https://arxiv.org/abs/2205.01972)]
 * **MogaNet**: "Efficient Multi-order Gated Aggregation Network", arXiv, 2022 (*Westlake University, China*). [[Paper](https://arxiv.org/abs/2211.03295)]
 * **Conv2Former**: "Conv2Former: A Simple Transformer-Style ConvNet for Visual Recognition", arXiv, 2022 (*ByteDance*). [[Paper](https://arxiv.org/abs/2211.11943)]
 * **CoC**: "Image as Set of Points", ICLR, 2023 (*Northeastern*). [[Paper](https://openreview.net/forum?id=awnvqZja69)][[PyTorch](https://anonymous.4open.science/r/ContextCluster)]
+* **SLaK**: "More ConvNets in the 2020s: Scaling up Kernels Beyond 51x51 using Sparsity", ICLR, 2023 (*UT Austin*). [[Paper](https://arxiv.org/abs/2207.03620)][[PyTorch](https://github.com/VITA-Group/SLaK)]
 
 [[Back to Overview](#overview)]
 
@@ -627,6 +630,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **?**: "Teaching Matters: Investigating the Role of Supervision in Vision Transformers", arXiv, 2022 (*Maryland*). [[Paper](https://arxiv.org/abs/2212.03862)][[PyTorch](https://github.com/mwalmer-umd/vit_analysis)][[Website](https://www.cs.umd.edu/~sakshams/vit_analysis/)]
 * **ViT-Shapley**: "Learning to Estimate Shapley Values with Vision Transformers", ICLR, 2023 (*UW*). [[Paper](https://arxiv.org/abs/2206.05282)][[PyTorch](https://github.com/suinleelab/vit-shapley)]
 * **ImageNet-X**: "ImageNet-X: Understanding Model Mistakes with Factor of Variation Annotations", ICLR, 2023 (*Meta*). [[Paper](https://openreview.net/forum?id=HXz7Vcm3VgM)]
+* **?**: "A Theoretical Understanding of Vision Transformers: Learning, Generalization, and Sample Complexity", ICLR, 2023 (*Rensselaer Polytechnic Institute, NY*). [[Paper](https://openreview.net/forum?id=jClGv3Qjhb)]
 
 [[Back to Overview](#overview)]
 
@@ -945,6 +949,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **SSformer**: "SSformer: A Lightweight Transformer for Semantic Segmentation", arXiv, 2022 (*Nanjing University of Aeronautics and Astronautics*). [[Paper](https://arxiv.org/abs/2208.02034)][[PyTorch](https://github.com/shiwt03/SSformer)]
 * **NamedMask**: "NamedMask: Distilling Segmenters from Complementary Foundation Models", arXiv, 2022 (*Oxford*). [[Paper](https://arxiv.org/abs/2209.11228)][[PyTorch](https://github.com/NoelShin/namedmask)][[Website](https://www.robots.ox.ac.uk/~vgg/research/namedmask/)]
 * **IncepFormer**: "IncepFormer: Efficient Inception Transformer with Pyramid Pooling for Semantic Segmentation", arXiv, 2022 (*Nanjing University of Aeronautics and Astronautics*). [[Paper](https://arxiv.org/abs/2212.03035)][[PyTorch](https://github.com/shendu0321/IncepFormer)]
+* **SeaFormer**: "SeaFormer: Squeeze-enhanced Axial Transformer for Mobile Semantic Segmentation", ICLR, 2023 (*Tencent*). [[Paper](https://arxiv.org/abs/2301.13156)]
 
 [[Back to Overview](#overview)]
 
@@ -1309,10 +1314,10 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
     * **?**: "Static and Dynamic Concepts for Self-supervised Video Representation Learning", ECCV, 2022 (*CUHK*). [[Paper](https://arxiv.org/abs/2207.12795)]
     * **MAE**: "Masked Autoencoders As Spatiotemporal Learners", arXiv, 2022 (*Meta*). [[Paper](https://arxiv.org/abs/2205.09113)]
     * **OmniMAE**: "OmniMAE: Single Model Masked Pretraining on Images and Videos", arXiv, 2022 (*Meta*). [[Paper](https://arxiv.org/abs/2206.08356)][[PyTorch](https://github.com/facebookresearch/omnivore)]
-    * **MaskViT**: "MaskViT: Masked Visual Pre-Training for Video Prediction", arXiv, 2022 (*Stanford*). [[Paper](https://arxiv.org/abs/2206.11894)][[Website](https://maskedvit.github.io/)]
     * **?**: "On the Surprising Effectiveness of Transformers in Low-Labeled Video Recognition", arXiv, 2022 (*Georgia Tech*). [[Paper](https://arxiv.org/abs/2209.07474)]
     * **SVFormer**: "SVFormer: Semi-supervised Video Transformer for Action Recognition", arXiv, 2022 (*Fudan University*). [[Paper](https://arxiv.org/abs/2211.13222)][[PyTorch](https://github.com/ChenHsing/SVFormer)]
     * **MVD**: "Masked Video Distillation: Rethinking Masked Feature Modeling for Self-supervised Video Representation Learning", arXiv, 2022 (*Fudan Univeristy*). [[Paper](https://arxiv.org/abs/2212.04500)][[Code (in construction)](https://github.com/ruiwang2021/mvd)]
+    * **MaskViT**: "MaskViT: Masked Visual Pre-Training for Video Prediction", ICLR, 2023 (*Stanford*). [[Paper](https://arxiv.org/abs/2206.11894)][[Code (in construction)](https://github.com/agrimgupta92/maskvit)][[Website](https://maskedvit.github.io/)]
 * X-shot:
     * **ResT**: "Cross-modal Representation Learning for Zero-shot Action Recognition", CVPR, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2205.01657)]
     * **ViSET**: "Zero-Shot Action Recognition with Transformer-based Video Semantic Embedding", arXiv, 2022 (*University of South FLorida*). [[Paper](https://arxiv.org/abs/2203.05156)]
@@ -1757,13 +1762,13 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
     * **RA-CM3**: "Retrieval-Augmented Multimodal Language Modeling", arXiv, 2022 (*Meta*). [[Paper](https://arxiv.org/abs/2211.12561)]
     * **Structure-Diffusion**: "Training-Free Structured Diffusion Guidance for Compositional Text-to-Image Synthesis", arXiv, 2022 (*UCSB + UC Santa Cruz*). [[Paper](https://arxiv.org/abs/2212.05032)][[PyTorch](https://github.com/weixi-feng/Structured-Diffusion-Guidance)][[Website](https://weixi-feng.github.io/structure-diffusion-guidance/)]
 * Video:
-    * **CogVideo**: "CogVideo: Large-scale Pretraining for Text-to-Video Generation via Transformers", arXiv, 2022 (*Tsinghua University*) [[Paper](https://arxiv.org/abs/2205.15868)][[GitHub (in construction)](https://github.com/THUDM/CogVideo)]
     * **Make-A-Video**: "Make-A-Video: Text-to-Video Generation without Text-Video Data", arXiv, 2022 (*Meta*). [[Paper](https://arxiv.org/abs/2209.14792)]
     * **Imagen-Video**: "Imagen Video: High Definition Video Generation with Diffusion Models", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2210.02303)][[Website](https://imagen.research.google/video/)]
     * **Phenaki**: "Phenaki: Variable Length Video Generation From Open Domain Textual Description", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2210.02399)][[PyTorch (LAION-AI, in construction)](https://github.com/LAION-AI/phenaki)][[Website](https://phenaki.video/)]
     * **?**: "Towards Real-Time Text2Video via CLIP-Guided, Pixel-Level Optimization", arXiv, 2022 (*CMU*). [[Paper](https://arxiv.org/abs/2210.12826)][[PyTorch](https://github.com/pschaldenbrand/Text2Video)][[Website](https://pschaldenbrand.github.io/text2video/)]
     * **MagicVideo**: "MagicVideo: Efficient Video Generation With Latent Diffusion Models", arXiv, 2022 (*ByteDance*). [[Paper](https://arxiv.org/abs/2211.11018)][[Website](https://magicvideo.github.io/)]
     * **MMVG**: "Tell Me What Happened: Unifying Text-guided Video Completion via Multimodal Masked Video Generation", arXiv, 2022 (*Meta*). [[Paper](https://arxiv.org/abs/2211.12824)]
+    * **CogVideo**: "CogVideo: Large-scale Pretraining for Text-to-Video Generation via Transformers", ICLR, 2023 (*Tsinghua University*) [[Paper](https://arxiv.org/abs/2205.15868)][[GitHub (in construction)](https://github.com/THUDM/CogVideo)]
 
 [[Back to Overview](#overview)]
 
