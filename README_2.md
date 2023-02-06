@@ -679,6 +679,7 @@
 * **?**: "Style-Guided Inference of Transformer for High-resolution Image Synthesis", WACV, 2023 (*NCSOFT, Korea*). [[Paper](https://arxiv.org/abs/2210.05533)]
 * **Frido**: "Frido: Feature Pyramid Diffusion for Complex Scene Image Synthesis", AAAI, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2208.13753)][[PyTorch](https://github.com/davidhalladay/Frido)]
 * **GNT**: "Is Attention All That NeRF Needs?", ICLR, 2023 (*UT Austin*). [[Paper](https://arxiv.org/abs/2207.13298)][[PyTorch](https://github.com/VITA-Group/GNT)][[Website](https://vita-group.github.io/GNT/)]
+* **DPC**: "Discrete Predictor-Corrector Diffusion Models for Image Synthesis", ICLR, 2023 (*Google*). [[Paper](https://openreview.net/forum?id=VM8batVBWvg)]
 
 [[Back to Overview](#overview)]
 
@@ -700,6 +701,7 @@
 * **TECO**: "Temporally Consistent Video Transformer for Long-Term Video Prediction", arXiv, 2022 (*Berkeley*). [[Paper](https://arxiv.org/abs/2210.02396)][[Jax](https://github.com/wilson1yan/teco)][[Website](https://wilson1yan.github.io/teco/index.html)]
 * **SlotFormer**: "SlotFormer: Unsupervised Visual Dynamics Simulation with Object-Centric Models", arXiv, 2022 (*University of Toronto*). [[Paper](https://arxiv.org/abs/2210.05861)][[Website](https://slotformer.github.io/)]
 * **MAGVIT**: "MAGVIT: Masked Generative Video Transformer", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2212.05199)][[Code (in construction)](https://github.com/MAGVIT/magvit)][[Website](https://magvit.cs.cmu.edu/)]
+* **Human-MotionFormer**: "Human MotionFormer: Transferring Human Motions with Vision Transformers", ICLR, 2023 (*HKUST + Huya*). [[Paper](https://openreview.net/forum?id=lQVpasnQS62)]
 
 [[Back to Overview](#overview)]
 
@@ -724,6 +726,7 @@
 * **CSLA**: "Bridging CLIP and StyleGAN through Latent Alignment for Image Editing", arXiv, 2022 (*Kuaishou*). [[Paper](https://arxiv.org/abs/2210.04506)]
 * **CLIP-PAE**: "CLIP-PAE: Projection-Augmentation Embedding to Extract Relevant Features for a Disentangled, Interpretable, and Controllable Text-Guided Image Manipulation", arXiv, 2022 (*University of Cambridge*). [[Paper](https://arxiv.org/abs/2210.03919)]
 * **S2WAT**: "S2WAT: Image Style Transfer via Hierarchical Vision Transformer using Strips Window Attention", arXiv, 2022 (*Sichuan Normal University*). [[Paper](https://arxiv.org/abs/2210.12381)]
+* **DiffuseIT**: "Diffusion-based Image Translation using Disentangled Style and Content Representation", ICLR, 2023 (*KAIST*). [[Paper](https://arxiv.org/abs/2209.15264)]
 
 [[Back to Overview](#overview)]
 
@@ -953,6 +956,8 @@ Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2207.11553)][[Cod
 * **TractoFormer**: "TractoFormer: A Novel Fiber-level Whole Brain Tractography Analysis Framework Using Spectral Embedding and Vision Transformers", arXiv, 2022 (*Harvard*). [[Paper](https://arxiv.org/abs/2207.02327)]
 * **BrainFormer**: "BrainFormer: A Hybrid CNN-Transformer Model for Brain fMRI Data Classification", arXiv, 2022 (*Chinese PLA General Hospital*). [[Paper](https://arxiv.org/abs/2208.03028)]
 * **SI-ViT**: "Shuffle Instances-based Vision Transformer for Pancreatic Cancer ROSE Image Classification", arXiv, 2022 (*Beihang University*). [[Paper](https://arxiv.org/abs/2208.06833)][[PyTorch](https://github.com/sagizty/MIL-SI)]
+* **IPS**: "Iterative Patch Selection for High-Resolution Image Recognition", ICLR, 2023 (*Hasso Plattner Institute, Germany*). [[Paper](https://arxiv.org/abs/2210.13007)]
+* **ILRA-MIL**: "Exploring Low-Rank Property in Multiple Instance Learning for Whole Slide Image Classification", ICLR, 2023 (*Tencent*). [[Paper](https://openreview.net/forum?id=01KmhBsEPFO)]
 
 [[Back to Overview](#overview)]
 
@@ -1362,6 +1367,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **LegoFormer**: "LegoFormer: Transformers for Block-by-Block Multi-view 3D Reconstruction", arXiv, 2021 (*TUM + Google*). [[Paper](https://arxiv.org/abs/2106.12102)]
     * **PlaneFormers**: "PlaneFormers: From Sparse View Planes to 3D Reconstruction", ECCV, 2022 (*UMich*). [[Paper](https://arxiv.org/abs/2208.04307)][[PyTorch](https://github.com/samiragarwala/PlaneFormers)][[Website](https://samiragarwala.github.io/PlaneFormers/)]
     * **3D-C2FT**: "3D-C2FT: Coarse-to-fine Transformer for Multi-view 3D Reconstruction", arXiv, 2022 (*Korea Institute of Science and Technology*). [[Paper](https://arxiv.org/abs/2205.14575)]
+    * **SDF-Former**: "Monocular Scene Reconstruction with 3D SDF Transformers", ICLR, 2023 (*Alibaba*). [[Paper](https://arxiv.org/abs/2301.13510)][[Website](https://weihaosky.github.io/sdfformer/)]
 * 3D Scene:
     * **OpenScene**: "OpenScene: 3D Scene Understanding with Open Vocabularies", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2211.15654)][[Website](https://pengsongyou.github.io/openscene)]
     * **?**: "Language-driven Open-Vocabulary 3D Scene Understanding", arXiv, 2022 (*ByteDance*). [[Paper](https://arxiv.org/abs/2211.16312)] 
@@ -1479,6 +1485,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
 * **RSA**: "Encoding Recurrence into Transformers", ICLR, 2023 (*HKU*). [[Paper](https://openreview.net/forum?id=7YfHla7IxBJ)]
 * **EVA**: "Efficient Attention via Control Variates", ICLR, 2023 (*HKU*). [[Paper](https://openreview.net/forum?id=G-uNfHKrj46)]
 * **STTABT**: "Sparse Token Transformer with Attention Back Tracking", ICLR, 2023 (*KAIST*). [[Paper](https://openreview.net/forum?id=VV0hSE8AxCw)]
+* **Mega**: "Mega: Moving Average Equipped Gated Attention", ICLR, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2209.10655)][[PyTorch](https://github.com/facebookresearch/mega)]
 
 [[Back to Overview](#overview)]
 
