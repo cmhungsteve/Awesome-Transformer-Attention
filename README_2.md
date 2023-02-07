@@ -426,13 +426,13 @@
     * **TPT**: "Test-Time Prompt Tuning for Zero-Shot Generalization in Vision-Language Models", NeurIPS, 2022 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2209.07511)][[PyTorch](https://github.com/azshue/TPT)][[Website](https://azshue.github.io/TPT/)]
     * **I2DFormer**: "I2DFormer: Learning Image to Document Attention for Zero-Shot Image Classification", NeurIPS, 2022 (*ETHZ*). [[Paper](https://arxiv.org/abs/2209.10304)]
     * **HRT**: "Hybrid Routing Transformer for Zero-Shot Learning", arXiv, 2022 (*Xidian University*). [[Paper](https://arxiv.org/abs/2203.15310)]
-    * **MUST**: "Masked Unsupervised Self-training for Zero-shot Image Classification", arXiv, 2022 (*Salesforce*). [[Paper](https://arxiv.org/abs/2206.02967)]
     * **CuPL**: "What does a platypus look like? Generating customized prompts for zero-shot image classification", arXiv, 2022 (*University of Washington*). [[Paper](https://arxiv.org/abs/2209.03320)][[PyTorch](https://github.com/sarahpratt/CuPL)]
     * **VL-Taboo**: "VL-Taboo: An Analysis of Attribute-based Zero-shot Capabilities of Vision-Language Models", arXiv, 2022 (*Goethe University Frankfurt, Germany*). [[Paper](https://arxiv.org/abs/2209.06103)][[Code (in construction)](https://github.com/felixVogel02/VL-Taboo)]
     * **CALIP**: "CALIP: Zero-Shot Enhancement of CLIP with Parameter-free Attention", arXiv, 2022 (*Peking University*). [[Paper](https://arxiv.org/abs/2209.14169)]
     * **PromptCompVL**: "Prompting Large Pre-trained Vision-Language Models For Compositional Concept Learning", arXiv, 2022 (*Michigan State*). [[Paper](https://arxiv.org/abs/2211.05077)]
     * **SuS-X**: "SuS-X: Training-Free Name-Only Transfer of Vision-Language Models", arXiv, 2022 (*Cambridge*). [[Paper](https://arxiv.org/abs/2211.16198)][[PyTorch](https://github.com/vishaal27/SuS-X)]
     * **I2MVFormer**: "I2MVFormer: Large Language Model Generated Multi-View Document Supervision for Zero-Shot Image Classification", arXiv, 2022 (*ETHZ*). [[Paper](https://arxiv.org/abs/2212.02291)]
+    * **MUST**: "Masked Unsupervised Self-training for Zero-shot Image Classification", ICLR, 2023 (*Salesforce*). [[Paper](https://arxiv.org/abs/2206.02967)][[PyTorch](https://github.com/salesforce/MUST)]
 * X-Shot:
     * **CrossTransformer**: "CrossTransformers: spatially-aware few-shot transfer", NeurIPS, 2020 (*DeepMind*). [[Paper](https://arxiv.org/abs/2007.11498)][[Tensorflow](https://github.com/google-research/meta-dataset)]
     * **URT**: "A Universal Representation Transformer Layer for Few-Shot Image Classification", ICLR, 2021 (*Mila*). [[Paper](https://openreview.net/forum?id=04cII6MumYV)][[PyTorch](https://github.com/liulu112601/URT)]
@@ -1240,6 +1240,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **?**: "A Strong Transfer Baseline for RGB-D Fusion in Vision Transformers", arXiv, 2022 (*University of Groningen, The Netherlands*). [[Paper](https://arxiv.org/abs/2210.00843)]
     * **?**: "Grounding Language with Visual Affordances over Unstructured Data", arXiv, 2022 (*University of Freiburg, Germany*). [[Paper](https://arxiv.org/abs/2210.01911)][[Website](http://hulc2.cs.uni-freiburg.de/)]
     * **VIMA**: "VIMA: General Robot Manipulation with Multimodal Prompts", arXiv, 2022 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2210.03094)][[PyTorch](https://github.com/vimalabs/VIMA)][[Website](https://vimalabs.github.io/)]
+    * **?**: "Lossless Adaptation of Pretrained Vision Models For Robotic Manipulation", ICLR, 2023 (*DeepMind*). [[Paper](https://openreview.net/forum?id=5IND3TXJRb-)]
 * Scene Decomposition:
     * **SRT**: "Scene Representation Transformer: Geometry-Free Novel View Synthesis Through Set-Latent Scene Representations", CVPR, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2111.13152)][[PyTorch (stelzner)](https://github.com/stelzner/srt)][[Website](https://srt-paper.github.io/)]
     * **OSRT**: "Object Scene Representation Transformer", NeurIPS, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2206.06922)][[Website](https://osrt-paper.github.io/)]
