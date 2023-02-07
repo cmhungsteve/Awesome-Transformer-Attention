@@ -478,8 +478,8 @@
 * Long-tail/Imbalanced:
     * **BatchFormer**: "BatchFormer: Learning to Explore Sample Relationships for Robust Representation Learning", CVPR, 2022 (*The University of Sydney*). [[Paper](https://arxiv.org/abs/2203.01522)][[PyTorch](https://github.com/zhihou7/BatchFormer)]
     * **BatchFormerV2**: "BatchFormerV2: Exploring Sample Relationships for Dense Representation Learning", arXiv, 2022 (*The University of Sydney*). [[Paper](https://arxiv.org/abs/2204.01254)]
-    * **LPT**: "LPT: Long-tailed Prompt Tuning for Image Classification", arXiv, 2022 (*Harbin Institute of Technology*). [[Paper](https://arxiv.org/abs/2210.01033)]
     * **LiVT**: "Learning Imbalanced Data with Vision Transformers", arXiv, 2022 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2212.02015)][[PyTorch (in construction)](https://github.com/XuZhengzhuo/LiVT)]
+    * **LPT**: "LPT: Long-tailed Prompt Tuning for Image Classification", ICLR, 2023 (*Harbin Institute of Technology*). [[Paper](https://arxiv.org/abs/2210.01033)]
 * Knowledge Distillation:
     * **?**: "Knowledge Distillation via the Target-aware Transformer", CVPR, 2022 (*Alibaba*). [[Paper](https://arxiv.org/abs/2205.10793)]
     * **DearKD**: "DearKD: Data-Efficient Early Knowledge Distillation for Vision Transformers", CVPR, 2022 (*JD*). [[Paper](https://arxiv.org/abs/2204.12997)]
@@ -1015,6 +1015,8 @@ Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2207.11553)][[Cod
 * **RepsNet**: "RepsNet: Combining Vision with Language for Automated Medical Reports", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2209.13171)][[Website](https://sites.google.com/view/repsnet)]
 * **MF<sup>2</sup>-MVQA**: "MF<sup>2</sup>-MVQA: A Multi-stage Feature Fusion method for Medical Visual Question Answering", arXiv, 2022 (*University of Science and Technology Beijing*). [[Paper](https://arxiv.org/abs/2211.05991)]
 * **RoentGen**: "RoentGen: Vision-Language Foundation Model for Chest X-ray Generation", arXiv, 2022 (*Stanford*). [[Paper](https://arxiv.org/abs/2211.12737)]
+* **?**: "Medical Image Understanding with Pretrained Vision Language Models: A Comprehensive Study", ICLR, 2023 (*Sichuan University*). [[Paper](https://arxiv.org/abs/2209.15517)]
+
 
 [[Back to Overview](#overview)]
 
