@@ -1320,7 +1320,7 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
     * **LaViLa**: "Learning Video Representations from Large Language Models", arXiv, 2022 (*Meta*). [[Paper](https://arxiv.org/abs/2212.04501)][[PyTorch](https://github.com/facebookresearch/LaViLa)][[Website](https://facebookresearch.github.io/LaViLa/)]
     * **PromptonomyViT**: "PromptonomyViT: Multi-Task Prompt Learning Improves Video Transformers using Synthetic Scene Data", arXiv, 2022 (*Tel Aviv + IBM*). [[Paper](https://arxiv.org/abs/2212.04821)]
     * **MovieCLIP**: "MovieCLIP: Visual Scene Recognition in Movies", WACV, 2023 (*USC*). [[Paper](https://arxiv.org/abs/2210.11065)][[Website](https://sail.usc.edu/~mica/MovieCLIP/)]
-    * **AIM**: "AIM: Adapting Image Models for Efficient Video Action Recognition", ICLR, 2023 (*Amazon*). [[Paper](https://openreview.net/forum?id=CIoSZ_HKHS7)]
+    * **AIM**: "AIM: Adapting Image Models for Efficient Video Action Recognition", ICLR, 2023 (*Amazon*). [[Paper](https://arxiv.org/abs/2302.03024)][[PyTorch](https://github.com/taoyang1122/adapt-image-models)][[Website](https://adapt-image-models.github.io/)]
 * X-supervised Learning:
     * **LSTCL**: "Long-Short Temporal Contrastive Learning of Video Transformers", CVPR, 2022 (*Facebook*). [[Paper](https://arxiv.org/abs/2106.09212)]
     * **SVT**: "Self-supervised Video Transformer", CVPR, 2022 (*Stony Brook*). [[Paper](https://arxiv.org/abs/2112.01514)][[PyTorch](https://github.com/kahnchana/svt)][[Website](https://kahnchana.github.io/svt/)]
