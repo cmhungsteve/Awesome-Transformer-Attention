@@ -1712,6 +1712,7 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
     * **TokenFlow**: "TokenFlow: Rethinking Fine-grained Cross-modal Alignment in Vision-Language Retrieval", arXiv, 2022 (*Kuaishou*). [[Paper](https://arxiv.org/abs/2209.13822)]
     * **VLPCook**: "Structured Vision-Language Pretraining for Computational Cooking", arXiv, 2022 (*Sorbonne University, France*). [[Paper](https://arxiv.org/abs/2212.04267)]
     * **UniVL-DR**: "Universal Vision-Language Dense Retrieval: Learning A Unified Representation Space for Multi-Modal Retrieval", ICLR, 2023 (*Northeastern University, China*). [[Paper](https://openreview.net/forum?id=PQOlkgsBsik)]
+    * **Pic2Word**: "Pic2Word: Mapping Pictures to Words for Zero-shot Composed Image Retrieval", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2302.03084)]
 * Video:
     * **MMT**: "Multi-modal Transformer for Video Retrieval", ECCV, 2020 (*INRIA + Google*). [[Paper](https://arxiv.org/abs/2007.10639)][[Website](http://thoth.inrialpes.fr/research/MMT/)]
     * **AYCE**: "All You Can Embed: Natural Language based Vehicle Retrieval with Spatio-Temporal Transformers", CVPRW, 2021 (*University of Modena and Reggio Emilia*). [[Paper](https://arxiv.org/abs/2106.10153)][[PyTorch](https://github.com/cscribano/AYCE_2021)]
