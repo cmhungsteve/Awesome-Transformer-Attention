@@ -727,6 +727,7 @@
 * **CLIP-PAE**: "CLIP-PAE: Projection-Augmentation Embedding to Extract Relevant Features for a Disentangled, Interpretable, and Controllable Text-Guided Image Manipulation", arXiv, 2022 (*University of Cambridge*). [[Paper](https://arxiv.org/abs/2210.03919)]
 * **S2WAT**: "S2WAT: Image Style Transfer via Hierarchical Vision Transformer using Strips Window Attention", arXiv, 2022 (*Sichuan Normal University*). [[Paper](https://arxiv.org/abs/2210.12381)]
 * **DiffuseIT**: "Diffusion-based Image Translation using Disentangled Style and Content Representation", ICLR, 2023 (*KAIST*). [[Paper](https://arxiv.org/abs/2209.15264)]
+* **pix2pix-zero**: "Zero-shot Image-to-Image Translation", arXiv, 2023 (*Adobe*). [[Paper](https://arxiv.org/abs/2302.03027)][[Code (in construction)](https://github.com/pix2pixzero/pix2pix-zero)][[Website](https://pix2pixzero.github.io/)]
 
 [[Back to Overview](#overview)]
 
