@@ -343,6 +343,8 @@
     * **?**: "Cross-Forgery Analysis of Vision Transformers and CNNs for Deepfake Image Detection", arXiv, 2022 (*National Research Council, Italy*). [[Paper](https://arxiv.org/abs/2206.13829)]
     * **STDT**: "Deepfake Video Detection with Spatiotemporal Dropout Transformer", arXiv, 2022 (*CAS*). [[Paper](https://arxiv.org/abs/2207.06612)]
     * **?**: "Deep Convolutional Pooling Transformer for Deepfake Detection", arXiv, 2022 (*HKU*). [[Paper](https://arxiv.org/abs/2209.05299)]
+* Fairness:
+    * **TADeT**: "Mitigating Bias in Visual Transformers via Targeted Alignment", BMVC, 2021 (**). [[Paper](https://arxiv.org/abs/2302.04358)]
 
 [[Back to Overview](#overview)]
 
@@ -1233,6 +1235,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **FTN**: "Fully Transformer Network for Change Detection of Remote Sensing Images", arXiv, 2022 (*Dalian University of Technology*). [[Paper](https://arxiv.org/abs/2210.00757)]
     * **MCTNet**: "MCTNet: A Multi-Scale CNN-Transformer Network for Change Detection in Optical Remote Sensing Images", arXiv, 2022 (*Tsinghua University*). [[Paper](https://arxiv.org/abs/2210.07601)]
     * **?**: "Transformers For Recognition In Overhead Imagery: A Reality Check", arXiv, 2022 (*Duke University*). [[Paper](https://arxiv.org/abs/2210.12599)]
+    * **GFM**: "GFM: Building Geospatial Foundation Models via Continual Pretraining", arXiv, 2023 (*Amazon*). [[Paper](https://arxiv.org/abs/2302.04476)]
 * Robotics:
     * **TF-Grasp**: "When Transformer Meets Robotic Grasping: Exploits Context for Efficient Grasp Detection", arXiv, 2022 (*University of Science and Technology of China*). [[Paper](https://arxiv.org/abs/2202.11911)][[Code (in construction)](https://github.com/WangShaoSUN/grasp-transformer)]
     * **BeT**: "Behavior Transformers: Cloning k modes with one stone", arXiv, 2022 (*NYU*). [[Paper](https://arxiv.org/abs/2206.11251)][[PyTorch](https://github.com/notmahi/bet)]
