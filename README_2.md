@@ -883,6 +883,7 @@
 * **NestedFormer**: "NestedFormer: Nested Modality-Aware Transformer for Brain Tumor Segmentation", MICCAI, 2022 (*Tianjin University*). [[Paper](https://arxiv.org/abs/2208.14876)][[Code (in construction)](https://github.com/920232796/NestedFormer)]
 * **TransDeepLab**: "TransDeepLab: Convolution-Free Transformer-based DeepLab v3+ for Medical Image Segmentation", MICCAIW, 2022 (*RWTH Aachen University, Germany*). [[Paper](https://arxiv.org/abs/2208.00713)][[PyTorch](https://github.com/rezazad68/transdeeplab)]
 * **Video-TransUNet**: "Video-TransUNet: Temporally Blended Vision Transformer for CT VFSS Instance Segmentation", International Conference on Machine Vision (ICMV), 2022 (*University of Bristol, UK*). [[Paper](https://arxiv.org/abs/2208.08315)]
+* **TransResNet**: "TransResNet: Integrating the Strengths of ViTs and CNNs for High Resolution Medical Image Segmentation via Feature Grafting", BMVC, 2022 (*MBZUAI*). [[Paper](https://bmvc2022.mpi-inf.mpg.de/293/)]
 * **CASTformer**: "Class-Aware Adversarial Transformers for Medical Image Segmentation", NeurIPS, 2022 (*Yale*). [[Paper](https://arxiv.org/abs/2201.10737)]
 * **Tempera**: "Tempera: Spatial Transformer Feature Pyramid Network for Cardiac MRI Segmentation", arXiv, 2022 (*ICL*). [[Paper](https://arxiv.org/abs/2203.00355)]
 * **UTNetV2**: "A Multi-scale Transformer for Medical Image Segmentation: Architectures, Model Efficiency, and Benchmarks", arXiv, 2022 (*Rutgers*). [[Paper](https://arxiv.org/abs/2203.00131)]
@@ -1289,7 +1290,6 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **?**: "Can Transformer Attention Spread Give Insights Into Uncertainty of Detected and Tracked Objects?", IROSW, 2022 (*Bosch*). [[Paper](https://arxiv.org/abs/2210.14391)]
     * **MTR**: "Motion Transformer with Global Intention Localization and Local Movement Refinement", NeurIPS, 2022 (*MPI*). [[Paper](https://arxiv.org/abs/2209.13508)][[Code (in construction)](https://github.com/sshaoshuai/MTR)]
     * **PlanT**: "PlanT: Explainable Planning Transformers via Object-Level Representations", Conference on Robot Learning (CoRL), 2022 (*TUM*). [[Paper](https://arxiv.org/abs/2210.14222)][[PyTorch](https://github.com/autonomousvision/plant)][[Website](https://www.katrinrenz.de/plant/)]
-    * **BEVSegFormer**: "BEVSegFormer: Bird's Eye View Semantic Segmentation From Arbitrary Camera Rigs", arXiv, 2022 (*Nullmax, China*). [[Paper](https://arxiv.org/abs/2203.04050)]
     * **ParkPredict+**: "ParkPredict+: Multimodal Intent and Motion Prediction for Vehicles in Parking Lots with CNN and Transformer", arXiv, 2022 (*Berkeley*). [[Paper](https://arxiv.org/abs/2204.10777)]
     * **GKT**: "Efficient and Robust 2D-to-BEV Representation Learning via Geometry-guided Kernel Transformer", arXiv, 2022 (*Huazhong University of Science and Technology*). [[Paper](https://arxiv.org/abs/2206.04584)][[Code (in construction)](https://github.com/hustvl/GKT)]
     * **CoBEVT**: "CoBEVT: Cooperative Bird's Eye View Semantic Segmentation with Sparse Transformers", arXiv, 2022 (*UCLA*). [[Paper](https://arxiv.org/abs/2207.02202)]
@@ -1300,6 +1300,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **DCT**: "A Dual-Cycled Cross-View Transformer Network for Unified Road Layout Estimation and 3D Object Detection in the Bird's-Eye-View", arXiv, 2022 (*Gwang-ju Institute of Science and Technology*). [[Paper](https://arxiv.org/abs/2209.08844)]
     * **C-ViT**: "Traffic Accident Risk Forecasting using Contextual Vision Transformers", arXiv, 2022 (*University of Technology Sydney*). [[Paper](https://arxiv.org/abs/2209.11180)]
     * **BEVFormer-v2**: "BEVFormer v2: Adapting Modern Image Backbones to Bird's-Eye-View Recognition via Perspective Supervision", arXiv, 2022 (*Tsinghua University*). [[Paper](https://arxiv.org/abs/2211.10439)]
+    * **BEVSegFormer**: "BEVSegFormer: Bird's Eye View Semantic Segmentation From Arbitrary Camera Rigs", WACV, 2023 (*Nullmax, China*). [[Paper](https://arxiv.org/abs/2203.04050)]
     * **MapTR**: "MapTR: Structured Modeling and Learning for Online Vectorized HD Map Construction", ICLR, 2023 (*Horizon Robotics*). [[Paper](https://arxiv.org/abs/2208.14437)][[PyTorch](https://github.com/hustvl/MapTR)]
     * **BEVDistill**: "BEVDistill: Cross-Modal BEV Distillation for Multi-View 3D Object Detection", ICLR, 2023 (*USTC*). [[Paper](https://arxiv.org/abs/2211.09386)][[Code (in constrcution)](https://github.com/zehuichen123/BEVDistill)]
 * Trajectory Prediction:
