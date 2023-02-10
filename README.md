@@ -947,6 +947,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **HRViT**: "Multi-Scale High-Resolution Vision Transformer for Semantic Segmentation", CVPR, 2022 (*Meta*). [[Paper](https://arxiv.org/abs/2111.01236)][[PyTorch](https://github.com/facebookresearch/HRViT)]
 * **GReaT**: "Graph Reasoning Transformer for Image Parsing", ACMMM, 2022 (*HKUST*). [[Paper](https://arxiv.org/abs/2209.09545)]
 * **SegDeformer**: "A Transformer-Based Decoder for Semantic Segmentation with Multi-level Context Mining", ECCV, 2022 (*Shanghai Jiao Tong + Huawei*). [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/383_ECCV_2022_paper.php)][[PyTorch](https://github.com/lygsbw/segdeformer)]
+* **PAUMER**: "PAUMER: Patch Pausing Transformer for Semantic Segmentation", BMVC, 2022 (*Idiap, Switzerland*). [[Paper](https://bmvc2022.mpi-inf.mpg.de/737/)]
 * **SegViT**: "SegViT: Semantic Segmentation with Plain Vision Transformers", NeurIPS, 2022 (*The University of Adelaide, Australia*). [[Paper](https://arxiv.org/abs/2210.05844)]
 * **RTFormer**: "RTFormer: Efficient Design for Real-Time Semantic Segmentation with Transformer", NeurIPS, 2022 (*Baidu*). [[Paper](https://arxiv.org/abs/2210.07124)][[Paddle](https://github.com/PaddlePaddle/PaddleSeg)]
 * **SegNeXt**: "SegNeXt: Rethinking Convolutional Attention Design for Semantic Segmentation", NeurIPS, 2022 (*Tsinghua University*). [[Paper](https://arxiv.org/abs/2209.08575)]
@@ -1028,7 +1029,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **BoundaryFormer**: "Instance Segmentation With Mask-Supervised Polygonal Boundary Transformers", CVPR, 2022 (*UCSD*). [[Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Lazarow_Instance_Segmentation_With_Mask-Supervised_Polygonal_Boundary_Transformers_CVPR_2022_paper.html)]
     * **PPT**: "Parallel Pre-trained Transformers (PPT) for Synthetic Data-based Instance Segmentation", CVPRW, 2022 (*ByteDance*). [[Paper](https://arxiv.org/abs/2206.10845)]
     * **OSFormer**: "OSFormer: One-Stage Camouflaged Instance Segmentation with Transformers", ECCV, 2022 (*Huazhong University of Science and Technology*). [[Paper](https://arxiv.org/abs/2207.02255)][[PyTorch](https://github.com/PJLallen/OSFormer)]
-    * **AISFormer**: "AISFormer: Amodal Instance Segmentation with Transformer", BMVC, 2022 (*University of Arkansas, Arkansas*). [[Paper](https://arxiv.org/abs/2210.06323)][[Code (in construction)](https://github.com/UARK-AICV/AISFormer)]
+    * **AISFormer**: "AISFormer: Amodal Instance Segmentation with Transformer", BMVC, 2022 (*University of Arkansas, Arkansas*). [[Paper](https://arxiv.org/abs/2210.06323)][[PyTorch](https://github.com/UARK-AICV/AISFormer)]
     * **TOIST**: "TOIST: Task Oriented Instance Segmentation Transformer with Noun-Pronoun Distillation", NeurIPS, 2022 (*Tsinghua University*). [[Paper](https://arxiv.org/abs/2210.10775)][[PyTorch](https://github.com/AIR-DISCOVER/TOIST)]
 * Universal Segmentation:
     * **OneFormer**: "OneFormer: One Transformer to Rule Universal Image Segmentation", arXiv, 2022 (*Oregon*). [[Paper](https://arxiv.org/abs/2211.06220)][[PyTorch](https://github.com/SHI-Labs/OneFormer)][[Website](https://praeclarumjj3.github.io/oneformer/)]
