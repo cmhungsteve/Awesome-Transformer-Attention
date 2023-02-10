@@ -9,6 +9,7 @@ Contributions in any form to make this list more comprehensive are welcome.
 If you find this repository useful, please consider **[citing](#citation)** and **★STARing** this list. <br>
 Feel free to share this list with others! 
 
+**[Update: February, 2023]** Added all the related papers from *ICLR 2023*! <br>
 **[Update: December, 2022]** Added attention-free papers from [Networks Beyond Attention (GitHub)](https://github.com/FocalNet/Networks-Beyond-Attention) made by [Jianwei Yang](https://github.com/jwyang) <br>
 **[Update: November, 2022]** Added all the related papers from *NeurIPS 2022*! <br>
 **[Update: October, 2022]** Split the 2nd half of the paper list to [README_2.md](README_2.md) <br>
@@ -227,7 +228,7 @@ Feel free to share this list with others!
 * **ScalableViT**: "ScalableViT: Rethinking the Context-oriented Generalization of Vision Transformer", ECCV, 2022 (*ByteDance*). [[Paper](https://arxiv.org/abs/2203.10790)]
 * **MaxViT**: "MaxViT: Multi-Axis Vision Transformer", ECCV, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2204.01697)][[Tensorflow](https://github.com/google-research/maxvit)]
 * **VSA**: "VSA: Learning Varied-Size Window Attention in Vision Transformers", ECCV, 2022 (*The University of Sydney*). [[Paper](https://arxiv.org/abs/2204.08446)][[PyTorch](https://github.com/ViTAE-Transformer/ViTAE-VSA)]
-* **?**: "Expediting Large-Scale Vision Transformer for Dense Prediction without Fine-tuning", NeurIPS (*Microsoft*). [[Paper](https://arxiv.org/abs/2210.01035)]
+* **?**: "Expediting Large-Scale Vision Transformer for Dense Prediction without Fine-tuning", NeurIPS, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2210.01035)]
 * **Ortho**: "Orthogonal Transformer: An Efficient Vision Transformer Backbone with Token Orthogonalization", NeurIPS, 2022 (*CAS*). [[Paper](https://openreview.net/forum?id=GGtH47T31ZC)]
 * **PerViT**: "Peripheral Vision Transformer", NeurIPS, 2022 (*POSTECH*). [[Paper](https://arxiv.org/abs/2206.06801)]
 * **LITv2**: "Fast Vision Transformers with HiLo Attention", NeurIPS, 2022 (*Monash University*). [[Paper](https://arxiv.org/abs/2205.13213)][[PyTorch](https://github.com/zip-group/LITv2)]
@@ -303,7 +304,7 @@ Feel free to share this list with others!
 * **LVT**: "Lite Vision Transformer with Enhanced Self-Attention", CVPR, 2022 (*Adobe*). [[Paper](https://arxiv.org/abs/2112.10809)][[PyTorch](https://github.com/Chenglin-Yang/LVT)]
 * **A-ViT**: "A-ViT: Adaptive Tokens for Efficient Vision Transformer", CVPR, 2022 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2112.07658)][[Website](https://a-vit.github.io/)]
 * **PS-ViT**: "Patch Slimming for Efficient Vision Transformers", CVPR, 2022 (*Huawei*). [[Paper](https://arxiv.org/abs/2106.02852)]
-* **Rev-MViT**: "Reversible Vision Transformers", CVPR, 2022 (*Meta*). [[Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Mangalam_Reversible_Vision_Transformers_CVPR_2022_paper.html)][[PyTorch](https://github.com/facebookresearch/mvit)]
+* **Rev-MViT**: "Reversible Vision Transformers", CVPR, 2022 (*Meta*). [[Paper](https://arxiv.org/abs/2302.04869)][[PyTorch-1](https://github.com/karttikeya/minREV)][[PyTorch-2](https://github.com/facebookresearch/slowfast)]
 * **AdaViT**: "AdaViT: Adaptive Vision Transformers for Efficient Image Recognition", CVPR, 2022 (*Fudan*). [[Paper](https://arxiv.org/abs/2111.15668)]
 * **DQS**: "Dynamic Query Selection for Fast Visual Perceiver", CVPRW, 2022 (*Sorbonne Universite', France*). [[Paper](https://arxiv.org/abs/2205.10873)]
 * **ATS**: "Adaptive Token Sampling For Efficient Vision Transformers", ECCV, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2111.15667)][[Website](https://adaptivetokensampling.github.io/)]
@@ -1422,6 +1423,7 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
     * **ARIC**: "Aesthetically Relevant Image Captioning", AAAI, 2023 (*Shenzhen University*). [[Paper](https://arxiv.org/abs/2211.15378)][[Code (in construction)](https://github.com/PengZai/ARIC)]
     * **UAIC**: "Uncertainty-Aware Image Captioning", AAAI, 2023 (*Meituan*). [[Paper](https://arxiv.org/abs/2211.16769)]
     * **LiMBeR**: "Linearly Mapping from Image to Text Space", ICLR, 2023 (*Brown University*). [[Paper](https://arxiv.org/abs/2209.15162)]
+    * **Re-ViLM**: "Re-ViLM: Retrieval-Augmented Visual Language Model for Zero and Few-Shot Image Captioning", arXiv, 2023 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2302.04858)]
 * Video:
     * **Masked Transformers**: "End-to-End Dense Video Captioning with Masked Transformer", CVPR, 2018 (*UMich + Salesforce*). [[Paper](https://openaccess.thecvf.com/content_cvpr_2018/html/Zhou_End-to-End_Dense_Video_CVPR_2018_paper.html)][[PyTorch](https://github.com/salesforce/densecap)]
     * **BMT**: "A Better Use of Audio-Visual Cues: Dense Video Captioning with Bi-modal Transformer", BMVC, 2020 (*Tampere University, Finland*). [[Paper](https://arxiv.org/abs/2005.08271)][[PyTorch](https://github.com/v-iashin/bmt)][[Website](https://iashin.ai/bmt)]
@@ -1880,7 +1882,7 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
     * **?**: "The Right to Talk: An Audio-Visual Transformer Approach", ICCV, 2021 (*University of Arkansas*). [[Paper](https://arxiv.org/abs/2108.03256)]
 * Multi-task:
     * **UniT**: "Transformer is All You Need: Multimodal Multitask Learning with a Unified Transformer", ICCV, 2021 (*Facebook*). [[Paper](https://arxiv.org/abs/2102.10772)][[PyTorch](https://github.com/facebookresearch/mmf)][[Website](https://mmf.sh/)]
-    * **Pix2Seq**: "A Unified Sequence Interface for Vision Tasks", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2206.07669)]
+    * **Pix2Seq**: "A Unified Sequence Interface for Vision Tasks", NeurIPS, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2206.07669)]
     * **Unified-IO**: "Unified-IO: A Unified Model for Vision, Language, and Multi-Modal Tasks", ICLR, 2023 (*AI2*). [[Paper](https://arxiv.org/abs/2206.08916)][[JAX](https://github.com/allenai/unified-io-inference)][[Website](https://unified-io.allenai.org/)]
     * **LAVIS**: "LAVIS: A Library for Language-Vision Intelligence", arXiv, 2022 (*Salesforce*). [[Paper](https://arxiv.org/abs/2209.09019)][[PyTorch](https://github.com/salesforce/LAVIS)]
 * Language-based Video Editing:
