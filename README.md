@@ -1859,6 +1859,7 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
     * **PLOT**: "Prompt Learning with Optimal Transport for Vision-Language Models", ICLR, 2023 (*CMU*). [[Paper](https://arxiv.org/abs/2210.01253)]
     * **?**: "Visual Classification via Description from Large Language Models", ICLR, 2023 (*Columbia*). [[Paper](https://arxiv.org/abs/2210.07183)]
     * **CSP**: "Learning to Compose Soft Prompts for Compositional Zero-Shot Learning", ICLR, 2023 (*Brown University*). [[Paper](https://arxiv.org/abs/2204.03574)][[PyTorch](https://github.com/BatsResearch/csp)]
+    * **ZPE**: "A Simple Zero-shot Prompt Weighting Technique to Improve Prompt Ensembling in Text-Image Models", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2302.06235)]
 * Zero-Shot:
     * **SMs**: "Socratic Models: Composing Zero-Shot Multimodal Reasoning with Language", ICLR, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2204.00598)][[GitHub](https://github.com/google-research/google-research/tree/master/socraticmodels)][[Website](https://socraticmodels.github.io/)]
 * X-Shot:
