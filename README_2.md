@@ -165,6 +165,7 @@
     * **TORE**: "TORE: Token Reduction for Efficient Human Mesh Recovery with Transformer", arXiv, 2022 (*HKU*). [[Paper](https://arxiv.org/abs/2211.10705)]
     * **MPT**: "MPT: Mesh Pre-Training with Transformers for Human Pose and Mesh Reconstruction", arXiv, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2211.13357)]
     * **ViTPose+**: "ViTPose+: Vision Transformer Foundation Model for Generic Body Pose Estimation", arXiv, 2022 (*The University of Sydney*). [[Paper](https://arxiv.org/abs/2212.04246)][[PyTorch](https://github.com/ViTAE-Transformer/ViTPose)]
+    * **POT**: "Pose-Oriented Transformer with Uncertainty-Guided Refinement for 2D-to-3D Human Pose Estimation", AAAI, 2023 (*Shanghai Jiao Tong*). [[Paper](https://arxiv.org/abs/2302.07408)]
     * **INT**: "Capturing the Motion of Every Joint: 3D Human Pose and Shape Estimation with Independent Tokens", ICLR, 2023 (*Southeast University*). [[Paper](https://openreview.net/forum?id=0Vv4H4Ch0la)]
 * Hands:
     * **Hand-Transformer**: "Hand-Transformer: Non-Autoregressive Structured Modeling for 3D Hand Pose Estimation", ECCV, 2020 (*Kwai*). [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/4836_ECCV_2020_paper.php)]
@@ -682,6 +683,7 @@
 * **Frido**: "Frido: Feature Pyramid Diffusion for Complex Scene Image Synthesis", AAAI, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2208.13753)][[PyTorch](https://github.com/davidhalladay/Frido)]
 * **GNT**: "Is Attention All That NeRF Needs?", ICLR, 2023 (*UT Austin*). [[Paper](https://arxiv.org/abs/2207.13298)][[PyTorch](https://github.com/VITA-Group/GNT)][[Website](https://vita-group.github.io/GNT/)]
 * **DPC**: "Discrete Predictor-Corrector Diffusion Models for Image Synthesis", ICLR, 2023 (*Google*). [[Paper](https://openreview.net/forum?id=VM8batVBWvg)]
+* **VQ3D**: "VQ3D: Learning a 3D-Aware Generative Model on ImageNet", arXiv, 2023 (*Stanford*). [[Paper](https://arxiv.org/abs/2302.06833)][[Website](https://kylesargent.github.io/vq3d)]
 
 [[Back to Overview](#overview)]
 
@@ -1483,6 +1485,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
 * **Transformer-LS**: "Long-Short Transformer: Efficient Transformers for Language and Vision", arXiv, 2021 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2107.02192)]
 * **PoNet**: "PoNet: Pooling Network for Efficient Token Mixing in Long Sequences", ICLR, 2022 (*Alibaba*). [[Paper](https://arxiv.org/abs/2110.02442)]
 * **Paramixer**: "Paramixer: Parameterizing Mixing Links in Sparse Factors Works Better Than Dot-Product Self-Attention", CVPR, 2022 (*Norwegian University of Science and Technology, Norway*). [[Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Yu_Paramixer_Parameterizing_Mixing_Links_in_Sparse_Factors_Works_Better_Than_CVPR_2022_paper.html)]
+* **FNet**: "FNet: Mixing Tokens with Fourier Transforms", NAACL, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2105.03824)][[JAX](https://github.com/google-research/google-research/tree/master/f_net)]
 * **ContextPool**: "Efficient Representation Learning via Adaptive Context Pooling", ICML, 2022 (*Apple*). [[Paper](https://arxiv.org/abs/2207.01844)]
 * **LARA**: "Linear Complexity Randomized Self-attention Mechanism", ICML, 2022 (*Bytedance*). [[Paper](https://arxiv.org/abs/2204.04667)]
 * **Flowformer**: "Flowformer: Linearizing Transformers with Conservation Flows", ICML, 2022 (*Tsinghua University*). [[Paper](https://arxiv.org/abs/2202.06258)][[PyTorch](https://github.com/thuml/Flowformer)]
