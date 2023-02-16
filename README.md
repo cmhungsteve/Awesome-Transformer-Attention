@@ -599,7 +599,6 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **Sequencer**: "Sequencer: Deep LSTM for Image Classification", arXiv, 2022 (*Rikkyo University, Japan*). [[Paper](https://arxiv.org/abs/2205.01972)]
 * **MogaNet**: "Efficient Multi-order Gated Aggregation Network", arXiv, 2022 (*Westlake University, China*). [[Paper](https://arxiv.org/abs/2211.03295)]
 * **Conv2Former**: "Conv2Former: A Simple Transformer-Style ConvNet for Visual Recognition", arXiv, 2022 (*ByteDance*). [[Paper](https://arxiv.org/abs/2211.11943)]
-* **FNet**: "FNet: Mixing Tokens with Fourier Transforms", NAACL, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2105.03824)][[JAX](https://github.com/google-research/google-research/tree/master/f_net)]
 * **CoC**: "Image as Set of Points", ICLR, 2023 (*Northeastern*). [[Paper](https://openreview.net/forum?id=awnvqZja69)][[PyTorch](https://anonymous.4open.science/r/ContextCluster)]
 * **SLaK**: "More ConvNets in the 2020s: Scaling up Kernels Beyond 51x51 using Sparsity", ICLR, 2023 (*UT Austin*). [[Paper](https://arxiv.org/abs/2207.03620)][[PyTorch](https://github.com/VITA-Group/SLaK)]
 
@@ -1914,6 +1913,7 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
 * 3D:
     * **3DRefTransformer**: "3DRefTransformer: Fine-Grained Object Identification in Real-World Scenes Using Natural Language", WACV, 2022 (*KAUST*). [[Paper](https://openaccess.thecvf.com/content/WACV2022/html/Abdelreheem_3DRefTransformer_Fine-Grained_Object_Identification_in_Real-World_Scenes_Using_Natural_Language_WACV_2022_paper.html)][[Website](https://vision-cair.github.io/3dreftransformer/)]
     * **EDA**: "EDA: Explicit Text-Decoupling and Dense Alignment for 3D Visual and Language Learning", arXiv, 2022 (*Peking University*). [[Paper](https://arxiv.org/abs/2209.14941)]
+    * **ConceptFusion**: "ConceptFusion: Open-set Multimodal 3D Mapping", arXiv, 2023 (*MIT*). [[Paper](https://arxiv.org/abs/2302.07241)][[Website](https://concept-fusion.github.io/)]
 * Speech Recognition:
     * **AV-HuBERT**: "Robust Self-Supervised Audio-Visual Speech Recognition", arXiv, 2022 (*Meta*). [[Paper](https://arxiv.org/abs/2201.01763)][[PyTorch](https://github.com/facebookresearch/av_hubert)]
     * **?**: "Transformer-Based Video Front-Ends for Audio-Visual Speech Recognition", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2201.10439)]
