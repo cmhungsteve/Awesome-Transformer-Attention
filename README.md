@@ -1066,6 +1066,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **eX-ViT**: "eX-ViT: A Novel eXplainable Vision Transformer for Weakly Supervised Semantic Segmentation", arXiv, 2022 (*La Trobe University, Australia*). [[Paper](https://arxiv.org/abs/2207.05358)]
     * **TCC**: "Transformer-CNN Cohort: Semi-supervised Semantic Segmentation by the Best of Both Students", arXiv, 2022 (*Alibaba*). [[Paper](https://arxiv.org/abs/2209.02178)]
     * **SemFormer**: "SemFormer: Semantic Guided Activation Transformer for Weakly Supervised Semantic Segmentation", arXiv, 2022 (*Shenzhen University*). [[Paper](https://arxiv.org/abs/2210.14618)][[PyTorch](https://github.com/JLChen-C/SemFormer)]
+    * **CLIP-ES**: "CLIP is Also an Efficient Segmenter: A Text-Driven Approach for Weakly Supervised Semantic Segmentation", arXiv, 2022 (**). [[Paper](https://arxiv.org/abs/2212.09506)][[PyTorch](https://github.com/linyq2117/CLIP-ES)]
 * Cross-Domain:
     * **DAFormer**: "DAFormer: Improving Network Architectures and Training Strategies for Domain-Adaptive Semantic Segmentation", CVPR, 2022 (*ETHZ*). [[Paper](https://arxiv.org/abs/2111.14887)][[PyTorch](https://github.com/lhoyer/DAFormer)]
     * **?**: "Exploring Consistency in Cross-Domain Transformer for Domain Adaptive Semantic Segmentation", arXiv, 2022 (*Boston*). [[Paper](https://arxiv.org/abs/2211.14703)]
