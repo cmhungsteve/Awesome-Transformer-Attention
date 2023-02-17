@@ -108,6 +108,7 @@ Feel free to share this list with others!
 ---
 
 ## Survey
+* "Efficiency 360: Efficient Vision Transformers", arXiv, 2023 (*IBM*). [[Paper](https://arxiv.org/abs/2302.08374)][[GitHub](https://github.com/badripatro/efficient360)]
 * "A Survey on Visual Transformer", TPAMI, 2022 (*Huawei*). [[Paper](https://arxiv.org/abs/2012.12556)] 
 * "A Comprehensive Study of Vision Transformers on Dense Prediction Tasks", VISAP, 2022 (*NavInfo Europe, Netherlands*). [[Paper](https://arxiv.org/abs/2201.08683)]
 * "Vision-and-Language Pretrained Models: A Survey", IJCAI, 2022 (*The University of Sydney*). [[Paper](https://arxiv.org/abs/2204.07356)]
