@@ -684,6 +684,7 @@
 * **GNT**: "Is Attention All That NeRF Needs?", ICLR, 2023 (*UT Austin*). [[Paper](https://arxiv.org/abs/2207.13298)][[PyTorch](https://github.com/VITA-Group/GNT)][[Website](https://vita-group.github.io/GNT/)]
 * **DPC**: "Discrete Predictor-Corrector Diffusion Models for Image Synthesis", ICLR, 2023 (*Google*). [[Paper](https://openreview.net/forum?id=VM8batVBWvg)]
 * **VQ3D**: "VQ3D: Learning a 3D-Aware Generative Model on ImageNet", arXiv, 2023 (*Stanford*). [[Paper](https://arxiv.org/abs/2302.06833)][[Website](https://kylesargent.github.io/vq3d)]
+* **LayoutDiffuse**: "LayoutDiffuse: Adapting Foundational Diffusion Models for Layout-to-Image Generation", arXiv, 2023 (*Amazon*). [[Paper](https://arxiv.org/abs/2302.08908)]
 
 [[Back to Overview](#overview)]
 
