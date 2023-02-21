@@ -1874,6 +1874,7 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
     * **?**: "Meta Learning to Bridge Vision and Language Models for Multimodal Few-Shot Learning", ICLR, 2023 (*University of Amsterdam*). [[Paper](https://openreview.net/forum?id=3oWo92cQyxL)]
 * Segmentation:
     * **VLT**: "Vision-Language Transformer and Query Generation for Referring Segmentation", ICCV, 2021 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2108.05565)][[Tensorflow](https://github.com/henghuiding/Vision-Language-Transformer)]
+    * **CRIS**: "CRIS: CLIP-Driven Referring Image Segmentation", CVPR, 2022 (*University of Sydney*). [[Paper](https://arxiv.org/abs/2111.15174)]
     * **LAVT**: "LAVT: Language-Aware Vision Transformer for Referring Image Segmentation", CVPR, 2022 (*Oxford*). [[Paper](https://arxiv.org/abs/2112.02244)]
     * **ReSTR**: "ReSTR: Convolution-free Referring Image Segmentation Using Transformers", CVPR, 2022 (*POSTECH*). [[Paper](https://arxiv.org/abs/2203.16768)][[Website](http://cvlab.postech.ac.kr/research/restr/)]
     * **VLT**: "VLT: Vision-Language Transformer and Query Generation for Referring Segmentation", TPAMI, 2022 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2210.15871)]
