@@ -418,6 +418,7 @@
     * **FedAPT**: "Cross-domain Federated Adaptive Prompt Tuning for CLIP", arXiv, 2022 (*Fudan University*). [[Paper](https://arxiv.org/abs/2211.07864)]
     * **MetaPrompt**: "Learning Domain Invariant Prompt for Vision-Language Models", arXiv, 2022 (*Tongji University + Microsoft*). [[Paper](https://arxiv.org/abs/2212.04196)]
     * **GMoE**: "Sparse Mixture-of-Experts are Domain Generalizable Learners", ICLR, 2023 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2206.04046)]
+    * **StyLIP**: "StyLIP: Multi-Scale Style-Conditioned Prompt Learning for CLIP-based Domain Generalization", arXiv, 2023 (*TUM*). [[Paper](https://arxiv.org/abs/2302.09251)]
 * X-Supervised:
     * **Semiformer**: "Semi-Supervised Vision Transformers", ECCV, 2022 (*Fudan University*). [[Paper](https://arxiv.org/abs/2111.11067)][[PyTorch](https://github.com/wengzejia1/Semiformer)]
     * **SVL-Adapter**: "SVL-Adapter: Self-Supervised Adapter for Vision-Language Pretrained Models", BMVC, 2022 (*UCL*). [[Paper](https://arxiv.org/abs/2210.03794)][[Code (in construction)](https://github.com/omipan/svl_adapter)]
