@@ -110,6 +110,7 @@ Feel free to share this list with others!
 ## Survey
 * "Efficiency 360: Efficient Vision Transformers", arXiv, 2023 (*IBM*). [[Paper](https://arxiv.org/abs/2302.08374)][[GitHub](https://github.com/badripatro/efficient360)]
 * "Transformer-based Generative Adversarial Networks in Computer Vision: A Comprehensive Survey", arXiv, 2023 (*Indian Institute of Information Technology*). [[Paper](https://arxiv.org/abs/2302.08641)]
+* "Large-scale Multi-Modal Pre-trained Models: A Comprehensive Survey", arXiv, 2023 (*Pengcheng Laboratory*). [[Paper](https://arxiv.org/abs/2302.10035)][[GitHub](https://github.com/wangxiao5791509/MultiModal_BigModels_Survey)]
 * "A Survey on Visual Transformer", TPAMI, 2022 (*Huawei*). [[Paper](https://arxiv.org/abs/2012.12556)] 
 * "A Comprehensive Study of Vision Transformers on Dense Prediction Tasks", VISAP, 2022 (*NavInfo Europe, Netherlands*). [[Paper](https://arxiv.org/abs/2201.08683)]
 * "Vision-and-Language Pretrained Models: A Survey", IJCAI, 2022 (*The University of Sydney*). [[Paper](https://arxiv.org/abs/2204.07356)]
@@ -1694,6 +1695,7 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
     * **VideoCoCa**: "Video-Text Modeling with Zero-Shot Transfer from Contrastive Captioners", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2212.04979)]
     * **i-Code**: "i-Code: An Integrative and Composable Multimodal Learning Framework", AAAI, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2205.01818)]
     * **TempCLR**: "TempCLR: Temporal Alignment Representation with Contrastive Learning", ICLR, 2023 (*Columbia*). [[Paper](https://arxiv.org/abs/2212.13738)]
+    * **STOA-VLP**: "STOA-VLP: Spatial-Temporal Modeling of Object and Action for Video-Language Pre-training", arXiv, 2023 (*Harbin Institute of Technology*). [[Papaer](https://arxiv.org/abs/2302.09736)]
 
 [[Back to Overview](#overview)]
 
