@@ -530,6 +530,7 @@ Feel free to share this list with others!
 * **?**: "Budgeted Training for Vision Transformer", ICLR, 2023 (*Tsinghua*). [[Paper](https://openreview.net/forum?id=sVzBN-DlJRi)]
 * **RobustCNN**: "Can CNNs Be More Robust Than Transformers?", ICLR, 2023 (*UC Santa Cruz + JHU*). [[Paper](https://arxiv.org/abs/2206.03452)][[PyTorch](https://github.com/UCSC-VLAA/RobustCNN)]
 * **DMAE**: "Denoising Masked AutoEncoders are Certifiable Robust Vision Learners", ICLR, 2023 (*Peking*). [[Paper](https://arxiv.org/abs/2210.06983)][[PyTorch](https://github.com/quanlin-wu/dmae)]
+* **CertViT**: "CertViT: Certified Robustness of Pre-Trained Vision Transformers", arXiv, 2023 (*INRIA*). [[Paper](https://arxiv.org/abs/2302.10287)][[PyTorch](https://github.com/sagarverma/transformer-lipschitz)]
 #### Model Compression + Transformer
 * **ViT-quant**: "Post-Training Quantization for Vision Transformer", NeurIPS, 2021 (*Huawei*). [[Paper](https://arxiv.org/abs/2106.14156)]
 * **VTP**: "Visual Transformer Pruning", arXiv, 2021 (*Huawei*). [[Paper](https://arxiv.org/abs/2104.08500)]
@@ -946,7 +947,6 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **VSPW**: "Semantic Segmentation on VSPW Dataset through Aggregation of Transformer Models", arXiv, 2021 (*Xiaomi*). [[Paper](https://arxiv.org/abs/2109.01316)]
 * **SDTP**: "SDTP: Semantic-aware Decoupled Transformer Pyramid for Dense Image Prediction", arXiv, 2021 (*?*). [[Paper](https://arxiv.org/abs/2109.08963)]
 * **TopFormer**: "TopFormer: Token Pyramid Transformer for Mobile Semantic Segmentation", CVPR, 2022 (*Tencent*). [[Paper](https://arxiv.org/abs/2204.05525)][[PyTorch](https://github.com/hustvl/TopFormer)]
-* **GroupViT**: "GroupViT: Semantic Segmentation Emerges from Text Supervision", CVPR, 2022 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2202.11094)][[Website](https://jerryxu.net/GroupViT/)][[PyTorch](https://github.com/NVlabs/GroupViT)]
 * **HRViT**: "Multi-Scale High-Resolution Vision Transformer for Semantic Segmentation", CVPR, 2022 (*Meta*). [[Paper](https://arxiv.org/abs/2111.01236)][[PyTorch](https://github.com/facebookresearch/HRViT)]
 * **GReaT**: "Graph Reasoning Transformer for Image Parsing", ACMMM, 2022 (*HKUST*). [[Paper](https://arxiv.org/abs/2209.09545)]
 * **SegDeformer**: "A Transformer-Based Decoder for Semantic Segmentation with Multi-level Context Mining", ECCV, 2022 (*Shanghai Jiao Tong + Huawei*). [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/383_ECCV_2022_paper.php)][[PyTorch](https://github.com/lygsbw/segdeformer)]
@@ -1011,8 +1011,10 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **ZegFormer**: "Decoupling Zero-Shot Semantic Segmentation", CVPR, 2022 (*Wuhan University*). [[Paper](https://arxiv.org/abs/2112.07910)][[PyTorch](https://github.com/dingjiansw101/ZegFormer)]
     * **CLIPSeg**: "Image Segmentation Using Text and Image Prompts", CVPR, 2022 (*University of Göttingen, Germany*). [[Paper](https://arxiv.org/abs/2112.10003)][[PyTorch](https://github.com/timojl/clipseg)]
     * **DenseCLIP**: "DenseCLIP: Language-Guided Dense Prediction with Context-Aware Prompting", CVPR, 2022 (*Tsinghua University*). [[Paper](https://arxiv.org/abs/2112.01518)][[PyTorch](https://github.com/raoyongming/DenseCLIP)][[Website](https://denseclip.ivg-research.xyz/)]
+    * **GroupViT**: "GroupViT: Semantic Segmentation Emerges from Text Supervision", CVPR, 2022 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2202.11094)][[Website](https://jerryxu.net/GroupViT/)][[PyTorch](https://github.com/NVlabs/GroupViT)]
     * **MaskCLIP**: "Extract Free Dense Labels from CLIP", ECCV, 2022 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2112.01071)][[PyTorch](https://github.com/chongzhou96/MaskCLIP)][[Website](https://www.mmlab-ntu.com/project/maskclip/)]
     * **ZegCLIP**: "ZegCLIP: Towards Adapting CLIP for Zero-shot Semantic Segmentation", arXiv, 2022 (*The University of Adelaide, Australia*). [[Paper](https://arxiv.org/abs/2212.03588)][[PyTorch (in construction)](https://github.com/ZiqinZhou66/ZegCLIP)]
+    * **ViewCo**: "ViewCo: Discovering Text-Supervised Segmentation Masks via Multi-View Semantic Consistency", ICLR, 2023 (*Sun Yat-sen University*). [[Paper](https://arxiv.org/abs/2302.10307)][[Code (in construction)](https://github.com/pzhren/ViewCo)]
 * Multi-Modal:
     * **UCTNet**: "UCTNet: Uncertainty-Aware Cross-Modal Transformer Network for Indoor RGB-D Semantic Segmentation", ECCV, 2022 (*Lehigh University, Pennsylvania*). [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/7082_ECCV_2022_paper.php)]
     * **CMX**: "CMX: Cross-Modal Fusion for RGB-X Semantic Segmentation with Transformers", arXiv, 2022 (*Karlsruhe Institute of Technology, Germany*). [[Paper](https://arxiv.org/abs/2203.04838)][[PyTorch](https://github.com/huaaaliu/RGBX_Semantic_Segmentation)]
@@ -1068,7 +1070,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **eX-ViT**: "eX-ViT: A Novel eXplainable Vision Transformer for Weakly Supervised Semantic Segmentation", arXiv, 2022 (*La Trobe University, Australia*). [[Paper](https://arxiv.org/abs/2207.05358)]
     * **TCC**: "Transformer-CNN Cohort: Semi-supervised Semantic Segmentation by the Best of Both Students", arXiv, 2022 (*Alibaba*). [[Paper](https://arxiv.org/abs/2209.02178)]
     * **SemFormer**: "SemFormer: Semantic Guided Activation Transformer for Weakly Supervised Semantic Segmentation", arXiv, 2022 (*Shenzhen University*). [[Paper](https://arxiv.org/abs/2210.14618)][[PyTorch](https://github.com/JLChen-C/SemFormer)]
-    * **CLIP-ES**: "CLIP is Also an Efficient Segmenter: A Text-Driven Approach for Weakly Supervised Semantic Segmentation", arXiv, 2022 (**). [[Paper](https://arxiv.org/abs/2212.09506)][[PyTorch](https://github.com/linyq2117/CLIP-ES)]
+    * **CLIP-ES**: "CLIP is Also an Efficient Segmenter: A Text-Driven Approach for Weakly Supervised Semantic Segmentation", arXiv, 2022 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2212.09506)][[PyTorch](https://github.com/linyq2117/CLIP-ES)]
 * Cross-Domain:
     * **DAFormer**: "DAFormer: Improving Network Architectures and Training Strategies for Domain-Adaptive Semantic Segmentation", CVPR, 2022 (*ETHZ*). [[Paper](https://arxiv.org/abs/2111.14887)][[PyTorch](https://github.com/lhoyer/DAFormer)]
     * **?**: "Exploring Consistency in Cross-Domain Transformer for Domain Adaptive Semantic Segmentation", arXiv, 2022 (*Boston*). [[Paper](https://arxiv.org/abs/2211.14703)]
