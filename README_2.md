@@ -490,6 +490,7 @@
     * **AttnDistill**: "Attention Distillation: self-supervised vision transformer students need more guidance", BMVC, 2022 (*UAB, Spain*). [[Paper](https://arxiv.org/abs/2210.00944)][[PyTorch](https://github.com/wangkai930418/attndistill)]
     * **ViTKD**: "ViTKD: Practical Guidelines for ViT feature knowledge distillation", arXiv, 2022 (*IDEA*). [[Paper](https://arxiv.org/abs/2209.02432)][[PyTorch (in construction)](https://github.com/yzd-v/cls_KD)]
     * **?**: "Adaptive Attention Link-based Regularization for Vision Transformers", arXiv, 2022 (* Chung-Ang University, Korea*). [[Paper](https://arxiv.org/abs/2211.13852)]
+    * **MaskedKD**: "MaskedKD: Efficient Distillation of Vision Transformers with Masked Images", arXiv, 2023 (*POSTECH*). [[Paper](https://arxiv.org/abs/2302.10494)]
 * Clustering:
     * **VTCC**: "Vision Transformer for Contrastive Clustering", arXiv, 2022 (*Sun Yat-sen University, China*). [[Paper](https://arxiv.org/abs/2206.12925)]
 * Novel Category Discovery:
@@ -1068,6 +1069,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
 * **CASHformer**: "CASHformer: Cognition Aware SHape Transformer for Longitudinal Analysis", arXiv, 2022 (*TUM*). [[Paper](https://arxiv.org/abs/2207.02091)]
 * **ARST**: "ARST: Auto-Regressive Surgical Transformer for Phase Recognition from Laparoscopic Videos", arXiv, 2022 (*Shanghai Jiao Tong University*). [[Paper](https://arxiv.org/abs/2209.01148)]
 * **SSiT**: "SSiT: Saliency-guided Self-supervised Image Transformer for Diabetic Retinopathy Grading", arXiv, 2022 (*Southern University of Science and Techonology, China*). [[Paper](https://arxiv.org/abs/2210.10969)][[Code (in construction)](https://github.com/YijinHuang/SSiT)]
+* **MulGT**: "MulGT: Multi-task Graph-Transformer with Task-aware Knowledge Injection and Domain Knowledge-driven Pooling for Whole Slide Image Analysis", AAAI, 2023 (*HKU*). [[Paper](https://arxiv.org/abs/2302.10574)]
 
 [[Back to Overview](#overview)]
 
