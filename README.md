@@ -1016,6 +1016,19 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **MaskCLIP**: "Extract Free Dense Labels from CLIP", ECCV, 2022 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2112.01071)][[PyTorch](https://github.com/chongzhou96/MaskCLIP)][[Website](https://www.mmlab-ntu.com/project/maskclip/)]
     * **ZegCLIP**: "ZegCLIP: Towards Adapting CLIP for Zero-shot Semantic Segmentation", arXiv, 2022 (*The University of Adelaide, Australia*). [[Paper](https://arxiv.org/abs/2212.03588)][[PyTorch (in construction)](https://github.com/ZiqinZhou66/ZegCLIP)]
     * **ViewCo**: "ViewCo: Discovering Text-Supervised Segmentation Masks via Multi-View Semantic Consistency", ICLR, 2023 (*Sun Yat-sen University*). [[Paper](https://arxiv.org/abs/2302.10307)][[Code (in construction)](https://github.com/pzhren/ViewCo)]
+    * **ZegOT**: "ZegOT: Zero-shot Segmentation Through Optimal Transport of Text Prompts", arXiv, 2023 (*KAIST*). [[Paper](https://arxiv.org/abs/2301.12171)]
+    * **SimCon**: "SimCon Loss with Multiple Views for Text Supervised Semantic Segmentation", arXiv, 2023 (*Amazon*). [[Paper](https://arxiv.org/abs/2302.03432)]
+* Open-World/Vocabulary:
+    * **ViL-Seg**: "Open-world Semantic Segmentation via Contrasting and Clustering Vision-Language Embedding", ECCV, 2022 (*CUHK*). [[Paper](https://arxiv.org/abs/2207.08455)]
+    * **OVSS**: "A Simple Baseline for Open Vocabulary Semantic Segmentation with Pre-trained Vision-language Model", ECCV, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2112.14757)][[PyTorch](https://github.com/MendelXu/zsseg.baseline)]
+    * **OpenSeg**: "Scaling Open-Vocabulary Image Segmentation with Image-Level Labels", ECCV, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2112.12143)]
+    * **Fusioner**: "Open-vocabulary Semantic Segmentation with Frozen Vision-Language Models", BMVC, 2022 (*Shanghai Jiao Tong University*). [[Paper](https://arxiv.org/abs/2210.15138)][[Website](https://yyh-rain-song.github.io/Fusioner_webpage/)]
+    * **OVSeg**: "Open-Vocabulary Semantic Segmentation with Mask-adapted CLIP", arXiv, 2022 (*Meta*). [[Paper](https://arxiv.org/abs/2210.04150)][[Website](https://jeff-liangf.github.io/projects/ovseg/)]
+    * **SegCLIP**: "SegCLIP: Patch Aggregation with Learnable Centers for Open-Vocabulary Semantic Segmentation", arXiv, 2022 (*JD*). [[Paper](https://arxiv.org/abs/2211.14813)][[Code (in construction)](https://github.com/ArrowLuo/SegCLIP)]
+    * **TCL**: "Learning to Generate Text-grounded Mask for Open-world Semantic Segmentation from Only Image-Text Pairs", arXiv, 2022 (*Kakao*). [[Paper](https://arxiv.org/abs/2212.00785)][[Code (in construction)](https://github.com/kakaobrain/tcl)]
+    * **PACL**: "Open Vocabulary Semantic Segmentation with Patch Aligned Contrastive Learning", arXiv, 2022 (*Meta*). [[Paper](https://arxiv.org/abs/2212.04994)]
+    * **OVSegmentor**: "Learning Open-vocabulary Semantic Segmentation Models From Natural Language Supervision", arXiv, 2023 (*Fudan University*). [[Paper](https://arxiv.org/abs/2301.09121)]
+    * **CGG**: "Betrayed by Captions: Joint Caption Grounding and Generation for Open Vocabulary Instance Segmentation", arXiv, 2023 (*SenseTime*). [[Paper](https://arxiv.org/abs/2301.00805)][[Code (in construction)](https://github.com/jzwu48033552/betrayed-by-captions)]
 * Multi-Modal:
     * **UCTNet**: "UCTNet: Uncertainty-Aware Cross-Modal Transformer Network for Indoor RGB-D Semantic Segmentation", ECCV, 2022 (*Lehigh University, Pennsylvania*). [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/7082_ECCV_2022_paper.php)]
     * **CMX**: "CMX: Cross-Modal Fusion for RGB-X Semantic Segmentation with Transformers", arXiv, 2022 (*Karlsruhe Institute of Technology, Germany*). [[Paper](https://arxiv.org/abs/2203.04838)][[PyTorch](https://github.com/huaaaliu/RGBX_Semantic_Segmentation)]
@@ -1109,14 +1122,6 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
     * **DINO-ViT-feature**: "Deep ViT Features as Dense Visual Descriptors", arXiv, 2022 (*Weizmann Institute of Science, Israel*). [[Paper](https://arxiv.org/abs/2112.05814)][[PyTorch](https://github.com/ShirAmir/dino-vit-features)][[Website](https://dino-vit-features.github.io/)]
 * Top-Down Semantic Segmentation:
     * **Trans4Map**: "Trans4Map: Revisiting Holistic Top-down Mapping from Egocentric Images to Allocentric Semantics with Vision Transformers", arXiv, 2022 (*Karlsruhe Institute of Technology, Germany*). [[Paper](https://arxiv.org/abs/2207.06205)]
-* Open-World/Vocabulary:
-    * **ViL-Seg**: "Open-world Semantic Segmentation via Contrasting and Clustering Vision-Language Embedding", ECCV, 2022 (*CUHK*). [[Paper](https://arxiv.org/abs/2207.08455)]
-    * **?**: "A Simple Baseline for Open Vocabulary Semantic Segmentation with Pre-trained Vision-language Model", ECCV, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2112.14757)][[PyTorch](https://github.com/MendelXu/zsseg.baseline)]
-    * **Fusioner**: "Open-vocabulary Semantic Segmentation with Frozen Vision-Language Models", BMVC, 2022 (*Shanghai Jiao Tong University*). [[Paper](https://arxiv.org/abs/2210.15138)][[Website](https://yyh-rain-song.github.io/Fusioner_webpage/)]
-    * **OVSeg**: "Open-Vocabulary Semantic Segmentation with Mask-adapted CLIP", arXiv, 2022 (*Meta*). [[Paper](https://arxiv.org/abs/2210.04150)][[Website](https://jeff-liangf.github.io/projects/ovseg/)]
-    * **SegCLIP**: "SegCLIP: Patch Aggregation with Learnable Centers for Open-Vocabulary Semantic Segmentation", arXiv, 2022 (*JD*). [[Paper](https://arxiv.org/abs/2211.14813)][[Code (in construction)](https://github.com/ArrowLuo/SegCLIP)]
-    * **TCL**: "Learning to Generate Text-grounded Mask for Open-world Semantic Segmentation from Only Image-Text Pairs", arXiv, 2022 (*Kakao*). [[Paper](https://arxiv.org/abs/2212.00785)][[Code (in construction)](https://github.com/kakaobrain/tcl)]
-    * **PACL**: "Open Vocabulary Semantic Segmentation with Patch Aligned Contrastive Learning", arXiv, 2022 (*Meta*). [[Paper](https://arxiv.org/abs/2212.04994)]
 * Surface Normal:
     * **Normal-Transformer**: "Normal Transformer: Extracting Surface Geometry from LiDAR Points Enhanced by Visual Semantics", arXiv, 2022 (*University of Technology Sydney*). [[Paper](https://arxiv.org/abs/2211.10580)]
 * Applications:
