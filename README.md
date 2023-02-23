@@ -703,6 +703,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **each-DETR**: "Teach-DETR: Better Training DETR with Teachers", arXiv, 2022 (*CUHK*). [[Paper](https://arxiv.org/abs/2211.11953)][[Code (in construction)](https://github.com/LeonHLJ/Teach-DETR)]
     * **Co-DETR**: "DETRs with Collaborative Hybrid Assignments Training", arXiv, 2022 (*SenseTime*). [[Paper](https://arxiv.org/abs/2211.12860)][[Code (in construction)](https://github.com/Sense-X/Co-DETR)]
     * **ViT-Adapter**: "ViT-Adapter: Exploring Plain Vision Transformer for Accurate Dense Predictions", ICLR, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2205.08534)][[PyTorch](https://github.com/czczup/ViT-Adapter)]
+    * **KS-DETR**: "KS-DETR: Knowledge Sharing in Attention Learning for Detection Transformer", arXiv, 2023 (*Toyota Technological Institute*). [[Paper](https://arxiv.org/abs/2302.11208)][[PyTorch](https://github.com/edocanonymous/KS-DETR)]
 * Transformer-based backbone:
     * **ViT-FRCNN**: "Toward Transformer-Based Object Detection", arXiv, 2020 (*Pinterest*). [[Paper](https://arxiv.org/abs/2012.09958)]
     * **WB-DETR**: "WB-DETR: Transformer-Based Detector Without Backbone", ICCV, 2021 (*CAS*). [[Paper](https://openaccess.thecvf.com/content/ICCV2021/html/Liu_WB-DETR_Transformer-Based_Detector_Without_Backbone_ICCV_2021_paper.html)]
@@ -1551,6 +1552,7 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
     * **VideoWhisperer**: "Grounded Video Situation Recognition", NeurIPS, 2022 (*IIIT Hyderabad, India*). [[Paper](https://arxiv.org/abs/2210.10828)][[Website](https://zeeshank95.github.io/grvidsitu)]
     * **VidGTR**: "Explore and Match: End-to-End Video Grounding with Transformer", arXiv, 2022 (*KAIST*). [[Paper](https://arxiv.org/abs/2201.10168)]
     * **?**: "Language-free Training for Zero-shot Video Grounding", WACV, 2023 (*Yonsei University*). [[Paper](https://arxiv.org/abs/2210.12977)]
+    * **VidLN**: "Connecting Vision and Language with Video Localized Narratives", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2302.11217)][[Website (in construction)](https://google.github.io/video-localized-narratives/)]
 * 3D:
     * **ViL3DRel**: "Language Conditioned Spatial Relation Reasoning for 3D Object Grounding", NeurIPS, 2022 (*INRIA*). [[Paper](https://arxiv.org/abs/2211.09646)][[Website](https://cshizhe.github.io/projects/vil3dref.html)]
     * **LAR**: "Look Around and Refer: 2D Synthetic Semantics Knowledge Distillation for 3D Visual Grounding", NeurIPS, 2022 (*KAUST*). [[Paper](https://arxiv.org/abs/2211.14241)][[Website](https://eslambakr.github.io/LAR.github.io/)]
