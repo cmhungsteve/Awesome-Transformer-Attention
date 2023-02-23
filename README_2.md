@@ -708,7 +708,7 @@
 * **TECO**: "Temporally Consistent Video Transformer for Long-Term Video Prediction", arXiv, 2022 (*Berkeley*). [[Paper](https://arxiv.org/abs/2210.02396)][[Jax](https://github.com/wilson1yan/teco)][[Website](https://wilson1yan.github.io/teco/index.html)]
 * **SlotFormer**: "SlotFormer: Unsupervised Visual Dynamics Simulation with Object-Centric Models", arXiv, 2022 (*University of Toronto*). [[Paper](https://arxiv.org/abs/2210.05861)][[Website](https://slotformer.github.io/)]
 * **MAGVIT**: "MAGVIT: Masked Generative Video Transformer", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2212.05199)][[Code (in construction)](https://github.com/MAGVIT/magvit)][[Website](https://magvit.cs.cmu.edu/)]
-* **Human-MotionFormer**: "Human MotionFormer: Transferring Human Motions with Vision Transformers", ICLR, 2023 (*HKUST + Huya*). [[Paper](https://openreview.net/forum?id=lQVpasnQS62)]
+* **Human-MotionFormer**: "Human MotionFormer: Transferring Human Motions with Vision Transformers", ICLR, 2023 (*HKUST + Huya*). [[Paper](https://arxiv.org/abs/2302.11306)][[Code (in construction)](https://github.com/KumapowerLIU/Human-MotionFormer)]
 
 [[Back to Overview](#overview)]
 
