@@ -107,6 +107,7 @@
 * **EPCL**: "Frozen CLIP Model is Efficient Point Cloud Backbone", arXiv, 2022 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2212.04098)]
 * **ULIP**: "ULIP: Learning Unified Representation of Language, Image and Point Cloud for 3D Understanding", arXiv, 2022 (*Salesforce*). [[Paper](https://arxiv.org/abs/2212.05171)][[Website](https://tycho-xue.github.io/ULIP/)]
 * **ACT**: "Autoencoders as Cross-Modal Teachers: Can Pretrained 2D Image Transformers Help 3D Representation Learning?", ICLR, 2023 (*Megvii*). [[Paper](https://arxiv.org/abs/2212.08320)][[PyTorch](https://github.com/RunpeiDong/ACT)]
+* **Text4Point**: "Joint Representation Learning for Text and 3D Point Cloud", arXiv, 2023 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2301.07584)][[Code (in construction)](https://github.com/LeapLabTHU/Text4Point)]
 
 [[Back to Overview](#overview)]
 
