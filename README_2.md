@@ -1386,7 +1386,8 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **SDF-Former**: "Monocular Scene Reconstruction with 3D SDF Transformers", ICLR, 2023 (*Alibaba*). [[Paper](https://arxiv.org/abs/2301.13510)][[Website](https://weihaosky.github.io/sdfformer/)]
 * 3D Scene:
     * **OpenScene**: "OpenScene: 3D Scene Understanding with Open Vocabularies", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2211.15654)][[Website](https://pengsongyou.github.io/openscene)]
-    * **?**: "Language-driven Open-Vocabulary 3D Scene Understanding", arXiv, 2022 (*ByteDance*). [[Paper](https://arxiv.org/abs/2211.16312)] 
+    * **PLA**: "Language-driven Open-Vocabulary 3D Scene Understanding", arXiv, 2022 (*ByteDance*). [[Paper](https://arxiv.org/abs/2211.16312)][[Code (in construction)](https://github.com/CVMI-Lab/PLA)]
+    * **VoxFormer**: "VoxFormer: Sparse Voxel Transformer for Camera-based 3D Semantic Scene Completion", arXiv, 2023 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2302.12251)][[Code (in construction)](https://github.com/NVlabs/VoxFormer)]
 * 360 Scene:
     * **?**: "Improving 360 Monocular Depth Estimation via Non-local Dense Prediction Transformer and Joint Supervised and Self-supervised Learning", AAAI, 2022 (*Seoul National University*). [[Paper](https://arxiv.org/abs/2109.10563)][[PyTorch](https://github.com/yuniw18/Joint_360depth)]
     * **PAVER**: "Panoramic Vision Transformer for Saliency Detection in 360° Videos", ECCV, 2022 (*Seoul National University*). [[Paper](https://arxiv.org/abs/2209.08956)]
