@@ -1384,6 +1384,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **PlaneFormers**: "PlaneFormers: From Sparse View Planes to 3D Reconstruction", ECCV, 2022 (*UMich*). [[Paper](https://arxiv.org/abs/2208.04307)][[PyTorch](https://github.com/samiragarwala/PlaneFormers)][[Website](https://samiragarwala.github.io/PlaneFormers/)]
     * **3D-C2FT**: "3D-C2FT: Coarse-to-fine Transformer for Multi-view 3D Reconstruction", arXiv, 2022 (*Korea Institute of Science and Technology*). [[Paper](https://arxiv.org/abs/2205.14575)]
     * **SDF-Former**: "Monocular Scene Reconstruction with 3D SDF Transformers", ICLR, 2023 (*Alibaba*). [[Paper](https://arxiv.org/abs/2301.13510)][[Website](https://weihaosky.github.io/sdfformer/)]
+    * **UMIFormer**: "UMIFormer: Mining the Correlations between Similar Tokens for Multi-View 3D Reconstruction", arXiv, 2023 (*Macau University of Science and Technology*). [[Paper](https://arxiv.org/abs/2302.13987)]
 * 3D Scene:
     * **OpenScene**: "OpenScene: 3D Scene Understanding with Open Vocabularies", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2211.15654)][[Website](https://pengsongyou.github.io/openscene)]
     * **PLA**: "Language-driven Open-Vocabulary 3D Scene Understanding", arXiv, 2022 (*ByteDance*). [[Paper](https://arxiv.org/abs/2211.16312)][[Code (in construction)](https://github.com/CVMI-Lab/PLA)]
