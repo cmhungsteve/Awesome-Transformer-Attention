@@ -107,6 +107,7 @@
 * **EPCL**: "Frozen CLIP Model is Efficient Point Cloud Backbone", arXiv, 2022 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2212.04098)]
 * **ULIP**: "ULIP: Learning Unified Representation of Language, Image and Point Cloud for 3D Understanding", arXiv, 2022 (*Salesforce*). [[Paper](https://arxiv.org/abs/2212.05171)][[Website](https://tycho-xue.github.io/ULIP/)]
 * **ACT**: "Autoencoders as Cross-Modal Teachers: Can Pretrained 2D Image Transformers Help 3D Representation Learning?", ICLR, 2023 (*Megvii*). [[Paper](https://arxiv.org/abs/2212.08320)][[PyTorch](https://github.com/RunpeiDong/ACT)]
+* **ProxyFormer**: "ProxyFormer: Proxy Alignment Assisted Point Cloud Completion with Missing Part Sensitive Transformer", CVPR, 2023 (*Nanjing University of Aeronautics and Astronautics*). [[Paper](https://arxiv.org/abs/2302.14435)][[PyTorch](https://github.com/I2-Multimedia-Lab/ProxyFormer)]
 * **Text4Point**: "Joint Representation Learning for Text and 3D Point Cloud", arXiv, 2023 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2301.07584)][[Code (in construction)](https://github.com/LeapLabTHU/Text4Point)]
 
 [[Back to Overview](#overview)]
@@ -265,6 +266,7 @@
 * **CLIP-ReID**: "CLIP-ReID: Exploiting Vision-Language Model for Image Re-Identification without Concrete Text Labels", arXiv, 2022 (*East China Normal University*). [[Paper](https://arxiv.org/abs/2211.13977)]
 * **TMGF**: "Transformer Based Multi-Grained Features for Unsupervised Person Re-Identification", WACVW, 2023 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2211.12280)][[Code (in construction)](https://github.com/RikoLi/WACV23-workshop-TMGF)]
 * **PMT**: "Learning Progressive Modality-shared Transformers for Effective Visible-Infrared Person Re-identification", AAAI, 2023 (*Jiangsu University*). [[Paper](https://arxiv.org/abs/2212.00226)][[Code (in construction)](https://github.com/hulu88/PMT)]
+* **DC-Former**: "DC-Former: Diverse and Compact Transformer for Person Re-Identification", AAAI, 2023 (*Ant Group*). [[Paper](https://arxiv.org/abs/2302.14335)][[PyTorch](https://github.com/ant-research/Diverse-and-Compact-Transformer)]
 
 [[Back to Overview](#overview)]
 
@@ -398,7 +400,7 @@
     * **Convpass**: "Convolutional Bypasses Are Better Vision Transformer Adapters", arXiv, 2022 (*Peking University*). [[Paper](https://arxiv.org/abs/2207.07039)][[Pytorch](https://github.com/JieShibo/PETL-ViT)]
     * **FacT**: "FacT: Factor-Tuning for Lightweight Adaptation on Vision Transformer", AAAI, 2023 (*Peking*). [[Paper](https://arxiv.org/abs/2212.03145)][[Pytorch](https://github.com/JieShibo/PETL-ViT)]
     * **Consolidator**: "Consolidator: Mergable Adapter with Group Connections for Vision Transformer", ICLR, 2023 (*Tsinghua*). [[Paper](https://openreview.net/forum?id=J_Cja7cpgW)]
-* Domain Adaptation/Generalization:
+* Domain Adaptation/Domain Generalization/Federated Learning:
     * **TransDA**: "Transformer-Based Source-Free Domain Adaptation", arXiv, 2021 (*Haerbin Institute of Technology*). [[Paper](https://arxiv.org/abs/2105.14138)][[PyTorch](https://github.com/ygjwd12345/TransDA)]
     * **TVT**: "TVT: Transferable Vision Transformer for Unsupervised Domain Adaptation", arXiv, 2021 (*UT Arlington + Kuaishou*). [[Paper](https://arxiv.org/abs/2108.05988)]
     * **ResTran**: "Discovering Spatial Relationships by Transformers for Domain Generalization", arXiv, 2021 (*MBZUAI*). [[Paper](https://arxiv.org/abs/2108.10046)]
@@ -420,6 +422,7 @@
     * **MetaPrompt**: "Learning Domain Invariant Prompt for Vision-Language Models", arXiv, 2022 (*Tongji University + Microsoft*). [[Paper](https://arxiv.org/abs/2212.04196)]
     * **GMoE**: "Sparse Mixture-of-Experts are Domain Generalizable Learners", ICLR, 2023 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2206.04046)]
     * **StyLIP**: "StyLIP: Multi-Scale Style-Conditioned Prompt Learning for CLIP-based Domain Generalization", arXiv, 2023 (*TUM*). [[Paper](https://arxiv.org/abs/2302.09251)]
+    * **FedCLIP**: "FedCLIP: Fast Generalization and Personalization for CLIP in Federated Learning", arXiv, 2023 (*CAS*). [[Paper](https://arxiv.org/abs/2302.13485)][[PyTorch](https://github.com/microsoft/PersonalizedFL)]
 * X-Supervised:
     * **Semiformer**: "Semi-Supervised Vision Transformers", ECCV, 2022 (*Fudan University*). [[Paper](https://arxiv.org/abs/2111.11067)][[PyTorch](https://github.com/wengzejia1/Semiformer)]
     * **SVL-Adapter**: "SVL-Adapter: Self-Supervised Adapter for Vision-Language Pretrained Models", BMVC, 2022 (*UCL*). [[Paper](https://arxiv.org/abs/2210.03794)][[Code (in construction)](https://github.com/omipan/svl_adapter)]
@@ -485,6 +488,7 @@
     * **BatchFormerV2**: "BatchFormerV2: Exploring Sample Relationships for Dense Representation Learning", arXiv, 2022 (*The University of Sydney*). [[Paper](https://arxiv.org/abs/2204.01254)]
     * **LiVT**: "Learning Imbalanced Data with Vision Transformers", arXiv, 2022 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2212.02015)][[PyTorch (in construction)](https://github.com/XuZhengzhuo/LiVT)]
     * **LPT**: "LPT: Long-tailed Prompt Tuning for Image Classification", ICLR, 2023 (*Harbin Institute of Technology*). [[Paper](https://arxiv.org/abs/2210.01033)]
+    * **PDC**: "Rethink Long-tailed Recognition with Vision Transforms", ICASSP, 2023 (*Tsinghua University*). [[Paper](https://arxiv.org/abs/2302.14284)]
 * Knowledge Distillation:
     * **?**: "Knowledge Distillation via the Target-aware Transformer", CVPR, 2022 (*Alibaba*). [[Paper](https://arxiv.org/abs/2205.10793)]
     * **DearKD**: "DearKD: Data-Efficient Early Knowledge Distillation for Vision Transformers", CVPR, 2022 (*JD*). [[Paper](https://arxiv.org/abs/2204.12997)]
@@ -688,6 +692,7 @@
 * **DPC**: "Discrete Predictor-Corrector Diffusion Models for Image Synthesis", ICLR, 2023 (*Google*). [[Paper](https://openreview.net/forum?id=VM8batVBWvg)]
 * **VQ3D**: "VQ3D: Learning a 3D-Aware Generative Model on ImageNet", arXiv, 2023 (*Stanford*). [[Paper](https://arxiv.org/abs/2302.06833)][[Website](https://kylesargent.github.io/vq3d)]
 * **LayoutDiffuse**: "LayoutDiffuse: Adapting Foundational Diffusion Models for Layout-to-Image Generation", arXiv, 2023 (*Amazon*). [[Paper](https://arxiv.org/abs/2302.08908)]
+* **StraIT**: "StraIT: Non-autoregressive Generation with Stratified Image Transformer", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2303.00750)]
 
 [[Back to Overview](#overview)]
 
@@ -1026,6 +1031,7 @@ Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2207.11553)][[Cod
 * **MF<sup>2</sup>-MVQA**: "MF<sup>2</sup>-MVQA: A Multi-stage Feature Fusion method for Medical Visual Question Answering", arXiv, 2022 (*University of Science and Technology Beijing*). [[Paper](https://arxiv.org/abs/2211.05991)]
 * **RoentGen**: "RoentGen: Vision-Language Foundation Model for Chest X-ray Generation", arXiv, 2022 (*Stanford*). [[Paper](https://arxiv.org/abs/2211.12737)]
 * **?**: "Medical Image Understanding with Pretrained Vision Language Models: A Comprehensive Study", ICLR, 2023 (*Sichuan University*). [[Paper](https://arxiv.org/abs/2209.15517)]
+* **RAMM**: "RAMM: Retrieval-augmented Biomedical Visual Question Answering with Multi-modal Pre-training", arXiv, 2023 (*Alibaba*). [[Paper](https://arxiv.org/abs/2303.00534)]
 
 
 [[Back to Overview](#overview)]
