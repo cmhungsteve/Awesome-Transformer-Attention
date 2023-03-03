@@ -829,6 +829,7 @@
 * **LOViS**: "LOViS: Learning Orientation and Visual Signals for Vision and Language Navigation", arXiv, 2022 (*Michigan State*). [[Paper](https://arxiv.org/abs/2209.12723)]
 * **IVLN**: "Iterative Vision-and-Language Navigation", arXiv, 2022 (*Oregon State University*). [[Paper](https://arxiv.org/abs/2210.03087)]
 * **BEVBert**: "BEVBert: Topo-Metric Map Pre-training for Language-guided Navigation", arXiv, 2022 (*CAS*). [[Paper](https://arxiv.org/abs/2212.04385)]
+* **MLANet**: "MLANet: Multi-Level Attention Network with Sub-instruction for Continuous Vision-and-Language Navigation", arXiv, 2023 (*Tongji University*). [[Paper](https://arxiv.org/abs/2303.01396)][[PyTorch](https://github.com/RavenKiller/MLA)]
 
 [[Back to Overview](#overview)]
 
@@ -1143,6 +1144,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **LoFTR-TensorRT**: "Local Feature Matching with Transformers for low-end devices", arXiv, 2022 (*?*). [[Paper](https://arxiv.org/abs/2202.00770)][[PyTorch](https://github.com/Kolkir/Coarse_LoFTR_TRT)]
     * **MatchFormer**: "MatchFormer: Interleaving Attention in Transformers for Feature Matching", arXiv, 2022 (*Karlsruhe Institute of Technology, Germany*). [[Paper](https://arxiv.org/abs/2203.09645)]
     * **OpenGlue**: "OpenGlue: Open Source Graph Neural Net Based Pipeline for Image Matching", arXiv, 2022 (*Ukrainian Catholic University*). [[Paper](https://arxiv.org/abs/2204.08870)][[PyTorch](https://github.com/ucuapps/OpenGlue)]
+    * **ParaFormer**: "ParaFormer: Parallel Attention Transformer for Efficient Feature Matching", AAAI, 2023 (*Southeast University, China*). [[Paper](https://arxiv.org/abs/2303.00941)]
 * Fine-grained:
     * **ViT-FGVC**: "Exploring Vision Transformers for Fine-grained Classification", CVPRW, 2021 (*Universidad de Valladolid*). [[Paper](https://arxiv.org/abs/2106.10587)]
     * **FFVT**: "Feature Fusion Vision Transformer for Fine-Grained Visual Categorization", BMVC, 2021 (*Griffith University, Australia*). [[Paper](https://arxiv.org/abs/2107.02341)][[PyTorch](https://github.com/Markin-Wang/FFVT)]
