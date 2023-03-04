@@ -108,6 +108,7 @@ Feel free to share this list with others!
 ---
 
 ## Survey
+* "Advances in Medical Image Analysis with Vision Transformers: A Comprehensive Review", arXiv, 2023 (*RWTH Aachen University, Germany*). [[Paper](https://arxiv.org/abs/2301.03505)][[GitHub](https://github.com/mindflow-institue/Awesome-Transformer)]
 * "Efficiency 360: Efficient Vision Transformers", arXiv, 2023 (*IBM*). [[Paper](https://arxiv.org/abs/2302.08374)][[GitHub](https://github.com/badripatro/efficient360)]
 * "Transformer-based Generative Adversarial Networks in Computer Vision: A Comprehensive Survey", arXiv, 2023 (*Indian Institute of Information Technology*). [[Paper](https://arxiv.org/abs/2302.08641)]
 * "Large-scale Multi-Modal Pre-trained Models: A Comprehensive Survey", arXiv, 2023 (*Pengcheng Laboratory*). [[Paper](https://arxiv.org/abs/2302.10035)][[GitHub](https://github.com/wangxiao5791509/MultiModal_BigModels_Survey)]
