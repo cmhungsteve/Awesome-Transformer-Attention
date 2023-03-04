@@ -918,11 +918,11 @@
 * **APFormer**: "The Lighter The Better: Rethinking Transformers in Medical Image Segmentation Through Adaptive Pruning", arXiv, 2022 (*Huazhong University of Science and Technology*). [[Paper](https://arxiv.org/abs/2206.14413)][[PyTorch](https://github.com/xianlin7/APFormer)]
 * **?**: "Transformer based Models for Unsupervised Anomaly Segmentation in Brain MR Images", arXiv, 2022 (*University of Rennes, France*). [[Paper](https://arxiv.org/abs/2207.02059)][[Tensorflow](https://github.com/ahmedgh970/Transformers_Unsupervised_Anomaly_Segmentation)]
 * **CKD-TransBTS**: "CKD-TransBTS: Clinical Knowledge-Driven Hybrid Transformer with Modality-Correlated Cross-Attention for Brain Tumor Segmentation", arXiv, 2022 (*South China University of Technology*). [[Paper](https://arxiv.org/abs/2207.07370)]
-* **HiFormer**: "HiFormer: Hierarchical Multi-scale Representations Using Transformers for Medical Image Segmentation", arXiv, 2022 (*Iran University of Science and Technology*). [[Paper](https://arxiv.org/abs/2207.08518)][[PyTorch](https://github.com/amirhossein-kz/HiFormer)]
+* **HiFormer**: "HiFormer: Hierarchical Multi-scale Representations Using Transformers for Medical Image Segmentation", WACV, 2023 (*Iran University of Science and Technology*). [[Paper](https://arxiv.org/abs/2207.08518)][[PyTorch](https://github.com/amirhossein-kz/HiFormer)]
 * **?**: "Contextual Attention Network: Transformer Meets U-Net", arXiv, 2022 (*RWTH Aachen University*). [[Paper](https://arxiv.org/abs/2203.01932)][[PyTorch](https://github.com/rezazad68/TMUnet)]
 * **HRSTNet**: "High-Resolution Swin Transformer for Automatic Medical Image Segmentation", arXiv, 2022 (*Xi'an University of
 Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2207.11553)][[Code (in construction)](https://github.com/auroua/HRSTNet)]
-* **TransNorm**: "TransNorm: Transformer Provides a Strong Spatial Normalization Mechanism for a Deep Segmentation Model", arXiv, 2022 (*Aachen University, Germany*). [[Paper](https://arxiv.org/abs/2207.13415)][[PyTorch](https://github.com/rezazad68/transnorm)]
+* **TransNorm**: "TransNorm: Transformer Provides a Strong Spatial Normalization Mechanism for a Deep Segmentation Model", IEEE Access, 2022 (*Aachen University, Germany*). [[Paper](https://arxiv.org/abs/2207.13415)][[PyTorch](https://github.com/rezazad68/transnorm)]
 * **?**: "When CNN Meet with ViT: Towards Semi-Supervised Learning for Multi-Class Medical Image Semantic Segmentation", arXiv, 2022 (*Oxford*). [[Paper](https://arxiv.org/abs/2208.06449)][[Code (in construction)](https://github.com/ziyangwang007/CV-SSL-MIS)]
 * **CM-MLP**: "CM-MLP: Cascade Multi-scale MLP with Axial Context Relation Encoder for Edge Segmentation of Medical Image", arXiv, 2022 (*Zhengzhou University*). [[Paper](https://arxiv.org/abs/2208.10701)]
 * **CATS**: "Cats: Complementary CNN and Transformer Encoders for Segmentation", arXiv, 2022 (*Vanderbilt University, Nashville*). [[Paper](https://arxiv.org/abs/2208.11572)]
@@ -937,6 +937,7 @@ Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2207.11553)][[Cod
 * **ConvTransSeg**: "ConvTransSeg: A Multi-resolution Convolution-Transformer Network for Medical Image Segmentation", arXiv, 2022 (*University of Nottingham, UK*). [[Paper](https://arxiv.org/abs/2210.07072)]
 * **CS-Unet**: "Optimizing Vision Transformers for Medical Image Segmentation and Few-Shot Domain Adaptation", arXiv, 2022 (*University of Glasgow, UK*). [[Paper](https://arxiv.org/abs/2210.08066)]
 * **UNETR++**: "UNETR++: Delving into Efficient and Accurate 3D Medical Image Segmentation", arXiv, 2022 (*MBZUAI*). [[Paper](https://arxiv.org/abs/2212.04497)][[PyTorch](https://github.com/Amshaker/unetr_plus_plus)]
+* **Att-SwinU-Net**: "Attention Swin U-Net: Cross-Contextual Attention Mechanism for Skin Lesion Segmentation", IEEE ISBI, 2023 (*Shahid Beheshti University, Iran*). [[Paper](https://arxiv.org/abs/2210.16898)][[PyTorch](https://github.com/NITR098/AttSwinUNet)]
 * **3DUX-Net**: "3D UX-Net: A Large Kernel Volumetric ConvNet Modernizing Hierarchical Transformer for Medical Image Segmentation", ICLR, 2023 (*Vanderbilt University*). [[Paper](https://arxiv.org/abs/2209.15076)][[PyTorch](https://github.com/MASILab/3DUX-Net)]
 
 [[Back to Overview](#overview)]
