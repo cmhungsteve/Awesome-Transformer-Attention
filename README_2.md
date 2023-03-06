@@ -1319,6 +1319,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **BEVSegFormer**: "BEVSegFormer: Bird's Eye View Semantic Segmentation From Arbitrary Camera Rigs", WACV, 2023 (*Nullmax, China*). [[Paper](https://arxiv.org/abs/2203.04050)]
     * **MapTR**: "MapTR: Structured Modeling and Learning for Online Vectorized HD Map Construction", ICLR, 2023 (*Horizon Robotics*). [[Paper](https://arxiv.org/abs/2208.14437)][[PyTorch](https://github.com/hustvl/MapTR)]
     * **BEVDistill**: "BEVDistill: Cross-Modal BEV Distillation for Multi-View 3D Object Detection", ICLR, 2023 (*USTC*). [[Paper](https://arxiv.org/abs/2211.09386)][[Code (in constrcution)](https://github.com/zehuichen123/BEVDistill)]
+    * **VE-Prompt**: "Visual Exemplar Driven Task-Prompting for Unified Perception in Autonomous Driving", CVPR, 2023 (*Sun Yat-sen University*). [[Paper](https://arxiv.org/abs/2303.01788)]
 * Trajectory Prediction:
     * **mmTransformer**: "Multimodal Motion Prediction with Stacked Transformers", CVPR, 2021 (*CUHK + SenseTime*). [[Paper](https://arxiv.org/abs/2103.11624)][[Code (in construction)](https://github.com/decisionforce/mmTransformer)][[Website](https://decisionforce.github.io/mmTransformer/)]
     * **AgentFormer**: "AgentFormer: Agent-Aware Transformers for Socio-Temporal Multi-Agent Forecasting", ICCV, 2021 (*CMU*). [[Paper](https://arxiv.org/abs/2103.14023)][[PyTorch](https://github.com/Khrylx/AgentFormer)][[Website](https://www.ye-yuan.com/agentformer/)]
