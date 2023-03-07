@@ -1132,7 +1132,9 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **FashionVLP**: "FashionVLP: Vision Language Transformer for Fashion Retrieval With Feedback", CVPR, 2022 (*Amazon*). [[Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Goenka_FashionVLP_Vision_Language_Transformer_for_Fashion_Retrieval_With_Feedback_CVPR_2022_paper.html)]
     * **FashionViL**: "FashionViL: Fashion-Focused Vision-and-Language Representation Learning", ECCV, 2022 (*University of Surrey, UK*). [[Paper](https://arxiv.org/abs/2207.08150)][[PyTorch](https://github.com/BrandonHanx/mmf)]
     * **OutfitTransformer**: "OutfitTransformer: Learning Outfit Representations for Fashion Recommendation", arXiv, 2022 (*Amazon*). [[Paper](https://arxiv.org/abs/2204.04812)]
+    * **FaD-VLP**: "FaD-VLP: Fashion Vision-and-Language Pre-training towards Unified Retrieval and Captioning", EMNLP, 2022 (*Meta*). [[Paper](https://arxiv.org/abs/2210.15028)]
     * **Fashionformer**: "Fashionformer: A simple, Effective and Unified Baseline for Human Fashion Segmentation and Recognition", ECCV, 2022 (*Peking*). [[Paper](https://arxiv.org/abs/2204.04654)][[PyTorch](https://github.com/xushilin1/FashionFormer)]
+    * **FAME-ViL**: "FAME-ViL: Multi-Tasking Vision-Language Model for Heterogeneous Fashion Tasks", CVPR, 2023 (*University of Surrey*). [[Paper](https://arxiv.org/abs/2303.02483)][[Code (in construction)](https://github.com/BrandonHanx/FAME-ViL)]
     * **MVLT**: "Masked Vision-Language Transformer in Fashion", Machine Intelligence Research, 2023 (*Alibaba*). [[Paper](https://arxiv.org/abs/2210.15110)][[PyTorch](https://github.com/GewelsJI/MVLT)]
 * Feature Matching:
     * **SuperGlue**: "SuperGlue: Learning Feature Matching with Graph Neural Networks", CVPR, 2020 (*Magic Leap*). [[Paper](https://arxiv.org/abs/1911.11763)][[PyTorch](https://github.com/magicleap/SuperGluePretrainedNetwork)]
