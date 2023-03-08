@@ -108,6 +108,7 @@ Feel free to share this list with others!
 ---
 
 ## Survey
+* "Foundation Models for Decision Making: Problems, Methods, and Opportunities", arXiv, 2023 (*Berkeley + Google*). [[Paper](https://arxiv.org/abs/2303.04129)]
 * "Advances in Medical Image Analysis with Vision Transformers: A Comprehensive Review", arXiv, 2023 (*RWTH Aachen University, Germany*). [[Paper](https://arxiv.org/abs/2301.03505)][[GitHub](https://github.com/mindflow-institue/Awesome-Transformer)]
 * "Efficiency 360: Efficient Vision Transformers", arXiv, 2023 (*IBM*). [[Paper](https://arxiv.org/abs/2302.08374)][[GitHub](https://github.com/badripatro/efficient360)]
 * "Transformer-based Generative Adversarial Networks in Computer Vision: A Comprehensive Survey", arXiv, 2023 (*Indian Institute of Information Technology*). [[Paper](https://arxiv.org/abs/2302.08641)]
@@ -612,6 +613,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **Conv2Former**: "Conv2Former: A Simple Transformer-Style ConvNet for Visual Recognition", arXiv, 2022 (*ByteDance*). [[Paper](https://arxiv.org/abs/2211.11943)]
 * **CoC**: "Image as Set of Points", ICLR, 2023 (*Northeastern*). [[Paper](https://arxiv.org/abs/2303.01494)][[PyTorch](https://github.com/ma-xu/Context-Cluster)]
 * **SLaK**: "More ConvNets in the 2020s: Scaling up Kernels Beyond 51x51 using Sparsity", ICLR, 2023 (*UT Austin*). [[Paper](https://arxiv.org/abs/2207.03620)][[PyTorch](https://github.com/VITA-Group/SLaK)]
+* **DFFormer**: "FFT-based Dynamic Token Mixer for Vision", arXiv, 2023 (*Rikkyo University, Japan*). [[Paper](https://arxiv.org/abs/2303.03932)][[Code (in construction)](https://github.com/okojoalg/dfformer)]
 
 [[Back to Overview](#overview)]
 
@@ -1838,6 +1840,7 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
     * **T2P**: "Zero-Shot Text-to-Parameter Translation for Game Character Auto-Creation", CVPR, 2023 (*Fuxi AI Lab*). [[Paper](https://arxiv.org/abs/2303.01311)]
     * **E4T**: "Designing an Encoder for Fast Personalization of Text-to-Image Models", arXiv, 2023 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2302.12228)][[Website](https://tuning-encoder.github.io/)]
     * **?**: "Controlled and Conditional Text to Image Generation with Diffusion Prior", arXiv, 2023 (*Adobe*). [[Paper](https://arxiv.org/abs/2302.11710)]
+    * **Lformer**: "Lformer: Text-to-Image Generation with L-shape Block Parallel Decoding", arXiv, 2023 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2303.03800)]
 * Video:
     * **Make-A-Video**: "Make-A-Video: Text-to-Video Generation without Text-Video Data", arXiv, 2022 (*Meta*). [[Paper](https://arxiv.org/abs/2209.14792)]
     * **Imagen-Video**: "Imagen Video: High Definition Video Generation with Diffusion Models", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2210.02303)][[Website](https://imagen.research.google/video/)]
