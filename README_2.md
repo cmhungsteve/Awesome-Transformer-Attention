@@ -829,6 +829,7 @@
 * **LOViS**: "LOViS: Learning Orientation and Visual Signals for Vision and Language Navigation", arXiv, 2022 (*Michigan State*). [[Paper](https://arxiv.org/abs/2209.12723)]
 * **IVLN**: "Iterative Vision-and-Language Navigation", arXiv, 2022 (*Oregon State University*). [[Paper](https://arxiv.org/abs/2210.03087)]
 * **BEVBert**: "BEVBert: Topo-Metric Map Pre-training for Language-guided Navigation", arXiv, 2022 (*CAS*). [[Paper](https://arxiv.org/abs/2212.04385)]
+* **Meta-Explore**: "Meta-Explore: Exploratory Hierarchical Vision-and-Language Navigation Using Scene Object Spectrum Grounding", CVPR, 2023 (*Seoul National University*). [[Paper](https://arxiv.org/abs/2303.04077)][[Website](https://rllab-snu.github.io/projects/Meta-Explore/doc.html)]
 * **MLANet**: "MLANet: Multi-Level Attention Network with Sub-instruction for Continuous Vision-and-Language Navigation", arXiv, 2023 (*Tongji University*). [[Paper](https://arxiv.org/abs/2303.01396)][[PyTorch](https://github.com/RavenKiller/MLA)]
 
 [[Back to Overview](#overview)]
@@ -1201,6 +1202,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **ATEK**: "ATEK: Augmenting Transformers with Expert Knowledge for Indoor Layout Synthesis", arXiv, 2022 (*New Jersey Institute of Technology*). [[Paper](https://arxiv.org/abs/2202.00185)]
     * **?**: "Extreme Floorplan Reconstruction by Structure-Hallucinating Transformer Cascades", arXiv, 2022 (*Simon Fraser*). [[Paper](https://arxiv.org/abs/2206.00645)]
     * **UniLayout**: "UniLayout: Taming Unified Sequence-to-Sequence Transformers for Graphic Layout Generation", arXiv, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2208.08037)]
+    * **DLT**: "DLT: Conditioned layout generation with Joint Discrete-Continuous Diffusion Layout Transformer", arXiv, 2023 (*Wix.com*). [[Paper](https://arxiv.org/abs/2303.03755)]
 * Livestock Monitoring:
     * **STARFormer**: "Livestock Monitoring with Transformer", BMVC, 2021 (*IIT Dhanbad*). [[Paper](https://arxiv.org/abs/2111.00801)]
 * Metric Learning:
