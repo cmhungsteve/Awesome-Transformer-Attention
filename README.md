@@ -480,6 +480,7 @@ Feel free to share this list with others!
 * **VisualAtom**: "Visual Atoms: Pre-training Vision Transformers with Sinusoidal Waves", CVPR, 2023 (*National Institute of Advanced Industrial Science and Technology (AIST), Japan*). [[Paper](https://arxiv.org/abs/2303.01112)][[Website (in construction)](https://masora1030.github.io/Visual-Atoms-Pre-training-Vision-Transformers-with-Sinusoidal-Waves/)]
 * **LGSimCLR**: "Learning Visual Representations via Language-Guided Sampling", arXiv, 2023 (*Michigan*). [[Paper](https://arxiv.org/abs/2302.12248)][[PyTorch](https://github.com/mbanani/lgssl)]
 * **CountBench**: "Teaching CLIP to Count to Ten", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2302.12066)]
+* **CCViT**: "Centroid-centered Modeling for Efficient Vision Transformer Pre-training", arXiv, 2023 (*Wuhan University*). [[Paper](https://arxiv.org/abs/2303.04664)]
 #### Robustness + Transformer
 * **ViT-Robustness**: "Understanding Robustness of Transformers for Image Classification", ICCV, 2021 (*Google*). [[Paper](https://arxiv.org/abs/2103.14586)]
 * **SAGA**: "On the Robustness of Vision Transformers to Adversarial Examples", ICCV, 2021 (*University of Connecticut*). [[Paper](https://arxiv.org/abs/2104.02610)]
@@ -1046,6 +1047,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **CGG**: "Betrayed by Captions: Joint Caption Grounding and Generation for Open Vocabulary Instance Segmentation", arXiv, 2023 (*SenseTime*). [[Paper](https://arxiv.org/abs/2301.00805)][[Code (in construction)](https://github.com/jzwu48033552/betrayed-by-captions)]
     * **SAN**: "Side Adapter Network for Open-Vocabulary Semantic Segmentation", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2302.12242)]
     * **WLSegNet**: "A Language-Guided Benchmark for Weakly Supervised Open Vocabulary Semantic Segmentation", arXiv, 2023 (*IIT, New Delhi*). [[Paper](https://arxiv.org/abs/2302.14163)]
+    * **ODISE**: "Open-Vocabulary Panoptic Segmentation with Text-to-Image Diffusion Models", arXiv, 2023 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2303.04803)][[Code (in construction)](https://github.com/NVlabs/ODISE)][[Website](https://jerryxu.net/ODISE/)]
 * Multi-Modal:
     * **UCTNet**: "UCTNet: Uncertainty-Aware Cross-Modal Transformer Network for Indoor RGB-D Semantic Segmentation", ECCV, 2022 (*Lehigh University, Pennsylvania*). [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/7082_ECCV_2022_paper.php)]
     * **CMX**: "CMX: Cross-Modal Fusion for RGB-X Semantic Segmentation with Transformers", arXiv, 2022 (*Karlsruhe Institute of Technology, Germany*). [[Paper](https://arxiv.org/abs/2203.04838)][[PyTorch](https://github.com/huaaaliu/RGBX_Semantic_Segmentation)]
@@ -1129,6 +1131,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **M2F3D**: "M2F3D: Mask2Former for 3D Instance Segmentation", CVPRW, 2022 (*RWTH Aachen University, Germany*). [[Paper](https://jonasschult.github.io/Mask3D/assets/workshop_paper.pdf)][[Website](https://jonasschult.github.io/Mask3D/)]
     * **3DSeg**: "3D Segmenter: 3D Transformer based Semantic Segmentation via 2D Panoramic Distillation", ICLR, 2023 (*The University of Tokyo*). [[Paper](https://openreview.net/forum?id=4dZeBJ83oxk)]
     * **Analogical-Network**: "Analogical Networks for Memory-Modulated 3D Parsing", ICLR, 2023 (*CMU*). [[Paper](https://openreview.net/forum?id=SRIQZTh0IK)]
+    * **CLIP-FO3D**: "CLIP-FO3D: Learning Free Open-world 3D Scene Representations from 2D Dense CLIP", arXiv, 2023 (*Tsinghua University*). [[Paper](https://arxiv.org/abs/2303.04748)]
 * Multi-Task:
     * **MTFormer**: "MTFormer: Multi-task Learning via Transformer and Cross-Task Reasoning", ECCV, 2022 (*CUHK*). [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/1353_ECCV_2022_paper.php)]
     * **MQTransformer**: "Multi-Task Learning with Multi-Query Transformer for Dense Prediction", arXiv, 2022 (*Wuhan University*). [[Paper](https://arxiv.org/abs/2205.14354)]
@@ -1942,6 +1945,7 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
     * **LAVIS**: "LAVIS: A Library for Language-Vision Intelligence", arXiv, 2022 (*Salesforce*). [[Paper](https://arxiv.org/abs/2209.09019)][[PyTorch](https://github.com/salesforce/LAVIS)]
 * Language-based Video Editing:
     * **M<sup>3</sup>L**: "Language-based Video Editing via Multi-Modal Multi-Level Transformer", CVPR, 2022 (*UCSB*). [[Paper](https://arxiv.org/abs/2104.01122)]
+    * **Video-P2P**: "Video-P2P: Video Editing with Cross-attention Control", arXiv, 2023 (*CUHK*). [[Paper](https://arxiv.org/abs/2303.04761)][[Website](https://video-p2p.github.io/)]
 * Video Summarization:
     * **GPT2MVS**: "GPT2MVS: Generative Pre-trained Transformer-2 for Multi-modal Video Summarization", ICMR, 2021 (*BBC*). [[Paper](https://arxiv.org/abs/2104.12465)]
     * **QVHighlights**: "QVHighlights: Detecting Moments and Highlights in Videos via Natural Language Queries", NeurIPS, 2021 (*UNC*). [[Paper](https://arxiv.org/abs/2107.09609)][[PyTorch](https://github.com/jayleicn/moment_detr)]
@@ -2011,6 +2015,8 @@ Technology + Baidu*). [[Paper](https://arxiv.org/abs/2212.04970)][[Website](http
     * **LED-Bert**: "Transformer-based Localization from Embodied Dialog with Large-scale Pre-training", arXiv, 2022 (*Georgia Tech*). [[Paper](https://arxiv.org/abs/2210.04864)]
 * Object Captioning:
     * **GRiT**: "GRiT: A Generative Region-to-text Transformer for Object Understanding", arXiv, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2212.00280)][[PyTorch](https://github.com/JialianW/GRiT)]
+* Conversation:
+    * **Visual-ChatGPT**: "Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2303.04671)]
 
 [[Back to Overview](#overview)]
 
