@@ -267,6 +267,7 @@
 * **TMGF**: "Transformer Based Multi-Grained Features for Unsupervised Person Re-Identification", WACVW, 2023 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2211.12280)][[Code (in construction)](https://github.com/RikoLi/WACV23-workshop-TMGF)]
 * **PMT**: "Learning Progressive Modality-shared Transformers for Effective Visible-Infrared Person Re-identification", AAAI, 2023 (*Jiangsu University*). [[Paper](https://arxiv.org/abs/2212.00226)][[Code (in construction)](https://github.com/hulu88/PMT)]
 * **DC-Former**: "DC-Former: Diverse and Compact Transformer for Person Re-Identification", AAAI, 2023 (*Ant Group*). [[Paper](https://arxiv.org/abs/2302.14335)][[PyTorch](https://github.com/ant-research/Diverse-and-Compact-Transformer)]
+* **TP-TPS**: "Exploiting the Textual Potential from Vision-Language Pre-training for Text-based Person Search", arXiv, 2023 (*Tencent*). [[Paper](https://arxiv.org/abs/2303.04497)]
 
 [[Back to Overview](#overview)]
 
