@@ -1,5 +1,7 @@
 ## (back to [README.md](README.md) for other categories)
 ## Overview
+
+- [Citation](#citation)
 - [Other High-level Vision Tasks](#other-high-level-vision-tasks)
     - [Point Cloud / 3D](#point-cloud--3d)
     - [Pose Estimation](#pose-estimation)
@@ -34,6 +36,22 @@
     - [NLP](#attention-for-nlp)
     - [Both](#attention-for-both)
     - [Others](#attention-for-others)
+
+---
+
+## Citation
+If you find this repository useful, please consider citing this list:
+```
+@misc{chen2022transformerpaperlist,
+    title = {Ultimate awesome paper list: transformer and attention},
+    author = {Chen, Min-Hung},
+    journal = {GitHub repository},
+    url = {https://github.com/cmhungsteve/Awesome-Transformer-Attention},
+    year = {2022},
+}
+```
+
+---
 
 ## Other High-level Vision Tasks
 ### Point Cloud / 3D
