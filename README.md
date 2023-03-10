@@ -20,6 +20,7 @@ Feel free to share this list with others!
 ---
 ## Overview
 
+- [Citation](#citation)
 - [Survey](#survey)
 - [Image Classification / Backbone](#image-classification--backbone)
     - [Replace Conv w/ Attention](#replace-conv-w-attention)
@@ -65,7 +66,6 @@ Feel free to share this list with others!
     - [Multi-Modal Generation](#multi-modal-generation)
     - [Visual Document Understanding](#visual-document-understanding)
     - [Other Multi-Modal Tasks](#other-multi-modal-tasks)
-- [Citation](#citation)
 - [References](#references)
 
 ------ (The following papers are move to [README_2.md](README_2.md)) ------
@@ -104,6 +104,20 @@ Feel free to share this list with others!
     - [NLP](README_2.md#attention-for-nlp)
     - [Both](README_2.md#attention-for-both)
     - [Others](README_2.md#attention-for-others)
+
+---
+
+## Citation
+If you find this repository useful, please consider citing this list:
+```
+@misc{chen2022transformerpaperlist,
+    title = {Ultimate awesome paper list: transformer and attention},
+    author = {Chen, Min-Hung},
+    journal = {GitHub repository},
+    url = {https://github.com/cmhungsteve/Awesome-Transformer-Attention},
+    year = {2022},
+}
+```
 
 ---
 
@@ -1043,11 +1057,11 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **TCL**: "Learning to Generate Text-grounded Mask for Open-world Semantic Segmentation from Only Image-Text Pairs", arXiv, 2022 (*Kakao*). [[Paper](https://arxiv.org/abs/2212.00785)][[Code (in construction)](https://github.com/kakaobrain/tcl)]
     * **PACL**: "Open Vocabulary Semantic Segmentation with Patch Aligned Contrastive Learning", arXiv, 2022 (*Meta*). [[Paper](https://arxiv.org/abs/2212.04994)]
     * **ZegCLIP**: "ZegCLIP: Towards Adapting CLIP for Zero-shot Semantic Segmentation", arXiv, 2022 (*The University of Adelaide, Australia*). [[Paper](https://arxiv.org/abs/2212.03588)][[PyTorch (in construction)](https://github.com/ZiqinZhou66/ZegCLIP)]
+    * **ODISE**: "Open-Vocabulary Panoptic Segmentation with Text-to-Image Diffusion Models", CVPR, 2023 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2303.04803)][[Code (in construction)](https://github.com/NVlabs/ODISE)][[Website](https://jerryxu.net/ODISE/)]
     * **OVSegmentor**: "Learning Open-vocabulary Semantic Segmentation Models From Natural Language Supervision", arXiv, 2023 (*Fudan University*). [[Paper](https://arxiv.org/abs/2301.09121)]
     * **CGG**: "Betrayed by Captions: Joint Caption Grounding and Generation for Open Vocabulary Instance Segmentation", arXiv, 2023 (*SenseTime*). [[Paper](https://arxiv.org/abs/2301.00805)][[Code (in construction)](https://github.com/jzwu48033552/betrayed-by-captions)]
     * **SAN**: "Side Adapter Network for Open-Vocabulary Semantic Segmentation", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2302.12242)]
     * **WLSegNet**: "A Language-Guided Benchmark for Weakly Supervised Open Vocabulary Semantic Segmentation", arXiv, 2023 (*IIT, New Delhi*). [[Paper](https://arxiv.org/abs/2302.14163)]
-    * **ODISE**: "Open-Vocabulary Panoptic Segmentation with Text-to-Image Diffusion Models", arXiv, 2023 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2303.04803)][[Code (in construction)](https://github.com/NVlabs/ODISE)][[Website](https://jerryxu.net/ODISE/)]
 * Multi-Modal:
     * **UCTNet**: "UCTNet: Uncertainty-Aware Cross-Modal Transformer Network for Indoor RGB-D Semantic Segmentation", ECCV, 2022 (*Lehigh University, Pennsylvania*). [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/7082_ECCV_2022_paper.php)]
     * **CMX**: "CMX: Cross-Modal Fusion for RGB-X Semantic Segmentation with Transformers", arXiv, 2022 (*Karlsruhe Institute of Technology, Germany*). [[Paper](https://arxiv.org/abs/2203.04838)][[PyTorch](https://github.com/huaaaliu/RGBX_Semantic_Segmentation)]
@@ -2021,19 +2035,6 @@ Technology + Baidu*). [[Paper](https://arxiv.org/abs/2212.04970)][[Website](http
 [[Back to Overview](#overview)]
 
 
-
----
-## Citation
-If you find this repository useful, please consider citing this list:
-```
-@misc{chen2022transformerpaperlist,
-    title = {Ultimate awesome paper list: transformer and attention},
-    author = {Chen, Min-Hung},
-    journal = {GitHub repository},
-    url = {https://github.com/cmhungsteve/Awesome-Transformer-Attention},
-    year = {2022},
-}
-```
 
 ---
 
