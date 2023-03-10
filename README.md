@@ -709,7 +709,6 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **KA**: "Knowledge Amalgamation for Object Detection with Transformers", arXiv, 2022 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2203.03187)]
     * **MIMDet**: "Unleashing Vanilla Vision Transformer with Masked Image Modeling for Object Detection", arXiv, 2022 (*Tencent*). [[Paper](https://arxiv.org/abs/2204.02964)][[PyTorch](https://github.com/hustvl/MIMDet)]
     * **imTED**: "Integral Migrating Pre-trained Transformer Encoder-decoders for Visual Object Detection", arXiv, 2022 (*CAS*). [[Paper](https://arxiv.org/abs/2205.09613)]
-    * **AO2-DETR**: "AO2-DETR: Arbitrary-Oriented Object Detection Transformer", arXiv, 2022 (*Peking University*). [[Paper](https://arxiv.org/abs/2205.12785)]
     * **MaskDINO**: "Mask DINO: Towards A Unified Transformer-based Framework for Object Detection and Segmentation", arXiv, 2022 (*IDEA, China*). [[Paper](https://arxiv.org/abs/2206.02777)][[Code (in construction)](https://github.com/IDEACVR/MaskDINO)]
     * **TCC**: "Transformer-based Context Condensation for Boosting Feature Pyramids in Object Detection", arXiv, 2022 (*The University of Sydney*). [[Paper](https://arxiv.org/abs/2207.06603)]
     * **Conditional-DETR-V2**: "Conditional DETR V2: Efficient Detection Transformer with Box Queries", arXiv, 2022 (*Peking University*). [[Paper](https://arxiv.org/abs/2207.08914)]
@@ -788,6 +787,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **?**: "3D Point Positional Encoding for Multi-Camera 3D Object Detection Transformers", arXiv, 2022 (*Houmo AI, China*). [[Paper](https://arxiv.org/abs/2211.14710)]
 * **Focal-PETR**: "Focal-PETR: Embracing Foreground for Efficient Multi-Camera 3D Object Detection", arXiv, 2022 (*Beijing Institute of Technology*). [[Paper](https://arxiv.org/abs/2212.05505)]
 * **Li3DeTr**: "Li3DeTr: A LiDAR based 3D Detection Transformer", WACV, 2023 (*University of Coimbra, Portugal*). [[Paper](https://arxiv.org/abs/2210.15365)]
+* **DTH**: "Efficient Transformer-based 3D Object Detection with Dynamic Token Halting", arXiv, 2023 (*Cruise*). [[Paper](https://arxiv.org/abs/2303.05078)]
 
 [[Back to Overview](#overview)]
 
@@ -881,6 +881,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **Open-World-DETR**: "Open World DETR: Transformer based Open World Object Detection", arXiv, 2022 (*NUS*). [[Paper](https://arxiv.org/abs/2212.02969)]
     * **BARON**: "Aligning Bag of Regions for Open-Vocabulary Object Detection", CVPR, 2023 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2302.13996)][[PyTorch (in construction)](https://github.com/wusize/ovdet)]
     * **CapDet**: "CapDet: Unifying Dense Captioning and Open-World Detection Pretraining", CVPR, 2023 (*Sun Yat-sen University*). [[Paper](https://arxiv.org/abs/2303.02489)]
+    * **Grounding-DINO**: "Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection", arXiv, 2023 (*IDEA*). [[Paper](https://arxiv.org/abs/2303.05499)]
 * Pedestrian Detection:
     * **PED**: "DETR for Crowd Pedestrian Detection", arXiv, 2020 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2012.06785)][[PyTorch](https://github.com/Hatmm/PED-DETR-for-Pedestrian-Detection)]
     * **?**: "Effectiveness of Vision Transformer for Fast and Accurate Single-Stage Pedestrian Detection", NeurIPS, 2022 (*ICL*). [[Paper](https://openreview.net/forum?id=eow_ZGaw24j)]
@@ -920,6 +921,8 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **CoSformer**: "CoSformer: Detecting Co-Salient Object with Transformers", arXiv, 2021 (*Nanjing University*). [[Paper](https://arxiv.org/abs/2104.14729)]
 * Oriented Object Detection:
     * **O<sup>2</sup>DETR**: "Oriented Object Detection with Transformer", arXiv, 2021 (*Baidu*). [[Paper](https://arxiv.org/abs/2106.03146)]
+    * **AO2-DETR**: "AO2-DETR: Arbitrary-Oriented Object Detection Transformer", arXiv, 2022 (*Peking University*). [[Paper](https://arxiv.org/abs/2205.12785)]
+    * **ARS-DETR**: "ARS-DETR: Aspect Ratio Sensitive Oriented Object Detection with Transformer", arXiv, 2023 (*Harbin Institude of Technology*). [[Paper](https://arxiv.org/abs/2303.04989)][[PyTorch](https://github.com/httle/ARS-DETR)]
 * Multiview Detection:
     * **MVDeTr**: "Multiview Detection with Shadow Transformer (and View-Coherent Data Augmentation)", ACMMM, 2021 (*ANU*). [[Paper](https://arxiv.org/abs/2108.05888)]
 * Polygon Detection:
@@ -1375,6 +1378,7 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
     * **MUPPET**: "Multi-Modal Few-Shot Temporal Action Detection via Vision-Language Meta-Adaptation", arXiv, 2022 (*Meta*). [[Paper](https://arxiv.org/abs/2211.14905)][[Code (in construction)](https://github.com/sauradip/MUPPET)]
     * **MovieCLIP**: "MovieCLIP: Visual Scene Recognition in Movies", WACV, 2023 (*USC*). [[Paper](https://arxiv.org/abs/2210.11065)][[Website](https://sail.usc.edu/~mica/MovieCLIP/)]
     * **AIM**: "AIM: Adapting Image Models for Efficient Video Action Recognition", ICLR, 2023 (*Amazon*). [[Paper](https://arxiv.org/abs/2302.03024)][[PyTorch](https://github.com/taoyang1122/adapt-image-models)][[Website](https://adapt-image-models.github.io/)]
+    * **TVP**: "Text-Visual Prompting for Efficient 2D Temporal Video Grounding", CVPR, 2023 (*Intel*). [[Paper](https://arxiv.org/abs/2303.04995)]
     * **CLIP-FSAR**: "CLIP-guided Prototype Modulating for Few-shot Action Recognition", arXiv, 2023 (*Alibaba*). [[Paper](https://arxiv.org/abs/2303.02982)][[PyTorch](https://github.com/alibaba-mmai-research/CLIP-FSAR)]
 * X-supervised Learning:
     * **LSTCL**: "Long-Short Temporal Contrastive Learning of Video Transformers", CVPR, 2022 (*Facebook*). [[Paper](https://arxiv.org/abs/2106.09212)]
@@ -1547,6 +1551,7 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
     * **InfoSeek**: "Can Pre-trained Vision and Language Models Answer Visual Information-Seeking Questions?", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2302.11713)][[Website](https://open-vision-language.github.io/infoseek/)]
     * **CoVGT**: "Contrastive Video Question Answering via Video Graph Transformer", arXiv, 2023 (*NUS*). [[Paper](https://arxiv.org/abs/2302.13668)]
     * **MixPHM**: "MixPHM: Redundancy-Aware Parameter-Efficient Tuning for Low-Resource Visual Question Answering", CVPR, 2023 (*Xi'an Jiaotong University*). [[Paper](https://arxiv.org/abs/2303.01239)]
+    * **RVQA**: "Toward Unsupervised Realistic Visual Question Answering", arXiv, 2023 (*UCSD*). [[Paper](https://arxiv.org/abs/2303.05068)]
 * Video:
     * **?**: "Mounting Video Metadata on Transformer-based Language Model for Open-ended Video Question Answering", arXiv, 2021 (*Seoul National University*). [[Paper](https://arxiv.org/abs/2108.05158)]
     * **TPT**: "Temporal Pyramid Transformer with Multimodal Interaction for Video Question Answering", arXiv, 2021 (*CAS*). [[Paper](https://arxiv.org/abs/2109.04735)]
@@ -1716,6 +1721,7 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
     * **DaVinci**: "Write and Paint: Generative Vision-Language Models are Unified Modal Learners", ICLR, 2023 (*ByteDance*). [[Paper](https://arxiv.org/abs/2206.07699)][[Code (in construction)](https://github.com/shizhediao/DaVinci)]
     * **KOSMOS-1**: "Language Is Not All You Need: Aligning Perception with Language Models", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2302.14045)][[Code](https://github.com/microsoft/unilm)]
     * **Prismer**: "Prismer: A Vision-Language Model with An Ensemble of Experts", arXiv, 2023 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2303.02506)][[PyTorch](https://github.com/NVlabs/prismer)][[Website](https://shikun.io/projects/prismer)]
+    * **RVLM**: "Replacement as a Self-supervision for Fine-grained Vision-language Pre-training", arXiv, 2023 (*Harbin Institute of Technology*). [[Paper](https://arxiv.org/abs/2303.05313)]
 * Video:
     * **COOT**: "COOT: Cooperative Hierarchical Transformer for Video-Text Representation Learning", NeurIPS, 2020 (*University of Freiburg*). [[Paper](https://arxiv.org/abs/2011.00597)][[PyTorch](https://github.com/gingsi/coot-videotext)]
     * **Parameter-Reduction**: "Parameter Efficient Multimodal Transformers for Video Representation Learning", ICLR, 2021 (*Seoul National University*). [[Paper](https://openreview.net/forum?id=6UdQLhqJyFD)]
@@ -1929,6 +1935,9 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
     * **CaFo**: "Prompt, Generate, then Cache: Cascade of Foundation Models makes Strong Few-shot Learners", CVPR, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2303.02151)][[Code (in construction)](https://github.com/ZrrSkywalker/CaFo)]
     * **?**: "Multimodal Prompting with Missing Modalities for Visual Recognition", CVPR, 2023 (*NYCU*). [[Paper](https://arxiv.org/abs/2303.03369)][[PyTorch (in construction)](https://github.com/YiLunLee/Missing_aware_prompts)][[Website](https://yilunlee.github.io/missing_aware_prompts/)]
     * **ZPE**: "A Simple Zero-shot Prompt Weighting Technique to Improve Prompt Ensembling in Text-Image Models", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2302.06235)]
+    * **SeMap**: "From Visual Prompt Learning to Zero-Shot Transfer: Mapping Is All You Need", arXiv, 2023 (*CISPA, Germany*). [[Paper](https://arxiv.org/abs/2303.05266)]
+    * **R-Tuning**: "R-Tuning: Regularized Prompt Tuning in Open-Set Scenarios", arXiv, 2023 (*Shanghai Jiao Tong*). [[Paper](https://arxiv.org/abs/2303.05122)]
+    * **VPTM**: "Rethinking Visual Prompt Learning as Masked Visual Token Modeling", arXiv, 2023 (*Shanghai Jiao Tong*). [[Paper](https://arxiv.org/abs/2303.04998)]
 * Zero-Shot:
     * **SMs**: "Socratic Models: Composing Zero-Shot Multimodal Reasoning with Language", ICLR, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2204.00598)][[GitHub](https://github.com/google-research/google-research/tree/master/socraticmodels)][[Website](https://socraticmodels.github.io/)]
 * X-Shot:
