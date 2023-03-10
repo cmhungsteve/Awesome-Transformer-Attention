@@ -187,12 +187,14 @@ If you find this repository useful, please consider citing this list:
     * **ViTPose+**: "ViTPose+: Vision Transformer Foundation Model for Generic Body Pose Estimation", arXiv, 2022 (*The University of Sydney*). [[Paper](https://arxiv.org/abs/2212.04246)][[PyTorch](https://github.com/ViTAE-Transformer/ViTPose)]
     * **POT**: "Pose-Oriented Transformer with Uncertainty-Guided Refinement for 2D-to-3D Human Pose Estimation", AAAI, 2023 (*Shanghai Jiao Tong*). [[Paper](https://arxiv.org/abs/2302.07408)]
     * **INT**: "Capturing the Motion of Every Joint: 3D Human Pose and Shape Estimation with Independent Tokens", ICLR, 2023 (*Southeast University*). [[Paper](https://openreview.net/forum?id=0Vv4H4Ch0la)]
+    * **TBIFormer**: "Trajectory-Aware Body Interaction Transformer for Multi-Person Pose Forecasting", CVPR, 2023 (*Hangzhou Dianzi Universit*). [[Paper](https://arxiv.org/abs/2303.05095)]
 * Hands:
     * **Hand-Transformer**: "Hand-Transformer: Non-Autoregressive Structured Modeling for 3D Hand Pose Estimation", ECCV, 2020 (*Kwai*). [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/4836_ECCV_2020_paper.php)]
     * **SCAT**: "SCAT: Stride Consistency With Auto-Regressive Regressor and Transformer for Hand Pose Estimation", ICCVW, 2021 (*Alibaba*). [[Paper](https://openaccess.thecvf.com/content/ICCV2021W/SoMoF/html/Gao_SCAT_Stride_Consistency_With_Auto-Regressive_Regressor_and_Transformer_for_Hand_ICCVW_2021_paper.html)]
     * **SeTHPose**: "Learning Sequential Contexts using Transformer for 3D Hand Pose Estimation", arXiv, 2022 (*Queen's University, Canada*). [[Paper](https://arxiv.org/abs/2206.00171)]
     * **HTT**: "Hierarchical Temporal Transformer for 3D Hand Pose Estimation and Action Recognition from Egocentric RGB Videos", arXiv, 2022 (*HKU*). [[Paper](https://arxiv.org/abs/2209.09484)]
     * **?**: "Image-free Domain Generalization via CLIP for 3D Hand Pose Estimation", arXiv, 2022 (*UNIST, Korea*). [[Paper](https://arxiv.org/abs/2210.16788)]
+    * **Deformer**: "Deformer: Dynamic Fusion Transformer for Robust Hand Pose Estimation", arXiv, 2023 (*CMU*). [[Paper](https://arxiv.org/abs/2303.04991)]
 * Others:
     * **TAPE**: "Transformer Guided Geometry Model for Flow-Based Unsupervised Visual Odometry", arXiv, 2020 (*Tianjing University*). [[Paper](https://arxiv.org/abs/2101.02143)]
     * **T6D-Direct**: "T6D-Direct: Transformers for Multi-Object 6D Pose Direct Regression", GCPR, 2021 (*University of Bonn*). [[Paper](https://arxiv.org/abs/2109.10948)]
@@ -328,6 +330,7 @@ If you find this repository useful, please consider citing this list:
     * **text2StyleGAN**: "Text-Free Learning of a Natural Language Interface for Pretrained Face Generators", arXiv, 2022 (*Toyota Technological Institute, Chicago*). [[Paper](https://arxiv.org/abs/2209.03953)][[PyTorch](https://github.com/duxiaodan/Fast_text2StyleGAN)]
     * **ManiCLIP**: "ManiCLIP: Multi-Attribute Face Manipulation from Text", arXiv, 2022 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2210.00445)]
     * **FEAT**: "FEAT: Face Editing with Attention", arXiv, 2022 (*Shenzhen University*). [[Paper](https://arxiv.org/abs/2202.02713)]
+    * **CoralStyleCLIP**: "CoralStyleCLIP: Co-optimized Region and Layer Selection for Image Editing", CVPR, 2023 (*Adobe*). [[Paper](https://arxiv.org/abs/2303.05031)]
 * Facial Expression:
     * **TransFER**: "TransFER: Learning Relation-aware Facial Expression Representations with Transformers", ICCV, 2021 (*CAS*). [[Paper](https://arxiv.org/abs/2108.11116)]
     * **CVT-Face**: "Robust Facial Expression Recognition with Convolutional Visual Transformers", arXiv, 2021 (*Hunan University*). [[Paper](https://arxiv.org/abs/2103.16854)]
