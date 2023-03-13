@@ -1050,6 +1050,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **ZegCLIP**: "ZegCLIP: Towards Adapting CLIP for Zero-shot Semantic Segmentation", arXiv, 2022 (*The University of Adelaide, Australia*). [[Paper](https://arxiv.org/abs/2212.03588)][[PyTorch (in construction)](https://github.com/ZiqinZhou66/ZegCLIP)]
     * **ViewCo**: "ViewCo: Discovering Text-Supervised Segmentation Masks via Multi-View Semantic Consistency", ICLR, 2023 (*Sun Yat-sen University*). [[Paper](https://arxiv.org/abs/2302.10307)][[Code (in construction)](https://github.com/pzhren/ViewCo)]
     * **LMSeg**: "LMSeg: Language-guided Multi-dataset Segmentation", ICLR, 2023 (*Alibaba*). [[Paper](https://arxiv.org/abs/2302.13495)]
+    * **X-Decoder**: "Generalized Decoding for Pixel, Image, and Language", CVPR, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2212.11270)][[PyTorch](https://github.com/microsoft/X-Decoder)][[Website](https://x-decoder-vl.github.io/)]
     * **ZegOT**: "ZegOT: Zero-shot Segmentation Through Optimal Transport of Text Prompts", arXiv, 2023 (*KAIST*). [[Paper](https://arxiv.org/abs/2301.12171)]
     * **SimCon**: "SimCon Loss with Multiple Views for Text Supervised Semantic Segmentation", arXiv, 2023 (*Amazon*). [[Paper](https://arxiv.org/abs/2302.03432)]
 * Open-World/Vocabulary:
