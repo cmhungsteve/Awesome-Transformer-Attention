@@ -422,6 +422,7 @@ If you find this repository useful, please consider citing this list:
     * **Convpass**: "Convolutional Bypasses Are Better Vision Transformer Adapters", arXiv, 2022 (*Peking University*). [[Paper](https://arxiv.org/abs/2207.07039)][[Pytorch](https://github.com/JieShibo/PETL-ViT)]
     * **FacT**: "FacT: Factor-Tuning for Lightweight Adaptation on Vision Transformer", AAAI, 2023 (*Peking*). [[Paper](https://arxiv.org/abs/2212.03145)][[Pytorch](https://github.com/JieShibo/PETL-ViT)]
     * **Consolidator**: "Consolidator: Mergable Adapter with Group Connections for Vision Transformer", ICLR, 2023 (*Tsinghua*). [[Paper](https://openreview.net/forum?id=J_Cja7cpgW)]
+    * **REACT**: "Learning Customized Visual Models with Retrieval-Augmented Knowledge", CVPR, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2301.07094)][[Code (in construction)](https://github.com/microsoft/react)][[Website](https://react-vl.github.io/)]
 * Domain Adaptation/Domain Generalization/Federated Learning:
     * **TransDA**: "Transformer-Based Source-Free Domain Adaptation", arXiv, 2021 (*Haerbin Institute of Technology*). [[Paper](https://arxiv.org/abs/2105.14138)][[PyTorch](https://github.com/ygjwd12345/TransDA)]
     * **TVT**: "TVT: Transferable Vision Transformer for Unsupervised Domain Adaptation", arXiv, 2021 (*UT Arlington + Kuaishou*). [[Paper](https://arxiv.org/abs/2108.05988)]
