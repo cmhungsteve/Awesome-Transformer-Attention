@@ -1132,6 +1132,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **SemFormer**: "SemFormer: Semantic Guided Activation Transformer for Weakly Supervised Semantic Segmentation", arXiv, 2022 (*Shenzhen University*). [[Paper](https://arxiv.org/abs/2210.14618)][[PyTorch](https://github.com/JLChen-C/SemFormer)]
     * **CLIP-ES**: "CLIP is Also an Efficient Segmenter: A Text-Driven Approach for Weakly Supervised Semantic Segmentation", arXiv, 2022 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2212.09506)][[PyTorch](https://github.com/linyq2117/CLIP-ES)]
     * **ToCo**: "Token Contrast for Weakly-Supervised Semantic Segmentation", CVPR, 2023 (*JD*). [[Paper](https://arxiv.org/abs/2303.01267)][[PyTorch](https://arxiv.org/abs/2303.01267)]
+    * **VLOSS**: "Towards Universal Vision-language Omni-supervised Segmentation", arXiv, 2023 (*Harbin Institute of Technology *). [[Paper](https://arxiv.org/abs/2303.06547)]
 * Cross-Domain:
     * **DAFormer**: "DAFormer: Improving Network Architectures and Training Strategies for Domain-Adaptive Semantic Segmentation", CVPR, 2022 (*ETHZ*). [[Paper](https://arxiv.org/abs/2111.14887)][[PyTorch](https://github.com/lhoyer/DAFormer)]
     * **?**: "Exploring Consistency in Cross-Domain Transformer for Domain Adaptive Semantic Segmentation", arXiv, 2022 (*Boston*). [[Paper](https://arxiv.org/abs/2211.14703)]
@@ -1618,6 +1619,7 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
     * **VidGTR**: "Explore and Match: End-to-End Video Grounding with Transformer", arXiv, 2022 (*KAIST*). [[Paper](https://arxiv.org/abs/2201.10168)]
     * **?**: "Language-free Training for Zero-shot Video Grounding", WACV, 2023 (*Yonsei University*). [[Paper](https://arxiv.org/abs/2210.12977)]
     * **VidLN**: "Connecting Vision and Language with Video Localized Narratives", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2302.11217)][[Website (in construction)](https://google.github.io/video-localized-narratives/)]
+    * **?**: "Learning Grounded Vision-Language Representation for Versatile Understanding in Untrimmed Videos", arXiv, 2023 (*Southern University of Science and Technology, China*). [[Paper](https://arxiv.org/abs/2303.06378)]
 * 3D:
     * **ViL3DRel**: "Language Conditioned Spatial Relation Reasoning for 3D Object Grounding", NeurIPS, 2022 (*INRIA*). [[Paper](https://arxiv.org/abs/2211.09646)][[Website](https://cshizhe.github.io/projects/vil3dref.html)]
     * **LAR**: "Look Around and Refer: 2D Synthetic Semantics Knowledge Distillation for 3D Visual Grounding", NeurIPS, 2022 (*KAUST*). [[Paper](https://arxiv.org/abs/2211.14241)][[Website](https://eslambakr.github.io/LAR.github.io/)]
@@ -1878,6 +1880,7 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
     * **E4T**: "Designing an Encoder for Fast Personalization of Text-to-Image Models", arXiv, 2023 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2302.12228)][[Website](https://tuning-encoder.github.io/)]
     * **?**: "Controlled and Conditional Text to Image Generation with Diffusion Prior", arXiv, 2023 (*Adobe*). [[Paper](https://arxiv.org/abs/2302.11710)]
     * **Lformer**: "Lformer: Text-to-Image Generation with L-shape Block Parallel Decoding", arXiv, 2023 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2303.03800)]
+    * **UniDiffuser**: "One Transformer Fits All Distributions in Multi-Modal Diffusion at Scale", arXiv, 2023 (*Tsinghua University*). [[Paper](https://arxiv.org/abs/2303.06555)][[Pytorch](https://github.com/thu-ml/unidiffuser)]
 * Video:
     * **Make-A-Video**: "Make-A-Video: Text-to-Video Generation without Text-Video Data", arXiv, 2022 (*Meta*). [[Paper](https://arxiv.org/abs/2209.14792)]
     * **Imagen-Video**: "Imagen Video: High Definition Video Generation with Diffusion Models", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2210.02303)][[Website](https://imagen.research.google/video/)]
@@ -1922,6 +1925,7 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
 * **SeMap**: "From Visual Prompt Learning to Zero-Shot Transfer: Mapping Is All You Need", arXiv, 2023 (*CISPA, Germany*). [[Paper](https://arxiv.org/abs/2303.05266)]
 * **R-Tuning**: "R-Tuning: Regularized Prompt Tuning in Open-Set Scenarios", arXiv, 2023 (*Shanghai Jiao Tong*). [[Paper](https://arxiv.org/abs/2303.05122)]
 * **VPTM**: "Rethinking Visual Prompt Learning as Masked Visual Token Modeling", arXiv, 2023 (*Shanghai Jiao Tong*). [[Paper](https://arxiv.org/abs/2303.04998)]
+* **GRAM**: "Gradient-Regulated Meta-Prompt Learning for Generalizable Vision-Language Models", arXiv, 2023 (*Huawei*). [[Paper](https://arxiv.org/abs/2303.06571)]
 
 [[Back to Overview](#overview)]
 
