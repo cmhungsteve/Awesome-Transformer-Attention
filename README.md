@@ -284,6 +284,7 @@ If you find this repository useful, please consider citing this list:
 * **GPViT**: "GPViT: A High Resolution Non-Hierarchical Vision Transformer with Group Propagation", ICLR, 2023 (*University of Edinburgh, Scotland + UCSD*). [[Paper](https://arxiv.org/abs/2212.06795)][[PyTorch](https://github.com/ChenhongyiYang/GPViT)]
 * **CPVT**: "Conditional Positional Encodings for Vision Transformers", ICLR, 2023 (*Meituan*). [[Paper](https://openreview.net/forum?id=3KWnuT-R1bh)][[Code (in construction)](https://github.com/Meituan-AutoML/CPVT)]
 * **LipsFormer**: "LipsFormer: Introducing Lipschitz Continuity to Vision Transformers", ICLR, 2023 (*IDEA, China*). [[Paper](https://openreview.net/forum?id=cHf1DcCwcH3)]
+* **BiFormer**: "BiFormer: Vision Transformer with Bi-Level Routing Attention", CVPR, 2023 (*CUHK*). [[Paper](https://arxiv.org/abs/2303.08810)][[PyTorch](https://github.com/rayleizhu/BiFormer)]
 * **CrossFormer++**: "CrossFormer++: A Versatile Vision Transformer Hinging on Cross-scale Attention", arXiv, 2023 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2303.06908)][[PyTorch](https://github.com/cheerss/CrossFormer)]
 #### Efficient Vision Transformer
 * **DeiT**: "Training data-efficient image transformers & distillation through attention", ICML, 2021 (*Facebook*). [[Paper](https://arxiv.org/abs/2012.12877)][[PyTorch](https://github.com/facebookresearch/deit)]
@@ -370,6 +371,7 @@ If you find this repository useful, please consider citing this list:
 * **ViTALiTy**: "ViTALiTy: Unifying Low-rank and Sparse Approximation for Vision Transformer Acceleration with a Linear Taylor Attention", IEEE International Symposium on High-Performance Computer Architecture (HPCA), 2023 (*Rice University*). [[Paper](https://arxiv.org/abs/2211.05109)]
 * **HeatViT**: "HeatViT: Hardware-Efficient Adaptive Token Pruning for Vision Transformers", IEEE International Symposium on High-Performance Computer Architecture (HPCA), 2023 (*Northeastern University*). [[Paper](https://arxiv.org/abs/2211.08110)]
 * **ToMe**: "Token Merging: Your ViT But Faster", ICLR, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2210.09461)][[PyTorch](https://github.com/facebookresearch/ToMe)]
+* **STViT**: "Making Vision Transformers Efficient from A Token Sparsification View", CVPR, 2023 (*Alibaba*). [[Paper](https://arxiv.org/abs/2303.08685)]
 #### Conv + Transformer
 * **LeViT**: "LeViT: a Vision Transformer in ConvNet's Clothing for Faster Inference", ICCV, 2021 (*Facebook*). [[Paper](https://arxiv.org/abs/2104.01136)][[PyTorch](https://github.com/facebookresearch/LeViT)]
 * **CeiT**: "Incorporating Convolution Designs into Visual Transformers", ICCV, 2021 (*SenseTime*). [[Paper](https://arxiv.org/abs/2103.11816)][[PyTorch (rishikksh20)](https://github.com/rishikksh20/CeiT)]
@@ -559,6 +561,7 @@ If you find this repository useful, please consider citing this list:
 * **CertViT**: "CertViT: Certified Robustness of Pre-Trained Vision Transformers", arXiv, 2023 (*INRIA*). [[Paper](https://arxiv.org/abs/2302.10287)][[PyTorch](https://github.com/sagarverma/transformer-lipschitz)]
 * **CleanCLIP**: "CleanCLIP: Mitigating Data Poisoning Attacks in Multimodal Contrastive Learning", arXiv, 2023 (*UCLA*). [[Paper](https://arxiv.org/abs/2303.03323)]
 * **RoCLIP**: "Robust Contrastive Language-Image Pretraining against Adversarial Attacks", arXiv, 2023 (*UCLA*). [[Paper](https://arxiv.org/abs/2303.06854)]
+* **DeepMIM**: "DeepMIM: Deep Supervision for Masked Image Modeling", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2303.08817)][[Code (in construction)](https://github.com/OliverRensu/DeepMIM)]
 #### Model Compression + Transformer
 * **ViT-quant**: "Post-Training Quantization for Vision Transformer", NeurIPS, 2021 (*Huawei*). [[Paper](https://arxiv.org/abs/2106.14156)]
 * **VTP**: "Visual Transformer Pruning", arXiv, 2021 (*Huawei*). [[Paper](https://arxiv.org/abs/2104.08500)]
@@ -1097,6 +1100,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **OSFormer**: "OSFormer: One-Stage Camouflaged Instance Segmentation with Transformers", ECCV, 2022 (*Huazhong University of Science and Technology*). [[Paper](https://arxiv.org/abs/2207.02255)][[PyTorch](https://github.com/PJLallen/OSFormer)]
     * **AISFormer**: "AISFormer: Amodal Instance Segmentation with Transformer", BMVC, 2022 (*University of Arkansas, Arkansas*). [[Paper](https://arxiv.org/abs/2210.06323)][[PyTorch](https://github.com/UARK-AICV/AISFormer)]
     * **TOIST**: "TOIST: Task Oriented Instance Segmentation Transformer with Noun-Pronoun Distillation", NeurIPS, 2022 (*Tsinghua University*). [[Paper](https://arxiv.org/abs/2210.10775)][[PyTorch](https://github.com/AIR-DISCOVER/TOIST)]
+    * **MAL**: "Vision Transformers Are Good Mask Auto-Labelers", arXiv, 2023 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2301.03992)][[PyTorch](https://github.com/NVlabs/mask-auto-labeler)]
 * Universal Segmentation:
     * **OneFormer**: "OneFormer: One Transformer to Rule Universal Image Segmentation", arXiv, 2022 (*Oregon*). [[Paper](https://arxiv.org/abs/2211.06220)][[PyTorch](https://github.com/SHI-Labs/OneFormer)][[Website](https://praeclarumjj3.github.io/oneformer/)]
 * Optical Flow:
