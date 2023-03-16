@@ -868,6 +868,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **WS-DETR**: "Scaling Novel Object Detection with Weakly Supervised Detection Transformers", CVPRW, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2207.05205)]
     * **TRT**: "Re-Attention Transformer for Weakly Supervised Object Localization", arXiv, 2022 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2208.01838)][[PyTorch](https://github.com/su-hui-zz/ReAttentionTransformer)]
     * **TokenCut**: "TokenCut: Segmenting Objects in Images and Videos with Self-supervised Transformer and Normalized Cut", arXiv, 2022 (*Univ. Grenoble Alpes, France*). [[Paper](https://arxiv.org/abs/2209.00383)][[PyTorch](https://github.com/YangtaoWANG95/TokenCut)][[Website](https://www.m-psi.fr/Papers/TokenCut2022/)]
+    * **SeqCo-DETR**: "SeqCo-DETR: Sequence Consistency Training for Self-Supervised Object Detection with Transformers", arXiv, 2023 (*SenseTime*). [[Paper](https://arxiv.org/abs/2303.08481)]
 * X-Shot Object Detection:
     * **AIT**: "Adaptive Image Transformer for One-Shot Object Detection", CVPR, 2021 (*Academia Sinica*). [[Paper](https://openaccess.thecvf.com/content/CVPR2021/html/Chen_Adaptive_Image_Transformer_for_One-Shot_Object_Detection_CVPR_2021_paper.html)]
     * **Meta-DETR**: "Meta-DETR: Few-Shot Object Detection via Unified Image-Level Meta-Learning", arXiv, 2021 (*NTU Singapore*). [[Paper](https://arxiv.org/abs/2103.11731)][[PyTorch](https://github.com/ZhangGongjie/Meta-DETR)]
@@ -1440,6 +1441,7 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
     * **Skating-Mixer**: "Skating-Mixer: Multimodal MLP for Scoring Figure Skating", arXiv, 2022 (*Southern University of Science and Technology*). [[Paper](https://arxiv.org/abs/2203.03990)]
 * Action Counting:
     * **TransRAC**: "TransRAC: Encoding Multi-scale Temporal Correlation with Transformers for Repetitive Action Counting", CVPR, 2022 (*ShanghaiTech*). [[Paper](https://arxiv.org/abs/2204.01018)][[PyTorch](https://github.com/SvipRepetitionCounting/TransRAC)][[Website](https://svip-lab.github.io/dataset/RepCount_dataset.html)]
+    * **PoseRAC**: "PoseRAC: Pose Saliency Transformer for Repetitive Action Counting", arXiv, 2023 (*Peking University*). [[Paper](https://arxiv.org/abs/2303.08450)][[PyTorch](https://github.com/MiracleDance/PoseRAC)]
 * Action Quality Assessment:
     * **?**: "Action Quality Assessment with Temporal Parsing Transformer", ECCV, 2022 (*Baidu*). [[Paper](https://arxiv.org/abs/2207.09270)]
     * **?**: "Action Quality Assessment using Transformers", arXiv, 2022 (*USC*). [[Paper](https://arxiv.org/abs/2207.12318)]
