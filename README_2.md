@@ -127,6 +127,7 @@ If you find this repository useful, please consider citing this list:
 * **ACT**: "Autoencoders as Cross-Modal Teachers: Can Pretrained 2D Image Transformers Help 3D Representation Learning?", ICLR, 2023 (*Megvii*). [[Paper](https://arxiv.org/abs/2212.08320)][[PyTorch](https://github.com/RunpeiDong/ACT)]
 * **ProxyFormer**: "ProxyFormer: Proxy Alignment Assisted Point Cloud Completion with Missing Part Sensitive Transformer", CVPR, 2023 (*Nanjing University of Aeronautics and Astronautics*). [[Paper](https://arxiv.org/abs/2302.14435)][[PyTorch](https://github.com/I2-Multimedia-Lab/ProxyFormer)]
 * **I2P-MAE.**: "Learning 3D Representations from 2D Pre-trained Models via Image-to-Point Masked Autoencoders", CVPR, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2212.06785)][[Code (in construction)](https://github.com/ZrrSkywalker/I2P-MAE)]
+* **RoITr**: "Rotation-Invariant Transformer for Point Cloud Matching", CVPR, 2023 (*TUM*). [[Paper](https://arxiv.org/abs/2303.08231)]
 * **Text4Point**: "Joint Representation Learning for Text and 3D Point Cloud", arXiv, 2023 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2301.07584)][[Code (in construction)](https://github.com/LeapLabTHU/Text4Point)]
 
 [[Back to Overview](#overview)]
@@ -719,6 +720,7 @@ If you find this repository useful, please consider citing this list:
 * **GNT**: "Is Attention All That NeRF Needs?", ICLR, 2023 (*UT Austin*). [[Paper](https://arxiv.org/abs/2207.13298)][[PyTorch](https://github.com/VITA-Group/GNT)][[Website](https://vita-group.github.io/GNT/)]
 * **DPC**: "Discrete Predictor-Corrector Diffusion Models for Image Synthesis", ICLR, 2023 (*Google*). [[Paper](https://openreview.net/forum?id=VM8batVBWvg)]
 * **LayoutDM**: "LayoutDM: Discrete Diffusion Model for Controllable Layout Generation", CVPR, 2023 (*CyberAgent, Japan*). [[Paper](https://arxiv.org/abs/2303.08137)][[PyTorch](https://github.com/CyberAgentAILab/layout-dm)][[Website](https://cyberagentailab.github.io/layout-dm/)]
+* **GTGAN**: "Graph Transformer GANs for Graph-Constrained House Generation", CVPR, 2023 (*ETHZ*). [[Paper](https://arxiv.org/abs/2303.08225)]
 * **VQ3D**: "VQ3D: Learning a 3D-Aware Generative Model on ImageNet", arXiv, 2023 (*Stanford*). [[Paper](https://arxiv.org/abs/2302.06833)][[Website](https://kylesargent.github.io/vq3d)]
 * **LayoutDiffuse**: "LayoutDiffuse: Adapting Foundational Diffusion Models for Layout-to-Image Generation", arXiv, 2023 (*Amazon*). [[Paper](https://arxiv.org/abs/2302.08908)]
 * **StraIT**: "StraIT: Non-autoregressive Generation with Stratified Image Transformer", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2303.00750)]
@@ -859,6 +861,7 @@ If you find this repository useful, please consider citing this list:
 * **IVLN**: "Iterative Vision-and-Language Navigation", arXiv, 2022 (*Oregon State University*). [[Paper](https://arxiv.org/abs/2210.03087)]
 * **BEVBert**: "BEVBert: Topo-Metric Map Pre-training for Language-guided Navigation", arXiv, 2022 (*CAS*). [[Paper](https://arxiv.org/abs/2212.04385)]
 * **Meta-Explore**: "Meta-Explore: Exploratory Hierarchical Vision-and-Language Navigation Using Scene Object Spectrum Grounding", CVPR, 2023 (*Seoul National University*). [[Paper](https://arxiv.org/abs/2303.04077)][[Website](https://rllab-snu.github.io/projects/Meta-Explore/doc.html)]
+* **LANA**: "Lana: A Language-Capable Navigator for Instruction Following and Generation", CVPR, 2023 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2303.08409)][[Code (in construction)](https://github.com/wxh1996/LANA-VLN)]
 * **MLANet**: "MLANet: Multi-Level Attention Network with Sub-instruction for Continuous Vision-and-Language Navigation", arXiv, 2023 (*Tongji University*). [[Paper](https://arxiv.org/abs/2303.01396)][[PyTorch](https://github.com/RavenKiller/MLA)]
 
 [[Back to Overview](#overview)]
