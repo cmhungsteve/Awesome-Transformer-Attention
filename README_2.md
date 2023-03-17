@@ -190,6 +190,7 @@ If you find this repository useful, please consider citing this list:
     * **POT**: "Pose-Oriented Transformer with Uncertainty-Guided Refinement for 2D-to-3D Human Pose Estimation", AAAI, 2023 (*Shanghai Jiao Tong*). [[Paper](https://arxiv.org/abs/2302.07408)]
     * **INT**: "Capturing the Motion of Every Joint: 3D Human Pose and Shape Estimation with Independent Tokens", ICLR, 2023 (*Southeast University*). [[Paper](https://openreview.net/forum?id=0Vv4H4Ch0la)]
     * **TBIFormer**: "Trajectory-Aware Body Interaction Transformer for Multi-Person Pose Forecasting", CVPR, 2023 (*Hangzhou Dianzi Universit*). [[Paper](https://arxiv.org/abs/2303.05095)]
+    * **PSVT**: "PSVT: End-to-End Multi-person 3D Pose and Shape Estimation with Progressive Video Transformers", CVPR, 2023 (*Baidu*). [[Paper](https://arxiv.org/abs/2303.09187)]
 * Hands:
     * **Hand-Transformer**: "Hand-Transformer: Non-Autoregressive Structured Modeling for 3D Hand Pose Estimation", ECCV, 2020 (*Kwai*). [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/4836_ECCV_2020_paper.php)]
     * **SCAT**: "SCAT: Stride Consistency With Auto-Regressive Regressor and Transformer for Hand Pose Estimation", ICCVW, 2021 (*Alibaba*). [[Paper](https://openaccess.thecvf.com/content/ICCV2021W/SoMoF/html/Gao_SCAT_Stride_Consistency_With_Auto-Regressive_Regressor_and_Transformer_for_Hand_ICCVW_2021_paper.html)]
@@ -772,6 +773,7 @@ If you find this repository useful, please consider citing this list:
 * **S2WAT**: "S2WAT: Image Style Transfer via Hierarchical Vision Transformer using Strips Window Attention", arXiv, 2022 (*Sichuan Normal University*). [[Paper](https://arxiv.org/abs/2210.12381)]
 * **DiffuseIT**: "Diffusion-based Image Translation using Disentangled Style and Content Representation", ICLR, 2023 (*KAIST*). [[Paper](https://arxiv.org/abs/2209.15264)]
 * **pix2pix-zero**: "Zero-shot Image-to-Image Translation", arXiv, 2023 (*Adobe*). [[Paper](https://arxiv.org/abs/2302.03027)][[Code (in construction)](https://github.com/pix2pixzero/pix2pix-zero)][[Website](https://pix2pixzero.github.io/)]
+* **SpectralCLIP**: "SpectralCLIP: Preventing Artifacts in Text-Guided Style Transfer from a Spectral Perspective", arXiv, 2023 (*University of Trento, Italy*). [[Paper](https://arxiv.org/abs/2303.09270)][[Code (in construction)](https://github.com/zipengxuc/SpectralCLIP)]
 
 [[Back to Overview](#overview)]
 
@@ -1376,6 +1378,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **ViewBirdiformer**: "ViewBirdiformer: Learning to recover ground-plane crowd trajectories and ego-motion from a single ego-centric view", arXiv, 2022 (*Kyoto University*). [[Paper](https://arxiv.org/abs/2210.06332)]
     * **PedFormer**: "PedFormer: Pedestrian Behavior Prediction via Cross-Modal Attention Modulation and Gated Multitask Learning", arXiv, 2022 (*Huawei*). [[Paper](https://arxiv.org/abs/2210.07886)]
     * **TAMFormer**: "TAMFormer: Multi-Modal Transformer with Learned Attention Mask for Early Intent Prediction", arXiv, 2022 (*University of Padova, Italy*). [[Paper](https://arxiv.org/abs/2210.14714)]
+    * **InCrowdFormer**: "InCrowdFormer: On-Ground Pedestrian World Model From Egocentric Views", arXiv, 2023 (*Kyoto University*). [[Paper](https://arxiv.org/abs/2303.09534)]
 * Visual Counting:
     * **CC-AV**: "Audio-Visual Transformer Based Crowd Counting", ICCVW, 2021 (*University of Kansas*). [[Paper](https://arxiv.org/abs/2109.01926)]
     * **TransCrowd**: "TransCrowd: Weakly-Supervised Crowd Counting with Transformer", arXiv, 2021 (*Huazhong University of Science and Technology*). [[Paper](https://arxiv.org/abs/2104.09116)][[PyTorch](https://github.com/dk-liang/TransCrowd)]
