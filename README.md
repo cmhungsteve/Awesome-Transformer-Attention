@@ -893,6 +893,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **BARON**: "Aligning Bag of Regions for Open-Vocabulary Object Detection", CVPR, 2023 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2302.13996)][[PyTorch (in construction)](https://github.com/wusize/ovdet)]
     * **CapDet**: "CapDet: Unifying Dense Captioning and Open-World Detection Pretraining", CVPR, 2023 (*Sun Yat-sen University*). [[Paper](https://arxiv.org/abs/2303.02489)]
     * **Grounding-DINO**: "Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection", arXiv, 2023 (*IDEA*). [[Paper](https://arxiv.org/abs/2303.05499)]
+    * **GridCLIP**: "GridCLIP: One-Stage Object Detection by Grid-Level CLIP Representation Learning", arXiv, 2023 (*Queen Mary University of London*). [[Paper](https://arxiv.org/abs/2303.09252)]
 * Pedestrian Detection:
     * **PED**: "DETR for Crowd Pedestrian Detection", arXiv, 2020 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2012.06785)][[PyTorch](https://github.com/Hatmm/PED-DETR-for-Pedestrian-Detection)]
     * **?**: "Effectiveness of Vision Transformer for Fast and Accurate Single-Stage Pedestrian Detection", NeurIPS, 2022 (*ICL*). [[Paper](https://openreview.net/forum?id=eow_ZGaw24j)]
@@ -918,6 +919,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **TROI**: "Transformed ROIs for Capturing Visual Transformations in Videos", arXiv, 2021 (*NUS, Singapore*). [[Paper](https://arxiv.org/abs/2106.03162)]
     * **RelTransformer**: "RelTransformer: A Transformer-Based Long-Tail Visual Relationship Recognition", CVPR, 2022 (*KAUST*). [[Paper](https://arxiv.org/abs/2104.11934)][[PyTorch](https://github.com/Vision-CAIR/RelTransformer)]
     * **VReBERT**: "VReBERT: A Simple and Flexible Transformer for Visual Relationship Detection", ICPR, 2022 (*ANU*). [[Paper](https://arxiv.org/abs/2206.09111)]
+    * **UniVRD**: "Unified Visual Relationship Detection with Vision and Language Models", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2303.08998)]
 * Anomaly Detection:
     * **VT-ADL**: "VT-ADL: A Vision Transformer Network for Image Anomaly Detection and Localization", ISIE, 2021 (*University of Udine, Italy*). [[Paper](https://arxiv.org/abs/2104.10036)]
     * **InTra**: "Inpainting Transformer for Anomaly Detection", arXiv, 2021 (*Fujitsu*). [[Paper](https://arxiv.org/abs/2104.13897)]
@@ -1078,6 +1080,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **SAN**: "Side Adapter Network for Open-Vocabulary Semantic Segmentation", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2302.12242)]
     * **WLSegNet**: "A Language-Guided Benchmark for Weakly Supervised Open Vocabulary Semantic Segmentation", arXiv, 2023 (*IIT, New Delhi*). [[Paper](https://arxiv.org/abs/2302.14163)]
     * **OpenSeeD**: "A Simple Framework for Open-Vocabulary Segmentation and Detection", arXiv, 2023 (*IDEA*). [[Paper](https://arxiv.org/abs/2303.08131)][[Code (in construction)](https://github.com/IDEA-Research/OpenSeeD)]
+    * **GKC**: "Global Knowledge Calibration for Fast Open-Vocabulary Segmentation", arXiv, 2023 (*ByteDance*). [[Paper](https://arxiv.org/abs/2303.09181)]
 * Universal Segmentation:
     * **Mask2Former**: "Masked-attention Mask Transformer for Universal Image Segmentation", CVPR, 2022 (*Meta*). [[Paper](https://arxiv.org/abs/2112.01527)][[PyTorch](https://github.com/facebookresearch/Mask2Former)][[Website](https://bowenc0221.github.io/mask2former/)]
     * **MP-Former**: "MP-Former: Mask-Piloted Transformer for Image Segmentation", CVPR, 2023 (*IDEA*). [[Paper](https://arxiv.org/abs/2303.07336)][[Code (in construction)](https://github.com/IDEA-Research/MP-Former)]
@@ -1892,6 +1895,7 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
     * **?**: "Controlled and Conditional Text to Image Generation with Diffusion Prior", arXiv, 2023 (*Adobe*). [[Paper](https://arxiv.org/abs/2302.11710)]
     * **Lformer**: "Lformer: Text-to-Image Generation with L-shape Block Parallel Decoding", arXiv, 2023 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2303.03800)]
     * **UniDiffuser**: "One Transformer Fits All Distributions in Multi-Modal Diffusion at Scale", arXiv, 2023 (*Tsinghua University*). [[Paper](https://arxiv.org/abs/2303.06555)][[Pytorch](https://github.com/thu-ml/unidiffuser)]
+    * **UMM-Diffusion**: "Unified Multi-Modal Latent Diffusion for Joint Subject and Text Conditional Image Generation", arXiv, 2023 (*Peking University*). [[Paper](https://arxiv.org/abs/2303.09319)]
 * Video:
     * **Make-A-Video**: "Make-A-Video: Text-to-Video Generation without Text-Video Data", arXiv, 2022 (*Meta*). [[Paper](https://arxiv.org/abs/2209.14792)]
     * **Imagen-Video**: "Imagen Video: High Definition Video Generation with Diffusion Models", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2210.02303)][[Website](https://imagen.research.google/video/)]
@@ -1938,6 +1942,7 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
 * **R-Tuning**: "R-Tuning: Regularized Prompt Tuning in Open-Set Scenarios", arXiv, 2023 (*Shanghai Jiao Tong*). [[Paper](https://arxiv.org/abs/2303.05122)]
 * **VPTM**: "Rethinking Visual Prompt Learning as Masked Visual Token Modeling", arXiv, 2023 (*Shanghai Jiao Tong*). [[Paper](https://arxiv.org/abs/2303.04998)]
 * **GRAM**: "Gradient-Regulated Meta-Prompt Learning for Generalizable Vision-Language Models", arXiv, 2023 (*Huawei*). [[Paper](https://arxiv.org/abs/2303.06571)]
+* **PBPrompt**: "Patch-Token Aligned Bayesian Prompt Learning for Vision-Language Models", arXiv, 2023 (*Xidian University*). [[Paper](https://arxiv.org/abs/2303.09100)]
 
 [[Back to Overview](#overview)]
 
@@ -2003,6 +2008,7 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
 * Language-based Video Editing:
     * **M<sup>3</sup>L**: "Language-based Video Editing via Multi-Modal Multi-Level Transformer", CVPR, 2022 (*UCSB*). [[Paper](https://arxiv.org/abs/2104.01122)]
     * **Video-P2P**: "Video-P2P: Video Editing with Cross-attention Control", arXiv, 2023 (*CUHK*). [[Paper](https://arxiv.org/abs/2303.04761)][[Website](https://video-p2p.github.io/)]
+    * **FateZero**: "FateZero: Fusing Attentions for Zero-shot Text-based Video Editing", arXiv, 2023 (*Tencent*). [[Paper](https://arxiv.org/abs/2303.09535)][[PyTorch](https://github.com/ChenyangQiQi/FateZero)][[Website](https://fate-zero-edit.github.io/)]
 * Video Summarization:
     * **GPT2MVS**: "GPT2MVS: Generative Pre-trained Transformer-2 for Multi-modal Video Summarization", ICMR, 2021 (*BBC*). [[Paper](https://arxiv.org/abs/2104.12465)]
     * **QVHighlights**: "QVHighlights: Detecting Moments and Highlights in Videos via Natural Language Queries", NeurIPS, 2021 (*UNC*). [[Paper](https://arxiv.org/abs/2107.09609)][[PyTorch](https://github.com/jayleicn/moment_detr)]
@@ -2032,6 +2038,7 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
     * **3DRefTransformer**: "3DRefTransformer: Fine-Grained Object Identification in Real-World Scenes Using Natural Language", WACV, 2022 (*KAUST*). [[Paper](https://openaccess.thecvf.com/content/WACV2022/html/Abdelreheem_3DRefTransformer_Fine-Grained_Object_Identification_in_Real-World_Scenes_Using_Natural_Language_WACV_2022_paper.html)][[Website](https://vision-cair.github.io/3dreftransformer/)]
     * **EDA**: "EDA: Explicit Text-Decoupling and Dense Alignment for 3D Visual and Language Learning", arXiv, 2022 (*Peking University*). [[Paper](https://arxiv.org/abs/2209.14941)]
     * **ConceptFusion**: "ConceptFusion: Open-set Multimodal 3D Mapping", arXiv, 2023 (*MIT*). [[Paper](https://arxiv.org/abs/2302.07241)][[Website](https://concept-fusion.github.io/)]
+    * **LERF**: "LERF: Language Embedded Radiance Fields", arXiv, 2023 (*Berkeley*). [[Paper](https://arxiv.org/abs/2303.09553)][[Website](https://www.lerf.io/)]
 * Speech Recognition:
     * **AV-HuBERT**: "Robust Self-Supervised Audio-Visual Speech Recognition", arXiv, 2022 (*Meta*). [[Paper](https://arxiv.org/abs/2201.01763)][[PyTorch](https://github.com/facebookresearch/av_hubert)]
     * **?**: "Transformer-Based Video Front-Ends for Audio-Visual Speech Recognition", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2201.10439)]
