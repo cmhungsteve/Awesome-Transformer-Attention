@@ -1084,6 +1084,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * Universal Segmentation:
     * **Mask2Former**: "Masked-attention Mask Transformer for Universal Image Segmentation", CVPR, 2022 (*Meta*). [[Paper](https://arxiv.org/abs/2112.01527)][[PyTorch](https://github.com/facebookresearch/Mask2Former)][[Website](https://bowenc0221.github.io/mask2former/)]
     * **MP-Former**: "MP-Former: Mask-Piloted Transformer for Image Segmentation", CVPR, 2023 (*IDEA*). [[Paper](https://arxiv.org/abs/2303.07336)][[Code (in construction)](https://github.com/IDEA-Research/MP-Former)]
+    * **OneFormer**: "OneFormer: One Transformer to Rule Universal Image Segmentation", CVPR, 2023 (*Oregon*). [[Paper](https://arxiv.org/abs/2211.06220)][[PyTorch](https://github.com/SHI-Labs/OneFormer)][[Website](https://praeclarumjj3.github.io/oneformer/)]
 * Multi-Modal:
     * **UCTNet**: "UCTNet: Uncertainty-Aware Cross-Modal Transformer Network for Indoor RGB-D Semantic Segmentation", ECCV, 2022 (*Lehigh University, Pennsylvania*). [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/7082_ECCV_2022_paper.php)]
     * **CMX**: "CMX: Cross-Modal Fusion for RGB-X Semantic Segmentation with Transformers", arXiv, 2022 (*Karlsruhe Institute of Technology, Germany*). [[Paper](https://arxiv.org/abs/2203.04838)][[PyTorch](https://github.com/huaaaliu/RGBX_Semantic_Segmentation)]
@@ -1105,8 +1106,6 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **AISFormer**: "AISFormer: Amodal Instance Segmentation with Transformer", BMVC, 2022 (*University of Arkansas, Arkansas*). [[Paper](https://arxiv.org/abs/2210.06323)][[PyTorch](https://github.com/UARK-AICV/AISFormer)]
     * **TOIST**: "TOIST: Task Oriented Instance Segmentation Transformer with Noun-Pronoun Distillation", NeurIPS, 2022 (*Tsinghua University*). [[Paper](https://arxiv.org/abs/2210.10775)][[PyTorch](https://github.com/AIR-DISCOVER/TOIST)]
     * **MAL**: "Vision Transformers Are Good Mask Auto-Labelers", arXiv, 2023 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2301.03992)][[PyTorch](https://github.com/NVlabs/mask-auto-labeler)]
-* Universal Segmentation:
-    * **OneFormer**: "OneFormer: One Transformer to Rule Universal Image Segmentation", arXiv, 2022 (*Oregon*). [[Paper](https://arxiv.org/abs/2211.06220)][[PyTorch](https://github.com/SHI-Labs/OneFormer)][[Website](https://praeclarumjj3.github.io/oneformer/)]
 * Optical Flow:
     * **CRAFT**: "CRAFT: Cross-Attentional Flow Transformer for Robust Optical Flow", CVPR, 2022 (*A\*STAR, Singapore*). [[Paper](https://arxiv.org/abs/2203.16896)][[PyTorch](https://github.com/askerlee/craft)]
     * **KPA-Flow**: "Learning Optical Flow With Kernel Patch Attention", CVPR, 2022 (*Megvii*). [[Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Luo_Learning_Optical_Flow_With_Kernel_Patch_Attention_CVPR_2022_paper.html)][[PyTorch (in construction)](https://github.com/megvii-research/KPAFlow)]
