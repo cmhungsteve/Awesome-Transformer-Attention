@@ -1224,6 +1224,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **?**: "Transformers and CNNs both Beat Humans on SBIR", arXiv, 2022 (*University of Mons, Belgium*). [[Paper](https://arxiv.org/abs/2209.06629)]
     * **?**: "A Light Touch Approach to Teaching Transformers Multi-view Geometry", arXiv, 2022 (*Oxford*). [[Paper](https://arxiv.org/abs/2211.15107)]
     * **DToP**: "Boosting vision transformers for image retrieval", WACV, 2023 (*Dealicious, Korea*). [[Paper](https://arxiv.org/abs/2210.11909)][[Code (in construction)](https://github.com/dealicious-inc/DToP)]
+    * **IRGen**: "IRGen: Generative Modeling for Image Retrieval", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2303.10126)]
 * Layout Generation:
     * **VTN**: "Variational Transformer Networks for Layout Generation", CVPR, 2021 (*Google*). [[Paper](https://arxiv.org/abs/2104.02416)]
     * **LayoutTransformer**: "LayoutTransformer: Scene Layout Generation With Conceptual and Spatial Diversity", CVPR, 2021 (*NTU*). [[Paper](https://openaccess.thecvf.com/content/CVPR2021/html/Yang_LayoutTransformer_Scene_Layout_Generation_With_Conceptual_and_Spatial_Diversity_CVPR_2021_paper.html)][[PyTorch](https://github.com/davidhalladay/LayoutTransformer)]
