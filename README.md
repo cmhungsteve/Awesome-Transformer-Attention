@@ -1064,6 +1064,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **X-Decoder**: "Generalized Decoding for Pixel, Image, and Language", CVPR, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2212.11270)][[PyTorch](https://github.com/microsoft/X-Decoder)][[Website](https://x-decoder-vl.github.io/)]
     * **ZegOT**: "ZegOT: Zero-shot Segmentation Through Optimal Transport of Text Prompts", arXiv, 2023 (*KAIST*). [[Paper](https://arxiv.org/abs/2301.12171)]
     * **SimCon**: "SimCon Loss with Multiple Views for Text Supervised Semantic Segmentation", arXiv, 2023 (*Amazon*). [[Paper](https://arxiv.org/abs/2302.03432)]
+    * **DiffusionSeg**: "DiffusionSeg: Adapting Diffusion Towards Unsupervised Object Discovery", arXiv, 2023 (*Shanghai Jiao Tong*). [[Paper](https://arxiv.org/abs/2303.09813)]
 * Open-World/Vocabulary:
     * **ViL-Seg**: "Open-world Semantic Segmentation via Contrasting and Clustering Vision-Language Embedding", ECCV, 2022 (*CUHK*). [[Paper](https://arxiv.org/abs/2207.08455)]
     * **OVSS**: "A Simple Baseline for Open Vocabulary Semantic Segmentation with Pre-trained Vision-language Model", ECCV, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2112.14757)][[PyTorch](https://github.com/MendelXu/zsseg.baseline)]
@@ -1241,6 +1242,7 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
     * **UniFormerV2**: "UniFormerV2: Spatiotemporal Learning by Arming Image ViTs with Video UniFormer", arXiv, 2022 (*CAS*). [[Paper](https://arxiv.org/abs/2211.09552)][[PyTorch](https://github.com/OpenGVLab/UniFormerV2)]
     * **PatchBlender**: "PatchBlender: A Motion Prior for Video Transformers", arXiv, 2022 (*Mila*). [[Paper](https://arxiv.org/abs/2211.14449)]
     * **TubeViT**: "Rethinking Video ViTs: Sparse Video Tubes for Joint Image and Video Learning", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2212.03229)]
+    * **DualPath**: "Dual-path Adaptation from Image to Video Transformers", CVPR, 2023 (*Yonsei University*). [[Paper](https://arxiv.org/abs/2303.09857)][[PyTorch (in construction)](https://github.com/park-jungin/DualPath)]
 * Depth:
     * **Trear**: "Trear: Transformer-based RGB-D Egocentric Action Recognition",  IEEE Transactions on Cognitive and Developmental Systems, 2021 (*Tianjing University*). [[Paper](https://ieeexplore.ieee.org/document/9312201)]
 * Pose/Skeleton:
@@ -1844,6 +1846,7 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
     * **MAC**: "Masked Contrastive Pre-Training for Efficient Video-Text Retrieval", arXiv, 2022 (*Alibaba*). [[Paper](https://arxiv.org/abs/2212.00986)]
     * **CLIP-ViP**: "CLIP-ViP: Adapting Pre-trained Image-Text Model to Video-Language Representation Alignment", ICLR, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2209.06430)][[Code (in construction)](https://github.com/microsoft/XPretrain/tree/main/CLIP-ViP)]
     * **VDI**: "Towards Generalisable Video Moment Retrieval: Visual-Dynamic Injection to Image-Text Pre-Training", CVPR, 2023 (*Queen Mary University of London*). [[Paper](https://arxiv.org/abs/2303.00040)]
+    * **DiffusionRet**: "DiffusionRet: Generative Text-Video Retrieval with Diffusion Model", arXiv, 2023 (*Peking University*). [[Paper](https://arxiv.org/abs/2303.09867)]
 
 [[Back to Overview](#overview)]
 
@@ -2036,6 +2039,7 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
 * 3D:
     * **3DRefTransformer**: "3DRefTransformer: Fine-Grained Object Identification in Real-World Scenes Using Natural Language", WACV, 2022 (*KAUST*). [[Paper](https://openaccess.thecvf.com/content/WACV2022/html/Abdelreheem_3DRefTransformer_Fine-Grained_Object_Identification_in_Real-World_Scenes_Using_Natural_Language_WACV_2022_paper.html)][[Website](https://vision-cair.github.io/3dreftransformer/)]
     * **EDA**: "EDA: Explicit Text-Decoupling and Dense Alignment for 3D Visual and Language Learning", arXiv, 2022 (*Peking University*). [[Paper](https://arxiv.org/abs/2209.14941)]
+    * **PLA**: "Language-driven Open-Vocabulary 3D Scene Understanding", arXiv, 2022 (*ByteDance*). [[Paper](https://arxiv.org/abs/2211.16312)][[Code (in construction)](https://github.com/CVMI-Lab/PLA)]
     * **ConceptFusion**: "ConceptFusion: Open-set Multimodal 3D Mapping", arXiv, 2023 (*MIT*). [[Paper](https://arxiv.org/abs/2302.07241)][[Website](https://concept-fusion.github.io/)]
     * **LERF**: "LERF: Language Embedded Radiance Fields", arXiv, 2023 (*Berkeley*). [[Paper](https://arxiv.org/abs/2303.09553)][[Website](https://www.lerf.io/)]
 * Speech Recognition:
