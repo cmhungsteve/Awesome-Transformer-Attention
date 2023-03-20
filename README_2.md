@@ -1239,6 +1239,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **?**: "Extreme Floorplan Reconstruction by Structure-Hallucinating Transformer Cascades", arXiv, 2022 (*Simon Fraser*). [[Paper](https://arxiv.org/abs/2206.00645)]
     * **UniLayout**: "UniLayout: Taming Unified Sequence-to-Sequence Transformers for Graphic Layout Generation", arXiv, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2208.08037)]
     * **DLT**: "DLT: Conditioned layout generation with Joint Discrete-Continuous Diffusion Layout Transformer", arXiv, 2023 (*Wix.com*). [[Paper](https://arxiv.org/abs/2303.03755)]
+    * **RoomFormer**: "Connecting the Dots: Floorplan Reconstruction Using Two-Level Queries", CVPR, 2023 (*ETH Zurich*). [[Paper](https://arxiv.org/abs/2211.15658)][[PyTorch](https://github.com/ywyue/RoomFormer)][[Website](https://ywyue.github.io/RoomFormer/)]
 * Livestock Monitoring:
     * **STARFormer**: "Livestock Monitoring with Transformer", BMVC, 2021 (*IIT Dhanbad*). [[Paper](https://arxiv.org/abs/2111.00801)]
 * Metric Learning:
