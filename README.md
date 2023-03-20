@@ -1992,6 +1992,7 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
     * **LAVT**: "LAVT: Language-Aware Vision Transformer for Referring Image Segmentation", CVPR, 2022 (*Oxford*). [[Paper](https://arxiv.org/abs/2112.02244)]
     * **ReSTR**: "ReSTR: Convolution-free Referring Image Segmentation Using Transformers", CVPR, 2022 (*POSTECH*). [[Paper](https://arxiv.org/abs/2203.16768)][[Website](http://cvlab.postech.ac.kr/research/restr/)]
     * **VLT**: "VLT: Vision-Language Transformer and Query Generation for Referring Segmentation", TPAMI, 2022 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2210.15871)]
+    * **TSEG**: "Weakly-supervised segmentation of referring expressions", arXiv, 2022 (*INRIA*). [[Paper](https://arxiv.org/abs/2205.04725)]
     * **PVD**: "Parallel Vertex Diffusion for Unified Visual Grounding", arXiv, 2023 (*Peking University*). [[Paper](https://arxiv.org/abs/2303.07216)]
 * Tracking:
     * **ModaMixer**: "Divert More Attention to Vision-Language Tracking", NeurIPS, 2022 (*Beijing Jiaotong University*). [[Paper](https://arxiv.org/abs/2207.01076)][[PyTorch](https://github.com/JudasDie/SOTS)]
