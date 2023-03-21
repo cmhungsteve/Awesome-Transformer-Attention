@@ -375,7 +375,7 @@ If you find this repository useful, please consider citing this list:
     * **STDT**: "Deepfake Video Detection with Spatiotemporal Dropout Transformer", arXiv, 2022 (*CAS*). [[Paper](https://arxiv.org/abs/2207.06612)]
     * **?**: "Deep Convolutional Pooling Transformer for Deepfake Detection", arXiv, 2022 (*HKU*). [[Paper](https://arxiv.org/abs/2209.05299)]
 * Fairness:
-    * **TADeT**: "Mitigating Bias in Visual Transformers via Targeted Alignment", BMVC, 2021 (**). [[Paper](https://arxiv.org/abs/2302.04358)]
+    * **TADeT**: "Mitigating Bias in Visual Transformers via Targeted Alignment", BMVC, 2021 (*Georgia Tech*). [[Paper](https://arxiv.org/abs/2302.04358)]
 
 [[Back to Overview](#overview)]
 
@@ -1258,6 +1258,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **GATN**: "Graph Attention Transformer Network for Multi-Label Image Classification", arXiv, 2022 (*Southeast University, China*). [[Paper](https://arxiv.org/abs/2203.04049)]
 * Multi-task:
     * **MulT**: "MulT: An End-to-End Multitask Learning Transformer", CVPR, 2022 (*EPFL*). [[Paper](https://arxiv.org/abs/2205.08303)]
+    * **Painter**: "Images Speak in Images: A Generalist Painter for In-Context Visual Learning", CVPR, 2023 (*BAAI*). [[Paper](https://arxiv.org/abs/2212.02499)][[Code (in construction)](https://github.com/baaivision/Painter)]
 * Open Set:
     * **OSR-ViT**: "Open Set Recognition using Vision Transformer with an Additional Detection Head", arXiv, 2022 (*Vanderbilt University, Tennessee*). [[Paper](https://arxiv.org/abs/2203.08441)]
 * Operator Learning for PDEs:
