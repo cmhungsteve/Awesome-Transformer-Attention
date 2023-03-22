@@ -192,6 +192,7 @@ If you find this repository useful, please consider citing this list:
     * **INT**: "Capturing the Motion of Every Joint: 3D Human Pose and Shape Estimation with Independent Tokens", ICLR, 2023 (*Southeast University*). [[Paper](https://openreview.net/forum?id=0Vv4H4Ch0la)]
     * **TBIFormer**: "Trajectory-Aware Body Interaction Transformer for Multi-Person Pose Forecasting", CVPR, 2023 (*Hangzhou Dianzi Universit*). [[Paper](https://arxiv.org/abs/2303.05095)]
     * **PSVT**: "PSVT: End-to-End Multi-person 3D Pose and Shape Estimation with Progressive Video Transformers", CVPR, 2023 (*Baidu*). [[Paper](https://arxiv.org/abs/2303.09187)]
+    * **PCT**: "Human Pose as Compositional Tokens", CVPR, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2303.11638)][[Code (in construction)](https://github.com/Gengzigang/PCT)][[Website](https://sites.google.com/view/pctpose)]
 * Hands:
     * **Hand-Transformer**: "Hand-Transformer: Non-Autoregressive Structured Modeling for 3D Hand Pose Estimation", ECCV, 2020 (*Kwai*). [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/4836_ECCV_2020_paper.php)]
     * **SCAT**: "SCAT: Stride Consistency With Auto-Regressive Regressor and Transformer for Hand Pose Estimation", ICCVW, 2021 (*Alibaba*). [[Paper](https://openaccess.thecvf.com/content/ICCV2021W/SoMoF/html/Gao_SCAT_Stride_Consistency_With_Auto-Regressive_Regressor_and_Transformer_for_Hand_ICCVW_2021_paper.html)]
@@ -613,6 +614,7 @@ If you find this repository useful, please consider citing this list:
     * **BiT**: "Blur Interpolation Transformer for Real-World Motion from Blur", arXiv, 2022 (*The University of Tokyo*). [[Paper](https://arxiv.org/abs/2211.11423)]
     * **FFTformer**: "Efficient Frequency Domain-based Transformers for High-Quality Image Deblurring", arXiv, 2022 (*Nanjing University of Science and Technology*). [[Paper](https://arxiv.org/abs/2211.12250)][[Code (in construction)](https://github.com/kkkls/FFTformer)]
     * **SST**: "Spatial-Spectral Transformer for Hyperspectral Image Denoising", arXiv, 2022 (*Beijing Institute of Technology*). [[Paper](https://arxiv.org/abs/2211.14090)][[PyTorch](https://github.com/MyuLi/SST)]
+    * **DRSformer**: "Learning A Sparse Transformer Network for Effective Image Deraining", CVPR, 2023 (*Nanjing University of Science and Technology*). [[Paper](https://arxiv.org/abs/2303.11950)][[PyTorch](https://github.com/cschenxiang/DRSformer)]
     * **SelfPromer**: "SelfPromer: Self-Prompt Dehazing Transformers with Depth-Consistency", arXiv, 2023 (*The Hong Kong Polytechnic University*). [[Paper](https://arxiv.org/abs/2303.07033)]
     * **Xformer**: "Xformer: Hybrid X-Shaped Transformer for Image Denoising", arXiv, 2023 (*Shanghai Jiao Tong*). [[Paper](https://arxiv.org/abs/2303.06440)]
 
