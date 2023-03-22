@@ -818,9 +818,9 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **YONOD**: "You Only Need One Detector: Unified Object Detector for Different Modalities based on Vision Transformers", arXiv, 2022 (*CUNY*). [[Paper](https://arxiv.org/abs/2207.01071)][[PyTorch](https://github.com/liketheflower/YONOD)]
 * **OmDet**: "OmDet: Language-Aware Object Detection with Large-scale Vision-Language Multi-dataset Pre-training", arXiv, 2022 (*Binjiang Institute of Zhejiang University*). [[Paper](https://arxiv.org/abs/2209.05946)]
 * **Detection-Hub**: "Detection Hub: Unifying Object Detection Datasets via Query Adaptation on Language Embedding", arXiv, 2022 (*Fudan + Microsoft*). [[Paper](https://arxiv.org/abs/2206.03484)]
-* **F-VLM**: "F-VLM: Open-Vocabulary Object Detection upon Frozen Vision and Language Models", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2209.15639)]
 * **ContFormer**: "Video Referring Expression Comprehension via Transformer with Content-aware Query", arXiv, 2022 (*Peking University*). [[Paper](https://arxiv.org/abs/2210.02953)]
 * **DQ-DETR**: "DQ-DETR: Dual Query Detection Transformer for Phrase Extraction and Grounding", AAAI, 2023 (*International Digital Economy Academy (IDEA)*). [[Paper](https://arxiv.org/abs/2211.15516)][[Code (in construction)](https://github.com/IDEA-Research/DQ-DETR)]
+* **F-VLM**: "F-VLM: Open-Vocabulary Object Detection upon Frozen Vision and Language Models", ICLR, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2209.15639)][[Website](https://sites.google.com/view/f-vlm)]
 
 [[Back to Overview](#overview)]
 
