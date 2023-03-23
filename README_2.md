@@ -132,6 +132,7 @@ If you find this repository useful, please consider citing this list:
 * **Text4Point**: "Joint Representation Learning for Text and 3D Point Cloud", arXiv, 2023 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2301.07584)][[Code (in construction)](https://github.com/LeapLabTHU/Text4Point)]
 * **FullFormer**: "FullFormer: Generating Shapes Inside Shapes", arXiv, 2023 (*University of Siegen, Germany*). [[Paper](https://arxiv.org/abs/2303.11235)]
 * **RegFormer**: "RegFormer: An Efficient Projection-Aware Transformer Network for Large-Scale Point Cloud Registration", arXiv, 2023 (*Shanghai Jiao Tong*). [[Paper](https://arxiv.org/abs/2303.12384)]
+* **Joint-MAE**: "Joint-MAE: 2D-3D Joint Masked Autoencoders for 3D Point Cloud Pre-training", arXiv, 2023 (*CUHK*). [[Paper](https://arxiv.org/abs/2302.14007)]
 
 [[Back to Overview](#overview)]
 
