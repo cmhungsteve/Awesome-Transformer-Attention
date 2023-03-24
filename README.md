@@ -503,6 +503,7 @@ If you find this repository useful, please consider citing this list:
 * **LGSimCLR**: "Learning Visual Representations via Language-Guided Sampling", arXiv, 2023 (*Michigan*). [[Paper](https://arxiv.org/abs/2302.12248)][[PyTorch](https://github.com/mbanani/lgssl)]
 * **CountBench**: "Teaching CLIP to Count to Ten", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2302.12066)]
 * **CCViT**: "Centroid-centered Modeling for Efficient Vision Transformer Pre-training", arXiv, 2023 (*Wuhan University*). [[Paper](https://arxiv.org/abs/2303.04664)]
+* **MAE-WSP**: "The effectiveness of MAE pre-pretraining for billion-scale pretraining", arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2303.13496)]
 #### Robustness + Transformer
 * **ViT-Robustness**: "Understanding Robustness of Transformers for Image Classification", ICCV, 2021 (*Google*). [[Paper](https://arxiv.org/abs/2103.14586)]
 * **SAGA**: "On the Robustness of Vision Transformers to Adversarial Examples", ICCV, 2021 (*University of Connecticut*). [[Paper](https://arxiv.org/abs/2104.02610)]
@@ -900,6 +901,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **CapDet**: "CapDet: Unifying Dense Captioning and Open-World Detection Pretraining", CVPR, 2023 (*Sun Yat-sen University*). [[Paper](https://arxiv.org/abs/2303.02489)]
     * **Grounding-DINO**: "Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection", arXiv, 2023 (*IDEA*). [[Paper](https://arxiv.org/abs/2303.05499)]
     * **GridCLIP**: "GridCLIP: One-Stage Object Detection by Grid-Level CLIP Representation Learning", arXiv, 2023 (*Queen Mary University of London*). [[Paper](https://arxiv.org/abs/2303.09252)]
+    * **?**: "Three ways to improve feature alignment for open vocabulary detection", arXiv, 2023 (*DeepMind*). [[Paper](https://arxiv.org/abs/2303.13518)]
 * Pedestrian Detection:
     * **PED**: "DETR for Crowd Pedestrian Detection", arXiv, 2020 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2012.06785)][[PyTorch](https://github.com/Hatmm/PED-DETR-for-Pedestrian-Detection)]
     * **?**: "Effectiveness of Vision Transformer for Fast and Accurate Single-Stage Pedestrian Detection", NeurIPS, 2022 (*ICL*). [[Paper](https://openreview.net/forum?id=eow_ZGaw24j)]
@@ -1179,6 +1181,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **3DSeg**: "3D Segmenter: 3D Transformer based Semantic Segmentation via 2D Panoramic Distillation", ICLR, 2023 (*The University of Tokyo*). [[Paper](https://openreview.net/forum?id=4dZeBJ83oxk)]
     * **Analogical-Network**: "Analogical Networks for Memory-Modulated 3D Parsing", ICLR, 2023 (*CMU*). [[Paper](https://openreview.net/forum?id=SRIQZTh0IK)]
     * **CLIP-FO3D**: "CLIP-FO3D: Learning Free Open-world 3D Scene Representations from 2D Dense CLIP", arXiv, 2023 (*Tsinghua University*). [[Paper](https://arxiv.org/abs/2303.04748)]
+    * **P3Former**: "Position-Guided Point Cloud Panoptic Segmentation Transformer", arXiv, 2023 (*1Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2303.13509)][[Code (in construction)](https://github.com/SmartBot-PJLab/P3Former)]
 * Multi-Task:
     * **MTFormer**: "MTFormer: Multi-task Learning via Transformer and Cross-Task Reasoning", ECCV, 2022 (*CUHK*). [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/1353_ECCV_2022_paper.php)]
     * **MQTransformer**: "Multi-Task Learning with Multi-Query Transformer for Dense Prediction", arXiv, 2022 (*Wuhan University*). [[Paper](https://arxiv.org/abs/2205.14354)]
@@ -1256,6 +1259,7 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
     * **PatchBlender**: "PatchBlender: A Motion Prior for Video Transformers", arXiv, 2022 (*Mila*). [[Paper](https://arxiv.org/abs/2211.14449)]
     * **TubeViT**: "Rethinking Video ViTs: Sparse Video Tubes for Joint Image and Video Learning", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2212.03229)]
     * **DualPath**: "Dual-path Adaptation from Image to Video Transformers", CVPR, 2023 (*Yonsei University*). [[Paper](https://arxiv.org/abs/2303.09857)][[PyTorch (in construction)](https://github.com/park-jungin/DualPath)]
+    * **BEAR**: "A Large-scale Study of Spatiotemporal Representation Learning with a New Benchmark on Action Recognition", arXiv, 2023 (*UCF*). [[Paper](https://arxiv.org/abs/2303.13505)][[GitHub](https://github.com/AndongDeng/BEAR)]
 * Depth:
     * **Trear**: "Trear: Transformer-based RGB-D Egocentric Action Recognition",  IEEE Transactions on Cognitive and Developmental Systems, 2021 (*Tianjing University*). [[Paper](https://ieeexplore.ieee.org/document/9312201)]
 * Pose/Skeleton:
@@ -1659,6 +1663,7 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
     * **LAR**: "Look Around and Refer: 2D Synthetic Semantics Knowledge Distillation for 3D Visual Grounding", NeurIPS, 2022 (*KAUST*). [[Paper](https://arxiv.org/abs/2211.14241)][[Website](https://eslambakr.github.io/LAR.github.io/)]
     * **3D-CG**: "3D Concept Grounding on Neural Fields", NeurIPS, 2022 (*MIT*). [[Paper](https://arxiv.org/abs/2207.06403)][[Website](http://3d-cg.csail.mit.edu/)]
     * **UniT3D**: "UniT3D: A Unified Transformer for 3D Dense Captioning and Visual Grounding", arXiv, 2022 (*TUM*). [[Paper](https://arxiv.org/abs/2212.00836)]
+    * **NS3D**: "NS3D: Neuro-Symbolic Grounding of 3D Objects and Relations", CVPR, 2023 (*Stanford*). [[Paper](https://arxiv.org/abs/2303.13483)]
 
 [[Back to Overview](#overview)]
 
