@@ -213,7 +213,8 @@ If you find this repository useful, please consider citing this list:
     * **DPT-VO**: "Dense Prediction Transformer for Scale Estimation in Monocular Visual Odometry", arXiv, 2022 (*Aeronautics Institute of Technology, Brazil*). [[Paper](https://arxiv.org/abs/2210.01723)]
     * **?**: "Video based Object 6D Pose Estimation using Transformers", arXiv, 2022 (*Georgia Tech*). [[Paper](https://arxiv.org/abs/2210.13540)][[PyTorch](https://github.com/ApoorvaBeedu/VideoPose)]
     * **PoET**: "PoET: Pose Estimation Transformer for Single-View, Multi-Object 6D Pose Estimation", arXiv, 2022 (*Infineon Technologies Austria AG*). [[Paper](https://arxiv.org/abs/2211.14125)][[PyTorch](https://github.com/aau-cns/poet)]
-    * **CRT-6D**: "CRT-6D: Fast 6D Object Pose Estimation with Cascaded Refinement Transformers", WACV, 2023 (ICL, UK**). [[Paper](https://arxiv.org/abs/2210.11718)][[Code (in construction)](https://github.com/PedroCastro/CRT-6D)]
+    * **CRT-6D**: "CRT-6D: Fast 6D Object Pose Estimation with Cascaded Refinement Transformers", WACV, 2023 (*ICL, UK*). [[Paper](https://arxiv.org/abs/2210.11718)][[Code (in construction)](https://github.com/PedroCastro/CRT-6D)]
+    * **TransPoser**: "TransPoser: Transformer as an Optimizer for Joint Object Shape and Pose Estimation", arXiv, 2023 (*Kyoto University*). [[Paper](https://arxiv.org/abs/2303.13477)]
 
 [[Back to Overview](#overview)]
 
@@ -454,6 +455,7 @@ If you find this repository useful, please consider citing this list:
     * **FedAPT**: "Cross-domain Federated Adaptive Prompt Tuning for CLIP", arXiv, 2022 (*Fudan University*). [[Paper](https://arxiv.org/abs/2211.07864)]
     * **MetaPrompt**: "Learning Domain Invariant Prompt for Vision-Language Models", arXiv, 2022 (*Tongji University + Microsoft*). [[Paper](https://arxiv.org/abs/2212.04196)]
     * **GMoE**: "Sparse Mixture-of-Experts are Domain Generalizable Learners", ICLR, 2023 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2206.04046)]
+    * **PMTrans**: "Patch-Mix Transformer for Unsupervised Domain Adaptation: A Game Perspective", CVPR, 2023 (*HKUST*). [[Paper](https://arxiv.org/abs/2303.13434)][[Website (in construction)](https://vlis2022.github.io/cvpr23/PMTrans)]
     * **StyLIP**: "StyLIP: Multi-Scale Style-Conditioned Prompt Learning for CLIP-based Domain Generalization", arXiv, 2023 (*TUM*). [[Paper](https://arxiv.org/abs/2302.09251)]
     * **FedCLIP**: "FedCLIP: Fast Generalization and Personalization for CLIP in Federated Learning", arXiv, 2023 (*CAS*). [[Paper](https://arxiv.org/abs/2302.13485)][[PyTorch](https://github.com/microsoft/PersonalizedFL)]
 * X-Supervised:
@@ -618,6 +620,7 @@ If you find this repository useful, please consider citing this list:
     * **FFTformer**: "Efficient Frequency Domain-based Transformers for High-Quality Image Deblurring", arXiv, 2022 (*Nanjing University of Science and Technology*). [[Paper](https://arxiv.org/abs/2211.12250)][[Code (in construction)](https://github.com/kkkls/FFTformer)]
     * **SST**: "Spatial-Spectral Transformer for Hyperspectral Image Denoising", arXiv, 2022 (*Beijing Institute of Technology*). [[Paper](https://arxiv.org/abs/2211.14090)][[PyTorch](https://github.com/MyuLi/SST)]
     * **DRSformer**: "Learning A Sparse Transformer Network for Effective Image Deraining", CVPR, 2023 (*Nanjing University of Science and Technology*). [[Paper](https://arxiv.org/abs/2303.11950)][[PyTorch](https://github.com/cschenxiang/DRSformer)]
+    * **MaskedDenoising**: "Masked Image Training for Generalizable Deep Image Denoising", CVPR, 2023 (*HKUST*). [[Paper](https://arxiv.org/abs/2303.13132)][[Code (in construction)](https://github.com/haoyuc/MaskedDenoising)]
     * **SelfPromer**: "SelfPromer: Self-Prompt Dehazing Transformers with Depth-Consistency", arXiv, 2023 (*The Hong Kong Polytechnic University*). [[Paper](https://arxiv.org/abs/2303.07033)]
     * **Xformer**: "Xformer: Hybrid X-Shaped Transformer for Image Denoising", arXiv, 2023 (*Shanghai Jiao Tong*). [[Paper](https://arxiv.org/abs/2303.06440)]
 
@@ -1437,6 +1440,8 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **Action-GPT**: "Action-GPT: Leveraging Large-scale Language Models for Improved and Generalized Zero Shot Action Generation", arXiv, 2022 (*IIIT Hyderabad*). [[Paper](https://arxiv.org/abs/2211.15603)][[Website](https://actiongpt.github.io/)]
     * **Optimus**: "Transformer-Based Learned Optimization", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2212.01055)]
     * **MDM**: "Human Motion Diffusion Model", ICLR, 2023 (*Tel Aviv University*). [[Paper](https://arxiv.org/abs/2209.14916)][[PyTorch](https://github.com/GuyTevet/motion-diffusion-model)][[Website](https://guytevet.github.io/mdm-page/)]
+    * **POTTER**: "POTTER: Pooling Attention Transformer for Efficient Human Mesh Recovery", CVPR, 2023 (*OPPO*). [[Paper](https://arxiv.org/abs/2303.13357)]
+    * **DDT**: "DDT: A Diffusion-Driven Transformer-based Framework for Human Mesh Recovery from a Video", arXiv, 2023 (*OPPO*). [[Paper](https://arxiv.org/abs/2303.13397)]
 * 3D Object Recognition:
     * **MVT**: "MVT: Multi-view Vision Transformer for 3D Object Recognition", BMVC, 2021 (*Baidu*). [[Paper](https://arxiv.org/abs/2110.13083)]
 * 3D Reconstruction:
