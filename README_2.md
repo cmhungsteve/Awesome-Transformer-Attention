@@ -497,6 +497,7 @@ If you find this repository useful, please consider citing this list:
     * **QSFormer**: "Few-Shot Learning Meets Transformer: Unified Query-Support Transformers for Few-Shot Classification", arXiv, 2022 (*Anhui University*). [[Paper](https://arxiv.org/abs/2208.12398)]
     * **FS-CT**: "Enhancing Few-shot Image Classification with Cosine Transformer", arXiv, 2022 (*VinUniversity, Vietnam*). [[Paper](https://arxiv.org/abs/2211.06828)][[PyTorch](https://github.com/vinuni-vishc/Few-Shot-Cosine-Transformer)]
     * **CoCa-CNI**: "Exploiting Category Names for Few-Shot Classification with Vision-Language Models", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2211.16594)]
+    * **SP**: "Semantic Prompt for Few-Shot Image Recognition", CVPR, 2023 (*USTC*). [[Paper](https://arxiv.org/abs/2303.14123)]
 * Continual Learning:
     * **MEAT**: "Meta-attention for ViT-backed Continual Learning", CVPR, 2022 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2203.11684)][[Code (in construction)](https://github.com/zju-vipa/MEAT-TIL)]
     * **DyTox**: "DyTox: Transformers for Continual Learning with DYnamic TOken eXpansion", CVPR, 2022 (*Sorbonne Universite, France*). [[Paper](https://arxiv.org/abs/2111.11326)][[PyTorch](https://github.com/arthurdouillard/dytox)]
@@ -733,6 +734,7 @@ If you find this repository useful, please consider citing this list:
 * **DPC**: "Discrete Predictor-Corrector Diffusion Models for Image Synthesis", ICLR, 2023 (*Google*). [[Paper](https://openreview.net/forum?id=VM8batVBWvg)]
 * **LayoutDM**: "LayoutDM: Discrete Diffusion Model for Controllable Layout Generation", CVPR, 2023 (*CyberAgent, Japan*). [[Paper](https://arxiv.org/abs/2303.08137)][[PyTorch](https://github.com/CyberAgentAILab/layout-dm)][[Website](https://cyberagentailab.github.io/layout-dm/)]
 * **GTGAN**: "Graph Transformer GANs for Graph-Constrained House Generation", CVPR, 2023 (*ETHZ*). [[Paper](https://arxiv.org/abs/2303.08225)]
+* **ABLE-NeRF**: "ABLE-NeRF: Attention-Based Rendering with Learnable Embeddings for Neural Radiance Field", CVPR, 2023 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2303.13817)]
 * **VQ3D**: "VQ3D: Learning a 3D-Aware Generative Model on ImageNet", arXiv, 2023 (*Stanford*). [[Paper](https://arxiv.org/abs/2302.06833)][[Website](https://kylesargent.github.io/vq3d)]
 * **LayoutDiffuse**: "LayoutDiffuse: Adapting Foundational Diffusion Models for Layout-to-Image Generation", arXiv, 2023 (*Amazon*). [[Paper](https://arxiv.org/abs/2302.08908)]
 * **StraIT**: "StraIT: Non-autoregressive Generation with Stratified Image Transformer", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2303.00750)]
