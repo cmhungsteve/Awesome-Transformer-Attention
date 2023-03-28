@@ -124,6 +124,7 @@ If you find this repository useful, please consider citing this list:
 * **PartSLIP**: "PartSLIP: Low-Shot Part Segmentation for 3D Point Clouds via Pretrained Image-Language Models", arXiv, 2022 (*Qualcomm*). [[Paper](https://arxiv.org/abs/2212.01558)]
 * **EPCL**: "Frozen CLIP Model is Efficient Point Cloud Backbone", arXiv, 2022 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2212.04098)]
 * **ULIP**: "ULIP: Learning Unified Representation of Language, Image and Point Cloud for 3D Understanding", arXiv, 2022 (*Salesforce*). [[Paper](https://arxiv.org/abs/2212.05171)][[Website](https://tycho-xue.github.io/ULIP/)]
+* **CAT**: "Context-Aware Transformer for 3D Point Cloud Automatic Annotation", AAAI, 2023 (*HKU*). [[Paper](https://arxiv.org/abs/2303.14893)]
 * **ACT**: "Autoencoders as Cross-Modal Teachers: Can Pretrained 2D Image Transformers Help 3D Representation Learning?", ICLR, 2023 (*Megvii*). [[Paper](https://arxiv.org/abs/2212.08320)][[PyTorch](https://github.com/RunpeiDong/ACT)]
 * **ProxyFormer**: "ProxyFormer: Proxy Alignment Assisted Point Cloud Completion with Missing Part Sensitive Transformer", CVPR, 2023 (*Nanjing University of Aeronautics and Astronautics*). [[Paper](https://arxiv.org/abs/2302.14435)][[PyTorch](https://github.com/I2-Multimedia-Lab/ProxyFormer)]
 * **I2P-MAE.**: "Learning 3D Representations from 2D Pre-trained Models via Image-to-Point Masked Autoencoders", CVPR, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2212.06785)][[Code (in construction)](https://github.com/ZrrSkywalker/I2P-MAE)]
@@ -476,6 +477,7 @@ If you find this repository useful, please consider citing this list:
     * **SuS-X**: "SuS-X: Training-Free Name-Only Transfer of Vision-Language Models", arXiv, 2022 (*Cambridge*). [[Paper](https://arxiv.org/abs/2211.16198)][[PyTorch](https://github.com/vishaal27/SuS-X)]
     * **I2MVFormer**: "I2MVFormer: Large Language Model Generated Multi-View Document Supervision for Zero-Shot Image Classification", arXiv, 2022 (*ETHZ*). [[Paper](https://arxiv.org/abs/2212.02291)]
     * **MUST**: "Masked Unsupervised Self-training for Zero-shot Image Classification", ICLR, 2023 (*Salesforce*). [[Paper](https://arxiv.org/abs/2206.02967)][[PyTorch](https://github.com/salesforce/MUST)]
+    * **?**: "Text-to-Image Diffusion Models are Zero-Shot Classifiers", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2303.15233)]
 * X-Shot:
     * **CrossTransformer**: "CrossTransformers: spatially-aware few-shot transfer", NeurIPS, 2020 (*DeepMind*). [[Paper](https://arxiv.org/abs/2007.11498)][[Tensorflow](https://github.com/google-research/meta-dataset)]
     * **URT**: "A Universal Representation Transformer Layer for Few-Shot Image Classification", ICLR, 2021 (*Mila*). [[Paper](https://openreview.net/forum?id=04cII6MumYV)][[PyTorch](https://github.com/liulu112601/URT)]
@@ -1422,6 +1424,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **MCAS-IQA**: "Visual Mechanisms Inspired Efficient Transformers for Image and Video Quality Assessment", arXiv, 2022 (*Norwegian Research Centre, Norway*). [[Paper](https://arxiv.org/abs/2203.14557)]
     * **MSTRIQ**: "MSTRIQ: No Reference Image Quality Assessment Based on Swin Transformer with Multi-Stage Fusion", arXiv, 2022 (*ByteDance*). [[Paper](https://arxiv.org/abs/2205.10101)]
     * **DisCoVQA**: "DisCoVQA: Temporal Distortion-Content Transformers for Video Quality Assessment", arXiv, 2022 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2206.09853)]
+    * **LIQE**: "Blind Image Quality Assessment via Vision-Language Correspondence: A Multitask Learning Perspective", CVPR, 2023 (*Shanghai Jiao Tong*). [[Paper](https://arxiv.org/abs/2303.14968)][[Code (in construction)](https://github.com/zwx8981/LIQE)]
     * **MRET**: "MRET: Multi-resolution Transformer for Video Quality Assessment", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2303.07489)]
 * Visual Reasoning:
     * **SAViR-T**: "SAViR-T: Spatially Attentive Visual Reasoning with Transformers", arXiv, 2022 (*Rutgers University*). [[Paper](https://arxiv.org/abs/2206.09265)]
