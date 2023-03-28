@@ -824,6 +824,7 @@ If you find this repository useful, please consider citing this list:
     * **Contextformer**: "Contextformer: A Transformer with Spatio-Channel Attention for Context Modeling in Learned Image Compression", ECCV, 2022 (*TUM*). [[Paper](https://arxiv.org/abs/2203.02452)]
     * **VCT**: "VCT: A Video Compression Transformer", NeurIPS, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2206.07307)]
     * **MIMT**: "MIMT: Masked Image Modeling Transformer for Video Compression", ICLR, 2023 (*Tencent*). [[Paper](https://openreview.net/forum?id=j9m-mVnndbm)]
+    * **TCM**: "Learned Image Compression with Mixed Transformer-CNN Architectures", CVPR, 2023 (*Waseda University*). [[Paper](https://arxiv.org/abs/2303.14978)][[Code (in construction)](https://github.com/jmliu206/LIC_TCM)]
 * Matting:
     * **MatteFormer**: "MatteFormer: Transformer-Based Image Matting via Prior-Tokens", CVPR, 2022 (*SNU + NAVER*). [[Paper](https://arxiv.org/abs/2203.15662)][[PyTorch](https://github.com/webtoon/matteformer)]
     * **TransMatting**: "TransMatting: Enhancing Transparent Objects Matting with Transformers", ECCV, 2022 (*CAS*). [[Paper](https://arxiv.org/abs/2208.03007)][[Code (in construction)](https://github.com/AceCHQ/TransMatting)]
