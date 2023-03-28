@@ -126,6 +126,7 @@ If you find this repository useful, please consider citing this list:
 * **ULIP**: "ULIP: Learning Unified Representation of Language, Image and Point Cloud for 3D Understanding", arXiv, 2022 (*Salesforce*). [[Paper](https://arxiv.org/abs/2212.05171)][[Website](https://tycho-xue.github.io/ULIP/)]
 * **CAT**: "Context-Aware Transformer for 3D Point Cloud Automatic Annotation", AAAI, 2023 (*HKU*). [[Paper](https://arxiv.org/abs/2303.14893)]
 * **ACT**: "Autoencoders as Cross-Modal Teachers: Can Pretrained 2D Image Transformers Help 3D Representation Learning?", ICLR, 2023 (*Megvii*). [[Paper](https://arxiv.org/abs/2212.08320)][[PyTorch](https://github.com/RunpeiDong/ACT)]
+* **ViPFormer**: "ViPFormer: Efficient Vision-and-Pointcloud Transformer for Unsupervised Pointcloud Understanding", ICRA, 2023 (*Renmin University of China*). [[Paper](https://arxiv.org/abs/2303.14376)][[PyTorch](https://github.com/auniquesun/ViPFormer)]
 * **ProxyFormer**: "ProxyFormer: Proxy Alignment Assisted Point Cloud Completion with Missing Part Sensitive Transformer", CVPR, 2023 (*Nanjing University of Aeronautics and Astronautics*). [[Paper](https://arxiv.org/abs/2302.14435)][[PyTorch](https://github.com/I2-Multimedia-Lab/ProxyFormer)]
 * **I2P-MAE.**: "Learning 3D Representations from 2D Pre-trained Models via Image-to-Point Masked Autoencoders", CVPR, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2212.06785)][[Code (in construction)](https://github.com/ZrrSkywalker/I2P-MAE)]
 * **RoITr**: "Rotation-Invariant Transformer for Point Cloud Matching", CVPR, 2023 (*TUM*). [[Paper](https://arxiv.org/abs/2303.08231)]
@@ -740,6 +741,7 @@ If you find this repository useful, please consider citing this list:
 * **VQ3D**: "VQ3D: Learning a 3D-Aware Generative Model on ImageNet", arXiv, 2023 (*Stanford*). [[Paper](https://arxiv.org/abs/2302.06833)][[Website](https://kylesargent.github.io/vq3d)]
 * **LayoutDiffuse**: "LayoutDiffuse: Adapting Foundational Diffusion Models for Layout-to-Image Generation", arXiv, 2023 (*Amazon*). [[Paper](https://arxiv.org/abs/2302.08908)]
 * **StraIT**: "StraIT: Non-autoregressive Generation with Stratified Image Transformer", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2303.00750)]
+* **MDT**: "Masked Diffusion Transformer is a Strong Image Synthesizer", arXiv, 2023 (*Sea AI Lab*). [[Paper](https://arxiv.org/abs/2303.14389)][[PyTorch](https://github.com/sail-sg/MDT)]
 
 [[Back to Overview](#overview)]
 
@@ -1163,6 +1165,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **CoMER**: "CoMER: Modeling Coverage for Transformer-based Handwritten Mathematical Expression Recognition", ECCV, 2022 (*Peking University*). [[Paper](https://arxiv.org/abs/2207.04410)][[PyTorch](https://github.com/Green-Wood/CoMER)]
     * **MATRN**: "Multi-modal Text Recognition Networks: Interactive Enhancements between Visual and Semantic Features", ECCV, 2022 (*KAIST*). [[Paper](https://arxiv.org/abs/2111.15263)][[PyTorch](https://github.com/byeonghu-na/MATRN)]
     * **CONSENT**: "CONSENT: Context Sensitive Transformer for Bold Words Classification", arXiv, 2022 (*Amazon*). [[Paper](https://arxiv.org/abs/2205.07683)]
+    * **DeepVecFont-v2**: "DeepVecFont-v2: Exploiting Transformers to Synthesize Vector Fonts with Higher Quality", CVPR, 2023 (*Peking University*). [[Paper](https://arxiv.org/abs/2303.14585)][[Code (in construction)](https://github.com/yizhiwang96/deepvecfont-v2)]
 * Curriculum Learning:
     * **SSTN**: "Spatial Transformer Networks for Curriculum Learning", arXiv, 2021 (*TU Kaiserslautern, Germany*). [[Paper](https://arxiv.org/abs/2108.09696)]
 * Defect Classification:
