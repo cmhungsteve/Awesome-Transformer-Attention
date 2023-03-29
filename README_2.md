@@ -479,6 +479,7 @@ If you find this repository useful, please consider citing this list:
     * **I2MVFormer**: "I2MVFormer: Large Language Model Generated Multi-View Document Supervision for Zero-Shot Image Classification", arXiv, 2022 (*ETHZ*). [[Paper](https://arxiv.org/abs/2212.02291)]
     * **MUST**: "Masked Unsupervised Self-training for Zero-shot Image Classification", ICLR, 2023 (*Salesforce*). [[Paper](https://arxiv.org/abs/2206.02967)][[PyTorch](https://github.com/salesforce/MUST)]
     * **?**: "Text-to-Image Diffusion Models are Zero-Shot Classifiers", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2303.15233)]
+    * **?**: "Your Diffusion Model is Secretly a Zero-Shot Classifier", arXiv, 2023 (*CMU*). [[Paper](https://arxiv.org/abs/2303.16203)][[Code (in construction)](https://github.com/diffusion-classifier/diffusion-classifier)][[Website](https://diffusion-classifier.github.io/)]
 * X-Shot:
     * **CrossTransformer**: "CrossTransformers: spatially-aware few-shot transfer", NeurIPS, 2020 (*DeepMind*). [[Paper](https://arxiv.org/abs/2007.11498)][[Tensorflow](https://github.com/google-research/meta-dataset)]
     * **URT**: "A Universal Representation Transformer Layer for Few-Shot Image Classification", ICLR, 2021 (*Mila*). [[Paper](https://openreview.net/forum?id=04cII6MumYV)][[PyTorch](https://github.com/liulu112601/URT)]
@@ -501,6 +502,7 @@ If you find this repository useful, please consider citing this list:
     * **FS-CT**: "Enhancing Few-shot Image Classification with Cosine Transformer", arXiv, 2022 (*VinUniversity, Vietnam*). [[Paper](https://arxiv.org/abs/2211.06828)][[PyTorch](https://github.com/vinuni-vishc/Few-Shot-Cosine-Transformer)]
     * **CoCa-CNI**: "Exploiting Category Names for Few-Shot Classification with Vision-Language Models", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2211.16594)]
     * **SP**: "Semantic Prompt for Few-Shot Image Recognition", CVPR, 2023 (*USTC*). [[Paper](https://arxiv.org/abs/2303.14123)]
+    * **SMKD**: "Supervised Masked Knowledge Distillation for Few-Shot Transformers", CVPR, 2023 (*Columbia*). [[Paper](https://arxiv.org/abs/2303.15466)][[PyTorch](https://github.com/HL-hanlin/SMKD)]
 * Continual Learning:
     * **MEAT**: "Meta-attention for ViT-backed Continual Learning", CVPR, 2022 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2203.11684)][[Code (in construction)](https://github.com/zju-vipa/MEAT-TIL)]
     * **DyTox**: "DyTox: Transformers for Continual Learning with DYnamic TOken eXpansion", CVPR, 2022 (*Sorbonne Universite, France*). [[Paper](https://arxiv.org/abs/2111.11326)][[PyTorch](https://github.com/arthurdouillard/dytox)]
@@ -523,6 +525,7 @@ If you find this repository useful, please consider citing this list:
     * **CODA-Prompt**: "CODA-Prompt: COntinual Decomposed Attention-based Prompting for Rehearsal-Free Continual Learning", arXiv, 2022 (*IBM*). [[Paper](https://arxiv.org/abs/2211.13218)]
     * **PIVOT**: "PIVOT: Prompting for Video Continual Learning", arXiv, 2022 (*KAUST*). [[Paper](https://arxiv.org/abs/2212.04842)]
     * **PromptFusion**: "PromptFusion: Decoupling Stability and Plasticity for Continual Learning", arXiv, 2023 (*Fudan*). [[Paper](https://arxiv.org/abs/2303.07223)]
+    * **MSc-iNCD**: "Large-scale Pre-trained Models are Surprisingly Strong in Incremental Novel Class Discovery", arXiv, 2023 (*University of Trento, Italy*). [[Paper](https://arxiv.org/abs/2303.15975)][[PyTorch (in construction)](https://github.com/OatmealLiu/MSc-iNCD)]
 * Long-tail/Imbalanced:
     * **BatchFormer**: "BatchFormer: Learning to Explore Sample Relationships for Robust Representation Learning", CVPR, 2022 (*The University of Sydney*). [[Paper](https://arxiv.org/abs/2203.01522)][[PyTorch](https://github.com/zhihou7/BatchFormer)]
     * **BatchFormerV2**: "BatchFormerV2: Exploring Sample Relationships for Dense Representation Learning", arXiv, 2022 (*The University of Sydney*). [[Paper](https://arxiv.org/abs/2204.01254)]
@@ -884,6 +887,7 @@ If you find this repository useful, please consider citing this list:
 * **BEVBert**: "BEVBert: Topo-Metric Map Pre-training for Language-guided Navigation", arXiv, 2022 (*CAS*). [[Paper](https://arxiv.org/abs/2212.04385)]
 * **Meta-Explore**: "Meta-Explore: Exploratory Hierarchical Vision-and-Language Navigation Using Scene Object Spectrum Grounding", CVPR, 2023 (*Seoul National University*). [[Paper](https://arxiv.org/abs/2303.04077)][[Website](https://rllab-snu.github.io/projects/Meta-Explore/doc.html)]
 * **LANA**: "Lana: A Language-Capable Navigator for Instruction Following and Generation", CVPR, 2023 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2303.08409)][[Code (in construction)](https://github.com/wxh1996/LANA-VLN)]
+* **KERM**: "KERM: Knowledge Enhanced Reasoning for Vision-and-Language Navigation", CVPR, 2023 (*CAS*). [[Paper](https://arxiv.org/abs/2303.15796)][[PyTorch](https://github.com/XiangyangLi20/KERM)]
 * **MLANet**: "MLANet: Multi-Level Attention Network with Sub-instruction for Continuous Vision-and-Language Navigation", arXiv, 2023 (*Tongji University*). [[Paper](https://arxiv.org/abs/2303.01396)][[PyTorch](https://github.com/RavenKiller/MLA)]
 
 [[Back to Overview](#overview)]
