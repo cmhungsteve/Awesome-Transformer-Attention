@@ -2072,6 +2072,7 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
     * **Pix2Seq**: "A Unified Sequence Interface for Vision Tasks", NeurIPS, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2206.07669)]
     * **Unified-IO**: "Unified-IO: A Unified Model for Vision, Language, and Multi-Modal Tasks", ICLR, 2023 (*AI2*). [[Paper](https://arxiv.org/abs/2206.08916)][[JAX](https://github.com/allenai/unified-io-inference)][[Website](https://unified-io.allenai.org/)]
     * **LAVIS**: "LAVIS: A Library for Language-Vision Intelligence", arXiv, 2022 (*Salesforce*). [[Paper](https://arxiv.org/abs/2209.09019)][[PyTorch](https://github.com/salesforce/LAVIS)]
+    * **CoCoCon**: "Exposing and Addressing Cross-Task Inconsistency in Unified Vision-Language Models", arXiv, 2023 (*AI2*). [[Paper](https://arxiv.org/abs/2303.16133)][[PyTorch](https://github.com/adymaharana/cococon)][[Website](https://adymaharana.github.io/cococon/)]
 * Language-based Video Editing:
     * **M<sup>3</sup>L**: "Language-based Video Editing via Multi-Modal Multi-Level Transformer", CVPR, 2022 (*UCSB*). [[Paper](https://arxiv.org/abs/2104.01122)]
     * **Video-P2P**: "Video-P2P: Video Editing with Cross-attention Control", arXiv, 2023 (*CUHK*). [[Paper](https://arxiv.org/abs/2303.04761)][[Website](https://video-p2p.github.io/)]
