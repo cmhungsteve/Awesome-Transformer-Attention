@@ -148,7 +148,7 @@ If you find this repository useful, please consider citing this list:
     * **PRTR**: "Pose Recognition with Cascade Transformers", CVPR, 2021 (*UCSD*). [[Paper](https://arxiv.org/abs/2104.06976)][[PyTorch](https://github.com/mlpc-ucsd/PRTR)]
     * **Mesh-Graphormer**: "Mesh Graphormer", ICCV, 2021 (*Microsoft*). [[Paper](https://arxiv.org/abs/2104.00272)][[PyTorch](https://github.com/microsoft/MeshGraphormer)]
     * **THUNDR**: "THUNDR: Transformer-based 3D HUmaN Reconstruction with Markers", ICCV, 2021 (*Google*). [[Paper](https://arxiv.org/abs/2106.09336)]
-    * **PoseFormer**: "3D Human Pose Estimation with Spatial and Temporal Transformers", ICCV, 2021 (*UNC*). [[Paper](https://arxiv.org/abs/2103.10455)][[PyTorch](https://github.com/zczcwh/PoseFormer)]
+    * **PoseFormer**: "3D Human Pose Estimation with Spatial and Temporal Transformers", ICCV, 2021 (*UCF*). [[Paper](https://arxiv.org/abs/2103.10455)][[PyTorch](https://github.com/zczcwh/PoseFormer)]
     * **TransPose**: "TransPose: Keypoint Localization via Transformer", ICCV, 2021 (*Southeast University, China*). [[Paper](https://arxiv.org/abs/2012.14214)][[PyTorch](https://github.com/yangsenius/TransPose)]
     * **POTR**: "Pose Transformers (POTR): Human Motion Prediction With Non-Autoregressive Transformers", ICCVW, 2021 (*Idiap*). [[Paper](https://openaccess.thecvf.com/content/ICCV2021W/SoMoF/html/Martinez-Gonzalez_Pose_Transformers_POTR_Human_Motion_Prediction_With_Non-Autoregressive_Transformers_ICCVW_2021_paper.html)]
     * **TransFusion**: "TransFusion: Cross-view Fusion with Transformer for 3D Human Pose Estimation", BMVC, 2021 (*UC Irvine*). [[Paper](https://arxiv.org/abs/2110.09554)][[PyTorch](https://github.com/HowieMa/TransFusion-Pose)]
@@ -200,6 +200,7 @@ If you find this repository useful, please consider citing this list:
     * **PSVT**: "PSVT: End-to-End Multi-person 3D Pose and Shape Estimation with Progressive Video Transformers", CVPR, 2023 (*Baidu*). [[Paper](https://arxiv.org/abs/2303.09187)]
     * **PCT**: "Human Pose as Compositional Tokens", CVPR, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2303.11638)][[Code (in construction)](https://github.com/Gengzigang/PCT)][[Website](https://sites.google.com/view/pctpose)]
     * **OSX**: "One-Stage 3D Whole-Body Mesh Recovery with Component Aware Transformer", CVPR, 2023 (*IDEA*). [[Paper](https://arxiv.org/abs/2303.16160)][[PyTorch](https://github.com/IDEA-Research/OSX)][[Website](https://osx-ubody.github.io/)]
+    * **PoseFormerV2**: "PoseFormerV2: Exploring Frequency Domain for Efficient and Robust 3D Human Pose Estimation", CVPR, 2023 (*UCF*). [[Paper](https://arxiv.org/abs/2303.17472)][[PyTorch (in construction)](https://github.com/QitaoZhao/PoseFormerV2)][[Website](https://qitaozhao.github.io/PoseFormerV2)]
 * Hands:
     * **Hand-Transformer**: "Hand-Transformer: Non-Autoregressive Structured Modeling for 3D Hand Pose Estimation", ECCV, 2020 (*Kwai*). [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/4836_ECCV_2020_paper.php)]
     * **SCAT**: "SCAT: Stride Consistency With Auto-Regressive Regressor and Transformer for Hand Pose Estimation", ICCVW, 2021 (*Alibaba*). [[Paper](https://openaccess.thecvf.com/content/ICCV2021W/SoMoF/html/Gao_SCAT_Stride_Consistency_With_Auto-Regressive_Regressor_and_Transformer_for_Hand_ICCVW_2021_paper.html)]
@@ -570,6 +571,7 @@ If you find this repository useful, please consider citing this list:
     * **TMT**: "Imaging through the Atmosphere using Turbulence Mitigation Transformer", arXiv, 2022 (*Purdue*). [[Paper](https://arxiv.org/abs/2207.06465)][[Code (in construction)](https://github.com/xg416/TMT)][[Website](https://xg416.github.io/TMT/)]
     * **LRT**: "LRT: An Efficient Low-Light Restoration Transformer for Dark Light Field Images", arXiv, 2022 (*HKU*). [[Paper](https://arxiv.org/abs/2209.02197)]
     * **ART**: "Accurate Image Restoration with Attention Retractable Transformer", ICLR, 2023 (*Shanghai Jiao Tong University*). [[Paper](https://arxiv.org/abs/2210.01427)][[PyTorch](https://github.com/gladzhang/ART)]
+    * **MAEIP**: "Masked Autoencoders as Image Processors", arXiv, 2023 (*Shanghai Jiao Tong*). [[Paper](https://arxiv.org/abs/2303.17316)][[Code (in construction)](https://github.com/DuanHuiyu/MAEIP_CSformer)]
 * Super-Resolution:
     * **SAN**: "Second-Order Attention Network for Single Image Super-Resolution", CVPR, 2019 (*Tsinghua*). [[Paper](https://openaccess.thecvf.com/content_CVPR_2019/html/Dai_Second-Order_Attention_Network_for_Single_Image_Super-Resolution_CVPR_2019_paper.html)][[PyTorch](https://github.com/daitao/SAN)]
     * **CS-NL**: "Image Super-Resolution with Cross-Scale Non-Local Attention and Exhaustive Self-Exemplars Mining", CVPR, 2020 (*UIUC*). [[Paper](https://arxiv.org/abs/2006.01424)][[PyTorch](https://github.com/SHI-Labs/Cross-Scale-Non-Local-Attention)]
@@ -797,6 +799,7 @@ If you find this repository useful, please consider citing this list:
 * **CLIP-PAE**: "CLIP-PAE: Projection-Augmentation Embedding to Extract Relevant Features for a Disentangled, Interpretable, and Controllable Text-Guided Image Manipulation", arXiv, 2022 (*University of Cambridge*). [[Paper](https://arxiv.org/abs/2210.03919)]
 * **S2WAT**: "S2WAT: Image Style Transfer via Hierarchical Vision Transformer using Strips Window Attention", arXiv, 2022 (*Sichuan Normal University*). [[Paper](https://arxiv.org/abs/2210.12381)]
 * **DiffuseIT**: "Diffusion-based Image Translation using Disentangled Style and Content Representation", ICLR, 2023 (*KAIST*). [[Paper](https://arxiv.org/abs/2209.15264)]
+* **MATEBIT**: "Masked and Adaptive Transformer for Exemplar Based Image Translation", CVPR, 2023 (*Hangzhou Dianzi University*). [[Paper](https://arxiv.org/abs/2303.17123)][[Code (in construction)](https://github.com/AiArt-HDU/MATEBIT)]
 * **pix2pix-zero**: "Zero-shot Image-to-Image Translation", arXiv, 2023 (*Adobe*). [[Paper](https://arxiv.org/abs/2302.03027)][[Code (in construction)](https://github.com/pix2pixzero/pix2pix-zero)][[Website](https://pix2pixzero.github.io/)]
 * **SpectralCLIP**: "SpectralCLIP: Preventing Artifacts in Text-Guided Style Transfer from a Spectral Perspective", arXiv, 2023 (*University of Trento, Italy*). [[Paper](https://arxiv.org/abs/2303.09270)][[Code (in construction)](https://github.com/zipengxuc/SpectralCLIP)]
 
@@ -817,6 +820,7 @@ If you find this repository useful, please consider citing this list:
     * **IAT**: "Illumination Adaptive Transformer", arXiv, 2022 (*The University of Tokyo*). [[Paper](https://arxiv.org/abs/2205.14871)][[PyTorch](https://github.com/cuiziteng/Illumination-Adaptive-Transformer)]
     * **SPGAT**: "Structural Prior Guided Generative Adversarial Transformers for Low-Light Image Enhancement", arXiv, 2022 (*The Hong Kong Polytechnic University*). [[Paper](https://arxiv.org/abs/2207.07828)]
     * **SSTF**: "End-to-end Transformer for Compressed Video Quality Enhancement", arXiv, 2022 (*Nanjing University of Information Science and Technology*). [[Paper](https://arxiv.org/abs/2210.13827)]
+    * **CLIP-LiT**: "Iterative Prompt Learning for Unsupervised Backlit Image Enhancement", arXiv, 2023 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2303.17569)][[Website](https://zhexinliang.github.io/CLIP_LIT_page/)]
 * HDR:
     * **CA-ViT**: "Ghost-free High Dynamic Range Imaging with Context-aware Transformer", ECCV, 2022 (*Megvii*). [[Paper](https://arxiv.org/abs/2208.05114)][[PyTorch](https://github.com/megvii-research/HDR-Transformer)]
     * **Selective-TransHDR**: "Selective TransHDR: Transformer-Based Selective HDR Imaging Using Ghost Region Mask", ECCV, 2022 (*Sogang University, Korea*). [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/6670_ECCV_2022_paper.php)]
