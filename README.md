@@ -374,6 +374,7 @@ If you find this repository useful, please consider citing this list:
 * **HeatViT**: "HeatViT: Hardware-Efficient Adaptive Token Pruning for Vision Transformers", IEEE International Symposium on High-Performance Computer Architecture (HPCA), 2023 (*Northeastern University*). [[Paper](https://arxiv.org/abs/2211.08110)]
 * **ToMe**: "Token Merging: Your ViT But Faster", ICLR, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2210.09461)][[PyTorch](https://github.com/facebookresearch/ToMe)]
 * **STViT**: "Making Vision Transformers Efficient from A Token Sparsification View", CVPR, 2023 (*Alibaba*). [[Paper](https://arxiv.org/abs/2303.08685)]
+* **SparseViT**: "SparseViT: Revisiting Activation Sparsity for Efficient High-Resolution Vision Transformer", CVPR, 2023 (*MIT*). [[Paper](https://arxiv.org/abs/2303.17605)][[Website](https://sparsevit.mit.edu/)]
 * **ElasticViT**: "ElasticViT: Conflict-aware Supernet Training for Deploying Fast Vision Transformer on Diverse Mobile Devices", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2303.09730)]
 * **SeiT**: "SeiT: Storage-Efficient Vision Training with Tokens Using 1% of Pixel Storage", arXiv, 2023 (*NAVER*). [[Paper](https://arxiv.org/abs/2303.11114)][[Code (in construction)](https://github.com/naver-ai/seit)]
 * **FastViT**: "FastViT: A Fast Hybrid Vision Transformer using Structural Reparameterization", arXiv, 2023 (*Apple*). [[Paper](https://arxiv.org/abs/2303.14189)]
@@ -504,9 +505,11 @@ If you find this repository useful, please consider citing this list:
 * **MFM**: "Masked Frequency Modeling for Self-Supervised Visual Pre-Training", ICLR, 2023 (*NTU, Singapore*). [[Paper](https://openreview.net/forum?id=9-umxtNPx5E)][[Website](https://www.mmlab-ntu.com/project/mfm/index.html)]
 * **Mask3D**: "Mask3D: Pre-training 2D Vision Transformers by Learning Masked 3D Priors", CVPR, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2302.14746)]
 * **VisualAtom**: "Visual Atoms: Pre-training Vision Transformers with Sinusoidal Waves", CVPR, 2023 (*National Institute of Advanced Industrial Science and Technology (AIST), Japan*). [[Paper](https://arxiv.org/abs/2303.01112)][[Website (in construction)](https://masora1030.github.io/Visual-Atoms-Pre-training-Vision-Transformers-with-Sinusoidal-Waves/)]
+* **MixedAE**: "Mixed Autoencoder for Self-supervised Visual Representation Learning", CVPR, 2023 (*Huawei*). [[Paper](https://arxiv.org/abs/2303.17152)]
 * **LGSimCLR**: "Learning Visual Representations via Language-Guided Sampling", arXiv, 2023 (*Michigan*). [[Paper](https://arxiv.org/abs/2302.12248)][[PyTorch](https://github.com/mbanani/lgssl)]
 * **CountBench**: "Teaching CLIP to Count to Ten", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2302.12066)]
 * **CCViT**: "Centroid-centered Modeling for Efficient Vision Transformer Pre-training", arXiv, 2023 (*Wuhan University*). [[Paper](https://arxiv.org/abs/2303.04664)]
+* **SoftCLIP**: "SoftCLIP: Softer Cross-modal Alignment Makes CLIP Stronger", arXiv, 2023 (*Tencent*). [[Paper](https://arxiv.org/abs/2303.17561)]
 * **MAE-WSP**: "The effectiveness of MAE pre-pretraining for billion-scale pretraining", arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2303.13496)]
 #### Robustness + Transformer
 * **ViT-Robustness**: "Understanding Robustness of Transformers for Image Classification", ICCV, 2021 (*Google*). [[Paper](https://arxiv.org/abs/2103.14586)]
@@ -1099,9 +1102,11 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **PACL**: "Open Vocabulary Semantic Segmentation with Patch Aligned Contrastive Learning", arXiv, 2022 (*Meta*). [[Paper](https://arxiv.org/abs/2212.04994)]
     * **ZegCLIP**: "ZegCLIP: Towards Adapting CLIP for Zero-shot Semantic Segmentation", arXiv, 2022 (*The University of Adelaide, Australia*). [[Paper](https://arxiv.org/abs/2212.03588)][[PyTorch (in construction)](https://github.com/ZiqinZhou66/ZegCLIP)]
     * **ODISE**: "Open-Vocabulary Panoptic Segmentation with Text-to-Image Diffusion Models", CVPR, 2023 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2303.04803)][[Code (in construction)](https://github.com/NVlabs/ODISE)][[Website](https://jerryxu.net/ODISE/)]
+    * **Mask-free-OVIS**: "Mask-free OVIS: Open-Vocabulary Instance Segmentation without Manual Mask Annotations", CVPR, 2023 (*Salesforce*). [[Paper](https://arxiv.org/abs/2303.16891)][[PyTorch (in construction)](https://github.com/Vibashan/Maskfree-OVIS)]
+    * **FreeSeg**: "FreeSeg: Unified, Universal and Open-Vocabulary Image Segmentation", CVPR, 2023 (*ByteDance*). [[Paper](https://arxiv.org/abs/2303.17225)]
+    * **SAN**: "Side Adapter Network for Open-Vocabulary Semantic Segmentation", CVPR, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2302.12242)]
     * **OVSegmentor**: "Learning Open-vocabulary Semantic Segmentation Models From Natural Language Supervision", arXiv, 2023 (*Fudan University*). [[Paper](https://arxiv.org/abs/2301.09121)]
     * **CGG**: "Betrayed by Captions: Joint Caption Grounding and Generation for Open Vocabulary Instance Segmentation", arXiv, 2023 (*SenseTime*). [[Paper](https://arxiv.org/abs/2301.00805)][[Code (in construction)](https://github.com/jzwu48033552/betrayed-by-captions)]
-    * **SAN**: "Side Adapter Network for Open-Vocabulary Semantic Segmentation", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2302.12242)]
     * **WLSegNet**: "A Language-Guided Benchmark for Weakly Supervised Open Vocabulary Semantic Segmentation", arXiv, 2023 (*IIT, New Delhi*). [[Paper](https://arxiv.org/abs/2302.14163)]
     * **OpenSeeD**: "A Simple Framework for Open-Vocabulary Segmentation and Detection", arXiv, 2023 (*IDEA*). [[Paper](https://arxiv.org/abs/2303.08131)][[Code (in construction)](https://github.com/IDEA-Research/OpenSeeD)]
     * **GKC**: "Global Knowledge Calibration for Fast Open-Vocabulary Segmentation", arXiv, 2023 (*ByteDance*). [[Paper](https://arxiv.org/abs/2303.09181)]
@@ -1111,7 +1116,6 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **Mask2Former**: "Masked-attention Mask Transformer for Universal Image Segmentation", CVPR, 2022 (*Meta*). [[Paper](https://arxiv.org/abs/2112.01527)][[PyTorch](https://github.com/facebookresearch/Mask2Former)][[Website](https://bowenc0221.github.io/mask2former/)]
     * **MP-Former**: "MP-Former: Mask-Piloted Transformer for Image Segmentation", CVPR, 2023 (*IDEA*). [[Paper](https://arxiv.org/abs/2303.07336)][[Code (in construction)](https://github.com/IDEA-Research/MP-Former)]
     * **OneFormer**: "OneFormer: One Transformer to Rule Universal Image Segmentation", CVPR, 2023 (*Oregon*). [[Paper](https://arxiv.org/abs/2211.06220)][[PyTorch](https://github.com/SHI-Labs/OneFormer)][[Website](https://praeclarumjj3.github.io/oneformer/)]
-    * **Mask-free-OVIS**: "Mask-free OVIS: Open-Vocabulary Instance Segmentation without Manual Mask Annotations", CVPR, 2023 (*Salesforce*). [[Paper](https://arxiv.org/abs/2303.16891)][[PyTorch (in construction)](https://github.com/Vibashan/Maskfree-OVIS)]
 * Multi-Modal:
     * **UCTNet**: "UCTNet: Uncertainty-Aware Cross-Modal Transformer Network for Indoor RGB-D Semantic Segmentation", ECCV, 2022 (*Lehigh University, Pennsylvania*). [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/7082_ECCV_2022_paper.php)]
     * **CMX**: "CMX: Cross-Modal Fusion for RGB-X Semantic Segmentation with Transformers", arXiv, 2022 (*Karlsruhe Institute of Technology, Germany*). [[Paper](https://arxiv.org/abs/2203.04838)][[PyTorch](https://github.com/huaaaliu/RGBX_Semantic_Segmentation)]
@@ -1278,6 +1282,7 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
     * **PatchBlender**: "PatchBlender: A Motion Prior for Video Transformers", arXiv, 2022 (*Mila*). [[Paper](https://arxiv.org/abs/2211.14449)]
     * **TubeViT**: "Rethinking Video ViTs: Sparse Video Tubes for Joint Image and Video Learning", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2212.03229)]
     * **DualPath**: "Dual-path Adaptation from Image to Video Transformers", CVPR, 2023 (*Yonsei University*). [[Paper](https://arxiv.org/abs/2303.09857)][[PyTorch (in construction)](https://github.com/park-jungin/DualPath)]
+    * **S-ViT**: "Streaming Video Model", CVPR, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2303.17228)][[Code (in construction)](https://github.com/yuzhms/Streaming-Video-Model)]
     * **BEAR**: "A Large-scale Study of Spatiotemporal Representation Learning with a New Benchmark on Action Recognition", arXiv, 2023 (*UCF*). [[Paper](https://arxiv.org/abs/2303.13505)][[GitHub](https://github.com/AndongDeng/BEAR)]
 * Depth:
     * **Trear**: "Trear: Transformer-based RGB-D Egocentric Action Recognition",  IEEE Transactions on Cognitive and Developmental Systems, 2021 (*Tianjing University*). [[Paper](https://ieeexplore.ieee.org/document/9312201)]
@@ -1689,6 +1694,7 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
     * **UniT3D**: "UniT3D: A Unified Transformer for 3D Dense Captioning and Visual Grounding", arXiv, 2022 (*TUM*). [[Paper](https://arxiv.org/abs/2212.00836)]
     * **NS3D**: "NS3D: Neuro-Symbolic Grounding of 3D Objects and Relations", CVPR, 2023 (*Stanford*). [[Paper](https://arxiv.org/abs/2303.13483)]
     * **ViewRefer**: "ViewRefer: Grasp the Multi-view Knowledge for 3D Visual Grounding with GPT and Prototype Guidance", arXiv, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2303.16894)][[Code (in construction)](https://github.com/ZiyuGuo99/ViewRefer3D)]
+    * **?**: "What, when, and where? -- Self-Supervised Spatio-Temporal Grounding in Untrimmed Multi-Action Videos from Narrated Instructions", arXiv, 2023 (*Columbia*). [[Paper](https://arxiv.org/abs/2303.16990)]
 
 [[Back to Overview](#overview)]
 
@@ -1964,6 +1970,7 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
     * **UniDiffuser**: "One Transformer Fits All Distributions in Multi-Modal Diffusion at Scale", arXiv, 2023 (*Tsinghua University*). [[Paper](https://arxiv.org/abs/2303.06555)][[Pytorch](https://github.com/thu-ml/unidiffuser)]
     * **UMM-Diffusion**: "Unified Multi-Modal Latent Diffusion for Joint Subject and Text Conditional Image Generation", arXiv, 2023 (*Peking University*). [[Paper](https://arxiv.org/abs/2303.09319)]
     * **TIFA**: "TIFA: Accurate and Interpretable Text-to-Image Faithfulness Evaluation with Question Answering", arXiv, 2023 (*UW*). [[Paper](https://arxiv.org/abs/2303.11897)][[Code (in construction)](https://github.com/Yushi-Hu/tifa)][[Website](https://tifa-benchmark.github.io/)]
+    * **ToMESD**: "Token Merging for Fast Stable Diffusion", arXiv, 2023 (*Georgia Tech*). [[Paper](https://arxiv.org/abs/2303.17604)][[PyTorch](https://github.com/dbolya/tomesd)]
 * Video:
     * **Make-A-Video**: "Make-A-Video: Text-to-Video Generation without Text-Video Data", arXiv, 2022 (*Meta*). [[Paper](https://arxiv.org/abs/2209.14792)]
     * **Imagen-Video**: "Imagen Video: High Definition Video Generation with Diffusion Models", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2210.02303)][[Website](https://imagen.research.google/video/)]
@@ -2015,6 +2022,7 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
 * **VPTM**: "Rethinking Visual Prompt Learning as Masked Visual Token Modeling", arXiv, 2023 (*Shanghai Jiao Tong*). [[Paper](https://arxiv.org/abs/2303.04998)]
 * **GRAM**: "Gradient-Regulated Meta-Prompt Learning for Generalizable Vision-Language Models", arXiv, 2023 (*Huawei*). [[Paper](https://arxiv.org/abs/2303.06571)]
 * **PBPrompt**: "Patch-Token Aligned Bayesian Prompt Learning for Vision-Language Models", arXiv, 2023 (*Xidian University*). [[Paper](https://arxiv.org/abs/2303.09100)]
+* **CTP-TFT**: "Task-Oriented Multi-Modal Mutual Leaning for Vision-Language Models", arXiv, 2023 (*Baidu*). [[Paper](https://arxiv.org/abs/2303.17169)]
 
 [[Back to Overview](#overview)]
 
@@ -2156,8 +2164,9 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
     * **GestureDiffuCLIP**: "GestureDiffuCLIP: Gesture Diffusion Model with CLIP Latents", arXiv, 2023 (*Peking University*). [[Paper](https://arxiv.org/abs/2303.14613)]
 * Audio Description:
     * **AutoAD**: "AutoAD: Movie Description in Context", CVPR, 2023 (*Oxford*). [[Paper](https://arxiv.org/abs/2303.16899)][[Code (in construction)](https://github.com/TengdaHan/AutoAD)][[Website](https://www.robots.ox.ac.uk/~vgg/research/autoad/)]
-* Sound Object Localization:
+* Sound Localization:
     * **TURN**: "Towards Effective Multi-Modal Interchanges in Zero-Resource Sounding Object Localization", NeurIPS, 2022 (*Zhejiang University*). [[Paper](https://openreview.net/forum?id=rQAJmrLmGC6)][[PyTorch (in constrcution)](https://github.com/AwalkZY/TURN)]
+    * **AVGN**: "Audio-Visual Grouping Network for Sound Localization from Mixtures", CVPR, 2023 (*CMU*). [[Paper](https://arxiv.org/abs/2303.17056)][[PyTorch](https://github.com/stoneMo/AVGN)]
 * Sentiment Analysis:
     * **CubeMLP**: "CubeMLP: A MLP-based Model for Multimodal Sentiment Analysis and Depression Estimation", ACMMM, 2022 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2207.14087)]
     * **MCMulT**: "Multi-scale Cooperative Multimodal Transformers for Multimodal Sentiment Analysis in Videos", arXiv, 2022 (*Tencent*). [[Paper](https://arxiv.org/abs/2206.07981)]
@@ -2178,6 +2187,8 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
     * **?**: "Is BERT Blind? Exploring the Effect of Vision-and-Language Pretraining on Visual Language Understanding", CVPR, 2023 (*Tel Aviv*). [[Paper](https://arxiv.org/abs/2303.12513)][[Code (in construction)](https://github.com/TAU-VAILab/isbertblind)][[Website](https://tau-vailab.github.io/isbertblind/)]
 * Scene Graph:
     * **CaCao**: "Visually-Prompted Language Model for Fine-Grained Scene Graph Generation in an Open World", arXiv, 2023 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2303.13233)]
+* Video Task Verification:
+    * **EgoTV**: "EgoTV: Egocentric Task Verification from Natural Language Task Descriptions", arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2303.16975)] 
 
 [[Back to Overview](#overview)]
 
