@@ -543,6 +543,7 @@ If you find this repository useful, please consider citing this list:
     * **ViTKD**: "ViTKD: Practical Guidelines for ViT feature knowledge distillation", arXiv, 2022 (*IDEA*). [[Paper](https://arxiv.org/abs/2209.02432)][[PyTorch (in construction)](https://github.com/yzd-v/cls_KD)]
     * **?**: "Adaptive Attention Link-based Regularization for Vision Transformers", arXiv, 2022 (* Chung-Ang University, Korea*). [[Paper](https://arxiv.org/abs/2211.13852)]
     * **MaskedKD**: "MaskedKD: Efficient Distillation of Vision Transformers with Masked Images", arXiv, 2023 (*POSTECH*). [[Paper](https://arxiv.org/abs/2302.10494)]
+    * **DIME-FM**: "DIME-FM: DIstilling Multimodal and Efficient Foundation Models", arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2303.18232)]
 * Clustering:
     * **VTCC**: "Vision Transformer for Contrastive Clustering", arXiv, 2022 (*Sun Yat-sen University, China*). [[Paper](https://arxiv.org/abs/2206.12925)]
 * Novel Category Discovery:
@@ -604,6 +605,7 @@ If you find this repository useful, please consider citing this list:
     * **ITSRN++**: "ITSRN++: Stronger and Better Implicit Transformer Network for Continuous Screen Content Image Super-Resolution", arXiv, 2022 (*Tianjin University*). [[Paper](https://arxiv.org/abs/2210.08812)]
     * **NGswin**: "N-Gram in Swin Transformers for Efficient Lightweight Image Super-Resolution", arXiv, 2022 (*Sogang University, Korea*). [[Paper](https://arxiv.org/abs/2211.11436)]
     * **RGT**: "Recursive Generalization Transformer for Image Super-Resolution", arXiv, 2023 (*Shanghai Jiao Tong*). [[Paper](https://arxiv.org/abs/2303.06373)]
+    * **SOSR**: "SOSR: Source-Free Image Super-Resolution with Wavelet Augmentation Transformer", arXiv, 2023 (*CAS*). [[Paper](https://arxiv.org/abs/2303.17783)]
 * Others:
     * **SDNet**: "SDNet: multi-branch for single image deraining using swin", arXiv, 2021 (*Xinjiang University*). [[Paper](https://arxiv.org/abs/2105.15077)][[Code (in construction)](https://github.com/H-tfx/SDNet)]
     * **ATTSF**: "Attention! Stay Focus!", arXiv, 2021 (*BridgeAI, Seoul*). [[Paper](https://arxiv.org/abs/2104.07925)][[Tensorflow](https://github.com/tuvovan/ATTSF)]
