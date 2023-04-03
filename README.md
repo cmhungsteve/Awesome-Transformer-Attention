@@ -378,6 +378,7 @@ If you find this repository useful, please consider citing this list:
 * **ElasticViT**: "ElasticViT: Conflict-aware Supernet Training for Deploying Fast Vision Transformer on Diverse Mobile Devices", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2303.09730)]
 * **SeiT**: "SeiT: Storage-Efficient Vision Training with Tokens Using 1% of Pixel Storage", arXiv, 2023 (*NAVER*). [[Paper](https://arxiv.org/abs/2303.11114)][[Code (in construction)](https://github.com/naver-ai/seit)]
 * **FastViT**: "FastViT: A Fast Hybrid Vision Transformer using Structural Reparameterization", arXiv, 2023 (*Apple*). [[Paper](https://arxiv.org/abs/2303.14189)]
+* **CloFormer**: "Rethinking Local Perception in Lightweight Vision Transformer", arXiv, 2023 (*CAS*). [[Paper](https://arxiv.org/abs/2303.17803)]
 #### Conv + Transformer
 * **LeViT**: "LeViT: a Vision Transformer in ConvNet's Clothing for Faster Inference", ICCV, 2021 (*Facebook*). [[Paper](https://arxiv.org/abs/2104.01136)][[PyTorch](https://github.com/facebookresearch/LeViT)]
 * **CeiT**: "Incorporating Convolution Designs into Visual Transformers", ICCV, 2021 (*SenseTime*). [[Paper](https://arxiv.org/abs/2103.11816)][[PyTorch (rishikksh20)](https://github.com/rishikksh20/CeiT)]
@@ -750,6 +751,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **ViT-Adapter**: "ViT-Adapter: Exploring Plain Vision Transformer for Accurate Dense Predictions", ICLR, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2205.08534)][[PyTorch](https://github.com/czczup/ViT-Adapter)]
     * **Lite-DETR**: "Lite DETR: An Interleaved Multi-Scale Encoder for Efficient DETR", CVPR, 2023 (*IDEA*). [[Paper](https://arxiv.org/abs/2303.07335)][[Code (in construction)](https://github.com/IDEA-Research/Lite-DETR)]
     * **DDQ**: "Dense Distinct Query for End-to-End Object Detection", CVPR, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2303.12776)][[PyTorch](https://github.com/jshilong/DDQ)]
+    * **SiameseDETR**: "Siamese DETR", CVPR, 2023 (*SenseTime*). [[Paper](https://arxiv.org/abs/2303.18144)][[Code (in construction)](https://github.com/Zx55/SiameseDETR)]
     * **KS-DETR**: "KS-DETR: Knowledge Sharing in Attention Learning for Detection Transformer", arXiv, 2023 (*Toyota Technological Institute*). [[Paper](https://arxiv.org/abs/2302.11208)][[PyTorch](https://github.com/edocanonymous/KS-DETR)]
     * **FeatAug-DETR**: "FeatAug-DETR: Enriching One-to-Many Matching for DETRs with Feature Augmentation", arXiv, 2023 (*CUHK*). [[Paper](https://arxiv.org/abs/2303.01503)][[Codee (in construction)](https://github.com/rongyaofang/FeatAug-DETR)]
 * Transformer-based backbone:
@@ -1299,6 +1301,7 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
     * **?**: "Spatial Transformer Network with Transfer Learning for Small-scale Fine-grained Skeleton-based Tai Chi Action Recognition", arXiv, 2022 (*Harbin Institute of Technology*). [[Paper](https://arxiv.org/abs/2206.15002)]
     * **HyperSA**: "Hypergraph Transformer for Skeleton-based Action Recognition", arXiv, 2022 (*University of Mannheim, Germany*). [[Paper](https://arxiv.org/abs/2211.09590)]
     * **STAR-Transformer**: "STAR-Transformer: A Spatio-temporal Cross Attention Transformer for Human Action Recognition", WACV, 2023 (*Keimyung University, Korea*). [[Paper](https://arxiv.org/abs/2210.07503)]
+    * **STMT**: "STMT: A Spatial-Temporal Mesh Transformer for MoCap-Based Action Recognition", CVPR, 2023 (*CMU*). [[Paper](https://arxiv.org/abs/2303.18177)][[Code (in construction)](https://github.com/zgzxy001/STMT)]
 * Multi-modal:
     * **MBT**: "Attention Bottlenecks for Multimodal Fusion", NeurIPS, 2021 (*Google*). [[Paper](https://arxiv.org/abs/2107.00135)]
     * **MM-ViT**: "MM-ViT: Multi-Modal Video Transformer for Compressed Video Action Recognition", WACV, 2022 (*OPPO*). [[Paper](https://arxiv.org/abs/2108.09322)]
@@ -1424,9 +1427,9 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
     * **?**: "Learning Future Object Prediction with a Spatiotemporal Detection Transformer", arXiv, 2022 (*Zenseact, Sweden*). [[Paper](https://arxiv.org/abs/2204.10321)]
 * Dense Video Tasks (Detection + Segmentation):
     * **TDViT**: "TDViT: Temporal Dilated Video Transformer for Dense Video Tasks", ECCV, 2022 (*Queen's University Belfast, UK*). [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/5559_ECCV_2022_paper.php)][[Code (in construction)](https://github.com/guanxiongsun/TDViT)]
-* Video Retrieval
+* Video Retrieval:
     * **SVRTN**: "Self-supervised Video Retrieval Transformer Network", arXiv, 2021 (*Alibaba*). [[Paper](https://arxiv.org/abs/2104.07993)]
-* Video Hashing
+* Video Hashing:
     * **BTH**: "Self-Supervised Video Hashing via Bidirectional Transformers", CVPR, 2021 (*Tsinghua*). [[Paper](https://openaccess.thecvf.com/content/CVPR2021/html/Li_Self-Supervised_Video_Hashing_via_Bidirectional_Transformers_CVPR_2021_paper.html)][[PyTorch](https://github.com/Lily1994/BTH)]
 * Video-Language:
     * **ActionCLIP**: "ActionCLIP: A New Paradigm for Video Action Recognition", arXiv, 2022 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2109.08472)][[PyTorch](https://github.com/sallymmx/ActionCLIP)]
@@ -1506,6 +1509,9 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
     * **UDAVT**: "Unsupervised Domain Adaptation for Video Transformers in Action Recognition", ICPR, 2022 (*University of Trento*). [[Paper](https://arxiv.org/abs/2207.12842)][[Code (in construction)](https://github.com/vturrisi/UDAVT)]
 * Multi-Camera Editing:
     * **TC-Transformer**: "Temporal and Contextual Transformer for Multi-Camera Editing of TV Shows", ECCVW, 2022 (*CUHK*). [[Paper](https://arxiv.org/abs/2210.08737)]
+* Instructional Video:
+    * **ProcedureVRL**: "Learning Procedure-aware Video Representation from Instructional Videos and Their Narrations", CVPR, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2303.17839)]
+    * **Paprika**: "Procedure-Aware Pretraining for Instructional Video Understanding", CVPR, 2023 (*Salesforce*). [[Paper](https://arxiv.org/abs/2303.18230)][[PyTorch](https://github.com/salesforce/paprika)]
 
 [[Back to Overview](#overview)]
 
@@ -2052,6 +2058,7 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
 * **Spotlight**: "Spotlight: Mobile UI Understanding using Vision-Language Models with a Focus", ICLR, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2209.14927)]
 * **MaskDoc**: "Masked Visual-Textual Prediction for Document Image Representation Pretraining", ICLR, 2023 (*Baidu*). [[Paper](https://openreview.net/forum?id=HE_75XY5Ljh)]
 * **StrucTexTv2**: "StrucTexTv2: Masked Visual-Textual Prediction for Document Image Pre-training", ICLR, 2023 (*Baidu*). [[Paper](https://arxiv.org/abs/2303.00289)][[PaddlePaddle](https://github.com/PaddlePaddle/VIMER/tree/main/StrucTexT/v2)]
+* **FlexDM**: "Towards Flexible Multi-modal Document Models", CVPR, 2023 (*CyberAgent, Japan*). [[Paper](https://arxiv.org/abs/2303.18248)][[Tensorflow](https://github.com/CyberAgentAILab/flex-dm)][[Website](https://cyberagentailab.github.io/flex-dm/)]
 
 [[Back to Overview](#overview)]
 
@@ -2070,6 +2077,8 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
     * **ReSTR**: "ReSTR: Convolution-free Referring Image Segmentation Using Transformers", CVPR, 2022 (*POSTECH*). [[Paper](https://arxiv.org/abs/2203.16768)][[Website](http://cvlab.postech.ac.kr/research/restr/)]
     * **VLT**: "VLT: Vision-Language Transformer and Query Generation for Referring Segmentation", TPAMI, 2022 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2210.15871)]
     * **TSEG**: "Weakly-supervised segmentation of referring expressions", arXiv, 2022 (*INRIA*). [[Paper](https://arxiv.org/abs/2205.04725)]
+    * **ZS-RIS**: "Zero-shot Referring Image Segmentation with Global-Local Context Features", CVPR, 2023 (*Gwangju Institute of Science and Technology (GIST)*). [[Paper](https://arxiv.org/abs/2303.17811)][[Code (in construction)](https://github.com/Seonghoon-Yu/Zero-shot-RIS)]
+    * **PolyFormer**: "PolyFormer: Referring Image Segmentation as Sequential Polygon Generation", CVPR, 2023 (*Amazon*). [[Paper](https://arxiv.org/abs/2302.07387)][[Website](https://polyformer.github.io/)]
     * **PVD**: "Parallel Vertex Diffusion for Unified Visual Grounding", arXiv, 2023 (*Peking University*). [[Paper](https://arxiv.org/abs/2303.07216)]
 * Tracking:
     * **ModaMixer**: "Divert More Attention to Vision-Language Tracking", NeurIPS, 2022 (*Beijing Jiaotong University*). [[Paper](https://arxiv.org/abs/2207.01076)][[PyTorch](https://github.com/JudasDie/SOTS)]
@@ -2107,6 +2116,7 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
     * **Grounded-Decoding**: "Grounded Decoding: Guiding Text Generation with Grounded Models for Robot Control", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2303.00855)][[Website](https://grounded-decoding.github.io/)]
     * **MOO**: "Open-World Object Manipulation using Pre-trained Vision-Language Models", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2303.00905)][[Website](https://robot-moo.github.io/)]
     * **?**: "Vision-Language Models as Success Detectors", arXiv, 2023 (*DeepMind*). [[Paper](https://arxiv.org/abs/2303.07280)]
+    * **VC-1**: "Where are we in the search for an Artificial Visual Cortex for Embodied Intelligence?", arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2303.18240)][[Website](https://eai-vc.github.io/)]
 * Multi-modal Fusion:
     * **MICA**: "Attention Is Not Enough: Mitigating the Distribution Discrepancy in Asynchronous Multimodal Sequence Fusion", ICCV, 2021 (*Southwest Jiaotong University*). [[Paper](https://openaccess.thecvf.com/content/ICCV2021/html/Liang_Attention_Is_Not_Enough_Mitigating_the_Distribution_Discrepancy_in_Asynchronous_ICCV_2021_paper.html)]
     * **IFT**: "Image Fusion Transformer", arXiv, 2021 (*Johns Hopkins*). [[Paper](https://arxiv.org/abs/2107.09011)][[PyTorch](https://github.com/Vibashan/Image-Fusion-Transformer)]
