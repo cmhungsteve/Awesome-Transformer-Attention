@@ -537,6 +537,7 @@ If you find this repository useful, please consider citing this list:
     * **LiVT**: "Learning Imbalanced Data with Vision Transformers", arXiv, 2022 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2212.02015)][[PyTorch (in construction)](https://github.com/XuZhengzhuo/LiVT)]
     * **LPT**: "LPT: Long-tailed Prompt Tuning for Image Classification", ICLR, 2023 (*Harbin Institute of Technology*). [[Paper](https://arxiv.org/abs/2210.01033)]
     * **PDC**: "Rethink Long-tailed Recognition with Vision Transforms", ICASSP, 2023 (*Tsinghua University*). [[Paper](https://arxiv.org/abs/2302.14284)]
+    * **?**: "Exploring Vision-Language Models for Imbalanced Learning", arXiv, 2023 (*Peking University*). [[Paper](https://arxiv.org/abs/2304.01457)][[PyTorch](https://github.com/Imbalance-VLM/Imbalance-VLM)]
 * Knowledge Distillation:
     * **?**: "Knowledge Distillation via the Target-aware Transformer", CVPR, 2022 (*Alibaba*). [[Paper](https://arxiv.org/abs/2205.10793)]
     * **DearKD**: "DearKD: Data-Efficient Early Knowledge Distillation for Vision Transformers", CVPR, 2022 (*JD*). [[Paper](https://arxiv.org/abs/2204.12997)]
@@ -1107,6 +1108,7 @@ Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2207.11553)][[Cod
 * **RAMM**: "RAMM: Retrieval-augmented Biomedical Visual Question Answering with Multi-modal Pre-training", arXiv, 2023 (*Alibaba*). [[Paper](https://arxiv.org/abs/2303.00534)]
 * **PT**: "Open-Ended Medical Visual Question Answering Through Prefix Tuning of Language Models", arXiv, 2023 (*University of Amsterdam*). [[Paper](https://arxiv.org/abs/2303.05977)]
 * **PMC-CLIP**: "PMC-CLIP: Contrastive Language-Image Pre-training using Biomedical Documents", arXiv, 2023 (*Shanghai Jiao Tong*). [[Paper](https://arxiv.org/abs/2303.07240)]
+* **Q2ATransformer**: "Q2ATransformer: Improving Medical VQA via an Answer Querying Decoder", arXiv, 2023 (*The University of Sydney*). [[Paper](https://arxiv.org/abs/2304.01611)]
 
 [[Back to Overview](#overview)]
 
