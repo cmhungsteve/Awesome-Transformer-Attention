@@ -1100,6 +1100,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **DiffusionSeg**: "DiffusionSeg: Adapting Diffusion Towards Unsupervised Object Discovery", arXiv, 2023 (*Shanghai Jiao Tong*). [[Paper](https://arxiv.org/abs/2303.09813)]
     * **DeOP**: "Zero-Shot Semantic Segmentation with Decoupled One-Pass Network", arXiv, 2023 (*Meituan*). [[Paper](https://arxiv.org/abs/2304.01198)]][[Code (in construction)](https://github.com/CongHan0808/DeOP)]
     * **ASCG**: "Associating Spatially-Consistent Grouping with Text-supervised Semantic Segmentation", arXiv, 2023 (*ByteDance*). [[Paper](https://arxiv.org/abs/2304.01114)]
+    * **SAM**: "Segment Anything", arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2304.02643)][[Website](https://segment-anything.com/)]
 * Open-World/Vocabulary:
     * **ViL-Seg**: "Open-world Semantic Segmentation via Contrasting and Clustering Vision-Language Embedding", ECCV, 2022 (*CUHK*). [[Paper](https://arxiv.org/abs/2207.08455)]
     * **OVSS**: "A Simple Baseline for Open Vocabulary Semantic Segmentation with Pre-trained Vision-language Model", ECCV, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2112.14757)][[PyTorch](https://github.com/MendelXu/zsseg.baseline)]
@@ -1463,6 +1464,7 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
     * **MAXI**: "MAtch, eXpand and Improve: Unsupervised Finetuning for Zero-Shot Action Recognition with Language Knowledge", arXiv, 2023 (*Graz University of Technology, Austria*). [[Paper](https://arxiv.org/abs/2303.08914)][[Code (in construction)](https://github.com/wlin-at/MAXI)]
     * **?**: "Multi-modal Prompting for Low-Shot Temporal Action Localization", arXiv, 2023 (*Shanghai Jiao Tong*). [[Paper](https://arxiv.org/abs/2303.11732)]
     * **MindVLT**: "Towards Open-Vocabulary Video Instance Segmentation", arXiv, 2023 (*University of Amsterdam*). [[Paper](https://arxiv.org/abs/2304.01715)]
+    * **VicTR**: "VicTR: Video-conditioned Text Representations for Activity Recognition", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2304.02560)]
 * X-supervised Learning:
     * **LSTCL**: "Long-Short Temporal Contrastive Learning of Video Transformers", CVPR, 2022 (*Facebook*). [[Paper](https://arxiv.org/abs/2106.09212)]
     * **SVT**: "Self-supervised Video Transformer", CVPR, 2022 (*Stony Brook*). [[Paper](https://arxiv.org/abs/2112.01514)][[PyTorch](https://github.com/kahnchana/svt)][[Website](https://kahnchana.github.io/svt/)]
@@ -2221,7 +2223,9 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
 * Scene Graph:
     * **CaCao**: "Visually-Prompted Language Model for Fine-Grained Scene Graph Generation in an Open World", arXiv, 2023 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2303.13233)]
 * Video Task Verification:
-    * **EgoTV**: "EgoTV: Egocentric Task Verification from Natural Language Task Descriptions", arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2303.16975)] 
+    * **EgoTV**: "EgoTV: Egocentric Task Verification from Natural Language Task Descriptions", arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2303.16975)]
+* Dance Generation:
+    * **TM2D**: "TM2D: Bimodality Driven 3D Dance Generation via Music-Text Integration", arXiv, 2023 (*NUS*). [[Paper](https://arxiv.org/abs/2304.02419)][[Code (in construction)](https://github.com/Garfield-kh/TM2D)][[Website](https://garfield-kh.github.io/TM2D/)]
 
 [[Back to Overview](#overview)]
 
