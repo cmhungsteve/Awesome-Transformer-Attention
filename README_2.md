@@ -387,6 +387,8 @@ If you find this repository useful, please consider citing this list:
     * **?**: "Cross-Forgery Analysis of Vision Transformers and CNNs for Deepfake Image Detection", arXiv, 2022 (*National Research Council, Italy*). [[Paper](https://arxiv.org/abs/2206.13829)]
     * **STDT**: "Deepfake Video Detection with Spatiotemporal Dropout Transformer", arXiv, 2022 (*CAS*). [[Paper](https://arxiv.org/abs/2207.06612)]
     * **?**: "Deep Convolutional Pooling Transformer for Deepfake Detection", arXiv, 2022 (*HKU*). [[Paper](https://arxiv.org/abs/2209.05299)]
+    * **DGM<sup>4</sup>**: "Detecting and Grounding Multi-Modal Media Manipulation", CVPR, 2023 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2304.02556)][[PyTorch](https://github.com/rshaojimmy/MultiModal-DeepFake)][[Website](https://rshaojimmy.github.io/Projects/MultiModal-DeepFake)]
+    * **Face-Transformer**: "Face Transformer: Towards High Fidelity and Accurate Face Swapping", arXiv, 2023 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2304.02530)]
 * Fairness:
     * **TADeT**: "Mitigating Bias in Visual Transformers via Targeted Alignment", BMVC, 2021 (*Georgia Tech*). [[Paper](https://arxiv.org/abs/2302.04358)]
 
@@ -778,6 +780,7 @@ If you find this repository useful, please consider citing this list:
 * **MAGVIT**: "MAGVIT: Masked Generative Video Transformer", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2212.05199)][[Code (in construction)](https://github.com/MAGVIT/magvit)][[Website](https://magvit.cs.cmu.edu/)]
 * **Human-MotionFormer**: "Human MotionFormer: Transferring Human Motions with Vision Transformers", ICLR, 2023 (*HKUST + Huya*). [[Paper](https://arxiv.org/abs/2302.11306)][[Code (in construction)](https://github.com/KumapowerLIU/Human-MotionFormer)]
 * **MeBT**: "Towards End-to-End Generative Modeling of Long Videos with Memory-Efficient Bidirectional Transformers", CVPR, 2023 (*Kakao*). [[Paper](https://arxiv.org/abs/2303.11251)][[Code (in construction)](https://github.com/Ugness/MeBT)][[Website](https://sites.google.com/view/mebt-cvpr2023)]
+* **BiFormer**: "BiFormer: Learning Bilateral Motion Estimation via Bilateral Transformer for 4K Video Frame Interpolation", CVPR, 2023 (*Korea University*). [[Paper](https://arxiv.org/abs/2304.02225)][[Code (in construction)](https://github.com/JunHeum/BiFormer)]
 * **NUWA-XL**: "NUWA-XL: Diffusion over Diffusion for eXtremely Long Video Generation", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2303.12346)][[Website (in construction)](https://msra-nuwa.azurewebsites.net/)]
 
 [[Back to Overview](#overview)]
@@ -901,6 +904,7 @@ If you find this repository useful, please consider citing this list:
 * **LANA**: "Lana: A Language-Capable Navigator for Instruction Following and Generation", CVPR, 2023 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2303.08409)][[Code (in construction)](https://github.com/wxh1996/LANA-VLN)]
 * **KERM**: "KERM: Knowledge Enhanced Reasoning for Vision-and-Language Navigation", CVPR, 2023 (*CAS*). [[Paper](https://arxiv.org/abs/2303.15796)][[PyTorch](https://github.com/XiangyangLi20/KERM)]
 * **MLANet**: "MLANet: Multi-Level Attention Network with Sub-instruction for Continuous Vision-and-Language Navigation", arXiv, 2023 (*Tongji University*). [[Paper](https://arxiv.org/abs/2303.01396)][[PyTorch](https://github.com/RavenKiller/MLA)]
+* **ENTL**: "ENTL: Embodied Navigation Trajectory Learner", arXiv, 2023 (*AI2*). [[Paper](https://arxiv.org/abs/2304.02639)]
 
 [[Back to Overview](#overview)]
 
@@ -1105,6 +1109,7 @@ Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2207.11553)][[Cod
 * **MF<sup>2</sup>-MVQA**: "MF<sup>2</sup>-MVQA: A Multi-stage Feature Fusion method for Medical Visual Question Answering", arXiv, 2022 (*University of Science and Technology Beijing*). [[Paper](https://arxiv.org/abs/2211.05991)]
 * **RoentGen**: "RoentGen: Vision-Language Foundation Model for Chest X-ray Generation", arXiv, 2022 (*Stanford*). [[Paper](https://arxiv.org/abs/2211.12737)]
 * **?**: "Medical Image Understanding with Pretrained Vision Language Models: A Comprehensive Study", ICLR, 2023 (*Sichuan University*). [[Paper](https://arxiv.org/abs/2209.15517)]
+* **METransformer**: "METransformer: Radiology Report Generation by Transformer with Multiple Learnable Expert Tokens", CVPR, 2023 (*University of Sydney*). [[Paper](https://arxiv.org/abs/2304.02211)]
 * **RAMM**: "RAMM: Retrieval-augmented Biomedical Visual Question Answering with Multi-modal Pre-training", arXiv, 2023 (*Alibaba*). [[Paper](https://arxiv.org/abs/2303.00534)]
 * **PT**: "Open-Ended Medical Visual Question Answering Through Prefix Tuning of Language Models", arXiv, 2023 (*University of Amsterdam*). [[Paper](https://arxiv.org/abs/2303.05977)]
 * **PMC-CLIP**: "PMC-CLIP: Contrastive Language-Image Pre-training using Biomedical Documents", arXiv, 2023 (*Shanghai Jiao Tong*). [[Paper](https://arxiv.org/abs/2303.07240)]
