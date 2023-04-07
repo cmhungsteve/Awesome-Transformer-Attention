@@ -136,6 +136,7 @@ If you find this repository useful, please consider citing this list:
 * **FullFormer**: "FullFormer: Generating Shapes Inside Shapes", arXiv, 2023 (*University of Siegen, Germany*). [[Paper](https://arxiv.org/abs/2303.11235)]
 * **RegFormer**: "RegFormer: An Efficient Projection-Aware Transformer Network for Large-Scale Point Cloud Registration", arXiv, 2023 (*Shanghai Jiao Tong*). [[Paper](https://arxiv.org/abs/2303.12384)]
 * **Joint-MAE**: "Joint-MAE: 2D-3D Joint Masked Autoencoders for 3D Point Cloud Pre-training", arXiv, 2023 (*CUHK*). [[Paper](https://arxiv.org/abs/2302.14007)]
+* **PointCAT**: "PointCAT: Cross-Attention Transformer for point cloud", arXiv, 2023 (*Nanjing University of Science and Technology*). [[Paper](https://arxiv.org/abs/2304.03012)][[PyTorch](https://github.com/xincheng-yang/PointCAT)]
 
 [[Back to Overview](#overview)]
 
@@ -346,7 +347,7 @@ If you find this repository useful, please consider citing this list:
     * **Cycle-Text2Face**: "Cycle Text2Face: Cycle Text-to-face GAN via Transformers", arXiv, 2022 (*Shahed Univerisity, Iran*). [[Paper](https://arxiv.org/abs/2206.04503)]
     * **FaceFormer**: "FaceFormer: Scale-aware Blind Face Restoration with Transformers", arXiv, 2022 (*Tencent*). [[Paper](https://arxiv.org/abs/2207.09790)]
     * **text2StyleGAN**: "Text-Free Learning of a Natural Language Interface for Pretrained Face Generators", arXiv, 2022 (*Toyota Technological Institute, Chicago*). [[Paper](https://arxiv.org/abs/2209.03953)][[PyTorch](https://github.com/duxiaodan/Fast_text2StyleGAN)]
-    * **ManiCLIP**: "ManiCLIP: Multi-Attribute Face Manipulation from Text", arXiv, 2022 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2210.00445)]
+    * **ManiCLIP**: "ManiCLIP: Multi-Attribute Face Manipulation from Text", arXiv, 2022 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2210.00445)][[PyTorch](https://github.com/hwang1996/ManiCLIP)]
     * **FEAT**: "FEAT: Face Editing with Attention", arXiv, 2022 (*Shenzhen University*). [[Paper](https://arxiv.org/abs/2202.02713)]
     * **CoralStyleCLIP**: "CoralStyleCLIP: Co-optimized Region and Layer Selection for Image Editing", CVPR, 2023 (*Adobe*). [[Paper](https://arxiv.org/abs/2303.05031)]
 * Facial Expression:
@@ -360,13 +361,13 @@ If you find this repository useful, please consider citing this list:
     * **?**: "Transformer-based Multimodal Information Fusion for Facial Expression Analysis", arXiv, 2022 (*Netease, China*). [[Paper](https://arxiv.org/abs/2203.12367)]
     * **?**: "Facial Expression Recognition with Swin Transformer", arXiv, 2022 (*Dongguk University, Korea*). [[Paper](https://arxiv.org/abs/2203.13472)]
     * **POSTER**: "POSTER: A Pyramid Cross-Fusion Transformer Network for Facial Expression Recognition", arXiv, 2022 (*UCF*). [[Paper](https://arxiv.org/abs/2204.04083)]
-    * **STT**: "Spatio-Temporal Transformer for Dynamic Facial Expression Recognition in the Wild", arXiv, 2022 (*Hunan University
-*). [[Paper](https://arxiv.org/abs/2205.04749)]
+    * **STT**: "Spatio-Temporal Transformer for Dynamic Facial Expression Recognition in the Wild", arXiv, 2022 (*Hunan University*). [[Paper](https://arxiv.org/abs/2205.04749)]
     * **FaceMAE**: "FaceMAE: Privacy-Preserving Face Recognition via Masked Autoencoders", arXiv, 2022 (*NUS*). [[Paper](https://arxiv.org/abs/2205.11090)][[Code (in construction)](https://github.com/kaiwang960112/FaceMAE)]
     * **TransFA**: "TransFA: Transformer-based Representation for Face Attribute Evaluation", arXiv, 2022 (*Xidian University*). [[Paper](https://arxiv.org/abs/2207.05456)]
     * **AU-CVT**: "AU-Supervised Convolutional Vision Transformers for Synthetic Facial Expression Recognition", arXiv, 2022 (*Shenzhen Technology University*). [[Paper](https://arxiv.org/abs/2207.09777)][[PyTorch](https://github.com/msy1412/ABAW4)]
     * **?**: "Multi-Task Transformer with uncertainty modelling for Face Based Affective Computing", arXiv, 2022 (*Datakalab, France*). [[Paper](https://arxiv.org/abs/2208.03506)]
     * **APViT**: "Vision Transformer with Attentive Pooling for Robust Facial Expression Recognition", arXiv, 2022 (*Baidu*). [[Paper](https://arxiv.org/abs/2212.05463)]
+    * **Micron-BERT**: "Micron-BERT: BERT-based Facial Micro-Expression Recognition", CVPR, 2023 (*University of Arkansas*). [[Paper](https://arxiv.org/abs/2304.03195)][[PyTorch (in construction)](https://github.com/uark-cviu/Micron-BERT)]
 * Attack-related:
     * **?**: "Video Transformer for Deepfake Detection with Incremental Learning", ACMMM, 2021 (*MBZUAI*). [[Paper](https://arxiv.org/abs/2108.05307)]
     * **ViTranZFAS**: "On the Effectiveness of Vision Transformers for Zero-shot Face Anti-Spoofing", International Joint Conference on Biometrics (IJCB), 2021 (*Idiap*). [[Paper](https://arxiv.org/abs/2011.08019)]
@@ -693,6 +694,7 @@ If you find this repository useful, please consider citing this list:
 * **ZITS++**: "ZITS++: Image Inpainting by Improving the Incremental Transformer on Structural Priors", arXiv, 2022 (*Fudan*). [[Paper](https://arxiv.org/abs/2210.05950)]
 * **TPFNet**: "TPFNet: A Novel Text In-painting Transformer for Text Removal", arXiv, 2022 (*?*). [[Paper](https://arxiv.org/abs/2210.14461)][[Code (in construction)](https://github.com/CandleLabAI/TPFNet)]
 * **FlowLens**: "FlowLens: Seeing Beyond the FoV via Flow-guided Clip-Recurrent Transformer", arXiv, 2022 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2211.11293)][[Code (in construction)](https://github.com/MasterHow/FlowLens)]
+* **Inst-Inpaint**: "Inst-Inpaint: Instructing to Remove Objects with Diffusion Models", arXiv, 2023 (*Bilkent University, Turkey*). [[Paper](https://arxiv.org/abs/2304.03246)]
 
 [[Back to Overview](#overview)]
 
@@ -808,6 +810,7 @@ If you find this repository useful, please consider citing this list:
 * **S2WAT**: "S2WAT: Image Style Transfer via Hierarchical Vision Transformer using Strips Window Attention", arXiv, 2022 (*Sichuan Normal University*). [[Paper](https://arxiv.org/abs/2210.12381)]
 * **DiffuseIT**: "Diffusion-based Image Translation using Disentangled Style and Content Representation", ICLR, 2023 (*KAIST*). [[Paper](https://arxiv.org/abs/2209.15264)]
 * **MATEBIT**: "Masked and Adaptive Transformer for Exemplar Based Image Translation", CVPR, 2023 (*Hangzhou Dianzi University*). [[Paper](https://arxiv.org/abs/2303.17123)][[Code (in construction)](https://github.com/AiArt-HDU/MATEBIT)]
+* **IPL**: "Zero-shot Generative Model Adaptation via Image-specific Prompt Learning", CVPR, 2023 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2304.03119)][[Code (in construction)](https://github.com/Picsart-AI-Research/IPL-Zero-Shot-Generative-Model-Adaptation)]
 * **pix2pix-zero**: "Zero-shot Image-to-Image Translation", arXiv, 2023 (*Adobe*). [[Paper](https://arxiv.org/abs/2302.03027)][[Code (in construction)](https://github.com/pix2pixzero/pix2pix-zero)][[Website](https://pix2pixzero.github.io/)]
 * **SpectralCLIP**: "SpectralCLIP: Preventing Artifacts in Text-Guided Style Transfer from a Spectral Perspective", arXiv, 2023 (*University of Trento, Italy*). [[Paper](https://arxiv.org/abs/2303.09270)][[Code (in construction)](https://github.com/zipengxuc/SpectralCLIP)]
 
