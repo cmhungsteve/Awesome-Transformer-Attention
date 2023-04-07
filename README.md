@@ -287,6 +287,7 @@ If you find this repository useful, please consider citing this list:
 * **LipsFormer**: "LipsFormer: Introducing Lipschitz Continuity to Vision Transformers", ICLR, 2023 (*IDEA, China*). [[Paper](https://openreview.net/forum?id=cHf1DcCwcH3)]
 * **BiFormer**: "BiFormer: Vision Transformer with Bi-Level Routing Attention", CVPR, 2023 (*CUHK*). [[Paper](https://arxiv.org/abs/2303.08810)][[PyTorch](https://github.com/rayleizhu/BiFormer)]
 * **AbSViT**: "Top-Down Visual Attention from Analysis by Synthesis", CVPR, 2023 (*Berkeley*). [[Paper](https://arxiv.org/abs/2303.13043)][[PyTorch](https://github.com/bfshi/AbSViT)][[Website](https://sites.google.com/view/absvit)]
+* **DependencyViT**: "Visual Dependency Transformers: Dependency Tree Emerges from Reversed Attention", CVPR, 2023 (*MIT*). [[Paper](https://arxiv.org/abs/2304.03282)][[Code (in construction)](https://github.com/dingmyu/DependencyViT)]
 * **CrossFormer++**: "CrossFormer++: A Versatile Vision Transformer Hinging on Cross-scale Attention", arXiv, 2023 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2303.06908)][[PyTorch](https://github.com/cheerss/CrossFormer)]
 * **QFormer**: "Vision Transformer with Quadrangle Attention", arXiv, 2023 (*The University of Sydney*). [[Paper](https://arxiv.org/abs/2303.15105)][[Code (in construction)](https://github.com/ViTAE-Transformer/QFormer)]
 #### Efficient Vision Transformer
@@ -514,6 +515,7 @@ If you find this repository useful, please consider citing this list:
 * **CCViT**: "Centroid-centered Modeling for Efficient Vision Transformer Pre-training", arXiv, 2023 (*Wuhan University*). [[Paper](https://arxiv.org/abs/2303.04664)]
 * **SoftCLIP**: "SoftCLIP: Softer Cross-modal Alignment Makes CLIP Stronger", arXiv, 2023 (*Tencent*). [[Paper](https://arxiv.org/abs/2303.17561)]
 * **MAE-WSP**: "The effectiveness of MAE pre-pretraining for billion-scale pretraining", arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2303.13496)]
+* **DiffMAE**: "Diffusion Models as Masked Autoencoders", arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2304.03283)][[Website](https://weichen582.github.io/diffmae.html)]
 #### Robustness + Transformer
 * **ViT-Robustness**: "Understanding Robustness of Transformers for Image Classification", ICCV, 2021 (*Google*). [[Paper](https://arxiv.org/abs/2103.14586)]
 * **SAGA**: "On the Robustness of Vision Transformers to Adversarial Examples", ICCV, 2021 (*University of Connecticut*). [[Paper](https://arxiv.org/abs/2104.02610)]
@@ -928,6 +930,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **PED**: "DETR for Crowd Pedestrian Detection", arXiv, 2020 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2012.06785)][[PyTorch](https://github.com/Hatmm/PED-DETR-for-Pedestrian-Detection)]
     * **?**: "Effectiveness of Vision Transformer for Fast and Accurate Single-Stage Pedestrian Detection", NeurIPS, 2022 (*ICL*). [[Paper](https://openreview.net/forum?id=eow_ZGaw24j)]
     * **Pedestron**: "Pedestrian Detection: Domain Generalization, CNNs, Transformers and Beyond", arXiv, 2022 (*IIAI*). [[Paper](https://arxiv.org/abs/2201.03176)][[PyTorch](https://github.com/hasanirtiza/Pedestron)]
+    * **VLPD**: "VLPD: Context-Aware Pedestrian Detection via Vision-Language Semantic Self-Supervision", CVPR, 2023 (*University of Science and Technology Beijing*). [[Paper](https://arxiv.org/abs/2304.03135)][[PyTorch](https://github.com/lmy98129/VLPD)]
 * Lane Detection:
     * **LSTR**: "End-to-end Lane Shape Prediction with Transformers", WACV, 2021 (*Xi'an Jiaotong*). [[Paper](https://arxiv.org/abs/2011.04233)][[PyTorch](https://github.com/liuruijin17/LSTR)]
     * **LETR**: "Line Segment Detection Using Transformers without Edges", CVPR, 2021 (*UCSD*). [[Paper](https://arxiv.org/abs/2101.01909)][[PyTorch](https://github.com/mlpc-ucsd/LETR)]
@@ -1003,6 +1006,10 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **SATNet**: "Symmetry-Aware Transformer-based Mirror Detection", arXiv, 2022 (*Harbin Institute of Technology*). [[Paper](https://arxiv.org/abs/2207.06332)][[PyTorch](https://github.com/tyhuang0428/SATNet)]
 * Shadow Detection:
     * **SCOTCH-SODA**: "SCOTCH and SODA: A Transformer Video Shadow Detection Framework", arXiv, 2022 (*University of Cambridge*). [[Paper](https://arxiv.org/abs/2211.06885)]
+* Keypoint Detection:
+    * **SalViT**: "From Saliency to DINO: Saliency-guided Vision Transformer for Few-shot Keypoint Detection", arXiv, 2023 (*ANU*). [[Paper](https://arxiv.org/abs/2304.03140)]
+* Continual Learning:
+    * **CL-DETR**: "Continual Detection Transformer for Incremental Object Detection", CVPR, 2023 (*MPI*). [[Paper](https://arxiv.org/abs/2304.03110)]
 
 [[Back to Overview](#overview)]
 
@@ -1165,6 +1172,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **MSANet**: "MSANet: Multi-Similarity and Attention Guidance for Boosting Few-Shot Segmentation", arXiv, 2022 (*AiV Research Group, Korea*). [[Paper](https://arxiv.org/abs/2206.09667)][[PyTorch](https://github.com/AIVResearch/MSANet)]
     * **MuHS**: "Suppressing the Heterogeneity: A Strong Feature Extractor for Few-shot Segmentation", ICLR, 2023 (*Zhejiang University*). [[Paper](https://openreview.net/forum?id=CGuvK3U09LH)]
     * **VTM**: "Universal Few-shot Learning of Dense Prediction Tasks with Visual Token Matching", ICLR, 2023 (*KAIST*). [[Paper](https://arxiv.org/abs/2303.14969)][[PyTorch](https://github.com/GitGyun/visual_token_matching)]
+    * **SegGPT**: "SegGPT: Segmenting Everything In Context", arXiv, 2023 (*BAAI*). [[Paper](https://arxiv.org/abs/2304.03284)][[PyTorch](https://github.com/baaivision/Painter)]
 * X-Supervised:
     * **MCTformer**: "Multi-class Token Transformer for Weakly Supervised Semantic Segmentation", CVPR, 2022 (*The University of Western Australia*). [[Paper](https://arxiv.org/abs/2203.02891)][[Code (in construction)](https://github.com/xulianuwa/MCTformer)]
     * **AFA**: "Learning Affinity from Attention: End-to-End Weakly-Supervised Semantic Segmentation with Transformers", CVPR, 2022 (*Wuhan University*). [[Paper](https://arxiv.org/abs/2203.02664)][[PyTorch](https://github.com/rulixiang/afa)]
