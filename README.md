@@ -382,6 +382,7 @@ If you find this repository useful, please consider citing this list:
 * **FastViT**: "FastViT: A Fast Hybrid Vision Transformer using Structural Reparameterization", arXiv, 2023 (*Apple*). [[Paper](https://arxiv.org/abs/2303.14189)]
 * **CloFormer**: "Rethinking Local Perception in Lightweight Vision Transformer", arXiv, 2023 (*CAS*). [[Paper](https://arxiv.org/abs/2303.17803)]
 * **Quadformer**: "Vision Transformers with Mixed-Resolution Tokenization", arXiv, 2023 (*Tel Aviv*). [[Paper](https://arxiv.org/abs/2304.00287)][[Code (in construction)](https://github.com/TomerRonen34/mixed-resolution-vit)]
+* **SparseFormer**: "SparseFormer: Sparse Visual Recognition via Limited Latent Tokens", arXiv, 2023 (*NUS*). [[Paper](https://arxiv.org/abs/2304.03768)][[Code (in construction)](https://github.com/showlab/sparseformer)]
 #### Conv + Transformer
 * **LeViT**: "LeViT: a Vision Transformer in ConvNet's Clothing for Faster Inference", ICCV, 2021 (*Facebook*). [[Paper](https://arxiv.org/abs/2104.01136)][[PyTorch](https://github.com/facebookresearch/LeViT)]
 * **CeiT**: "Incorporating Convolution Designs into Visual Transformers", ICCV, 2021 (*SenseTime*). [[Paper](https://arxiv.org/abs/2103.11816)][[PyTorch (rishikksh20)](https://github.com/rishikksh20/CeiT)]
@@ -419,6 +420,7 @@ If you find this repository useful, please consider citing this list:
 * **SATA**: "Accumulated Trivial Attention Matters in Vision Transformers on Small Datasets", WACV, 2023 (*University of Kansas*). [[Paper](https://arxiv.org/abs/2210.12333)][[PyTorch (in construction)](https://github.com/xiangyu8/SATA)]
 * **SparK**: "Sparse and Hierarchical Masked Modeling for Convolutional Representation Learning", ICLR, 2023 (*Bytedance*). [[Paper](https://openreview.net/forum?id=NRxydtWup1S)][[PyTorch](https://github.com/keyu-tian/SparK)]
 * **MOAT**: "MOAT: Alternating Mobile Convolution and Attention Brings Strong Vision Models", ICLR, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2210.01820)][[Tensorflow](https://github.com/google-research/deeplab2)]
+* **PSLT**: "PSLT: A Light-weight Vision Transformer with Ladder Self-Attention and Progressive Shift", TPAMI, 2023 (*Sun Yat-sen University*). [[Paper](https://arxiv.org/abs/2304.03481)][[Website](https://isee-ai.cn/wugaojie/PSLT.html)]
 * **SwiftFormer**: "SwiftFormer: Efficient Additive Attention for Transformer-based Real-time Mobile Vision Applications", arXiv, 2023 (*MBZUAI*). [[Paper](https://arxiv.org/abs/2303.15446)][[PyTorch](https://github.com/Amshaker/SwiftFormer)]
 #### Training + Transformer
 * **iGPT**: "Generative Pretraining From Pixels", ICML, 2020 (*OpenAI*). [[Paper](http://proceedings.mlr.press/v119/chen20s.html)][[Tensorflow](https://github.com/openai/image-gpt)]
@@ -1468,6 +1470,7 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
     * **Text4Vis**: "Revisiting Classifier: Transferring Vision-Language Models for Video Recognition", AAAI, 2023 (*Baidu*). [[Paper](https://arxiv.org/abs/2207.01297)][[PyTorch](https://github.com/whwu95/Text4Vis)]
     * **AIM**: "AIM: Adapting Image Models for Efficient Video Action Recognition", ICLR, 2023 (*Amazon*). [[Paper](https://arxiv.org/abs/2302.03024)][[PyTorch](https://github.com/taoyang1122/adapt-image-models)][[Website](https://adapt-image-models.github.io/)]
     * **TVP**: "Text-Visual Prompting for Efficient 2D Temporal Video Grounding", CVPR, 2023 (*Intel*). [[Paper](https://arxiv.org/abs/2303.04995)]
+    * **Vita-CLIP**: "Vita-CLIP: Video and text adaptive CLIP via Multimodal Prompting", CVPR, 2023 (*MBZUAI*). [[Paper](https://arxiv.org/abs/2304.03307)]
     * **CLIP-FSAR**: "CLIP-guided Prototype Modulating for Few-shot Action Recognition", arXiv, 2023 (*Alibaba*). [[Paper](https://arxiv.org/abs/2303.02982)][[PyTorch](https://github.com/alibaba-mmai-research/CLIP-FSAR)]
     * **MAXI**: "MAtch, eXpand and Improve: Unsupervised Finetuning for Zero-Shot Action Recognition with Language Knowledge", arXiv, 2023 (*Graz University of Technology, Austria*). [[Paper](https://arxiv.org/abs/2303.08914)][[Code (in construction)](https://github.com/wlin-at/MAXI)]
     * **?**: "Multi-modal Prompting for Low-Shot Temporal Action Localization", arXiv, 2023 (*Shanghai Jiao Tong*). [[Paper](https://arxiv.org/abs/2303.11732)]
@@ -1585,6 +1588,7 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
     * **UAIC**: "Uncertainty-Aware Image Captioning", AAAI, 2023 (*Meituan*). [[Paper](https://arxiv.org/abs/2211.16769)]
     * **LiMBeR**: "Linearly Mapping from Image to Text Space", ICLR, 2023 (*Brown University*). [[Paper](https://arxiv.org/abs/2209.15162)]
     * **DiscriTune**: "Cross-Domain Image Captioning with Discriminative Finetuning", CVPR, 2023 (*Universitat Pompeu Fabra (UPF), Spain*). [[Paper](https://arxiv.org/abs/2304.01662)]
+    * **LIBRA**: "Model-Agnostic Gender Debiased Image Captioning", CVPR, 2023 (*Osaka University*). [[Paper](https://arxiv.org/abs/2304.03693)]
     * **Re-ViLM**: "Re-ViLM: Retrieval-Augmented Visual Language Model for Zero and Few-Shot Image Captioning", arXiv, 2023 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2302.04858)]
     * **ConZIC**: "ConZIC: Controllable Zero-shot Image Captioning by Sampling-Based Polishing", arXiv, 2023 (*Xidian University*). [[Paper](https://arxiv.org/abs/2303.02437)][[Code (in construction)](https://github.com/joeyz0z/ConZIC)]
 * Video:
@@ -1672,6 +1676,7 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
     * **WSQG**: "Frame-Subtitle Self-Supervision for Multi-Modal Video Question Answering", arXiv, 2022 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2209.03609)]
     * **LocAns**: "Locate before Answering: Answer Guided Question Localization for Video Question Answering", arXiv, 2022 (*Fudan University*). [[Paper](https://arxiv.org/abs/2210.02081)]
     * **NewsVideoQA**: "Watching the News: Towards VideoQA Models that can Read", arXiv, 2022 (*IIIT Hyderabad, India*). [[Paper](https://arxiv.org/abs/2211.05588)]
+    * **CaKE-LM**: "Language Models are Causal Knowledge Extractors for Zero-shot Video Question Answering", CVPRW, 2023 (*NTU + Columbia*). [[Paper](https://arxiv.org/abs/2304.03754)]
 
 [[Back to Overview](#overview)]
 
@@ -2120,6 +2125,7 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
     * **VL-InterpreT**: "VL-InterpreT: An Interactive Visualization Tool for Interpreting Vision-Language Transformers", CVPR (demo), 2022 (*Intel*). [[Paper](https://arxiv.org/abs/2203.17247)][[Website](http://vlinterpretenv4env-env.eba-vmhhefup.us-east-2.elasticbeanstalk.com/)][[Video](https://www.youtube.com/watch?v=2HZ2IjzG5_4&ab_channel=MengDu)]
     * **?**: "Understanding Attention for Vision-and-Language Tasks", International Conference on Computational Linguistics (COLING), 2022 (*The University of Sydney*). [[Paper](https://arxiv.org/abs/2208.08104)]
     * **VL-CheckList**: "VL-CheckList: Evaluating Pre-trained Vision-Language Models with Objects, Attributes and Relations", arXiv, 2022 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2207.00221)][[Code (in construction)](https://github.com/om-ai-lab/VL-CheckList)]
+    * **?**: "Is BERT Blind? Exploring the Effect of Vision-and-Language Pretraining on Visual Language Understanding", CVPR, 2023 (*Tel Aviv*). [[Paper](https://arxiv.org/abs/2303.12513)][[Code (in construction)](https://github.com/TAU-VAILab/isbertblind)][[Website](https://tau-vailab.github.io/isbertblind/)]
 * Speaker Localization:
     * **?**: "The Right to Talk: An Audio-Visual Transformer Approach", ICCV, 2021 (*University of Arkansas*). [[Paper](https://arxiv.org/abs/2108.03256)]
 * Multi-task:
@@ -2226,14 +2232,14 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
     * **RPT**: "Fine-Grained Regional Prompt Tuning for Visual Abductive Reasoning", arXiv, 2023 (*A\*STAR*). [[Paper](https://arxiv.org/abs/2303.10428)]
 * Tracking:
     * **JointNLT**: "Joint Visual Grounding and Tracking with Natural Language Specification", CVPR, 2023 (*Harbin Institute of Technology*). [[Paper](https://arxiv.org/abs/2303.12027)]
-* Analysis:
-    * **?**: "Is BERT Blind? Exploring the Effect of Vision-and-Language Pretraining on Visual Language Understanding", CVPR, 2023 (*Tel Aviv*). [[Paper](https://arxiv.org/abs/2303.12513)][[Code (in construction)](https://github.com/TAU-VAILab/isbertblind)][[Website](https://tau-vailab.github.io/isbertblind/)]
 * Scene Graph:
     * **CaCao**: "Visually-Prompted Language Model for Fine-Grained Scene Graph Generation in an Open World", arXiv, 2023 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2303.13233)]
 * Video Task Verification:
     * **EgoTV**: "EgoTV: Egocentric Task Verification from Natural Language Task Descriptions", arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2303.16975)]
 * Dance Generation:
     * **TM2D**: "TM2D: Bimodality Driven 3D Dance Generation via Music-Text Integration", arXiv, 2023 (*NUS*). [[Paper](https://arxiv.org/abs/2304.02419)][[Code (in construction)](https://github.com/Garfield-kh/TM2D)][[Website](https://garfield-kh.github.io/TM2D/)]
+* Conceptual Understanding:
+    * **?**: "Probing Conceptual Understanding of Large Visual-Language Models", arXiv, 2023 (*UCF + SRI*). [[Paper](https://arxiv.org/abs/2304.03659)]
 
 [[Back to Overview](#overview)]
 
