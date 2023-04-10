@@ -208,6 +208,7 @@ If you find this repository useful, please consider citing this list:
     * **SeTHPose**: "Learning Sequential Contexts using Transformer for 3D Hand Pose Estimation", arXiv, 2022 (*Queen's University, Canada*). [[Paper](https://arxiv.org/abs/2206.00171)]
     * **HTT**: "Hierarchical Temporal Transformer for 3D Hand Pose Estimation and Action Recognition from Egocentric RGB Videos", arXiv, 2022 (*HKU*). [[Paper](https://arxiv.org/abs/2209.09484)]
     * **?**: "Image-free Domain Generalization via CLIP for 3D Hand Pose Estimation", arXiv, 2022 (*UNIST, Korea*). [[Paper](https://arxiv.org/abs/2210.16788)]
+    * **A2J-Transformer**: "A2J-Transformer: Anchor-to-Joint Transformer Network for 3D Interacting Hand Pose Estimation from a Single RGB Image", CVPR, 2023 (*Huazhong University of Science and Technology*). [[Paper](https://arxiv.org/abs/2304.03635)][[PyTorch](https://github.com/ChanglongJiangGit/A2J-Transformer)]
     * **Deformer**: "Deformer: Dynamic Fusion Transformer for Robust Hand Pose Estimation", arXiv, 2023 (*CMU*). [[Paper](https://arxiv.org/abs/2303.04991)]
 * Others:
     * **TAPE**: "Transformer Guided Geometry Model for Flow-Based Unsupervised Visual Odometry", arXiv, 2020 (*Tianjing University*). [[Paper](https://arxiv.org/abs/2101.02143)]
@@ -871,6 +872,7 @@ If you find this repository useful, please consider citing this list:
     * **MatFormer**: "MatFormer: A Generative Model for Procedural Materials", arXiv, 2022 (*Adobe*). [[Paper](https://arxiv.org/abs/2207.01044)]
     * **FishFormer**: "FishFormer: Annulus Slicing-based Transformer for Fisheye Rectification with Efficacy Domain Exploration", arXiv, 2022 (*Beijing Jiaotong University*). [[Paper](https://arxiv.org/abs/2207.01925)]
     * **STFormer**: "Spatial-Temporal Transformer for Video Snapshot Compressive Imaging", arXiv, 2022 (*CAS*). [[Paper](https://arxiv.org/abs/2209.01578)][[PyTorch](https://github.com/ucaswangls/STFormer)]
+    * **TopNet**: "TopNet: Transformer-based Object Placement Network for Image Compositing", arXiv, 2023 (*Adobe*). [[Paper](https://arxiv.org/abs/2304.03372)]
 
 [[Back to Overview](#overview)]
 
@@ -1018,6 +1020,8 @@ Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2207.11553)][[Cod
 * **Att-SwinU-Net**: "Attention Swin U-Net: Cross-Contextual Attention Mechanism for Skin Lesion Segmentation", IEEE ISBI, 2023 (*Shahid Beheshti University, Iran*). [[Paper](https://arxiv.org/abs/2210.16898)][[PyTorch](https://github.com/NITR098/AttSwinUNet)]
 * **3DUX-Net**: "3D UX-Net: A Large Kernel Volumetric ConvNet Modernizing Hierarchical Transformer for Medical Image Segmentation", ICLR, 2023 (*Vanderbilt University*). [[Paper](https://arxiv.org/abs/2209.15076)][[PyTorch](https://github.com/MASILab/3DUX-Net)]
 * **?**: "Devil is in the Queries: Advancing Mask Transformers for Real-world Medical Image Segmentation and Out-of-Distribution Localization", CVPR, 2023 (*Alibaba*). [[Paper](https://arxiv.org/abs/2304.00212)]
+* **CVM**: "Weakly supervised segmentation with point annotations for histopathology images via contrast-based variational model", CVPR, 2023 (*University of Liverpool, UK*). [[Paper](https://arxiv.org/abs/2304.03572)]
+* **UniSeg**: "UniSeg: A Prompt-driven Universal Segmentation Model as well as A Strong Representation Learner", arXiv, 2023 (*Northwestern Polytechnical University, China*). [[Paper](https://arxiv.org/abs/2304.03493)][[PyTorch (in construction)](https://github.com/yeerwen/UniSeg)]
 
 [[Back to Overview](#overview)]
 
@@ -1323,6 +1327,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **TransVPR**: "TransVPR: Transformer-based place recognition with multi-level attention aggregation", CVPR, 2022 (*Xi'an Jiaotong*). [[Paper](https://arxiv.org/abs/2201.02001)]
     * **OverlapTransformer**: "OverlapTransformer: An Efficient and Rotation-Invariant Transformer Network for LiDAR-Based Place Recognition", IROS, 2022 (*HAOMO.AI, China*). [[Paper](https://arxiv.org/abs/2203.03397)][[PyTorch](https://github.com/haomo-ai/OverlapTransformer)]
     * **SeqOT**: "SeqOT: A Spatial-Temporal Transformer Network for Place Recognition Using Sequential LiDAR Data", arXiv, 2022 (*National University of Defense Technology, China*). [[Paper](https://arxiv.org/abs/2209.07951)][[PyTorch](https://github.com/BIT-MJY/SeqOT)]
+    * **R<sup>2</sup>Former**: "R<sup>2</sup>Former: Unified Retrieval and Reranking Transformer for Place Recognition", CVPR, 2023 (*ByteDance*). [[Paper](https://arxiv.org/abs/2304.03410)][[Code (in construction)](https://github.com/Jeff-Zilence/R2Former)]
 * Remote Sensing/Hyperspectral/Satellite:
     * **DCFAM**: "Transformer Meets DCFAM: A Novel Semantic Segmentation Scheme for Fine-Resolution Remote Sensing Images", arXiv, 2021 (*Wuhan University*). [[Paper](https://arxiv.org/abs/2104.12137)]
     * **WiCNet**: "Looking Outside the Window: Wider-Context Transformer for the Semantic Segmentation of High-Resolution Remote Sensing Images", arXiv, 2021 (*University of Trento*). [[Paper](https://arxiv.org/abs/2106.15754)]
