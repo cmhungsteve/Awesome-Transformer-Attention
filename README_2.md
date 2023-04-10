@@ -434,6 +434,7 @@ If you find this repository useful, please consider citing this list:
 * **RelTR**: "RelTR: Relation Transformer for Scene Graph Generation", arXiv, 2022 (*Leibniz University Hannover, Germany*). [[Paper](https://arxiv.org/abs/2201.11460)][[PyTorch](https://github.com/yrcong/RelTR)]
 * **SG-Shuffle**: "SG-Shuffle: Multi-aspect Shuffle Transformer for Scene Graph Generation", arXiv, 2022 (*The University of Sydney*). [[Paper](https://arxiv.org/abs/2211.04773)]
 * **IS-GGT**: "Iterative Scene Graph Generation with Generative Transformers", arXiv, 2022 (*Oklahoma State University*). [[Paper](https://arxiv.org/abs/2211.16636)]
+* **SQUAT**: "Devil's on the Edges: Selective Quad Attention for Scene Graph Generation", CVPR, 2023 (*POSTECH*). [[Paper](https://arxiv.org/abs/2304.03495)]
 * **SGT**: "Revisiting Transformer for Point Cloud-based 3D Scene Graph Generation", arXiv, 2023 (*Beijing University of Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2303.11048)]
 
 [[Back to Overview](#overview)]
