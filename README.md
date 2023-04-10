@@ -2008,6 +2008,7 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
     * **UMM-Diffusion**: "Unified Multi-Modal Latent Diffusion for Joint Subject and Text Conditional Image Generation", arXiv, 2023 (*Peking University*). [[Paper](https://arxiv.org/abs/2303.09319)]
     * **TIFA**: "TIFA: Accurate and Interpretable Text-to-Image Faithfulness Evaluation with Question Answering", arXiv, 2023 (*UW*). [[Paper](https://arxiv.org/abs/2303.11897)][[Code (in construction)](https://github.com/Yushi-Hu/tifa)][[Website](https://tifa-benchmark.github.io/)]
     * **ToMESD**: "Token Merging for Fast Stable Diffusion", arXiv, 2023 (*Georgia Tech*). [[Paper](https://arxiv.org/abs/2303.17604)][[PyTorch](https://github.com/dbolya/tomesd)]
+    * **layout-guidance**: "Training-Free Layout Control with Cross-Attention Guidance", arXiv, 2023 (*Oxford*). [[Paper](https://arxiv.org/abs/2304.03373)][[PyTorch](https://github.com/silent-chen/layout-guidance)][[Website](https://silent-chen.github.io/layout-guidance/)]
 * Video:
     * **Make-A-Video**: "Make-A-Video: Text-to-Video Generation without Text-Video Data", arXiv, 2022 (*Meta*). [[Paper](https://arxiv.org/abs/2209.14792)]
     * **Imagen-Video**: "Imagen Video: High Definition Video Generation with Diffusion Models", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2210.02303)][[Website](https://imagen.research.google/video/)]
