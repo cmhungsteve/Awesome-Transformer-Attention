@@ -1319,6 +1319,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
 * Out-Of-Distribution:
     * **OODformer**: "OODformer: Out-Of-Distribution Detection Transformer", BMVC, 2021 (*LMU Munich*). [[Paper](https://arxiv.org/abs/2107.08976)][[PyTorch](https://github.com/rajatkoner08/oodformer)]
     * **MCM**: "Delving into Out-of-Distribution Detection with Vision-Language Representations", NeurIPS, 2022 (*UW-Madison*). [[Paper](https://arxiv.org/abs/2211.13445)]
+    * **GL-MCM**: "Zero-Shot In-Distribution Detection in Multi-Object Settings Using Vision-Language Foundation Models", arXiv, 2023 (*The University of Tokyo*). [[Paper](https://arxiv.org/abs/2304.04521)]
 * Pedestrian Intention:
     * **IntFormer**: "IntFormer: Predicting pedestrian intention with the aid of the Transformer architecture", arXiv, 2021 (*Universidad de Alcala*). [[Paper](https://arxiv.org/abs/2105.08647)]
 * Physics Simulation:
@@ -1452,6 +1453,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **JCTNet**: "Joint CNN and Transformer Network via weakly supervised Learning for efficient crowd counting", arXiv, 2022 (*Chongqing University*). [[Paper](https://arxiv.org/abs/2203.06388)]
     * **CrowdMLP**: "CrowdMLP: Weakly-Supervised Crowd Counting via Multi-Granularity MLP", arXiv, 2022 (*University of Guelph, Canada*). [[Paper](https://arxiv.org/abs/2203.08219)]
     * **CounTR**: "CounTR: Transformer-based Generalised Visual Counting", arXiv, 2022 (*Shanghai Jiao Tong University*). [[Paper](https://arxiv.org/abs/2208.13721)][[Website](https://verg-avesta.github.io/CounTR_Webpage/)]
+    * **CrowdCLIP**: "CrowdCLIP: Unsupervised Crowd Counting via Vision-Language Model", CVPR, 2023 (*Baidu*). [[Paper](https://arxiv.org/abs/2304.04231)][[Code (in construction)](https://github.com/dk-liang/CrowdCLIP)]
 * Visual Quality Assessment:
     * **TRIQ**: "Transformer for Image Quality Assessment", arXiv, 2020 (*NORCE*). [[Paper](https://arxiv.org/abs/2101.01097)][[Tensorflow-Keras](https://github.com/junyongyou/triq)]
     * **IQT**: "Perceptual Image Quality Assessment with Transformers", CVPRW, 2021 (*LG*). [[Paper](https://arxiv.org/abs/2104.14730)][[Code (in construction)](https://github.com/manricheon/IQT)]
