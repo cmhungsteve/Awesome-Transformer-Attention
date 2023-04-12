@@ -909,6 +909,7 @@ If you find this repository useful, please consider citing this list:
 * **Meta-Explore**: "Meta-Explore: Exploratory Hierarchical Vision-and-Language Navigation Using Scene Object Spectrum Grounding", CVPR, 2023 (*Seoul National University*). [[Paper](https://arxiv.org/abs/2303.04077)][[Website](https://rllab-snu.github.io/projects/Meta-Explore/doc.html)]
 * **LANA**: "Lana: A Language-Capable Navigator for Instruction Following and Generation", CVPR, 2023 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2303.08409)][[Code (in construction)](https://github.com/wxh1996/LANA-VLN)]
 * **KERM**: "KERM: Knowledge Enhanced Reasoning for Vision-and-Language Navigation", CVPR, 2023 (*CAS*). [[Paper](https://arxiv.org/abs/2303.15796)][[PyTorch](https://github.com/XiangyangLi20/KERM)]
+* **VLN-SIG**: "Improving Vision-and-Language Navigation by Generating Future-View Image Semantics", CVPR, 2023 (*UNC*). [[Paper](https://arxiv.org/abs/2304.04907)][[PyTorch](https://github.com/jialuli-luka/VLN-SIG)][[Website](https://jialuli-luka.github.io/VLN-SIG)]
 * **MLANet**: "MLANet: Multi-Level Attention Network with Sub-instruction for Continuous Vision-and-Language Navigation", arXiv, 2023 (*Tongji University*). [[Paper](https://arxiv.org/abs/2303.01396)][[PyTorch](https://github.com/RavenKiller/MLA)]
 * **ENTL**: "ENTL: Embodied Navigation Trajectory Learner", arXiv, 2023 (*AI2*). [[Paper](https://arxiv.org/abs/2304.02639)]
 
@@ -1224,6 +1225,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **FaD-VLP**: "FaD-VLP: Fashion Vision-and-Language Pre-training towards Unified Retrieval and Captioning", EMNLP, 2022 (*Meta*). [[Paper](https://arxiv.org/abs/2210.15028)]
     * **Fashionformer**: "Fashionformer: A simple, Effective and Unified Baseline for Human Fashion Segmentation and Recognition", ECCV, 2022 (*Peking*). [[Paper](https://arxiv.org/abs/2204.04654)][[PyTorch](https://github.com/xushilin1/FashionFormer)]
     * **FAME-ViL**: "FAME-ViL: Multi-Tasking Vision-Language Model for Heterogeneous Fashion Tasks", CVPR, 2023 (*University of Surrey*). [[Paper](https://arxiv.org/abs/2303.02483)][[Code (in construction)](https://github.com/BrandonHanx/FAME-ViL)]
+    * **FashionSAP**: "FashionSAP: Symbols and Attributes Prompt for Fine-grained Fashion Vision-Language Pre-training", CVPR, 2023 (*Harbin Institute of Technology*). [[Paper](https://arxiv.org/abs/2304.05051)][[Code (in construction)](https://github.com/hssip/FashionSAP)]
     * **MVLT**: "Masked Vision-Language Transformer in Fashion", Machine Intelligence Research, 2023 (*Alibaba*). [[Paper](https://arxiv.org/abs/2210.15110)][[PyTorch](https://github.com/GewelsJI/MVLT)]
 * Feature Matching:
     * **SuperGlue**: "SuperGlue: Learning Feature Matching with Graph Neural Networks", CVPR, 2020 (*Magic Leap*). [[Paper](https://arxiv.org/abs/1911.11763)][[PyTorch](https://github.com/magicleap/SuperGluePretrainedNetwork)]
@@ -1442,6 +1444,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **PedFormer**: "PedFormer: Pedestrian Behavior Prediction via Cross-Modal Attention Modulation and Gated Multitask Learning", arXiv, 2022 (*Huawei*). [[Paper](https://arxiv.org/abs/2210.07886)]
     * **TAMFormer**: "TAMFormer: Multi-Modal Transformer with Learned Attention Mask for Early Intent Prediction", arXiv, 2022 (*University of Padova, Italy*). [[Paper](https://arxiv.org/abs/2210.14714)]
     * **InCrowdFormer**: "InCrowdFormer: On-Ground Pedestrian World Model From Egocentric Views", arXiv, 2023 (*Kyoto University*). [[Paper](https://arxiv.org/abs/2303.09534)]
+    * **OccFormer**: "OccFormer: Dual-path Transformer for Vision-based 3D Semantic Occupancy Prediction", arXiv, 2023 (*PhiGent Robotics, China*). [[Paper](https://arxiv.org/abs/2304.05316)][[PyTorch](https://github.com/zhangyp15/OccFormer)]
 * Visual Counting:
     * **CC-AV**: "Audio-Visual Transformer Based Crowd Counting", ICCVW, 2021 (*University of Kansas*). [[Paper](https://arxiv.org/abs/2109.01926)]
     * **TransCrowd**: "TransCrowd: Weakly-Supervised Crowd Counting with Transformer", arXiv, 2021 (*Huazhong University of Science and Technology*). [[Paper](https://arxiv.org/abs/2104.09116)][[PyTorch](https://github.com/dk-liang/TransCrowd)]
