@@ -901,6 +901,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **TRT**: "Re-Attention Transformer for Weakly Supervised Object Localization", arXiv, 2022 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2208.01838)][[PyTorch](https://github.com/su-hui-zz/ReAttentionTransformer)]
     * **TokenCut**: "TokenCut: Segmenting Objects in Images and Videos with Self-supervised Transformer and Normalized Cut", arXiv, 2022 (*Univ. Grenoble Alpes, France*). [[Paper](https://arxiv.org/abs/2209.00383)][[PyTorch](https://github.com/YangtaoWANG95/TokenCut)][[Website](https://www.m-psi.fr/Papers/TokenCut2022/)]
     * **SeqCo-DETR**: "SeqCo-DETR: Sequence Consistency Training for Self-Supervised Object Detection with Transformers", arXiv, 2023 (*SenseTime*). [[Paper](https://arxiv.org/abs/2303.08481)]
+    * **MOST**: "MOST: Multiple Object localization with Self-supervised Transformers for object discovery", arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2304.05387)]
 * X-Shot Object Detection:
     * **AIT**: "Adaptive Image Transformer for One-Shot Object Detection", CVPR, 2021 (*Academia Sinica*). [[Paper](https://openaccess.thecvf.com/content/CVPR2021/html/Chen_Adaptive_Image_Transformer_for_One-Shot_Object_Detection_CVPR_2021_paper.html)]
     * **Meta-DETR**: "Meta-DETR: Few-Shot Object Detection via Unified Image-Level Meta-Learning", arXiv, 2021 (*NTU Singapore*). [[Paper](https://arxiv.org/abs/2103.11731)][[PyTorch](https://github.com/ZhangGongjie/Meta-DETR)]
@@ -2016,6 +2017,7 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
     * **TIFA**: "TIFA: Accurate and Interpretable Text-to-Image Faithfulness Evaluation with Question Answering", arXiv, 2023 (*UW*). [[Paper](https://arxiv.org/abs/2303.11897)][[Code (in construction)](https://github.com/Yushi-Hu/tifa)][[Website](https://tifa-benchmark.github.io/)]
     * **ToMESD**: "Token Merging for Fast Stable Diffusion", arXiv, 2023 (*Georgia Tech*). [[Paper](https://arxiv.org/abs/2303.17604)][[PyTorch](https://github.com/dbolya/tomesd)]
     * **layout-guidance**: "Training-Free Layout Control with Cross-Attention Guidance", arXiv, 2023 (*Oxford*). [[Paper](https://arxiv.org/abs/2304.03373)][[PyTorch](https://github.com/silent-chen/layout-guidance)][[Website](https://silent-chen.github.io/layout-guidance/)]
+    * **HRS-Bench**: "HRS-Bench: Holistic, Reliable and Scalable Benchmark for Text-to-Image Models", arXiv, 2023 (*KAUST*). [[Paper](https://arxiv.org/abs/2304.05390)][[GitHub](https://github.com/eslambakr/HRS_benchmark)][[Website](https://eslambakr.github.io/hrsbench.github.io/)]
 * Video:
     * **Make-A-Video**: "Make-A-Video: Text-to-Video Generation without Text-Video Data", arXiv, 2022 (*Meta*). [[Paper](https://arxiv.org/abs/2209.14792)]
     * **Imagen-Video**: "Imagen Video: High Definition Video Generation with Diffusion Models", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2210.02303)][[Website](https://imagen.research.google/video/)]
