@@ -137,6 +137,7 @@ If you find this repository useful, please consider citing this list:
 * **RegFormer**: "RegFormer: An Efficient Projection-Aware Transformer Network for Large-Scale Point Cloud Registration", arXiv, 2023 (*Shanghai Jiao Tong*). [[Paper](https://arxiv.org/abs/2303.12384)]
 * **Joint-MAE**: "Joint-MAE: 2D-3D Joint Masked Autoencoders for 3D Point Cloud Pre-training", arXiv, 2023 (*CUHK*). [[Paper](https://arxiv.org/abs/2302.14007)]
 * **PointCAT**: "PointCAT: Cross-Attention Transformer for point cloud", arXiv, 2023 (*Nanjing University of Science and Technology*). [[Paper](https://arxiv.org/abs/2304.03012)][[PyTorch](https://github.com/xincheng-yang/PointCAT)]
+* **MGT**: "Multi-scale Geometry-aware Transformer for 3D Point Cloud Classification", arXiv, 2023 (*TUM*). [[Paper](https://arxiv.org/abs/2304.05694)]
 
 [[Back to Overview](#overview)]
 
@@ -1310,6 +1311,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **GATN**: "Graph Attention Transformer Network for Multi-Label Image Classification", arXiv, 2022 (*Southeast University, China*). [[Paper](https://arxiv.org/abs/2203.04049)]
 * Multi-task:
     * **MulT**: "MulT: An End-to-End Multitask Learning Transformer", CVPR, 2022 (*EPFL*). [[Paper](https://arxiv.org/abs/2205.08303)]
+    * **UFO**: "UFO: Unified Feature Optimization", ECCV, 2022 (*Baidu*). [[Paper](https://arxiv.org/abs/2207.10341)][[PaddlePaddle](https://github.com/PaddlePaddle/VIMER/tree/main/UFO)]
     * **Painter**: "Images Speak in Images: A Generalist Painter for In-Context Visual Learning", CVPR, 2023 (*BAAI*). [[Paper](https://arxiv.org/abs/2212.02499)][[Code (in construction)](https://github.com/baaivision/Painter)]
 * Open Set:
     * **OSR-ViT**: "Open Set Recognition using Vision Transformer with an Additional Detection Head", arXiv, 2022 (*Vanderbilt University, Tennessee*). [[Paper](https://arxiv.org/abs/2203.08441)]
