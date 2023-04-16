@@ -1025,6 +1025,7 @@ Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2207.11553)][[Cod
 * **?**: "Devil is in the Queries: Advancing Mask Transformers for Real-world Medical Image Segmentation and Out-of-Distribution Localization", CVPR, 2023 (*Alibaba*). [[Paper](https://arxiv.org/abs/2304.00212)]
 * **CVM**: "Weakly supervised segmentation with point annotations for histopathology images via contrast-based variational model", CVPR, 2023 (*University of Liverpool, UK*). [[Paper](https://arxiv.org/abs/2304.03572)]
 * **UniSeg**: "UniSeg: A Prompt-driven Universal Segmentation Model as well as A Strong Representation Learner", arXiv, 2023 (*Northwestern Polytechnical University, China*). [[Paper](https://arxiv.org/abs/2304.03493)][[PyTorch (in construction)](https://github.com/yeerwen/UniSeg)]
+* **UniverSeg**: "UniverSeg: Universal Medical Image Segmentation", arXiv, 2023 (*MIT*). [[Paper](https://arxiv.org/abs/2304.06131)][[PyTorch](https://github.com/JJGO/UniverSeg)][[Website](https://universeg.csail.mit.edu/)]
 
 [[Back to Overview](#overview)]
 
