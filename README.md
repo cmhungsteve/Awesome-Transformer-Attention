@@ -524,6 +524,7 @@ If you find this repository useful, please consider citing this list:
 * **MAE-WSP**: "The effectiveness of MAE pre-pretraining for billion-scale pretraining", arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2303.13496)]
 * **DiffMAE**: "Diffusion Models as Masked Autoencoders", arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2304.03283)][[Website](https://weichen582.github.io/diffmae.html)]
 * **RECLIP**: "RECLIP: Resource-efficient CLIP by Training with Small Images", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2304.06028)]
+* **DINOv2**: "DINOv2: Learning Robust Visual Features without Supervision", arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2304.07193)]
 #### Robustness + Transformer
 * **ViT-Robustness**: "Understanding Robustness of Transformers for Image Classification", ICCV, 2021 (*Google*). [[Paper](https://arxiv.org/abs/2103.14586)]
 * **SAGA**: "On the Robustness of Vision Transformers to Adversarial Examples", ICCV, 2021 (*University of Connecticut*). [[Paper](https://arxiv.org/abs/2104.02610)]
@@ -977,6 +978,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **MTTrans**: "MTTrans: Cross-Domain Object Detection with Mean-Teacher Transformer", ECCV, 2022 (*Beihang University*). [[Paper](https://arxiv.org/abs/2205.01643)]
     * **OAA-OTA**: "Improving Transferability for Domain Adaptive Detection Transformers", arXiv, 2022 (*Beijing Institute of Technology*). [[Paper](https://arxiv.org/abs/2204.14195)]
     * **SSTA**: "Cross-domain Detection Transformer based on Spatial-aware and Semantic-aware Token Alignment", arXiv, 2022 (*University of Electronic Science and Technology of China*). [[Paper](https://arxiv.org/abs/2206.00222)]
+    * **DETR-GA**: "DETR with Additional Global Aggregation for Cross-domain Weakly Supervised Object Detection", CVPR, 2023 (*Beihang University*). [[Paper](https://arxiv.org/abs/2304.07082)]
 * Co-Salient Object Detection:
     * **CoSformer**: "CoSformer: Detecting Co-Salient Object with Transformers", arXiv, 2021 (*Nanjing University*). [[Paper](https://arxiv.org/abs/2104.14729)]
 * Oriented Object Detection:
@@ -1145,6 +1147,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **GKC**: "Global Knowledge Calibration for Fast Open-Vocabulary Segmentation", arXiv, 2023 (*ByteDance*). [[Paper](https://arxiv.org/abs/2303.09181)]
     * **OPSNet**: "Open-vocabulary Panoptic Segmentation with Embedding Modulation", arXiv, 2023 (*HKU*). [[Paper](https://arxiv.org/abs/2303.11324)]
     * **CAT-Seg**: "CAT-Seg: Cost Aggregation for Open-Vocabulary Semantic Segmentation", arXiv, 2023 (*Korea University*). [[Paper](https://arxiv.org/abs/2303.11797)][[PyTorch](https://github.com/KU-CVLAB/CAT-Seg)][[Website](https://ku-cvlab.github.io/CAT-Seg/)]
+    * **MVP-SEG**: "MVP-SEG: Multi-View Prompt Learning for Open-Vocabulary Semantic Segmentation", arXiv, 2023 (*Xiaohongshu, China*). [[Paper](https://arxiv.org/abs/2304.06957)]
 * Universal Segmentation:
     * **Mask2Former**: "Masked-attention Mask Transformer for Universal Image Segmentation", CVPR, 2022 (*Meta*). [[Paper](https://arxiv.org/abs/2112.01527)][[PyTorch](https://github.com/facebookresearch/Mask2Former)][[Website](https://bowenc0221.github.io/mask2former/)]
     * **MP-Former**: "MP-Former: Mask-Piloted Transformer for Image Segmentation", CVPR, 2023 (*IDEA*). [[Paper](https://arxiv.org/abs/2303.07336)][[Code (in construction)](https://github.com/IDEA-Research/MP-Former)]
@@ -2124,6 +2127,7 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
 * **MaskDoc**: "Masked Visual-Textual Prediction for Document Image Representation Pretraining", ICLR, 2023 (*Baidu*). [[Paper](https://openreview.net/forum?id=HE_75XY5Ljh)]
 * **StrucTexTv2**: "StrucTexTv2: Masked Visual-Textual Prediction for Document Image Pre-training", ICLR, 2023 (*Baidu*). [[Paper](https://arxiv.org/abs/2303.00289)][[PaddlePaddle](https://github.com/PaddlePaddle/VIMER/tree/main/StrucTexT/v2)]
 * **FlexDM**: "Towards Flexible Multi-modal Document Models", CVPR, 2023 (*CyberAgent, Japan*). [[Paper](https://arxiv.org/abs/2303.18248)][[Tensorflow](https://github.com/CyberAgentAILab/flex-dm)][[Website](https://cyberagentailab.github.io/flex-dm/)]
+* **mmc4**: "Multimodal C4: An Open, Billion-scale Corpus of Images Interleaved With Text", arXiv, 2023 (*AI2*). [[Paper](https://arxiv.org/abs/2304.06939)][[GitHub (in construction)](https://github.com/allenai/mmc4)]
 
 [[Back to Overview](#overview)]
 
