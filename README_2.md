@@ -272,6 +272,7 @@ If you find this repository useful, please consider citing this list:
     * **ViPT**: "Visual Prompt Multi-Modal Tracking", CVPR, 2023 (*Dalian University of Technology*). [[Paper](https://arxiv.org/abs/2303.10826)]
     * **GRM**: "Generalized Relation Modeling for Transformer Tracking", CVPR, 2023 (*HKUST*). [[Paper](https://arxiv.org/abs/2303.16580)][[PyTorch (in construction)](https://github.com/Little-Podi/GRM)]
     * **DropMAE**: "DropMAE: Masked Autoencoders with Spatial-Attention Dropout for Tracking Tasks", CVPR, 2023 (*CUHK*). [[Paper](https://arxiv.org/abs/2304.00571)][[Code (in construction)](https://github.com/jimmy-dq/DropMAE)]
+    * **OVTrack**: "OVTrack: Open-Vocabulary Multiple Object Tracking", CVPR, 2023 (*ETHZ*). [[Paper](https://arxiv.org/abs/2304.08408)]
 * 3D:
     * **STNet**: "3D Siamese Transformer Network for Single Object Tracking on Point Clouds", ECCV, 2022 (*Nanjing University of Science and Technology*). [[Paper](https://arxiv.org/abs/2207.11995)][[PyTorch](https://github.com/fpthink/STNet)]
     * **CMT**: "CMT: Context-Matching-Guided Transformer for 3D Tracking in Point Clouds", ECCV, 2022 (*USTC*). [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/1253_ECCV_2022_paper.php)]
@@ -648,6 +649,7 @@ If you find this repository useful, please consider citing this list:
     * **MaskedDenoising**: "Masked Image Training for Generalizable Deep Image Denoising", CVPR, 2023 (*HKUST*). [[Paper](https://arxiv.org/abs/2303.13132)][[Code (in construction)](https://github.com/haoyuc/MaskedDenoising)]
     * **SelfPromer**: "SelfPromer: Self-Prompt Dehazing Transformers with Depth-Consistency", arXiv, 2023 (*The Hong Kong Polytechnic University*). [[Paper](https://arxiv.org/abs/2303.07033)]
     * **Xformer**: "Xformer: Hybrid X-Shaped Transformer for Image Denoising", arXiv, 2023 (*Shanghai Jiao Tong*). [[Paper](https://arxiv.org/abs/2303.06440)]
+    * **?**: "A Data-Centric Solution to NonHomogeneous Dehazing via Vision Transformer", arXiv, 2023 (*McMaster University, Canada*). [[Paper](https://arxiv.org/abs/2304.07874)][[PyTorch](https://github.com/yangyiliu21/ntire2023_ITBdehaze)]
 
 [[Back to Overview](#overview)]
 
@@ -790,6 +792,7 @@ If you find this repository useful, please consider citing this list:
 * **MeBT**: "Towards End-to-End Generative Modeling of Long Videos with Memory-Efficient Bidirectional Transformers", CVPR, 2023 (*Kakao*). [[Paper](https://arxiv.org/abs/2303.11251)][[Code (in construction)](https://github.com/Ugness/MeBT)][[Website](https://sites.google.com/view/mebt-cvpr2023)]
 * **BiFormer**: "BiFormer: Learning Bilateral Motion Estimation via Bilateral Transformer for 4K Video Frame Interpolation", CVPR, 2023 (*Korea University*). [[Paper](https://arxiv.org/abs/2304.02225)][[Code (in construction)](https://github.com/JunHeum/BiFormer)]
 * **NUWA-XL**: "NUWA-XL: Diffusion over Diffusion for eXtremely Long Video Generation", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2303.12346)][[Website (in construction)](https://msra-nuwa.azurewebsites.net/)]
+* **CAT-NeRF**: "CAT-NeRF: Constancy-Aware Tx<sup>2</sup>Former for Dynamic Body Modeling", arXiv, 2023 (*USC*). [[Paper](https://arxiv.org/abs/2304.07915)]
 
 [[Back to Overview](#overview)]
 
