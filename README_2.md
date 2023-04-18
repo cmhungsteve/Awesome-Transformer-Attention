@@ -1077,7 +1077,8 @@ Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2207.11553)][[Cod
 * **CAE-Transformer**: "CAE-Transformer: Transformer-based Model to Predict Invasiveness of Lung Adenocarcinoma Subsolid Nodules from Non-thin Section 3D CT Scans", arXiv, 2021 (*Concordia University, Canada*). [[Paper](https://arxiv.org/abs/2110.08721)]
 * **DATR**: "DATR: Domain-adaptive transformer for multi-domain landmark detection", arXiv, 2022 (*CAS*). [[Paper](https://arxiv.org/abs/2203.06433)]
 * **SATr**: "SATr: Slice Attention with Transformer for Universal Lesion Detection", arXiv, 2022 (*CAS*). [[Paper](https://arxiv.org/abs/2203.07373)]
-* **Focused-Decoder**: "Focused Decoding Enables 3D Anatomical Detection by Transformers", arXiv, 2022 (*TUM*). [[Paper](https://arxiv.org/abs/2207.10774)][[PyTorch](https://github.com/bwittmann/transoar)]
+* **SwinFPN**: "SwinFPN: Leveraging Vision Transformers for 3D Organs-At-Risk Detection", MIDL, 2022 (*TUM*). [[Paper](https://openreview.net/forum?id=yiIz7DhgRU5)][[PyTorch](https://github.com/bwittmann/transoar)]
+* **Focused Decoder**: "Focused Decoding Enables 3D Anatomical Detection by Transformers", MELBA, 2023 (*UZH*). [[Paper](https://www.melba-journal.org/papers/2023:003.html)][[PyTorch](https://github.com/bwittmann/transoar)]
 
 [[Back to Overview](#overview)]
 
