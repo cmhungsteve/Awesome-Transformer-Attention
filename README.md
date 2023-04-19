@@ -387,6 +387,7 @@ If you find this repository useful, please consider citing this list:
 * **CloFormer**: "Rethinking Local Perception in Lightweight Vision Transformer", arXiv, 2023 (*CAS*). [[Paper](https://arxiv.org/abs/2303.17803)]
 * **Quadformer**: "Vision Transformers with Mixed-Resolution Tokenization", arXiv, 2023 (*Tel Aviv*). [[Paper](https://arxiv.org/abs/2304.00287)][[Code (in construction)](https://github.com/TomerRonen34/mixed-resolution-vit)]
 * **SparseFormer**: "SparseFormer: Sparse Visual Recognition via Limited Latent Tokens", arXiv, 2023 (*NUS*). [[Paper](https://arxiv.org/abs/2304.03768)][[Code (in construction)](https://github.com/showlab/sparseformer)]
+* **EMO**: "Rethinking Mobile Block for Efficient Attention-based Models", arXiv, 2023 (*Tencent*). [[Paper](https://arxiv.org/abs/2301.01146)][[PyTorch](https://github.com/zhangzjn/EMO)]
 #### Conv + Transformer
 * **LeViT**: "LeViT: a Vision Transformer in ConvNet's Clothing for Faster Inference", ICCV, 2021 (*Facebook*). [[Paper](https://arxiv.org/abs/2104.01136)][[PyTorch](https://github.com/facebookresearch/LeViT)]
 * **CeiT**: "Incorporating Convolution Designs into Visual Transformers", ICCV, 2021 (*SenseTime*). [[Paper](https://arxiv.org/abs/2103.11816)][[PyTorch (rishikksh20)](https://github.com/rishikksh20/CeiT)]
@@ -836,7 +837,6 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **OcTr**: "OcTr: Octree-based Transformer for 3D Object Detection", CVPR, 2023 (*Beihang University*). [[Paper](https://arxiv.org/abs/2303.12621)]
 * **MonoATT**: "MonoATT: Online Monocular 3D Object Detection with Adaptive Token Transformer", CVPR, 2023 (*Shanghai Jiao Tong*). [[Paper](https://arxiv.org/abs/2303.13018)]
 * **DTH**: "Efficient Transformer-based 3D Object Detection with Dynamic Token Halting", arXiv, 2023 (*Cruise*). [[Paper](https://arxiv.org/abs/2303.05078)]
-* **Focused Decoder**: "Focused Decoding Enables 3D Anatomical Detection by Transformers", MELBA, 2023 (*UZH*). [[Paper](https://www.melba-journal.org/papers/2023:003.html)][[PyTorch](https://github.com/bwittmann/transoar)]
 
 [[Back to Overview](#overview)]
 
@@ -1157,6 +1157,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **MVP-SEG**: "MVP-SEG: Multi-View Prompt Learning for Open-Vocabulary Semantic Segmentation", arXiv, 2023 (*Xiaohongshu, China*). [[Paper](https://arxiv.org/abs/2304.06957)]
     * **TagCLIP**: "TagCLIP: Improving Discrimination Ability of Open-Vocabulary Semantic Segmentation", arXiv, 2023 (*CUHK*). [[Paper](https://arxiv.org/abs/2304.07547)]
 * Universal Segmentation:
+    * **K-Net**: "K-Net: Towards Unified Image Segmentation", NeurIPS, 2021 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2106.14855)][[PyTorch](https://github.com/ZwwWayne/K-Net/)]
     * **Mask2Former**: "Masked-attention Mask Transformer for Universal Image Segmentation", CVPR, 2022 (*Meta*). [[Paper](https://arxiv.org/abs/2112.01527)][[PyTorch](https://github.com/facebookresearch/Mask2Former)][[Website](https://bowenc0221.github.io/mask2former/)]
     * **MP-Former**: "MP-Former: Mask-Piloted Transformer for Image Segmentation", CVPR, 2023 (*IDEA*). [[Paper](https://arxiv.org/abs/2303.07336)][[Code (in construction)](https://github.com/IDEA-Research/MP-Former)]
     * **OneFormer**: "OneFormer: One Transformer to Rule Universal Image Segmentation", CVPR, 2023 (*Oregon*). [[Paper](https://arxiv.org/abs/2211.06220)][[PyTorch](https://github.com/SHI-Labs/OneFormer)][[Website](https://praeclarumjj3.github.io/oneformer/)]
@@ -1172,6 +1173,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **kMaX-DeepLab**: "k-means Mask Transformer", ECCV, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2207.04044)][[Tensorflow](https://github.com/google-research/deeplab2)]
     * **Panoptic-PartFormer**: "Panoptic-PartFormer: Learning a Unified Model for Panoptic Part Segmentation", ECCV, 2022 (*Peking*). [[Paper](https://arxiv.org/abs/2204.04655)][[PyTorch](https://github.com/lxtGH/Panoptic-PartFormer)]
     * **CoMFormer**: "CoMFormer: Continual Learning in Semantic and Panoptic Segmentation", arXiv, 2022 (*Sorbonne Université, France*). [[Paper](https://arxiv.org/abs/2211.13999)]
+    * **PanopticPartFormer++**: "PanopticPartFormer++: A Unified and Decoupled View for Panoptic Part Segmentation", arXiv, 2023 (*Peking*). [[Paper](https://arxiv.org/abs/2204.04655)][[PyTorch](https://github.com/lxtGH/Panoptic-PartFormer)]
 * Instance Segmentation:
     * **ISTR**: "ISTR: End-to-End Instance Segmentation with Transformers", arXiv, 2021 (*Xiamen University*). [[Paper](https://arxiv.org/abs/2105.00637)][[PyTorch](https://github.com/hujiecpp/ISTR)]
     * **Mask-Transfiner**: "Mask Transfiner for High-Quality Instance Segmentation", CVPR, 2022 (*ETHZ*). [[Paper](https://arxiv.org/abs/2111.13673)][[PyTorch](https://github.com/SysCV/transfiner)][[Website](https://www.vis.xyz/pub/transfiner/)]
@@ -1201,6 +1203,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **MuHS**: "Suppressing the Heterogeneity: A Strong Feature Extractor for Few-shot Segmentation", ICLR, 2023 (*Zhejiang University*). [[Paper](https://openreview.net/forum?id=CGuvK3U09LH)]
     * **VTM**: "Universal Few-shot Learning of Dense Prediction Tasks with Visual Token Matching", ICLR, 2023 (*KAIST*). [[Paper](https://arxiv.org/abs/2303.14969)][[PyTorch](https://github.com/GitGyun/visual_token_matching)]
     * **SegGPT**: "SegGPT: Segmenting Everything In Context", arXiv, 2023 (*BAAI*). [[Paper](https://arxiv.org/abs/2304.03284)][[PyTorch](https://github.com/baaivision/Painter)]
+    * **RefT**: "Reference Twice: A Simple and Unified Baseline for Few-Shot Instance Segmentation", arXiv, 2023 (*Tencent*). [[Paper](https://arxiv.org/abs/2301.01156)][[Code (in construction)](https://github.com/hanyue1648/RefT)]
 * X-Supervised:
     * **MCTformer**: "Multi-class Token Transformer for Weakly Supervised Semantic Segmentation", CVPR, 2022 (*The University of Western Australia*). [[Paper](https://arxiv.org/abs/2203.02891)][[Code (in construction)](https://github.com/xulianuwa/MCTformer)]
     * **AFA**: "Learning Affinity from Attention: End-to-End Weakly-Supervised Semantic Segmentation with Transformers", CVPR, 2022 (*Wuhan University*). [[Paper](https://arxiv.org/abs/2203.02664)][[PyTorch](https://github.com/rulixiang/afa)]
@@ -1467,10 +1470,12 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
     * **STT**: "Video Semantic Segmentation via Sparse Temporal Transformer", MM, 2021 (*Shanghai Jiao Tong*). [[Paper](https://dl.acm.org/doi/abs/10.1145/3474085.3475409)]
     * **CFFM**: "Coarse-to-Fine Feature Mining for Video Semantic Segmentation", CVPR, 2022 (*ETH Zurich*). [[Paper](https://arxiv.org/abs/2204.03330)][[PyTorch](https://github.com/GuoleiSun/VSS-CFFM)]
     * **TF-DL**: "TubeFormer-DeepLab: Video Mask Transformer", CVPR, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2205.15361)]
+    * **Video-K-Net**: "Video K-Net: A Simple, Strong, and Unified Baseline for Video Segmentation", CVPR, 2022 (*Peking University*). [[Paper](https://arxiv.org/abs/2204.04656)][[PyTorch](https://github.com/lxtGH/Video-K-Net)]
     * **MRCFA**: "Mining Relations among Cross-Frame Affinities for Video Semantic Segmentation", ECCV, 2022 (*ETH Zurich*). [[Paper](https://arxiv.org/pdf/2207.10436)][[PyTorch](https://github.com/GuoleiSun/VSS-MRCFA)]   
     * **PolyphonicFormer**: "PolyphonicFormer: Unified Query Learning for Depth-aware Video Panoptic Segmentation, ECCV, 2022 (*Wuhan University*). [[Paper](https://arxiv.org/abs/2112.02582)][[Code (in construction)](https://github.com/HarborYuan/PolyphonicFormer)]
     * **?**: "Time-Space Transformers for Video Panoptic Segmentation", arXiv, 2022 (*Technical University of Cluj-Napoca, Romania*). [[Paper](https://arxiv.org/abs/2210.03546)]
     * **Video-kMaX**: "Video-kMaX: A Simple Unified Approach for Online and Near-Online Video Panoptic Segmentation", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2304.04694)]
+    * **Tube-Link**: "Tube-Link: A Flexible Cross Tube Baseline for Universal Video Segmentation", arXiv, 2023 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2303.12782)][[Code (in construction)](https://github.com/lxtGH/Tube-Link)]
 * Video Object Detection:
     * **TransVOD**: "End-to-End Video Object Detection with Spatial-Temporal Transformers", arXiv, 2021 (*Shanghai Jiao Tong + SenseTime*). [[Paper](https://arxiv.org/abs/2105.10920)][[Code (in construction)](https://github.com/SJTU-LuHe/TransVOD)]
     * **MODETR**: "MODETR: Moving Object Detection with Transformers", arXiv, 2021 (*Valeo, Egypt*). [[Paper](https://arxiv.org/abs/2106.11422)]
@@ -2170,6 +2175,7 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
     * **ReSTR**: "ReSTR: Convolution-free Referring Image Segmentation Using Transformers", CVPR, 2022 (*POSTECH*). [[Paper](https://arxiv.org/abs/2203.16768)][[Website](http://cvlab.postech.ac.kr/research/restr/)]
     * **VLT**: "VLT: Vision-Language Transformer and Query Generation for Referring Segmentation", TPAMI, 2022 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2210.15871)]
     * **TSEG**: "Weakly-supervised segmentation of referring expressions", arXiv, 2022 (*INRIA*). [[Paper](https://arxiv.org/abs/2205.04725)]
+    * **R-RIS**: "Towards Robust Referring Image Segmentation", arXiv, 2023 (*Peking*). [[Paper](https://arxiv.org/abs/2209.09554)][[Code (in construction)](https://github.com/jzwu48033552/robust-ref-seg)][[Website](https://lxtgh.github.io/project/robust_ref_seg/)]
     * **ZS-RIS**: "Zero-shot Referring Image Segmentation with Global-Local Context Features", CVPR, 2023 (*Gwangju Institute of Science and Technology (GIST)*). [[Paper](https://arxiv.org/abs/2303.17811)][[Code (in construction)](https://github.com/Seonghoon-Yu/Zero-shot-RIS)]
     * **PolyFormer**: "PolyFormer: Referring Image Segmentation as Sequential Polygon Generation", CVPR, 2023 (*Amazon*). [[Paper](https://arxiv.org/abs/2302.07387)][[Website](https://polyformer.github.io/)]
     * **MCRES**: "Meta Compositional Referring Expression Segmentation", CVPR, 2023 (*Singapore University of Technology and Design*). [[Paper](https://arxiv.org/abs/2304.04415)]
