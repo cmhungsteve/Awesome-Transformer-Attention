@@ -421,6 +421,7 @@ If you find this repository useful, please consider citing this list:
 * **NOAH**: "Neural Prompt Search", arXiv, 2022 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2206.04673)][[PyTorch](https://github.com/Davidzhangyuanhan/NOAH)]
 * **FocusFormer**: "FocusFormer: Focusing on What We Need via Architecture Sampler", arXiv, 2022 (*Monash University, Australia*). [[Paper](https://arxiv.org/abs/2208.10861)]
 * **NAR-Former**: "NAR-Former: Neural Architecture Representation Learning towards Holistic Attributes Prediction", arXiv, 2022 (*Xidian University, China*). [[Paper](https://arxiv.org/abs/2211.08024)]
+* **AutoTaskFormer**: "AutoTaskFormer: Searching Vision Transformers for Multi-task Learning", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2304.08756)]
 
 [[Back to Overview](#overview)]
 
