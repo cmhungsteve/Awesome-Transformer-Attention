@@ -836,6 +836,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **OcTr**: "OcTr: Octree-based Transformer for 3D Object Detection", CVPR, 2023 (*Beihang University*). [[Paper](https://arxiv.org/abs/2303.12621)]
 * **MonoATT**: "MonoATT: Online Monocular 3D Object Detection with Adaptive Token Transformer", CVPR, 2023 (*Shanghai Jiao Tong*). [[Paper](https://arxiv.org/abs/2303.13018)]
 * **DTH**: "Efficient Transformer-based 3D Object Detection with Dynamic Token Halting", arXiv, 2023 (*Cruise*). [[Paper](https://arxiv.org/abs/2303.05078)]
+* **Focused Decoder**: "Focused Decoding Enables 3D Anatomical Detection by Transformers", MELBA, 2023 (*UZH*). [[Paper](https://www.melba-journal.org/papers/2023:003.html)][[PyTorch](https://github.com/bwittmann/transoar)]
 
 [[Back to Overview](#overview)]
 
