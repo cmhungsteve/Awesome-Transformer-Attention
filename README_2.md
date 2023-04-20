@@ -792,6 +792,7 @@ If you find this repository useful, please consider citing this list:
 * **Human-MotionFormer**: "Human MotionFormer: Transferring Human Motions with Vision Transformers", ICLR, 2023 (*HKUST + Huya*). [[Paper](https://arxiv.org/abs/2302.11306)][[Code (in construction)](https://github.com/KumapowerLIU/Human-MotionFormer)]
 * **MeBT**: "Towards End-to-End Generative Modeling of Long Videos with Memory-Efficient Bidirectional Transformers", CVPR, 2023 (*Kakao*). [[Paper](https://arxiv.org/abs/2303.11251)][[Code (in construction)](https://github.com/Ugness/MeBT)][[Website](https://sites.google.com/view/mebt-cvpr2023)]
 * **BiFormer**: "BiFormer: Learning Bilateral Motion Estimation via Bilateral Transformer for 4K Video Frame Interpolation", CVPR, 2023 (*Korea University*). [[Paper](https://arxiv.org/abs/2304.02225)][[Code (in construction)](https://github.com/JunHeum/BiFormer)]
+* **AMT**: "AMT: All-Pairs Multi-Field Transforms for Efficient Frame Interpolation", CVPR, 2023 (*Nankai University*). [[Paper](https://arxiv.org/abs/2304.09790)][[PyTorch](https://github.com/MCG-NKU/AMT)][[Website](https://nk-cs-zzl.github.io/projects/amt/)]
 * **NUWA-XL**: "NUWA-XL: Diffusion over Diffusion for eXtremely Long Video Generation", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2303.12346)][[Website (in construction)](https://msra-nuwa.azurewebsites.net/)]
 * **CAT-NeRF**: "CAT-NeRF: Constancy-Aware Tx<sup>2</sup>Former for Dynamic Body Modeling", arXiv, 2023 (*USC*). [[Paper](https://arxiv.org/abs/2304.07915)]
 
