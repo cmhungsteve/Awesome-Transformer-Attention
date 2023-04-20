@@ -123,6 +123,7 @@ If you find this repository useful, please consider citing this list:
 ---
 
 ## Survey
+* "Transformer-Based Visual Segmentation: A Survey", arXiv, 2023 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2304.09854)][[GitHub](https://github.com/lxtGH/Awesome-Segmenation-With-Transformer)]
 * "Vision-Language Models for Vision Tasks: A Survey", arXiv, 2023 (*?*). [[Paper](https://arxiv.org/abs/2304.00685)][[GitHub (in construction)](https://github.com/jingyi0000/VLM_survey)]
 * "Text-to-image Diffusion Model in Generative AI: A Survey", arXiv, 2023 (*KAIST*). [[Paper](https://arxiv.org/abs/2303.07909)]
 * "Foundation Models for Decision Making: Problems, Methods, and Opportunities", arXiv, 2023 (*Berkeley + Google*). [[Paper](https://arxiv.org/abs/2303.04129)]
@@ -284,7 +285,7 @@ If you find this repository useful, please consider citing this list:
 * **GGeM**: "Group Generalized Mean Pooling for Vision Transformer", arXiv, 2022 (*NAVER*). [[Paper](https://arxiv.org/abs/2212.04114)]
 * **GPViT**: "GPViT: A High Resolution Non-Hierarchical Vision Transformer with Group Propagation", ICLR, 2023 (*University of Edinburgh, Scotland + UCSD*). [[Paper](https://arxiv.org/abs/2212.06795)][[PyTorch](https://github.com/ChenhongyiYang/GPViT)]
 * **CPVT**: "Conditional Positional Encodings for Vision Transformers", ICLR, 2023 (*Meituan*). [[Paper](https://openreview.net/forum?id=3KWnuT-R1bh)][[Code (in construction)](https://github.com/Meituan-AutoML/CPVT)]
-* **LipsFormer**: "LipsFormer: Introducing Lipschitz Continuity to Vision Transformers", ICLR, 2023 (*IDEA, China*). [[Paper](https://openreview.net/forum?id=cHf1DcCwcH3)]
+* **LipsFormer**: "LipsFormer: Introducing Lipschitz Continuity to Vision Transformers", ICLR, 2023 (*IDEA, China*). [[Paper](https://arxiv.org/abs/2304.09856)][[Code (in construction)](https://github.com/IDEA-Research/LipsFormer)]
 * **BiFormer**: "BiFormer: Vision Transformer with Bi-Level Routing Attention", CVPR, 2023 (*CUHK*). [[Paper](https://arxiv.org/abs/2303.08810)][[PyTorch](https://github.com/rayleizhu/BiFormer)]
 * **AbSViT**: "Top-Down Visual Attention from Analysis by Synthesis", CVPR, 2023 (*Berkeley*). [[Paper](https://arxiv.org/abs/2303.13043)][[PyTorch](https://github.com/bfshi/AbSViT)][[Website](https://sites.google.com/view/absvit)]
 * **DependencyViT**: "Visual Dependency Transformers: Dependency Tree Emerges from Reversed Attention", CVPR, 2023 (*MIT*). [[Paper](https://arxiv.org/abs/2304.03282)][[Code (in construction)](https://github.com/dingmyu/DependencyViT)]
@@ -1577,6 +1578,7 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
 * Instructional Video:
     * **ProcedureVRL**: "Learning Procedure-aware Video Representation from Instructional Videos and Their Narrations", CVPR, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2303.17839)]
     * **Paprika**: "Procedure-Aware Pretraining for Instructional Video Understanding", CVPR, 2023 (*Salesforce*). [[Paper](https://arxiv.org/abs/2303.18230)][[PyTorch](https://github.com/salesforce/paprika)]
+    * **VLaMP**: "Pretrained Language Models as Visual Planners for Human Assistance", arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2304.09179)]
 
 [[Back to Overview](#overview)]
 
@@ -2051,6 +2053,7 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
     * **GLIGEN**: "GLIGEN: Open-Set Grounded Text-to-Image Generation", CVPR, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2301.07093)][[PyTorch](https://github.com/gligen/GLIGEN)][[Website](https://gligen.github.io/)]
     * **MAGVLT**: "MAGVLT: Masked Generative Vision-and-Language Transformer", CVPR, 2023 (*Kakao*). [[Paper](https://arxiv.org/abs/2303.12208)]
     * **ReCo**: "ReCo: Region-Controlled Text-to-Image Generation", CVPR, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2211.15518)]
+    * **GALIP**: "GALIP: Generative Adversarial CLIPs for Text-to-Image Synthesis", CVPR, 2023 (*Nanjing University of Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2301.12959)][[PyTorch](https://github.com/tobran/GALIP)]
     * **E4T**: "Designing an Encoder for Fast Personalization of Text-to-Image Models", arXiv, 2023 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2302.12228)][[Website](https://tuning-encoder.github.io/)]
     * **?**: "Controlled and Conditional Text to Image Generation with Diffusion Prior", arXiv, 2023 (*Adobe*). [[Paper](https://arxiv.org/abs/2302.11710)]
     * **Lformer**: "Lformer: Text-to-Image Generation with L-shape Block Parallel Decoding", arXiv, 2023 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2303.03800)]
@@ -2292,6 +2295,7 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
     * **Visual-ChatGPT**: "Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2303.04671)]
     * **MM-REACT**: "MM-REACT: Prompting ChatGPT for Multimodal Reasoning and Action", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2303.11381)][[Code](https://github.com/microsoft/MM-REACT)][[Website](https://multimodal-react.github.io/)]
     * **Video-ChatCaptioner**: "Video ChatCaptioner: Towards the Enriched Spatiotemporal Descriptions", arXiv, 2023 (*KAUST*). [[Paper](https://arxiv.org/abs/2304.04227)][[PyTorch](https://github.com/Vision-CAIR/ChatCaptioner)]
+    * **Chameleon**: "Chameleon: Plug-and-Play Compositional Reasoning with Large Language Models", arXiv, 2023 (*UCLA + Microsoft*). [[Paper](https://arxiv.org/abs/2304.09842)][[PyTorch](https://github.com/lupantech/chameleon-llm)][[Website](https://chameleon-llm.github.io/)]
 * Visual Abductive Reasoning:
     * **RPT**: "Fine-Grained Regional Prompt Tuning for Visual Abductive Reasoning", arXiv, 2023 (*A\*STAR*). [[Paper](https://arxiv.org/abs/2303.10428)]
 * Tracking:
