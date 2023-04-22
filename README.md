@@ -123,6 +123,7 @@ If you find this repository useful, please consider citing this list:
 ---
 
 ## Survey
+* "A Survey of Visual Transformers", TNNLS, 2023 (*CAS*). [[Paper](https://arxiv.org/abs/2111.06091)]
 * "Transformer-Based Visual Segmentation: A Survey", arXiv, 2023 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2304.09854)][[GitHub](https://github.com/lxtGH/Awesome-Segmenation-With-Transformer)]
 * "Vision-Language Models for Vision Tasks: A Survey", arXiv, 2023 (*?*). [[Paper](https://arxiv.org/abs/2304.00685)][[GitHub (in construction)](https://github.com/jingyi0000/VLM_survey)]
 * "Text-to-image Diffusion Model in Generative AI: A Survey", arXiv, 2023 (*KAIST*). [[Paper](https://arxiv.org/abs/2303.07909)]
@@ -161,7 +162,6 @@ If you find this repository useful, please consider citing this list:
 * "Transformers in Vision: A Survey", ACM Computing Surveys, 2021 (*MBZUAI*). [[Paper](https://arxiv.org/abs/2101.01169)]
 * "Survey: Transformer based Video-Language Pre-training", arXiv, 2021 (*Renmin University of China*). [[Paper](https://arxiv.org/abs/2109.09920)]
 * "A Survey of Transformers", arXiv, 2021 (*Fudan*). [[Paper](https://arxiv.org/abs/2106.04554)]
-* "A Survey of Visual Transformers", arXiv, 2021 (*CAS*). [[Paper](https://arxiv.org/abs/2111.06091)]
 * "Attention mechanisms and deep learning for machine vision: A survey of the state of the art", arXiv, 2021 (*University of Kashmir, India*). [[Paper](https://arxiv.org/abs/2106.07550)]
 
 [[Back to Overview](#overview)]
