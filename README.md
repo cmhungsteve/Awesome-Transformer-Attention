@@ -619,6 +619,7 @@ If you find this repository useful, please consider citing this list:
 * **oViT**: "oViT: An Accurate Second-Order Pruning Framework for Vision Transformers", arXiv, 2022 (*IST Austria*). [[Paper](https://arxiv.org/abs/2210.09223)]
 * **BiViT**: "BiViT: Extremely Compressed Binary Vision Transformer", arXiv, 2022 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2211.07091)]
 * **CPT-V**: "CPT-V: A Contrastive Approach to Post-Training Quantization of Vision Transformers", arXiv, 2022 (*UT Austin*). [[Paper](https://arxiv.org/abs/2211.09643)]
+* **TPS**: "Joint Token Pruning and Squeezing Towards More Aggressive Compression of Vision Transformers", CVPR, 2023 (*Megvii*). [[Paper](https://arxiv.org/abs/2304.10716)][[Code (in construction)](https://github.com/megvii-research/TPS-CVPR2023)]
 * **Q-HyViT**: "Q-HyViT: Post-Training Quantization for Hybrid Vision Transformer with Bridge Block Reconstruction", arXiv, 2023 (*Electronics and Telecommunications Research Institute (ETRI), Korea*). [[Paper](https://arxiv.org/abs/2303.12557)]
 
 [[Back to Overview](#overview)]
@@ -2296,6 +2297,7 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
     * **MM-REACT**: "MM-REACT: Prompting ChatGPT for Multimodal Reasoning and Action", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2303.11381)][[Code](https://github.com/microsoft/MM-REACT)][[Website](https://multimodal-react.github.io/)]
     * **Video-ChatCaptioner**: "Video ChatCaptioner: Towards the Enriched Spatiotemporal Descriptions", arXiv, 2023 (*KAUST*). [[Paper](https://arxiv.org/abs/2304.04227)][[PyTorch](https://github.com/Vision-CAIR/ChatCaptioner)]
     * **Chameleon**: "Chameleon: Plug-and-Play Compositional Reasoning with Large Language Models", arXiv, 2023 (*UCLA + Microsoft*). [[Paper](https://arxiv.org/abs/2304.09842)][[PyTorch](https://github.com/lupantech/chameleon-llm)][[Website](https://chameleon-llm.github.io/)]
+    * **MiniGPT-4**: "MiniGPT-4: Enhancing Vision-Language Understanding with Advanced Large Language Models", arXiv, 2023 (*KAUST*). [[Paper](https://arxiv.org/abs/2304.10592)][[PyTorch](https://github.com/Vision-CAIR/MiniGPT-4)][[Website](https://minigpt-4.github.io/)]
 * Visual Abductive Reasoning:
     * **RPT**: "Fine-Grained Regional Prompt Tuning for Visual Abductive Reasoning", arXiv, 2023 (*A\*STAR*). [[Paper](https://arxiv.org/abs/2303.10428)]
 * Tracking:
