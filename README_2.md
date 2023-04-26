@@ -518,6 +518,7 @@ If you find this repository useful, please consider citing this list:
     * **CoCa-CNI**: "Exploiting Category Names for Few-Shot Classification with Vision-Language Models", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2211.16594)]
     * **SP**: "Semantic Prompt for Few-Shot Image Recognition", CVPR, 2023 (*USTC*). [[Paper](https://arxiv.org/abs/2303.14123)]
     * **SMKD**: "Supervised Masked Knowledge Distillation for Few-Shot Transformers", CVPR, 2023 (*Columbia*). [[Paper](https://arxiv.org/abs/2303.15466)][[PyTorch](https://github.com/HL-hanlin/SMKD)]
+    * **Hint-Aug**: "Hint-Aug: Drawing Hints from Foundation Vision Transformers Towards Boosted Few-Shot Parameter-Efficient Tuning", arXiv, 2023 (*Georgia Tech*). [[Paper](https://arxiv.org/abs/2304.12520)]
 * Continual Learning:
     * **MEAT**: "Meta-attention for ViT-backed Continual Learning", CVPR, 2022 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2203.11684)][[Code (in construction)](https://github.com/zju-vipa/MEAT-TIL)]
     * **DyTox**: "DyTox: Transformers for Continual Learning with DYnamic TOken eXpansion", CVPR, 2022 (*Sorbonne Universite, France*). [[Paper](https://arxiv.org/abs/2111.11326)][[PyTorch](https://github.com/arthurdouillard/dytox)]
@@ -822,6 +823,7 @@ If you find this repository useful, please consider citing this list:
 * **DiffuseIT**: "Diffusion-based Image Translation using Disentangled Style and Content Representation", ICLR, 2023 (*KAIST*). [[Paper](https://arxiv.org/abs/2209.15264)]
 * **MATEBIT**: "Masked and Adaptive Transformer for Exemplar Based Image Translation", CVPR, 2023 (*Hangzhou Dianzi University*). [[Paper](https://arxiv.org/abs/2303.17123)][[Code (in construction)](https://github.com/AiArt-HDU/MATEBIT)]
 * **IPL**: "Zero-shot Generative Model Adaptation via Image-specific Prompt Learning", CVPR, 2023 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2304.03119)][[Code (in construction)](https://github.com/Picsart-AI-Research/IPL-Zero-Shot-Generative-Model-Adaptation)]
+* **Master**: "Master: Meta Style Transformer for Controllable Zero-Shot and Few-Shot Artistic Style Transfer", CVPR, 2023 (*NUS*). [[Paper](https://arxiv.org/abs/2304.11818)]
 * **pix2pix-zero**: "Zero-shot Image-to-Image Translation", arXiv, 2023 (*Adobe*). [[Paper](https://arxiv.org/abs/2302.03027)][[Code (in construction)](https://github.com/pix2pixzero/pix2pix-zero)][[Website](https://pix2pixzero.github.io/)]
 * **SpectralCLIP**: "SpectralCLIP: Preventing Artifacts in Text-Guided Style Transfer from a Spectral Perspective", arXiv, 2023 (*University of Trento, Italy*). [[Paper](https://arxiv.org/abs/2303.09270)][[Code (in construction)](https://github.com/zipengxuc/SpectralCLIP)]
 
