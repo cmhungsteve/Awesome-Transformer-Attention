@@ -519,6 +519,7 @@ If you find this repository useful, please consider citing this list:
     * **SP**: "Semantic Prompt for Few-Shot Image Recognition", CVPR, 2023 (*USTC*). [[Paper](https://arxiv.org/abs/2303.14123)]
     * **SMKD**: "Supervised Masked Knowledge Distillation for Few-Shot Transformers", CVPR, 2023 (*Columbia*). [[Paper](https://arxiv.org/abs/2303.15466)][[PyTorch](https://github.com/HL-hanlin/SMKD)]
     * **Hint-Aug**: "Hint-Aug: Drawing Hints from Foundation Vision Transformers Towards Boosted Few-Shot Parameter-Efficient Tuning", arXiv, 2023 (*Georgia Tech*). [[Paper](https://arxiv.org/abs/2304.12520)]
+    * **PVP**: "PVP: Pre-trained Visual Parameter-Efficient Tuning", arXiv, 2023 (*Defense Innovation Institute, China*). [[Paper](https://arxiv.org/abs/2304.13639)]
 * Continual Learning:
     * **MEAT**: "Meta-attention for ViT-backed Continual Learning", CVPR, 2022 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2203.11684)][[Code (in construction)](https://github.com/zju-vipa/MEAT-TIL)]
     * **DyTox**: "DyTox: Transformers for Continual Learning with DYnamic TOken eXpansion", CVPR, 2022 (*Sorbonne Universite, France*). [[Paper](https://arxiv.org/abs/2111.11326)][[PyTorch](https://github.com/arthurdouillard/dytox)]
