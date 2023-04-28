@@ -126,6 +126,7 @@ If you find this repository useful, please consider citing this list:
 * **ULIP**: "ULIP: Learning Unified Representation of Language, Image and Point Cloud for 3D Understanding", arXiv, 2022 (*Salesforce*). [[Paper](https://arxiv.org/abs/2212.05171)][[Website](https://tycho-xue.github.io/ULIP/)]
 * **CAT**: "Context-Aware Transformer for 3D Point Cloud Automatic Annotation", AAAI, 2023 (*HKU*). [[Paper](https://arxiv.org/abs/2303.14893)]
 * **ACT**: "Autoencoders as Cross-Modal Teachers: Can Pretrained 2D Image Transformers Help 3D Representation Learning?", ICLR, 2023 (*Megvii*). [[Paper](https://arxiv.org/abs/2212.08320)][[PyTorch](https://github.com/RunpeiDong/ACT)]
+* **AnalogicalNets**: "Analogy-Forming Transformers for Few-Shot 3D Parsing", ICLR, 2023 (*CMU*). [[Paper](https://arxiv.org/abs/2304.14382)][[Website](https://analogicalnets.github.io/)]
 * **ViPFormer**: "ViPFormer: Efficient Vision-and-Pointcloud Transformer for Unsupervised Pointcloud Understanding", ICRA, 2023 (*Renmin University of China*). [[Paper](https://arxiv.org/abs/2303.14376)][[PyTorch](https://github.com/auniquesun/ViPFormer)]
 * **ProxyFormer**: "ProxyFormer: Proxy Alignment Assisted Point Cloud Completion with Missing Part Sensitive Transformer", CVPR, 2023 (*Nanjing University of Aeronautics and Astronautics*). [[Paper](https://arxiv.org/abs/2302.14435)][[PyTorch](https://github.com/I2-Multimedia-Lab/ProxyFormer)]
 * **I2P-MAE.**: "Learning 3D Representations from 2D Pre-trained Models via Image-to-Point Masked Autoencoders", CVPR, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2212.06785)][[Code (in construction)](https://github.com/ZrrSkywalker/I2P-MAE)]
@@ -273,6 +274,7 @@ If you find this repository useful, please consider citing this list:
     * **GRM**: "Generalized Relation Modeling for Transformer Tracking", CVPR, 2023 (*HKUST*). [[Paper](https://arxiv.org/abs/2303.16580)][[PyTorch (in construction)](https://github.com/Little-Podi/GRM)]
     * **DropMAE**: "DropMAE: Masked Autoencoders with Spatial-Attention Dropout for Tracking Tasks", CVPR, 2023 (*CUHK*). [[Paper](https://arxiv.org/abs/2304.00571)][[Code (in construction)](https://github.com/jimmy-dq/DropMAE)]
     * **OVTrack**: "OVTrack: Open-Vocabulary Multiple Object Tracking", CVPR, 2023 (*ETHZ*). [[Paper](https://arxiv.org/abs/2304.08408)]
+    * **SeqTrack**: "SeqTrack: Sequence to Sequence Learning for Visual Object Tracking", CVPR, 2023 (*Dalian University of Technology*). [[Paper](https://arxiv.org/abs/2304.14394)][[PyTorch](https://github.com/microsoft/VideoX/tree/master/SeqTrack)]
 * 3D:
     * **STNet**: "3D Siamese Transformer Network for Single Object Tracking on Point Clouds", ECCV, 2022 (*Nanjing University of Science and Technology*). [[Paper](https://arxiv.org/abs/2207.11995)][[PyTorch](https://github.com/fpthink/STNet)]
     * **CMT**: "CMT: Context-Matching-Guided Transformer for 3D Tracking in Point Clouds", ECCV, 2022 (*USTC*). [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/1253_ECCV_2022_paper.php)]
@@ -704,6 +706,7 @@ If you find this repository useful, please consider citing this list:
 * **ZITS++**: "ZITS++: Image Inpainting by Improving the Incremental Transformer on Structural Priors", arXiv, 2022 (*Fudan*). [[Paper](https://arxiv.org/abs/2210.05950)]
 * **TPFNet**: "TPFNet: A Novel Text In-painting Transformer for Text Removal", arXiv, 2022 (*?*). [[Paper](https://arxiv.org/abs/2210.14461)][[Code (in construction)](https://github.com/CandleLabAI/TPFNet)]
 * **FlowLens**: "FlowLens: Seeing Beyond the FoV via Flow-guided Clip-Recurrent Transformer", arXiv, 2022 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2211.11293)][[Code (in construction)](https://github.com/MasterHow/FlowLens)]
+* **?**: "Putting People in Their Place: Affordance-Aware Human Insertion into Scenes", CVPR, 2023 (*Stanford*). [[Paper](https://arxiv.org/abs/2304.14406)][[PyTorch (in construction)](https://github.com/adobe-research/affordance-insertion)][[Website](https://sumith1896.github.io/affordance-insertion/)]
 * **Inst-Inpaint**: "Inst-Inpaint: Instructing to Remove Objects with Diffusion Models", arXiv, 2023 (*Bilkent University, Turkey*). [[Paper](https://arxiv.org/abs/2304.03246)]
 * **Inpaint-Anything**: "Inpaint Anything: Segment Anything Meets Image Inpainting", arXiv, 2023 (*USTC*). [[Paper](https://arxiv.org/abs/2304.06790)][[PyTorch](https://github.com/geekyutao/Inpaint-Anything)]
 
@@ -797,6 +800,7 @@ If you find this repository useful, please consider citing this list:
 * **AMT**: "AMT: All-Pairs Multi-Field Transforms for Efficient Frame Interpolation", CVPR, 2023 (*Nankai University*). [[Paper](https://arxiv.org/abs/2304.09790)][[PyTorch](https://github.com/MCG-NKU/AMT)][[Website](https://nk-cs-zzl.github.io/projects/amt/)]
 * **NUWA-XL**: "NUWA-XL: Diffusion over Diffusion for eXtremely Long Video Generation", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2303.12346)][[Website (in construction)](https://msra-nuwa.azurewebsites.net/)]
 * **CAT-NeRF**: "CAT-NeRF: Constancy-Aware Tx<sup>2</sup>Former for Dynamic Body Modeling", arXiv, 2023 (*USC*). [[Paper](https://arxiv.org/abs/2304.07915)]
+* **IconShop**: "IconShop: Text-Based Vector Icon Synthesis with Autoregressive Transformers", arXiv, 2023 (*CUHK*). [[Paper](https://arxiv.org/abs/2304.14400)][[Code (in construction)](https://github.com/kingnobro/IconShop)][[Website](https://kingnobro.github.io/iconshop/)]
 
 [[Back to Overview](#overview)]
 
@@ -885,6 +889,7 @@ If you find this repository useful, please consider citing this list:
     * **MatFormer**: "MatFormer: A Generative Model for Procedural Materials", arXiv, 2022 (*Adobe*). [[Paper](https://arxiv.org/abs/2207.01044)]
     * **FishFormer**: "FishFormer: Annulus Slicing-based Transformer for Fisheye Rectification with Efficacy Domain Exploration", arXiv, 2022 (*Beijing Jiaotong University*). [[Paper](https://arxiv.org/abs/2207.01925)]
     * **STFormer**: "Spatial-Temporal Transformer for Video Snapshot Compressive Imaging", arXiv, 2022 (*CAS*). [[Paper](https://arxiv.org/abs/2209.01578)][[PyTorch](https://github.com/ucaswangls/STFormer)]
+    * **OCTUF**: "Optimization-Inspired Cross-Attention Transformer for Compressive Sensing", CVPR, 2023 (*Peking University*). [[Paper](https://arxiv.org/abs/2304.13986)][[PyTorch](https://github.com/songjiechong/OCTUF)]
     * **TopNet**: "TopNet: Transformer-based Object Placement Network for Image Compositing", arXiv, 2023 (*Adobe*). [[Paper](https://arxiv.org/abs/2304.03372)]
 
 [[Back to Overview](#overview)]
