@@ -2078,6 +2078,7 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
     * **ToMESD**: "Token Merging for Fast Stable Diffusion", arXiv, 2023 (*Georgia Tech*). [[Paper](https://arxiv.org/abs/2303.17604)][[PyTorch](https://github.com/dbolya/tomesd)]
     * **layout-guidance**: "Training-Free Layout Control with Cross-Attention Guidance", arXiv, 2023 (*Oxford*). [[Paper](https://arxiv.org/abs/2304.03373)][[PyTorch](https://github.com/silent-chen/layout-guidance)][[Website](https://silent-chen.github.io/layout-guidance/)]
     * **HRS-Bench**: "HRS-Bench: Holistic, Reliable and Scalable Benchmark for Text-to-Image Models", arXiv, 2023 (*KAUST*). [[Paper](https://arxiv.org/abs/2304.05390)][[GitHub](https://github.com/eslambakr/HRS_benchmark)][[Website](https://eslambakr.github.io/hrsbench.github.io/)]
+    * **SeedSelect**: "It is all about where you start: Text-to-image generation with seed selection", arXiv, 2023 (*Bar-Ilan University, Israel*). [[Paper](https://arxiv.org/abs/2304.14530)]
 * Video:
     * **Imagen-Video**: "Imagen Video: High Definition Video Generation with Diffusion Models", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2210.02303)][[Website](https://imagen.research.google/video/)]
     * **Phenaki**: "Phenaki: Variable Length Video Generation From Open Domain Textual Description", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2210.02399)][[PyTorch (LAION-AI, in construction)](https://github.com/LAION-AI/phenaki)][[Website](https://phenaki.video/)]
@@ -2313,6 +2314,8 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
     * **Chameleon**: "Chameleon: Plug-and-Play Compositional Reasoning with Large Language Models", arXiv, 2023 (*UCLA + Microsoft*). [[Paper](https://arxiv.org/abs/2304.09842)][[PyTorch](https://github.com/lupantech/chameleon-llm)][[Website](https://chameleon-llm.github.io/)]
     * **MiniGPT-4**: "MiniGPT-4: Enhancing Vision-Language Understanding with Advanced Large Language Models", arXiv, 2023 (*KAUST*). [[Paper](https://arxiv.org/abs/2304.10592)][[PyTorch](https://github.com/Vision-CAIR/MiniGPT-4)][[Website](https://minigpt-4.github.io/)]
     * **ChatVideo**: "ChatVideo: A Tracklet-centric Multimodal and Versatile Video Understanding System", arXiv, 2023 (*Fudan*). [[Paper](https://arxiv.org/abs/2304.14407)][[Website](https://www.wangjunke.info/ChatVideo/)]
+    * **LLaMA-Adapter**: "LLaMA-Adapter: Efficient Fine-tuning of Language Models with Zero-init Attention", arXiv, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2303.16199)][[PyTorch](https://github.com/ZrrSkywalker/LLaMA-Adapter)]
+    * **LLaMA-Adapter-V2**: "LLaMA-Adapter V2: Parameter-Efficient Visual Instruction Model", arXiv, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2304.15010)][[PyTorch](https://github.com/ZrrSkywalker/LLaMA-Adapter)]
 * Visual Abductive Reasoning:
     * **RPT**: "Fine-Grained Regional Prompt Tuning for Visual Abductive Reasoning", arXiv, 2023 (*A\*STAR*). [[Paper](https://arxiv.org/abs/2303.10428)]
 * Tracking:
@@ -2325,6 +2328,9 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
     * **TM2D**: "TM2D: Bimodality Driven 3D Dance Generation via Music-Text Integration", arXiv, 2023 (*NUS*). [[Paper](https://arxiv.org/abs/2304.02419)][[Code (in construction)](https://github.com/Garfield-kh/TM2D)][[Website](https://garfield-kh.github.io/TM2D/)]
 * Conceptual Understanding:
     * **?**: "Probing Conceptual Understanding of Large Visual-Language Models", arXiv, 2023 (*UCF + SRI*). [[Paper](https://arxiv.org/abs/2304.03659)]
+* Model Merging:
+    * **VL-merging**: "An Empirical Study of Multimodal Model Merging", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2304.14933)][[PyTorch](https://github.com/ylsung/vl-merging)]
+
 
 [[Back to Overview](#overview)]
 
