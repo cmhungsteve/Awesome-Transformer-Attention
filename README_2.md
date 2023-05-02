@@ -141,6 +141,7 @@ If you find this repository useful, please consider citing this list:
 * **MGT**: "Multi-scale Geometry-aware Transformer for 3D Point Cloud Classification", arXiv, 2023 (*TUM*). [[Paper](https://arxiv.org/abs/2304.05694)]
 * **IDPT**: "Instance-aware Dynamic Prompt Tuning for Pre-trained Point Cloud Models", arXiv, 2023 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2304.07221)][[Code (in construction)](https://github.com/zyh16143998882/IDPT)]
 * **Swin3D**: "Swin3D: A Pretrained Transformer Backbone for 3D Indoor Scene Understanding", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2304.06906)]
+* **ViewFormer**: "ViewFormer: View Set Attention for Multi-view 3D Shape Understanding", arXiv, 2023 (*Renmin University of China*). [[Paper](https://arxiv.org/abs/2305.00161)]
 
 [[Back to Overview](#overview)]
 
