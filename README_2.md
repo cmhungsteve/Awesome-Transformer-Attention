@@ -133,6 +133,7 @@ If you find this repository useful, please consider citing this list:
 * **RoITr**: "Rotation-Invariant Transformer for Point Cloud Matching", CVPR, 2023 (*TUM*). [[Paper](https://arxiv.org/abs/2303.08231)]
 * **SphereFormer**: "Spherical Transformer for LiDAR-based 3D Recognition", CVPR, 2023 (*CUHK*). [[Paper](https://arxiv.org/abs/2303.12766)][[PyTorch](https://github.com/dvlab-research/SphereFormer)]
 * **SPoTr**: "Self-positioning Point-based Transformer for Point Cloud Understanding", CVPR, 2023 (*Korea University*). [[Paper](https://arxiv.org/abs/2303.16450)][[PyTorch (in construction)](https://github.com/mlvlab/SPoTr)]
+* **OctFormer**: "OctFormer: Octree-based Transformers for 3D Point Clouds", SIGGRAPH, 2023 (*Peking University*). [[Paper](https://arxiv.org/abs/2305.03045)][[Code (in construction)](https://github.com/octree-nn/octformer)][[Website](https://wang-ps.github.io/octformer)]
 * **Text4Point**: "Joint Representation Learning for Text and 3D Point Cloud", arXiv, 2023 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2301.07584)][[Code (in construction)](https://github.com/LeapLabTHU/Text4Point)]
 * **FullFormer**: "FullFormer: Generating Shapes Inside Shapes", arXiv, 2023 (*University of Siegen, Germany*). [[Paper](https://arxiv.org/abs/2303.11235)]
 * **RegFormer**: "RegFormer: An Efficient Projection-Aware Transformer Network for Large-Scale Point Cloud Registration", arXiv, 2023 (*Shanghai Jiao Tong*). [[Paper](https://arxiv.org/abs/2303.12384)]
@@ -276,6 +277,7 @@ If you find this repository useful, please consider citing this list:
     * **DropMAE**: "DropMAE: Masked Autoencoders with Spatial-Attention Dropout for Tracking Tasks", CVPR, 2023 (*CUHK*). [[Paper](https://arxiv.org/abs/2304.00571)][[Code (in construction)](https://github.com/jimmy-dq/DropMAE)]
     * **OVTrack**: "OVTrack: Open-Vocabulary Multiple Object Tracking", CVPR, 2023 (*ETHZ*). [[Paper](https://arxiv.org/abs/2304.08408)]
     * **SeqTrack**: "SeqTrack: Sequence to Sequence Learning for Visual Object Tracking", CVPR, 2023 (*Dalian University of Technology*). [[Paper](https://arxiv.org/abs/2304.14394)][[PyTorch](https://github.com/microsoft/VideoX/tree/master/SeqTrack)]
+    * **TCOW**: "Tracking through Containers and Occluders in the Wild", CVPR, 2023 (*Columbia*). [[Paper](https://arxiv.org/abs/2305.03052)][[Code (in construction)](https://github.com/basilevh/tcow)][[Website](https://tcow.cs.columbia.edu/)]
 * 3D:
     * **STNet**: "3D Siamese Transformer Network for Single Object Tracking on Point Clouds", ECCV, 2022 (*Nanjing University of Science and Technology*). [[Paper](https://arxiv.org/abs/2207.11995)][[PyTorch](https://github.com/fpthink/STNet)]
     * **CMT**: "CMT: Context-Matching-Guided Transformer for 3D Tracking in Point Clouds", ECCV, 2022 (*USTC*). [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/1253_ECCV_2022_paper.php)]
@@ -865,6 +867,7 @@ If you find this repository useful, please consider citing this list:
     * **VCT**: "VCT: A Video Compression Transformer", NeurIPS, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2206.07307)]
     * **MIMT**: "MIMT: Masked Image Modeling Transformer for Video Compression", ICLR, 2023 (*Tencent*). [[Paper](https://openreview.net/forum?id=j9m-mVnndbm)]
     * **TCM**: "Learned Image Compression with Mixed Transformer-CNN Architectures", CVPR, 2023 (*Waseda University*). [[Paper](https://arxiv.org/abs/2303.14978)][[Code (in construction)](https://github.com/jmliu206/LIC_TCM)]
+    * **Prompt-ICM**: "Prompt-ICM: A Unified Framework towards Image Coding for Machines with Task-driven Prompts", arXiv, 2023 (*USTC*). [[Paper](https://arxiv.org/abs/2305.02578)]
 * Matting:
     * **MatteFormer**: "MatteFormer: Transformer-Based Image Matting via Prior-Tokens", CVPR, 2022 (*SNU + NAVER*). [[Paper](https://arxiv.org/abs/2203.15662)][[PyTorch](https://github.com/webtoon/matteformer)]
     * **TransMatting**: "TransMatting: Enhancing Transparent Objects Matting with Transformers", ECCV, 2022 (*CAS*). [[Paper](https://arxiv.org/abs/2208.03007)][[Code (in construction)](https://github.com/AceCHQ/TransMatting)]
@@ -1315,6 +1318,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **?**: "Extreme Floorplan Reconstruction by Structure-Hallucinating Transformer Cascades", arXiv, 2022 (*Simon Fraser*). [[Paper](https://arxiv.org/abs/2206.00645)]
     * **UniLayout**: "UniLayout: Taming Unified Sequence-to-Sequence Transformers for Graphic Layout Generation", arXiv, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2208.08037)]
     * **RoomFormer**: "Connecting the Dots: Floorplan Reconstruction Using Two-Level Queries", CVPR, 2023 (*ETH Zurich*). [[Paper](https://arxiv.org/abs/2211.15658)][[PyTorch](https://github.com/ywyue/RoomFormer)][[Website](https://ywyue.github.io/RoomFormer/)]
+    * **LayoutDM**: "LayoutDM: Transformer-based Diffusion Model for Layout Generation", CVPR, 2023 (*USTC*). [[Paper](https://arxiv.org/abs/2305.02567)]
     * **DLT**: "DLT: Conditioned layout generation with Joint Discrete-Continuous Diffusion Layout Transformer", arXiv, 2023 (*Wix.com*). [[Paper](https://arxiv.org/abs/2303.03755)]
 * Livestock Monitoring:
     * **STARFormer**: "Livestock Monitoring with Transformer", BMVC, 2021 (*IIT Dhanbad*). [[Paper](https://arxiv.org/abs/2111.00801)]
