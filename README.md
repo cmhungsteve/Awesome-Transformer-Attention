@@ -1652,10 +1652,12 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
     * **ConZIC**: "ConZIC: Controllable Zero-shot Image Captioning by Sampling-Based Polishing", arXiv, 2023 (*Xidian University*). [[Paper](https://arxiv.org/abs/2303.02437)][[Code (in construction)](https://github.com/joeyz0z/ConZIC)]
     * **Knight**: "From Association to Generation: Text-only Captioning by Unsupervised Cross-modal Mapping", arXiv, 2023 (*Alibaba*). [[Paper](https://arxiv.org/abs/2304.13273)][[PyTorch](https://github.com/junyangwang0410/Knight)]
     * **VTT**: "Visual Transformation Telling", arXiv, 2023 (*CAS*). [[Paper](https://arxiv.org/abs/2305.01928)]
+    * **Caption-Anything**: "Caption Anything: Interactive Image Description with Diverse Multimodal Controls", arXiv, 2023 (*Southern University of Science and Technology*). [[Paper](https://arxiv.org/abs/2305.02677)][[PyTorch](https://github.com/ttengwang/Caption-Anything)]
 * Video:
     * **Masked Transformers**: "End-to-End Dense Video Captioning with Masked Transformer", CVPR, 2018 (*UMich + Salesforce*). [[Paper](https://openaccess.thecvf.com/content_cvpr_2018/html/Zhou_End-to-End_Dense_Video_CVPR_2018_paper.html)][[PyTorch](https://github.com/salesforce/densecap)]
     * **BMT**: "A Better Use of Audio-Visual Cues: Dense Video Captioning with Bi-modal Transformer", BMVC, 2020 (*Tampere University, Finland*). [[Paper](https://arxiv.org/abs/2005.08271)][[PyTorch](https://github.com/v-iashin/bmt)][[Website](https://iashin.ai/bmt)]
     * **?**: "Optimizing Latency for Online Video Captioning Using Audio-Visual Transformers", Interspeech, 2021 (*MERL*). [[Paper](https://arxiv.org/abs/2108.02147)]
+    * **PDVC**: "End-to-End Dense Video Captioning with Parallel Decoding", ICCV, 2021 (*HKU + Southern University of Science and Technology*). [[Paper](https://arxiv.org/abs/2108.07781)][[PyTorch](https://github.com/ttengwang/PDVC)]
     * **MV-GPT**: "End-to-end Generative Pretraining for Multimodal Video Captioning", CVPR, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2201.08264)]
     * **VGCL**: "Video-Guided Curriculum Learning for Spoken Video Grounding", ACMMM, 2022 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2209.00277)][[PyTorch](https://github.com/marmot-xy/Spoken-Video-Grounding)]
     * **UVC-VI**: "Aligning Source Visual and Target Language Domains for Unpaired Video Captioning", TPAMI, 2022 (*Peking University*). [[Paper](https://arxiv.org/abs/2211.12148)]
@@ -1741,6 +1743,7 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
     * **LocAns**: "Locate before Answering: Answer Guided Question Localization for Video Question Answering", arXiv, 2022 (*Fudan University*). [[Paper](https://arxiv.org/abs/2210.02081)]
     * **NewsVideoQA**: "Watching the News: Towards VideoQA Models that can Read", arXiv, 2022 (*IIIT Hyderabad, India*). [[Paper](https://arxiv.org/abs/2211.05588)]
     * **SHG-VQA**: "Learning Situation Hyper-Graphs for Video Question Answering", CVPR, 2023 (*UCF*). [[Paper](https://arxiv.org/abs/2304.08682)][[Code (in construction)](https://github.com/aurooj/SHG-VQA)]
+    * **ANetQA**: "ANetQA: A Large-scale Benchmark for Fine-grained Compositional Reasoning over Untrimmed Videos", CVPR, 2023 (*Hangzhou Dianzi University*). [[Paper](https://arxiv.org/abs/2305.02519)][[Website](https://milvlg.github.io/anetqa/)]
     * **CaKE-LM**: "Language Models are Causal Knowledge Extractors for Zero-shot Video Question Answering", CVPRW, 2023 (*NTU + Columbia*). [[Paper](https://arxiv.org/abs/2304.03754)]
 * 3D:
     * **3D-VQA**: "CLIP-Guided Vision-Language Pre-training for Question Answering in 3D Scenes", CVPRW, 2023 (*ETHZ*). [[Paper](https://arxiv.org/abs/2304.06061)][[Code (in construction)](https://github.com/AlexDelitzas/3D-VQA)]
@@ -2184,6 +2187,7 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
 * **MaskDoc**: "Masked Visual-Textual Prediction for Document Image Representation Pretraining", ICLR, 2023 (*Baidu*). [[Paper](https://openreview.net/forum?id=HE_75XY5Ljh)]
 * **StrucTexTv2**: "StrucTexTv2: Masked Visual-Textual Prediction for Document Image Pre-training", ICLR, 2023 (*Baidu*). [[Paper](https://arxiv.org/abs/2303.00289)][[PaddlePaddle](https://github.com/PaddlePaddle/VIMER/tree/main/StrucTexT/v2)]
 * **FlexDM**: "Towards Flexible Multi-modal Document Models", CVPR, 2023 (*CyberAgent, Japan*). [[Paper](https://arxiv.org/abs/2303.18248)][[Tensorflow](https://github.com/CyberAgentAILab/flex-dm)][[Website](https://cyberagentailab.github.io/flex-dm/)]
+* **FormNetV2**: "FormNetV2: Multimodal Graph Contrastive Learning for Form Document Information Extraction", ACL, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2305.02549)]
 * **mmc4**: "Multimodal C4: An Open, Billion-scale Corpus of Images Interleaved With Text", arXiv, 2023 (*AI2*). [[Paper](https://arxiv.org/abs/2304.06939)][[GitHub (in construction)](https://github.com/allenai/mmc4)]
 
 [[Back to Overview](#overview)]
@@ -2191,6 +2195,7 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
 ### Other Multi-Modal Tasks
 * Transfer Learning:
     * **TeS**: "Improved Visual Fine-tuning with Natural Language Supervision", arXiv, 2023 (*Alibaba*). [[Paper](https://arxiv.org/abs/2304.01489)]
+    * **Pi-Tuning**: "Pi-Tuning: Transferring Multimodal Foundation Models with Optimal Multi-task Interpolation", ICML, 2023 (*HKU*). [[Paper](https://arxiv.org/abs/2304.14381)][[Code (in construction)](https://github.com/TencentARC/pi-Tuning)]
 * Zero-Shot:
     * **SMs**: "Socratic Models: Composing Zero-Shot Multimodal Reasoning with Language", ICLR, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2204.00598)][[GitHub](https://github.com/google-research/google-research/tree/master/socraticmodels)][[Website](https://socraticmodels.github.io/)]
 * X-Shot:
