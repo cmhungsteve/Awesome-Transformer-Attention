@@ -590,6 +590,7 @@ If you find this repository useful, please consider citing this list:
 * **RobustCNN**: "Can CNNs Be More Robust Than Transformers?", ICLR, 2023 (*UC Santa Cruz + JHU*). [[Paper](https://arxiv.org/abs/2206.03452)][[PyTorch](https://github.com/UCSC-VLAA/RobustCNN)]
 * **DMAE**: "Denoising Masked AutoEncoders are Certifiable Robust Vision Learners", ICLR, 2023 (*Peking*). [[Paper](https://arxiv.org/abs/2210.06983)][[PyTorch](https://github.com/quanlin-wu/dmae)]
 * **TGR**: "Transferable Adversarial Attacks on Vision Transformers with Token Gradient Regularization", CVPR, 2023 (*CUHK*). [[Paper](https://arxiv.org/abs/2303.15754)]
+* **PreLayerNorm**: "Improved Robustness of Vision Transformer via PreLayerNorm in Patch Embedding", PR, 2023 (*POSTECH*). [[Paper](https://arxiv.org/abs/2111.08413)]
 * **CertViT**: "CertViT: Certified Robustness of Pre-Trained Vision Transformers", arXiv, 2023 (*INRIA*). [[Paper](https://arxiv.org/abs/2302.10287)][[PyTorch](https://github.com/sagarverma/transformer-lipschitz)]
 * **CleanCLIP**: "CleanCLIP: Mitigating Data Poisoning Attacks in Multimodal Contrastive Learning", arXiv, 2023 (*UCLA*). [[Paper](https://arxiv.org/abs/2303.03323)]
 * **RoCLIP**: "Robust Contrastive Language-Image Pretraining against Adversarial Attacks", arXiv, 2023 (*UCLA*). [[Paper](https://arxiv.org/abs/2303.06854)]
