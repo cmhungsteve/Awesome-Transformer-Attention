@@ -124,6 +124,7 @@ If you find this repository useful, please consider citing this list:
 
 ## Survey
 * "A Survey of Visual Transformers", TNNLS, 2023 (*CAS*). [[Paper](https://arxiv.org/abs/2111.06091)]
+* "Semantic Segmentation using Vision Transformers: A survey", arXiv, 2023 (*University of Peradeniya, Sri Lanka*). [[Paper](https://arxiv.org/abs/2305.03273)]
 * "A Review of Deep Learning for Video Captioning", arXiv, 2023 (*Deakin University, Australia*). [[Paper](https://arxiv.org/abs/2304.11431)]
 * "Transformer-Based Visual Segmentation: A Survey", arXiv, 2023 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2304.09854)][[GitHub](https://github.com/lxtGH/Awesome-Segmenation-With-Transformer)]
 * "Vision-Language Models for Vision Tasks: A Survey", arXiv, 2023 (*?*). [[Paper](https://arxiv.org/abs/2304.00685)][[GitHub (in construction)](https://github.com/jingyi0000/VLM_survey)]
@@ -715,7 +716,8 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **?**: "What Do Self-Supervised Vision Transformers Learn?", ICLR, 2023 (*NAVER*). [[Paper](https://arxiv.org/abs/2305.00729)][[PyTorch (in construction)](https://github.com/naver-ai/cl-vs-mim)]
 * **?**: "When and why Vision-Language Models behave like Bags-of-Words, and what to do about it?", ICLR, 2023 (*Stanford*). [[Paper](https://arxiv.org/abs/2210.01936)]
 * **CLIP-Dissect**: "CLIP-Dissect: Automatic Description of Neuron Representations in Deep Vision Networks", ICLR, 2023 (*UCSD*). [[Paper](https://arxiv.org/abs/2204.10965)]
-* **Vision-DiffMask**: "VISION DIFFMASK: Faithful Interpretation of Vision Transformers with Differentiable Patch Masking", CVPRW, 2023 (**). [[Paper](https://arxiv.org/abs/2304.06391)][[PyTorch](https://github.com/AngelosNal/Vision-DiffMask)]
+* **Vision-DiffMask**: "VISION DIFFMASK: Faithful Interpretation of Vision Transformers with Differentiable Patch Masking", CVPRW, 2023 (*University of Amsterdam*). [[Paper](https://arxiv.org/abs/2304.06391)][[PyTorch](https://github.com/AngelosNal/Vision-DiffMask)]
+* **AttentionViz**: "AttentionViz: A Global View of Transformer Attention", arXiv, 2023 (*Harvard*). [[Paper](https://arxiv.org/abs/2305.03210)][[Website](http://attentionviz.com/)]
 
 [[Back to Overview](#overview)]
 
@@ -1242,6 +1244,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **WeakTr**: "WeakTr: Exploring Plain Vision Transformer for Weakly-supervised Semantic Segmentation", arXiv, 2023 (*Huazhong University of Science and Technology*). [[Paper](https://arxiv.org/abs/2304.01184)][[PyTorch](https://github.com/hustvl/WeakTr)]
     * **SAM-WSSS**: "An Alternative to WSSS? An Empirical Study of the Segment Anything Model (SAM) on Weakly-Supervised Semantic Segmentation Problems", arXiv, 2023 (*ANU*). [[Paper](https://arxiv.org/abs/2305.01586)]
     * **?**: "Segment Anything is A Good Pseudo-label Generator for Weakly Supervised Semantic Segmentation", arXiv, 2023 (*Zhejiang University + Nankai University*). [[Paper](https://arxiv.org/abs/2305.01275)]
+    * **AReAM**: "Mitigating Undisciplined Over-Smoothing in Transformer for Weakly Supervised Semantic Segmentation", arXiv, 2023 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2305.03112)]
 * Cross-Domain:
     * **DAFormer**: "DAFormer: Improving Network Architectures and Training Strategies for Domain-Adaptive Semantic Segmentation", CVPR, 2022 (*ETHZ*). [[Paper](https://arxiv.org/abs/2111.14887)][[PyTorch](https://github.com/lhoyer/DAFormer)]
     * **?**: "Exploring Consistency in Cross-Domain Transformer for Domain Adaptive Semantic Segmentation", arXiv, 2022 (*Boston*). [[Paper](https://arxiv.org/abs/2211.14703)]
@@ -1654,6 +1657,8 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
     * **Knight**: "From Association to Generation: Text-only Captioning by Unsupervised Cross-modal Mapping", arXiv, 2023 (*Alibaba*). [[Paper](https://arxiv.org/abs/2304.13273)][[PyTorch](https://github.com/junyangwang0410/Knight)]
     * **VTT**: "Visual Transformation Telling", arXiv, 2023 (*CAS*). [[Paper](https://arxiv.org/abs/2305.01928)]
     * **Caption-Anything**: "Caption Anything: Interactive Image Description with Diverse Multimodal Controls", arXiv, 2023 (*Southern University of Science and Technology*). [[Paper](https://arxiv.org/abs/2305.02677)][[PyTorch](https://github.com/ttengwang/Caption-Anything)]
+    * **COLA**: "COLA: How to adapt vision-language models to Compose Objects Localized with Attributes?", arXiv, 2023 (*Boston*). [[Paper](https://arxiv.org/abs/2305.03689)]
+    * **?**: "Data Curation for Image Captioning with Text-to-Image Generative Models", arXiv, 2023 (*University of Copenhagen, Denmark*). [[Paper](https://arxiv.org/abs/2305.03610)]
 * Video:
     * **Masked Transformers**: "End-to-End Dense Video Captioning with Masked Transformer", CVPR, 2018 (*UMich + Salesforce*). [[Paper](https://openaccess.thecvf.com/content_cvpr_2018/html/Zhou_End-to-End_Dense_Video_CVPR_2018_paper.html)][[PyTorch](https://github.com/salesforce/densecap)]
     * **BMT**: "A Better Use of Audio-Visual Cues: Dense Video Captioning with Bi-modal Transformer", BMVC, 2020 (*Tampere University, Finland*). [[Paper](https://arxiv.org/abs/2005.08271)][[PyTorch](https://github.com/v-iashin/bmt)][[Website](https://iashin.ai/bmt)]
@@ -2030,6 +2035,7 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
     * **CLIP-ViP**: "CLIP-ViP: Adapting Pre-trained Image-Text Model to Video-Language Representation Alignment", ICLR, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2209.06430)][[Code (in construction)](https://github.com/microsoft/XPretrain/tree/main/CLIP-ViP)]
     * **VDI**: "Towards Generalisable Video Moment Retrieval: Visual-Dynamic Injection to Image-Text Pre-Training", CVPR, 2023 (*Queen Mary University of London*). [[Paper](https://arxiv.org/abs/2303.00040)]
     * **DiffusionRet**: "DiffusionRet: Generative Text-Video Retrieval with Diffusion Model", arXiv, 2023 (*Peking University*). [[Paper](https://arxiv.org/abs/2303.09867)]
+    * **TextVR**: "A Large Cross-Modal Video Retrieval Dataset with Reading Comprehension", arXiv, 2023 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2305.03347)][[PyTorch](https://github.com/callsys/TextVR)][[Website](https://sites.google.com/view/loveucvpr23/guest-track)]
 * Others:
     * **IRRA**: "Cross-Modal Implicit Relation Reasoning and Aligning for Text-to-Image Person Retrieval", CVPR, 2023 (*Wuhan University*). [[Paper](https://arxiv.org/abs/2303.12501)][[PyTorch](https://github.com/anosorae/IRRA)]
     * **ZS-SBIR**: "CLIP for All Things Zero-Shot Sketch-Based Image Retrieval, Fine-Grained or Not", CVPR, 2023 (*University of Surrey, UK*). [[Paper](https://arxiv.org/abs/2303.13440)]
@@ -2082,6 +2088,7 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
     * **MAGVLT**: "MAGVLT: Masked Generative Vision-and-Language Transformer", CVPR, 2023 (*Kakao*). [[Paper](https://arxiv.org/abs/2303.12208)]
     * **ReCo**: "ReCo: Region-Controlled Text-to-Image Generation", CVPR, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2211.15518)]
     * **GALIP**: "GALIP: Generative Adversarial CLIPs for Text-to-Image Synthesis", CVPR, 2023 (*Nanjing University of Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2301.12959)][[PyTorch](https://github.com/tobran/GALIP)]
+    * **DreamBooth**: "DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation", CVPR, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2208.12242)][[GitHub](https://github.com/google/dreambooth)][[Website](https://dreambooth.github.io/)]
     * **E4T**: "Designing an Encoder for Fast Personalization of Text-to-Image Models", arXiv, 2023 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2302.12228)][[Website](https://tuning-encoder.github.io/)]
     * **?**: "Controlled and Conditional Text to Image Generation with Diffusion Prior", arXiv, 2023 (*Adobe*). [[Paper](https://arxiv.org/abs/2302.11710)]
     * **Lformer**: "Lformer: Text-to-Image Generation with L-shape Block Parallel Decoding", arXiv, 2023 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2303.03800)]
@@ -2092,6 +2099,8 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
     * **layout-guidance**: "Training-Free Layout Control with Cross-Attention Guidance", arXiv, 2023 (*Oxford*). [[Paper](https://arxiv.org/abs/2304.03373)][[PyTorch](https://github.com/silent-chen/layout-guidance)][[Website](https://silent-chen.github.io/layout-guidance/)]
     * **HRS-Bench**: "HRS-Bench: Holistic, Reliable and Scalable Benchmark for Text-to-Image Models", arXiv, 2023 (*KAUST*). [[Paper](https://arxiv.org/abs/2304.05390)][[GitHub](https://github.com/eslambakr/HRS_benchmark)][[Website](https://eslambakr.github.io/hrsbench.github.io/)]
     * **SeedSelect**: "It is all about where you start: Text-to-image generation with seed selection", arXiv, 2023 (*Bar-Ilan University, Israel*). [[Paper](https://arxiv.org/abs/2304.14530)]
+    * **DisenBooth**: "DisenBooth: Disentangled Parameter-Efficient Tuning for Subject-Driven Text-to-Image Generation", arXiv, 2023 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2305.03374)]
+    * **VideoOFA**: "VideoOFA: Two-Stage Pre-Training for Video-to-Text Generation", arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/pdf/2305.03204.pdf)]
 * Video:
     * **Imagen-Video**: "Imagen Video: High Definition Video Generation with Diffusion Models", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2210.02303)][[Website](https://imagen.research.google/video/)]
     * **Phenaki**: "Phenaki: Variable Length Video Generation From Open Domain Textual Description", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2210.02399)][[PyTorch (LAION-AI, in construction)](https://github.com/LAION-AI/phenaki)][[Website](https://phenaki.video/)]
@@ -2341,6 +2350,8 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
     * **ChatVideo**: "ChatVideo: A Tracklet-centric Multimodal and Versatile Video Understanding System", arXiv, 2023 (*Fudan*). [[Paper](https://arxiv.org/abs/2304.14407)][[Website](https://www.wangjunke.info/ChatVideo/)]
     * **LLaMA-Adapter**: "LLaMA-Adapter: Efficient Fine-tuning of Language Models with Zero-init Attention", arXiv, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2303.16199)][[PyTorch](https://github.com/ZrrSkywalker/LLaMA-Adapter)]
     * **LLaMA-Adapter-V2**: "LLaMA-Adapter V2: Parameter-Efficient Visual Instruction Model", arXiv, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2304.15010)][[PyTorch](https://github.com/ZrrSkywalker/LLaMA-Adapter)]
+    * **Otter**: "Otter: A Multi-Modal Model with In-Context Instruction Tuning", arXiv, 2023 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2305.03726)][[PyTorch](https://github.com/Luodian/Otter)]
+    * **LMEye**: "LMEye: An Interactive Perception Network for Large Language Models", arXiv, 2023 (*Meituan*). [[Paper](https://arxiv.org/abs/2305.03701)]
 * Visual Abductive Reasoning:
     * **RPT**: "Fine-Grained Regional Prompt Tuning for Visual Abductive Reasoning", arXiv, 2023 (*A\*STAR*). [[Paper](https://arxiv.org/abs/2303.10428)]
 * Tracking:
