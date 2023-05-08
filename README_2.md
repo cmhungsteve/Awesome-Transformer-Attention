@@ -402,6 +402,8 @@ If you find this repository useful, please consider citing this list:
     * **Face-Transformer**: "Face Transformer: Towards High Fidelity and Accurate Face Swapping", arXiv, 2023 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2304.02530)]
 * Fairness:
     * **TADeT**: "Mitigating Bias in Visual Transformers via Targeted Alignment", BMVC, 2021 (*Georgia Tech*). [[Paper](https://arxiv.org/abs/2302.04358)]
+* Generation:
+    * **Describe3D**: "High-Fidelity 3D Face Generation from Natural Language Descriptions", CVPR, 2023 (**). [[Paper](https://arxiv.org/abs/2305.03302)]
 
 [[Back to Overview](#overview)]
 
