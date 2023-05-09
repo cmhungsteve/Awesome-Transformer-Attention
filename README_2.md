@@ -133,6 +133,7 @@ If you find this repository useful, please consider citing this list:
 * **RoITr**: "Rotation-Invariant Transformer for Point Cloud Matching", CVPR, 2023 (*TUM*). [[Paper](https://arxiv.org/abs/2303.08231)]
 * **SphereFormer**: "Spherical Transformer for LiDAR-based 3D Recognition", CVPR, 2023 (*CUHK*). [[Paper](https://arxiv.org/abs/2303.12766)][[PyTorch](https://github.com/dvlab-research/SphereFormer)]
 * **SPoTr**: "Self-positioning Point-based Transformer for Point Cloud Understanding", CVPR, 2023 (*Korea University*). [[Paper](https://arxiv.org/abs/2303.16450)][[PyTorch (in construction)](https://github.com/mlvlab/SPoTr)]
+* **PointCMP**: "PointCMP: Contrastive Mask Prediction for Self-supervised Learning on Point Cloud Videos", CVPR, 2023 (*Shanghai Jiao Tong*). [[Paper](https://arxiv.org/abs/2305.04075)]
 * **OctFormer**: "OctFormer: Octree-based Transformers for 3D Point Clouds", SIGGRAPH, 2023 (*Peking University*). [[Paper](https://arxiv.org/abs/2305.03045)][[Code (in construction)](https://github.com/octree-nn/octformer)][[Website](https://wang-ps.github.io/octformer)]
 * **Text4Point**: "Joint Representation Learning for Text and 3D Point Cloud", arXiv, 2023 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2301.07584)][[Code (in construction)](https://github.com/LeapLabTHU/Text4Point)]
 * **FullFormer**: "FullFormer: Generating Shapes Inside Shapes", arXiv, 2023 (*University of Siegen, Germany*). [[Paper](https://arxiv.org/abs/2303.11235)]
@@ -228,6 +229,7 @@ If you find this repository useful, please consider citing this list:
     * **PoET**: "PoET: Pose Estimation Transformer for Single-View, Multi-Object 6D Pose Estimation", arXiv, 2022 (*Infineon Technologies Austria AG*). [[Paper](https://arxiv.org/abs/2211.14125)][[PyTorch](https://github.com/aau-cns/poet)]
     * **CRT-6D**: "CRT-6D: Fast 6D Object Pose Estimation with Cascaded Refinement Transformers", WACV, 2023 (*ICL, UK*). [[Paper](https://arxiv.org/abs/2210.11718)][[Code (in construction)](https://github.com/PedroCastro/CRT-6D)]
     * **TransPoser**: "TransPoser: Transformer as an Optimizer for Joint Object Shape and Pose Estimation", arXiv, 2023 (*Kyoto University*). [[Paper](https://arxiv.org/abs/2303.13477)]
+    * **RelPose++**: "RelPose++: Recovering 6D Poses from Sparse-view Observations", arXiv, 2023 (*CMU*). [[Paper](https://arxiv.org/abs/2305.04926)][[PyTorch](https://github.com/amyxlase/relpose-plus-plus)][[Website](https://amyxlase.github.io/relpose-plus-plus/)]
 
 [[Back to Overview](#overview)]
 
@@ -548,6 +550,7 @@ If you find this repository useful, please consider citing this list:
     * **GCAB-CFDC**: "Gated Class-Attention with Cascaded Feature Drift Compensation for Exemplar-free Continual Learning of Vision Transformers", arXiv, 2022 (*University of Pavia, Italy*). [[Paper](https://arxiv.org/abs/2211.12292)][[Code (in construction)](https://github.com/OcraM17/GCAB-CFDC)]
     * **CODA-Prompt**: "CODA-Prompt: COntinual Decomposed Attention-based Prompting for Rehearsal-Free Continual Learning", arXiv, 2022 (*IBM*). [[Paper](https://arxiv.org/abs/2211.13218)]
     * **PIVOT**: "PIVOT: Prompting for Video Continual Learning", arXiv, 2022 (*KAUST*). [[Paper](https://arxiv.org/abs/2212.04842)]
+    * **BiRT**: "BiRT: Bio-inspired Replay in Vision Transformers for Continual Learning", ICML, 2023 (*NavInfo, Netherlands*). [[Paper](https://arxiv.org/abs/2305.04769)]
     * **PromptFusion**: "PromptFusion: Decoupling Stability and Plasticity for Continual Learning", arXiv, 2023 (*Fudan*). [[Paper](https://arxiv.org/abs/2303.07223)]
     * **MSc-iNCD**: "Large-scale Pre-trained Models are Surprisingly Strong in Incremental Novel Class Discovery", arXiv, 2023 (*University of Trento, Italy*). [[Paper](https://arxiv.org/abs/2303.15975)][[PyTorch (in construction)](https://github.com/OatmealLiu/MSc-iNCD)]
 * Long-tail/Imbalanced:
@@ -557,6 +560,7 @@ If you find this repository useful, please consider citing this list:
     * **LPT**: "LPT: Long-tailed Prompt Tuning for Image Classification", ICLR, 2023 (*Harbin Institute of Technology*). [[Paper](https://arxiv.org/abs/2210.01033)]
     * **PDC**: "Rethink Long-tailed Recognition with Vision Transforms", ICASSP, 2023 (*Tsinghua University*). [[Paper](https://arxiv.org/abs/2302.14284)]
     * **?**: "Exploring Vision-Language Models for Imbalanced Learning", arXiv, 2023 (*Peking University*). [[Paper](https://arxiv.org/abs/2304.01457)][[PyTorch](https://github.com/Imbalance-VLM/Imbalance-VLM)]
+    * **LMPT**: "LMPT: Prompt Tuning with Class-Specific Embedding Loss for Long-tailed Multi-Label Visual Recognition", arXiv, 2023 (*Monash University, Australia*). [[Paper](https://arxiv.org/abs/2305.04536)][[PyTorch](https://github.com/richard-peng-xia/LMPT)]
 * Knowledge Distillation:
     * **?**: "Knowledge Distillation via the Target-aware Transformer", CVPR, 2022 (*Alibaba*). [[Paper](https://arxiv.org/abs/2205.10793)]
     * **DearKD**: "DearKD: Data-Efficient Early Knowledge Distillation for Vision Transformers", CVPR, 2022 (*JD*). [[Paper](https://arxiv.org/abs/2204.12997)]
