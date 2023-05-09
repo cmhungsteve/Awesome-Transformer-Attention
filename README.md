@@ -124,6 +124,7 @@ If you find this repository useful, please consider citing this list:
 
 ## Survey
 * "A Survey of Visual Transformers", TNNLS, 2023 (*CAS*). [[Paper](https://arxiv.org/abs/2111.06091)]
+* "Self-supervised Learning for Pre-Training 3D Point Clouds: A Survey", arXiv, 2023 (*Fudan University*). [[Paper](https://arxiv.org/abs/2305.04691)]
 * "Semantic Segmentation using Vision Transformers: A survey", arXiv, 2023 (*University of Peradeniya, Sri Lanka*). [[Paper](https://arxiv.org/abs/2305.03273)]
 * "A Review of Deep Learning for Video Captioning", arXiv, 2023 (*Deakin University, Australia*). [[Paper](https://arxiv.org/abs/2304.11431)]
 * "Transformer-Based Visual Segmentation: A Survey", arXiv, 2023 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2304.09854)][[GitHub](https://github.com/lxtGH/Awesome-Segmenation-With-Transformer)]
@@ -718,6 +719,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **CLIP-Dissect**: "CLIP-Dissect: Automatic Description of Neuron Representations in Deep Vision Networks", ICLR, 2023 (*UCSD*). [[Paper](https://arxiv.org/abs/2204.10965)]
 * **Vision-DiffMask**: "VISION DIFFMASK: Faithful Interpretation of Vision Transformers with Differentiable Patch Masking", CVPRW, 2023 (*University of Amsterdam*). [[Paper](https://arxiv.org/abs/2304.06391)][[PyTorch](https://github.com/AngelosNal/Vision-DiffMask)]
 * **AttentionViz**: "AttentionViz: A Global View of Transformer Attention", arXiv, 2023 (*Harvard*). [[Paper](https://arxiv.org/abs/2305.03210)][[Website](http://attentionviz.com/)]
+* **?**: "Understanding Gaussian Attention Bias of Vision Transformers Using Effective Receptive Fields", arXiv, 2023 (*POSTECH*). [[Paper](https://arxiv.org/abs/2305.04722)]
 
 [[Back to Overview](#overview)]
 
@@ -1736,6 +1738,7 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
     * **WHOOP**: "Breaking Common Sense: WHOOPS! A Vision-and-Language Benchmark of Synthetic and Compositional Images", arXiv, 2023 (*Ben Gurion University of the Negev, Israel*). [[Paper](https://arxiv.org/abs/2303.07274)][[Website](https://whoops-benchmark.github.io/)]
     * **IVLT**: "Causality-aware Visual Scene Discovery for Cross-Modal Question Reasoning", arXiv, 2023 (*Sun-Yat-Sen University*). [[Paper](https://arxiv.org/abs/2304.08083)]
     * **MGT**: "Multimodal Graph Transformer for Multimodal Question Answering", arXiv, 2023 (*UC Santa Cruz*). [[Paper](https://arxiv.org/abs/2305.00581)]
+    * **VCSR**: "Visual Causal Scene Refinement for Video Question Answering", arXiv, 2023 (*Sun-Yat-Sen University*). [[Paper](https://arxiv.org/abs/2305.04224)]
 * Video:
     * **?**: "Mounting Video Metadata on Transformer-based Language Model for Open-ended Video Question Answering", arXiv, 2021 (*Seoul National University*). [[Paper](https://arxiv.org/abs/2108.05158)]
     * **TPT**: "Temporal Pyramid Transformer with Multimodal Interaction for Video Question Answering", arXiv, 2021 (*CAS*). [[Paper](https://arxiv.org/abs/2109.04735)]
@@ -1936,6 +1939,7 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
     * **VALOR**: "VALOR: Vision-Audio-Language Omni-Perception Pretraining Model and Dataset", arXiv, 2023 (*CAS*). [[Paper](https://arxiv.org/abs/2304.08345)][[PyTorch](https://github.com/TXH-mercury/VALOR)][[Website](https://casia-iva-group.github.io/projects/VALOR/)]
     * **MERU**: "Hyperbolic Image-Text Representations", arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2304.09172)]
     * **REAVL**: "Retrieval-based Knowledge Augmented Vision Language Pre-training", arXiv, 2023 (*Tencent*). [[Paper](https://arxiv.org/abs/2304.13923)]
+    * **ALBEF-MI**: "Vision Lanauge Pre-training by Contrastive Learning with Cross-Modal Similarity Regulation", arXiv, 2023 (*Alibaba*). [[Paper](https://arxiv.org/abs/2305.04474)]
 * Video:
     * **COOT**: "COOT: Cooperative Hierarchical Transformer for Video-Text Representation Learning", NeurIPS, 2020 (*University of Freiburg*). [[Paper](https://arxiv.org/abs/2011.00597)][[PyTorch](https://github.com/gingsi/coot-videotext)]
     * **Parameter-Reduction**: "Parameter Efficient Multimodal Transformers for Video Representation Learning", ICLR, 2021 (*Seoul National University*). [[Paper](https://openreview.net/forum?id=6UdQLhqJyFD)]
@@ -2280,6 +2284,7 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
 * Sign Language:
     * **LWTA**: "Stochastic Transformer Networks with Linear Competing Units: Application to end-to-end SL Translation", ICCV, 2021 (*Cyprus University of Technology*). [[Paper](https://arxiv.org/abs/2109.13318)]
     * **CiCo**: "CiCo: Domain-Aware Sign Language Retrieval via Cross-Lingual Contrastive Learning", CVPR, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2303.12793)][[Code (in construction)](https://github.com/FangyunWei/SLRT)]
+    * **SignBERT+**: "SignBERT+: Hand-model-aware Self-supervised Pre-training for Sign Language Understanding", TPAMI, 2023 (*USTC*). [[Paper](https://arxiv.org/abs/2305.04868)][[Website](https://signbert-zoo.github.io/)]
 * 3D:
     * **3DRefTransformer**: "3DRefTransformer: Fine-Grained Object Identification in Real-World Scenes Using Natural Language", WACV, 2022 (*KAUST*). [[Paper](https://openaccess.thecvf.com/content/WACV2022/html/Abdelreheem_3DRefTransformer_Fine-Grained_Object_Identification_in_Real-World_Scenes_Using_Natural_Language_WACV_2022_paper.html)][[Website](https://vision-cair.github.io/3dreftransformer/)]
     * **EDA**: "EDA: Explicit Text-Decoupling and Dense Alignment for 3D Visual and Language Learning", arXiv, 2022 (*Peking University*). [[Paper](https://arxiv.org/abs/2209.14941)]
@@ -2352,6 +2357,7 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
     * **LLaMA-Adapter-V2**: "LLaMA-Adapter V2: Parameter-Efficient Visual Instruction Model", arXiv, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2304.15010)][[PyTorch](https://github.com/ZrrSkywalker/LLaMA-Adapter)]
     * **Otter**: "Otter: A Multi-Modal Model with In-Context Instruction Tuning", arXiv, 2023 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2305.03726)][[PyTorch](https://github.com/Luodian/Otter)]
     * **LMEye**: "LMEye: An Interactive Perception Network for Large Language Models", arXiv, 2023 (*Meituan*). [[Paper](https://arxiv.org/abs/2305.03701)]
+    * **MultiModal-GPT**: "MultiModal-GPT: A Vision and Language Model for Dialogue with Humans", arXiv, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2305.04790)][[PyTorch](https://github.com/open-mmlab/Multimodal-GPT)]
 * Visual Abductive Reasoning:
     * **RPT**: "Fine-Grained Regional Prompt Tuning for Visual Abductive Reasoning", arXiv, 2023 (*A\*STAR*). [[Paper](https://arxiv.org/abs/2303.10428)]
 * Tracking:
