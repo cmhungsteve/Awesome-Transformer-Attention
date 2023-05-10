@@ -431,6 +431,7 @@ If you find this repository useful, please consider citing this list:
 * **FocusFormer**: "FocusFormer: Focusing on What We Need via Architecture Sampler", arXiv, 2022 (*Monash University, Australia*). [[Paper](https://arxiv.org/abs/2208.10861)]
 * **NAR-Former**: "NAR-Former: Neural Architecture Representation Learning towards Holistic Attributes Prediction", arXiv, 2022 (*Xidian University, China*). [[Paper](https://arxiv.org/abs/2211.08024)]
 * **AutoTaskFormer**: "AutoTaskFormer: Searching Vision Transformers for Multi-task Learning", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2304.08756)]
+* **GPT-NAS**: "GPT-NAS: Neural Architecture Search with the Generative Pre-Trained Model", arXiv, 2023 (*Sichuan University*). [[Paper](https://arxiv.org/abs/2305.05351)]
 
 [[Back to Overview](#overview)]
 
@@ -630,6 +631,7 @@ If you find this repository useful, please consider citing this list:
     * **SwinFIR**: "SwinFIR: Revisiting the SwinIR with Fast Fourier Convolution and Improved Training for Image Super-Resolution", arXiv, 2022 (*Samsung*). [[Paper](https://arxiv.org/abs/2208.11247)]
     * **ITSRN++**: "ITSRN++: Stronger and Better Implicit Transformer Network for Continuous Screen Content Image Super-Resolution", arXiv, 2022 (*Tianjin University*). [[Paper](https://arxiv.org/abs/2210.08812)]
     * **NGswin**: "N-Gram in Swin Transformers for Efficient Lightweight Image Super-Resolution", arXiv, 2022 (*Sogang University, Korea*). [[Paper](https://arxiv.org/abs/2211.11436)]
+    * **HTCAN**: "Hybrid Transformer and CNN Attention Network for Stereo Image Super-resolution", CVPRW, 2023 (*ByteDance*). [[Paper](https://arxiv.org/abs/2305.05177)]
     * **RGT**: "Recursive Generalization Transformer for Image Super-Resolution", arXiv, 2023 (*Shanghai Jiao Tong*). [[Paper](https://arxiv.org/abs/2303.06373)]
     * **SOSR**: "SOSR: Source-Free Image Super-Resolution with Wavelet Augmentation Transformer", arXiv, 2023 (*CAS*). [[Paper](https://arxiv.org/abs/2303.17783)]
 * Others:
