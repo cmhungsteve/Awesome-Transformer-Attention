@@ -2249,9 +2249,10 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
 * Multi-task:
     * **UniT**: "Transformer is All You Need: Multimodal Multitask Learning with a Unified Transformer", ICCV, 2021 (*Facebook*). [[Paper](https://arxiv.org/abs/2102.10772)][[PyTorch](https://github.com/facebookresearch/mmf)][[Website](https://mmf.sh/)]
     * **Pix2Seq**: "A Unified Sequence Interface for Vision Tasks", NeurIPS, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2206.07669)]
-    * **Unified-IO**: "Unified-IO: A Unified Model for Vision, Language, and Multi-Modal Tasks", ICLR, 2023 (*AI2*). [[Paper](https://arxiv.org/abs/2206.08916)][[JAX](https://github.com/allenai/unified-io-inference)][[Website](https://unified-io.allenai.org/)]
     * **LAVIS**: "LAVIS: A Library for Language-Vision Intelligence", arXiv, 2022 (*Salesforce*). [[Paper](https://arxiv.org/abs/2209.09019)][[PyTorch](https://github.com/salesforce/LAVIS)]
+    * **Unified-IO**: "Unified-IO: A Unified Model for Vision, Language, and Multi-Modal Tasks", ICLR, 2023 (*AI2*). [[Paper](https://arxiv.org/abs/2206.08916)][[JAX](https://github.com/allenai/unified-io-inference)][[Website](https://unified-io.allenai.org/)]
     * **ImageBind**: "ImageBind: One Embedding Space To Bind Them All", CVPR, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2305.05665)][[PyTorch](https://github.com/facebookresearch/ImageBind)][[Website](https://imagebind.metademolab.com/)]
+    * **EgoT2**: "Egocentric Video Task Translation", CVPR, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2212.06301)][[Website](https://vision.cs.utexas.edu/projects/egot2/)]
     * **CoCoCon**: "Exposing and Addressing Cross-Task Inconsistency in Unified Vision-Language Models", arXiv, 2023 (*AI2*). [[Paper](https://arxiv.org/abs/2303.16133)][[PyTorch](https://github.com/adymaharana/cococon)][[Website](https://adymaharana.github.io/cococon/)]
 * Language-based Video Editing:
     * **M<sup>3</sup>L**: "Language-based Video Editing via Multi-Modal Multi-Level Transformer", CVPR, 2022 (*UCSB*). [[Paper](https://arxiv.org/abs/2104.01122)]
