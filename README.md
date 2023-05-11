@@ -124,6 +124,8 @@ If you find this repository useful, please consider citing this list:
 
 ## Survey
 * "A Survey of Visual Transformers", TNNLS, 2023 (*CAS*). [[Paper](https://arxiv.org/abs/2111.06091)]
+* "Vision-Language Models in Remote Sensing: Current Progress and Future Trends", arXiv, 2023 (*NYU*). [[Paper](https://arxiv.org/abs/2305.05726)]
+* "Visual Tuning", arXiv, 2023 (*The Hong Kong Polytechnic University*). [[Paper](https://arxiv.org/abs/2305.06061)]
 * "Self-supervised Learning for Pre-Training 3D Point Clouds: A Survey", arXiv, 2023 (*Fudan University*). [[Paper](https://arxiv.org/abs/2305.04691)]
 * "Semantic Segmentation using Vision Transformers: A survey", arXiv, 2023 (*University of Peradeniya, Sri Lanka*). [[Paper](https://arxiv.org/abs/2305.03273)]
 * "A Review of Deep Learning for Video Captioning", arXiv, 2023 (*Deakin University, Australia*). [[Paper](https://arxiv.org/abs/2304.11431)]
@@ -1248,6 +1250,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **SAM-WSSS**: "An Alternative to WSSS? An Empirical Study of the Segment Anything Model (SAM) on Weakly-Supervised Semantic Segmentation Problems", arXiv, 2023 (*ANU*). [[Paper](https://arxiv.org/abs/2305.01586)]
     * **?**: "Segment Anything is A Good Pseudo-label Generator for Weakly Supervised Semantic Segmentation", arXiv, 2023 (*Zhejiang University + Nankai University*). [[Paper](https://arxiv.org/abs/2305.01275)]
     * **AReAM**: "Mitigating Undisciplined Over-Smoothing in Transformer for Weakly Supervised Semantic Segmentation", arXiv, 2023 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2305.03112)]
+    * **SEPL**: "Segment Anything Model (SAM) Enhanced Pseudo Labels for Weakly Supervised Semantic Segmentation", arXiv, 2023 (*OSU*). [[Paper](https://arxiv.org/abs/2305.05803)][[Code (in construction)](https://github.com/cskyl/SAM_WSSS)]
 * Cross-Domain:
     * **DAFormer**: "DAFormer: Improving Network Architectures and Training Strategies for Domain-Adaptive Semantic Segmentation", CVPR, 2022 (*ETHZ*). [[Paper](https://arxiv.org/abs/2111.14887)][[PyTorch](https://github.com/lhoyer/DAFormer)]
     * **?**: "Exploring Consistency in Cross-Domain Transformer for Domain Adaptive Semantic Segmentation", arXiv, 2022 (*Boston*). [[Paper](https://arxiv.org/abs/2211.14703)]
@@ -1655,6 +1658,7 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
     * **LIBRA**: "Model-Agnostic Gender Debiased Image Captioning", CVPR, 2023 (*Osaka University*). [[Paper](https://arxiv.org/abs/2304.03693)]
     * **A-CAP**: "A-CAP: Anticipation Captioning with Commonsense Knowledge", CVPR, 2023 (*The University of Tokyo*). [[Paper](https://arxiv.org/abs/2304.06602)]
     * **TSG**: "Transforming Visual Scene Graphs to Image Captions", ACL, 2023 (*Southeast University, China*). [[Paper](https://arxiv.org/abs/2305.02177)][[PyTorch](https://anonymous.4open.science/r/ACL23_TSG/README.md)]
+    * **InfoMetIC**: "InfoMetIC: An Informative Metric for Reference-free Image Caption Evaluation", ACL, 2023 (*Renmin University of China*). [[Paper](https://arxiv.org/abs/2305.06002)][[Code (in construction)](https://github.com/HAWLYQ/InfoMetIC)]
     * **Re-ViLM**: "Re-ViLM: Retrieval-Augmented Visual Language Model for Zero and Few-Shot Image Captioning", arXiv, 2023 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2302.04858)]
     * **ConZIC**: "ConZIC: Controllable Zero-shot Image Captioning by Sampling-Based Polishing", arXiv, 2023 (*Xidian University*). [[Paper](https://arxiv.org/abs/2303.02437)][[Code (in construction)](https://github.com/joeyz0z/ConZIC)]
     * **Knight**: "From Association to Generation: Text-only Captioning by Unsupervised Cross-modal Mapping", arXiv, 2023 (*Alibaba*). [[Paper](https://arxiv.org/abs/2304.13273)][[PyTorch](https://github.com/junyangwang0410/Knight)]
@@ -1942,6 +1946,7 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
     * **REAVL**: "Retrieval-based Knowledge Augmented Vision Language Pre-training", arXiv, 2023 (*Tencent*). [[Paper](https://arxiv.org/abs/2304.13923)]
     * **ALBEF-MI**: "Vision Lanauge Pre-training by Contrastive Learning with Cross-Modal Similarity Regulation", arXiv, 2023 (*Alibaba*). [[Paper](https://arxiv.org/abs/2305.04474)]
     * **Helip**: "Boosting Visual-Language Models by Exploiting Hard Samples", arXiv, 2023 (*Huawei*). [[Paper](https://arxiv.org/abs/2305.05208)]
+    * **IMP**: "Alternating Gradient Descent and Mixture-of-Experts for Integrated Multimodal Perception", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2305.06324)]
 * Video:
     * **COOT**: "COOT: Cooperative Hierarchical Transformer for Video-Text Representation Learning", NeurIPS, 2020 (*University of Freiburg*). [[Paper](https://arxiv.org/abs/2011.00597)][[PyTorch](https://github.com/gingsi/coot-videotext)]
     * **Parameter-Reduction**: "Parameter Efficient Multimodal Transformers for Video Representation Learning", ICLR, 2021 (*Seoul National University*). [[Paper](https://openreview.net/forum?id=6UdQLhqJyFD)]
@@ -2173,6 +2178,7 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
 * **VPGTrans**: "Transfer Visual Prompt Generator across LLMs", arXiv, 2023 (*NUS*). [[Paper](https://arxiv.org/abs/2305.01278)][[PyTorch](https://github.com/VPGTrans/VPGTrans)][[Website](https://vpgtrans.github.io/)]
 * **DRPT**: "DRPT: Disentangled and Recurrent Prompt Tuning for Compositional Zero-Shot Learning", arXiv, 2023 (*Hong Kong Polytechnic University*). [[Paper](https://arxiv.org/abs/2305.01239)][[Code (in construction)](https://github.com/Forest-art/DRPT-torch)]
 * **VCoT**: "Visual Chain of Thought: Bridging Logical Gaps with Multimodal Infillings", arXiv, 2023 (*UCSB*). [[Paper](https://arxiv.org/abs/2305.02317)]
+* **PMPO**: "Multi-Prompt with Depth Partitioned Cross-Modal Learning", arXiv, 2023 (*CAS*). [[Paper](https://arxiv.org/abs/2305.06221)]
 
 [[Back to Overview](#overview)]
 
@@ -2364,6 +2370,7 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
     * **LMEye**: "LMEye: An Interactive Perception Network for Large Language Models", arXiv, 2023 (*Meituan*). [[Paper](https://arxiv.org/abs/2305.03701)]
     * **MultiModal-GPT**: "MultiModal-GPT: A Vision and Language Model for Dialogue with Humans", arXiv, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2305.04790)][[PyTorch](https://github.com/open-mmlab/Multimodal-GPT)]
     * **InternChat**: "InternChat: Solving Vision-Centric Tasks by Interacting with Chatbots Beyond Language", arXiv, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2305.05662)][[PyTorch](https://github.com/OpenGVLab/InternChat)]
+    * **VideoChat**: "VideoChat: Chat-Centric Video Understanding", arXiv, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2305.06355)][[PyTorch](https://github.com/OpenGVLab/Ask-Anything)]
 * Visual Abductive Reasoning:
     * **RPT**: "Fine-Grained Regional Prompt Tuning for Visual Abductive Reasoning", arXiv, 2023 (*A\*STAR*). [[Paper](https://arxiv.org/abs/2303.10428)]
 * Tracking:
