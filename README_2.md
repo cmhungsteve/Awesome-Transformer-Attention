@@ -784,6 +784,7 @@ If you find this repository useful, please consider citing this list:
 * **LayoutDiffuse**: "LayoutDiffuse: Adapting Foundational Diffusion Models for Layout-to-Image Generation", arXiv, 2023 (*Amazon*). [[Paper](https://arxiv.org/abs/2302.08908)]
 * **StraIT**: "StraIT: Non-autoregressive Generation with Stratified Image Transformer", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2303.00750)]
 * **MDT**: "Masked Diffusion Transformer is a Strong Image Synthesizer", arXiv, 2023 (*Sea AI Lab*). [[Paper](https://arxiv.org/abs/2303.14389)][[PyTorch](https://github.com/sail-sg/MDT)]
+* **MMoT**: "MMoT: Mixture-of-Modality-Tokens Transformer for Composed Multimodal Conditional Image Synthesis", arXiv, 2023 (*South China University of Technology*). [[Paper](https://arxiv.org/abs/2305.05992)][[PyTorch (in construction)](https://github.com/jabir-zheng/MMoT-Transformer)][[Website](https://jabir-zheng.github.io/MMoT/)]
 
 [[Back to Overview](#overview)]
 
