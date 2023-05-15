@@ -706,6 +706,7 @@ If you find this repository useful, please consider citing this list:
 * **MAT**: "MAT: Mask-Aware Transformer for Large Hole Image Inpainting", CVPR, 2022 (*CUHK*). [[Paper](https://arxiv.org/abs/2203.15270)][[PyTorch](https://github.com/fenglinglwb/MAT)]
 * **PUT**: "Reduce Information Loss in Transformers for Pluralistic Image Inpainting", CVPR, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2205.05076)][[PyTorch](https://github.com/liuqk3/PUT)]
 * **DLFormer**: "DLFormer: Discrete Latent Transformer for Video Inpainting", CVPR, 2022 (*Tencent*). [[Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Ren_DLFormer_Discrete_Latent_Transformer_for_Video_Inpainting_CVPR_2022_paper.html)][[Code (in construction)](https://github.com/JingjingRenabc/dlformer)]
+* **T-former**: "T-former: An Efficient Transformer for Image Inpainting", ACMMM, 2022 (*Xi'an Jiaotong*). [[Paper](https://arxiv.org/abs/2305.07239)][[PyTorch](https://github.com/dengyecode/T-former_image_inpainting)]
 * **QueryOTR**: "Outpainting by Queries", ECCV, 2022 (*University of Liverpool, UK*). [[Paper](https://arxiv.org/abs/2207.05312)][[PyTorch (in construction)](https://github.com/Kaiseem/QueryOTR)]
 * **FGT**: "Flow-Guided Transformer for Video Inpainting", ECCV, 2022 (*USTC*). [[Paper](https://arxiv.org/abs/2208.06768)][[PyTorch](https://github.com/hitachinsk/FGT)]
 * **MAE-FAR**: "Learning Prior Feature and Attention Enhanced Image Inpainting", ECCV, 2022 (*Fudan University*). [[Paper](https://arxiv.org/abs/2208.01837)][[PyTorch (in construction)](https://github.com/ewrfcas/MAE-FAR)][[Website](https://ewrfcas.github.io/MAE-FAR/)]
@@ -1491,6 +1492,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **CrowdMLP**: "CrowdMLP: Weakly-Supervised Crowd Counting via Multi-Granularity MLP", arXiv, 2022 (*University of Guelph, Canada*). [[Paper](https://arxiv.org/abs/2203.08219)]
     * **CounTR**: "CounTR: Transformer-based Generalised Visual Counting", arXiv, 2022 (*Shanghai Jiao Tong University*). [[Paper](https://arxiv.org/abs/2208.13721)][[Website](https://verg-avesta.github.io/CounTR_Webpage/)]
     * **CrowdCLIP**: "CrowdCLIP: Unsupervised Crowd Counting via Vision-Language Model", CVPR, 2023 (*Baidu*). [[Paper](https://arxiv.org/abs/2304.04231)][[Code (in construction)](https://github.com/dk-liang/CrowdCLIP)]
+    * **CLIP-Count**: "CLIP-Count: Towards Text-Guided Zero-Shot Object Counting", arXiv, 2023 (*The Hong Kong Polytechnic University*). [[Paper](https://arxiv.org/abs/2305.07304)][[Code (in construction)](https://github.com/songrise/CLIP-Count)]
 * Visual Quality Assessment:
     * **TRIQ**: "Transformer for Image Quality Assessment", arXiv, 2020 (*NORCE*). [[Paper](https://arxiv.org/abs/2101.01097)][[Tensorflow-Keras](https://github.com/junyongyou/triq)]
     * **IQT**: "Perceptual Image Quality Assessment with Transformers", CVPRW, 2021 (*LG*). [[Paper](https://arxiv.org/abs/2104.14730)][[Code (in construction)](https://github.com/manricheon/IQT)]
