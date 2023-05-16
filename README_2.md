@@ -123,7 +123,6 @@ If you find this repository useful, please consider citing this list:
 * **PVT3D**: "PVT3D: Point Voxel Transformers for Place Recognition from Sparse Lidar Scans", arXiv, 2022 (*TUM*). [[Paper](https://arxiv.org/abs/2211.12542)]
 * **PartSLIP**: "PartSLIP: Low-Shot Part Segmentation for 3D Point Clouds via Pretrained Image-Language Models", arXiv, 2022 (*Qualcomm*). [[Paper](https://arxiv.org/abs/2212.01558)]
 * **EPCL**: "Frozen CLIP Model is Efficient Point Cloud Backbone", arXiv, 2022 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2212.04098)]
-* **ULIP**: "ULIP: Learning Unified Representation of Language, Image and Point Cloud for 3D Understanding", arXiv, 2022 (*Salesforce*). [[Paper](https://arxiv.org/abs/2212.05171)][[Website](https://tycho-xue.github.io/ULIP/)]
 * **CAT**: "Context-Aware Transformer for 3D Point Cloud Automatic Annotation", AAAI, 2023 (*HKU*). [[Paper](https://arxiv.org/abs/2303.14893)]
 * **ACT**: "Autoencoders as Cross-Modal Teachers: Can Pretrained 2D Image Transformers Help 3D Representation Learning?", ICLR, 2023 (*Megvii*). [[Paper](https://arxiv.org/abs/2212.08320)][[PyTorch](https://github.com/RunpeiDong/ACT)]
 * **AnalogicalNets**: "Analogy-Forming Transformers for Few-Shot 3D Parsing", ICLR, 2023 (*CMU*). [[Paper](https://arxiv.org/abs/2304.14382)][[Website](https://analogicalnets.github.io/)]
@@ -134,6 +133,8 @@ If you find this repository useful, please consider citing this list:
 * **SphereFormer**: "Spherical Transformer for LiDAR-based 3D Recognition", CVPR, 2023 (*CUHK*). [[Paper](https://arxiv.org/abs/2303.12766)][[PyTorch](https://github.com/dvlab-research/SphereFormer)]
 * **SPoTr**: "Self-positioning Point-based Transformer for Point Cloud Understanding", CVPR, 2023 (*Korea University*). [[Paper](https://arxiv.org/abs/2303.16450)][[PyTorch (in construction)](https://github.com/mlvlab/SPoTr)]
 * **PointCMP**: "PointCMP: Contrastive Mask Prediction for Self-supervised Learning on Point Cloud Videos", CVPR, 2023 (*Shanghai Jiao Tong*). [[Paper](https://arxiv.org/abs/2305.04075)]
+* **GeoMAE**: "GeoMAE: Masked Geometric Target Prediction for Self-supervised Point Cloud Pre-Training", CVPR, 2023 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2305.08808)][[Code (in construction)](https://github.com/Tsinghua-MARS-Lab/GeoMAE)]
+* **ULIP**: "ULIP: Learning a Unified Representation of Language, Images, and Point Clouds for 3D Understanding", CVPR, 2023 (*Salesforce*). [[Paper](https://arxiv.org/abs/2212.05171)][[PyTorch](https://github.com/salesforce/ULIP)][[Website](https://tycho-xue.github.io/ULIP/)]
 * **OctFormer**: "OctFormer: Octree-based Transformers for 3D Point Clouds", SIGGRAPH, 2023 (*Peking University*). [[Paper](https://arxiv.org/abs/2305.03045)][[Code (in construction)](https://github.com/octree-nn/octformer)][[Website](https://wang-ps.github.io/octformer)]
 * **Text4Point**: "Joint Representation Learning for Text and 3D Point Cloud", arXiv, 2023 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2301.07584)][[Code (in construction)](https://github.com/LeapLabTHU/Text4Point)]
 * **FullFormer**: "FullFormer: Generating Shapes Inside Shapes", arXiv, 2023 (*University of Siegen, Germany*). [[Paper](https://arxiv.org/abs/2303.11235)]
@@ -144,6 +145,7 @@ If you find this repository useful, please consider citing this list:
 * **IDPT**: "Instance-aware Dynamic Prompt Tuning for Pre-trained Point Cloud Models", arXiv, 2023 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2304.07221)][[Code (in construction)](https://github.com/zyh16143998882/IDPT)]
 * **Swin3D**: "Swin3D: A Pretrained Transformer Backbone for 3D Indoor Scene Understanding", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2304.06906)]
 * **ViewFormer**: "ViewFormer: View Set Attention for Multi-view 3D Shape Understanding", arXiv, 2023 (*Renmin University of China*). [[Paper](https://arxiv.org/abs/2305.00161)]
+* **ULIP-2**: "ULIP-2: Towards Scalable Multimodal Pre-training For 3D Understanding", arXiv, 2023 (*Salesforce*). [[Paper](https://arxiv.org/abs/2305.08275)]
 
 [[Back to Overview](#overview)]
 
@@ -319,6 +321,7 @@ If you find this repository useful, please consider citing this list:
 * **PMT**: "Learning Progressive Modality-shared Transformers for Effective Visible-Infrared Person Re-identification", AAAI, 2023 (*Jiangsu University*). [[Paper](https://arxiv.org/abs/2212.00226)][[Code (in construction)](https://github.com/hulu88/PMT)]
 * **DC-Former**: "DC-Former: Diverse and Compact Transformer for Person Re-Identification", AAAI, 2023 (*Ant Group*). [[Paper](https://arxiv.org/abs/2302.14335)][[PyTorch](https://github.com/ant-research/Diverse-and-Compact-Transformer)]
 * **TP-TPS**: "Exploiting the Textual Potential from Vision-Language Pre-training for Text-based Person Search", arXiv, 2023 (*Tencent*). [[Paper](https://arxiv.org/abs/2303.04497)]
+* **PLIP**: "PLIP: Language-Image Pre-training for Person Representation Learning", arXiv, 2023 (*Huazhong University of Science and Technology*). [[Paper](https://arxiv.org/abs/2305.08386)][[Code (in construction)](https://github.com/Zplusdragon/PLIP)]
 
 [[Back to Overview](#overview)]
 
