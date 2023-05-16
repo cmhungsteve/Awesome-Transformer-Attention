@@ -539,6 +539,7 @@ If you find this repository useful, please consider citing this list:
 * **?**: "Objectives Matter: Understanding the Impact of Self-Supervised Objectives on Vision Transformer Representations", arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2304.13089)]
 * **Filter**: "Less is More: Removing Text-regions Improves CLIP Training Efficiency and Robustness", arXiv, 2023 (*Apple*). [[Paper](https://arxiv.org/abs/2305.05095)]
 * **CLIPA**: "An Inverse Scaling Law for CLIP Training", arXiv, 2023 (*UC Santa Cruz*). [[Paper](https://arxiv.org/abs/2305.07017)][[PyTorch](https://github.com/UCSC-VLAA/CLIPA)]
+* **?**: "Improved baselines for vision-language pre-training", arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2305.08675)]
 #### Robustness + Transformer
 * **ViT-Robustness**: "Understanding Robustness of Transformers for Image Classification", ICCV, 2021 (*Google*). [[Paper](https://arxiv.org/abs/2103.14586)]
 * **SAGA**: "On the Robustness of Vision Transformers to Adversarial Examples", ICCV, 2021 (*University of Connecticut*). [[Paper](https://arxiv.org/abs/2104.02610)]
@@ -1138,6 +1139,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **SAM**: "Segment Anything", arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2304.02643)][[Website](https://segment-anything.com/)]
     * **SEEM**: "Segment Everything Everywhere All at Once", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2304.06718)][[Code (in construction)](https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once)]
     * **?**: "An Empirical Study on the Robustness of the Segment Anything Model (SAM)", arXiv, 2023 (*UCSB*). [[Paper](https://arxiv.org/abs/2305.06422)]
+    * **?**: "A Comprehensive Survey on Segment Anything Model for Vision and Beyond", arXiv, 2023 (*HKUST*). [[Paper](https://arxiv.org/abs/2305.08196)]
 * Vision-Language:
     * **LSeg**: "Language-driven Semantic Segmentation", ICLR, 2022 (*Cornell*). [[Paper](https://arxiv.org/abs/2201.03546)][[PyTorch](https://github.com/isl-org/lang-seg)]
     * **ZegFormer**: "Decoupling Zero-Shot Semantic Segmentation", CVPR, 2022 (*Wuhan University*). [[Paper](https://arxiv.org/abs/2112.07910)][[PyTorch](https://github.com/dingjiansw101/ZegFormer)]
@@ -1803,6 +1805,7 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
     * **VL-MPAG-Net**: "Grounding Scene Graphs on Natural Images via Visio-Lingual Message Passing", WACV, 2023 (*Indian Institute of Science*). [[Paper](https://arxiv.org/abs/2211.01969)][[PyTorch](https://github.com/IISCAditayTripathi/Scene-graph-localization)][[Website](https://iiscaditaytripathi.github.io/sgl/)]
     * **CLEVER**: "Visually Grounded Commonsense Knowledge Acquisition", AAAI, 2023 (*Tsinghua University*). [[Paper](https://arxiv.org/abs/2211.12054)][[PyTorch](https://github.com/thunlp/CLEVER)]
     * **?**: "Learning to Jointly Share and Prune Weights for Grounding Based Vision and Language Models", ICLR, 2023 (*Samsung*). [[Paper](https://openreview.net/forum?id=UMERaIHMwB3)]
+    * **CLIP-VG**: "CLIP-VG: Self-paced Curriculum Adapting of CLIP via Exploiting Pseudo-Language Labels for Visual Grounding", arXiv, 2023 (*CAS*). [[Paper](https://arxiv.org/abs/2305.08685)][[Code (in construction)](https://github.com/linhuixiao/CLIP-VG)]
 * Video:
     * **Multi-Stage-Transformer**: "Multi-Stage Aggregated Transformer Network for Temporal Language Localization in Videos", CVPR, 2021 (*University of Electronic Science and Technology of China*). [[Paper](https://openaccess.thecvf.com/content/CVPR2021/html/Zhang_Multi-Stage_Aggregated_Transformer_Network_for_Temporal_Language_Localization_in_Videos_CVPR_2021_paper.html)]
     * **GTR**: "On Pursuit of Designing Multi-modal Transformer for Video Grounding", EMNLP, 2021 (*Peking*). [[Paper](https://arxiv.org/abs/2109.06085)]
@@ -2059,6 +2062,7 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
     * **VDI**: "Towards Generalisable Video Moment Retrieval: Visual-Dynamic Injection to Image-Text Pre-Training", CVPR, 2023 (*Queen Mary University of London*). [[Paper](https://arxiv.org/abs/2303.00040)]
     * **DiffusionRet**: "DiffusionRet: Generative Text-Video Retrieval with Diffusion Model", arXiv, 2023 (*Peking University*). [[Paper](https://arxiv.org/abs/2303.09867)]
     * **TextVR**: "A Large Cross-Modal Video Retrieval Dataset with Reading Comprehension", arXiv, 2023 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2305.03347)][[PyTorch](https://github.com/callsys/TextVR)][[Website](https://sites.google.com/view/loveucvpr23/guest-track)]
+    * **MASCOT**: "Mask to reconstruct: Cooperative Semantics Completion for Video-text Retrieval", arXiv, 2023 (*?*). [[Paper](https://arxiv.org/abs/2305.07910)]
 * Others:
     * **IRRA**: "Cross-Modal Implicit Relation Reasoning and Aligning for Text-to-Image Person Retrieval", CVPR, 2023 (*Wuhan University*). [[Paper](https://arxiv.org/abs/2303.12501)][[PyTorch](https://github.com/anosorae/IRRA)]
     * **ZS-SBIR**: "CLIP for All Things Zero-Shot Sketch-Based Image Retrieval, Fine-Grained or Not", CVPR, 2023 (*University of Surrey, UK*). [[Paper](https://arxiv.org/abs/2303.13440)]
@@ -2191,6 +2195,7 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
 * **DRPT**: "DRPT: Disentangled and Recurrent Prompt Tuning for Compositional Zero-Shot Learning", arXiv, 2023 (*Hong Kong Polytechnic University*). [[Paper](https://arxiv.org/abs/2305.01239)][[Code (in construction)](https://github.com/Forest-art/DRPT-torch)]
 * **VCoT**: "Visual Chain of Thought: Bridging Logical Gaps with Multimodal Infillings", arXiv, 2023 (*UCSB*). [[Paper](https://arxiv.org/abs/2305.02317)]
 * **PMPO**: "Multi-Prompt with Depth Partitioned Cross-Modal Learning", arXiv, 2023 (*CAS*). [[Paper](https://arxiv.org/abs/2305.06221)]
+* **Aurora**: "Mode Approximation Makes Good Vision-Language Prompts", arXiv, 2023 (*Peking*). [[Paper](https://arxiv.org/abs/2305.08381)][[PyTorch](https://github.com/WillDreamer/Aurora)]
 
 [[Back to Overview](#overview)]
 
@@ -2223,6 +2228,7 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
 * **FlexDM**: "Towards Flexible Multi-modal Document Models", CVPR, 2023 (*CyberAgent, Japan*). [[Paper](https://arxiv.org/abs/2303.18248)][[Tensorflow](https://github.com/CyberAgentAILab/flex-dm)][[Website](https://cyberagentailab.github.io/flex-dm/)]
 * **FormNetV2**: "FormNetV2: Multimodal Graph Contrastive Learning for Form Document Information Extraction", ACL, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2305.02549)]
 * **mmc4**: "Multimodal C4: An Open, Billion-scale Corpus of Images Interleaved With Text", arXiv, 2023 (*AI2*). [[Paper](https://arxiv.org/abs/2304.06939)][[GitHub (in construction)](https://github.com/allenai/mmc4)]
+* **M<sup>6</sup>Doc**: "M<sup>6</sup>Doc: A Large-Scale Multi-Format, Multi-Type, Multi-Layout, Multi-Language, Multi-Annotation Category Dataset for Modern Document Layout Analysis", arXiv, 2023 (*South China University of Technology*). [[Paper](https://arxiv.org/abs/2305.08719)][[Code (in construction)](https://github.com/HCIILAB/M6Doc)]
 
 [[Back to Overview](#overview)]
 
@@ -2276,6 +2282,7 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
     * **M<sup>3</sup>L**: "Language-based Video Editing via Multi-Modal Multi-Level Transformer", CVPR, 2022 (*UCSB*). [[Paper](https://arxiv.org/abs/2104.01122)]
     * **Video-P2P**: "Video-P2P: Video Editing with Cross-attention Control", arXiv, 2023 (*CUHK*). [[Paper](https://arxiv.org/abs/2303.04761)][[Website](https://video-p2p.github.io/)]
     * **FateZero**: "FateZero: Fusing Attentions for Zero-shot Text-based Video Editing", arXiv, 2023 (*Tencent*). [[Paper](https://arxiv.org/abs/2303.09535)][[PyTorch](https://github.com/ChenyangQiQi/FateZero)][[Website](https://fate-zero-edit.github.io/)]
+    * **Make-A-Protagonist**: "Make-A-Protagonist: Generic Video Editing with An Ensemble of Experts", arXiv, 2023 (*Huawei*). [[Paper](https://arxiv.org/abs/2305.08850)][[PyTorch](https://github.com/Make-A-Protagonist/Make-A-Protagonist)][[Website](https://make-a-protagonist.github.io/)]
 * Video Summarization:
     * **GPT2MVS**: "GPT2MVS: Generative Pre-trained Transformer-2 for Multi-modal Video Summarization", ICMR, 2021 (*BBC*). [[Paper](https://arxiv.org/abs/2104.12465)]
     * **QVHighlights**: "QVHighlights: Detecting Moments and Highlights in Videos via Natural Language Queries", NeurIPS, 2021 (*UNC*). [[Paper](https://arxiv.org/abs/2107.09609)][[PyTorch](https://github.com/jayleicn/moment_detr)]
