@@ -577,6 +577,7 @@ If you find this repository useful, please consider citing this list:
     * **VTCC**: "Vision Transformer for Contrastive Clustering", arXiv, 2022 (*Sun Yat-sen University, China*). [[Paper](https://arxiv.org/abs/2206.12925)]
 * Novel Category Discovery:
     * **PromptCAL**: "PromptCAL: Contrastive Affinity Learning via Auxiliary Prompts for Generalized Novel Category Discovery", arXiv, 2022 (*MBZUAI*). [[Paper](https://arxiv.org/abs/2212.05590)][[Code (in construction)](https://github.com/sheng-eatamath/PromptCAL)]
+    * **CLIP-GCD**: "CLIP-GCD: Simple Language Guided Generalized Category Discovery", arXiv, 2023 (*Georgia Tech*). [[Paper](https://arxiv.org/abs/2305.10420)]
 
 [[Back to Overview](#overview)]
 
@@ -1159,6 +1160,7 @@ Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2207.11553)][[Cod
 * **PT**: "Open-Ended Medical Visual Question Answering Through Prefix Tuning of Language Models", arXiv, 2023 (*University of Amsterdam*). [[Paper](https://arxiv.org/abs/2303.05977)]
 * **PMC-CLIP**: "PMC-CLIP: Contrastive Language-Image Pre-training using Biomedical Documents", arXiv, 2023 (*Shanghai Jiao Tong*). [[Paper](https://arxiv.org/abs/2303.07240)]
 * **Q2ATransformer**: "Q2ATransformer: Improving Medical VQA via an Answer Querying Decoder", arXiv, 2023 (*The University of Sydney*). [[Paper](https://arxiv.org/abs/2304.01611)]
+* **PMC-VQA**: "PMC-VQA: Visual Instruction Tuning for Medical Visual Question Answering", arXiv, 2023 (*Shanghai Jiao Tong*). [[Paper](https://arxiv.org/abs/2305.10415)][[Code (in construction)](https://github.com/xiaoman-zhang/PMC-VQA)][[Website](https://xiaoman-zhang.github.io/PMC-VQA/)]
 
 [[Back to Overview](#overview)]
 
