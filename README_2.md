@@ -322,6 +322,7 @@ If you find this repository useful, please consider citing this list:
 * **DC-Former**: "DC-Former: Diverse and Compact Transformer for Person Re-Identification", AAAI, 2023 (*Ant Group*). [[Paper](https://arxiv.org/abs/2302.14335)][[PyTorch](https://github.com/ant-research/Diverse-and-Compact-Transformer)]
 * **TP-TPS**: "Exploiting the Textual Potential from Vision-Language Pre-training for Text-based Person Search", arXiv, 2023 (*Tencent*). [[Paper](https://arxiv.org/abs/2303.04497)]
 * **PLIP**: "PLIP: Language-Image Pre-training for Person Representation Learning", arXiv, 2023 (*Huazhong University of Science and Technology*). [[Paper](https://arxiv.org/abs/2305.08386)][[Code (in construction)](https://github.com/Zplusdragon/PLIP)]
+* **SSCP**: "Selecting Learnable Training Samples is All DETRs Need in Crowded Pedestrian Detection", arXiv, 2023 (*Chongqing University of Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2305.10801)]
 
 [[Back to Overview](#overview)]
 
@@ -1163,6 +1164,7 @@ If you find this repository useful, please consider citing this list:
 * **PMC-CLIP**: "PMC-CLIP: Contrastive Language-Image Pre-training using Biomedical Documents", arXiv, 2023 (*Shanghai Jiao Tong*). [[Paper](https://arxiv.org/abs/2303.07240)]
 * **Q2ATransformer**: "Q2ATransformer: Improving Medical VQA via an Answer Querying Decoder", arXiv, 2023 (*The University of Sydney*). [[Paper](https://arxiv.org/abs/2304.01611)]
 * **PMC-VQA**: "PMC-VQA: Visual Instruction Tuning for Medical Visual Question Answering", arXiv, 2023 (*Shanghai Jiao Tong*). [[Paper](https://arxiv.org/abs/2305.10415)][[Code (in construction)](https://github.com/xiaoman-zhang/PMC-VQA)][[Website](https://xiaoman-zhang.github.io/PMC-VQA/)]
+* **MedBLIP**: "MedBLIP: Bootstrapping Language-Image Pre-training from 3D Medical Images and Texts", arXiv, 2023 (*Shanghai Jiao Tong*). [[Paper](https://arxiv.org/abs/2305.10799)][[Code (in construction)](https://github.com/Qybc/MedBLIP)]
 
 [[Back to Overview](#overview)]
 
