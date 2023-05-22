@@ -146,6 +146,7 @@ If you find this repository useful, please consider citing this list:
 * **Swin3D**: "Swin3D: A Pretrained Transformer Backbone for 3D Indoor Scene Understanding", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2304.06906)]
 * **ViewFormer**: "ViewFormer: View Set Attention for Multi-view 3D Shape Understanding", arXiv, 2023 (*Renmin University of China*). [[Paper](https://arxiv.org/abs/2305.00161)]
 * **ULIP-2**: "ULIP-2: Towards Scalable Multimodal Pre-training For 3D Understanding", arXiv, 2023 (*Salesforce*). [[Paper](https://arxiv.org/abs/2305.08275)]
+* **PointGPT**: "PointGPT: Auto-regressively Generative Pre-training from Point Clouds", arXiv, 2023 (*Beijing Institute of Technology*). [[Paper](https://arxiv.org/abs/2305.11487)]
 
 [[Back to Overview](#overview)]
 
@@ -557,6 +558,7 @@ If you find this repository useful, please consider citing this list:
     * **GCAB-CFDC**: "Gated Class-Attention with Cascaded Feature Drift Compensation for Exemplar-free Continual Learning of Vision Transformers", arXiv, 2022 (*University of Pavia, Italy*). [[Paper](https://arxiv.org/abs/2211.12292)][[Code (in construction)](https://github.com/OcraM17/GCAB-CFDC)]
     * **CODA-Prompt**: "CODA-Prompt: COntinual Decomposed Attention-based Prompting for Rehearsal-Free Continual Learning", arXiv, 2022 (*IBM*). [[Paper](https://arxiv.org/abs/2211.13218)]
     * **PIVOT**: "PIVOT: Prompting for Video Continual Learning", arXiv, 2022 (*KAUST*). [[Paper](https://arxiv.org/abs/2212.04842)]
+    * **AttriCLIP**: "AttriCLIP: A Non-Incremental Learner for Incremental Knowledge Learning", CVPR, 2023 (*Beihang University*). [[Paper](https://arxiv.org/abs/2305.11488)][[PyTorch](https://github.com/bhrqw/AttriCLIP)]
     * **BiRT**: "BiRT: Bio-inspired Replay in Vision Transformers for Continual Learning", ICML, 2023 (*NavInfo, Netherlands*). [[Paper](https://arxiv.org/abs/2305.04769)]
     * **PromptFusion**: "PromptFusion: Decoupling Stability and Plasticity for Continual Learning", arXiv, 2023 (*Fudan*). [[Paper](https://arxiv.org/abs/2303.07223)]
     * **MSc-iNCD**: "Large-scale Pre-trained Models are Surprisingly Strong in Incremental Novel Class Discovery", arXiv, 2023 (*University of Trento, Italy*). [[Paper](https://arxiv.org/abs/2303.15975)][[PyTorch (in construction)](https://github.com/OatmealLiu/MSc-iNCD)]
@@ -607,6 +609,7 @@ If you find this repository useful, please consider citing this list:
     * **ART**: "Accurate Image Restoration with Attention Retractable Transformer", ICLR, 2023 (*Shanghai Jiao Tong University*). [[Paper](https://arxiv.org/abs/2210.01427)][[PyTorch](https://github.com/gladzhang/ART)]
     * **Burstormer**: "Burstormer: Burst Image Restoration and Enhancement Transformer", CVPR, 2023 (*MBZUAI*). [[Paper](https://arxiv.org/abs/2304.01194)][[Code (in construction)](https://github.com/akshaydudhane16/Burstormer)]
     * **MAEIP**: "Masked Autoencoders as Image Processors", arXiv, 2023 (*Shanghai Jiao Tong*). [[Paper](https://arxiv.org/abs/2303.17316)][[Code (in construction)](https://github.com/DuanHuiyu/MAEIP_CSformer)]
+    * **RAMiT**: "RAMiT: Reciprocal Attention Mixing Transformer for Lightweight Image Restoration", arXiv, 2023 (*Sogang University, Korea*). [[Paper](https://arxiv.org/abs/2305.11474)]
 * Super-Resolution:
     * **SAN**: "Second-Order Attention Network for Single Image Super-Resolution", CVPR, 2019 (*Tsinghua*). [[Paper](https://openaccess.thecvf.com/content_CVPR_2019/html/Dai_Second-Order_Attention_Network_for_Single_Image_Super-Resolution_CVPR_2019_paper.html)][[PyTorch](https://github.com/daitao/SAN)]
     * **CS-NL**: "Image Super-Resolution with Cross-Scale Non-Local Attention and Exhaustive Self-Exemplars Mining", CVPR, 2020 (*UIUC*). [[Paper](https://arxiv.org/abs/2006.01424)][[PyTorch](https://github.com/SHI-Labs/Cross-Scale-Non-Local-Attention)]
@@ -851,6 +854,7 @@ If you find this repository useful, please consider citing this list:
 * **Master**: "Master: Meta Style Transformer for Controllable Zero-Shot and Few-Shot Artistic Style Transfer", CVPR, 2023 (*NUS*). [[Paper](https://arxiv.org/abs/2304.11818)]
 * **pix2pix-zero**: "Zero-shot Image-to-Image Translation", arXiv, 2023 (*Adobe*). [[Paper](https://arxiv.org/abs/2302.03027)][[Code (in construction)](https://github.com/pix2pixzero/pix2pix-zero)][[Website](https://pix2pixzero.github.io/)]
 * **SpectralCLIP**: "SpectralCLIP: Preventing Artifacts in Text-Guided Style Transfer from a Spectral Perspective", arXiv, 2023 (*University of Trento, Italy*). [[Paper](https://arxiv.org/abs/2303.09270)][[Code (in construction)](https://github.com/zipengxuc/SpectralCLIP)]
+* **PGIC**: "A Unified Prompt-Guided In-Context Inpainting Framework for Reference-based Image Manipulations", arXiv, 2023 (*Fudan*). [[Paper](https://arxiv.org/abs/2305.11577)][[Code (in construction)](https://github.com/ewrfcas/PGIC_inpainting)]
 
 [[Back to Overview](#overview)]
 
