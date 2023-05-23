@@ -1569,6 +1569,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **PanoFormer**: "PanoFormer: Panorama Transformer for Indoor 360° Depth Estimation", ECCV, 2022 (*Beijing Jiaotong University*). [[Paper](https://arxiv.org/abs/2203.09283)]
     * **CoVisPose**: "CoVisPose: Co-Visibility Pose Transformer for Wide-Baseline Relative Pose Estimation in 360° Indoor Panoramas", ECCV, 2022 (*Zillow*). [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/5330_ECCV_2022_paper.php)]
     * **SPH**: "Spherical Transformer", arXiv, 2022 (*Chung-Ang University, Korea*). [[Paper](https://arxiv.org/abs/2202.04942)]
+    * **PanoContext-Former**: "PanoContext-Former: Panoramic Total Scene Understanding with a Transformer", arXiv, 2023 (*Alibaba*). [[Paper](https://arxiv.org/abs/2305.12497)]
 * Others:
     * **?**: "Connecting Compression Spaces with Transformer for Approximate Nearest Neighbor Search", ECCV, 2022 (*Intellifusion, China*). [[Paper](https://arxiv.org/abs/2107.14415)]
     * **?**: "Strong Gravitational Lensing Parameter Estimation with Vision Transformer", ECCVW, 2022 (*CMU*). [[Paper](https://arxiv.org/abs/2210.04143)][[PyTorch](https://github.com/kuanweih/strong_lensing_vit_resnet)]
