@@ -610,6 +610,7 @@ If you find this repository useful, please consider citing this list:
     * **Burstormer**: "Burstormer: Burst Image Restoration and Enhancement Transformer", CVPR, 2023 (*MBZUAI*). [[Paper](https://arxiv.org/abs/2304.01194)][[Code (in construction)](https://github.com/akshaydudhane16/Burstormer)]
     * **MAEIP**: "Masked Autoencoders as Image Processors", arXiv, 2023 (*Shanghai Jiao Tong*). [[Paper](https://arxiv.org/abs/2303.17316)][[Code (in construction)](https://github.com/DuanHuiyu/MAEIP_CSformer)]
     * **RAMiT**: "RAMiT: Reciprocal Attention Mixing Transformer for Lightweight Image Restoration", arXiv, 2023 (*Sogang University, Korea*). [[Paper](https://arxiv.org/abs/2305.11474)]
+    * **RAP**: "Restore Anything Pipeline: Segment Anything Meets Image Restoration", arXiv, 2023 (*ETHZ*). [[Paper](https://arxiv.org/abs/2305.13093)][[Code (in construction)](https://github.com/eth-siplab/RAP)]
 * Super-Resolution:
     * **SAN**: "Second-Order Attention Network for Single Image Super-Resolution", CVPR, 2019 (*Tsinghua*). [[Paper](https://openaccess.thecvf.com/content_CVPR_2019/html/Dai_Second-Order_Attention_Network_for_Single_Image_Super-Resolution_CVPR_2019_paper.html)][[PyTorch](https://github.com/daitao/SAN)]
     * **CS-NL**: "Image Super-Resolution with Cross-Scale Non-Local Attention and Exhaustive Self-Exemplars Mining", CVPR, 2020 (*UIUC*). [[Paper](https://arxiv.org/abs/2006.01424)][[PyTorch](https://github.com/SHI-Labs/Cross-Scale-Non-Local-Attention)]
@@ -824,6 +825,7 @@ If you find this repository useful, please consider citing this list:
 * **NUWA-XL**: "NUWA-XL: Diffusion over Diffusion for eXtremely Long Video Generation", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2303.12346)][[Website (in construction)](https://msra-nuwa.azurewebsites.net/)]
 * **CAT-NeRF**: "CAT-NeRF: Constancy-Aware Tx<sup>2</sup>Former for Dynamic Body Modeling", arXiv, 2023 (*USC*). [[Paper](https://arxiv.org/abs/2304.07915)]
 * **IconShop**: "IconShop: Text-Based Vector Icon Synthesis with Autoregressive Transformers", arXiv, 2023 (*CUHK*). [[Paper](https://arxiv.org/abs/2304.14400)][[Code (in construction)](https://github.com/kingnobro/IconShop)][[Website](https://kingnobro.github.io/iconshop/)]
+* **VDT**: "VDT: An Empirical Study on Video Diffusion with Transformers", arXiv, 2023 (*Renmin University of China*). [[Paper](https://arxiv.org/abs/2305.13311)][[PyTorch](https://github.com/RERV/VDT)]
 
 [[Back to Overview](#overview)]
 
