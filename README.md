@@ -638,6 +638,7 @@ If you find this repository useful, please consider citing this list:
 * **TPS**: "Joint Token Pruning and Squeezing Towards More Aggressive Compression of Vision Transformers", CVPR, 2023 (*Megvii*). [[Paper](https://arxiv.org/abs/2304.10716)][[Code (in construction)](https://github.com/megvii-research/TPS-CVPR2023)]
 * **GPUSQ-ViT**: "Boost Vision Transformer with GPU-Friendly Sparsity and Quantization", CVPR, 2023 (*Fudan*). [[Paper](https://arxiv.org/abs/2305.10727)]
 * **Q-HyViT**: "Q-HyViT: Post-Training Quantization for Hybrid Vision Transformer with Bridge Block Reconstruction", arXiv, 2023 (*Electronics and Telecommunications Research Institute (ETRI), Korea*). [[Paper](https://arxiv.org/abs/2303.12557)]
+* **Bi-ViT**: "Bi-ViT: Pushing the Limit of Vision Transformer Quantization", arXiv, 2023 (*Beihang University*). [[Paper](https://arxiv.org/abs/2305.12354)]
 
 [[Back to Overview](#overview)]
 
@@ -997,6 +998,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **RelTransformer**: "RelTransformer: A Transformer-Based Long-Tail Visual Relationship Recognition", CVPR, 2022 (*KAUST*). [[Paper](https://arxiv.org/abs/2104.11934)][[PyTorch](https://github.com/Vision-CAIR/RelTransformer)]
     * **VReBERT**: "VReBERT: A Simple and Flexible Transformer for Visual Relationship Detection", ICPR, 2022 (*ANU*). [[Paper](https://arxiv.org/abs/2206.09111)]
     * **UniVRD**: "Unified Visual Relationship Detection with Vision and Language Models", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2303.08998)]
+    * **RECODE**: "Zero-shot Visual Relation Detection via Composite Visual Cues from Large Language Models", arXiv, 2023 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2305.12476)]
 * Anomaly Detection:
     * **VT-ADL**: "VT-ADL: A Vision Transformer Network for Image Anomaly Detection and Localization", ISIE, 2021 (*University of Udine, Italy*). [[Paper](https://arxiv.org/abs/2104.10036)]
     * **InTra**: "Inpainting Transformer for Anomaly Detection", arXiv, 2021 (*Fujitsu*). [[Paper](https://arxiv.org/abs/2104.13897)]
@@ -1154,6 +1156,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **ZegCLIP**: "ZegCLIP: Towards Adapting CLIP for Zero-shot Semantic Segmentation", arXiv, 2022 (*The University of Adelaide, Australia*). [[Paper](https://arxiv.org/abs/2212.03588)][[PyTorch (in construction)](https://github.com/ZiqinZhou66/ZegCLIP)]
     * **ViewCo**: "ViewCo: Discovering Text-Supervised Segmentation Masks via Multi-View Semantic Consistency", ICLR, 2023 (*Sun Yat-sen University*). [[Paper](https://arxiv.org/abs/2302.10307)][[Code (in construction)](https://github.com/pzhren/ViewCo)]
     * **LMSeg**: "LMSeg: Language-guided Multi-dataset Segmentation", ICLR, 2023 (*Alibaba*). [[Paper](https://arxiv.org/abs/2302.13495)]
+    * **VL-Fields**: "VL-Fields: Towards Language-Grounded Neural Implicit Spatial Representations", ICRA, 2023 (*University of Edinburgh, UK*). [[Paper](https://arxiv.org/abs/2305.12427)][[Website](https://tsagkas.github.io/vl-fields/)]
     * **X-Decoder**: "Generalized Decoding for Pixel, Image, and Language", CVPR, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2212.11270)][[PyTorch](https://github.com/microsoft/X-Decoder)][[Website](https://x-decoder-vl.github.io/)]
     * **IFSeg**: "IFSeg: Image-free Semantic Segmentation via Vision-Language Model", CVPR, 2023 (*KAIST*). [[Paper](https://arxiv.org/abs/2303.14396)][[Code (in construction)](https://github.com/alinlab/ifseg)]
     * **SAZS**: "Delving into Shape-aware Zero-shot Semantic Segmentation", CVPR, 2023 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2304.08491)][[PyTorch](https://github.com/Liuxinyv/SAZS)]
@@ -1379,6 +1382,7 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
     * **SMViT**: "Simple MViT: A Hierarchical Vision Transformer without the Bells-and-Whistles", ICML, 2023 (*Meta*). [[Paper](https://omidpoursaeed.github.io/publication/smvit/)]
     * **BEAR**: "A Large-scale Study of Spatiotemporal Representation Learning with a New Benchmark on Action Recognition", arXiv, 2023 (*UCF*). [[Paper](https://arxiv.org/abs/2303.13505)][[GitHub](https://github.com/AndongDeng/BEAR)]
     * **SVT**: "SVT: Supertoken Video Transformer for Efficient Video Understanding", arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2304.00325)]
+    * **PLAR**: "Prompt Learning for Action Recognition", arXiv, 2023 (*Maryland*). [[Paper](https://arxiv.org/abs/2305.12437)]
 * Depth:
     * **Trear**: "Trear: Transformer-based RGB-D Egocentric Action Recognition",  IEEE Transactions on Cognitive and Developmental Systems, 2021 (*Tianjing University*). [[Paper](https://ieeexplore.ieee.org/document/9312201)]
 * Pose/Skeleton:
@@ -1701,6 +1705,7 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
     * **VLTinT**: "VLTinT: Visual-Linguistic Transformer-in-Transformer for Coherent Video Paragraph Captioning", AAAI, 2023 (*University of Arkansas*). [[Paper](https://arxiv.org/abs/2211.15103)]
     * **Vid2Seq**: "Vid2Seq: Large-Scale Pretraining of a Visual Language Model for Dense Video Captioning", CVPR, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2302.14115)][[Website](https://antoyang.github.io/vid2seq.html)]
     * **TextKG**: "Text with Knowledge Graph Augmented Transformer for Video Captioning", CVPR, 2023 (*ByteDance*). [[Paper](https://arxiv.org/abs/2303.12423)]
+    * **Movie101**: "Movie101: A New Movie Understanding Benchmark", ACL, 2023 (*Renmin University of China*). [[Paper](https://arxiv.org/abs/2305.12140)][[Code (in construction)](https://github.com/yuezih/Movie101)]
     * **?**: "Implicit and Explicit Commonsense for Multi-sentence Video Captioning", arXiv, 2023 (*UBC*). [[Paper](https://arxiv.org/abs/2303.07545)]
     * **Video-Verbalization**: "A Video Is Worth 4096 Tokens: Verbalize Story Videos To Understand Them In Zero Shot", arXiv, 2023 (*Adobe*). [[Paper](https://arxiv.org/abs/2305.09758)]
 
@@ -1977,6 +1982,7 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
     * **IMP**: "Alternating Gradient Descent and Mixture-of-Experts for Integrated Multimodal Perception", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2305.06324)]
     * **Musketeer**: "Musketeer (All for One, and One for All): A Generalist Vision-Language Model with Task Explanation Prompts", arXiv, 2023 (*Amazon*). [[Paper](https://arxiv.org/abs/2305.07019)]
     * **Mod-X**: "Continual Vision-Language Representaion Learning with Off-Diagonal Information", arXiv, 2023 (*Huawei*). [[Paper](https://arxiv.org/abs/2305.07437)]
+    * **GVT**: "What Makes for Good Visual Tokenizers for Large Language Models?", arXiv, 2023 (*Tencent*). [[Paper](https://arxiv.org/abs/2305.12223)][[Code (in construction)](https://github.com/TencentARC/GVT)]
 * Video:
     * **COOT**: "COOT: Cooperative Hierarchical Transformer for Video-Text Representation Learning", NeurIPS, 2020 (*University of Freiburg*). [[Paper](https://arxiv.org/abs/2011.00597)][[PyTorch](https://github.com/gingsi/coot-videotext)]
     * **Parameter-Reduction**: "Parameter Efficient Multimodal Transformers for Video Representation Learning", ICLR, 2021 (*Seoul National University*). [[Paper](https://openreview.net/forum?id=6UdQLhqJyFD)]
@@ -2017,6 +2023,7 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
     * **UMT**: "Unmasked Teacher: Towards Training-Efficient Video Foundation Models", arXiv, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2303.16058)][[Code (in construction)](https://github.com/OpenGVLab/unmasked_teacher)]
     * **G-ViLM**: "Spatiotemporally Discriminative Video-Language Pre-Training with Text Grounding", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2303.16341)]
     * **VLAB**: "VLAB: Enhancing Video Language Pre-training by Feature Adapting and Blending", arXiv, 2023 (*ByteDance*). [[Paper](https://arxiv.org/abs/2305.13167)]
+    * **i-Code-V2**: "i-Code V2: An Autoregressive Generation Framework over Vision, Language, and Speech Data", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2305.12311)][[PyTorch (in construction)](https://github.com/microsoft/i-Code/tree/main/i-Code-V2)]
 * 3D:
     * **CLIP<sup>2</sup>**: "CLIP<sup>2</sup>: Contrastive Language-Image-Point Pretraining from Real-World Point Cloud Data", arXiv, 2023 (*Huawei*). [[Paper](https://arxiv.org/abs/2303.12417)]
     * **RegionPLC**: "RegionPLC: Regional Point-Language Contrastive Learning for Open-World 3D Scene Understanding", arXiv, 2023 (*HKU*). [[Paper](https://arxiv.org/abs/2304.00962)][[Website](https://jihanyang.github.io/projects/RegionPLC)]
@@ -2151,6 +2158,7 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
     * **FastComposer**: "FastComposer: Tuning-Free Multi-Subject Image Generation with Localized Attention", arXiv, 2023 (*MIT*). [[Paper](https://arxiv.org/abs/2305.10431)][[PyTorch](https://github.com/mit-han-lab/fastcomposer)][[Website](https://fastcomposer.mit.edu/)]
     * **LLMScore**: "LLMScore: Unveiling the Power of Large Language Models in Text-to-Image Synthesis Evaluation", arXiv, 2023 (*UCSB*). [[Paper](https://arxiv.org/abs/2305.11116)][[PyTorch](https://github.com/YujieLu10/LLMScore)]
     * **CoDi**: "Any-to-Any Generation via Composable Diffusion", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2305.11846)][[PyTorch](https://github.com/microsoft/i-Code/tree/main/i-Code-V3)][[Website](https://codi-gen.github.io/)]
+    * **?**: "The CLIP Model is Secretly an Image-to-Prompt Converter", arXiv, 2023 (*Xidian University*). [[Paper](https://arxiv.org/abs/2305.12716)]
 * Video:
     * **Imagen-Video**: "Imagen Video: High Definition Video Generation with Diffusion Models", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2210.02303)][[Website](https://imagen.research.google/video/)]
     * **Phenaki**: "Phenaki: Variable Length Video Generation From Open Domain Textual Description", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2210.02399)][[PyTorch (LAION-AI, in construction)](https://github.com/LAION-AI/phenaki)][[Website](https://phenaki.video/)]
@@ -2445,6 +2453,8 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
     * **CADG**: "Vision Meets Definitions: Unsupervised Visual Word Sense Disambiguation Incorporating Gloss Information", ACL, 2023 (*UMass*). [[Paper](https://arxiv.org/abs/2305.01788)]
 * Object Hallucination:
     * **POPE**: "Evaluating Object Hallucination in Large Vision-Language Models", arXiv, 2023 (*Renmin University of China*). [[Paper](https://arxiv.org/abs/2305.10355)][[Code (in construction)](https://github.com/RUCAIBox/POPE)]
+* Social Interaction:
+    * **HIINT**: "HIINT: Historical, Intra- and Inter- personal Dynamics Modeling with Cross-person Memory Transformer", arXiv, 2023 (*MIT*). [[Paper](https://arxiv.org/abs/2305.12369)]
 
 
 [[Back to Overview](#overview)]
