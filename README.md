@@ -123,6 +123,7 @@ If you find this repository useful, please consider citing this list:
 ---
 
 ## Survey
+* "Multimodal Learning With Transformers: A Survey", TPAMI, 2023 (*Tsinghua & Oxford*). [[Paper](https://arxiv.org/abs/2206.06488)]
 * "A Survey of Visual Transformers", TNNLS, 2023 (*CAS*). [[Paper](https://arxiv.org/abs/2111.06091)]
 * "Visual Question Answering: A Survey on Techniques and Common Trends in Recent Literature", arXiv, 2023 (*Eldorado’s Institute of Technology, Brazil*). [[Paper](https://arxiv.org/abs/2305.11033)]
 * "Vision-Language Models in Remote Sensing: Current Progress and Future Trends", arXiv, 2023 (*NYU*). [[Paper](https://arxiv.org/abs/2305.05726)]
