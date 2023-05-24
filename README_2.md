@@ -284,6 +284,7 @@ If you find this repository useful, please consider citing this list:
     * **OVTrack**: "OVTrack: Open-Vocabulary Multiple Object Tracking", CVPR, 2023 (*ETHZ*). [[Paper](https://arxiv.org/abs/2304.08408)]
     * **SeqTrack**: "SeqTrack: Sequence to Sequence Learning for Visual Object Tracking", CVPR, 2023 (*Dalian University of Technology*). [[Paper](https://arxiv.org/abs/2304.14394)][[PyTorch](https://github.com/microsoft/VideoX/tree/master/SeqTrack)]
     * **TCOW**: "Tracking through Containers and Occluders in the Wild", CVPR, 2023 (*Columbia*). [[Paper](https://arxiv.org/abs/2305.03052)][[Code (in construction)](https://github.com/basilevh/tcow)][[Website](https://tcow.cs.columbia.edu/)]
+    * **MOTRv3**: "MOTRv3: Release-Fetch Supervision for End-to-End Multi-Object Tracking", arXiv, 2023 (*Megvii*). [[Paper](https://arxiv.org/abs/2305.14298)]
 * 3D:
     * **STNet**: "3D Siamese Transformer Network for Single Object Tracking on Point Clouds", ECCV, 2022 (*Nanjing University of Science and Technology*). [[Paper](https://arxiv.org/abs/2207.11995)][[PyTorch](https://github.com/fpthink/STNet)]
     * **CMT**: "CMT: Context-Matching-Guided Transformer for 3D Tracking in Point Clouds", ECCV, 2022 (*USTC*). [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/1253_ECCV_2022_paper.php)]
@@ -956,6 +957,7 @@ If you find this repository useful, please consider citing this list:
 * **VLN-SIG**: "Improving Vision-and-Language Navigation by Generating Future-View Image Semantics", CVPR, 2023 (*UNC*). [[Paper](https://arxiv.org/abs/2304.04907)][[PyTorch](https://github.com/jialuli-luka/VLN-SIG)][[Website](https://jialuli-luka.github.io/VLN-SIG)]
 * **MLANet**: "MLANet: Multi-Level Attention Network with Sub-instruction for Continuous Vision-and-Language Navigation", arXiv, 2023 (*Tongji University*). [[Paper](https://arxiv.org/abs/2303.01396)][[PyTorch](https://github.com/RavenKiller/MLA)]
 * **ENTL**: "ENTL: Embodied Navigation Trajectory Learner", arXiv, 2023 (*AI2*). [[Paper](https://arxiv.org/abs/2304.02639)]
+* **MPM**: "Masked Path Modeling for Vision-and-Language Navigation", arXiv, 2023 (*UCLA*). [[Paper](https://arxiv.org/abs/2305.14268)]
 
 [[Back to Overview](#overview)]
 
