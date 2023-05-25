@@ -123,6 +123,7 @@ If you find this repository useful, please consider citing this list:
 ---
 
 ## Survey
+* "Vision + Language Applications: A Survey", CVPRW, 2023 (*Ritsumeikan University, Japan*). [[Paper](https://arxiv.org/abs/2305.14598)][[GitHub](https://github.com/Yutong-Zhou-cv/Awesome-Text-to-Image)]
 * "Multimodal Learning With Transformers: A Survey", TPAMI, 2023 (*Tsinghua & Oxford*). [[Paper](https://arxiv.org/abs/2206.06488)]
 * "A Survey of Visual Transformers", TNNLS, 2023 (*CAS*). [[Paper](https://arxiv.org/abs/2111.06091)]
 * "Visual Question Answering: A Survey on Techniques and Common Trends in Recent Literature", arXiv, 2023 (*Eldorado’s Institute of Technology, Brazil*). [[Paper](https://arxiv.org/abs/2305.11033)]
@@ -640,6 +641,7 @@ If you find this repository useful, please consider citing this list:
 * **GPUSQ-ViT**: "Boost Vision Transformer with GPU-Friendly Sparsity and Quantization", CVPR, 2023 (*Fudan*). [[Paper](https://arxiv.org/abs/2305.10727)]
 * **Q-HyViT**: "Q-HyViT: Post-Training Quantization for Hybrid Vision Transformer with Bridge Block Reconstruction", arXiv, 2023 (*Electronics and Telecommunications Research Institute (ETRI), Korea*). [[Paper](https://arxiv.org/abs/2303.12557)]
 * **Bi-ViT**: "Bi-ViT: Pushing the Limit of Vision Transformer Quantization", arXiv, 2023 (*Beihang University*). [[Paper](https://arxiv.org/abs/2305.12354)]
+* **BinaryViT**: "BinaryViT: Towards Efficient and Accurate Binary Vision Transformers", arXiv, 2023 (*CAS*). [[Paper](https://arxiv.org/abs/2305.14730)]
 
 [[Back to Overview](#overview)]
 
@@ -1777,6 +1779,7 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
     * **VCSR**: "Visual Causal Scene Refinement for Video Question Answering", arXiv, 2023 (*Sun-Yat-Sen University*). [[Paper](https://arxiv.org/abs/2305.04224)]
     * **SeeTRUE**: "What You See is What You Read? Improving Text-Image Alignment Evaluation", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2305.10400)][[PyTorch](https://github.com/yonatanbitton/wysiwyr)][[Website](https://wysiwyr-itm.github.io/)]
     * **JADE**: "Enhancing Vision-Language Pre-Training with Jointly Learned Questioner and Dense Captioner", arXiv, 2023 (*CAS*). [[Paper](https://arxiv.org/abs/2305.11769)]
+    * **NuScenes-QA**: "NuScenes-QA: A Multi-modal Visual Question Answering Benchmark for Autonomous Driving Scenario", arXiv, 2023 (*Fudan*). [[Paper](https://arxiv.org/abs/2305.14836)][[Code (in construction)](https://github.com/qiantianwen/NuScenes-QA)]
 * Video:
     * **?**: "Mounting Video Metadata on Transformer-based Language Model for Open-ended Video Question Answering", arXiv, 2021 (*Seoul National University*). [[Paper](https://arxiv.org/abs/2108.05158)]
     * **TPT**: "Temporal Pyramid Transformer with Multimodal Interaction for Video Question Answering", arXiv, 2021 (*CAS*). [[Paper](https://arxiv.org/abs/2109.04735)]
@@ -1989,6 +1992,7 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
     * **GVT**: "What Makes for Good Visual Tokenizers for Large Language Models?", arXiv, 2023 (*Tencent*). [[Paper](https://arxiv.org/abs/2305.12223)][[Code (in construction)](https://github.com/TencentARC/GVT)]
     * **S-CLIP**: "S-CLIP: Semi-supervised Vision-Language Pre-training using Few Specialist Captions", arXiv, 2023 (*KAIST*). [[Paper](https://arxiv.org/abs/2305.14095)]
     * **VisorGPT**: "VisorGPT: Learning Visual Prior via Generative Pre-Training", arXiv, 2023 (*NUS*). [[Paper](https://arxiv.org/abs/2305.13777)][[Code (in construction)](https://github.com/Sierkinhane/VisorGPT)][[Website](https://sierkinhane.github.io/visor-gpt/)]
+    * **IdealGPT**: "IdealGPT: Iteratively Decomposing Vision and Language Reasoning via Large Language Models", arXiv, 2023 (*Columbia University*). [[Paper](https://arxiv.org/abs/2305.14985)][[PyTorch](https://github.com/Hxyou/IdealGPT)]
 * Video:
     * **COOT**: "COOT: Cooperative Hierarchical Transformer for Video-Text Representation Learning", NeurIPS, 2020 (*University of Freiburg*). [[Paper](https://arxiv.org/abs/2011.00597)][[PyTorch](https://github.com/gingsi/coot-videotext)]
     * **Parameter-Reduction**: "Parameter Efficient Multimodal Transformers for Video Representation Learning", ICLR, 2021 (*Seoul National University*). [[Paper](https://openreview.net/forum?id=6UdQLhqJyFD)]
@@ -2168,6 +2172,8 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
     * **CoDi**: "Any-to-Any Generation via Composable Diffusion", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2305.11846)][[PyTorch](https://github.com/microsoft/i-Code/tree/main/i-Code-V3)][[Website](https://codi-gen.github.io/)]
     * **?**: "The CLIP Model is Secretly an Image-to-Prompt Converter", arXiv, 2023 (*Xidian University*). [[Paper](https://arxiv.org/abs/2305.12716)]
     * **PoS-subspaces**: "Parts of Speech-Grounded Subspaces in Vision-Language Models", arXiv, 2023 (*Queen Mary University of London*). [[Paper](https://arxiv.org/abs/2305.14053)][[PyTorch (in construction)](https://github.com/james-oldfield/PoS-subspaces)][[Website](http://eecs.qmul.ac.uk/~jo001/PoS-subspaces/)]
+    * **VPGen**: "Visual Programming for Text-to-Image Generation and Evaluation", arXiv, 2023 (*UNC*). [[Paper](https://arxiv.org/abs/2305.15328)][[PyTorch](https://github.com/j-min/VPGen)][[Website](https://vp-t2i.github.io/)]
+    * **BLIP-Diffusion**: "BLIP-Diffusion: Pre-trained Subject Representation for Controllable Text-to-Image Generation and Editing", arXiv, 2023 (*Salesforce*). [[Paper](https://arxiv.org/abs/2305.14720)][[Code (in construction)](https://github.com/salesforce/LAVIS/tree/main/projects/blip-diffusion)][[Website](https://dxli94.github.io/BLIP-Diffusion-website/)]
 * Video:
     * **Imagen-Video**: "Imagen Video: High Definition Video Generation with Diffusion Models", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2210.02303)][[Website](https://imagen.research.google/video/)]
     * **Phenaki**: "Phenaki: Variable Length Video Generation From Open Domain Textual Description", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2210.02399)][[PyTorch (LAION-AI, in construction)](https://github.com/LAION-AI/phenaki)][[Website](https://phenaki.video/)]
@@ -2239,6 +2245,7 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
 * **PMPO**: "Multi-Prompt with Depth Partitioned Cross-Modal Learning", arXiv, 2023 (*CAS*). [[Paper](https://arxiv.org/abs/2305.06221)]
 * **Aurora**: "Mode Approximation Makes Good Vision-Language Prompts", arXiv, 2023 (*Peking*). [[Paper](https://arxiv.org/abs/2305.08381)][[PyTorch](https://github.com/WillDreamer/Aurora)]
 * **DSD**: "Discriminative Diffusion Models as Few-shot Vision and Language Learners", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2305.10722)]
+* **PLID**: "Prompting Language-Informed Distribution for Compositional Zero-Shot Learning", arXiv, 2023 (*Michigan State*). [[Paper](https://arxiv.org/abs/2305.14428)]
 
 [[Back to Overview](#overview)]
 
@@ -2443,6 +2450,8 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
     * **VideoChat**: "VideoChat: Chat-Centric Video Understanding", arXiv, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2305.06355)][[PyTorch](https://github.com/OpenGVLab/Ask-Anything)]
     * **InstructBLIP**: "InstructBLIP: Towards General-purpose Vision-Language Models with Instruction Tuning", arXiv, 2023 (*Salesforce*). [[Paper](https://arxiv.org/abs/2305.06500)][[PyTorch](https://github.com/salesforce/LAVIS/tree/main/projects/instructblip)]
     * **ArtGPT-4**: "ArtGPT-4: Artistic Vision-Language Understanding with Adapter-enhanced MiniGPT-4", arXiv, 2023 (*Anhui Polytechnic University*). [[Paper](https://arxiv.org/abs/2305.07490)][[PyTorch](https://github.com/DLYuanGod/ArtGPT-4)]
+    * **EmbodiedGPT**: "EmbodiedGPT: Vision-Language Pre-Training via Embodied Chain of Thought", arXiv, 2023 (*HKU*). [[Paper](https://arxiv.org/abs/2305.15021)][[PyTorch (in construction)](https://github.com/EmbodiedGPT/EmbodiedGPT_Pytorch)][[Website](https://embodiedgpt.github.io/)]
+    * **LaVIN**: "Cheap and Quick: Efficient Vision-Language Instruction Tuning for Large Language Models", arXiv, 2023 (*Xiamen University*). [[Paper](https://arxiv.org/abs/2305.15023)][[PyTorch](https://github.com/luogen1996/LaVIN)][[Website](https://luogen1996.github.io/lavin/)]
 * Visual Abductive Reasoning:
     * **RPT**: "Fine-Grained Regional Prompt Tuning for Visual Abductive Reasoning", arXiv, 2023 (*A\*STAR*). [[Paper](https://arxiv.org/abs/2303.10428)]
 * Tracking:
