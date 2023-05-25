@@ -1252,6 +1252,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **MATRN**: "Multi-modal Text Recognition Networks: Interactive Enhancements between Visual and Semantic Features", ECCV, 2022 (*KAIST*). [[Paper](https://arxiv.org/abs/2111.15263)][[PyTorch](https://github.com/byeonghu-na/MATRN)]
     * **CONSENT**: "CONSENT: Context Sensitive Transformer for Bold Words Classification", arXiv, 2022 (*Amazon*). [[Paper](https://arxiv.org/abs/2205.07683)]
     * **DeepVecFont-v2**: "DeepVecFont-v2: Exploiting Transformers to Synthesize Vector Fonts with Higher Quality", CVPR, 2023 (*Peking University*). [[Paper](https://arxiv.org/abs/2303.14585)][[Code (in construction)](https://github.com/yizhiwang96/deepvecfont-v2)]
+    * **CLIP4STR**: "CLIP4STR: A Simple Baseline for Scene Text Recognition with Pre-trained Vision-Language Model", arXiv, 2023 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2305.14014)]
 * Curriculum Learning:
     * **SSTN**: "Spatial Transformer Networks for Curriculum Learning", arXiv, 2021 (*TU Kaiserslautern, Germany*). [[Paper](https://arxiv.org/abs/2108.09696)]
 * Defect Classification:
