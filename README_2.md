@@ -798,6 +798,7 @@ If you find this repository useful, please consider citing this list:
 * **StraIT**: "StraIT: Non-autoregressive Generation with Stratified Image Transformer", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2303.00750)]
 * **MDT**: "Masked Diffusion Transformer is a Strong Image Synthesizer", arXiv, 2023 (*Sea AI Lab*). [[Paper](https://arxiv.org/abs/2303.14389)][[PyTorch](https://github.com/sail-sg/MDT)]
 * **MMoT**: "MMoT: Mixture-of-Modality-Tokens Transformer for Composed Multimodal Conditional Image Synthesis", arXiv, 2023 (*South China University of Technology*). [[Paper](https://arxiv.org/abs/2305.05992)][[PyTorch (in construction)](https://github.com/jabir-zheng/MMoT-Transformer)][[Website](https://jabir-zheng.github.io/MMoT/)]
+* **LayoutGPT**: "LayoutGPT: Compositional Visual Planning and Generation with Large Language Models", arXiv, 2023 (*UCSB*). [[Paper](https://arxiv.org/abs/2305.15393)][[Code (in construction)](https://github.com/weixi-feng/LayoutGPT)]
 
 [[Back to Overview](#overview)]
 
@@ -896,6 +897,7 @@ If you find this repository useful, please consider citing this list:
     * **MatteFormer**: "MatteFormer: Transformer-Based Image Matting via Prior-Tokens", CVPR, 2022 (*SNU + NAVER*). [[Paper](https://arxiv.org/abs/2203.15662)][[PyTorch](https://github.com/webtoon/matteformer)]
     * **TransMatting**: "TransMatting: Enhancing Transparent Objects Matting with Transformers", ECCV, 2022 (*CAS*). [[Paper](https://arxiv.org/abs/2208.03007)][[Code (in construction)](https://github.com/AceCHQ/TransMatting)]
     * **VMFormer**: "VMFormer: End-to-End Video Matting with Transformer", arXiv, 2022 (*PicsArt*). [[Paper](https://arxiv.org/abs/2208.12801)][[PyTorch](https://github.com/SHI-Labs/VMFormer)][[Website](https://chrisjuniorli.github.io/project/VMFormer/)]
+    * **ViTMatte**: "ViTMatte: Boosting Image Matting with Pretrained Plain Vision Transformers", arXiv, 2023 (*Xiaobing.AI*). [[Paper](https://arxiv.org/abs/2305.15272)]
 * Reconstruction
     * **ET-Net**: "Event-Based Video Reconstruction Using Transformer", ICCV, 2021 (*University of Science and Technology of China*). [[Paper](https://openaccess.thecvf.com/content/ICCV2021/html/Weng_Event-Based_Video_Reconstruction_Using_Transformer_ICCV_2021_paper.html)][[PyTorch](https://github.com/WarranWeng/ET-Net)]
     * **GradViT**: "GradViT: Gradient Inversion of Vision Transformers", CVPR, 2022 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2203.11894)][[Website](https://gradvit.github.io/)]
@@ -1293,6 +1295,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **OpenGlue**: "OpenGlue: Open Source Graph Neural Net Based Pipeline for Image Matching", arXiv, 2022 (*Ukrainian Catholic University*). [[Paper](https://arxiv.org/abs/2204.08870)][[PyTorch](https://github.com/ucuapps/OpenGlue)]
     * **ParaFormer**: "ParaFormer: Parallel Attention Transformer for Efficient Feature Matching", AAAI, 2023 (*Southeast University, China*). [[Paper](https://arxiv.org/abs/2303.00941)]
     * **ASTR**: "Adaptive Spot-Guided Transformer for Consistent Local Feature Matching", CVPR, 2023 (*USTC*). [[Paper](https://arxiv.org/abs/2303.16624)][[Website](https://astr2023.github.io/)]
+    * **Fuse-ViT**: "A Tale of Two Features: Stable Diffusion Complements DINO for Zero-Shot Semantic Correspondence", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2305.15347)][[Website](https://sd-complements-dino.github.io/)]
 * Fine-grained:
     * **ViT-FGVC**: "Exploring Vision Transformers for Fine-grained Classification", CVPRW, 2021 (*Universidad de Valladolid*). [[Paper](https://arxiv.org/abs/2106.10587)]
     * **FFVT**: "Feature Fusion Vision Transformer for Fine-Grained Visual Categorization", BMVC, 2021 (*Griffith University, Australia*). [[Paper](https://arxiv.org/abs/2107.02341)][[PyTorch](https://github.com/Markin-Wang/FFVT)]
