@@ -285,6 +285,7 @@ If you find this repository useful, please consider citing this list:
     * **SeqTrack**: "SeqTrack: Sequence to Sequence Learning for Visual Object Tracking", CVPR, 2023 (*Dalian University of Technology*). [[Paper](https://arxiv.org/abs/2304.14394)][[PyTorch](https://github.com/microsoft/VideoX/tree/master/SeqTrack)]
     * **TCOW**: "Tracking through Containers and Occluders in the Wild", CVPR, 2023 (*Columbia*). [[Paper](https://arxiv.org/abs/2305.03052)][[Code (in construction)](https://github.com/basilevh/tcow)][[Website](https://tcow.cs.columbia.edu/)]
     * **MOTRv3**: "MOTRv3: Release-Fetch Supervision for End-to-End Multi-Object Tracking", arXiv, 2023 (*Megvii*). [[Paper](https://arxiv.org/abs/2305.14298)]
+    * **MixFormerV2**: "MixFormerV2: Efficient Fully Transformer Tracking", arXiv, 2023 (*Nanjing University*). [[Paper](https://arxiv.org/abs/2305.15896)][[PyTorch](https://github.com/MCG-NJU/MixFormerV2)]
 * 3D:
     * **STNet**: "3D Siamese Transformer Network for Single Object Tracking on Point Clouds", ECCV, 2022 (*Nanjing University of Science and Technology*). [[Paper](https://arxiv.org/abs/2207.11995)][[PyTorch](https://github.com/fpthink/STNet)]
     * **CMT**: "CMT: Context-Matching-Guided Transformer for 3D Tracking in Point Clouds", ECCV, 2022 (*USTC*). [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/1253_ECCV_2022_paper.php)]
