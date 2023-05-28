@@ -2484,6 +2484,8 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
     * **POPE**: "Evaluating Object Hallucination in Large Vision-Language Models", arXiv, 2023 (*Renmin University of China*). [[Paper](https://arxiv.org/abs/2305.10355)][[Code (in construction)](https://github.com/RUCAIBox/POPE)]
 * Social Interaction:
     * **HIINT**: "HIINT: Historical, Intra- and Inter- personal Dynamics Modeling with Cross-person Memory Transformer", arXiv, 2023 (*MIT*). [[Paper](https://arxiv.org/abs/2305.12369)]
+* Benchmark:
+    * **Perception-Test**: "Perception Test: A Diagnostic Benchmark for Multimodal Video Models", arXiv, 2023 (*DeepMind*). [[Paper](https://arxiv.org/abs/2305.13786)][[GitHub](https://github.com/deepmind/perception_test)] 
 
 
 [[Back to Overview](#overview)]
