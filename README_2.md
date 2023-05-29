@@ -958,9 +958,11 @@ If you find this repository useful, please consider citing this list:
 * **LANA**: "Lana: A Language-Capable Navigator for Instruction Following and Generation", CVPR, 2023 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2303.08409)][[Code (in construction)](https://github.com/wxh1996/LANA-VLN)]
 * **KERM**: "KERM: Knowledge Enhanced Reasoning for Vision-and-Language Navigation", CVPR, 2023 (*CAS*). [[Paper](https://arxiv.org/abs/2303.15796)][[PyTorch](https://github.com/XiangyangLi20/KERM)]
 * **VLN-SIG**: "Improving Vision-and-Language Navigation by Generating Future-View Image Semantics", CVPR, 2023 (*UNC*). [[Paper](https://arxiv.org/abs/2304.04907)][[PyTorch](https://github.com/jialuli-luka/VLN-SIG)][[Website](https://jialuli-luka.github.io/VLN-SIG)]
+* **GeoVLN**: "GeoVLN: Learning Geometry-Enhanced Visual Representation with Slot Attention for Vision-and-Language Navigation", CVPR, 2023 (*Fudan*). [[Paper](https://arxiv.org/abs/2305.17102)]
 * **MLANet**: "MLANet: Multi-Level Attention Network with Sub-instruction for Continuous Vision-and-Language Navigation", arXiv, 2023 (*Tongji University*). [[Paper](https://arxiv.org/abs/2303.01396)][[PyTorch](https://github.com/RavenKiller/MLA)]
 * **ENTL**: "ENTL: Embodied Navigation Trajectory Learner", arXiv, 2023 (*AI2*). [[Paper](https://arxiv.org/abs/2304.02639)]
 * **MPM**: "Masked Path Modeling for Vision-and-Language Navigation", arXiv, 2023 (*UCLA*). [[Paper](https://arxiv.org/abs/2305.14268)]
+* **NavGPT**: "NavGPT: Explicit Reasoning in Vision-and-Language Navigation with Large Language Models", arXiv, 2023 (*The University of Adelaide, Australia*). [[Paper](https://arxiv.org/abs/2305.16986)]
 
 [[Back to Overview](#overview)]
 
