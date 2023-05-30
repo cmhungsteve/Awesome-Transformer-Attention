@@ -1333,6 +1333,8 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
     * **EVP**: "Explicit Visual Prompting for Low-Level Structure Segmentations", CVPR, 2023. (*Tencent*). [[Paper](https://arxiv.org/abs/2303.10883)][[PyTorch](https://github.com/NiFangBaAGe/Explict-Visual-Prompt)]
 * Zero-Guidance Segmentation:
     * **zero-guide-seg**: "Zero-guidance Segmentation Using Zero Segment Labels", arXiv, 2023 (*VISTEC, Thailand*). [[Paper](https://arxiv.org/abs/2303.13396)][[Website](https://zero-guide-seg.github.io/)]
+* Part Segmentation:
+    * **OPS**: "Towards Open-World Segmentation of Parts", arXiv, 2023 (*Adobe*). [[Paper](https://arxiv.org/abs/2305.16804)][[PyTorch](https://github.com/tydpan/OpenPartSeg)]
 
 [[Back to Overview](#overview)]
 
@@ -2079,6 +2081,7 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
     * **UniVL-DR**: "Universal Vision-Language Dense Retrieval: Learning A Unified Representation Space for Multi-Modal Retrieval", ICLR, 2023 (*Northeastern University, China*). [[Paper](https://openreview.net/forum?id=PQOlkgsBsik)]
     * **Pic2Word**: "Pic2Word: Mapping Pictures to Words for Zero-shot Composed Image Retrieval", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2302.03084)]
     * **STAIR**: "STAIR: Learning Sparse Text and Image Representation in Grounded Tokens", arXiv, 2023 (*Apple*). [[Paper](https://arxiv.org/abs/2301.13081)]
+    * **DiffusionITM**: "Are Diffusion Models Vision-And-Language Reasoners?", arXiv, 2023 (*Mila*). [[Paper](https://arxiv.org/abs/2305.16397)]
 * Video:
     * **MMT**: "Multi-modal Transformer for Video Retrieval", ECCV, 2020 (*INRIA + Google*). [[Paper](https://arxiv.org/abs/2007.10639)][[Website](http://thoth.inrialpes.fr/research/MMT/)]
     * **AYCE**: "All You Can Embed: Natural Language based Vehicle Retrieval with Spatio-Temporal Transformers", CVPRW, 2021 (*University of Modena and Reggio Emilia*). [[Paper](https://arxiv.org/abs/2106.10153)][[PyTorch](https://github.com/cscribano/AYCE_2021)]
@@ -2326,6 +2329,7 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
     * **PolyFormer**: "PolyFormer: Referring Image Segmentation as Sequential Polygon Generation", CVPR, 2023 (*Amazon*). [[Paper](https://arxiv.org/abs/2302.07387)][[Website](https://polyformer.github.io/)]
     * **MCRES**: "Meta Compositional Referring Expression Segmentation", CVPR, 2023 (*Singapore University of Technology and Design*). [[Paper](https://arxiv.org/abs/2304.04415)]
     * **PVD**: "Parallel Vertex Diffusion for Unified Visual Grounding", arXiv, 2023 (*Peking University*). [[Paper](https://arxiv.org/abs/2303.07216)]
+    * **MMNet**: "MMNet: Multi-Mask Network for Referring Image Segmentation", arXiv, 2023 (*CAS*). [[Paper](https://arxiv.org/abs/2305.14969)]
 * Tracking:
     * **ModaMixer**: "Divert More Attention to Vision-Language Tracking", NeurIPS, 2022 (*Beijing Jiaotong University*). [[Paper](https://arxiv.org/abs/2207.01076)][[PyTorch](https://github.com/JudasDie/SOTS)]
 * Analysis:
@@ -2467,6 +2471,7 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
     * **ArtGPT-4**: "ArtGPT-4: Artistic Vision-Language Understanding with Adapter-enhanced MiniGPT-4", arXiv, 2023 (*Anhui Polytechnic University*). [[Paper](https://arxiv.org/abs/2305.07490)][[PyTorch](https://github.com/DLYuanGod/ArtGPT-4)]
     * **EmbodiedGPT**: "EmbodiedGPT: Vision-Language Pre-Training via Embodied Chain of Thought", arXiv, 2023 (*HKU*). [[Paper](https://arxiv.org/abs/2305.15021)][[PyTorch (in construction)](https://github.com/EmbodiedGPT/EmbodiedGPT_Pytorch)][[Website](https://embodiedgpt.github.io/)]
     * **LaVIN**: "Cheap and Quick: Efficient Vision-Language Instruction Tuning for Large Language Models", arXiv, 2023 (*Xiamen University*). [[Paper](https://arxiv.org/abs/2305.15023)][[PyTorch](https://github.com/luogen1996/LaVIN)][[Website](https://luogen1996.github.io/lavin/)]
+    * **PandaGPT**: "PandaGPT: One Model To Instruction-Follow Them All", arXiv, 2023 (*Tencent*). [[Paper](https://arxiv.org/abs/2305.16355)][[PyTorch](https://github.com/yxuansu/PandaGPT)][[Website](https://panda-gpt.github.io/)]
 * Visual Abductive Reasoning:
     * **RPT**: "Fine-Grained Regional Prompt Tuning for Visual Abductive Reasoning", arXiv, 2023 (*A\*STAR*). [[Paper](https://arxiv.org/abs/2303.10428)]
 * Tracking:
