@@ -564,6 +564,7 @@ If you find this repository useful, please consider citing this list:
     * **BiRT**: "BiRT: Bio-inspired Replay in Vision Transformers for Continual Learning", ICML, 2023 (*NavInfo, Netherlands*). [[Paper](https://arxiv.org/abs/2305.04769)]
     * **PromptFusion**: "PromptFusion: Decoupling Stability and Plasticity for Continual Learning", arXiv, 2023 (*Fudan*). [[Paper](https://arxiv.org/abs/2303.07223)]
     * **MSc-iNCD**: "Large-scale Pre-trained Models are Surprisingly Strong in Incremental Novel Class Discovery", arXiv, 2023 (*University of Trento, Italy*). [[Paper](https://arxiv.org/abs/2303.15975)][[PyTorch (in construction)](https://github.com/OatmealLiu/MSc-iNCD)]
+    * **PROOF**: "Learning without Forgetting for Vision-Language Models", arXiv, 2023 (*Nanjing University*). [[Paper](https://arxiv.org/abs/2305.19270)]
 * Long-tail/Imbalanced:
     * **BatchFormer**: "BatchFormer: Learning to Explore Sample Relationships for Robust Representation Learning", CVPR, 2022 (*The University of Sydney*). [[Paper](https://arxiv.org/abs/2203.01522)][[PyTorch](https://github.com/zhihou7/BatchFormer)]
     * **BatchFormerV2**: "BatchFormerV2: Exploring Sample Relationships for Dense Representation Learning", arXiv, 2022 (*The University of Sydney*). [[Paper](https://arxiv.org/abs/2204.01254)]
@@ -963,6 +964,7 @@ If you find this repository useful, please consider citing this list:
 * **ENTL**: "ENTL: Embodied Navigation Trajectory Learner", arXiv, 2023 (*AI2*). [[Paper](https://arxiv.org/abs/2304.02639)]
 * **MPM**: "Masked Path Modeling for Vision-and-Language Navigation", arXiv, 2023 (*UCLA*). [[Paper](https://arxiv.org/abs/2305.14268)]
 * **NavGPT**: "NavGPT: Explicit Reasoning in Vision-and-Language Navigation with Large Language Models", arXiv, 2023 (*The University of Adelaide, Australia*). [[Paper](https://arxiv.org/abs/2305.16986)]
+* **PanoGen**: "PanoGen: Text-Conditioned Panoramic Environment Generation for Vision-and-Language Navigation", arXiv, 2023 (*UNC*). [[Paper](https://arxiv.org/abs/2305.19195)][[PyTorch](https://github.com/jialuli-luka/PanoGen)][[Website](https://pano-gen.github.io/)]
 
 [[Back to Overview](#overview)]
 
@@ -1630,6 +1632,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
 * **HiP**: "Hierarchical Perceiver", arXiv, 2022 (*DeepMind*). [[Paper](https://arxiv.org/abs/2202.10890)]
 * **AttendNeXt**: "Faster Attention Is What You Need: A Fast Self-Attention Neural Network Backbone Architecture for the Edge via Double-Condensing Attention Condensers", arXiv, 2022 (*University of Waterloo, Canada*). [[Paper](https://arxiv.org/abs/2208.06980)]
 * **Token-Mixing-Adaptive-FNO**: "Efficient Token Mixing for Transformers via Adaptive Fourier Neural Operators", ICLR, 2022 (*NVIDIA + Caltech + Stanford*). [[Paper](https://openreview.net/forum?id=EXHG-A3jlM)][[PyTorch](https://github.com/NVlabs/AFNO-transformer)]
+* **KV-Transformer**: "Key-Value Transformer", arXiv, 2023 (*Quintic AI*). [[Paper](https://arxiv.org/abs/2305.19129)]
 
 [[Back to Overview](#overview)]
 
