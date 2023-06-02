@@ -213,6 +213,7 @@ If you find this repository useful, please consider citing this list:
     * **OSX**: "One-Stage 3D Whole-Body Mesh Recovery with Component Aware Transformer", CVPR, 2023 (*IDEA*). [[Paper](https://arxiv.org/abs/2303.16160)][[PyTorch](https://github.com/IDEA-Research/OSX)][[Website](https://osx-ubody.github.io/)]
     * **PoseFormerV2**: "PoseFormerV2: Exploring Frequency Domain for Efficient and Robust 3D Human Pose Estimation", CVPR, 2023 (*UCF*). [[Paper](https://arxiv.org/abs/2303.17472)][[PyTorch (in construction)](https://github.com/QitaoZhao/PoseFormerV2)][[Website](https://qitaozhao.github.io/PoseFormerV2)]
     * **XFormer**: "XFormer: Fast and Accurate Monocular 3D Body Capture", arXiv, 2023 (*Huya Inc, China*). [[Paper](https://arxiv.org/abs/2305.11101)]
+    * **4D-Humans**: "Humans in 4D: Reconstructing and Tracking Humans with Transformers", arXiv, 2023 (*Berkeley*). [[Paper](https://arxiv.org/abs/2305.20091)][[PyTorch](https://github.com/shubham-goel/4D-Humans)][[Website](https://shubham-goel.github.io/4dhumans/)]
 * Hands:
     * **Hand-Transformer**: "Hand-Transformer: Non-Autoregressive Structured Modeling for 3D Hand Pose Estimation", ECCV, 2020 (*Kwai*). [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/4836_ECCV_2020_paper.php)]
     * **SCAT**: "SCAT: Stride Consistency With Auto-Regressive Regressor and Transformer for Hand Pose Estimation", ICCVW, 2021 (*Alibaba*). [[Paper](https://openaccess.thecvf.com/content/ICCV2021W/SoMoF/html/Gao_SCAT_Stride_Consistency_With_Auto-Regressive_Regressor_and_Transformer_for_Hand_ICCVW_2021_paper.html)]
@@ -578,7 +579,8 @@ If you find this repository useful, please consider citing this list:
     * **DearKD**: "DearKD: Data-Efficient Early Knowledge Distillation for Vision Transformers", CVPR, 2022 (*JD*). [[Paper](https://arxiv.org/abs/2204.12997)]
     * **AttnDistill**: "Attention Distillation: self-supervised vision transformer students need more guidance", BMVC, 2022 (*UAB, Spain*). [[Paper](https://arxiv.org/abs/2210.00944)][[PyTorch](https://github.com/wangkai930418/attndistill)]
     * **ViTKD**: "ViTKD: Practical Guidelines for ViT feature knowledge distillation", arXiv, 2022 (*IDEA*). [[Paper](https://arxiv.org/abs/2209.02432)][[PyTorch (in construction)](https://github.com/yzd-v/cls_KD)]
-    * **?**: "Adaptive Attention Link-based Regularization for Vision Transformers", arXiv, 2022 (* Chung-Ang University, Korea*). [[Paper](https://arxiv.org/abs/2211.13852)]
+    * **?**: "Adaptive Attention Link-based Regularization for Vision Transformers", arXiv, 2022 (*Chung-Ang University, Korea*). [[Paper](https://arxiv.org/abs/2211.13852)]
+    * **SLaK**: "Are Large Kernels Better Teachers than Transformers for ConvNets?", ICML, 2023 (*Eindhoven University of Technology, Netherlands*). [[Paper](https://arxiv.org/abs/2305.19412)][[PyTorch](https://github.com/VITA-Group/SLaK)]
     * **MaskedKD**: "MaskedKD: Efficient Distillation of Vision Transformers with Masked Images", arXiv, 2023 (*POSTECH*). [[Paper](https://arxiv.org/abs/2302.10494)]
     * **DIME-FM**: "DIME-FM: DIstilling Multimodal and Efficient Foundation Models", arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2303.18232)]
 * Clustering:
