@@ -1186,7 +1186,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **OpenSeg**: "Scaling Open-Vocabulary Image Segmentation with Image-Level Labels", ECCV, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2112.12143)]
     * **Fusioner**: "Open-vocabulary Semantic Segmentation with Frozen Vision-Language Models", BMVC, 2022 (*Shanghai Jiao Tong University*). [[Paper](https://arxiv.org/abs/2210.15138)][[Website](https://yyh-rain-song.github.io/Fusioner_webpage/)]
     * **OVSeg**: "Open-Vocabulary Semantic Segmentation with Mask-adapted CLIP", arXiv, 2022 (*Meta*). [[Paper](https://arxiv.org/abs/2210.04150)][[Website](https://jeff-liangf.github.io/projects/ovseg/)]
-    * **SegCLIP**: "SegCLIP: Patch Aggregation with Learnable Centers for Open-Vocabulary Semantic Segmentation", arXiv, 2022 (*JD*). [[Paper](https://arxiv.org/abs/2211.14813)][[Code (in construction)](https://github.com/ArrowLuo/SegCLIP)]
+    * **SegCLIP**: "SegCLIP: Patch Aggregation with Learnable Centers for Open-Vocabulary Semantic Segmentation", arXiv, 2022 (*JD*). [[Paper](https://arxiv.org/abs/2211.14813)][[PyTorch](https://github.com/ArrowLuo/SegCLIP)]
     * **ZegCLIP**: "ZegCLIP: Towards Adapting CLIP for Zero-shot Semantic Segmentation", arXiv, 2022 (*The University of Adelaide, Australia*). [[Paper](https://arxiv.org/abs/2212.03588)][[PyTorch (in construction)](https://github.com/ZiqinZhou66/ZegCLIP)]
     * **TCL**: "Learning to Generate Text-grounded Mask for Open-world Semantic Segmentation from Only Image-Text Pairs", CVPR, 2023 (*Kakao*). [[Paper](https://arxiv.org/abs/2212.00785)][[PyTorch](https://github.com/kakaobrain/tcl)]
     * **ODISE**: "Open-Vocabulary Panoptic Segmentation with Text-to-Image Diffusion Models", CVPR, 2023 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2303.04803)][[Code (in construction)](https://github.com/NVlabs/ODISE)][[Website](https://jerryxu.net/ODISE/)]
@@ -1204,6 +1204,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **MVP-SEG**: "MVP-SEG: Multi-View Prompt Learning for Open-Vocabulary Semantic Segmentation", arXiv, 2023 (*Xiaohongshu, China*). [[Paper](https://arxiv.org/abs/2304.06957)]
     * **TagCLIP**: "TagCLIP: Improving Discrimination Ability of Open-Vocabulary Semantic Segmentation", arXiv, 2023 (*CUHK*). [[Paper](https://arxiv.org/abs/2304.07547)]
     * **VLPart**: "Going Denser with Open-Vocabulary Part Segmentation", arXiv, 2023 (*HKU*). [[Paper](https://arxiv.org/abs/2305.11173)][[PyTorch](https://github.com/facebookresearch/VLPart)]
+    * **ZeroSeg**: "Exploring Open-Vocabulary Semantic Segmentation without Human Labels", arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2306.00450)]
 * Universal Segmentation:
     * **K-Net**: "K-Net: Towards Unified Image Segmentation", NeurIPS, 2021 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2106.14855)][[PyTorch](https://github.com/ZwwWayne/K-Net/)]
     * **Mask2Former**: "Masked-attention Mask Transformer for Universal Image Segmentation", CVPR, 2022 (*Meta*). [[Paper](https://arxiv.org/abs/2112.01527)][[PyTorch](https://github.com/facebookresearch/Mask2Former)][[Website](https://bowenc0221.github.io/mask2former/)]
@@ -1405,6 +1406,7 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
     * **BEAR**: "A Large-scale Study of Spatiotemporal Representation Learning with a New Benchmark on Action Recognition", arXiv, 2023 (*UCF*). [[Paper](https://arxiv.org/abs/2303.13505)][[GitHub](https://github.com/AndongDeng/BEAR)]
     * **SVT**: "SVT: Supertoken Video Transformer for Efficient Video Understanding", arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2304.00325)]
     * **PLAR**: "Prompt Learning for Action Recognition", arXiv, 2023 (*Maryland*). [[Paper](https://arxiv.org/abs/2305.12437)]
+    * **Hiera**: "Hiera: A Hierarchical Vision Transformer without the Bells-and-Whistles", ICML, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2306.00989)][[PyTorch](https://github.com/facebookresearch/hiera)]
 * Depth:
     * **Trear**: "Trear: Transformer-based RGB-D Egocentric Action Recognition",  IEEE Transactions on Cognitive and Developmental Systems, 2021 (*Tianjing University*). [[Paper](https://ieeexplore.ieee.org/document/9312201)]
 * Pose/Skeleton:
@@ -2357,6 +2359,7 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
     * **ZS-RIS**: "Zero-shot Referring Image Segmentation with Global-Local Context Features", CVPR, 2023 (*Gwangju Institute of Science and Technology (GIST)*). [[Paper](https://arxiv.org/abs/2303.17811)][[Code (in construction)](https://github.com/Seonghoon-Yu/Zero-shot-RIS)]
     * **PolyFormer**: "PolyFormer: Referring Image Segmentation as Sequential Polygon Generation", CVPR, 2023 (*Amazon*). [[Paper](https://arxiv.org/abs/2302.07387)][[Website](https://polyformer.github.io/)]
     * **MCRES**: "Meta Compositional Referring Expression Segmentation", CVPR, 2023 (*Singapore University of Technology and Design*). [[Paper](https://arxiv.org/abs/2304.04415)]
+    * **ReLA**: "GRES: Generalized Referring Expression Segmentation", CVPR, 2023 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2306.00968)][[PyTorch](https://github.com/henghuiding/ReLA)][[Website](https://henghuiding.github.io/GRES/)]
     * **PVD**: "Parallel Vertex Diffusion for Unified Visual Grounding", arXiv, 2023 (*Peking University*). [[Paper](https://arxiv.org/abs/2303.07216)]
     * **MMNet**: "MMNet: Multi-Mask Network for Referring Image Segmentation", arXiv, 2023 (*CAS*). [[Paper](https://arxiv.org/abs/2305.14969)]
 * Tracking:
