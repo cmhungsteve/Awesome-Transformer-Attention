@@ -1161,6 +1161,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **?**: "An Empirical Study on the Robustness of the Segment Anything Model (SAM)", arXiv, 2023 (*UCSB*). [[Paper](https://arxiv.org/abs/2305.06422)]
     * **?**: "A Comprehensive Survey on Segment Anything Model for Vision and Beyond", arXiv, 2023 (*HKUST*). [[Paper](https://arxiv.org/abs/2305.08196)]
     * **SAD**: "SAD: Segment Any RGBD", arXiv, 2023 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2305.14207)][[PyTorch](https://github.com/Jun-CEN/SegmentAnyRGBD)]
+    * **HQ-SAM**: "Segment Anything in High Quality", arXiv, 2023 (*ETHZ*). [[Paper](https://arxiv.org/abs/2306.01567)][[Code (in construction)](https://github.com/SysCV/SAM-HQ)]
 * Vision-Language:
     * **LSeg**: "Language-driven Semantic Segmentation", ICLR, 2022 (*Cornell*). [[Paper](https://arxiv.org/abs/2201.03546)][[PyTorch](https://github.com/isl-org/lang-seg)]
     * **ZegFormer**: "Decoupling Zero-Shot Semantic Segmentation", CVPR, 2022 (*Wuhan University*). [[Paper](https://arxiv.org/abs/2112.07910)][[PyTorch](https://github.com/dingjiansw101/ZegFormer)]
@@ -1214,6 +1215,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **MP-Former**: "MP-Former: Mask-Piloted Transformer for Image Segmentation", CVPR, 2023 (*IDEA*). [[Paper](https://arxiv.org/abs/2303.07336)][[Code (in construction)](https://github.com/IDEA-Research/MP-Former)]
     * **OneFormer**: "OneFormer: One Transformer to Rule Universal Image Segmentation", CVPR, 2023 (*Oregon*). [[Paper](https://arxiv.org/abs/2211.06220)][[PyTorch](https://github.com/SHI-Labs/OneFormer)][[Website](https://praeclarumjj3.github.io/oneformer/)]
     * **ClustSeg**: "CLUSTSEG: Clustering for Universal Segmentation", ICML, 2023 (*Rochester Institute of Technology*). [[Paper](https://arxiv.org/abs/2305.02187)]
+    * **DaTaSeg**: "DaTaSeg: Taming a Universal Multi-Dataset Multi-Task Segmentation Model", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2306.01736)]
 * Multi-Modal:
     * **UCTNet**: "UCTNet: Uncertainty-Aware Cross-Modal Transformer Network for Indoor RGB-D Semantic Segmentation", ECCV, 2022 (*Lehigh University, Pennsylvania*). [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/7082_ECCV_2022_paper.php)]
     * **CMX**: "CMX: Cross-Modal Fusion for RGB-X Semantic Segmentation with Transformers", arXiv, 2022 (*Karlsruhe Institute of Technology, Germany*). [[Paper](https://arxiv.org/abs/2203.04838)][[PyTorch](https://github.com/huaaaliu/RGBX_Semantic_Segmentation)]
@@ -2297,6 +2299,8 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
 * **PLID**: "Prompting Language-Informed Distribution for Compositional Zero-Shot Learning", arXiv, 2023 (*Michigan State*). [[Paper](https://arxiv.org/abs/2305.14428)]
 * **ConES**: "ConES: Concept Embedding Search for Parameter Efficient Tuning Large Vision Language Models", arXiv, 2023 (*Sichuan University*). [[Paper](https://arxiv.org/abs/2305.18993)]
 * **LaFTer**: "LaFTer: Label-Free Tuning of Zero-shot Classifier using Language and Unlabeled Image Collections", arXiv, 2023 (*TU Graz, Austria*). [[Paper](https://arxiv.org/abs/2305.18287)]
+* **?**: "Enhancing CLIP with CLIP: Exploring Pseudolabeling for Limited-Label Prompt Tuning", arXiv, 2023 (*Brown*). [[Paper](https://arxiv.org/abs/2306.01669)][[PyTorch](https://github.com/BatsResearch/menghini-enhanceCLIPwithCLIP-code)]
+* **CoPrompt**: "Consistency-guided Prompt Learning for Vision-Language Models", arXiv, 2023 (*Queen’s University, Canada*). [[Paper](https://arxiv.org/abs/2306.01195)]
 
 [[Back to Overview](#overview)]
 
@@ -2332,6 +2336,7 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
 * **mmc4**: "Multimodal C4: An Open, Billion-scale Corpus of Images Interleaved With Text", arXiv, 2023 (*AI2*). [[Paper](https://arxiv.org/abs/2304.06939)][[GitHub (in construction)](https://github.com/allenai/mmc4)]
 * **M<sup>6</sup>Doc**: "M<sup>6</sup>Doc: A Large-Scale Multi-Format, Multi-Type, Multi-Layout, Multi-Language, Multi-Annotation Category Dataset for Modern Document Layout Analysis", arXiv, 2023 (*South China University of Technology*). [[Paper](https://arxiv.org/abs/2305.08719)][[Code (in construction)](https://github.com/HCIILAB/M6Doc)]
 * **DUBLIN**: "DUBLIN - Document Understanding By Language-Image Network", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2305.14218)]
+* **DocFormerv2**: "DocFormerv2: Local Features for Document Understanding", arXiv, 2023 (*Amazon*). [[Paper](https://arxiv.org/abs/2306.01733)]
 
 [[Back to Overview](#overview)]
 
