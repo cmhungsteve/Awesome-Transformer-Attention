@@ -402,6 +402,8 @@ If you find this repository useful, please consider citing this list:
 * **SparseFormer**: "SparseFormer: Sparse Visual Recognition via Limited Latent Tokens", arXiv, 2023 (*NUS*). [[Paper](https://arxiv.org/abs/2304.03768)][[Code (in construction)](https://github.com/showlab/sparseformer)]
 * **EMO**: "Rethinking Mobile Block for Efficient Attention-based Models", arXiv, 2023 (*Tencent*). [[Paper](https://arxiv.org/abs/2301.01146)][[PyTorch](https://github.com/zhangzjn/EMO)]
 * **SoViT**: "Getting ViT in Shape: Scaling Laws for Compute-Optimal Model Design", arXiv, 2023 (*DeepMind*). [[Paper](https://arxiv.org/abs/2305.13035)]
+* **FAT**: "Lightweight Vision Transformer with Bidirectional Interaction", arXiv, 2023 (*CAS*). [[Paper](https://arxiv.org/abs/2306.00396)][[PyTorch](https://github.com/qhfan/FAT)]
+* **ByteFormer**: "Bytes Are All You Need: Transformers Operating Directly On File Bytes", arXiv, 2023 (*Apple*). [[Paper](https://arxiv.org/abs/2306.00238)]
 #### Conv + Transformer
 * **LeViT**: "LeViT: a Vision Transformer in ConvNet's Clothing for Faster Inference", ICCV, 2021 (*Facebook*). [[Paper](https://arxiv.org/abs/2104.01136)][[PyTorch](https://github.com/facebookresearch/LeViT)]
 * **CeiT**: "Incorporating Convolution Designs into Visual Transformers", ICCV, 2021 (*SenseTime*). [[Paper](https://arxiv.org/abs/2103.11816)][[PyTorch (rishikksh20)](https://github.com/rishikksh20/CeiT)]
@@ -548,6 +550,7 @@ If you find this repository useful, please consider citing this list:
 * **?**: "Improved baselines for vision-language pre-training", arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2305.08675)]
 * **3T**: "Three Towers: Flexible Contrastive Learning with Pretrained Image Models", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2305.16999)]
 * **LaCLIP**: "Improving CLIP Training with Language Rewrites", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2305.20088)][[PyTorch](https://github.com/LijieFan/LaCLIP)]
+* **StableRep**: "StableRep: Synthetic Images from Text-to-Image Models Make Strong Visual Representation Learners", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2306.00984)]
 #### Robustness + Transformer
 * **ViT-Robustness**: "Understanding Robustness of Transformers for Image Classification", ICCV, 2021 (*Google*). [[Paper](https://arxiv.org/abs/2103.14586)]
 * **SAGA**: "On the Robustness of Vision Transformers to Adversarial Examples", ICCV, 2021 (*University of Connecticut*). [[Paper](https://arxiv.org/abs/2104.02610)]
@@ -1725,6 +1728,7 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
     * **VIVID**: "Album Storytelling with Iterative Story-aware Captioning and Large Language Models", arXiv, 2023 (*Peking*). [[Paper](https://arxiv.org/abs/2305.12943)]
     * **MCDG**: "Text-Only Image Captioning with Multi-Context Data Generation", arXiv, 2023 (*USTC*). [[Paper](https://arxiv.org/abs/2305.18072)]
     * **FuseCap**: "FuseCap: Leveraging Large Language Models to Fuse Visual Data into Enriched Image Captions", arXiv, 2023 (*Israel Institute of Technology*). [[Paper](https://arxiv.org/abs/2305.17718)]
+    * **StoryGen**: "Intelligent Grimm - Open-ended Visual Storytelling via Latent Diffusion Models", arXiv, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2306.00973)][[PyTorch (in construction)](https://github.com/haoningwu3639/StoryGen)][[Website](https://haoningwu3639.github.io/StoryGen_Webpage/)]
 * Video:
     * **Masked Transformers**: "End-to-End Dense Video Captioning with Masked Transformer", CVPR, 2018 (*UMich + Salesforce*). [[Paper](https://openaccess.thecvf.com/content_cvpr_2018/html/Zhou_End-to-End_Dense_Video_CVPR_2018_paper.html)][[PyTorch](https://github.com/salesforce/densecap)]
     * **BMT**: "A Better Use of Audio-Visual Cues: Dense Video Captioning with Bi-modal Transformer", BMVC, 2020 (*Tampere University, Finland*). [[Paper](https://arxiv.org/abs/2005.08271)][[PyTorch](https://github.com/v-iashin/bmt)][[Website](https://iashin.ai/bmt)]
@@ -2337,6 +2341,7 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
     * **Pi-Tuning**: "Pi-Tuning: Transferring Multimodal Foundation Models with Optimal Multi-task Interpolation", ICML, 2023 (*HKU*). [[Paper](https://arxiv.org/abs/2304.14381)][[Code (in construction)](https://github.com/TencentARC/pi-Tuning)]
     * **Paxion**: "Paxion: Patching Action Knowledge in Video-Language Foundation Models", arXiv, 2023 (*UIUC*). [[Paper](https://arxiv.org/abs/2305.10683)][[PyTorch](https://github.com/MikeWangWZHL/Paxion)]
     * **RLCF**: "Test-Time Adaptation with CLIP Reward for Zero-Shot Generalization in Vision-Language Models", arXiv, 2023 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2305.18010)][[Code (in construction)](https://github.com/mzhaoshuai/RLCF)]
+    * **LMAT**: "Can Large Pre-trained Models Help Vision Models on Perception Tasks?", arXiv, 2023 (*Huawei*). [[Paper](https://arxiv.org/abs/2306.00693)][[Website (in construction)](https://dingning97.github.io/imagenet-descriptions/)]
 * Zero-Shot:
     * **SMs**: "Socratic Models: Composing Zero-Shot Multimodal Reasoning with Language", ICLR, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2204.00598)][[GitHub](https://github.com/google-research/google-research/tree/master/socraticmodels)][[Website](https://socraticmodels.github.io/)]
 * X-Shot:
@@ -2534,6 +2539,9 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
     * **AttackVLM**: "On Evaluating Adversarial Robustness of Large Vision-Language Models", arXiv, 2023 (*Singapore University of Technology and Design (SUTD)*). [[Paper](https://arxiv.org/abs/2305.16934)][[PyTorch (in construction)](https://github.com/yunqing-me/AttackVLM)]
 * Compositional Reasoning:
     * **DAC**: "Dense and Aligned Captions (DAC) Promote Compositional Reasoning in VL Models", arXiv, 2023 (*IBM*). [[Paper](https://arxiv.org/abs/2305.19595)]
+* Vocabulary-free Image Classification (VIC):
+    * **CaSED**: "Vocabulary-free Image Classification", arXiv, 2023 (*University of Trento, Italy*). [[Paper](https://arxiv.org/abs/2306.00917)][[PyTorch](https://github.com/altndrr/vic)]
+
 
 
 [[Back to Overview](#overview)]
