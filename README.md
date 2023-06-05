@@ -1596,6 +1596,7 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
     * **VicTR**: "VicTR: Video-conditioned Text Representations for Activity Recognition", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2304.02560)]
     * **OpenVIS**: "OpenVIS: Open-vocabulary Video Instance Segmentation", arXiv, 2023 (*Fudan*). [[Paper](https://arxiv.org/abs/2305.16835)]
     * **ALGO**: "Discovering Novel Actions in an Open World with Object-Grounded Visual Commonsense Reasoning", arXiv, 2023 (*Oklahoma State University*). [[Paper](https://arxiv.org/abs/2305.16602)]
+    * **?**: "Open-Vocabulary Temporal Action Detection with Off-the-Shelf Image-Text Features", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2212.10596)] 
 * X-supervised Learning:
     * **LSTCL**: "Long-Short Temporal Contrastive Learning of Video Transformers", CVPR, 2022 (*Facebook*). [[Paper](https://arxiv.org/abs/2106.09212)]
     * **SVT**: "Self-supervised Video Transformer", CVPR, 2022 (*Stony Brook*). [[Paper](https://arxiv.org/abs/2112.01514)][[PyTorch](https://github.com/kahnchana/svt)][[Website](https://kahnchana.github.io/svt/)]
