@@ -1185,6 +1185,7 @@ If you find this repository useful, please consider citing this list:
 * **Q2ATransformer**: "Q2ATransformer: Improving Medical VQA via an Answer Querying Decoder", arXiv, 2023 (*The University of Sydney*). [[Paper](https://arxiv.org/abs/2304.01611)]
 * **PMC-VQA**: "PMC-VQA: Visual Instruction Tuning for Medical Visual Question Answering", arXiv, 2023 (*Shanghai Jiao Tong*). [[Paper](https://arxiv.org/abs/2305.10415)][[Code (in construction)](https://github.com/xiaoman-zhang/PMC-VQA)][[Website](https://xiaoman-zhang.github.io/PMC-VQA/)]
 * **MedBLIP**: "MedBLIP: Bootstrapping Language-Image Pre-training from 3D Medical Images and Texts", arXiv, 2023 (*Shanghai Jiao Tong*). [[Paper](https://arxiv.org/abs/2305.10799)][[Code (in construction)](https://github.com/Qybc/MedBLIP)]
+* **LLaVA-Med**: "LLaVA-Med: Training a Large Language-and-Vision Assistant for Biomedicine in One Day", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2306.00890)][[Code (in construction)](https://github.com/microsoft/LLaVA-Med)]
 
 [[Back to Overview](#overview)]
 
@@ -1290,6 +1291,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **FAME-ViL**: "FAME-ViL: Multi-Tasking Vision-Language Model for Heterogeneous Fashion Tasks", CVPR, 2023 (*University of Surrey*). [[Paper](https://arxiv.org/abs/2303.02483)][[Code (in construction)](https://github.com/BrandonHanx/FAME-ViL)]
     * **FashionSAP**: "FashionSAP: Symbols and Attributes Prompt for Fine-grained Fashion Vision-Language Pre-training", CVPR, 2023 (*Harbin Institute of Technology*). [[Paper](https://arxiv.org/abs/2304.05051)][[Code (in construction)](https://github.com/hssip/FashionSAP)]
     * **MVLT**: "Masked Vision-Language Transformer in Fashion", Machine Intelligence Research, 2023 (*Alibaba*). [[Paper](https://arxiv.org/abs/2210.15110)][[PyTorch](https://github.com/GewelsJI/MVLT)]
+    * **UniDiff**: "UniDiff: Advancing Vision-Language Models with Generative and Discriminative Learning", arXiv, 2023 (*Sun Yat-Sen University*). [[Paper](https://arxiv.org/abs/2306.00813)]
 * Feature Matching:
     * **SuperGlue**: "SuperGlue: Learning Feature Matching with Graph Neural Networks", CVPR, 2020 (*Magic Leap*). [[Paper](https://arxiv.org/abs/1911.11763)][[PyTorch](https://github.com/magicleap/SuperGluePretrainedNetwork)]
     * **LoFTR**: "LoFTR: Detector-Free Local Feature Matching with Transformers", CVPR, 2021 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2104.00680)][[PyTorch](https://github.com/zju3dv/LoFTR)][[Website](https://zju3dv.github.io/loftr/)]
