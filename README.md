@@ -1113,6 +1113,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **SeaFormer**: "SeaFormer: Squeeze-enhanced Axial Transformer for Mobile Semantic Segmentation", ICLR, 2023 (*Tencent*). [[Paper](https://arxiv.org/abs/2301.13156)]
 * **PPL**: "Probabilistic Prompt Learning for Dense Prediction", CVPR, 2023 (*Yonsei*). [[Paper](https://arxiv.org/abs/2304.00779)]
 * **AFF**: "AutoFocusFormer: Image Segmentation off the Grid", CVPR, 2023 (*Apple*). [[Paper](https://arxiv.org/abs/2304.12406)]
+* **CTS**: "Content-aware Token Sharing for Efficient Semantic Segmentation with Vision Transformers", CVPR, 2023 (*Eindhoven University of Technology, Netherlands*). [[Paper](https://arxiv.org/abs/2306.02095)][[PyTorch](https://github.com/tue-mps/cts-segmenter)][[Website](https://tue-mps.github.io/CTS/)]
 
 [[Back to Overview](#overview)]
 
@@ -1568,6 +1569,7 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
     * **TDViT**: "TDViT: Temporal Dilated Video Transformer for Dense Video Tasks", ECCV, 2022 (*Queen's University Belfast, UK*). [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/5559_ECCV_2022_paper.php)][[Code (in construction)](https://github.com/guanxiongsun/TDViT)]
 * Video Retrieval:
     * **SVRTN**: "Self-supervised Video Retrieval Transformer Network", arXiv, 2021 (*Alibaba*). [[Paper](https://arxiv.org/abs/2104.07993)]
+    * **BM-DETR**: "Overcoming Weak Visual-Textual Alignment for Video Moment Retrieval", arXiv, 2023 (*Seoul National University (SNU)*). [[Paper](https://arxiv.org/abs/2306.02728)][[PyTorch (in construction)](https://github.com/minjoong507/BM-DETR)]
 * Video Hashing:
     * **BTH**: "Self-Supervised Video Hashing via Bidirectional Transformers", CVPR, 2021 (*Tsinghua*). [[Paper](https://openaccess.thecvf.com/content/CVPR2021/html/Li_Self-Supervised_Video_Hashing_via_Bidirectional_Transformers_CVPR_2021_paper.html)][[PyTorch](https://github.com/Lily1994/BTH)]
 * Video-Language:
@@ -1837,6 +1839,7 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
     * **SeViLA**: "Self-Chained Image-Language Model for Video Localization and Question Answering", arXiv, 2023 (*UNC*). [[Paper](https://arxiv.org/abs/2305.06988)][[PyTorch](https://github.com/Yui010206/SeViLA)]
 * 3D:
     * **3D-VQA**: "CLIP-Guided Vision-Language Pre-training for Question Answering in 3D Scenes", CVPRW, 2023 (*ETHZ*). [[Paper](https://arxiv.org/abs/2304.06061)][[Code (in construction)](https://github.com/AlexDelitzas/3D-VQA)]
+    * **Multi-CLIP**: "Multi-CLIP: Contrastive Vision-Language Pre-training for Question Answering tasks in 3D Scenes", arXiv, 2023 (*ETHZ*). [[Paper](https://arxiv.org/abs/2306.02329)]
 
 [[Back to Overview](#overview)]
 
@@ -2302,6 +2305,7 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
 * **LaFTer**: "LaFTer: Label-Free Tuning of Zero-shot Classifier using Language and Unlabeled Image Collections", arXiv, 2023 (*TU Graz, Austria*). [[Paper](https://arxiv.org/abs/2305.18287)]
 * **?**: "Enhancing CLIP with CLIP: Exploring Pseudolabeling for Limited-Label Prompt Tuning", arXiv, 2023 (*Brown*). [[Paper](https://arxiv.org/abs/2306.01669)][[PyTorch](https://github.com/BatsResearch/menghini-enhanceCLIPwithCLIP-code)]
 * **CoPrompt**: "Consistency-guided Prompt Learning for Vision-Language Models", arXiv, 2023 (*Queen’s University, Canada*). [[Paper](https://arxiv.org/abs/2306.01195)]
+* **ProTeCt**: "ProTeCt: Prompt Tuning for Hierarchical Consistency", arXiv, 2023 (*UCSD*). [[Paper](https://arxiv.org/abs/2306.02240)]
 
 [[Back to Overview](#overview)]
 
@@ -2515,6 +2519,7 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
     * **EmbodiedGPT**: "EmbodiedGPT: Vision-Language Pre-Training via Embodied Chain of Thought", arXiv, 2023 (*HKU*). [[Paper](https://arxiv.org/abs/2305.15021)][[PyTorch (in construction)](https://github.com/EmbodiedGPT/EmbodiedGPT_Pytorch)][[Website](https://embodiedgpt.github.io/)]
     * **LaVIN**: "Cheap and Quick: Efficient Vision-Language Instruction Tuning for Large Language Models", arXiv, 2023 (*Xiamen University*). [[Paper](https://arxiv.org/abs/2305.15023)][[PyTorch](https://github.com/luogen1996/LaVIN)][[Website](https://luogen1996.github.io/lavin/)]
     * **PandaGPT**: "PandaGPT: One Model To Instruction-Follow Them All", arXiv, 2023 (*Tencent*). [[Paper](https://arxiv.org/abs/2305.16355)][[PyTorch](https://github.com/yxuansu/PandaGPT)][[Website](https://panda-gpt.github.io/)]
+    * **Video-LLaMA**: "Video-LLaMA: An Instruction-tuned Audio-Visual Language Model for Video Understanding", arXiv, 2023 (*Alibaba*). [[Paper](https://arxiv.org/abs/2306.02858)][[PyTorch](https://github.com/DAMO-NLP-SG/Video-LLaMA)]
 * Visual Abductive Reasoning:
     * **RPT**: "Fine-Grained Regional Prompt Tuning for Visual Abductive Reasoning", arXiv, 2023 (*A\*STAR*). [[Paper](https://arxiv.org/abs/2303.10428)]
 * Tracking:
@@ -2541,6 +2546,7 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
 * Evaluation:
     * **Perception-Test**: "Perception Test: A Diagnostic Benchmark for Multimodal Video Models", arXiv, 2023 (*DeepMind*). [[Paper](https://arxiv.org/abs/2305.13786)][[GitHub](https://github.com/deepmind/perception_test)]
     * **VLM-Probing**: "Scalable Performance Analysis for Vision-Language Models", Joint Conference on Lexical and Computational Semantics (\*SEM), 2023 (*Michigan*). [[Paper](https://arxiv.org/abs/2305.18786)][[PyTorch](https://github.com/MichiganNLP/Scalable-VLM-Probing)]
+    * **VisualGPTScore**: "VisualGPTScore: Visio-Linguistic Reasoning with Multimodal Generative Pre-Training Scores", arXiv, 2023 (*CMU*). [[Paper](https://arxiv.org/abs/2306.01879)][[Code (in construction)](https://github.com/linzhiqiu/visual_gpt_score/)][[Website](https://linzhiqiu.github.io/papers/visual_gpt_score/)]
 * Robustness:
     * **AttackVLM**: "On Evaluating Adversarial Robustness of Large Vision-Language Models", arXiv, 2023 (*Singapore University of Technology and Design (SUTD)*). [[Paper](https://arxiv.org/abs/2305.16934)][[PyTorch (in construction)](https://github.com/yunqing-me/AttackVLM)]
 * Compositional Reasoning:
