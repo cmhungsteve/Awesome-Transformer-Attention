@@ -213,8 +213,10 @@ If you find this repository useful, please consider citing this list:
     * **PCT**: "Human Pose as Compositional Tokens", CVPR, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2303.11638)][[Code (in construction)](https://github.com/Gengzigang/PCT)][[Website](https://sites.google.com/view/pctpose)]
     * **OSX**: "One-Stage 3D Whole-Body Mesh Recovery with Component Aware Transformer", CVPR, 2023 (*IDEA*). [[Paper](https://arxiv.org/abs/2303.16160)][[PyTorch](https://github.com/IDEA-Research/OSX)][[Website](https://osx-ubody.github.io/)]
     * **PoseFormerV2**: "PoseFormerV2: Exploring Frequency Domain for Efficient and Robust 3D Human Pose Estimation", CVPR, 2023 (*UCF*). [[Paper](https://arxiv.org/abs/2303.17472)][[PyTorch (in construction)](https://github.com/QitaoZhao/PoseFormerV2)][[Website](https://qitaozhao.github.io/PoseFormerV2)]
+    * **SA-HMR**: "Learning Human Mesh Recovery in 3D Scenes", CVPR, 2023 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2306.03847)][[Code (in construction)](https://github.com/zju3dv/SA-HMR/)][[Website](https://zju3dv.github.io/sahmr/)]
     * **XFormer**: "XFormer: Fast and Accurate Monocular 3D Body Capture", arXiv, 2023 (*Huya Inc, China*). [[Paper](https://arxiv.org/abs/2305.11101)]
     * **4D-Humans**: "Humans in 4D: Reconstructing and Tracking Humans with Transformers", arXiv, 2023 (*Berkeley*). [[Paper](https://arxiv.org/abs/2305.20091)][[PyTorch](https://github.com/shubham-goel/4D-Humans)][[Website](https://shubham-goel.github.io/4dhumans/)]
+    * **PGformer**: "PGformer: Proxy-Bridged Game Transformer for Multi-Person Extremely Interactive Motion Prediction", arXiv, 2023 (*Alibaba*). [[Paper](https://arxiv.org/abs/2306.03374)]
 * Hands:
     * **Hand-Transformer**: "Hand-Transformer: Non-Autoregressive Structured Modeling for 3D Hand Pose Estimation", ECCV, 2020 (*Kwai*). [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/4836_ECCV_2020_paper.php)]
     * **SCAT**: "SCAT: Stride Consistency With Auto-Regressive Regressor and Transformer for Hand Pose Estimation", ICCVW, 2021 (*Alibaba*). [[Paper](https://openaccess.thecvf.com/content/ICCV2021W/SoMoF/html/Gao_SCAT_Stride_Consistency_With_Auto-Regressive_Regressor_and_Transformer_for_Hand_ICCVW_2021_paper.html)]
@@ -1578,10 +1580,6 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **3D-C2FT**: "3D-C2FT: Coarse-to-fine Transformer for Multi-view 3D Reconstruction", arXiv, 2022 (*Korea Institute of Science and Technology*). [[Paper](https://arxiv.org/abs/2205.14575)]
     * **SDF-Former**: "Monocular Scene Reconstruction with 3D SDF Transformers", ICLR, 2023 (*Alibaba*). [[Paper](https://arxiv.org/abs/2301.13510)][[Website](https://weihaosky.github.io/sdfformer/)]
     * **UMIFormer**: "UMIFormer: Mining the Correlations between Similar Tokens for Multi-View 3D Reconstruction", arXiv, 2023 (*Macau University of Science and Technology*). [[Paper](https://arxiv.org/abs/2302.13987)]
-* 3D Scene:
-    * **OpenScene**: "OpenScene: 3D Scene Understanding with Open Vocabularies", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2211.15654)][[Website](https://pengsongyou.github.io/openscene)]
-    * **PLA**: "Language-driven Open-Vocabulary 3D Scene Understanding", arXiv, 2022 (*ByteDance*). [[Paper](https://arxiv.org/abs/2211.16312)][[Code (in construction)](https://github.com/CVMI-Lab/PLA)]
-    * **VoxFormer**: "VoxFormer: Sparse Voxel Transformer for Camera-based 3D Semantic Scene Completion", arXiv, 2023 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2302.12251)][[Code (in construction)](https://github.com/NVlabs/VoxFormer)]
 * 360 Scene:
     * **?**: "Improving 360 Monocular Depth Estimation via Non-local Dense Prediction Transformer and Joint Supervised and Self-supervised Learning", AAAI, 2022 (*Seoul National University*). [[Paper](https://arxiv.org/abs/2109.10563)][[PyTorch](https://github.com/yuniw18/Joint_360depth)]
     * **PAVER**: "Panoramic Vision Transformer for Saliency Detection in 360° Videos", ECCV, 2022 (*Seoul National University*). [[Paper](https://arxiv.org/abs/2209.08956)]
