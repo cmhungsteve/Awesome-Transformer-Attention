@@ -2393,6 +2393,7 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
     * **ReLA**: "GRES: Generalized Referring Expression Segmentation", CVPR, 2023 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2306.00968)][[PyTorch](https://github.com/henghuiding/ReLA)][[Website](https://henghuiding.github.io/GRES/)]
     * **PVD**: "Parallel Vertex Diffusion for Unified Visual Grounding", arXiv, 2023 (*Peking University*). [[Paper](https://arxiv.org/abs/2303.07216)]
     * **MMNet**: "MMNet: Multi-Mask Network for Referring Image Segmentation", arXiv, 2023 (*CAS*). [[Paper](https://arxiv.org/abs/2305.14969)]
+    * **LGFormer**: "Linguistic Query-Guided Mask Generation for Referring Image Segmentation", arXiv, 2023 (*Alibaba*). [[Paper](https://arxiv.org/abs/2301.06429)]
 * Tracking:
     * **ModaMixer**: "Divert More Attention to Vision-Language Tracking", NeurIPS, 2022 (*Beijing Jiaotong University*). [[Paper](https://arxiv.org/abs/2207.01076)][[PyTorch](https://github.com/JudasDie/SOTS)]
 * Analysis:
