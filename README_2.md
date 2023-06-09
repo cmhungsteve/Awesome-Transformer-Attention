@@ -93,6 +93,7 @@ If you find this repository useful, please consider citing this list:
 * **Geodesic-Former**: "Geodesic-Former: a Geodesic-Guided Few-shot 3D Point Cloud Instance Segmenter", ECCV, 2022 (*VinAI Research, Vietnam*). [[Paper](https://arxiv.org/abs/2207.10859)]
 * **LaplacianMesh-Transformer**: "Laplacian Mesh Transformer: Dual Attention and Topology Aware Network for 3D Mesh Classification and Segmentation", ECCV, 2022 (*CAS*). [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/5047_ECCV_2022_paper.php)]
 * **Point-MixSwap**: "Point MixSwap: Attentional Point Cloud Mixing via Swapping Matched Structural Divisions", ECCV, 2022 (*NYCU + NTU*). [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/5484_ECCV_2022_paper.php)][[PyTorch](https://github.com/ardianumam/PointMixSwap)]
+* **PointMixer**: "PointMixer: MLP-Mixer for Point Cloud Understanding", ECCV, 2022 (*KAIST*). [[Paper](https://arxiv.org/abs/2111.11187)]
 * **PTT**: "Real-time 3D Single Object Tracking with Transformer", TMM, 2022 (*Northeastern University, China*). [[Paper](https://arxiv.org/abs/2209.00860)][[PyTorch](https://github.com/shanjiayao/PTT)]
 * **Point-Transformer-V2**: "Point Transformer V2: Grouped Vector Attention and Partition-based Pooling", NeurIPS, 2022 (*HKU*). [[Paper](https://arxiv.org/abs/2210.05666)][[PyTorch (in construction)](https://github.com/Gofinge/PointTransformerV2)]
 * **SPoVT**: "SPoVT: Semantic-Prototype Variational Transformer for Dense Point Cloud Semantic Completion", NeurIPS, 2022 (*NTU*). [[Paper](https://openreview.net/forum?id=JVoKzM_-lhz)]
@@ -290,6 +291,7 @@ If you find this repository useful, please consider citing this list:
     * **TCOW**: "Tracking through Containers and Occluders in the Wild", CVPR, 2023 (*Columbia*). [[Paper](https://arxiv.org/abs/2305.03052)][[Code (in construction)](https://github.com/basilevh/tcow)][[Website](https://tcow.cs.columbia.edu/)]
     * **MOTRv3**: "MOTRv3: Release-Fetch Supervision for End-to-End Multi-Object Tracking", arXiv, 2023 (*Megvii*). [[Paper](https://arxiv.org/abs/2305.14298)]
     * **MixFormerV2**: "MixFormerV2: Efficient Fully Transformer Tracking", arXiv, 2023 (*Nanjing University*). [[Paper](https://arxiv.org/abs/2305.15896)][[PyTorch](https://github.com/MCG-NJU/MixFormerV2)]
+    * **?**: "Tracking Everything Everywhere All at Once", arXiv, 2023 (*Cornell*). [[Paper](https://arxiv.org/abs/2306.05422)][[Website](https://omnimotion.github.io/)]
 * 3D:
     * **STNet**: "3D Siamese Transformer Network for Single Object Tracking on Point Clouds", ECCV, 2022 (*Nanjing University of Science and Technology*). [[Paper](https://arxiv.org/abs/2207.11995)][[PyTorch](https://github.com/fpthink/STNet)]
     * **CMT**: "CMT: Context-Matching-Guided Transformer for 3D Tracking in Point Clouds", ECCV, 2022 (*USTC*). [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/1253_ECCV_2022_paper.php)]
