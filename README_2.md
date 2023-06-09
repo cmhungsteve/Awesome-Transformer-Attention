@@ -906,7 +906,8 @@ If you find this repository useful, please consider citing this list:
     * **TransMatting**: "TransMatting: Enhancing Transparent Objects Matting with Transformers", ECCV, 2022 (*CAS*). [[Paper](https://arxiv.org/abs/2208.03007)][[Code (in construction)](https://github.com/AceCHQ/TransMatting)]
     * **VMFormer**: "VMFormer: End-to-End Video Matting with Transformer", arXiv, 2022 (*PicsArt*). [[Paper](https://arxiv.org/abs/2208.12801)][[PyTorch](https://github.com/SHI-Labs/VMFormer)][[Website](https://chrisjuniorli.github.io/project/VMFormer/)]
     * **ViTMatte**: "ViTMatte: Boosting Image Matting with Pretrained Plain Vision Transformers", arXiv, 2023 (*Xiaobing.AI*). [[Paper](https://arxiv.org/abs/2305.15272)]
-* Reconstruction
+    * **MAM**: "Matting Anything", arXiv, 2023 (*UIUC*). [[Paper](https://arxiv.org/abs/2306.05399)][[PyTorch](https://github.com/SHI-Labs/Matting-Anything)][[Website](https://chrisjuniorli.github.io/project/Matting-Anything/)]
+* Reconstruction:
     * **ET-Net**: "Event-Based Video Reconstruction Using Transformer", ICCV, 2021 (*University of Science and Technology of China*). [[Paper](https://openaccess.thecvf.com/content/ICCV2021/html/Weng_Event-Based_Video_Reconstruction_Using_Transformer_ICCV_2021_paper.html)][[PyTorch](https://github.com/WarranWeng/ET-Net)]
     * **GradViT**: "GradViT: Gradient Inversion of Vision Transformers", CVPR, 2022 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2203.11894)][[Website](https://gradvit.github.io/)]
     * **MST**: "Mask-guided Spectral-wise Transformer for Efficient Hyperspectral Image Reconstruction", CVPR, 2022 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2111.07910)][[PyTorch](https://github.com/caiyuanhao1998/MST)]
@@ -1189,6 +1190,7 @@ If you find this repository useful, please consider citing this list:
 * **PMC-VQA**: "PMC-VQA: Visual Instruction Tuning for Medical Visual Question Answering", arXiv, 2023 (*Shanghai Jiao Tong*). [[Paper](https://arxiv.org/abs/2305.10415)][[Code (in construction)](https://github.com/xiaoman-zhang/PMC-VQA)][[Website](https://xiaoman-zhang.github.io/PMC-VQA/)]
 * **MedBLIP**: "MedBLIP: Bootstrapping Language-Image Pre-training from 3D Medical Images and Texts", arXiv, 2023 (*Shanghai Jiao Tong*). [[Paper](https://arxiv.org/abs/2305.10799)][[Code (in construction)](https://github.com/Qybc/MedBLIP)]
 * **LLaVA-Med**: "LLaVA-Med: Training a Large Language-and-Vision Assistant for Biomedicine in One Day", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2306.00890)][[Code (in construction)](https://github.com/microsoft/LLaVA-Med)]
+* **GTGM**: "Generative Text-Guided 3D Vision-Language Pretraining for Unified Medical Image Segmentation", arXiv, 2023 (*USTC*). [[Paper](https://arxiv.org/abs/2306.04811)]
 
 [[Back to Overview](#overview)]
 
