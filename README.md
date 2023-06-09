@@ -404,6 +404,7 @@ If you find this repository useful, please consider citing this list:
 * **SoViT**: "Getting ViT in Shape: Scaling Laws for Compute-Optimal Model Design", arXiv, 2023 (*DeepMind*). [[Paper](https://arxiv.org/abs/2305.13035)]
 * **FAT**: "Lightweight Vision Transformer with Bidirectional Interaction", arXiv, 2023 (*CAS*). [[Paper](https://arxiv.org/abs/2306.00396)][[PyTorch](https://github.com/qhfan/FAT)]
 * **ByteFormer**: "Bytes Are All You Need: Transformers Operating Directly On File Bytes", arXiv, 2023 (*Apple*). [[Paper](https://arxiv.org/abs/2306.00238)]
+* **?**: "Muti-Scale And Token Mergence: Make Your ViT More Efficient", arXiv, 2023 (*Jilin University*). [[Paper](https://arxiv.org/abs/2306.04897)]
 #### Conv + Transformer
 * **LeViT**: "LeViT: a Vision Transformer in ConvNet's Clothing for Faster Inference", ICCV, 2021 (*Facebook*). [[Paper](https://arxiv.org/abs/2104.01136)][[PyTorch](https://github.com/facebookresearch/LeViT)]
 * **CeiT**: "Incorporating Convolution Designs into Visual Transformers", ICCV, 2021 (*SenseTime*). [[Paper](https://arxiv.org/abs/2103.11816)][[PyTorch (rishikksh20)](https://github.com/rishikksh20/CeiT)]
@@ -949,6 +950,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **TokenCut**: "TokenCut: Segmenting Objects in Images and Videos with Self-supervised Transformer and Normalized Cut", arXiv, 2022 (*Univ. Grenoble Alpes, France*). [[Paper](https://arxiv.org/abs/2209.00383)][[PyTorch](https://github.com/YangtaoWANG95/TokenCut)][[Website](https://www.m-psi.fr/Papers/TokenCut2022/)]
     * **SeqCo-DETR**: "SeqCo-DETR: Sequence Consistency Training for Self-Supervised Object Detection with Transformers", arXiv, 2023 (*SenseTime*). [[Paper](https://arxiv.org/abs/2303.08481)]
     * **MOST**: "MOST: Multiple Object localization with Self-supervised Transformers for object discovery", arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2304.05387)]
+    * **R-MAE**: "R-MAE: Regions Meet Masked Autoencoders", arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2306.05411)]
 * X-Shot Object Detection:
     * **AIT**: "Adaptive Image Transformer for One-Shot Object Detection", CVPR, 2021 (*Academia Sinica*). [[Paper](https://openaccess.thecvf.com/content/CVPR2021/html/Chen_Adaptive_Image_Transformer_for_One-Shot_Object_Detection_CVPR_2021_paper.html)]
     * **Meta-DETR**: "Meta-DETR: Few-Shot Object Detection via Unified Image-Level Meta-Learning", arXiv, 2021 (*NTU Singapore*). [[Paper](https://arxiv.org/abs/2103.11731)][[PyTorch](https://github.com/ZhangGongjie/Meta-DETR)]
@@ -1313,6 +1315,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **IRISformer**: "IRISformer: Dense Vision Transformers for Single-Image Inverse Rendering in Indoor Scenes", CVPR, 2022 (*UCSD*). [[Paper](https://arxiv.org/abs/2206.08423)][[Code (in construction)](https://github.com/ViLab-UCSD/IRISformer)]
     * **InvPT**: "Inverted Pyramid Multi-task Transformer for Dense Scene Understanding", ECCV, 2022 (*HKUST*). [[Paper](https://arxiv.org/abs/2203.07997)][[PyTorch](https://github.com/prismformore/Multi-Task-Transformer)]
     * **TaskPrompter**: "TaskPrompter: Spatial-Channel Multi-Task Prompting for Dense Scene Understanding", ICLR, 2023 (*HKUST*). [[Paper](https://openreview.net/forum?id=-CwPopPJda)][[PyTorch (in construction)](https://github.com/prismformore/Multi-Task-Transformer)]
+    * **InvPT++**: "InvPT++: Inverted Pyramid Multi-Task Transformer for Visual Scene Understanding", arXiv, 2023 (*HKUST*). [[Paper](https://arxiv.org/abs/2306.04842)]
 * 3D Segmentation:
     * **Stratified-Transformer**: "Stratified Transformer for 3D Point Cloud Segmentation", CVPR, 2022 (*CUHK*). [[Paper](https://arxiv.org/abs/2203.14508)][[PyTorch](https://github.com/dvlab-research/Stratified-Transformer)]
     * **CodedVTR**: "CodedVTR: Codebook-based Sparse Voxel Transformer with Geometric Guidance", CVPR, 2022 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2203.09887)]
@@ -1418,10 +1421,11 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
     * **DualPath**: "Dual-path Adaptation from Image to Video Transformers", CVPR, 2023 (*Yonsei University*). [[Paper](https://arxiv.org/abs/2303.09857)][[PyTorch (in construction)](https://github.com/park-jungin/DualPath)]
     * **S-ViT**: "Streaming Video Model", CVPR, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2303.17228)][[Code (in construction)](https://github.com/yuzhms/Streaming-Video-Model)]
     * **SMViT**: "Simple MViT: A Hierarchical Vision Transformer without the Bells-and-Whistles", ICML, 2023 (*Meta*). [[Paper](https://omidpoursaeed.github.io/publication/smvit/)]
+    * **Hiera**: "Hiera: A Hierarchical Vision Transformer without the Bells-and-Whistles", ICML, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2306.00989)][[PyTorch](https://github.com/facebookresearch/hiera)]
     * **BEAR**: "A Large-scale Study of Spatiotemporal Representation Learning with a New Benchmark on Action Recognition", arXiv, 2023 (*UCF*). [[Paper](https://arxiv.org/abs/2303.13505)][[GitHub](https://github.com/AndongDeng/BEAR)]
     * **SVT**: "SVT: Supertoken Video Transformer for Efficient Video Understanding", arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2304.00325)]
     * **PLAR**: "Prompt Learning for Action Recognition", arXiv, 2023 (*Maryland*). [[Paper](https://arxiv.org/abs/2305.12437)]
-    * **Hiera**: "Hiera: A Hierarchical Vision Transformer without the Bells-and-Whistles", ICML, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2306.00989)][[PyTorch](https://github.com/facebookresearch/hiera)]
+    * **SFA-ViViT**: "Optimizing ViViT Training: Time and Memory Reduction for Action Recognition", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2306.04822)]
 * Depth:
     * **Trear**: "Trear: Transformer-based RGB-D Egocentric Action Recognition",  IEEE Transactions on Cognitive and Developmental Systems, 2021 (*Tianjing University*). [[Paper](https://ieeexplore.ieee.org/document/9312201)]
 * Pose/Skeleton:
@@ -1542,6 +1546,7 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
 * **OW-VISFormer**: "Video Instance Segmentation in an Open-World", arXiv, 2023 (*MBZUAI*). [[Paper](https://arxiv.org/abs/2304.01200)][[Code (in construction)](https://github.com/OmkarThawakar/OWVISFormer)]
 * **GRAtt-VIS**: "GRAtt-VIS: Gated Residual Attention for Auto Rectifying Video Instance Segmentation", arXiv, 2023 (*LMU Munich*). [[Paper](https://arxiv.org/abs/2305.17096)][[Code (in construction)](https://github.com/Tanveer81/GRAttVIS)]
 * **DVIS**: "DVIS: Decoupled Video Instance Segmentation Framework", arXiv, 2023 (*Wuhan University*). [[Paper](https://arxiv.org/abs/2306.03413)][[PyTorch](https://github.com/zhang-tao-whu/DVIS)]
+* **RefineVIS**: "RefineVIS: Video Instance Segmentation with Temporal Attention Refinement", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2306.04774)]
 
 [[Back to Overview](#overview)]
 
