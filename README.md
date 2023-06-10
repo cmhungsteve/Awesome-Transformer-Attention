@@ -538,6 +538,7 @@ If you find this repository useful, please consider citing this list:
 * **LGSimCLR**: "Learning Visual Representations via Language-Guided Sampling", CVPR, 2023 (*Michigan*). [[Paper](https://arxiv.org/abs/2302.12248)][[PyTorch](https://github.com/mbanani/lgssl)]
 * **DisCo-CLIP**: "DisCo-CLIP: A Distributed Contrastive Loss for Memory Efficient CLIP Training", CVPR, 2023 (*IDEA*). [[Paper](https://arxiv.org/abs/2304.08480)][[Code (in construction)](https://github.com/IDEA-Research/DisCo-CLIP)]
 * **MaskCLIP**: "MaskCLIP: Masked Self-Distillation Advances Contrastive Language-Image Pretraining", CVPR, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2208.12262)][[Code (in construction)](https://github.com/LightDXY/MaskCLIP)]
+* **MAGE**: "MAGE: MAsked Generative Encoder to Unify Representation Learning and Image Synthesis", CVPR, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2211.09117)][[PyTorch](https://github.com/LTH14/mage)]
 * **CountBench**: "Teaching CLIP to Count to Ten", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2302.12066)]
 * **CCViT**: "Centroid-centered Modeling for Efficient Vision Transformer Pre-training", arXiv, 2023 (*Wuhan University*). [[Paper](https://arxiv.org/abs/2303.04664)]
 * **SoftCLIP**: "SoftCLIP: Softer Cross-modal Alignment Makes CLIP Stronger", arXiv, 2023 (*Tencent*). [[Paper](https://arxiv.org/abs/2303.17561)]
@@ -553,6 +554,7 @@ If you find this repository useful, please consider citing this list:
 * **3T**: "Three Towers: Flexible Contrastive Learning with Pretrained Image Models", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2305.16999)]
 * **LaCLIP**: "Improving CLIP Training with Language Rewrites", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2305.20088)][[PyTorch](https://github.com/LijieFan/LaCLIP)]
 * **StableRep**: "StableRep: Synthetic Images from Text-to-Image Models Make Strong Visual Representation Learners", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2306.00984)]
+* **ADDP**: "ADDP: Learning General Representations for Image Recognition and Generation with Alternating Denoising Diffusion Process", arXiv, 2023 (*CUHK + Tsinghua*). [[Paper](https://arxiv.org/abs/2306.05423)]
 #### Robustness + Transformer
 * **ViT-Robustness**: "Understanding Robustness of Transformers for Image Classification", ICCV, 2021 (*Google*). [[Paper](https://arxiv.org/abs/2103.14586)]
 * **SAGA**: "On the Robustness of Vision Transformers to Adversarial Examples", ICCV, 2021 (*University of Connecticut*). [[Paper](https://arxiv.org/abs/2104.02610)]
