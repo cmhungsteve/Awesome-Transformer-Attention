@@ -2266,6 +2266,9 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
     * **PYoCo**: "Preserve Your Own Correlation: A Noise Prior for Video Diffusion Models", arXiv, 2023 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2305.10474)][[Website](https://research.nvidia.com/labs/dir/pyoco/)]
     * **VideoFactory**: "VideoFactory: Swap Attention in Spatiotemporal Diffusions for Text-to-Video Generation", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2305.10874)]
     * **Video-Adapter**: "Probabilistic Adaptation of Text-to-Video Models", arXiv, 2023 (*DeepMind*). [[Paper](https://arxiv.org/abs/2306.01872)][[Website](https://video-adapter.github.io/video-adapter/)]
+* 3D:
+    * **Magic3D**: "Magic3D: High-Resolution Text-to-3D Content Creation", CVPR, 2023 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2211.10440)][[Website](https://research.nvidia.com/labs/dir/magic3d/)]
+    * **ATT3D**: "ATT3D: Amortized Text-To-3D Object Synthesis", arXiv, 2023 (*NVIDIA*). [[Paper](https://research.nvidia.com/labs/toronto-ai/ATT3D/images/papers/att3d.pdf)][[Website](https://research.nvidia.com/labs/toronto-ai/ATT3D/)]
 
 [[Back to Overview](#overview)]
 
