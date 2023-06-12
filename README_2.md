@@ -292,12 +292,14 @@ If you find this repository useful, please consider citing this list:
     * **MOTRv3**: "MOTRv3: Release-Fetch Supervision for End-to-End Multi-Object Tracking", arXiv, 2023 (*Megvii*). [[Paper](https://arxiv.org/abs/2305.14298)]
     * **MixFormerV2**: "MixFormerV2: Efficient Fully Transformer Tracking", arXiv, 2023 (*Nanjing University*). [[Paper](https://arxiv.org/abs/2305.15896)][[PyTorch](https://github.com/MCG-NJU/MixFormerV2)]
     * **?**: "Tracking Everything Everywhere All at Once", arXiv, 2023 (*Cornell*). [[Paper](https://arxiv.org/abs/2306.05422)][[Website](https://omnimotion.github.io/)]
+    * **?**: "A Dual-Source Attention Transformer for Multi-Person Pose Tracking", arXiv, 2023 (*University of Bonn, Germany*). [[Paper](https://arxiv.org/abs/2306.05807)]
 * 3D:
     * **STNet**: "3D Siamese Transformer Network for Single Object Tracking on Point Clouds", ECCV, 2022 (*Nanjing University of Science and Technology*). [[Paper](https://arxiv.org/abs/2207.11995)][[PyTorch](https://github.com/fpthink/STNet)]
     * **CMT**: "CMT: Context-Matching-Guided Transformer for 3D Tracking in Point Clouds", ECCV, 2022 (*USTC*). [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/1253_ECCV_2022_paper.php)]
     * **InterTrack**: "InterTrack: Interaction Transformer for 3D Multi-Object Tracking", arXiv, 2022 (*University of Toronto*). [[Paper](https://arxiv.org/abs/2208.08041)]
     * **GLT-T**: "GLT-T: Global-Local Transformer Voting for 3D Single Object Tracking in Point Clouds", AAAI, 2023 (*Hangzhou Dianzi University*). [[Paper](https://arxiv.org/abs/2211.10927)][[PyTorch](https://github.com/haooozi/GLT-T)]
     * **GLT-T++**: "GLT-T++: Global-Local Transformer for 3D Siamese Tracking with Ranking Loss", arXiv, 2023 (*Hangzhou Dianzi University*). [[Paper](https://arxiv.org/abs/2304.00242)][[PyTorch](https://github.com/haooozi/GLT-T)]
+    * **TrajectoryFormer**: "TrajectoryFormer: 3D Object Tracking Transformer with Predictive Trajectory Hypotheses", arXiv, 2023 (*CUHK*). [[Paper](https://arxiv.org/abs/2306.05888)]
 
 [[Back to Overview](#overview)]
 
