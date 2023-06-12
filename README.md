@@ -896,6 +896,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **ContFormer**: "Video Referring Expression Comprehension via Transformer with Content-aware Query", arXiv, 2022 (*Peking University*). [[Paper](https://arxiv.org/abs/2210.02953)]
 * **DQ-DETR**: "DQ-DETR: Dual Query Detection Transformer for Phrase Extraction and Grounding", AAAI, 2023 (*International Digital Economy Academy (IDEA)*). [[Paper](https://arxiv.org/abs/2211.15516)][[Code (in construction)](https://github.com/IDEA-Research/DQ-DETR)]
 * **F-VLM**: "F-VLM: Open-Vocabulary Object Detection upon Frozen Vision and Language Models", ICLR, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2209.15639)][[Website](https://sites.google.com/view/f-vlm)]
+* **MM-OVOD**: "Multi-Modal Classifiers for Open-Vocabulary Object Detection", ICML, 2023 (*Oxford*). [[Paper](https://arxiv.org/abs/2306.05493?s=31)][[Code (in construction)](https://github.com/prannaykaul/mm-ovod)][[Website](https://www.robots.ox.ac.uk/~vgg/research/mm-ovod/)]
 * **OV-3DET**: "Open-Vocabulary Point-Cloud Object Detection without 3D Annotation", arXiv, 2023 (*Peking University*). [[Paper](https://arxiv.org/abs/2304.00788)][[Code (in construction)](https://github.com/lyhdet/OV-3DET)]
 * **OmniLabel**: "OmniLabel: A Challenging Benchmark for Language-Based Object Detection", arXiv, 2023 (*NEC*). [[Paper](https://arxiv.org/abs/2304.11463)][[GitHub](https://github.com/samschulter/omnilabeltools)][[Website](https://www.omnilabel.org/)]
 * **ContextDET**: "Contextual Object Detection with Multimodal Large Language Models", arXiv, 2023 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2305.18279)][[Code (in construction)](https://github.com/yuhangzang/ContextDET)][[Website](https://www.mmlab-ntu.com/project/contextdet/index.html)]
@@ -1146,6 +1147,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **Lite-Mono**: "Lite-Mono: A Lightweight CNN and Transformer Architecture for Self-Supervised Monocular Depth Estimation", arXiv, 2022 (*University of Twente, Netherlands*). [[Paper](https://arxiv.org/abs/2211.13202)][[PyTorch (in construction)](https://github.com/noahzn/Lite-Mono)]
 * **ObjCAViT**: "ObjCAViT: Improving Monocular Depth Estimation Using Natural Language Models And Image-Object Cross-Attention", arXiv, 2022 (*ICL*). [[Paper](https://arxiv.org/abs/2211.17232)]
 * **ROIFormer**: "ROIFormer: Semantic-Aware Region of Interest Transformer for Efficient Self-Supervised Monocular Depth Estimation", AAAI, 2023 (*OPPO*). [[Paper](https://arxiv.org/abs/2212.05729)]
+* **TST**: "Lightweight Monocular Depth Estimation via Token-Sharing Transformer", ICRA, 2023 (*KAIST*). [[Paper](https://arxiv.org/abs/2306.05682)]
 * **CompletionFormer**: "CompletionFormer: Depth Completion with Convolutions and Vision Transformers", CVPR, 2023 (*University of Bologna, Italy*). [[Paper](https://arxiv.org/abs/2304.13030)][[PyTorch](https://github.com/youmi-zym/CompletionFormer)][[Website](https://youmi-zym.github.io/projects/CompletionFormer/)]
 * **EGformer**: "EGformer: Equirectangular Geometry-biased Transformer for 360 Depth Estimation", arXiv, 2023 (*SNU*). [[Paper](https://arxiv.org/abs/2304.07803)]
 
@@ -1257,6 +1259,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * Panoramic Semantic Segmentation:
     * **Trans4PASS**: "Bending Reality: Distortion-aware Transformers for Adapting to Panoramic Semantic Segmentation", CVPR, 2022 (*Karlsruhe Institute of Technology, Germany*). [[Paper](https://arxiv.org/abs/2203.01452)][[PyTorch](https://github.com/jamycheung/Trans4PASS)]
     * **SGAT4PASS**: "SGAT4PASS: Spherical Geometry-Aware Transformer for PAnoramic Semantic Segmentation", IJCAI, 2023 (*Tencent*). [[Paper](https://arxiv.org/abs/2306.03403)][[Code (in construction)](https://github.com/TencentARC/SGAT4PASS)]
+    * **FlowFormer**: "FlowFormer: A Transformer Architecture and Its Masked Cost Volume Autoencoding for Optical Flow", arXiv, 2023 (*CUHK*). [[Paper](https://arxiv.org/abs/2306.05442)]
 * X-Shot:
     * **CyCTR**: "Few-Shot Segmentation via Cycle-Consistent Transformer", NeurIPS, 2021 (*University of Technology Sydney*). [[Paper](https://arxiv.org/abs/2106.02320)]
     * **CATrans**: "CATrans: Context and Affinity Transformer for Few-Shot Segmentation", IJCAI, 2022 (*Baidu*). [[Paper](https://arxiv.org/abs/2204.12817)]
@@ -2383,7 +2386,9 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
     * **RLCF**: "Test-Time Adaptation with CLIP Reward for Zero-Shot Generalization in Vision-Language Models", arXiv, 2023 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2305.18010)][[Code (in construction)](https://github.com/mzhaoshuai/RLCF)]
     * **LMAT**: "Can Large Pre-trained Models Help Vision Models on Perception Tasks?", arXiv, 2023 (*Huawei*). [[Paper](https://arxiv.org/abs/2306.00693)][[Website (in construction)](https://dingning97.github.io/imagenet-descriptions/)]
 * Zero-Shot:
+    * **CuPL**: "What does a platypus look like? Generating customized prompts for zero-shot image classification", arXiv, 2022 (*UW*). [[Paper](https://arxiv.org/abs/2209.03320)][[PyTorch](https://github.com/sarahpratt/CuPL)]
     * **SMs**: "Socratic Models: Composing Zero-Shot Multimodal Reasoning with Language", ICLR, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2204.00598)][[GitHub](https://github.com/google-research/google-research/tree/master/socraticmodels)][[Website](https://socraticmodels.github.io/)]
+    * **V-GLOSS**: "Visually-Grounded Descriptions Improve Zero-Shot Image Classification", arXiv, 2023 (*University of Alberta, Canada*). [[Paper](https://arxiv.org/abs/2306.06077)]
 * X-Shot:
     * **Tip-Adapter**: "Tip-Adapter: Training-free Adaption of CLIP for Few-shot Classification", ECCV, 2022 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2207.09519)][[PyTorch](https://github.com/gaopengcuhk/Tip-Adapter)]
     * **VidIL**: "Language Models with Image Descriptors are Strong Few-Shot Video-Language Learners", NeurIPS, 2022 (*UIUC*). [[Paper](https://arxiv.org/abs/2205.10747)][[PyTorch](https://github.com/MikeWangWZHL/VidIL)]
