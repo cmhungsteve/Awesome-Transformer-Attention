@@ -557,6 +557,9 @@ If you find this repository useful, please consider citing this list:
 * **LaCLIP**: "Improving CLIP Training with Language Rewrites", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2305.20088)][[PyTorch](https://github.com/LijieFan/LaCLIP)]
 * **StableRep**: "StableRep: Synthetic Images from Text-to-Image Models Make Strong Visual Representation Learners", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2306.00984)]
 * **ADDP**: "ADDP: Learning General Representations for Image Recognition and Generation with Alternating Denoising Diffusion Process", arXiv, 2023 (*CUHK + Tsinghua*). [[Paper](https://arxiv.org/abs/2306.05423)]
+* **MOFI**: "MOFI: Learning Image Representations from Noisy Entity Annotated Images", arXiv, 2023 (*Apple*). [[Paper](https://arxiv.org/abs/2306.07952)]
+* **CapPa**: "Image Captioners Are Scalable Vision Learners Too", arXiv, 2023 (*DeepMind*). [[Paper](https://arxiv.org/abs/2306.07915)]
+* **MaPeT**: "Learning to Mask and Permute Visual Tokens for Vision Transformer Pre-Training", arXiv, 2023 (*UniMoRE, Italy*). [[Paper](https://arxiv.org/abs/2306.07346)][[PyTorch](https://github.com/aimagelab/MaPeT)]
 #### Robustness + Transformer
 * **ViT-Robustness**: "Understanding Robustness of Transformers for Image Classification", ICCV, 2021 (*Google*). [[Paper](https://arxiv.org/abs/2103.14586)]
 * **SAGA**: "On the Robustness of Vision Transformers to Adversarial Examples", ICCV, 2021 (*University of Connecticut*). [[Paper](https://arxiv.org/abs/2104.02610)]
@@ -749,6 +752,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **Vision-DiffMask**: "VISION DIFFMASK: Faithful Interpretation of Vision Transformers with Differentiable Patch Masking", CVPRW, 2023 (*University of Amsterdam*). [[Paper](https://arxiv.org/abs/2304.06391)][[PyTorch](https://github.com/AngelosNal/Vision-DiffMask)]
 * **AttentionViz**: "AttentionViz: A Global View of Transformer Attention", arXiv, 2023 (*Harvard*). [[Paper](https://arxiv.org/abs/2305.03210)][[Website](http://attentionviz.com/)]
 * **?**: "Understanding Gaussian Attention Bias of Vision Transformers Using Effective Receptive Fields", arXiv, 2023 (*POSTECH*). [[Paper](https://arxiv.org/abs/2305.04722)]
+* **?**: "Reviving Shift Equivariance in Vision Transformers", arXiv, 2023 (*Maryland*). [[Paper](https://arxiv.org/abs/2306.07470)]
 
 [[Back to Overview](#overview)]
 
@@ -1183,6 +1187,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **SAD**: "SAD: Segment Any RGBD", arXiv, 2023 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2305.14207)][[PyTorch](https://github.com/Jun-CEN/SegmentAnyRGBD)]
     * **HQ-SAM**: "Segment Anything in High Quality", arXiv, 2023 (*ETHZ*). [[Paper](https://arxiv.org/abs/2306.01567)][[Code (in construction)](https://github.com/SysCV/SAM-HQ)]
     * **?**: "A Survey on Segment Anything Model (SAM): Vision Foundation Model Meets Prompt Engineering", arXiv, 2023 (*Kyung Hee University, Korea*). [[Paper](https://arxiv.org/abs/2306.06211)]
+    * **?**: "Robustness of SAM: Segment Anything Under Corruptions and Beyond", arXiv, 2023 (*Kyung Hee University*). [[Paper](https://arxiv.org/abs/2306.07713)]
 * Vision-Language:
     * **LSeg**: "Language-driven Semantic Segmentation", ICLR, 2022 (*Cornell*). [[Paper](https://arxiv.org/abs/2201.03546)][[PyTorch](https://github.com/isl-org/lang-seg)]
     * **ZegFormer**: "Decoupling Zero-Shot Semantic Segmentation", CVPR, 2022 (*Wuhan University*). [[Paper](https://arxiv.org/abs/2112.07910)][[PyTorch](https://github.com/dingjiansw101/ZegFormer)]
@@ -2318,6 +2323,7 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
     * **Magic3D**: "Magic3D: High-Resolution Text-to-3D Content Creation", CVPR, 2023 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2211.10440)][[Website](https://research.nvidia.com/labs/dir/magic3d/)]
     * **ATT3D**: "ATT3D: Amortized Text-To-3D Object Synthesis", arXiv, 2023 (*NVIDIA*). [[Paper](https://research.nvidia.com/labs/toronto-ai/ATT3D/images/papers/att3d.pdf)][[Website](https://research.nvidia.com/labs/toronto-ai/ATT3D/)]
     * **InstructP2P**: "InstructP2P: Learning to Edit 3D Point Clouds with Text Instructions", arXiv, 2023 (*Tencent*). [[Paper](https://arxiv.org/abs/2306.07154)]
+    * **ATT3D**: "ATT3D: Amortized Text-to-3D Object Synthesis", arXiv, 2023 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2306.07349)][[Website](https://research.nvidia.com/labs/toronto-ai/ATT3D/)]
 
 [[Back to Overview](#overview)]
 
