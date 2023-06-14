@@ -1187,6 +1187,7 @@ If you find this repository useful, please consider citing this list:
 * **RoentGen**: "RoentGen: Vision-Language Foundation Model for Chest X-ray Generation", arXiv, 2022 (*Stanford*). [[Paper](https://arxiv.org/abs/2211.12737)]
 * **?**: "Medical Image Understanding with Pretrained Vision Language Models: A Comprehensive Study", ICLR, 2023 (*Sichuan University*). [[Paper](https://arxiv.org/abs/2209.15517)]
 * **METransformer**: "METransformer: Radiology Report Generation by Transformer with Multiple Learnable Expert Tokens", CVPR, 2023 (*University of Sydney*). [[Paper](https://arxiv.org/abs/2304.02211)]
+* **MI-Zero**: "Visual Language Pretrained Multiple Instance Zero-Shot Transfer for Histopathology Images", CVPR, 2023 (*Harvard*). [[Paper](https://arxiv.org/abs/2306.07831)]
 * **RAMM**: "RAMM: Retrieval-augmented Biomedical Visual Question Answering with Multi-modal Pre-training", arXiv, 2023 (*Alibaba*). [[Paper](https://arxiv.org/abs/2303.00534)]
 * **PT**: "Open-Ended Medical Visual Question Answering Through Prefix Tuning of Language Models", arXiv, 2023 (*University of Amsterdam*). [[Paper](https://arxiv.org/abs/2303.05977)]
 * **PMC-CLIP**: "PMC-CLIP: Contrastive Language-Image Pre-training using Biomedical Documents", arXiv, 2023 (*Shanghai Jiao Tong*). [[Paper](https://arxiv.org/abs/2303.07240)]
