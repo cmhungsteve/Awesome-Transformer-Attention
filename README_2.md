@@ -1440,6 +1440,8 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **?**: "Grounding Language with Visual Affordances over Unstructured Data", arXiv, 2022 (*University of Freiburg, Germany*). [[Paper](https://arxiv.org/abs/2210.01911)][[Website](http://hulc2.cs.uni-freiburg.de/)]
     * **VIMA**: "VIMA: General Robot Manipulation with Multimodal Prompts", arXiv, 2022 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2210.03094)][[PyTorch](https://github.com/vimalabs/VIMA)][[Website](https://vimalabs.github.io/)]
     * **?**: "Lossless Adaptation of Pretrained Vision Models For Robotic Manipulation", ICLR, 2023 (*DeepMind*). [[Paper](https://openreview.net/forum?id=5IND3TXJRb-)]
+    * **LOCATE**: "LOCATE: Localize and Transfer Object Parts for Weakly Supervised Affordance Grounding", CVPR, 2023 (*University of Edinburgh, UK*). [[Paper](https://arxiv.org/abs/2303.09665)][[PyTorch](https://github.com/Reagan1311/LOCATE)][[Website](https://reagan1311.github.io/locate/)]
+    * **Afformer**: "Affordance Grounding from Demonstration Video to Target Image", CVPR, 2023 (*NUS*). [[Paper](https://arxiv.org/abs/2303.14644)][[PyTorch](https://github.com/showlab/afformer)]
 * Scene Decomposition:
     * **SRT**: "Scene Representation Transformer: Geometry-Free Novel View Synthesis Through Set-Latent Scene Representations", CVPR, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2111.13152)][[PyTorch (stelzner)](https://github.com/stelzner/srt)][[Website](https://srt-paper.github.io/)]
     * **OSRT**: "Object Scene Representation Transformer", NeurIPS, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2206.06922)][[Website](https://osrt-paper.github.io/)]
