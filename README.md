@@ -563,6 +563,7 @@ If you find this repository useful, please consider citing this list:
 * **MOFI**: "MOFI: Learning Image Representations from Noisy Entity Annotated Images", arXiv, 2023 (*Apple*). [[Paper](https://arxiv.org/abs/2306.07952)]
 * **CapPa**: "Image Captioners Are Scalable Vision Learners Too", arXiv, 2023 (*DeepMind*). [[Paper](https://arxiv.org/abs/2306.07915)]
 * **MaPeT**: "Learning to Mask and Permute Visual Tokens for Vision Transformer Pre-Training", arXiv, 2023 (*UniMoRE, Italy*). [[Paper](https://arxiv.org/abs/2306.07346)][[PyTorch](https://github.com/aimagelab/MaPeT)]
+* **RECO**: "Retrieval-Enhanced Contrastive Vision-Text Models", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2306.07196)]
 #### Robustness + Transformer
 * **ViT-Robustness**: "Understanding Robustness of Transformers for Image Classification", ICCV, 2021 (*Google*). [[Paper](https://arxiv.org/abs/2103.14586)]
 * **SAGA**: "On the Robustness of Vision Transformers to Adversarial Examples", ICCV, 2021 (*University of Connecticut*). [[Paper](https://arxiv.org/abs/2104.02610)]
