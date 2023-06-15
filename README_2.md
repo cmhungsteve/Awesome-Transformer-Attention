@@ -140,6 +140,7 @@ If you find this repository useful, please consider citing this list:
 * **FlatFormer**: "FlatFormer: Flattened Window Attention for Efficient Point Cloud Transformer", CVPR, 2023 (*MIT*). [[Paper](https://arxiv.org/abs/2301.08739)][[Website](https://flatformer.mit.edu/)]
 * **PEAL**: "PEAL: Prior-Embedded Explicit Attention Learning for Low-Overlap Point Cloud Registration", CVPR, 2023 (*Hangzhou Dianzi University*). [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Yu_PEAL_Prior-Embedded_Explicit_Attention_Learning_for_Low-Overlap_Point_Cloud_Registration_CVPR_2023_paper.html)]
 * **APES**: "Attention-based Point Cloud Edge Sampling", CVPR, 2023 (*Karlsruhe Institute of Technology, Germany*). [[Paper](https://arxiv.org/abs/2302.14673)]
+* **GD-MAE**: "GD-MAE: Generative Decoder for MAE Pre-training on LiDAR Point Clouds", CVPR, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2212.03010)][[PyTorch](https://github.com/Nightmare-n/GD-MAE)]
 * **OctFormer**: "OctFormer: Octree-based Transformers for 3D Point Clouds", SIGGRAPH, 2023 (*Peking University*). [[Paper](https://arxiv.org/abs/2305.03045)][[Code (in construction)](https://github.com/octree-nn/octformer)][[Website](https://wang-ps.github.io/octformer)]
 * **Text4Point**: "Joint Representation Learning for Text and 3D Point Cloud", arXiv, 2023 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2301.07584)][[Code (in construction)](https://github.com/LeapLabTHU/Text4Point)]
 * **FullFormer**: "FullFormer: Generating Shapes Inside Shapes", arXiv, 2023 (*University of Siegen, Germany*). [[Paper](https://arxiv.org/abs/2303.11235)]
@@ -828,6 +829,7 @@ If you find this repository useful, please consider citing this list:
 * **LayoutDM**: "LayoutDM: Discrete Diffusion Model for Controllable Layout Generation", CVPR, 2023 (*CyberAgent, Japan*). [[Paper](https://arxiv.org/abs/2303.08137)][[PyTorch](https://github.com/CyberAgentAILab/layout-dm)][[Website](https://cyberagentailab.github.io/layout-dm/)]
 * **GTGAN**: "Graph Transformer GANs for Graph-Constrained House Generation", CVPR, 2023 (*ETHZ*). [[Paper](https://arxiv.org/abs/2303.08225)]
 * **ABLE-NeRF**: "ABLE-NeRF: Attention-Based Rendering with Learnable Embeddings for Neural Radiance Field", CVPR, 2023 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2303.13817)]
+* **U-ViT**: "All are Worth Words: A ViT Backbone for Diffusion Models", CVPR, 2023 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2209.12152)]
 * **VQ3D**: "VQ3D: Learning a 3D-Aware Generative Model on ImageNet", arXiv, 2023 (*Stanford*). [[Paper](https://arxiv.org/abs/2302.06833)][[Website](https://kylesargent.github.io/vq3d)]
 * **LayoutDiffuse**: "LayoutDiffuse: Adapting Foundational Diffusion Models for Layout-to-Image Generation", arXiv, 2023 (*Amazon*). [[Paper](https://arxiv.org/abs/2302.08908)]
 * **StraIT**: "StraIT: Non-autoregressive Generation with Stratified Image Transformer", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2303.00750)]
@@ -919,6 +921,7 @@ If you find this repository useful, please consider citing this list:
     * **CA-ViT**: "Ghost-free High Dynamic Range Imaging with Context-aware Transformer", ECCV, 2022 (*Megvii*). [[Paper](https://arxiv.org/abs/2208.05114)][[PyTorch](https://github.com/megvii-research/HDR-Transformer)]
     * **Selective-TransHDR**: "Selective TransHDR: Transformer-Based Selective HDR Imaging Using Ghost Region Mask", ECCV, 2022 (*Sogang University, Korea*). [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/6670_ECCV_2022_paper.php)]
     * **Text2Light**: "Text2Light: Zero-Shot Text-Driven HDR Panorama Generation", SIGGRAPH Asia, 2022 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2209.09898)][[PyTorch](https://github.com/FrozenBurning/Text2Light)][[Website](https://frozenburning.github.io/projects/text2light/)]
+    * **SMAE**: "SMAE: Few-shot Learning for HDR Deghosting with Saturation-Aware Masked Autoencoders", CVPR, 2023 (*Northwestern Polytechnical University*). [[Paper](https://arxiv.org/abs/2304.06914)]
     * **SCTNet**: "Alignment-free HDR Deghosting with Semantics Consistent Transformer", arXiv, 2023 (*University of Bourgogne, France*). [[Paper](https://arxiv.org/abs/2305.18135)][[Website](https://steven-tel.github.io/sctnet/)]
 * Harmonization:
     * **HT**: "Image Harmonization With Transformer", ICCV, 2021 (*Ocean University of China*). [[Paper](https://openaccess.thecvf.com/content/ICCV2021/html/Guo_Image_Harmonization_With_Transformer_ICCV_2021_paper.html)]
@@ -1117,6 +1120,7 @@ If you find this repository useful, please consider citing this list:
 * **3DUX-Net**: "3D UX-Net: A Large Kernel Volumetric ConvNet Modernizing Hierarchical Transformer for Medical Image Segmentation", ICLR, 2023 (*Vanderbilt University*). [[Paper](https://arxiv.org/abs/2209.15076)][[PyTorch](https://github.com/MASILab/3DUX-Net)]
 * **?**: "Devil is in the Queries: Advancing Mask Transformers for Real-world Medical Image Segmentation and Out-of-Distribution Localization", CVPR, 2023 (*Alibaba*). [[Paper](https://arxiv.org/abs/2304.00212)]
 * **CVM**: "Weakly supervised segmentation with point annotations for histopathology images via contrast-based variational model", CVPR, 2023 (*University of Liverpool, UK*). [[Paper](https://arxiv.org/abs/2304.03572)]
+* **MAESTER**: "MAESTER: Masked Autoencoder Guided Segmentation at Pixel Resolution for Accurate, Self-Supervised Subcellular Structure Recognition", CVPR, 2023 (*University of Toronto*). [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Xie_MAESTER_Masked_Autoencoder_Guided_Segmentation_at_Pixel_Resolution_for_Accurate_CVPR_2023_paper.html)]
 * **UniSeg**: "UniSeg: A Prompt-driven Universal Segmentation Model as well as A Strong Representation Learner", arXiv, 2023 (*Northwestern Polytechnical University, China*). [[Paper](https://arxiv.org/abs/2304.03493)][[PyTorch (in construction)](https://github.com/yeerwen/UniSeg)]
 * **UniverSeg**: "UniverSeg: Universal Medical Image Segmentation", arXiv, 2023 (*MIT*). [[Paper](https://arxiv.org/abs/2304.06131)][[PyTorch](https://github.com/JJGO/UniverSeg)][[Website](https://universeg.csail.mit.edu/)]
 
