@@ -1229,6 +1229,7 @@ If you find this repository useful, please consider citing this list:
 * **MedBLIP**: "MedBLIP: Bootstrapping Language-Image Pre-training from 3D Medical Images and Texts", arXiv, 2023 (*Shanghai Jiao Tong*). [[Paper](https://arxiv.org/abs/2305.10799)][[Code (in construction)](https://github.com/Qybc/MedBLIP)]
 * **LLaVA-Med**: "LLaVA-Med: Training a Large Language-and-Vision Assistant for Biomedicine in One Day", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2306.00890)][[Code (in construction)](https://github.com/microsoft/LLaVA-Med)]
 * **GTGM**: "Generative Text-Guided 3D Vision-Language Pretraining for Unified Medical Image Segmentation", arXiv, 2023 (*USTC*). [[Paper](https://arxiv.org/abs/2306.04811)]
+* **XrayGPT**: "XrayGPT: Chest Radiographs Summarization using Medical Vision-Language Models", arXiv, 2023 (*MBZUAI*). [[Paper](https://arxiv.org/abs/2306.07971)][[PyTorch](https://github.com/mbzuai-oryx/XrayGPT)]
 
 [[Back to Overview](#overview)]
 
