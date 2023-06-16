@@ -127,7 +127,7 @@ If you find this repository useful, please consider citing this list:
 * **AnalogicalNets**: "Analogy-Forming Transformers for Few-Shot 3D Parsing", ICLR, 2023 (*CMU*). [[Paper](https://arxiv.org/abs/2304.14382)][[Website](https://analogicalnets.github.io/)]
 * **ViPFormer**: "ViPFormer: Efficient Vision-and-Pointcloud Transformer for Unsupervised Pointcloud Understanding", ICRA, 2023 (*Renmin University of China*). [[Paper](https://arxiv.org/abs/2303.14376)][[PyTorch](https://github.com/auniquesun/ViPFormer)]
 * **ProxyFormer**: "ProxyFormer: Proxy Alignment Assisted Point Cloud Completion with Missing Part Sensitive Transformer", CVPR, 2023 (*Nanjing University of Aeronautics and Astronautics*). [[Paper](https://arxiv.org/abs/2302.14435)][[PyTorch](https://github.com/I2-Multimedia-Lab/ProxyFormer)]
-* **I2P-MAE.**: "Learning 3D Representations from 2D Pre-trained Models via Image-to-Point Masked Autoencoders", CVPR, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2212.06785)][[Code (in construction)](https://github.com/ZrrSkywalker/I2P-MAE)]
+* **I2P-MAE.**: "Learning 3D Representations from 2D Pre-trained Models via Image-to-Point Masked Autoencoders", CVPR, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2212.06785)][[PyTorch](https://github.com/ZrrSkywalker/I2P-MAE)]
 * **RoITr**: "Rotation-Invariant Transformer for Point Cloud Matching", CVPR, 2023 (*TUM*). [[Paper](https://arxiv.org/abs/2303.08231)]
 * **SphereFormer**: "Spherical Transformer for LiDAR-based 3D Recognition", CVPR, 2023 (*CUHK*). [[Paper](https://arxiv.org/abs/2303.12766)][[PyTorch](https://github.com/dvlab-research/SphereFormer)]
 * **SPoTr**: "Self-positioning Point-based Transformer for Point Cloud Understanding", CVPR, 2023 (*Korea University*). [[Paper](https://arxiv.org/abs/2303.16450)][[PyTorch (in construction)](https://github.com/mlvlab/SPoTr)]
@@ -141,6 +141,9 @@ If you find this repository useful, please consider citing this list:
 * **APES**: "Attention-based Point Cloud Edge Sampling", CVPR, 2023 (*Karlsruhe Institute of Technology, Germany*). [[Paper](https://arxiv.org/abs/2302.14673)]
 * **GD-MAE**: "GD-MAE: Generative Decoder for MAE Pre-training on LiDAR Point Clouds", CVPR, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2212.03010)][[PyTorch](https://github.com/Nightmare-n/GD-MAE)]
 * **ShapeClipper**: "ShapeClipper: Scalable 3D Shape Learning from Single-View Images via Geometric and CLIP-based Consistency", CVPR, 2023 (*Georgia Tech*). [[Paper](https://arxiv.org/abs/2304.06247)][[Code (in construction)](https://github.com/zxhuang1698/ShapeClipper)][[Website](https://zixuanh.com/projects/shapeclipper.html)]
+* **MSC**: "Masked Scene Contrast: A Scalable Framework for Unsupervised 3D Representation Learning", CVPR, 2023 (*HKU*). [[Paper](https://arxiv.org/abs/2303.14191)][[PyTorch](https://github.com/Pointcept/Pointcept)]
+* **MSP**: "Self-supervised Pre-training with Masked Shape Prediction for 3D Scene Understanding", CVPR, 2023 (*MPI*). [[Paper](https://arxiv.org/abs/2305.05026)]
+* **MM-3DScene**: "MM-3DScene: 3D Scene Understanding by Customizing Masked Modeling with Informative-Preserved Reconstruction and Self-Distilled Consistency", CVPR, 2023 (*CAS*). [[Paper](https://arxiv.org/abs/2212.09948)][[PyTorch](https://github.com/MingyeXu/mm-3dscene)][[Website](https://mingyexu.github.io/mm3dscene/)]
 * **OctFormer**: "OctFormer: Octree-based Transformers for 3D Point Clouds", SIGGRAPH, 2023 (*Peking University*). [[Paper](https://arxiv.org/abs/2305.03045)][[Code (in construction)](https://github.com/octree-nn/octformer)][[Website](https://wang-ps.github.io/octformer)]
 * **Text4Point**: "Joint Representation Learning for Text and 3D Point Cloud", arXiv, 2023 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2301.07584)][[Code (in construction)](https://github.com/LeapLabTHU/Text4Point)]
 * **FullFormer**: "FullFormer: Generating Shapes Inside Shapes", arXiv, 2023 (*University of Siegen, Germany*). [[Paper](https://arxiv.org/abs/2303.11235)]
@@ -299,6 +302,7 @@ If you find this repository useful, please consider citing this list:
     * **SeqTrack**: "SeqTrack: Sequence to Sequence Learning for Visual Object Tracking", CVPR, 2023 (*Dalian University of Technology*). [[Paper](https://arxiv.org/abs/2304.14394)][[PyTorch](https://github.com/microsoft/VideoX/tree/master/SeqTrack)]
     * **TCOW**: "Tracking through Containers and Occluders in the Wild", CVPR, 2023 (*Columbia*). [[Paper](https://arxiv.org/abs/2305.03052)][[Code (in construction)](https://github.com/basilevh/tcow)][[Website](https://tcow.cs.columbia.edu/)]
     * **VideoTrack**: "VideoTrack: Learning to Track Objects via Video Transformer", CVPR, 2023 (*Microsoft*). [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Xie_VideoTrack_Learning_To_Track_Objects_via_Video_Transformer_CVPR_2023_paper.html)]
+    * **MAT**: "Representation Learning for Visual Object Tracking by Masked Appearance Transfer", CVPR, 2023 (*Dalian University of Technology*). [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Zhao_Representation_Learning_for_Visual_Object_Tracking_by_Masked_Appearance_Transfer_CVPR_2023_paper.html)][[PyTorch](https://github.com/difhnp/MAT)]
     * **MOTRv3**: "MOTRv3: Release-Fetch Supervision for End-to-End Multi-Object Tracking", arXiv, 2023 (*Megvii*). [[Paper](https://arxiv.org/abs/2305.14298)]
     * **MixFormerV2**: "MixFormerV2: Efficient Fully Transformer Tracking", arXiv, 2023 (*Nanjing University*). [[Paper](https://arxiv.org/abs/2305.15896)][[PyTorch](https://github.com/MCG-NJU/MixFormerV2)]
     * **?**: "Tracking Everything Everywhere All at Once", arXiv, 2023 (*Cornell*). [[Paper](https://arxiv.org/abs/2306.05422)][[Website](https://omnimotion.github.io/)]
@@ -368,6 +372,7 @@ If you find this repository useful, please consider citing this list:
     * **EventFormer**: "EventFormer: AU Event Transformer for Facial Action Unit Event Detection", arXiv, 2022 (*Peking*). [[Paper](https://arxiv.org/abs/2203.06355)]
     * **MFT**: "Multi-Modal Learning for AU Detection Based on Multi-Head Fused Transformers", arXiv, 2022 (*SUNY Binghamton*). [[Paper](https://arxiv.org/abs/2203.11441)]
     * **VC-TRSF**: "Self-supervised Video-centralised Transformer for Video Face Clustering", arXiv, 2022 (*ICL*). [[Paper](https://arxiv.org/abs/2203.13166)]
+    * **MARLIN**: "MARLIN: Masked Autoencoder for facial video Representation LearnINg", CVPR, 2023 (*Monash University, Australia*). [[Paper](https://arxiv.org/abs/2211.06627)][[PyTorch](https://github.com/ControlNet/MARLIN)]
 * Facial Landmark:
     * **Clusformer**: "Clusformer: A Transformer Based Clustering Approach to Unsupervised Large-Scale Face and Visual Landmark Recognition", CVPR, 2021 (*VinAI Research, Vietnam*). [[Paper](https://openaccess.thecvf.com/content/CVPR2021/html/Nguyen_Clusformer_A_Transformer_Based_Clustering_Approach_to_Unsupervised_Large-Scale_Face_CVPR_2021_paper.html)]
     * **LOTR**: "LOTR: Face Landmark Localization Using Localization Transformer", arXiv, 2021 (*Sertis, Thailand*). [[Paper](https://arxiv.org/abs/2109.10057)]
@@ -390,6 +395,7 @@ If you find this repository useful, please consider citing this list:
     * **ManiCLIP**: "ManiCLIP: Multi-Attribute Face Manipulation from Text", arXiv, 2022 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2210.00445)][[PyTorch](https://github.com/hwang1996/ManiCLIP)]
     * **FEAT**: "FEAT: Face Editing with Attention", arXiv, 2022 (*Shenzhen University*). [[Paper](https://arxiv.org/abs/2202.02713)]
     * **CoralStyleCLIP**: "CoralStyleCLIP: Co-optimized Region and Layer Selection for Image Editing", CVPR, 2023 (*Adobe*). [[Paper](https://arxiv.org/abs/2303.05031)]
+    * **CLIP2Protect**: "CLIP2Protect: Protecting Facial Privacy Using Text-Guided Makeup via Adversarial Latent Search", CVPR, 2023 (*MBZUAI*). [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Shamshad_CLIP2Protect_Protecting_Facial_Privacy_Using_Text-Guided_Makeup_via_Adversarial_Latent_CVPR_2023_paper.html)][[Code (in construction)](https://github.com/fahadshamshad/Clip2Protect)]
 * Facial Expression:
     * **TransFER**: "TransFER: Learning Relation-aware Facial Expression Representations with Transformers", ICCV, 2021 (*CAS*). [[Paper](https://arxiv.org/abs/2108.11116)]
     * **CVT-Face**: "Robust Facial Expression Recognition with Convolutional Visual Transformers", arXiv, 2021 (*Hunan University*). [[Paper](https://arxiv.org/abs/2103.16854)]
@@ -608,6 +614,7 @@ If you find this repository useful, please consider citing this list:
     * **ViTKD**: "ViTKD: Practical Guidelines for ViT feature knowledge distillation", arXiv, 2022 (*IDEA*). [[Paper](https://arxiv.org/abs/2209.02432)][[PyTorch (in construction)](https://github.com/yzd-v/cls_KD)]
     * **?**: "Adaptive Attention Link-based Regularization for Vision Transformers", arXiv, 2022 (*Chung-Ang University, Korea*). [[Paper](https://arxiv.org/abs/2211.13852)]
     * **LiVT**: "Learning Imbalanced Data with Vision Transformers", CVPR, 2023 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2212.02015)][[PyTorch](https://github.com/XuZhengzhuo/LiVT)]
+    * **G2SD**: "Generic-to-Specific Distillation of Masked Autoencoders", CVPR, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2302.14771)][[PyTorch](https://github.com/pengzhiliang/G2SD)]
     * **SLaK**: "Are Large Kernels Better Teachers than Transformers for ConvNets?", ICML, 2023 (*Eindhoven University of Technology, Netherlands*). [[Paper] (https://arxiv.org/abs/2305.19412)][[PyTorch](https://github.com/VITA-Group/SLaK)]
     * **MaskedKD**: "MaskedKD: Efficient Distillation of Vision Transformers with Masked Images", arXiv, 2023 (*POSTECH*). [[Paper](https://arxiv.org/abs/2302.10494)]
     * **DIME-FM**: "DIME-FM: DIstilling Multimodal and Efficient Foundation Models", arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2303.18232)]
@@ -830,6 +837,9 @@ If you find this repository useful, please consider citing this list:
 * **GTGAN**: "Graph Transformer GANs for Graph-Constrained House Generation", CVPR, 2023 (*ETHZ*). [[Paper](https://arxiv.org/abs/2303.08225)]
 * **ABLE-NeRF**: "ABLE-NeRF: Attention-Based Rendering with Learnable Embeddings for Neural Radiance Field", CVPR, 2023 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2303.13817)]
 * **U-ViT**: "All are Worth Words: A ViT Backbone for Diffusion Models", CVPR, 2023 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2209.12152)]
+* **MQ-VAE**: "Not All Image Regions Matter: Masked Vector Quantization for Autoregressive Image Generation", CVPR, 2023 (*USTC*). [[Paper](https://arxiv.org/abs/2305.13607)][[PyTorch](https://github.com/CrossmodalGroup/MaskedVectorQuantization)]
+* **MaskSketch**: "MaskSketch: Unpaired Structure-guided Masked Image Generation", CVPR, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2302.05496)][[Jax](https://github.com/google-research/masksketch)][[Website](https://masksketch.github.io/)]
+* **GAN-MAE**: "Masked Auto-Encoders Meet Generative Adversarial Networks and Beyond", CVPR, 2023 (*Meituan*). [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Fei_Masked_Auto-Encoders_Meet_Generative_Adversarial_Networks_and_Beyond_CVPR_2023_paper.html)]
 * **VQ3D**: "VQ3D: Learning a 3D-Aware Generative Model on ImageNet", arXiv, 2023 (*Stanford*). [[Paper](https://arxiv.org/abs/2302.06833)][[Website](https://kylesargent.github.io/vq3d)]
 * **LayoutDiffuse**: "LayoutDiffuse: Adapting Foundational Diffusion Models for Layout-to-Image Generation", arXiv, 2023 (*Amazon*). [[Paper](https://arxiv.org/abs/2302.08908)]
 * **StraIT**: "StraIT: Non-autoregressive Generation with Stratified Image Transformer", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2303.00750)]
@@ -895,7 +905,6 @@ If you find this repository useful, please consider citing this list:
 * **MATEBIT**: "Masked and Adaptive Transformer for Exemplar Based Image Translation", CVPR, 2023 (*Hangzhou Dianzi University*). [[Paper](https://arxiv.org/abs/2303.17123)][[Pytorch](https://github.com/AiArt-HDU/MATEBIT)]
 * **IPL**: "Zero-shot Generative Model Adaptation via Image-specific Prompt Learning", CVPR, 2023 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2304.03119)][[Code (in construction)](https://github.com/Picsart-AI-Research/IPL-Zero-Shot-Generative-Model-Adaptation)]
 * **Master**: "Master: Meta Style Transformer for Controllable Zero-Shot and Few-Shot Artistic Style Transfer", CVPR, 2023 (*NUS*). [[Paper](https://arxiv.org/abs/2304.11818)]
-* **CLIP2Protect**: "CLIP2Protect: Protecting Facial Privacy Using Text-Guided Makeup via Adversarial Latent Search", CVPR, 2023 (*MBZUAI*). [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Shamshad_CLIP2Protect_Protecting_Facial_Privacy_Using_Text-Guided_Makeup_via_Adversarial_Latent_CVPR_2023_paper.html)][[Code (in construction)](https://github.com/fahadshamshad/Clip2Protect)]
 * **LENeRF**: "Local 3D Editing via 3D Distillation of CLIP Knowledge", CVPR, 2023 (*Kakao*). [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Hyung_Local_3D_Editing_via_3D_Distillation_of_CLIP_Knowledge_CVPR_2023_paper.html)]
 * **pix2pix-zero**: "Zero-shot Image-to-Image Translation", arXiv, 2023 (*Adobe*). [[Paper](https://arxiv.org/abs/2302.03027)][[Code (in construction)](https://github.com/pix2pixzero/pix2pix-zero)][[Website](https://pix2pixzero.github.io/)]
 * **SpectralCLIP**: "SpectralCLIP: Preventing Artifacts in Text-Guided Style Transfer from a Spectral Perspective", arXiv, 2023 (*University of Trento, Italy*). [[Paper](https://arxiv.org/abs/2303.09270)][[Code (in construction)](https://github.com/zipengxuc/SpectralCLIP)]
@@ -927,6 +936,7 @@ If you find this repository useful, please consider citing this list:
     * **SCTNet**: "Alignment-free HDR Deghosting with Semantics Consistent Transformer", arXiv, 2023 (*University of Bourgogne, France*). [[Paper](https://arxiv.org/abs/2305.18135)][[Website](https://steven-tel.github.io/sctnet/)]
 * Harmonization:
     * **HT**: "Image Harmonization With Transformer", ICCV, 2021 (*Ocean University of China*). [[Paper](https://openaccess.thecvf.com/content/ICCV2021/html/Guo_Image_Harmonization_With_Transformer_ICCV_2021_paper.html)]
+    * **LEMaRT**: "LEMaRT: Label-Efficient Masked Region Transform for Image Harmonization", CVPR, 2023 (*Amazon*). [[Paper](https://arxiv.org/abs/2304.13166)]
 * Compression:
     * **?**: "Towards End-to-End Image Compression and Analysis with Transformers", AAAI, 2022 (*1Harbin Institute of Technology*). [[Paper](https://arxiv.org/abs/2112.09300)][[PyTorch](https://github.com/BYchao100/Towards-Image-Compression-and-Analysis-with-Transformers)]
     * **Entroformer**: "Entroformer: A Transformer-based Entropy Model for Learned Image Compression", ICLR, 2022 (*Alibaba*). [[Paper](https://arxiv.org/abs/2202.05492)]
@@ -951,6 +961,7 @@ If you find this repository useful, please consider citing this list:
     * **DAUHST**: "Degradation-Aware Unfolding Half-Shuffle Transformer for Spectral Compressive Imaging", NeurIPS, 2022 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2205.10102)][[PyTorch](https://github.com/caiyuanhao1998/MST)]
     * **S<sup>2</sup>-Transformer**: "S<sup>2</sup>-Transformer for Mask-Aware Hyperspectral Image Reconstruction", arXiv, 2022 (*Rochester Institute of Technology*). [[Paper](https://arxiv.org/abs/2209.12075)]
     * **NLOST**: "NLOST: Non-Line-of-Sight Imaging with Transformer", CVPR, 2023 (*USTC*). [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Li_NLOST_Non-Line-of-Sight_Imaging_With_Transformer_CVPR_2023_paper.html)][[Code (in construction)](https://github.com/Depth2World/NLOST)]
+    * **MinD-Vis**: "Seeing Beyond the Brain: Conditional Diffusion Model with Sparse Masked Modeling for Vision Decoding", CVPR, 2023 (*NUS*). [[Paper](https://arxiv.org/abs/2211.06956)][[PyTorch](https://github.com/zjc062/mind-vis)][[Website](https://mind-vis.github.io/)]
 * Radiance Fields:
     * **NeXT**: "NeXT: Towards High Quality Neural Radiance Fields via Multi-Skip Transformer", ECCV, 2022 (*Tsinghua University*). [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/1810_ECCV_2022_paper.php)][[JAX](https://github.com/Crishawy/NeXT)]
     * **TransNeRF**: "Generalizable Neural Radiance Fields for Novel View Synthesis with Transformer", arXiv, 2022 (*UBC*). [[Paper](https://arxiv.org/abs/2206.05375)]
@@ -1356,6 +1367,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **ASTR**: "Adaptive Spot-Guided Transformer for Consistent Local Feature Matching", CVPR, 2023 (*USTC*). [[Paper](https://arxiv.org/abs/2303.16624)][[Website](https://astr2023.github.io/)]
     * **ACTR**: "Correspondence Transformers with Asymmetric Feature Learning and Matching Flow Super-Resolution", CVPR, 2023 (*Fudan*). [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Sun_Correspondence_Transformers_With_Asymmetric_Feature_Learning_and_Matching_Flow_Super-Resolution_CVPR_2023_paper.html)][[Code (in construction)](https://github.com/YXSUNMADMAX/ACTR)]
     * **D<sup>2</sup>Former**: "D<sup>2</sup>Former: Jointly Learning Hierarchical Detectors and Contextual Descriptors via Agent-based Transformers", CVPR, 2023 (*USTC*). [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/He_D2Former_Jointly_Learning_Hierarchical_Detectors_and_Contextual_Descriptors_via_Agent-Based_CVPR_2023_paper.html)]
+    * **PMatch**: "PMatch: Paired Masked Image Modeling for Dense Geometric Matching", CVPR, 2023 (*Michigan State*). [[Paper](https://arxiv.org/abs/2303.17342)][[Code (in construction)](https://github.com/ShngJZ/PMatch)]
     * **Fuse-ViT**: "A Tale of Two Features: Stable Diffusion Complements DINO for Zero-Shot Semantic Correspondence", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2305.15347)][[Website](https://sd-complements-dino.github.io/)]
 * Fine-grained:
     * **ViT-FGVC**: "Exploring Vision Transformers for Fine-grained Classification", CVPRW, 2021 (*Universidad de Valladolid*). [[Paper](https://arxiv.org/abs/2106.10587)]
@@ -1439,9 +1451,11 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **Coupled Attention**: "Learning operators with coupled attention", JMLR, 2022 (*University of Pennsylvania*). [[Paper](https://arxiv.org/abs/2201.01032)]
     * **HT-Net**: "HT-Net: Hierarchical Transformer based Operator Learning Model for Multiscale PDEs", arXiv, 2022 (*KAUST*). [[Paper](https://arxiv.org/abs/2210.10890)]
     * **Relative-PE**: "Transformer for Partial Differential Equations' Operator Learning", arXiv, 2022 (*CMU*). [[Paper](https://arxiv.org/abs/2205.13671)]
-* Out-Of-Distribution:
+* Out-Of-Distribution (OOD):
     * **OODformer**: "OODformer: Out-Of-Distribution Detection Transformer", BMVC, 2021 (*LMU Munich*). [[Paper](https://arxiv.org/abs/2107.08976)][[PyTorch](https://github.com/rajatkoner08/oodformer)]
     * **MCM**: "Delving into Out-of-Distribution Detection with Vision-Language Representations", NeurIPS, 2022 (*UW-Madison*). [[Paper](https://arxiv.org/abs/2211.13445)]
+    * **MOOD**: "Rethinking Out-of-distribution (OOD) Detection: Masked Image Modeling is All You Need", CVPR, 2023 (*CUHK*). [[Paper](https://arxiv.org/abs/2302.02615)][[PyTorch](https://github.com/JulietLJY/MOOD)]
+    * **?**: "Masked Images Are Counterfactual Samples for Robust Fine-tuning", CVPR, 2023 (*Sun Yat-sen University*). [[Paper](https://arxiv.org/abs/2303.03052)][[PyTorch](https://github.com/Coxy7/robust-finetuning)]
     * **GL-MCM**: "Zero-Shot In-Distribution Detection in Multi-Object Settings Using Vision-Language Foundation Models", arXiv, 2023 (*The University of Tokyo*). [[Paper](https://arxiv.org/abs/2304.04521)]
     * **LoCoOp**: "LoCoOp: Few-Shot Out-of-Distribution Detection via Prompt Learning", arXiv, 2023 (*The University of Tokyo*). [[Paper](https://arxiv.org/abs/2306.01293)][[Code (in construction)](https://github.com/AtsuMiyai/LoCoOp)]
 * Pedestrian Intention:
