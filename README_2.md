@@ -444,6 +444,8 @@ If you find this repository useful, please consider citing this list:
 * Generation:
     * **Describe3D**: "High-Fidelity 3D Face Generation from Natural Language Descriptions", CVPR, 2023 (*Nanjing University*). [[Paper](https://arxiv.org/abs/2305.03302)][[PyTorch](https://github.com/zhuhao-nju/describe3d)]
     * **LipFormer**: "LipFormer: High-Fidelity and Generalizable Talking Face Generation With a Pre-Learned Facial Codebook", CVPR, 2023 (*Alibaba*). [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Wang_LipFormer_High-Fidelity_and_Generalizable_Talking_Face_Generation_With_a_Pre-Learned_CVPR_2023_paper.html)]
+* 3D: 
+    * **CodeTalker**: "CodeTalker: Speech-Driven 3D Facial Animation with Discrete Motion Prior", CVPR, 2023 (*CUHK*). [[Paper](https://arxiv.org/abs/2301.02379)][[PyTorch](https://github.com/Doubiiu/CodeTalker)][[Website](https://doubiiu.github.io/projects/codetalker/)]
 * Age:
     * **DAA**: "DAA: A Delta Age AdaIN operation for age estimation via binary code transformer", CVPR, 2023 (*Jiayu Intelligent Technology, China*). [[Paper](https://arxiv.org/abs/2303.07929)][[PyTorch](https://github.com/redcping/Delta_Age_AdaIN)]
 
