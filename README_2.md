@@ -781,6 +781,7 @@ If you find this repository useful, please consider citing this list:
 * **FlowLens**: "FlowLens: Seeing Beyond the FoV via Flow-guided Clip-Recurrent Transformer", arXiv, 2022 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2211.11293)][[Code (in construction)](https://github.com/MasterHow/FlowLens)]
 * **?**: "Putting People in Their Place: Affordance-Aware Human Insertion into Scenes", CVPR, 2023 (*Stanford*). [[Paper](https://arxiv.org/abs/2304.14406)][[PyTorch (in construction)](https://github.com/adobe-research/affordance-insertion)][[Website](https://sumith1896.github.io/affordance-insertion/)]
 * **Imagen-Editor**: "Imagen Editor and EditBench: Advancing and Evaluating Text-Guided Image Inpainting", CVPR, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2212.06909)][[Website](https://imagen.research.google/editor/)]
+* **SmartBrush**: "SmartBrush: Text and Shape Guided Object Inpainting with Diffusion Model", CVPR, 2023 (*Adobe*). [[Paper](https://arxiv.org/abs/2212.05034)]
 * **Inst-Inpaint**: "Inst-Inpaint: Instructing to Remove Objects with Diffusion Models", arXiv, 2023 (*Bilkent University, Turkey*). [[Paper](https://arxiv.org/abs/2304.03246)]
 * **Inpaint-Anything**: "Inpaint Anything: Segment Anything Meets Image Inpainting", arXiv, 2023 (*USTC*). [[Paper](https://arxiv.org/abs/2304.06790)][[PyTorch](https://github.com/geekyutao/Inpaint-Anything)]
 
@@ -916,6 +917,9 @@ If you find this repository useful, please consider citing this list:
 * **Master**: "Master: Meta Style Transformer for Controllable Zero-Shot and Few-Shot Artistic Style Transfer", CVPR, 2023 (*NUS*). [[Paper](https://arxiv.org/abs/2304.11818)]
 * **LENeRF**: "Local 3D Editing via 3D Distillation of CLIP Knowledge", CVPR, 2023 (*Kakao*). [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Hyung_Local_3D_Editing_via_3D_Distillation_of_CLIP_Knowledge_CVPR_2023_paper.html)]
 * **SINE**: "SINE: SINgle Image Editing with Text-to-Image Diffusion Models", CVPR, 2023 (*Rutgers*). [[Paper](https://arxiv.org/abs/2212.04489)][[PyTorch](https://github.com/zhang-zx/SINE)]
+* **Imagic**: "Imagic: Text-Based Real Image Editing with Diffusion Models", CVPR, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2210.09276)][[Website](https://imagic-editing.github.io/)]
+* **DATID-3D**: "DATID-3D: Diversity-Preserved Domain Adaptation Using Text-to-Image Diffusion for 3D Generative Model", CVPR, 2023 (*SNU*). [[Paper](https://arxiv.org/abs/2211.16374)][[PyTorch](https://github.com/gwang-kim/DATID-3D)][[Website](https://gwang-kim.github.io/datid_3d/)]
+* **Null-text-Inversion**: "Null-text Inversion for Editing Real Images using Guided Diffusion Models", CVPR, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2211.09794)]
 * **pix2pix-zero**: "Zero-shot Image-to-Image Translation", arXiv, 2023 (*Adobe*). [[Paper](https://arxiv.org/abs/2302.03027)][[Code (in construction)](https://github.com/pix2pixzero/pix2pix-zero)][[Website](https://pix2pixzero.github.io/)]
 * **SpectralCLIP**: "SpectralCLIP: Preventing Artifacts in Text-Guided Style Transfer from a Spectral Perspective", arXiv, 2023 (*University of Trento, Italy*). [[Paper](https://arxiv.org/abs/2303.09270)][[Code (in construction)](https://github.com/zipengxuc/SpectralCLIP)]
 * **PGIC**: "A Unified Prompt-Guided In-Context Inpainting Framework for Reference-based Image Manipulations", arXiv, 2023 (*Fudan*). [[Paper](https://arxiv.org/abs/2305.11577)][[Code (in construction)](https://github.com/ewrfcas/PGIC_inpainting)]
