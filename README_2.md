@@ -495,6 +495,7 @@ If you find this repository useful, please consider citing this list:
 * **IS-GGT**: "Iterative Scene Graph Generation with Generative Transformers", CVPR, 2023 (*Oklahoma State University*). [[Paper](https://arxiv.org/abs/2211.16636)]
 * **SQUAT**: "Devil's on the Edges: Selective Quad Attention for Scene Graph Generation", CVPR, 2023 (*POSTECH*). [[Paper](https://arxiv.org/abs/2304.03495)][[PyTorch](https://github.com/hesedjds/SQUAT)][[Website](https://cvlab.postech.ac.kr/research/SQUAT/)]
 * **VS<sup>3</sup>**: "Learning to Generate Language-supervised and Open-vocabulary Scene Graph using Pre-trained Visual-Semantic Space", CVPR, 2023 (*CUHK*). [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Zhang_Learning_To_Generate_Language-Supervised_and_Open-Vocabulary_Scene_Graph_Using_Pre-Trained_CVPR_2023_paper.html)]
+* **PVSG**: "Panoptic Video Scene Graph Generation", CVPR, 2023 (*NTU, Singapore*). [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Yang_Panoptic_Video_Scene_Graph_Generation_CVPR_2023_paper.html)]
 * **SGT**: "Revisiting Transformer for Point Cloud-based 3D Scene Graph Generation", arXiv, 2023 (*Beijing University of Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2303.11048)]
 
 [[Back to Overview](#overview)]
@@ -1608,6 +1609,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **PedFormer**: "PedFormer: Pedestrian Behavior Prediction via Cross-Modal Attention Modulation and Gated Multitask Learning", arXiv, 2022 (*Huawei*). [[Paper](https://arxiv.org/abs/2210.07886)]
     * **TAMFormer**: "TAMFormer: Multi-Modal Transformer with Learned Attention Mask for Early Intent Prediction", arXiv, 2022 (*University of Padova, Italy*). [[Paper](https://arxiv.org/abs/2210.14714)]
     * **QCNet**: "Query-Centric Trajectory Prediction", CVPR, 2023 (*CUHK*). [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Zhou_Query-Centric_Trajectory_Prediction_CVPR_2023_paper.html)][[Code (in construction)](https://github.com/ZikangZhou/QCNet)]
+    * **ViP3D**: "ViP3D: End-to-end Visual Trajectory Prediction via 3D Agent Queries", CVPR, 2023 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2208.01582)][[PyTorch](https://github.com/Tsinghua-MARS-Lab/ViP3D)][[Website](https://tsinghua-mars-lab.github.io/ViP3D/)]
     * **InCrowdFormer**: "InCrowdFormer: On-Ground Pedestrian World Model From Egocentric Views", arXiv, 2023 (*Kyoto University*). [[Paper](https://arxiv.org/abs/2303.09534)]
     * **OccFormer**: "OccFormer: Dual-path Transformer for Vision-based 3D Semantic Occupancy Prediction", arXiv, 2023 (*PhiGent Robotics, China*). [[Paper](https://arxiv.org/abs/2304.05316)][[PyTorch](https://github.com/zhangyp15/OccFormer)]
 * Visual Counting:
