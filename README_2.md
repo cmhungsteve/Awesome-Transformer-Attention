@@ -445,6 +445,7 @@ If you find this repository useful, please consider citing this list:
 * Generation:
     * **Describe3D**: "High-Fidelity 3D Face Generation from Natural Language Descriptions", CVPR, 2023 (*Nanjing University*). [[Paper](https://arxiv.org/abs/2305.03302)][[PyTorch](https://github.com/zhuhao-nju/describe3d)]
     * **LipFormer**: "LipFormer: High-Fidelity and Generalizable Talking Face Generation With a Pre-Learned Facial Codebook", CVPR, 2023 (*Alibaba*). [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Wang_LipFormer_High-Fidelity_and_Generalizable_Talking_Face_Generation_With_a_Pre-Learned_CVPR_2023_paper.html)]
+    * **?**: "High-fidelity Generalized Emotional Talking Face Generation with Multi-modal Emotion Space Learning", CVPR, 2023 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2305.02572)]
 * 3D: 
     * **CodeTalker**: "CodeTalker: Speech-Driven 3D Facial Animation with Discrete Motion Prior", CVPR, 2023 (*CUHK*). [[Paper](https://arxiv.org/abs/2301.02379)][[PyTorch](https://github.com/Doubiiu/CodeTalker)][[Website](https://doubiiu.github.io/projects/codetalker/)]
 * Age:
@@ -887,6 +888,7 @@ If you find this repository useful, please consider citing this list:
 * **AMT**: "AMT: All-Pairs Multi-Field Transforms for Efficient Frame Interpolation", CVPR, 2023 (*Nankai University*). [[Paper](https://arxiv.org/abs/2304.09790)][[PyTorch](https://github.com/MCG-NKU/AMT)][[Website](https://nk-cs-zzl.github.io/projects/amt/)]
 * **?**: "Frame Interpolation Transformer and Uncertainty Guidance", CVPR, 2023 (*Disney*). [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Plack_Frame_Interpolation_Transformer_and_Uncertainty_Guidance_CVPR_2023_paper.html)]
 * **EMA-VFI**: "Extracting Motion and Appearance via Inter-Frame Attention for Efficient Video Frame Interpolation", CVPR, 2023 (*Nanjing University*). [[Paper](https://arxiv.org/abs/2303.00440)][[PyTorch](https://github.com/MCG-NJU/EMA-VFI)]
+* **EIF-BiOFNet**: "Event-Based Video Frame Interpolation With Cross-Modal Asymmetric Bidirectional Motion Fields", CVPR, 2023 (*KAIST*). [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Kim_Event-Based_Video_Frame_Interpolation_With_Cross-Modal_Asymmetric_Bidirectional_Motion_Fields_CVPR_2023_paper.html)]
 * **NUWA-XL**: "NUWA-XL: Diffusion over Diffusion for eXtremely Long Video Generation", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2303.12346)][[Website (in construction)](https://msra-nuwa.azurewebsites.net/)]
 * **CAT-NeRF**: "CAT-NeRF: Constancy-Aware Tx<sup>2</sup>Former for Dynamic Body Modeling", arXiv, 2023 (*USC*). [[Paper](https://arxiv.org/abs/2304.07915)]
 * **IconShop**: "IconShop: Text-Based Vector Icon Synthesis with Autoregressive Transformers", arXiv, 2023 (*CUHK*). [[Paper](https://arxiv.org/abs/2304.14400)][[Code (in construction)](https://github.com/kingnobro/IconShop)][[Website](https://kingnobro.github.io/iconshop/)]
@@ -1037,6 +1039,7 @@ If you find this repository useful, please consider citing this list:
 * **IVLN**: "Iterative Vision-and-Language Navigation", CVPR, 2023 (*Oregon State University*). [[Paper](https://arxiv.org/abs/2210.03087)]
 * **AZHP**: "Adaptive Zone-aware Hierarchical Planner for Vision-Language Navigation", CVPR, 2023 (*Beihang University*). [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Gao_Adaptive_Zone-Aware_Hierarchical_Planner_for_Vision-Language_Navigation_CVPR_2023_paper.html)][[Code (in construction)](https://github.com/chengaopro/AZHP)]
 * **MARVAL**: "A New Path: Scaling Vision-and-Language Navigation with Synthetic Instructions and Imitation Learning", CVPR, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2210.03112)]
+* **VO-Transformer**: "Modality-invariant Visual Odometry for Embodied Vision", CVPR, 2023 (*EPFL*). [[Paper](https://arxiv.org/abs/2305.00348)][[Website](https://memmelma.github.io/vot/)]
 * **MLANet**: "MLANet: Multi-Level Attention Network with Sub-instruction for Continuous Vision-and-Language Navigation", arXiv, 2023 (*Tongji University*). [[Paper](https://arxiv.org/abs/2303.01396)][[PyTorch](https://github.com/RavenKiller/MLA)]
 * **ENTL**: "ENTL: Embodied Navigation Trajectory Learner", arXiv, 2023 (*AI2*). [[Paper](https://arxiv.org/abs/2304.02639)]
 * **MPM**: "Masked Path Modeling for Vision-and-Language Navigation", arXiv, 2023 (*UCLA*). [[Paper](https://arxiv.org/abs/2305.14268)]
@@ -1359,6 +1362,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **VCT**: "Visual Concepts Tokenization", NeurIPS, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2205.10093)][[PyTorch](https://github.com/thomasmry/VCT)]
 * E-Commerce:
     * **WebShop**: "WebShop: Towards Scalable Real-World Web Interaction with Grounded Language Agents", NeurIPS, 2022 (*Princeton*). [[Paper](https://arxiv.org/abs/2207.01206)][[PyTorch](https://github.com/princeton-nlp/WebShop)][[Website](https://webshop-pnlp.github.io/)]
+    * **ECLIP**: "Learning Instance-Level Representation for Large-Scale Multi-Modal Pretraining in E-commerce", CVPR, 2023 (*ByteDance*). [[Paper](https://arxiv.org/abs/2304.02853)]
 * Event data:
     * **EvT**: "Event Transformer: A sparse-aware solution for efficient event data processing", arXiv, 2022 (*Universidad de Zaragoza, Spain*). [[Paper](https://arxiv.org/abs/2204.03355)][[PyTorch](https://github.com/AlbertoSabater/EventTransformer)]
     * **ETB**: "Event Transformer", arXiv, 2022 (*Nanjing University*). [[Paper](https://arxiv.org/abs/2204.05172)]
@@ -1406,6 +1410,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **PLEor**: "Open-Set Fine-Grained Retrieval via Prompting Vision-Language Evaluator", CVPR, 2023 (*Dalian University of Technology*). [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Wang_Open-Set_Fine-Grained_Retrieval_via_Prompting_Vision-Language_Evaluator_CVPR_2023_paper.html)]
 * Gait:
     * **Gait-TR**: "Spatial Transformer Network on Skeleton-based Gait Recognition", arXiv, 2022 (*South China University of Technology*). [[Paper](https://arxiv.org/abs/2204.03873)]
+    * **MMGaitFormer**: "Multi-Modal Gait Recognition via Effective Spatial-Temporal Feature Fusion", CVPR, 2023 (*Beihang University*). [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Cui_Multi-Modal_Gait_Recognition_via_Effective_Spatial-Temporal_Feature_Fusion_CVPR_2023_paper.html)]
 * Gaze:
     * **GazeTR**: "Gaze Estimation using Transformer", arXiv, 2021 (*Beihang University*). [[Paper](https://arxiv.org/abs/2105.14424)][[PyTorch](https://github.com/yihuacheng/GazeTR)]
     * **HGTTR**: "End-to-End Human-Gaze-Target Detection with Transformers", CVPR, 2022 (*Shanghai Jiao Tong*). [[Paper](https://arxiv.org/abs/2203.10433)]
@@ -1592,6 +1597,8 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **BAEFormer**: "BAEFormer: Bi-directional and Early Interaction Transformers for Bird’s Eye View Semantic Segmentation", CVPR, 2023 (*Horizon Robotics*). [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Pan_BAEFormer_Bi-Directional_and_Early_Interaction_Transformers_for_Birds_Eye_View_CVPR_2023_paper.html)]
     * **BAAM**: "BAAM: Monocular 3D Pose and Shape Reconstruction With Bi-Contextual Attention Module and Attention-Guided Modeling", CVPR, 2023 (*Chungnam National University, Korea*). [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Lee_BAAM_Monocular_3D_Pose_and_Shape_Reconstruction_With_Bi-Contextual_Attention_CVPR_2023_paper.html)][[PyTorch](https://github.com/gywns6287/BAAM)]
     * **BEV-SAN**: "BEV-SAN: Accurate BEV 3D Object Detection via Slice Attention Networks", CVPR, 2023 (*Peking University*). [[Paper](https://arxiv.org/abs/2212.01231)]
+    * **BEVGuide**: "BEV-Guided Multi-Modality Fusion for Driving Perception", CVPR, 2023 (*UIUC*). [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Man_BEV-Guided_Multi-Modality_Fusion_for_Driving_Perception_CVPR_2023_paper.html)][[Code (in construction)](https://github.com/YunzeMan/BEVGuide)][[Website](https://yunzeman.github.io/BEVGuide/)]
+    * **Pix2Map**: "Pix2Map: Cross-modal Retrieval for Inferring Street Maps from Images", CVPR, 2023 (*CMU*). [[Paper](https://arxiv.org/abs/2301.04224)][[Website](https://pix2map.github.io/)]
     * **LiDARFormer**: "LiDARFormer: A Unified Transformer-based Multi-task Network for LiDAR Perception", arXiv, 2023 (*TuSimple*). [[Paper](https://arxiv.org/abs/2303.12194)]
     * **VoxelFormer**: "VoxelFormer: Bird's-Eye-View Feature Generation based on Dual-view Attention for Multi-view 3D Object Detection", arXiv, 2023 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2304.01054)][[PyTorch](https://github.com/Lizhuoling/VoxelFormer-public)]
     * **OCBEV**: "OCBEV: Object-Centric BEV Transformer for Multi-View 3D Object Detection", arXiv, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2306.01738)]
