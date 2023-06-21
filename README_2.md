@@ -1205,6 +1205,7 @@ If you find this repository useful, please consider citing this list:
 * **SI-ViT**: "Shuffle Instances-based Vision Transformer for Pancreatic Cancer ROSE Image Classification", arXiv, 2022 (*Beihang University*). [[Paper](https://arxiv.org/abs/2208.06833)][[PyTorch](https://github.com/sagizty/MIL-SI)]
 * **IPS**: "Iterative Patch Selection for High-Resolution Image Recognition", ICLR, 2023 (*Hasso Plattner Institute, Germany*). [[Paper](https://arxiv.org/abs/2210.13007)]
 * **ILRA-MIL**: "Exploring Low-Rank Property in Multiple Instance Learning for Whole Slide Image Classification", ICLR, 2023 (*Tencent*). [[Paper](https://openreview.net/forum?id=01KmhBsEPFO)]
+* **BolT**: "BolT: Fused window transformers for fMRI time series analysis", Medical Image Analysis, 2023 (*Bilkent University*). [[Paper](https://www.sciencedirect.com/science/article/pii/S1361841523001019)][[PyTorch](https://github.com/icon-lab/BolT)]
 
 [[Back to Overview](#overview)]
 
