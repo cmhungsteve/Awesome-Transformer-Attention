@@ -157,6 +157,7 @@ If you find this repository useful, please consider citing this list:
 * **ULIP-2**: "ULIP-2: Towards Scalable Multimodal Pre-training For 3D Understanding", arXiv, 2023 (*Salesforce*). [[Paper](https://arxiv.org/abs/2305.08275)]
 * **PointGPT**: "PointGPT: Auto-regressively Generative Pre-training from Point Clouds", arXiv, 2023 (*Beijing Institute of Technology*). [[Paper](https://arxiv.org/abs/2305.11487)]
 * **CDFormer**: "Collect-and-Distribute Transformer for 3D Point Cloud Analysis", arXiv, 2023 (*The University of Sydney*). [[Paper](https://arxiv.org/abs/2306.01257)][[PyTorch](https://github.com/haibo-qiu/CDFormer)]
+* **PIC**: "Explore In-Context Learning for 3D Point Cloud Understanding", arXiv, 2023 (*Sun Yat-sen University*). [[Paper](https://arxiv.org/abs/2306.08659)][[Code (in construction)](https://github.com/fanglaosi/Point-In-Context)]
 
 [[Back to Overview](#overview)]
 
@@ -861,6 +862,7 @@ If you find this repository useful, please consider citing this list:
 * **MDT**: "Masked Diffusion Transformer is a Strong Image Synthesizer", arXiv, 2023 (*Sea AI Lab*). [[Paper](https://arxiv.org/abs/2303.14389)][[PyTorch](https://github.com/sail-sg/MDT)]
 * **MMoT**: "MMoT: Mixture-of-Modality-Tokens Transformer for Composed Multimodal Conditional Image Synthesis", arXiv, 2023 (*South China University of Technology*). [[Paper](https://arxiv.org/abs/2305.05992)][[PyTorch (in construction)](https://github.com/jabir-zheng/MMoT-Transformer)][[Website](https://jabir-zheng.github.io/MMoT/)]
 * **LayoutGPT**: "LayoutGPT: Compositional Visual Planning and Generation with Large Language Models", arXiv, 2023 (*UCSB*). [[Paper](https://arxiv.org/abs/2305.15393)][[Code (in construction)](https://github.com/weixi-feng/LayoutGPT)]
+* **MAskDiT**: "Fast Training of Diffusion Models with Masked Transformers", arXiv, 2023 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2306.09305)]
 
 [[Back to Overview](#overview)]
 
