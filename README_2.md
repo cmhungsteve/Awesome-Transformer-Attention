@@ -978,6 +978,7 @@ If you find this repository useful, please consider citing this list:
     * **MatteFormer**: "MatteFormer: Transformer-Based Image Matting via Prior-Tokens", CVPR, 2022 (*SNU + NAVER*). [[Paper](https://arxiv.org/abs/2203.15662)][[PyTorch](https://github.com/webtoon/matteformer)]
     * **TransMatting**: "TransMatting: Enhancing Transparent Objects Matting with Transformers", ECCV, 2022 (*CAS*). [[Paper](https://arxiv.org/abs/2208.03007)][[Code (in construction)](https://github.com/AceCHQ/TransMatting)]
     * **VMFormer**: "VMFormer: End-to-End Video Matting with Transformer", arXiv, 2022 (*PicsArt*). [[Paper](https://arxiv.org/abs/2208.12801)][[PyTorch](https://github.com/SHI-Labs/VMFormer)][[Website](https://chrisjuniorli.github.io/project/VMFormer/)]
+    * **CLIPMat**: "Referring Image Matting", CVPR, 2023 (*The University of Sydney*). [[Paper](https://arxiv.org/abs/2206.05149)][[Code (in construction)](https://github.com/JizhiziLi/RIM)]
     * **ViTMatte**: "ViTMatte: Boosting Image Matting with Pretrained Plain Vision Transformers", arXiv, 2023 (*Xiaobing.AI*). [[Paper](https://arxiv.org/abs/2305.15272)]
     * **MAM**: "Matting Anything", arXiv, 2023 (*UIUC*). [[Paper](https://arxiv.org/abs/2306.05399)][[PyTorch](https://github.com/SHI-Labs/Matting-Anything)][[Website](https://chrisjuniorli.github.io/project/Matting-Anything/)]
 * Reconstruction:
