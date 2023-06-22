@@ -9,6 +9,7 @@ Contributions in any form to make this list more comprehensive are welcome.
 If you find this repository useful, please consider **[citing](#citation)** and **★STARing** this list. <br>
 Feel free to share this list with others! 
 
+**[Update: June, 2023]** Added all the related papers from *CVPR 2023*! <br>
 **[Update: February, 2023]** Added all the related papers from *ICLR 2023*! <br>
 **[Update: December, 2022]** Added attention-free papers from [Networks Beyond Attention (GitHub)](https://github.com/FocalNet/Networks-Beyond-Attention) made by [Jianwei Yang](https://github.com/jwyang) <br>
 **[Update: November, 2022]** Added all the related papers from *NeurIPS 2022*! <br>
@@ -1236,6 +1237,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **HQ-SAM**: "Segment Anything in High Quality", arXiv, 2023 (*ETHZ*). [[Paper](https://arxiv.org/abs/2306.01567)][[Code (in construction)](https://github.com/SysCV/SAM-HQ)]
     * **?**: "A Survey on Segment Anything Model (SAM): Vision Foundation Model Meets Prompt Engineering", arXiv, 2023 (*Kyung Hee University, Korea*). [[Paper](https://arxiv.org/abs/2306.06211)]
     * **?**: "Robustness of SAM: Segment Anything Under Corruptions and Beyond", arXiv, 2023 (*Kyung Hee University*). [[Paper](https://arxiv.org/abs/2306.07713)]
+    * **FastSAM**: "Fast Segment Anything", arXiv, 2023 (*CAS*). [[Paper](https://arxiv.org/abs/2306.12156)][[PyTorch](https://github.com/CASIA-IVA-Lab/FastSAM)]
 * Vision-Language:
     * **LSeg**: "Language-driven Semantic Segmentation", ICLR, 2022 (*Cornell*). [[Paper](https://arxiv.org/abs/2201.03546)][[PyTorch](https://github.com/isl-org/lang-seg)]
     * **ZegFormer**: "Decoupling Zero-Shot Semantic Segmentation", CVPR, 2022 (*Wuhan University*). [[Paper](https://arxiv.org/abs/2112.07910)][[PyTorch](https://github.com/dingjiansw101/ZegFormer)]
@@ -2768,6 +2770,7 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
 * Object Captioning:
     * **GRiT**: "GRiT: A Generative Region-to-text Transformer for Object Understanding", arXiv, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2212.00280)][[PyTorch](https://github.com/JialianW/GRiT)]
 * Conversation:
+    * **VisProg**: "Visual Programming: Compositional visual reasoning without training", CVPR, 2023 (*AI2*). [[Paper](https://arxiv.org/abs/2211.11559)][[PyTorch](https://github.com/allenai/visprog)][[Website](https://prior.allenai.org/projects/visprog)]
     * **Visual-ChatGPT**: "Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2303.04671)]
     * **MM-REACT**: "MM-REACT: Prompting ChatGPT for Multimodal Reasoning and Action", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2303.11381)][[Code](https://github.com/microsoft/MM-REACT)][[Website](https://multimodal-react.github.io/)]
     * **Video-ChatCaptioner**: "Video ChatCaptioner: Towards the Enriched Spatiotemporal Descriptions", arXiv, 2023 (*KAUST*). [[Paper](https://arxiv.org/abs/2304.04227)][[PyTorch](https://github.com/Vision-CAIR/ChatCaptioner)]
@@ -2821,6 +2824,7 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
     * **VLM-Probing**: "Scalable Performance Analysis for Vision-Language Models", Joint Conference on Lexical and Computational Semantics (\*SEM), 2023 (*UMich*). [[Paper](https://arxiv.org/abs/2305.18786)][[PyTorch](https://github.com/MichiganNLP/Scalable-VLM-Probing)]
     * **VisualGPTScore**: "VisualGPTScore: Visio-Linguistic Reasoning with Multimodal Generative Pre-Training Scores", arXiv, 2023 (*CMU*). [[Paper](https://arxiv.org/abs/2306.01879)][[Code (in construction)](https://github.com/linzhiqiu/visual_gpt_score/)][[Website](https://linzhiqiu.github.io/papers/visual_gpt_score/)]
     * **LVLM-eHub**: "LVLM-eHub: A Comprehensive Evaluation Benchmark for Large Vision-Language Models", arXiv, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2306.09265)][[PyTorch (in construction)](https://github.com/OpenGVLab/Multi-Modality-Arena)]
+    * **VisoGender**: "VisoGender: A dataset for benchmarking gender bias in image-text pronoun resolution", arXiv, 2023 (*Oxford*). [[Paper](https://arxiv.org/abs/2306.12424)][[PyTorch](https://github.com/oxai/visogender)]
 * Robustness:
     * **Hierarchy-CLIP**: "Improving Zero-shot Generalization and Robustness of Multi-modal Models", CVPR, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2212.01758)][[JAX](https://github.com/gyhandy/Hierarchy-CLIP)][[Website](https://sites.google.com/usc.edu/hierarchy-clip/)]
     * **AttackVLM**: "On Evaluating Adversarial Robustness of Large Vision-Language Models", arXiv, 2023 (*Singapore University of Technology and Design (SUTD)*). [[Paper](https://arxiv.org/abs/2305.16934)][[PyTorch (in construction)](https://github.com/yunqing-me/AttackVLM)]
