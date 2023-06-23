@@ -227,6 +227,7 @@ If you find this repository useful, please consider citing this list:
     * **DeFormer**: "Deformable Mesh Transformer for 3D Human Mesh Recovery", CVPR, 2023 (*National Institute of Advanced Industrial Science and Technology (AIST), Japan*). [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Yoshiyasu_Deformable_Mesh_Transformer_for_3D_Human_Mesh_Recovery_CVPR_2023_paper.html)]
     * **STCFormer**: "3D Human Pose Estimation With Spatio-Temporal Criss-Cross Attention", CVPR, 2023 (*Hefei University of Technology*). [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Tang_3D_Human_Pose_Estimation_With_Spatio-Temporal_Criss-Cross_Attention_CVPR_2023_paper.html)]
     * **DistilPose**: "DistilPose: Tokenized Pose Regression With Heatmap Distillation", CVPR, 2023 (*Tencent*). [[Paper](https://arxiv.org/abs/2303.02455)][[PyTorch](https://github.com/yshMars/DistilPose)]
+    * **LPFormer**: "LPFormer: LiDAR Pose Estimation Transformer with Multi-Task Network", CVPRW, 2023 (*UCF*). [[Paper](https://arxiv.org/abs/2306.12525)]
     * **XFormer**: "XFormer: Fast and Accurate Monocular 3D Body Capture", arXiv, 2023 (*Huya Inc, China*). [[Paper](https://arxiv.org/abs/2305.11101)]
     * **4D-Humans**: "Humans in 4D: Reconstructing and Tracking Humans with Transformers", arXiv, 2023 (*Berkeley*). [[Paper](https://arxiv.org/abs/2305.20091)][[PyTorch](https://github.com/shubham-goel/4D-Humans)][[Website](https://shubham-goel.github.io/4dhumans/)]
     * **PGformer**: "PGformer: Proxy-Bridged Game Transformer for Multi-Person Extremely Interactive Motion Prediction", arXiv, 2023 (*Alibaba*). [[Paper](https://arxiv.org/abs/2306.03374)]
@@ -667,6 +668,7 @@ If you find this repository useful, please consider citing this list:
     * **MAEIP**: "Masked Autoencoders as Image Processors", arXiv, 2023 (*Shanghai Jiao Tong*). [[Paper](https://arxiv.org/abs/2303.17316)][[Code (in construction)](https://github.com/DuanHuiyu/MAEIP_CSformer)]
     * **RAMiT**: "RAMiT: Reciprocal Attention Mixing Transformer for Lightweight Image Restoration", arXiv, 2023 (*Sogang University, Korea*). [[Paper](https://arxiv.org/abs/2305.11474)]
     * **RAP**: "Restore Anything Pipeline: Segment Anything Meets Image Restoration", arXiv, 2023 (*ETHZ*). [[Paper](https://arxiv.org/abs/2305.13093)][[Code (in construction)](https://github.com/eth-siplab/RAP)]
+    * **PromptIR**: "PromptIR: Prompting for All-in-One Blind Image Restoration", arXiv, 2023 (*MBZUAI*). [[Paper](https://arxiv.org/abs/2306.13090)][[Code (in construction)](https://github.com/va1shn9v/PromptIR)]
 * Super-Resolution:
     * **SAN**: "Second-Order Attention Network for Single Image Super-Resolution", CVPR, 2019 (*Tsinghua*). [[Paper](https://openaccess.thecvf.com/content_CVPR_2019/html/Dai_Second-Order_Attention_Network_for_Single_Image_Super-Resolution_CVPR_2019_paper.html)][[PyTorch](https://github.com/daitao/SAN)]
     * **CS-NL**: "Image Super-Resolution with Cross-Scale Non-Local Attention and Exhaustive Self-Exemplars Mining", CVPR, 2020 (*UIUC*). [[Paper](https://arxiv.org/abs/2006.01424)][[PyTorch](https://github.com/SHI-Labs/Cross-Scale-Non-Local-Attention)]
@@ -928,7 +930,7 @@ If you find this repository useful, please consider citing this list:
 * **MATEBIT**: "Masked and Adaptive Transformer for Exemplar Based Image Translation", CVPR, 2023 (*Hangzhou Dianzi University*). [[Paper](https://arxiv.org/abs/2303.17123)][[Pytorch](https://github.com/AiArt-HDU/MATEBIT)]
 * **IPL**: "Zero-shot Generative Model Adaptation via Image-specific Prompt Learning", CVPR, 2023 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2304.03119)][[PyTorch](https://github.com/Picsart-AI-Research/IPL-Zero-Shot-Generative-Model-Adaptation)]
 * **Master**: "Master: Meta Style Transformer for Controllable Zero-Shot and Few-Shot Artistic Style Transfer", CVPR, 2023 (*NUS*). [[Paper](https://arxiv.org/abs/2304.11818)]
-* **LENeRF**: "Local 3D Editing via 3D Distillation of CLIP Knowledge", CVPR, 2023 (*Kakao*). [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Hyung_Local_3D_Editing_via_3D_Distillation_of_CLIP_Knowledge_CVPR_2023_paper.html)]
+* **LENeRF**: "Local 3D Editing via 3D Distillation of CLIP Knowledge", CVPR, 2023 (*Kakao*). [[Paper](https://arxiv.org/abs/2306.12570)]
 * **SINE**: "SINE: SINgle Image Editing with Text-to-Image Diffusion Models", CVPR, 2023 (*Rutgers*). [[Paper](https://arxiv.org/abs/2212.04489)][[PyTorch](https://github.com/zhang-zx/SINE)]
 * **Imagic**: "Imagic: Text-Based Real Image Editing with Diffusion Models", CVPR, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2210.09276)][[Website](https://imagic-editing.github.io/)]
 * **DATID-3D**: "DATID-3D: Diversity-Preserved Domain Adaptation Using Text-to-Image Diffusion for 3D Generative Model", CVPR, 2023 (*SNU*). [[Paper](https://arxiv.org/abs/2211.16374)][[PyTorch](https://github.com/gwang-kim/DATID-3D)][[Website](https://gwang-kim.github.io/datid_3d/)]
@@ -1068,6 +1070,7 @@ If you find this repository useful, please consider citing this list:
 * **MWM**: "Masked World Models for Visual Control", arXiv, 2022 (*Berkeley*). [[Paper](https://arxiv.org/abs/2206.14244)][[Tensorflow](https://github.com/younggyoseo/MWM)][[Website](https://sites.google.com/view/mwm-rl)]
 * **IRIS**: "Transformers are Sample Efficient World Models", arXiv, 2022 (*University of Geneva, Switzerland*). [[Paper](https://arxiv.org/abs/2209.00588)][[PyTorch](https://github.com/eloialonso/iris)]
 * **InstructRL**: "Instruction-Following Agents with Jointly Pre-Trained Vision-Language Models", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2210.13431)]
+* **STG-Transformer**: "Learning from Visual Observation via Offline Pretrained State-to-Go Transformer", arXiv, 2023 (*BAAI*). [[Paper](https://arxiv.org/abs/2306.12860)][[Website](https://sites.google.com/view/stgtransformer)]
 
 [[Back to Overview](#overview)]
 
