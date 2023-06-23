@@ -683,6 +683,7 @@ If you find this repository useful, please consider citing this list:
 * **Bi-ViT**: "Bi-ViT: Pushing the Limit of Vision Transformer Quantization", arXiv, 2023 (*Beihang University*). [[Paper](https://arxiv.org/abs/2305.12354)]
 * **BinaryViT**: "BinaryViT: Towards Efficient and Accurate Binary Vision Transformers", arXiv, 2023 (*CAS*). [[Paper](https://arxiv.org/abs/2305.14730)]
 * **Zero-TP**: "Zero-TPrune: Zero-Shot Token Pruning through Leveraging of the Attention Graph in Pre-Trained Transformers", arXiv, 2023 (*Princeton*). [[Paper](https://arxiv.org/abs/2305.17328)]
+* **?**: "Quantizable Transformers: Removing Outliers by Helping Attention Heads Do Nothing", arXiv, 2023 (*Qualcomm*). [[Paper](https://arxiv.org/abs/2306.12929)]
 
 [[Back to Overview](#overview)]
 
@@ -1897,6 +1898,7 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
     * **?**: "Implicit and Explicit Commonsense for Multi-sentence Video Captioning", arXiv, 2023 (*UBC*). [[Paper](https://arxiv.org/abs/2303.07545)]
     * **Video-Verbalization**: "A Video Is Worth 4096 Tokens: Verbalize Story Videos To Understand Them In Zero Shot", arXiv, 2023 (*Adobe*). [[Paper](https://arxiv.org/abs/2305.09758)]
     * **Dense-VOC**: "Dense Video Object Captioning from Disjoint Supervision", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2306.11729)]
+    * **?**: "Exploring the Role of Audio in Video Captioning", arXiv, 2023 (*ByteDance*). [[Paper](https://arxiv.org/abs/2306.12559)]
 * 3D:
     * **Vote2Cap-DETR**: "End-to-End 3D Dense Captioning with Vote2Cap-DETR", CVPR, 2023 (*Fudan*). [[Paper](https://arxiv.org/abs/2301.02508)]
     * **Cap3D**: "Scalable 3D Captioning with Pretrained Models", arXiv, 2023 (*UMich*). [[Paper](https://arxiv.org/abs/2306.07279)][[Dataset](https://huggingface.co/datasets/tiange/Cap3D)]
@@ -2596,6 +2598,7 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
     * **Paxion**: "Paxion: Patching Action Knowledge in Video-Language Foundation Models", arXiv, 2023 (*UIUC*). [[Paper](https://arxiv.org/abs/2305.10683)][[PyTorch](https://github.com/MikeWangWZHL/Paxion)]
     * **RLCF**: "Test-Time Adaptation with CLIP Reward for Zero-Shot Generalization in Vision-Language Models", arXiv, 2023 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2305.18010)][[Code (in construction)](https://github.com/mzhaoshuai/RLCF)]
     * **LMAT**: "Can Large Pre-trained Models Help Vision Models on Perception Tasks?", arXiv, 2023 (*Huawei*). [[Paper](https://arxiv.org/abs/2306.00693)][[Website (in construction)](https://dingning97.github.io/imagenet-descriptions/)]
+    * **TaCA**: "TaCA: Upgrading Your Visual Foundation Model with Task-agnostic Compatible Adapter", arXiv, 2023 (*Tencent*). [[Paper](https://arxiv.org/abs/2306.12642)][[Code (in construction)](https://github.com/TencentARC/TaCA)]
 * Zero-Shot:
     * **CuPL**: "What does a platypus look like? Generating customized prompts for zero-shot image classification", arXiv, 2022 (*UW*). [[Paper](https://arxiv.org/abs/2209.03320)][[PyTorch](https://github.com/sarahpratt/CuPL)]
     * **SMs**: "Socratic Models: Composing Zero-Shot Multimodal Reasoning with Language", ICLR, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2204.00598)][[GitHub](https://github.com/google-research/google-research/tree/master/socraticmodels)][[Website](https://socraticmodels.github.io/)]
@@ -2838,6 +2841,8 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
     * **NeRDi**: "NeRDi: Single-View NeRF Synthesis with Language-Guided Diffusion as General Image Priors", CVPR, 2023 (*Waymo*). [[Paper](https://arxiv.org/abs/2212.03267)]
 * Model Selection:
     * **LOVM**: "LOVM: Language-Only Vision Model Selection", arXiv, 2023 (*Stanford*). [[Paper](https://arxiv.org/abs/2306.08893)] 
+* Multimodal Interaction:
+    * **?**: "Learning Unseen Modality Interaction", arXiv, 2023 (*University of Amsterdam*). [[Paper](https://arxiv.org/abs/2306.12795)]
 
 [[Back to Overview](#overview)]
 
