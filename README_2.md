@@ -669,6 +669,7 @@ If you find this repository useful, please consider citing this list:
     * **RAMiT**: "RAMiT: Reciprocal Attention Mixing Transformer for Lightweight Image Restoration", arXiv, 2023 (*Sogang University, Korea*). [[Paper](https://arxiv.org/abs/2305.11474)]
     * **RAP**: "Restore Anything Pipeline: Segment Anything Meets Image Restoration", arXiv, 2023 (*ETHZ*). [[Paper](https://arxiv.org/abs/2305.13093)][[Code (in construction)](https://github.com/eth-siplab/RAP)]
     * **PromptIR**: "PromptIR: Prompting for All-in-One Blind Image Restoration", arXiv, 2023 (*MBZUAI*). [[Paper](https://arxiv.org/abs/2306.13090)][[Code (in construction)](https://github.com/va1shn9v/PromptIR)]
+    * **ProRes**: "ProRes: Exploring Degradation-aware Visual Prompt for Universal Image Restoration", arXiv, 2023 (*Horizon Robotics*). [[Paper](https://arxiv.org/abs/2306.13653)][[PyTorch (in construction)](https://github.com/leonmakise/ProRes)]
 * Super-Resolution:
     * **SAN**: "Second-Order Attention Network for Single Image Super-Resolution", CVPR, 2019 (*Tsinghua*). [[Paper](https://openaccess.thecvf.com/content_CVPR_2019/html/Dai_Second-Order_Attention_Network_for_Single_Image_Super-Resolution_CVPR_2019_paper.html)][[PyTorch](https://github.com/daitao/SAN)]
     * **CS-NL**: "Image Super-Resolution with Cross-Scale Non-Local Attention and Exhaustive Self-Exemplars Mining", CVPR, 2020 (*UIUC*). [[Paper](https://arxiv.org/abs/2006.01424)][[PyTorch](https://github.com/SHI-Labs/Cross-Scale-Non-Local-Attention)]
@@ -1173,6 +1174,7 @@ If you find this repository useful, please consider citing this list:
 * **MAESTER**: "MAESTER: Masked Autoencoder Guided Segmentation at Pixel Resolution for Accurate, Self-Supervised Subcellular Structure Recognition", CVPR, 2023 (*University of Toronto*). [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Xie_MAESTER_Masked_Autoencoder_Guided_Segmentation_at_Pixel_Resolution_for_Accurate_CVPR_2023_paper.html)]
 * **UniSeg**: "UniSeg: A Prompt-driven Universal Segmentation Model as well as A Strong Representation Learner", arXiv, 2023 (*Northwestern Polytechnical University, China*). [[Paper](https://arxiv.org/abs/2304.03493)][[PyTorch (in construction)](https://github.com/yeerwen/UniSeg)]
 * **UniverSeg**: "UniverSeg: Universal Medical Image Segmentation", arXiv, 2023 (*MIT*). [[Paper](https://arxiv.org/abs/2304.06131)][[PyTorch](https://github.com/JJGO/UniverSeg)][[Website](https://universeg.csail.mit.edu/)]
+* **3DSAM-adapter**: "3DSAM-adapter: Holistic Adaptation of SAM from 2D to 3D for Promptable Medical Image Segmentation", arXiv, 2023 (*CUHK*). [[Paper](https://arxiv.org/abs/2306.13465)]
 
 [[Back to Overview](#overview)]
 
