@@ -1278,6 +1278,7 @@ If you find this repository useful, please consider citing this list:
 * **MI-Zero**: "Visual Language Pretrained Multiple Instance Zero-Shot Transfer for Histopathology Images", CVPR, 2023 (*Harvard*). [[Paper](https://arxiv.org/abs/2306.07831)]
 * **KiUT**: "KiUT: Knowledge-Injected U-Transformer for Radiology Report Generation", CVPR, 2023 (*Shanghai AI Lab*). [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Huang_KiUT_Knowledge-Injected_U-Transformer_for_Radiology_Report_Generation_CVPR_2023_paper.html)]
 * **BioViL-T**: "Learning to Exploit Temporal Structure for Biomedical Vision-Language Processing", CVPR, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2301.04558)]
+* **?**: "Evidential Interactive Learning for Medical Image Captioning", ICML, 2023 (*Rochester Institute of Technology, NY*). [[Paper](https://openreview.net/forum?id=6wfqx3CdKv)]
 * **RAMM**: "RAMM: Retrieval-augmented Biomedical Visual Question Answering with Multi-modal Pre-training", arXiv, 2023 (*Alibaba*). [[Paper](https://arxiv.org/abs/2303.00534)]
 * **PT**: "Open-Ended Medical Visual Question Answering Through Prefix Tuning of Language Models", arXiv, 2023 (*University of Amsterdam*). [[Paper](https://arxiv.org/abs/2303.05977)]
 * **PMC-CLIP**: "PMC-CLIP: Contrastive Language-Image Pre-training using Biomedical Documents", arXiv, 2023 (*Shanghai Jiao Tong*). [[Paper](https://arxiv.org/abs/2303.07240)]
