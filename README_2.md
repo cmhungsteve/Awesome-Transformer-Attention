@@ -560,6 +560,7 @@ If you find this repository useful, please consider citing this list:
     * **MUST**: "Masked Unsupervised Self-training for Zero-shot Image Classification", ICLR, 2023 (*Salesforce*). [[Paper](https://arxiv.org/abs/2206.02967)][[PyTorch](https://github.com/salesforce/MUST)]
     * **I2MVFormer**: "I2MVFormer: Large Language Model Generated Multi-View Document Supervision for Zero-Shot Image Classification", CVPR, 2023 (*ETHZ*). [[Paper](https://arxiv.org/abs/2212.02291)]
     * **ADE**: "Learning Attention as Disentangler for Compositional Zero-shot Learning", CVPR, 2023 (*HKU*). [[Paper](https://arxiv.org/abs/2303.15111)][[PyTorch](https://github.com/haoosz/ade-czsl)][[Website](https://haoosz.github.io/ade-czsl/)]
+    * **CHiLS**: "CHiLS: Zero-Shot Image Classification with Hierarchical Label Sets", ICML, 2023 (*UCSD*). [[Paper](https://arxiv.org/abs/2302.02551)][[PyTorch](https://github.com/acmi-lab/CHILS)]
     * **?**: "Text-to-Image Diffusion Models are Zero-Shot Classifiers", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2303.15233)]
     * **?**: "Your Diffusion Model is Secretly a Zero-Shot Classifier", arXiv, 2023 (*CMU*). [[Paper](https://arxiv.org/abs/2303.16203)][[Code (in construction)](https://github.com/diffusion-classifier/diffusion-classifier)][[Website](https://diffusion-classifier.github.io/)]
 * X-Shot:
@@ -1560,7 +1561,6 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **PACT**: "PACT: Perception-Action Causal Transformer for Autoregressive Robotics Pre-Training", arXiv, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2209.11133)]
     * **?**: "A Strong Transfer Baseline for RGB-D Fusion in Vision Transformers", arXiv, 2022 (*University of Groningen, The Netherlands*). [[Paper](https://arxiv.org/abs/2210.00843)]
     * **?**: "Grounding Language with Visual Affordances over Unstructured Data", arXiv, 2022 (*University of Freiburg, Germany*). [[Paper](https://arxiv.org/abs/2210.01911)][[Website](http://hulc2.cs.uni-freiburg.de/)]
-    * **VIMA**: "VIMA: General Robot Manipulation with Multimodal Prompts", arXiv, 2022 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2210.03094)][[PyTorch](https://github.com/vimalabs/VIMA)][[Website](https://vimalabs.github.io/)]
     * **?**: "Lossless Adaptation of Pretrained Vision Models For Robotic Manipulation", ICLR, 2023 (*DeepMind*). [[Paper](https://openreview.net/forum?id=5IND3TXJRb-)]
     * **LOCATE**: "LOCATE: Localize and Transfer Object Parts for Weakly Supervised Affordance Grounding", CVPR, 2023 (*University of Edinburgh, UK*). [[Paper](https://arxiv.org/abs/2303.09665)][[PyTorch](https://github.com/Reagan1311/LOCATE)][[Website](https://reagan1311.github.io/locate/)]
     * **Afformer**: "Affordance Grounding from Demonstration Video to Target Image", CVPR, 2023 (*NUS*). [[Paper](https://arxiv.org/abs/2303.14644)][[PyTorch](https://github.com/showlab/afformer)]
