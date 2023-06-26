@@ -1518,6 +1518,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **MCM**: "Delving into Out-of-Distribution Detection with Vision-Language Representations", NeurIPS, 2022 (*UW-Madison*). [[Paper](https://arxiv.org/abs/2211.13445)]
     * **MOOD**: "Rethinking Out-of-distribution (OOD) Detection: Masked Image Modeling is All You Need", CVPR, 2023 (*CUHK*). [[Paper](https://arxiv.org/abs/2302.02615)][[PyTorch](https://github.com/JulietLJY/MOOD)]
     * **?**: "Masked Images Are Counterfactual Samples for Robust Fine-tuning", CVPR, 2023 (*Sun Yat-sen University*). [[Paper](https://arxiv.org/abs/2303.03052)][[PyTorch](https://github.com/Coxy7/robust-finetuning)]
+    * **CLIPood**: "CLIPood: Generalizing CLIP to Out-of-Distributions", ICML, 2023 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2302.00864)]
     * **GL-MCM**: "Zero-Shot In-Distribution Detection in Multi-Object Settings Using Vision-Language Foundation Models", arXiv, 2023 (*The University of Tokyo*). [[Paper](https://arxiv.org/abs/2304.04521)]
     * **LoCoOp**: "LoCoOp: Few-Shot Out-of-Distribution Detection via Prompt Learning", arXiv, 2023 (*The University of Tokyo*). [[Paper](https://arxiv.org/abs/2306.01293)][[Code (in construction)](https://github.com/AtsuMiyai/LoCoOp)]
 * Pedestrian Intention:
@@ -1564,6 +1565,8 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **?**: "Lossless Adaptation of Pretrained Vision Models For Robotic Manipulation", ICLR, 2023 (*DeepMind*). [[Paper](https://openreview.net/forum?id=5IND3TXJRb-)]
     * **LOCATE**: "LOCATE: Localize and Transfer Object Parts for Weakly Supervised Affordance Grounding", CVPR, 2023 (*University of Edinburgh, UK*). [[Paper](https://arxiv.org/abs/2303.09665)][[PyTorch](https://github.com/Reagan1311/LOCATE)][[Website](https://reagan1311.github.io/locate/)]
     * **Afformer**: "Affordance Grounding from Demonstration Video to Target Image", CVPR, 2023 (*NUS*). [[Paper](https://arxiv.org/abs/2303.14644)][[PyTorch](https://github.com/showlab/afformer)]
+    * **MV-MWM**: "Multi-View Masked World Models for Visual Robotic Manipulation", ICML, 2023 (*KAIST*). [[Paper](https://arxiv.org/abs/2302.02408)][[Tensorflow2](https://github.com/younggyoseo/MV-MWM)][[Website](https://sites.google.com/view/mv-mwm)]
+    * **MTM**: "Masked Trajectory Models for Prediction, Representation, and Control", ICML, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2305.02968)][[PyTorch](https://github.com/facebookresearch/mtm)][[Website](https://wuphilipp.github.io/mtm/)]
 * Scene Decomposition:
     * **SRT**: "Scene Representation Transformer: Geometry-Free Novel View Synthesis Through Set-Latent Scene Representations", CVPR, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2111.13152)][[PyTorch (stelzner)](https://github.com/stelzner/srt)][[Website](https://srt-paper.github.io/)]
     * **OSRT**: "Object Scene Representation Transformer", NeurIPS, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2206.06922)][[Website](https://osrt-paper.github.io/)]
