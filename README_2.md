@@ -1061,6 +1061,7 @@ If you find this repository useful, please consider citing this list:
 * **NavGPT**: "NavGPT: Explicit Reasoning in Vision-and-Language Navigation with Large Language Models", arXiv, 2023 (*The University of Adelaide, Australia*). [[Paper](https://arxiv.org/abs/2305.16986)]
 * **PanoGen**: "PanoGen: Text-Conditioned Panoramic Environment Generation for Vision-and-Language Navigation", arXiv, 2023 (*UNC*). [[Paper](https://arxiv.org/abs/2305.19195)][[PyTorch](https://github.com/jialuli-luka/PanoGen)][[Website](https://pano-gen.github.io/)]
 * **MO-VLN**: "MO-VLN: A Multi-Task Benchmark for Open-set Zero-Shot Vision-and-Language Navigation", arXiv, 2023 (*Sun Yat-Sen University*). [[Paper](https://arxiv.org/abs/2306.10322)][[Code (in construction)](https://github.com/mligg23/MO-VLN/)][[Website](https://mligg23.github.io/MO-VLN-Site/)]
+* **ViNT**: "ViNT: A Foundation Model for Visual Navigation", arXiv, 2023 (*Berkeley*). [[Paper](https://arxiv.org/abs/2306.14846)][[Code (in construction)](https://github.com/PrieureDeSion/visualnav-transformer)][[Website](https://visualnav-transformer.github.io/)]
 
 [[Back to Overview](#overview)]
 
@@ -1567,6 +1568,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **Afformer**: "Affordance Grounding from Demonstration Video to Target Image", CVPR, 2023 (*NUS*). [[Paper](https://arxiv.org/abs/2303.14644)][[PyTorch](https://github.com/showlab/afformer)]
     * **MV-MWM**: "Multi-View Masked World Models for Visual Robotic Manipulation", ICML, 2023 (*KAIST*). [[Paper](https://arxiv.org/abs/2302.02408)][[Tensorflow2](https://github.com/younggyoseo/MV-MWM)][[Website](https://sites.google.com/view/mv-mwm)]
     * **MTM**: "Masked Trajectory Models for Prediction, Representation, and Control", ICML, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2305.02968)][[PyTorch](https://github.com/facebookresearch/mtm)][[Website](https://wuphilipp.github.io/mtm/)]
+    * **RVT**: "RVT: Robotic View Transformer for 3D Object Manipulation", arXiv, 2023 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2306.14896)][[PyTorch](https://github.com/nvlabs/rvt)][[Website](https://robotic-view-transformer.github.io/)]
 * Scene Decomposition:
     * **SRT**: "Scene Representation Transformer: Geometry-Free Novel View Synthesis Through Set-Latent Scene Representations", CVPR, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2111.13152)][[PyTorch (stelzner)](https://github.com/stelzner/srt)][[Website](https://srt-paper.github.io/)]
     * **OSRT**: "Object Scene Representation Transformer", NeurIPS, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2206.06922)][[Website](https://osrt-paper.github.io/)]
@@ -1702,6 +1704,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **OOHMG**: "Being Comes from Not-being: Open-vocabulary Text-to-Motion Generation with Wordless Training", CVPR, 2023 (*Sun Yat-Sen University*). [[Paper](https://arxiv.org/abs/2210.15929)][[Code (in construction)](https://github.com/junfanlin/oohmg)]
     * **DDT**: "DDT: A Diffusion-Driven Transformer-based Framework for Human Mesh Recovery from a Video", arXiv, 2023 (*OPPO*). [[Paper](https://arxiv.org/abs/2303.13397)]
     * **MotionGPT**: "MotionGPT: Finetuned LLMs are General-Purpose Motion Generators", arXiv, 2023 (*USTC*). [[Paper](https://arxiv.org/abs/2306.10900)][[PyTorch (in construction)](https://github.com/qiqiApink/MotionGPT)][[Website](https://qiqiapink.github.io/MotionGPT/)]
+    * **MotionGPT**: "MotionGPT: Human Motion as a Foreign Language", arXiv, 2023 (*Fudan*). [[Paper](https://arxiv.org/abs/2306.14795)][[Code (in construction)](https://github.com/OpenMotionLab/MotionGPT)]
 * 3D Object Recognition:
     * **MVT**: "MVT: Multi-view Vision Transformer for 3D Object Recognition", BMVC, 2021 (*Baidu*). [[Paper](https://arxiv.org/abs/2110.13083)]
 * 3D Reconstruction:
