@@ -9,6 +9,7 @@ Contributions in any form to make this list more comprehensive are welcome.
 If you find this repository useful, please consider **[citing](#citation)** and **★STARing** this list. <br>
 Feel free to share this list with others! 
 
+**[Update: June, 2023]** Added all the related papers from *ICML 2023*! <br>
 **[Update: June, 2023]** Added all the related papers from *CVPR 2023*! <br>
 **[Update: February, 2023]** Added all the related papers from *ICLR 2023*! <br>
 **[Update: December, 2022]** Added attention-free papers from [Networks Beyond Attention (GitHub)](https://github.com/FocalNet/Networks-Beyond-Attention) made by [Jianwei Yang](https://github.com/jwyang) <br>
@@ -1558,6 +1559,7 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
     * **MOV**: "Multimodal Open-Vocabulary Video Classification via Pre-Trained Vision and Language Models", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2207.07646)]
     * **MotionBERT**: "MotionBERT: Unified Pretraining for Human Motion Analysis", arXiv, 2022 (*Peking University*). [[Paper](https://arxiv.org/abs/2210.06551)][[Code (in construction)](https://github.com/Walter0807/MotionBERT)][[Website](https://motionbert.github.io/)]
     * **3Mformer**: "3Mformer: Multi-order Multi-mode Transformer for Skeletal Action Recognition", CVPR, 2023 (*ANU*). [[Paper](https://arxiv.org/abs/2303.14474)]
+    * **UMT**: "On Uni-Modal Feature Learning in Supervised Multi-Modal Learning", ICML, 2023 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2305.01233)]
 * Group Activity:
     * **GroupFormer**: "GroupFormer: Group Activity Recognition with Clustered Spatial-Temporal Transformer", ICCV, 2021 (*Sensetime*). [[Paper](https://arxiv.org/abs/2108.12630)]
     * **?**: "Hunting Group Clues with Transformers for Social Group Activity Recognition", ECCV, 2022 (*Hitachi*). [[Paper](https://arxiv.org/abs/2207.05254)]
@@ -2608,6 +2610,7 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
 * Transfer Learning/Adaptation:
     * **FLYP**: "Finetune like you pretrain: Improved finetuning of zero-shot vision models", CVPR, 2023 (*CMU*). [[Paper](https://arxiv.org/abs/2212.00638)][[PyTorch](https://github.com/locuslab/FLYP)]
     * **Pi-Tuning**: "Pi-Tuning: Transferring Multimodal Foundation Models with Optimal Multi-task Interpolation", ICML, 2023 (*HKU*). [[Paper](https://arxiv.org/abs/2304.14381)][[Code (in construction)](https://github.com/TencentARC/pi-Tuning)]
+    * **OCRA**: "Cross-Modal Fine-Tuning: Align then Refine", ICML, 2023 (*CMU + HP*). [[Paper](https://arxiv.org/abs/2302.05738)][[PyTorch](https://github.com/sjunhongshen/ORCA)]
     * **TeS**: "Improved Visual Fine-tuning with Natural Language Supervision", arXiv, 2023 (*Alibaba*). [[Paper](https://arxiv.org/abs/2304.01489)]
     * **Paxion**: "Paxion: Patching Action Knowledge in Video-Language Foundation Models", arXiv, 2023 (*UIUC*). [[Paper](https://arxiv.org/abs/2305.10683)][[PyTorch](https://github.com/MikeWangWZHL/Paxion)]
     * **RLCF**: "Test-Time Adaptation with CLIP Reward for Zero-Shot Generalization in Vision-Language Models", arXiv, 2023 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2305.18010)][[Code (in construction)](https://github.com/mzhaoshuai/RLCF)]
@@ -2663,6 +2666,7 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
     * **Why-Prompt**: "Doubly Right Object Recognition: A Why Prompt for Visual Rationales", CVPR, 2023 (*Columbia*). [[Paper](https://arxiv.org/abs/2212.06202)]
     * **CREPE**: "CREPE: Can Vision-Language Foundation Models Reason Compositionally?", CVPR, 2023 (*Stanford*). [[Paper](https://arxiv.org/abs/2212.07796)]
     * **ZOOM**: "Zero-shot Model Diagnosis", CVPR, 2023 (*CMU*). [[Paper](https://arxiv.org/abs/2303.15441)]
+    * **?**: "On the Generalization of Multi-modal Contrastive Learning", ICML, 2023 (*Peking*). [[Paper](https://arxiv.org/abs/2306.04272)][[PyTorch](https://github.com/PKU-ML/CLIP-Help-SimCLR)]
 * Speaker Localization:
     * **?**: "The Right to Talk: An Audio-Visual Transformer Approach", ICCV, 2021 (*University of Arkansas*). [[Paper](https://arxiv.org/abs/2108.03256)]
 * Multi-task:
@@ -2862,6 +2866,7 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
     * **MME**: "MME: A Comprehensive Evaluation Benchmark for Multimodal Large Language Models", arXiv, 2023 (*Tencent*). [[Paper](https://arxiv.org/abs/2306.13394)][[Code (in construction)](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)]
 * Robustness:
     * **Hierarchy-CLIP**: "Improving Zero-shot Generalization and Robustness of Multi-modal Models", CVPR, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2212.01758)][[JAX](https://github.com/gyhandy/Hierarchy-CLIP)][[Website](https://sites.google.com/usc.edu/hierarchy-clip/)]
+    * **?**: "Mitigating Spurious Correlations in Multi-modal Models during Fine-tuning", ICML, 2023 (*UCLA*). [[Paper](https://arxiv.org/abs/2304.03916)]
     * **AttackVLM**: "On Evaluating Adversarial Robustness of Large Vision-Language Models", arXiv, 2023 (*Singapore University of Technology and Design (SUTD)*). [[Paper](https://arxiv.org/abs/2305.16934)][[PyTorch (in construction)](https://github.com/yunqing-me/AttackVLM)]
 * Compositional Reasoning:
     * **DAC**: "Dense and Aligned Captions (DAC) Promote Compositional Reasoning in VL Models", arXiv, 2023 (*IBM*). [[Paper](https://arxiv.org/abs/2305.19595)]
