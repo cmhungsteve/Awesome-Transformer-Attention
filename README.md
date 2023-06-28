@@ -585,6 +585,7 @@ If you find this repository useful, please consider citing this list:
 * **MaPeT**: "Learning to Mask and Permute Visual Tokens for Vision Transformer Pre-Training", arXiv, 2023 (*UniMoRE, Italy*). [[Paper](https://arxiv.org/abs/2306.07346)][[PyTorch](https://github.com/aimagelab/MaPeT)]
 * **RECO**: "Retrieval-Enhanced Contrastive Vision-Text Models", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2306.07196)]
 * **DesCo**: "DesCo: Learning Object Recognition with Rich Language Descriptions", arXiv, 2023 (*UCLA*). [[Paper](https://arxiv.org/abs/2306.14060)]
+* **CLIPA-v2**: "CLIPA-v2: Scaling CLIP Training with 81.1% Zero-shot ImageNet Accuracy within a $10,000 Budget; An Extra $4,000 Unlocks 81.8% Accuracy", arXiv, 2023 (*UC Santa Cruz*). [[Paper](https://arxiv.org/abs/2306.15658)][[PyTorch](https://github.com/UCSC-VLAA/CLIPA)]
 #### Robustness + Transformer
 * **ViT-Robustness**: "Understanding Robustness of Transformers for Image Classification", ICCV, 2021 (*Google*). [[Paper](https://arxiv.org/abs/2103.14586)]
 * **SAGA**: "On the Robustness of Vision Transformers to Adversarial Examples", ICCV, 2021 (*University of Connecticut*). [[Paper](https://arxiv.org/abs/2104.02610)]
@@ -1277,6 +1278,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **DeOP**: "Zero-Shot Semantic Segmentation with Decoupled One-Pass Network", arXiv, 2023 (*Meituan*). [[Paper](https://arxiv.org/abs/2304.01198)]][[Code (in construction)](https://github.com/CongHan0808/DeOP)]
     * **ASCG**: "Associating Spatially-Consistent Grouping with Text-supervised Semantic Segmentation", arXiv, 2023 (*ByteDance*). [[Paper](https://arxiv.org/abs/2304.01114)]
     * **ClsCLIP**: "[CLS] Token is All You Need for Zero-Shot Semantic Segmentation", arXiv, 2023 (*Eastern Institute for Advanced Study, China*). [[Paper](https://arxiv.org/abs/2304.06212)]
+    * **MESS**: "What a MESS: Multi-Domain Evaluation of Zero-Shot Semantic Segmentation", arXiv, 2023 (*Karlsruhe Institute of Technology, Germnay*). [[Paper](https://arxiv.org/abs/2306.15521)][[PyTorch](https://github.com/blumenstiel/MESS)][[Website](https://blumenstiel.github.io/mess-benchmark/)]
 * Open-World/Vocabulary:
     * **ViL-Seg**: "Open-world Semantic Segmentation via Contrasting and Clustering Vision-Language Embedding", ECCV, 2022 (*CUHK*). [[Paper](https://arxiv.org/abs/2207.08455)]
     * **OVSS**: "A Simple Baseline for Open Vocabulary Semantic Segmentation with Pre-trained Vision-language Model", ECCV, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2112.14757)][[PyTorch](https://github.com/MendelXu/zsseg.baseline)]
@@ -1396,6 +1398,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **AReAM**: "Mitigating Undisciplined Over-Smoothing in Transformer for Weakly Supervised Semantic Segmentation", arXiv, 2023 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2305.03112)]
     * **SEPL**: "Segment Anything Model (SAM) Enhanced Pseudo Labels for Weakly Supervised Semantic Segmentation", arXiv, 2023 (*OSU*). [[Paper](https://arxiv.org/abs/2305.05803)][[Code (in construction)](https://github.com/cskyl/SAM_WSSS)]
     * **PaintSeg**: "PaintSeg: Training-free Segmentation via Painting", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2305.19406)]
+    * **MIMIC**: "MIMIC: Masked Image Modeling with Image Correspondences", arXiv, 2023 (*UW*). [[Paper](https://arxiv.org/abs/2306.15128)][[PyTorch](https://github.com/RAIVNLab/MIMIC)]
 * Cross-Domain:
     * **DAFormer**: "DAFormer: Improving Network Architectures and Training Strategies for Domain-Adaptive Semantic Segmentation", CVPR, 2022 (*ETHZ*). [[Paper](https://arxiv.org/abs/2111.14887)][[PyTorch](https://github.com/lhoyer/DAFormer)]
     * **?**: "Exploring Consistency in Cross-Domain Transformer for Domain Adaptive Semantic Segmentation", arXiv, 2022 (*Boston*). [[Paper](https://arxiv.org/abs/2211.14703)]
@@ -1439,6 +1442,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **Contrastive-Lift**: "Contrastive Lift: 3D Object Instance Segmentation by Slow-Fast Contrastive Fusion", arXiv, 2023 (*Oxford*). [[Paper](https://arxiv.org/abs/2306.04633)]
     * **DCTNet**: "Dynamic Clustering Transformer Network for Point Cloud Segmentation", arXiv, 2023 (*University of Waterloo, Waterloo, Canada*). [[Paper](https://arxiv.org/abs/2306.08073)]
     * **SPT**: "Efficient 3D Semantic Segmentation with Superpoint Transformer", arXiv, 2023 (*Univ Gustave Eiffel, France*). [[Paper](https://arxiv.org/abs/2306.08045)][[PyTorch](https://github.com/drprojects/superpoint_transformer)]
+    * **Symphonies**: "Symphonize 3D Semantic Scene Completion with Contextual Instance Queries", arXiv, 2023 (*Horizon Robotics*). [[Paper](https://arxiv.org/abs/2306.15670)][[PyTorch](https://github.com/hustvl/Symphonies)]
 * Multi-Task:
     * **MTFormer**: "MTFormer: Multi-task Learning via Transformer and Cross-Task Reasoning", ECCV, 2022 (*CUHK*). [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/1353_ECCV_2022_paper.php)]
     * **MQTransformer**: "Multi-Task Learning with Multi-Query Transformer for Dense Prediction", arXiv, 2022 (*Wuhan University*). [[Paper](https://arxiv.org/abs/2205.14354)]
@@ -2841,6 +2845,7 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
     * **?**: "Towards AGI in Computer Vision: Lessons Learned from GPT and Large Language Models", arXiv, 2023 (*Huawei*). [[Paper](https://arxiv.org/abs/2306.08641)]
     * **AssistGPT**: "AssistGPT: A General Multi-modal Assistant that can Plan, Execute, Inspect, and Learn", arXiv, 2023 (*NUS*). [[Paper](https://arxiv.org/abs/2306.08640)][[Code (in construction)](https://github.com/showlab/assistgpt)][[Website](https://showlab.github.io/assistgpt/)]
     * **Macaw-LLM**: "Macaw-LLM: Multi-Modal Language Modeling with Image, Audio, Video, and Text Integration", arXiv, 2023 (*Tencent*). [[Paper](https://arxiv.org/abs/2306.09093)][[PyTorch](https://github.com/lyuchenyang/Macaw-LLM)]
+    * **Shikra**: "Shikra: Unleashing Multimodal LLM's Referential Dialogue Magic", arXiv, 2023 (*SenseTime*). [[Paper](https://arxiv.org/abs/2306.15195)][[Code (in construction)](https://github.com/shikras/shikra)]
 * Visual Abductive Reasoning:
     * **RPT**: "Fine-Grained Regional Prompt Tuning for Visual Abductive Reasoning", arXiv, 2023 (*A\*STAR*). [[Paper](https://arxiv.org/abs/2303.10428)]
 * Tracking:
