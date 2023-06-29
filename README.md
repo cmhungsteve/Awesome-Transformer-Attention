@@ -2247,6 +2247,7 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
     * **COSA**: "COSA: Concatenated Sample Pretrained Vision-Language Foundation Model", arXiv, 2023 (*ByteDance*). [[Paper](https://arxiv.org/abs/2306.09085)][[PyTorch](https://github.com/TXH-mercury/COSA)]
     * **Babel-ImageNet**: "Babel-ImageNet: Massively Multilingual Evaluation of Vision-and-Language Representations", arXiv, 2023 (*University of Würzburg, Germany*). [[Paper](https://arxiv.org/abs/2306.08658)][[PyTorch](https://github.com/gregor-ge/Babel-ImageNet)]
     * **Kosmos-2**: "Kosmos-2: Grounding Multimodal Large Language Models to the World", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2306.14824)][[PyTorch](https://github.com/microsoft/unilm/tree/master/kosmos-2)][[Demo](https://888e9ea5c7b6d250.gradio.app/)]
+    * **LENS**: "Towards Language Models That Can See: Computer Vision Through the LENS of Natural Language", arXiv, 2023 (*Contextual AI + Stanford*). [[Paper](https://arxiv.org/abs/2306.16410)][[PyTorch](https://github.com/ContextualAI/lens)][[Demo](https://lens.contextual.ai/)]
 * Video:
     * **COOT**: "COOT: Cooperative Hierarchical Transformer for Video-Text Representation Learning", NeurIPS, 2020 (*University of Freiburg*). [[Paper](https://arxiv.org/abs/2011.00597)][[PyTorch](https://github.com/gingsi/coot-videotext)]
     * **Parameter-Reduction**: "Parameter Efficient Multimodal Transformers for Video Representation Learning", ICLR, 2021 (*Seoul National University*). [[Paper](https://openreview.net/forum?id=6UdQLhqJyFD)]
