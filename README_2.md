@@ -541,6 +541,7 @@ If you find this repository useful, please consider citing this list:
     * **StyLIP**: "StyLIP: Multi-Scale Style-Conditioned Prompt Learning for CLIP-based Domain Generalization", arXiv, 2023 (*TUM*). [[Paper](https://arxiv.org/abs/2302.09251)]
     * **FedCLIP**: "FedCLIP: Fast Generalization and Personalization for CLIP in Federated Learning", arXiv, 2023 (*CAS*). [[Paper](https://arxiv.org/abs/2302.13485)][[PyTorch](https://github.com/microsoft/PersonalizedFL)]
     * **UniOOD**: "Universal Domain Adaptation from Foundation Models", arXiv, 2023 (*South China University of Technology*). [[Paper](https://arxiv.org/abs/2305.11092)][[Code (in construction)](https://github.com/szubing/uniood)]
+    * **PEST**: "Prompt Ensemble Self-training for Open-Vocabulary Domain Adaptation", arXiv, 2023 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2306.16658)]
 * X-Supervised:
     * **Semiformer**: "Semi-Supervised Vision Transformers", ECCV, 2022 (*Fudan University*). [[Paper](https://arxiv.org/abs/2111.11067)][[PyTorch](https://github.com/wengzejia1/Semiformer)]
     * **SVL-Adapter**: "SVL-Adapter: Self-Supervised Adapter for Vision-Language Pretrained Models", BMVC, 2022 (*UCL*). [[Paper](https://arxiv.org/abs/2210.03794)][[Code (in construction)](https://github.com/omipan/svl_adapter)]
