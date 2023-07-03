@@ -1335,6 +1335,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
 * **ARST**: "ARST: Auto-Regressive Surgical Transformer for Phase Recognition from Laparoscopic Videos", arXiv, 2022 (*Shanghai Jiao Tong University*). [[Paper](https://arxiv.org/abs/2209.01148)]
 * **SSiT**: "SSiT: Saliency-guided Self-supervised Image Transformer for Diabetic Retinopathy Grading", arXiv, 2022 (*Southern University of Science and Techonology, China*). [[Paper](https://arxiv.org/abs/2210.10969)][[Code (in construction)](https://github.com/YijinHuang/SSiT)]
 * **MulGT**: "MulGT: Multi-task Graph-Transformer with Task-aware Knowledge Injection and Domain Knowledge-driven Pooling for Whole Slide Image Analysis", AAAI, 2023 (*HKU*). [[Paper](https://arxiv.org/abs/2302.10574)]
+* **HVTSurv**: "HVTSurv: Hierarchical Vision Transformer for Patient-Level Survival Prediction from Whole Slide Image", AAAI, 2023 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2306.17373)][[PyTorch](https://github.com/szc19990412/HVTSurv)]
 * **AMIGO**: "AMIGO: Sparse Multi-Modal Graph Transformer with Shared-Context Processing for Representation Learning of Giga-pixel Images", CVPR, 2023 (*UBC*). [[Paper](https://arxiv.org/abs/2303.00865)]
 * **ACAT**: "ACAT: Adversarial Counterfactual Attention for Classification and Detection in Medical Imaging", ICML, 2023 (*University of Edinburgh, UK*). [[Paper](https://arxiv.org/abs/2303.15421)]
 * **ViT-DAE**: "ViT-DAE: Transformer-driven Diffusion Autoencoder for Histopathology Image Analysis", arXiv, 2023 (*Stony Brook*). [[Paper](https://arxiv.org/abs/2304.01053)]
@@ -1654,6 +1655,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **ViP3D**: "ViP3D: End-to-end Visual Trajectory Prediction via 3D Agent Queries", CVPR, 2023 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2208.01582)][[PyTorch](https://github.com/Tsinghua-MARS-Lab/ViP3D)][[Website](https://tsinghua-mars-lab.github.io/ViP3D/)]
     * **InCrowdFormer**: "InCrowdFormer: On-Ground Pedestrian World Model From Egocentric Views", arXiv, 2023 (*Kyoto University*). [[Paper](https://arxiv.org/abs/2303.09534)]
     * **OccFormer**: "OccFormer: Dual-path Transformer for Vision-based 3D Semantic Occupancy Prediction", arXiv, 2023 (*PhiGent Robotics, China*). [[Paper](https://arxiv.org/abs/2304.05316)][[PyTorch](https://github.com/zhangyp15/OccFormer)]
+    * **MTR++**: "MTR++: Multi-Agent Motion Prediction with Symmetric Scene Modeling and Guided Intention Querying", arXiv, 2023 (*MPI*). [[Paper](https://arxiv.org/abs/2306.17770)]
 * Visual Counting:
     * **CC-AV**: "Audio-Visual Transformer Based Crowd Counting", ICCVW, 2021 (*University of Kansas*). [[Paper](https://arxiv.org/abs/2109.01926)]
     * **TransCrowd**: "TransCrowd: Weakly-Supervised Crowd Counting with Transformer", arXiv, 2021 (*Huazhong University of Science and Technology*). [[Paper](https://arxiv.org/abs/2104.09116)][[PyTorch](https://github.com/dk-liang/TransCrowd)]
