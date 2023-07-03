@@ -587,6 +587,7 @@ If you find this repository useful, please consider citing this list:
 * **RECO**: "Retrieval-Enhanced Contrastive Vision-Text Models", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2306.07196)]
 * **DesCo**: "DesCo: Learning Object Recognition with Rich Language Descriptions", arXiv, 2023 (*UCLA*). [[Paper](https://arxiv.org/abs/2306.14060)]
 * **CLIPA-v2**: "CLIPA-v2: Scaling CLIP Training with 81.1% Zero-shot ImageNet Accuracy within a $10,000 Budget; An Extra $4,000 Unlocks 81.8% Accuracy", arXiv, 2023 (*UC Santa Cruz*). [[Paper](https://arxiv.org/abs/2306.15658)][[PyTorch](https://github.com/UCSC-VLAA/CLIPA)]
+* **PatchMixing**: "Hardwiring ViT Patch Selectivity into CNNs using Patch Mixing", arXiv, 2023 (*Boston*). [[Paper](https://arxiv.org/abs/2306.17848)][[Website](https://arielnlee.github.io/PatchMixing/)]
 #### Robustness + Transformer
 * **ViT-Robustness**: "Understanding Robustness of Transformers for Image Classification", ICCV, 2021 (*Google*). [[Paper](https://arxiv.org/abs/2103.14586)]
 * **SAGA**: "On the Robustness of Vision Transformers to Adversarial Examples", ICCV, 2021 (*University of Connecticut*). [[Paper](https://arxiv.org/abs/2104.02610)]
@@ -2475,6 +2476,7 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
     * **CAC**: "Localized Text-to-Image Generation for Free via Cross Attention Control", arXiv, 2023 (*CMU*). [[Paper](https://arxiv.org/abs/2306.14636)]
     * **CLIPAG**: "CLIPAG: Towards Generator-Free Text-to-Image Generation", arXiv, 2023 (*Technion, Israel*). [[Paper](https://arxiv.org/abs/2306.16805)]
     * **PACGen**: "Generate Anything Anywhere in Any Scene", arXiv, 2023 (*UW Madison*). [[Paper](https://arxiv.org/abs/2306.17154)][[Code (in construction)](https://github.com/Yuheng-Li/PACGen)][[Website](https://yuheng-li.github.io/PACGen/)]
+    * **SPAE**: "SPAE: Semantic Pyramid AutoEncoder for Multimodal Generation with Frozen LLMs", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2306.17842)]
 * Video:
     * **Imagen-Video**: "Imagen Video: High Definition Video Generation with Diffusion Models", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2210.02303)][[Website](https://imagen.research.google/video/)]
     * **Phenaki**: "Phenaki: Variable Length Video Generation From Open Domain Textual Description", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2210.02399)][[PyTorch (LAION-AI, in construction)](https://github.com/LAION-AI/phenaki)][[Website](https://phenaki.video/)]
@@ -2860,8 +2862,9 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
     * **Macaw-LLM**: "Macaw-LLM: Multi-Modal Language Modeling with Image, Audio, Video, and Text Integration", arXiv, 2023 (*Tencent*). [[Paper](https://arxiv.org/abs/2306.09093)][[PyTorch](https://github.com/lyuchenyang/Macaw-LLM)]
     * **Shikra**: "Shikra: Unleashing Multimodal LLM's Referential Dialogue Magic", arXiv, 2023 (*SenseTime*). [[Paper](https://arxiv.org/abs/2306.15195)][[Code (in construction)](https://github.com/shikras/shikra)]
     * **LLaVAR**: "LLaVAR: Enhanced Visual Instruction Tuning for Text-Rich Image Understanding", arXiv, 2023 (*Stanford*). [[Paper](https://arxiv.org/abs/2306.17107)][[PyTorch](https://github.com/SALT-NLP/LLaVAR)][[Website](https://llavar.github.io/)]
-* Visual Abductive Reasoning:
+* Visual Reasoning:
     * **RPT**: "Fine-Grained Regional Prompt Tuning for Visual Abductive Reasoning", arXiv, 2023 (*A\*STAR*). [[Paper](https://arxiv.org/abs/2303.10428)]
+    * **LRR**: "Look, Remember and Reason: Visual Reasoning with Grounded Rationales", arXiv, 2023 (*Qualcomm*). [[Paper](https://arxiv.org/abs/2306.17778)]
 * Tracking:
     * **JointNLT**: "Joint Visual Grounding and Tracking with Natural Language Specification", CVPR, 2023 (*Harbin Institute of Technology*). [[Paper](https://arxiv.org/abs/2303.12027)][[PyTorch](https://github.com/lizhou-cs/JointNLT)]
 * Scene Graph:
