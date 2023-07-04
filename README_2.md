@@ -481,6 +481,7 @@ If you find this repository useful, please consider citing this list:
 * **AutoTaskFormer**: "AutoTaskFormer: Searching Vision Transformers for Multi-task Learning", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2304.08756)]
 * **GPT-NAS**: "GPT-NAS: Neural Architecture Search with the Generative Pre-Trained Model", arXiv, 2023 (*Sichuan University*). [[Paper](https://arxiv.org/abs/2305.05351)]
 * **NAR-Former-V2**: "NAR-Former V2: Rethinking Transformer for Universal Neural Network Representation Learning", arXiv, 2023 (*Intellifusion, China*). [[Paper](https://arxiv.org/abs/2306.10792)]
+* **AutoST**: "AutoST: Training-free Neural Architecture Search for Spiking Transformers", arXiv, 2023 (*NC State*). [[Paper](https://arxiv.org/abs/2307.00293)]
 
 [[Back to Overview](#overview)]
 
@@ -1282,6 +1283,7 @@ If you find this repository useful, please consider citing this list:
 * **KiUT**: "KiUT: Knowledge-Injected U-Transformer for Radiology Report Generation", CVPR, 2023 (*Shanghai AI Lab*). [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Huang_KiUT_Knowledge-Injected_U-Transformer_for_Radiology_Report_Generation_CVPR_2023_paper.html)]
 * **BioViL-T**: "Learning to Exploit Temporal Structure for Biomedical Vision-Language Processing", CVPR, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2301.04558)]
 * **?**: "Evidential Interactive Learning for Medical Image Captioning", ICML, 2023 (*Rochester Institute of Technology, NY*). [[Paper](https://openreview.net/forum?id=6wfqx3CdKv)]
+* **?**: "Localized Questions in Medical Visual Question Answering", MICCAI, 2023 (*University of Bern, Switzerland*). [[Paper](https://arxiv.org/abs/2307.01067)]
 * **RAMM**: "RAMM: Retrieval-augmented Biomedical Visual Question Answering with Multi-modal Pre-training", arXiv, 2023 (*Alibaba*). [[Paper](https://arxiv.org/abs/2303.00534)]
 * **PT**: "Open-Ended Medical Visual Question Answering Through Prefix Tuning of Language Models", arXiv, 2023 (*University of Amsterdam*). [[Paper](https://arxiv.org/abs/2303.05977)]
 * **PMC-CLIP**: "PMC-CLIP: Contrastive Language-Image Pre-training using Biomedical Documents", arXiv, 2023 (*Shanghai Jiao Tong*). [[Paper](https://arxiv.org/abs/2303.07240)]
@@ -1669,6 +1671,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **CounTR**: "CounTR: Transformer-based Generalised Visual Counting", arXiv, 2022 (*Shanghai Jiao Tong University*). [[Paper](https://arxiv.org/abs/2208.13721)][[Website](https://verg-avesta.github.io/CounTR_Webpage/)]
     * **CrowdCLIP**: "CrowdCLIP: Unsupervised Crowd Counting via Vision-Language Model", CVPR, 2023 (*Baidu*). [[Paper](https://arxiv.org/abs/2304.04231)][[Code (in construction)](https://github.com/dk-liang/CrowdCLIP)]
     * **CLIP-Count**: "CLIP-Count: Towards Text-Guided Zero-Shot Object Counting", arXiv, 2023 (*The Hong Kong Polytechnic University*). [[Paper](https://arxiv.org/abs/2305.07304)][[Code (in construction)](https://github.com/songrise/CLIP-Count)]
+    * **?**: "Training-free Object Counting with Prompts", arXiv, 2023 (*A\⋆STAR*). [[Paper](https://arxiv.org/abs/2307.00038)][[PyTorch](https://github.com/shizenglin/training-free-object-counter)]
 * Visual Quality Assessment:
     * **TRIQ**: "Transformer for Image Quality Assessment", arXiv, 2020 (*NORCE*). [[Paper](https://arxiv.org/abs/2101.01097)][[Tensorflow-Keras](https://github.com/junyongyou/triq)]
     * **IQT**: "Perceptual Image Quality Assessment with Transformers", CVPRW, 2021 (*LG*). [[Paper](https://arxiv.org/abs/2104.14730)][[Code (in construction)](https://github.com/manricheon/IQT)]
