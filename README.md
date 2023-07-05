@@ -418,6 +418,7 @@ If you find this repository useful, please consider citing this list:
 * **?**: "Muti-Scale And Token Mergence: Make Your ViT More Efficient", arXiv, 2023 (*Jilin University*). [[Paper](https://arxiv.org/abs/2306.04897)]
 * **FasterViT**: "FasterViT: Fast Vision Transformers with Hierarchical Attention", arXiv, 2023 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2306.06189)]
 * **NextViT**: "Vision Transformer with Attention Map Hallucination and FFN Compaction", arXiv, 2023 (*Baidu*). [[Paper](https://arxiv.org/abs/2306.10875)]
+* **SkipAt**: "Skip-Attention: Improving Vision Transformers by Paying Less Attention", arXiv, 2023 (*Qualcomm*). [[Paper](https://arxiv.org/abs/2301.02240)]
 #### Conv + Transformer
 * **LeViT**: "LeViT: a Vision Transformer in ConvNet's Clothing for Faster Inference", ICCV, 2021 (*Facebook*). [[Paper](https://arxiv.org/abs/2104.01136)][[PyTorch](https://github.com/facebookresearch/LeViT)]
 * **CeiT**: "Incorporating Convolution Designs into Visual Transformers", ICCV, 2021 (*SenseTime*). [[Paper](https://arxiv.org/abs/2103.11816)][[PyTorch (rishikksh20)](https://github.com/rishikksh20/CeiT)]
@@ -1619,6 +1620,7 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
 * **MS-DETR**: "MS-DETR: Natural Language Video Localization with Sampling Moment-Moment Interaction", ACL, 2023 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2305.18969)][[PyTorch](https://github.com/K-Nick/MS-DETR)]
 * **EVAD**: "Efficient Video Action Detection with Token Dropout and Context Refinement", arXiv, 2023 (*Nanjing University*). [[Paper](https://arxiv.org/abs/2304.08451)]
 * **STAR**: "End-to-End Spatio-Temporal Action Localisation with Video Transformers", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2304.12160)]
+* **DiffTAD**: "DiffTAD: Temporal Action Detection with Proposal Denoising Diffusion", arXiv, 2023 (*University of Surrey, UK*). [[Paper](https://arxiv.org/abs/2303.14863)][[PyTorch (in construction)](https://github.com/sauradip/DiffusionTAD)]
 
 [[Back to Overview](#overview)]
 
