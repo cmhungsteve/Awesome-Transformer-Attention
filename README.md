@@ -405,6 +405,7 @@ If you find this repository useful, please consider citing this list:
 * **ViT-Ti**: "RGB no more: Minimally-decoded JPEG Vision Transformers", CVPR, 2023 (*UMich*). [[Paper](https://arxiv.org/abs/2211.16421)]
 * **Sparsifiner**: "Sparsifiner: Learning Sparse Instance-Dependent Attention for Efficient Vision Transformers", CVPR, 2023 (*University of Toronto*). [[Paper](https://arxiv.org/abs/2303.13755)]
 * **?**: "Beyond Attentive Tokens: Incorporating Token Importance and Diversity for Efficient Vision Transformers", CVPR, 2023 (*Baidu*). [[Paper](https://arxiv.org/abs/2211.11315)]
+* **ReViT**: "Make A Long Image Short: Adaptive Token Length for Vision Transformers", ECML PKDD, 2023 (*Midea Grou, China*). [[Paper](https://arxiv.org/abs/2307.02092)]
 * **ElasticViT**: "ElasticViT: Conflict-aware Supernet Training for Deploying Fast Vision Transformer on Diverse Mobile Devices", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2303.09730)]
 * **SeiT**: "SeiT: Storage-Efficient Vision Training with Tokens Using 1% of Pixel Storage", arXiv, 2023 (*NAVER*). [[Paper](https://arxiv.org/abs/2303.11114)][[Code (in construction)](https://github.com/naver-ai/seit)]
 * **FastViT**: "FastViT: A Fast Hybrid Vision Transformer using Structural Reparameterization", arXiv, 2023 (*Apple*). [[Paper](https://arxiv.org/abs/2303.14189)]
@@ -419,6 +420,7 @@ If you find this repository useful, please consider citing this list:
 * **FasterViT**: "FasterViT: Fast Vision Transformers with Hierarchical Attention", arXiv, 2023 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2306.06189)]
 * **NextViT**: "Vision Transformer with Attention Map Hallucination and FFN Compaction", arXiv, 2023 (*Baidu*). [[Paper](https://arxiv.org/abs/2306.10875)]
 * **SkipAt**: "Skip-Attention: Improving Vision Transformers by Paying Less Attention", arXiv, 2023 (*Qualcomm*). [[Paper](https://arxiv.org/abs/2301.02240)]
+* **MSViT**: "MSViT: Dynamic Mixed-Scale Tokenization for Vision Transformers", arXiv, 2023 (*Qualcomm*). [[Paper](https://arxiv.org/abs/2307.02321)]
 #### Conv + Transformer
 * **LeViT**: "LeViT: a Vision Transformer in ConvNet's Clothing for Faster Inference", ICCV, 2021 (*Facebook*). [[Paper](https://arxiv.org/abs/2104.01136)][[PyTorch](https://github.com/facebookresearch/LeViT)]
 * **CeiT**: "Incorporating Convolution Designs into Visual Transformers", ICCV, 2021 (*SenseTime*). [[Paper](https://arxiv.org/abs/2103.11816)][[PyTorch (rishikksh20)](https://github.com/rishikksh20/CeiT)]
@@ -1375,6 +1377,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **VTM**: "Universal Few-shot Learning of Dense Prediction Tasks with Visual Token Matching", ICLR, 2023 (*KAIST*). [[Paper](https://arxiv.org/abs/2303.14969)][[PyTorch](https://github.com/GitGyun/visual_token_matching)]
     * **SegGPT**: "SegGPT: Segmenting Everything In Context", arXiv, 2023 (*BAAI*). [[Paper](https://arxiv.org/abs/2304.03284)][[PyTorch](https://github.com/baaivision/Painter)]
     * **RefT**: "Reference Twice: A Simple and Unified Baseline for Few-Shot Instance Segmentation", arXiv, 2023 (*Tencent*). [[Paper](https://arxiv.org/abs/2301.01156)][[Code (in construction)](https://github.com/hanyue1648/RefT)]
+    * **?**: "Multi-Modal Prototypes for Open-Set Semantic Segmentation", arXiv, 2023 (*Shanghai Jiao Tong*). [[Paper](https://arxiv.org/abs/2307.02003)]
 * X-Supervised:
     * **MCTformer**: "Multi-class Token Transformer for Weakly Supervised Semantic Segmentation", CVPR, 2022 (*The University of Western Australia*). [[Paper](https://arxiv.org/abs/2203.02891)][[Code (in construction)](https://github.com/xulianuwa/MCTformer)]
     * **AFA**: "Learning Affinity from Attention: End-to-End Weakly-Supervised Semantic Segmentation with Transformers", CVPR, 2022 (*Wuhan University*). [[Paper](https://arxiv.org/abs/2203.02664)][[PyTorch](https://github.com/rulixiang/afa)]
@@ -1416,6 +1419,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **HGFormer**: "HGFormer: Hierarchical Grouping Transformer for Domain Generalized Semantic Segmentation", CVPR, 2023 (*Wuhan University*). [[Paper](https://arxiv.org/abs/2305.13031)][[Code (in construction)](https://github.com/dingjiansw101/HGFormer)]
     * **UniDAformer**: "UniDAformer: Unified Domain Adaptive Panoptic Segmentation Transformer via Hierarchical Mask Calibration", CVPR, 2023 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2206.15083)]
     * **MIC**: "MIC: Masked Image Consistency for Context-Enhanced Domain Adaptation", CVPR, 2023 (*ETHZ*). [[Paper](https://arxiv.org/abs/2212.01322)][[PyTorch](https://github.com/lhoyer/MIC)]
+    * **PTDiffSeg**: "Prompting Diffusion Representations for Cross-Domain Semantic Segmentation", arXiv, 2023 (*ETHZ*). [[Paper](https://arxiv.org/abs/2307.02138)][[Code (in construction)](https://github.com/ETHRuiGong/PTDiffSeg)]
 * Continual Learning:
     * **TISS**: "Delving into Transformer for Incremental Semantic Segmentation", arXiv, 2022 (*Tencent*). [[Paper](https://arxiv.org/abs/2211.10253)]
     * **Incrementer**: "Incrementer: Transformer for Class-Incremental Semantic Segmentation With Knowledge Distillation Focusing on Old Class", CVPR, 2023 (*University of Electronic Science and Technology of China*). [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Shang_Incrementer_Transformer_for_Class-Incremental_Semantic_Segmentation_With_Knowledge_Distillation_Focusing_CVPR_2023_paper.html)]
@@ -1486,6 +1490,8 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
     * **AIMS**: "AIMS: All-Inclusive Multi-Level Segmentation", arXiv, 2023 (*UC Merced*). [[Paper](https://arxiv.org/abs/2305.17768)][[PyTorch](https://github.com/dvlab-research/Entity)]
 * Evaluation:
     * **?**: "Robustness Analysis on Foundational Segmentation Models", arXiv, 2023 (*UCF*). [[Paper](https://arxiv.org/abs/2306.09278)][[PyTorch](https://github.com/DeepLearningRobustnessStudies/SegmetationRobustness)]
+* Interactive Segmentation:
+    * **iCMFormer**: "Interactive Image Segmentation with Cross-Modality Vision Transformers", arXiv, 2023 (*University of Twente, Netherlands*). [[Paper](https://arxiv.org/abs/2307.02280)][[Code (in construction)](https://github.com/lik1996/iCMFormer)]
 
 [[Back to Overview](#overview)]
 
@@ -2758,6 +2764,7 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
     * **?**: "Vision-Language Models as Success Detectors", arXiv, 2023 (*DeepMind*). [[Paper](https://arxiv.org/abs/2303.07280)]
     * **VC-1**: "Where are we in the search for an Artificial Visual Cortex for Embodied Intelligence?", arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2303.18240)][[Website](https://eai-vc.github.io/)]
     * **HomeRobot**: "HomeRobot: Open-Vocabulary Mobile Manipulation", arXiv, 2023 (*Georgia Tech + Meta*). [[Paper](https://arxiv.org/abs/2306.11565)][[PyTorch](https://github.com/facebookresearch/home-robot)][[Website](https://ovmm.github.io/)]
+    * **TaPA**: "Embodied Task Planning with Large Language Models", arXiv, 2023 (*Beijing University of Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2307.01848)][[PyTorch](https://github.com/Gary3410/TaPA)][[Website](https://gary3410.github.io/TaPA/)]
 * Multi-modal Fusion:
     * **MICA**: "Attention Is Not Enough: Mitigating the Distribution Discrepancy in Asynchronous Multimodal Sequence Fusion", ICCV, 2021 (*Southwest Jiaotong University*). [[Paper](https://openaccess.thecvf.com/content/ICCV2021/html/Liang_Attention_Is_Not_Enough_Mitigating_the_Distribution_Discrepancy_in_Asynchronous_ICCV_2021_paper.html)]
     * **IFT**: "Image Fusion Transformer", arXiv, 2021 (*Johns Hopkins*). [[Paper](https://arxiv.org/abs/2107.09011)][[PyTorch](https://github.com/Vibashan/Image-Fusion-Transformer)]
@@ -2878,6 +2885,7 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
     * **Shikra**: "Shikra: Unleashing Multimodal LLM's Referential Dialogue Magic", arXiv, 2023 (*SenseTime*). [[Paper](https://arxiv.org/abs/2306.15195)][[Code (in construction)](https://github.com/shikras/shikra)]
     * **LLaVAR**: "LLaVAR: Enhanced Visual Instruction Tuning for Text-Rich Image Understanding", arXiv, 2023 (*Stanford*). [[Paper](https://arxiv.org/abs/2306.17107)][[PyTorch](https://github.com/SALT-NLP/LLaVAR)][[Website](https://llavar.github.io/)]
     * **Polite-Flamingo**: "Visual Instruction Tuning with Polite Flamingo", arXiv, 2023 (*Xiaobing.AI*). [[Paper](https://arxiv.org/abs/2307.01003)]
+    * **Lynx**: "What Matters in Training a GPT4-Style Language Model with Multimodal Inputs?", arXiv, 2023 (*ByteDance*). [[Paper](https://arxiv.org/abs/2307.02469)][[Website](https://lynx-llm.github.io/)]
 * Visual Reasoning:
     * **RPT**: "Fine-Grained Regional Prompt Tuning for Visual Abductive Reasoning", arXiv, 2023 (*A\*STAR*). [[Paper](https://arxiv.org/abs/2303.10428)]
     * **LRR**: "Look, Remember and Reason: Visual Reasoning with Grounded Rationales", arXiv, 2023 (*Qualcomm*). [[Paper](https://arxiv.org/abs/2306.17778)]
