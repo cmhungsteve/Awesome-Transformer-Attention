@@ -159,6 +159,7 @@ If you find this repository useful, please consider citing this list:
 * **PointGPT**: "PointGPT: Auto-regressively Generative Pre-training from Point Clouds", arXiv, 2023 (*Beijing Institute of Technology*). [[Paper](https://arxiv.org/abs/2305.11487)]
 * **CDFormer**: "Collect-and-Distribute Transformer for 3D Point Cloud Analysis", arXiv, 2023 (*The University of Sydney*). [[Paper](https://arxiv.org/abs/2306.01257)][[PyTorch](https://github.com/haibo-qiu/CDFormer)]
 * **PIC**: "Explore In-Context Learning for 3D Point Cloud Understanding", arXiv, 2023 (*Sun Yat-sen University*). [[Paper](https://arxiv.org/abs/2306.08659)][[Code (in construction)](https://github.com/fanglaosi/Point-In-Context)]
+* **DiT-3D**: "DiT-3D: Exploring Plain Diffusion Transformers for 3D Shape Generation", arXiv, 2023 (*Huawei*). [[Paper](https://arxiv.org/abs/2307.01831)][[Code (in construction)](https://github.com/DiT-3D/DiT-3D)][[Website](https://dit-3d.github.io/)]
 
 [[Back to Overview](#overview)]
 
@@ -620,6 +621,7 @@ If you find this repository useful, please consider citing this list:
     * **MSc-iNCD**: "Large-scale Pre-trained Models are Surprisingly Strong in Incremental Novel Class Discovery", arXiv, 2023 (*University of Trento, Italy*). [[Paper](https://arxiv.org/abs/2303.15975)][[PyTorch (in construction)](https://github.com/OatmealLiu/MSc-iNCD)]
     * **PROOF**: "Learning without Forgetting for Vision-Language Models", arXiv, 2023 (*Nanjing University*). [[Paper](https://arxiv.org/abs/2305.19270)]
     * **HePCo**: "HePCo: Data-Free Heterogeneous Prompt Consolidation for Continual Federated Learning", arXiv, 2023 (*Georgia Tech*). [[Paper](https://arxiv.org/abs/2306.09970)]
+    * **?**: "Continual Learning in Open-vocabulary Classification with Complementary Memory Systems", arXiv, 2023 (*UIUC*). [[Paper](https://arxiv.org/abs/2307.01430)]
 * Long-tail/Imbalanced:
     * **BatchFormer**: "BatchFormer: Learning to Explore Sample Relationships for Robust Representation Learning", CVPR, 2022 (*The University of Sydney*). [[Paper](https://arxiv.org/abs/2203.01522)][[PyTorch](https://github.com/zhihou7/BatchFormer)]
     * **BatchFormerV2**: "BatchFormerV2: Exploring Sample Relationships for Dense Representation Learning", arXiv, 2022 (*The University of Sydney*). [[Paper](https://arxiv.org/abs/2204.01254)]
@@ -1179,6 +1181,7 @@ If you find this repository useful, please consider citing this list:
 * **?**: "Devil is in the Queries: Advancing Mask Transformers for Real-world Medical Image Segmentation and Out-of-Distribution Localization", CVPR, 2023 (*Alibaba*). [[Paper](https://arxiv.org/abs/2304.00212)]
 * **CVM**: "Weakly supervised segmentation with point annotations for histopathology images via contrast-based variational model", CVPR, 2023 (*University of Liverpool, UK*). [[Paper](https://arxiv.org/abs/2304.03572)]
 * **MAESTER**: "MAESTER: Masked Autoencoder Guided Segmentation at Pixel Resolution for Accurate, Self-Supervised Subcellular Structure Recognition", CVPR, 2023 (*University of Toronto*). [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Xie_MAESTER_Masked_Autoencoder_Guided_Segmentation_at_Pixel_Resolution_for_Accurate_CVPR_2023_paper.html)]
+* **MDViT**: "MDViT: Multi-domain Vision Transformer for Small Medical Image Segmentation Datasets", MICCAI, 2023 (*UBC*). [[Paper](https://arxiv.org/abs/2307.02100)][[PyTorch](https://github.com/siyi-wind/MDViT)]
 * **UniSeg**: "UniSeg: A Prompt-driven Universal Segmentation Model as well as A Strong Representation Learner", arXiv, 2023 (*Northwestern Polytechnical University, China*). [[Paper](https://arxiv.org/abs/2304.03493)][[PyTorch (in construction)](https://github.com/yeerwen/UniSeg)]
 * **UniverSeg**: "UniverSeg: Universal Medical Image Segmentation", arXiv, 2023 (*MIT*). [[Paper](https://arxiv.org/abs/2304.06131)][[PyTorch](https://github.com/JJGO/UniverSeg)][[Website](https://universeg.csail.mit.edu/)]
 * **3DSAM-adapter**: "3DSAM-adapter: Holistic Adaptation of SAM from 2D to 3D for Promptable Medical Image Segmentation", arXiv, 2023 (*CUHK*). [[Paper](https://arxiv.org/abs/2306.13465)]
@@ -1364,6 +1367,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **BEVFormer-v2**: "BEVFormer v2: Adapting Modern Image Backbones to Bird's-Eye-View Recognition via Perspective Supervision", CVPR, 2023 (*Tsinghua University*). [[Paper](https://arxiv.org/abs/2211.10439)]
     * **BEV-SAN**: "BEV-SAN: Accurate BEV 3D Object Detection via Slice Attention Networks", CVPR, 2023 (*Peking University*). [[Paper](https://arxiv.org/abs/2212.01231)]
     * **BEVGuide**: "BEV-Guided Multi-Modality Fusion for Driving Perception", CVPR, 2023 (*UIUC*). [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Man_BEV-Guided_Multi-Modality_Fusion_for_Driving_Perception_CVPR_2023_paper.html)][[Code (in construction)](https://github.com/YunzeMan/BEVGuide)][[Website](https://yunzeman.github.io/BEVGuide/)]
+    * **FB-OCC**: "FB-OCC: 3D Occupancy Prediction based on Forward-Backward View Transformation", CVPRW, 2023 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2307.01492)][[Code (in construction)](https://github.com/NVlabs/FB-BEV)]
     * **OCBEV**: "OCBEV: Object-Centric BEV Transformer for Multi-View 3D Object Detection", arXiv, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2306.01738)]
 * Biology:
     * **?**: "A State-of-the-art Survey of Object Detection Techniques in Microorganism Image Analysis: from Traditional Image Processing and Classical Machine Learning to Current Deep Convolutional Neural Networks and Potential Visual Transformers", arXiv, 2021 (*Northeastern University*). [[Paper](https://arxiv.org/abs/2105.03148)]
