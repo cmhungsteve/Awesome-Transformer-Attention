@@ -1692,6 +1692,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **DisCoVQA**: "DisCoVQA: Temporal Distortion-Content Transformers for Video Quality Assessment", arXiv, 2022 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2206.09853)]
     * **LIQE**: "Blind Image Quality Assessment via Vision-Language Correspondence: A Multitask Learning Perspective", CVPR, 2023 (*Shanghai Jiao Tong*). [[Paper](https://arxiv.org/abs/2303.14968)][[PyTorch](https://github.com/zwx8981/LIQE)]
     * **MRET**: "MRET: Multi-resolution Transformer for Video Quality Assessment", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2303.07489)]
+    * **SAM-IQA**: "SAM-IQA: Can Segment Anything Boost Image Quality Assessment?", arXiv, 2023 (*Megvii*). [[Paper](https://arxiv.org/abs/2307.04455)][[Code (in construction)](https://github.com/Hedlen/SAM-IQA)]
 * Visual Reasoning:
     * **SAViR-T**: "SAViR-T: Spatially Attentive Visual Reasoning with Transformers", arXiv, 2022 (*Rutgers University*). [[Paper](https://arxiv.org/abs/2206.09265)]
 * 3D Human Texture Estimation:
