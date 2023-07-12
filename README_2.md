@@ -160,6 +160,7 @@ If you find this repository useful, please consider citing this list:
 * **CDFormer**: "Collect-and-Distribute Transformer for 3D Point Cloud Analysis", arXiv, 2023 (*The University of Sydney*). [[Paper](https://arxiv.org/abs/2306.01257)][[PyTorch](https://github.com/haibo-qiu/CDFormer)]
 * **PIC**: "Explore In-Context Learning for 3D Point Cloud Understanding", arXiv, 2023 (*Sun Yat-sen University*). [[Paper](https://arxiv.org/abs/2306.08659)][[Code (in construction)](https://github.com/fanglaosi/Point-In-Context)]
 * **DiT-3D**: "DiT-3D: Exploring Plain Diffusion Transformers for 3D Shape Generation", arXiv, 2023 (*Huawei*). [[Paper](https://arxiv.org/abs/2307.01831)][[Code (in construction)](https://github.com/DiT-3D/DiT-3D)][[Website](https://dit-3d.github.io/)]
+* **PointCAM**: "Self-supervised adversarial masking for 3D point cloud representation learning", arXiv, 2023 (*Wrocław University of Science and Technology, Poland*). [[Paper](https://arxiv.org/abs/2307.05325)][[PyTorch](https://github.com/szacho/pointcam)]
 
 [[Back to Overview](#overview)]
 
