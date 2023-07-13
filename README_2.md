@@ -623,6 +623,7 @@ If you find this repository useful, please consider citing this list:
     * **PROOF**: "Learning without Forgetting for Vision-Language Models", arXiv, 2023 (*Nanjing University*). [[Paper](https://arxiv.org/abs/2305.19270)]
     * **HePCo**: "HePCo: Data-Free Heterogeneous Prompt Consolidation for Continual Federated Learning", arXiv, 2023 (*Georgia Tech*). [[Paper](https://arxiv.org/abs/2306.09970)]
     * **?**: "Continual Learning in Open-vocabulary Classification with Complementary Memory Systems", arXiv, 2023 (*UIUC*). [[Paper](https://arxiv.org/abs/2307.01430)]
+    * **MoP-CLIP**: "MoP-CLIP: A Mixture of Prompt-Tuned CLIP Models for Domain Incremental Learning", arXiv, 2023 (*ETS Montreal, Canada*). [[Paper](https://arxiv.org/abs/2307.05707)]
 * Long-tail/Imbalanced:
     * **BatchFormer**: "BatchFormer: Learning to Explore Sample Relationships for Robust Representation Learning", CVPR, 2022 (*The University of Sydney*). [[Paper](https://arxiv.org/abs/2203.01522)][[PyTorch](https://github.com/zhihou7/BatchFormer)]
     * **BatchFormerV2**: "BatchFormerV2: Exploring Sample Relationships for Dense Representation Learning", arXiv, 2022 (*The University of Sydney*). [[Paper](https://arxiv.org/abs/2204.01254)]
