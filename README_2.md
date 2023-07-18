@@ -1825,6 +1825,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
 * **cosFormer**: "cosFormer: Rethinking Softmax In Attention", ICLR, 2022 (*SenseTime*). [[Paper](https://openreview.net/forum?id=Bl8CQrx2Up4)][[PyTorch (davidsvy)](https://github.com/davidsvy/cosformer-pytorch)]
 * **MGK**: "Improving Transformers with Probabilistic Attention Keys", ICML, 2022 (*UCLA*). [[Paper](https://arxiv.org/abs/2110.08678)]
 * **FNet**: "FNet: Mixing Tokens with Fourier Transforms", NAACL, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2105.03824)]
+* **RetNet**: "Retentive Network: A Successor to Transformer for Large Language Models", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2307.08621)][[PyTorch (in construction)](https://github.com/microsoft/unilm/tree/master/retnet)]
 
 [[Back to Overview](#overview)]
 
