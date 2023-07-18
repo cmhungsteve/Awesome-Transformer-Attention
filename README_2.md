@@ -146,6 +146,7 @@ If you find this repository useful, please consider citing this list:
 * **MM-3DScene**: "MM-3DScene: 3D Scene Understanding by Customizing Masked Modeling with Informative-Preserved Reconstruction and Self-Distilled Consistency", CVPR, 2023 (*CAS*). [[Paper](https://arxiv.org/abs/2212.09948)][[PyTorch](https://github.com/MingyeXu/mm-3dscene)][[Website](https://mingyexu.github.io/mm3dscene/)]
 * **?**: "Self-Attention Amortized Distributional Projection Optimization for Sliced Wasserstein Point-Cloud Reconstruction", ICML, 2023 (*UT Austin*). [[Paper](https://arxiv.org/abs/2301.04791)]
 * **OctFormer**: "OctFormer: Octree-based Transformers for 3D Point Clouds", SIGGRAPH, 2023 (*Peking University*). [[Paper](https://arxiv.org/abs/2305.03045)][[Code (in construction)](https://github.com/octree-nn/octformer)][[Website](https://wang-ps.github.io/octformer)]
+* **SVDFormer**: "SVDFormer: Complementing Point Cloud via Self-view Augmentation and Self-structure Dual-generator", ICCV, 2023 (*Nanjing University of Aeronautics and Astronautics*). [[Paper](https://arxiv.org/abs/2307.08492)][[PyTorch](https://github.com/czvvd/SVDFormer)]
 * **Text4Point**: "Joint Representation Learning for Text and 3D Point Cloud", arXiv, 2023 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2301.07584)][[Code (in construction)](https://github.com/LeapLabTHU/Text4Point)]
 * **FullFormer**: "FullFormer: Generating Shapes Inside Shapes", arXiv, 2023 (*University of Siegen, Germany*). [[Paper](https://arxiv.org/abs/2303.11235)]
 * **RegFormer**: "RegFormer: An Efficient Projection-Aware Transformer Network for Large-Scale Point Cloud Registration", arXiv, 2023 (*Shanghai Jiao Tong*). [[Paper](https://arxiv.org/abs/2303.12384)]
@@ -640,6 +641,7 @@ If you find this repository useful, please consider citing this list:
     * **LiVT**: "Learning Imbalanced Data with Vision Transformers", CVPR, 2023 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2212.02015)][[PyTorch](https://github.com/XuZhengzhuo/LiVT)]
     * **G2SD**: "Generic-to-Specific Distillation of Masked Autoencoders", CVPR, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2302.14771)][[PyTorch](https://github.com/pengzhiliang/G2SD)]
     * **SLaK**: "Are Large Kernels Better Teachers than Transformers for ConvNets?", ICML, 2023 (*Eindhoven University of Technology, Netherlands*). [[Paper] (https://arxiv.org/abs/2305.19412)][[PyTorch](https://github.com/VITA-Group/SLaK)]
+    * **CSKD**: "Cumulative Spatial Knowledge Distillation for Vision Transformers", ICCV, 2023 (*Megvii*). [[Paper](https://arxiv.org/abs/2307.08500)]
     * **MaskedKD**: "MaskedKD: Efficient Distillation of Vision Transformers with Masked Images", arXiv, 2023 (*POSTECH*). [[Paper](https://arxiv.org/abs/2302.10494)]
     * **DIME-FM**: "DIME-FM: DIstilling Multimodal and Efficient Foundation Models", arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2303.18232)]
 * Clustering:
@@ -807,6 +809,7 @@ If you find this repository useful, please consider citing this list:
 * **Inst-Inpaint**: "Inst-Inpaint: Instructing to Remove Objects with Diffusion Models", arXiv, 2023 (*Bilkent University, Turkey*). [[Paper](https://arxiv.org/abs/2304.03246)]
 * **Inpaint-Anything**: "Inpaint Anything: Segment Anything Meets Image Inpainting", arXiv, 2023 (*USTC*). [[Paper](https://arxiv.org/abs/2304.06790)][[PyTorch](https://github.com/geekyutao/Inpaint-Anything)]
 * **TransRef**: "TransRef: Multi-Scale Reference Embedding Transformer for Reference-Guided Image Inpainting", arXiv, 2023 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2306.11528)][[PyTorch](https://github.com/Cameltr/TransRef)]
+* **DMT**: "Deficiency-Aware Masked Transformer for Video Inpainting", arXiv, 2023 (*CAS*). [[Paper](https://arxiv.org/abs/2307.08629)][[Code (in construction)](https://github.com/yeates/DMT)]
 
 [[Back to Overview](#overview)]
 
@@ -1643,6 +1646,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **LiDARFormer**: "LiDARFormer: A Unified Transformer-based Multi-task Network for LiDAR Perception", arXiv, 2023 (*TuSimple*). [[Paper](https://arxiv.org/abs/2303.12194)]
     * **VoxelFormer**: "VoxelFormer: Bird's-Eye-View Feature Generation based on Dual-view Attention for Multi-view 3D Object Detection", arXiv, 2023 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2304.01054)][[PyTorch](https://github.com/Lizhuoling/VoxelFormer-public)]
     * **AVIS**: "AVIS: Autonomous Visual Information Seeking with Large Language Models", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2306.08129)]
+    * **LCTGen**: "Language Conditioned Traffic Generation", arXiv, 2023 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2307.07947)][[Website](https://ariostgx.github.io/lctgen/)]
 * Trajectory Prediction:
     * **mmTransformer**: "Multimodal Motion Prediction with Stacked Transformers", CVPR, 2021 (*CUHK + SenseTime*). [[Paper](https://arxiv.org/abs/2103.11624)][[Code (in construction)](https://github.com/decisionforce/mmTransformer)][[Website](https://decisionforce.github.io/mmTransformer/)]
     * **AgentFormer**: "AgentFormer: Agent-Aware Transformers for Socio-Temporal Multi-Agent Forecasting", ICCV, 2021 (*CMU*). [[Paper](https://arxiv.org/abs/2103.14023)][[PyTorch](https://github.com/Khrylx/AgentFormer)][[Website](https://www.ye-yuan.com/agentformer/)]
@@ -1664,6 +1668,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **TAMFormer**: "TAMFormer: Multi-Modal Transformer with Learned Attention Mask for Early Intent Prediction", arXiv, 2022 (*University of Padova, Italy*). [[Paper](https://arxiv.org/abs/2210.14714)]
     * **QCNet**: "Query-Centric Trajectory Prediction", CVPR, 2023 (*CUHK*). [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Zhou_Query-Centric_Trajectory_Prediction_CVPR_2023_paper.html)][[Code (in construction)](https://github.com/ZikangZhou/QCNet)]
     * **ViP3D**: "ViP3D: End-to-end Visual Trajectory Prediction via 3D Agent Queries", CVPR, 2023 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2208.01582)][[PyTorch](https://github.com/Tsinghua-MARS-Lab/ViP3D)][[Website](https://tsinghua-mars-lab.github.io/ViP3D/)]
+    * **USST**: "Uncertainty-aware State Space Transformer for Egocentric 3D Hand Trajectory Forecasting", ICCV, 2023 (*OPPO*). [[Paper](https://arxiv.org/abs/2307.08243)]
     * **InCrowdFormer**: "InCrowdFormer: On-Ground Pedestrian World Model From Egocentric Views", arXiv, 2023 (*Kyoto University*). [[Paper](https://arxiv.org/abs/2303.09534)]
     * **OccFormer**: "OccFormer: Dual-path Transformer for Vision-based 3D Semantic Occupancy Prediction", arXiv, 2023 (*PhiGent Robotics, China*). [[Paper](https://arxiv.org/abs/2304.05316)][[PyTorch](https://github.com/zhangyp15/OccFormer)]
     * **MTR++**: "MTR++: Multi-Agent Motion Prediction with Symmetric Scene Modeling and Guided Intention Querying", arXiv, 2023 (*MPI*). [[Paper](https://arxiv.org/abs/2306.17770)]
