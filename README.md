@@ -2439,6 +2439,7 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
     * **DiffusionRet**: "DiffusionRet: Generative Text-Video Retrieval with Diffusion Model", arXiv, 2023 (*Peking University*). [[Paper](https://arxiv.org/abs/2303.09867)]
     * **TextVR**: "A Large Cross-Modal Video Retrieval Dataset with Reading Comprehension", arXiv, 2023 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2305.03347)][[PyTorch](https://github.com/callsys/TextVR)][[Website](https://sites.google.com/view/loveucvpr23/guest-track)]
     * **MASCOT**: "Mask to reconstruct: Cooperative Semantics Completion for Video-text Retrieval", arXiv, 2023 (*?*). [[Paper](https://arxiv.org/abs/2305.07910)]
+    * **CrossTVR**: "Fine-grained Text-Video Retrieval with Frozen Image Encoders", arXiv, 2023 (*Alibaba*). [[Paper](https://arxiv.org/abs/2307.09972)]
 * Others:
     * **IRRA**: "Cross-Modal Implicit Relation Reasoning and Aligning for Text-to-Image Person Retrieval", CVPR, 2023 (*Wuhan University*). [[Paper](https://arxiv.org/abs/2303.12501)][[PyTorch](https://github.com/anosorae/IRRA)]
     * **ZS-SBIR**: "CLIP for All Things Zero-Shot Sketch-Based Image Retrieval, Fine-Grained or Not", CVPR, 2023 (*University of Surrey, UK*). [[Paper](https://arxiv.org/abs/2303.13440)][[PyTorch](https://github.com/aneeshan95/Sketch_LVM)]
@@ -2748,6 +2749,7 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
 * Tracking:
     * **ModaMixer**: "Divert More Attention to Vision-Language Tracking", NeurIPS, 2022 (*Beijing Jiaotong University*). [[Paper](https://arxiv.org/abs/2207.01076)][[PyTorch](https://github.com/JudasDie/SOTS)]
     * **TransRMOT**: "Referring Multi-Object Tracking", CVPR, 2023 (*Megvii*). [[Paper](https://arxiv.org/abs/2303.03366)][[PyTorch](https://github.com/wudongming97/RMOT)][[Website](https://referringmot.github.io/)]
+    * **ModaMixer**: "Divert More Attention to Vision-Language Object Tracking", arXiv, 2023 (*Beijing Jiaotong University*). [[Paper](https://arxiv.org/abs/2307.10046)][[PyTorch](https://github.com/JudasDie/SOTS)]
 * Analysis:
     * **MM-Explainability**: "Generic Attention-model Explainability for Interpreting Bi-Modal and Encoder-Decoder Transformers", ICCV, 2021 (*Tel Aviv*). [[Paper](https://arxiv.org/abs/2103.15679)][[PyTorch](https://github.com/hila-chefer/Transformer-MM-Explainability)]
     * **?**: "Are Multimodal Transformers Robust to Missing Modality?", CVPR, 2022 (*University of Delaware*). [[Paper](https://arxiv.org/abs/2204.05454)]
