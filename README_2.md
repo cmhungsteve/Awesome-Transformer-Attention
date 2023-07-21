@@ -1227,6 +1227,7 @@ If you find this repository useful, please consider citing this list:
 * **IPS**: "Iterative Patch Selection for High-Resolution Image Recognition", ICLR, 2023 (*Hasso Plattner Institute, Germany*). [[Paper](https://arxiv.org/abs/2210.13007)]
 * **ILRA-MIL**: "Exploring Low-Rank Property in Multiple Instance Learning for Whole Slide Image Classification", ICLR, 2023 (*Tencent*). [[Paper](https://openreview.net/forum?id=01KmhBsEPFO)]
 * **BolT**: "BolT: Fused window transformers for fMRI time series analysis", Medical Image Analysis, 2023 (*Bilkent University*). [[Paper](https://www.sciencedirect.com/science/article/pii/S1361841523001019)][[PyTorch](https://github.com/icon-lab/BolT)]
+* **DreaMR**: "DreaMR: Diffusion-driven Counterfactual Explanation for Functional MRI", arXiv, 2023 (*Bilkent University*). [[Paper](https://arxiv.org/abs/2307.09547)][[PyTorch](https://github.com/icon-lab/DreaMR)]
 
 [[Back to Overview](#overview)]
 
