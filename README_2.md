@@ -1064,6 +1064,7 @@ If you find this repository useful, please consider citing this list:
 * **AZHP**: "Adaptive Zone-aware Hierarchical Planner for Vision-Language Navigation", CVPR, 2023 (*Beihang University*). [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Gao_Adaptive_Zone-Aware_Hierarchical_Planner_for_Vision-Language_Navigation_CVPR_2023_paper.html)][[Code (in construction)](https://github.com/chengaopro/AZHP)]
 * **MARVAL**: "A New Path: Scaling Vision-and-Language Navigation with Synthetic Instructions and Imitation Learning", CVPR, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2210.03112)]
 * **VO-Transformer**: "Modality-invariant Visual Odometry for Embodied Vision", CVPR, 2023 (*EPFL*). [[Paper](https://arxiv.org/abs/2305.00348)][[Website](https://memmelma.github.io/vot/)]
+* **VLN-Behave**: "Behavioral Analysis of Vision-and-Language Navigation Agents", CVPR, 2023 (*Oregon State*). [[Paper](https://arxiv.org/abs/2307.10790)][[Code](https://github.com/Yoark/vln-behave)]
 * **MLANet**: "MLANet: Multi-Level Attention Network with Sub-instruction for Continuous Vision-and-Language Navigation", arXiv, 2023 (*Tongji University*). [[Paper](https://arxiv.org/abs/2303.01396)][[PyTorch](https://github.com/RavenKiller/MLA)]
 * **ENTL**: "ENTL: Embodied Navigation Trajectory Learner", arXiv, 2023 (*AI2*). [[Paper](https://arxiv.org/abs/2304.02639)]
 * **MPM**: "Masked Path Modeling for Vision-and-Language Navigation", arXiv, 2023 (*UCLA*). [[Paper](https://arxiv.org/abs/2305.14268)]
