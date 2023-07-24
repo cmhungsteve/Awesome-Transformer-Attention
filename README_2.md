@@ -517,6 +517,7 @@ If you find this repository useful, please consider citing this list:
     * **FacT**: "FacT: Factor-Tuning for Lightweight Adaptation on Vision Transformer", AAAI, 2023 (*Peking*). [[Paper](https://arxiv.org/abs/2212.03145)][[Pytorch](https://github.com/JieShibo/PETL-ViT)]
     * **Consolidator**: "Consolidator: Mergable Adapter with Group Connections for Vision Transformer", ICLR, 2023 (*Tsinghua*). [[Paper](https://openreview.net/forum?id=J_Cja7cpgW)]
     * **REACT**: "Learning Customized Visual Models with Retrieval-Augmented Knowledge", CVPR, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2301.07094)][[Code (in construction)](https://github.com/microsoft/react)][[Website](https://react-vl.github.io/)]
+    * **MP**: "Tuning Pre-trained Model via Moment Probing", ICCV, 2023 (*Tianjin University*). [[Paper](https://arxiv.org/abs/2307.11342)][[PyTorch](https://github.com/mingzeG/Moment-Probing)]
     * **E<sup>3</sup>VA**: "Parameter-efficient is not sufficient: Exploring Parameter, Memory, and Time Efficient Adapter Tuning for Dense Predictions", arXiv, 2023 (*Alibaba + Microsoft*). [[Paper](https://arxiv.org/abs/2306.09729)]
     * **Minimax**: "Task-Robust Pre-Training for Worst-Case Downstream Adaptation", arXiv, 2023 (*Peking*). [[Paper](https://arxiv.org/abs/2306.12070)]
 * Domain Adaptation/Domain Generalization/Federated Learning:
@@ -619,6 +620,7 @@ If you find this repository useful, please consider citing this list:
     * **DKT**: "DKT: Diverse Knowledge Transfer Transformer for Class Incremental Learning", CVPR, 2023 (*Xi'an Jiaotong*). [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Gao_DKT_Diverse_Knowledge_Transfer_Transformer_for_Class_Incremental_Learning_CVPR_2023_paper.html)][[Code (in construction)](https://github.com/MIV-XJTU/DKT)]
     * **CODA-Prompt**: "CODA-Prompt: COntinual Decomposed Attention-based Prompting for Rehearsal-Free Continual Learning", CVPR, 2023 (*IBM*). [[Paper](https://arxiv.org/abs/2211.13218)][[PyTorch](https://github.com/GT-RIPL/CODA-Prompt)]
     * **BiRT**: "BiRT: Bio-inspired Replay in Vision Transformers for Continual Learning", ICML, 2023 (*NavInfo, Netherlands*). [[Paper](https://arxiv.org/abs/2305.04769)]
+    * **CLR**: "CLR: Channel-wise Lightweight Reprogramming for Continual Learning", ICCV, 2023 (*USC*). [[Paper](https://arxiv.org/abs/2307.11386)][[Code (in construction)](https://github.com/gyhandy/Channel-wise-Lightweight-Reprogramming)]
     * **PromptFusion**: "PromptFusion: Decoupling Stability and Plasticity for Continual Learning", arXiv, 2023 (*Fudan*). [[Paper](https://arxiv.org/abs/2303.07223)]
     * **MSc-iNCD**: "Large-scale Pre-trained Models are Surprisingly Strong in Incremental Novel Class Discovery", arXiv, 2023 (*University of Trento, Italy*). [[Paper](https://arxiv.org/abs/2303.15975)][[PyTorch (in construction)](https://github.com/OatmealLiu/MSc-iNCD)]
     * **PROOF**: "Learning without Forgetting for Vision-Language Models", arXiv, 2023 (*Nanjing University*). [[Paper](https://arxiv.org/abs/2305.19270)]
