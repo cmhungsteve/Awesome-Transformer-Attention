@@ -232,6 +232,7 @@ If you find this repository useful, please consider citing this list:
     * **STCFormer**: "3D Human Pose Estimation With Spatio-Temporal Criss-Cross Attention", CVPR, 2023 (*Hefei University of Technology*). [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Tang_3D_Human_Pose_Estimation_With_Spatio-Temporal_Criss-Cross_Attention_CVPR_2023_paper.html)]
     * **DistilPose**: "DistilPose: Tokenized Pose Regression With Heatmap Distillation", CVPR, 2023 (*Tencent*). [[Paper](https://arxiv.org/abs/2303.02455)][[PyTorch](https://github.com/yshMars/DistilPose)]
     * **LPFormer**: "LPFormer: LiDAR Pose Estimation Transformer with Multi-Task Network", CVPRW, 2023 (*UCF*). [[Paper](https://arxiv.org/abs/2306.12525)]
+    * **LAMP**: "LAMP: Leveraging Language Prompts for Multi-person Pose Estimation", IROS, 2023 (*UCF*). [[Paper](https://arxiv.org/abs/2307.11934)][[PyTorch](https://github.com/shengnanh20/LAMP)]
     * **XFormer**: "XFormer: Fast and Accurate Monocular 3D Body Capture", arXiv, 2023 (*Huya Inc, China*). [[Paper](https://arxiv.org/abs/2305.11101)]
     * **4D-Humans**: "Humans in 4D: Reconstructing and Tracking Humans with Transformers", arXiv, 2023 (*Berkeley*). [[Paper](https://arxiv.org/abs/2305.20091)][[PyTorch](https://github.com/shubham-goel/4D-Humans)][[Website](https://shubham-goel.github.io/4dhumans/)]
     * **PGformer**: "PGformer: Proxy-Bridged Game Transformer for Multi-Person Extremely Interactive Motion Prediction", arXiv, 2023 (*Alibaba*). [[Paper](https://arxiv.org/abs/2306.03374)]
@@ -1013,6 +1014,7 @@ If you find this repository useful, please consider citing this list:
 * Radiance Fields:
     * **NeXT**: "NeXT: Towards High Quality Neural Radiance Fields via Multi-Skip Transformer", ECCV, 2022 (*Tsinghua University*). [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/1810_ECCV_2022_paper.php)][[JAX](https://github.com/Crishawy/NeXT)]
     * **TransNeRF**: "Generalizable Neural Radiance Fields for Novel View Synthesis with Transformer", arXiv, 2022 (*UBC*). [[Paper](https://arxiv.org/abs/2206.05375)]
+    * **TransHuman**: "TransHuman: A Transformer-based Human Representation for Generalizable Neural Human Rendering", ICCV, 2023 (*Alibaba*). [[Paper](https://arxiv.org/abs/2307.12291)][[Code (in construction)](https://github.com/pansanity666/TransHuman/)][[Website](https://pansanity666.github.io/TransHuman/)]
 * 3D:
     * **MNSRNet**: "MNSRNet: Multimodal Transformer Network for 3D Surface Super-Resolution", CVPR, 2022 (*Shenzhen University*). [[Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Xie_MNSRNet_Multimodal_Transformer_Network_for_3D_Surface_Super-Resolution_CVPR_2022_paper.html)]
 * Others:
@@ -1067,6 +1069,7 @@ If you find this repository useful, please consider citing this list:
 * **MARVAL**: "A New Path: Scaling Vision-and-Language Navigation with Synthetic Instructions and Imitation Learning", CVPR, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2210.03112)]
 * **VO-Transformer**: "Modality-invariant Visual Odometry for Embodied Vision", CVPR, 2023 (*EPFL*). [[Paper](https://arxiv.org/abs/2305.00348)][[Website](https://memmelma.github.io/vot/)]
 * **VLN-Behave**: "Behavioral Analysis of Vision-and-Language Navigation Agents", CVPR, 2023 (*Oregon State*). [[Paper](https://arxiv.org/abs/2307.10790)][[Code](https://github.com/Yoark/vln-behave)]
+* **Lily**: "Learning Vision-and-Language Navigation from YouTube Videos", ICCV, 2023 (*South China University of Technology*). [[Paper](https://arxiv.org/abs/2307.11984)][[Code (in construction)](https://github.com/JeremyLinky/YouTube-VLN)]
 * **MLANet**: "MLANet: Multi-Level Attention Network with Sub-instruction for Continuous Vision-and-Language Navigation", arXiv, 2023 (*Tongji University*). [[Paper](https://arxiv.org/abs/2303.01396)][[PyTorch](https://github.com/RavenKiller/MLA)]
 * **ENTL**: "ENTL: Embodied Navigation Trajectory Learner", arXiv, 2023 (*AI2*). [[Paper](https://arxiv.org/abs/2304.02639)]
 * **MPM**: "Masked Path Modeling for Vision-and-Language Navigation", arXiv, 2023 (*UCLA*). [[Paper](https://arxiv.org/abs/2305.14268)]
@@ -1074,6 +1077,7 @@ If you find this repository useful, please consider citing this list:
 * **PanoGen**: "PanoGen: Text-Conditioned Panoramic Environment Generation for Vision-and-Language Navigation", arXiv, 2023 (*UNC*). [[Paper](https://arxiv.org/abs/2305.19195)][[PyTorch](https://github.com/jialuli-luka/PanoGen)][[Website](https://pano-gen.github.io/)]
 * **MO-VLN**: "MO-VLN: A Multi-Task Benchmark for Open-set Zero-Shot Vision-and-Language Navigation", arXiv, 2023 (*Sun Yat-Sen University*). [[Paper](https://arxiv.org/abs/2306.10322)][[Code (in construction)](https://github.com/mligg23/MO-VLN/)][[Website](https://mligg23.github.io/MO-VLN-Site/)]
 * **ViNT**: "ViNT: A Foundation Model for Visual Navigation", arXiv, 2023 (*Berkeley*). [[Paper](https://arxiv.org/abs/2306.14846)][[Code (in construction)](https://github.com/PrieureDeSion/visualnav-transformer)][[Website](https://visualnav-transformer.github.io/)]
+* **GridMM**: "GridMM: Grid Memory Map for Vision-and-Language Navigation", arXiv, 2023 (*CAS*). [[Paper](https://arxiv.org/abs/2307.12907)][[Code (in construction)](https://github.com/MrZihan/GridMM)]
 
 [[Back to Overview](#overview)]
 
@@ -1295,6 +1299,7 @@ If you find this repository useful, please consider citing this list:
 * **KiUT**: "KiUT: Knowledge-Injected U-Transformer for Radiology Report Generation", CVPR, 2023 (*Shanghai AI Lab*). [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Huang_KiUT_Knowledge-Injected_U-Transformer_for_Radiology_Report_Generation_CVPR_2023_paper.html)]
 * **BioViL-T**: "Learning to Exploit Temporal Structure for Biomedical Vision-Language Processing", CVPR, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2301.04558)]
 * **?**: "Evidential Interactive Learning for Medical Image Captioning", ICML, 2023 (*Rochester Institute of Technology, NY*). [[Paper](https://openreview.net/forum?id=6wfqx3CdKv)]
+* **PRIOR**: "PRIOR: Prototype Representation Joint Learning from Medical Images and Reports", ICCV, 2023 (*Southern University of Science and Technology*). [[Paper](https://arxiv.org/abs/2307.12577)][[Code (in construction)](https://github.com/QtacierP/PRIOR)]
 * **?**: "Localized Questions in Medical Visual Question Answering", MICCAI, 2023 (*University of Bern, Switzerland*). [[Paper](https://arxiv.org/abs/2307.01067)]
 * **RAMM**: "RAMM: Retrieval-augmented Biomedical Visual Question Answering with Multi-modal Pre-training", arXiv, 2023 (*Alibaba*). [[Paper](https://arxiv.org/abs/2303.00534)]
 * **PT**: "Open-Ended Medical Visual Question Answering Through Prefix Tuning of Language Models", arXiv, 2023 (*University of Amsterdam*). [[Paper](https://arxiv.org/abs/2303.05977)]
@@ -1305,6 +1310,7 @@ If you find this repository useful, please consider citing this list:
 * **LLaVA-Med**: "LLaVA-Med: Training a Large Language-and-Vision Assistant for Biomedicine in One Day", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2306.00890)][[Code (in construction)](https://github.com/microsoft/LLaVA-Med)]
 * **GTGM**: "Generative Text-Guided 3D Vision-Language Pretraining for Unified Medical Image Segmentation", arXiv, 2023 (*USTC*). [[Paper](https://arxiv.org/abs/2306.04811)]
 * **XrayGPT**: "XrayGPT: Chest Radiographs Summarization using Medical Vision-Language Models", arXiv, 2023 (*MBZUAI*). [[Paper](https://arxiv.org/abs/2306.07971)][[PyTorch](https://github.com/mbzuai-oryx/XrayGPT)]
+* **CONCH**: "Towards a Visual-Language Foundation Model for Computational Pathology", arXiv, 2023 (*Harvard*). [[Paper](https://arxiv.org/abs/2307.12914)]
 
 [[Back to Overview](#overview)]
 
@@ -1742,6 +1748,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **3D-C2FT**: "3D-C2FT: Coarse-to-fine Transformer for Multi-view 3D Reconstruction", arXiv, 2022 (*Korea Institute of Science and Technology*). [[Paper](https://arxiv.org/abs/2205.14575)]
     * **SDF-Former**: "Monocular Scene Reconstruction with 3D SDF Transformers", ICLR, 2023 (*Alibaba*). [[Paper](https://arxiv.org/abs/2301.13510)][[Website](https://weihaosky.github.io/sdfformer/)]
     * **AMVUR**: "A Probabilistic Attention Model with Occlusion-aware Texture Regression for 3D Hand Reconstruction from a Single RGB Image", CVPR, 2023 (*Lancaster University, UK*). [[Paper](https://arxiv.org/abs/2304.14299)]
+    * **LIST**: "LIST: Learning Implicitly from Spatial Transformers for Single-View 3D Reconstruction", ICCV, 2023 (*UT Arlington*). [[Paper](https://arxiv.org/abs/2307.12194)]
     * **UMIFormer**: "UMIFormer: Mining the Correlations between Similar Tokens for Multi-View 3D Reconstruction", arXiv, 2023 (*Macau University of Science and Technology*). [[Paper](https://arxiv.org/abs/2302.13987)]
 * 360 Scene:
     * **?**: "Improving 360 Monocular Depth Estimation via Non-local Dense Prediction Transformer and Joint Supervised and Self-supervised Learning", AAAI, 2022 (*Seoul National University*). [[Paper](https://arxiv.org/abs/2109.10563)][[PyTorch](https://github.com/yuniw18/Joint_360depth)]
