@@ -1010,6 +1010,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **ViPLO**: "ViPLO: Vision Transformer based Pose-Conditioned Self-Loop Graph for Human-Object Interaction Detection", CVPR, 2023 (*mAy-I, Korea*). [[Paper](https://arxiv.org/abs/2304.08114)][[PyTorch](https://github.com/Jeeseung-Park/ViPLO)]
 * **OpenCat**: "Open-Category Human-Object Interaction Pre-Training via Language Modeling Framework", CVPR, 2023 (*Renmin University of China*). [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Zheng_Open-Category_Human-Object_Interaction_Pre-Training_via_Language_Modeling_Framework_CVPR_2023_paper.html)]
 * **CQL**: "Category Query Learning for Human-Object Interaction Classification", CVPR, 2023 (*Megvii*). [[Paper](https://arxiv.org/abs/2303.14005)][[Code (in construction)](https://github.com/charles-xie/CQL)]
+* **RmLR**: "Re-mine, Learn and Reason: Exploring the Cross-modal Semantic Correlations for Language-guided HOI detection", ICCV, 2023 (*Southeast University, China*). [[Paper](https://arxiv.org/abs/2307.13529)]
 
 [[Back to Overview](#overview)]
 
@@ -2155,6 +2156,7 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
     * **?**: "Distilling Coarse-to-Fine Semantic Matching Knowledge for Weakly Supervised 3D Visual Grounding", ICCV, 2023 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2307.09267)]
     * **ViewRefer**: "ViewRefer: Grasp the Multi-view Knowledge for 3D Visual Grounding with GPT and Prototype Guidance", arXiv, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2303.16894)][[Code (in construction)](https://github.com/ZiyuGuo99/ViewRefer3D)]
     * **?**: "What, when, and where? -- Self-Supervised Spatio-Temporal Grounding in Untrimmed Multi-Action Videos from Narrated Instructions", arXiv, 2023 (*Columbia*). [[Paper](https://arxiv.org/abs/2303.16990)]
+    * **3DRP-Net**: "3DRP-Net: 3D Relative Position-aware Network for 3D Visual Grounding", arXiv, 2023 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2307.13363)]
 
 [[Back to Overview](#overview)]
 
@@ -2768,6 +2770,7 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
     * **MANet**: "Multi-Attention Network for Compressed Video Referring Object Segmentation", ACMMM, 2022 (*CAS*). [[Paper](https://arxiv.org/abs/2207.12622)][[PyTorch](https://github.com/DexiangHong/MANet)]
     * **R<sup>2</sup>VOS**: "R<sup>2</sup>VOS: Robust Referring Video Object Segmentation via Relational Multimodal Cycle Consistency", arXiv, 2022 (*CMU*). [[Paper](https://arxiv.org/abs/2207.01203)][[PyTorch](https://github.com/lxa9867/R2VOS)][[Website](https://lxa9867.github.io/works/rrvos/)]
     * **OnlineRefer**: "OnlineRefer: A Simple Online Baseline for Referring Video Object Segmentation", ICCV, 2023 (*Megvii*). [[Paper](https://arxiv.org/abs/2307.09356)][[PyTorch](https://github.com/wudongming97/OnlineRefer)]
+    * **SgMg**: "Spectrum-guided Multi-granularity Referring Video Object Segmentation", ICCV, 2023 (*The University of Western Australia*). [[Paper](https://arxiv.org/abs/2307.13537)][[PyTorch](https://github.com/bo-miao/SgMg)]
     * **Locater**: "Local-Global Context Aware Transformer for Language-Guided Video Segmentation", TPAMI, 2023 (*Zhejiang*). [[Paper](https://arxiv.org/abs/2203.09773)][[PyTorch](https://github.com/leonnnop/Locater)]
     * **LoSh**: "LoSh: Long-Short Text Joint Prediction Network for Referring Video Object Segmentation", arXiv, 2023 (*King’s College London*). [[Paper](https://arxiv.org/abs/2306.08736)]
     * **SOC**: "SOC: Semantic-Assisted Object Cluster for Referring Video Object Segmentation", arXiv, 2023 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2305.17011)]
