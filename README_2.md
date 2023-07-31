@@ -313,6 +313,7 @@ If you find this repository useful, please consider citing this list:
     * **TCOW**: "Tracking through Containers and Occluders in the Wild", CVPR, 2023 (*Columbia*). [[Paper](https://arxiv.org/abs/2305.03052)][[Code (in construction)](https://github.com/basilevh/tcow)][[Website](https://tcow.cs.columbia.edu/)]
     * **VideoTrack**: "VideoTrack: Learning to Track Objects via Video Transformer", CVPR, 2023 (*Microsoft*). [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Xie_VideoTrack_Learning_To_Track_Objects_via_Video_Transformer_CVPR_2023_paper.html)]
     * **MAT**: "Representation Learning for Visual Object Tracking by Masked Appearance Transfer", CVPR, 2023 (*Dalian University of Technology*). [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Zhao_Representation_Learning_for_Visual_Object_Tracking_by_Masked_Appearance_Transfer_CVPR_2023_paper.html)][[PyTorch](https://github.com/difhnp/MAT)]
+    * **MeMOTR**: "MeMOTR: Long-Term Memory-Augmented Transformer for Multi-Object Tracking", ICCV, 2023 (*Nanjing University*). [[Paper](https://arxiv.org/abs/2307.15700)]
     * **MOTRv3**: "MOTRv3: Release-Fetch Supervision for End-to-End Multi-Object Tracking", arXiv, 2023 (*Megvii*). [[Paper](https://arxiv.org/abs/2305.14298)]
     * **MixFormerV2**: "MixFormerV2: Efficient Fully Transformer Tracking", arXiv, 2023 (*Nanjing University*). [[Paper](https://arxiv.org/abs/2305.15896)][[PyTorch](https://github.com/MCG-NJU/MixFormerV2)]
     * **?**: "Tracking Everything Everywhere All at Once", arXiv, 2023 (*Cornell*). [[Paper](https://arxiv.org/abs/2306.05422)][[Website](https://omnimotion.github.io/)]
@@ -545,6 +546,7 @@ If you find this repository useful, please consider citing this list:
     * **GMoE**: "Sparse Mixture-of-Experts are Domain Generalizable Learners", ICLR, 2023 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2206.04046)]
     * **PMTrans**: "Patch-Mix Transformer for Unsupervised Domain Adaptation: A Game Perspective", CVPR, 2023 (*HKUST*). [[Paper](https://arxiv.org/abs/2303.13434)][[Website (in construction)](https://vlis2022.github.io/cvpr23/PMTrans)]
     * **ALOFT**: "ALOFT: A Lightweight MLP-like Architecture with Dynamic Low-frequency Transform for Domain Generalization", CVPR, 2023 (*Nanjing University*). [[Paper](https://arxiv.org/abs/2303.11674)][[PyTorch](https://github.com/lingeringlight/ALOFT/)]
+    * **PromptStyler**: "PromptStyler: Prompt-driven Style Generation for Source-free Domain Generalization", ICCV, 2023 (*Agency for Defense Development, Korea*). [[Paper](https://arxiv.org/abs/2307.15199)][[Website](https://promptstyler.github.io/)]
     * **StyLIP**: "StyLIP: Multi-Scale Style-Conditioned Prompt Learning for CLIP-based Domain Generalization", arXiv, 2023 (*TUM*). [[Paper](https://arxiv.org/abs/2302.09251)]
     * **FedCLIP**: "FedCLIP: Fast Generalization and Personalization for CLIP in Federated Learning", arXiv, 2023 (*CAS*). [[Paper](https://arxiv.org/abs/2302.13485)][[PyTorch](https://github.com/microsoft/PersonalizedFL)]
     * **UniOOD**: "Universal Domain Adaptation from Foundation Models", arXiv, 2023 (*South China University of Technology*). [[Paper](https://arxiv.org/abs/2305.11092)][[Code (in construction)](https://github.com/szubing/uniood)]
@@ -1071,6 +1073,7 @@ If you find this repository useful, please consider citing this list:
 * **VO-Transformer**: "Modality-invariant Visual Odometry for Embodied Vision", CVPR, 2023 (*EPFL*). [[Paper](https://arxiv.org/abs/2305.00348)][[Website](https://memmelma.github.io/vot/)]
 * **VLN-Behave**: "Behavioral Analysis of Vision-and-Language Navigation Agents", CVPR, 2023 (*Oregon State*). [[Paper](https://arxiv.org/abs/2307.10790)][[Code](https://github.com/Yoark/vln-behave)]
 * **Lily**: "Learning Vision-and-Language Navigation from YouTube Videos", ICCV, 2023 (*South China University of Technology*). [[Paper](https://arxiv.org/abs/2307.11984)][[Code (in construction)](https://github.com/JeremyLinky/YouTube-VLN)]
+* **ScaleVLN**: "Scaling Data Generation in Vision-and-Language Navigation", ICCV, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2307.15644)][[PyTorch](https://github.com/wz0919/ScaleVLN)]
 * **MLANet**: "MLANet: Multi-Level Attention Network with Sub-instruction for Continuous Vision-and-Language Navigation", arXiv, 2023 (*Tongji University*). [[Paper](https://arxiv.org/abs/2303.01396)][[PyTorch](https://github.com/RavenKiller/MLA)]
 * **ENTL**: "ENTL: Embodied Navigation Trajectory Learner", arXiv, 2023 (*AI2*). [[Paper](https://arxiv.org/abs/2304.02639)]
 * **MPM**: "Masked Path Modeling for Vision-and-Language Navigation", arXiv, 2023 (*UCLA*). [[Paper](https://arxiv.org/abs/2305.14268)]
@@ -1312,6 +1315,7 @@ If you find this repository useful, please consider citing this list:
 * **GTGM**: "Generative Text-Guided 3D Vision-Language Pretraining for Unified Medical Image Segmentation", arXiv, 2023 (*USTC*). [[Paper](https://arxiv.org/abs/2306.04811)]
 * **XrayGPT**: "XrayGPT: Chest Radiographs Summarization using Medical Vision-Language Models", arXiv, 2023 (*MBZUAI*). [[Paper](https://arxiv.org/abs/2306.07971)][[PyTorch](https://github.com/mbzuai-oryx/XrayGPT)]
 * **CONCH**: "Towards a Visual-Language Foundation Model for Computational Pathology", arXiv, 2023 (*Harvard*). [[Paper](https://arxiv.org/abs/2307.12914)]
+* **Med-Flamingo**: "Med-Flamingo: a Multimodal Medical Few-shot Learner", arXiv, 2023 (*Stanford*). [[Paper](https://arxiv.org/abs/2307.15189)][[PyTorch](https://github.com/snap-stanford/med-flamingo)]
 
 [[Back to Overview](#overview)]
 
@@ -1369,6 +1373,8 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **TJLS**: "Visual Transformer for Task-aware Active Learning", arXiv, 2021 (*ICL*). [[Paper](https://arxiv.org/abs/2106.03801)][[PyTorch](https://github.com/razvancaramalau/Visual-Transformer-for-Task-aware-Active-Learning)]
 * Agriculture:
     * **PlantXViT**: "Explainable vision transformer enabled convolutional neural network for plant disease identification: PlantXViT", arXiv, 2922 (*Indian Institute of Information Technology*). [[Paper](https://arxiv.org/abs/2207.07919)]
+* Aesthetic:
+    * **CSKD**: "CLIP Brings Better Features to Visual Aesthetics Learners", arXiv, 2023 (*OPPO*). [[Paper](https://arxiv.org/abs/2307.15640)]
 * Animation-related:
     * **AnT**: "The Animation Transformer: Visual Correspondence via Segment Matching", ICCV, 2021 (*Cadmium*). [[Paper](https://arxiv.org/abs/2109.02614)]
     * **AniFormer**: "AniFormer: Data-driven 3D Animation with Transformer", BMVC, 2021 (*University of Oulu, Finland*). [[Paper](https://arxiv.org/abs/2110.10533)][[PyTorch](https://github.com/mikecheninoulu/AniFormer)]
@@ -1582,6 +1588,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **MethaneMapper**: "MethaneMapper: Spectral Absorption aware Hyperspectral Transformer for Methane Detection", CVPR, 2023 (*UCSB*). [[Paper](https://arxiv.org/abs/2304.02767)]
     * **GFM**: "GFM: Building Geospatial Foundation Models via Continual Pretraining", arXiv, 2023 (*Amazon*). [[Paper](https://arxiv.org/abs/2302.04476)]
     * **RS5M**: "RS5M: A Large Scale Vision-Language Dataset for Remote Sensing Vision-Language Foundation Model", arXiv, 2023 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2306.11300)][[Code (in construction)](https://github.com/om-ai-lab/RS5M)]
+    * **RSGPT**: "RSGPT: A Remote Sensing Vision Language Model and Benchmark", arXiv, 2023 (*Alibaba*). [[Paper](https://arxiv.org/abs/2307.15266)][[Code (in construction)](https://github.com/Lavender105/RSGPT)]
 * Robotics:
     * **TF-Grasp**: "When Transformer Meets Robotic Grasping: Exploits Context for Efficient Grasp Detection", arXiv, 2022 (*University of Science and Technology of China*). [[Paper](https://arxiv.org/abs/2202.11911)][[Code (in construction)](https://github.com/WangShaoSUN/grasp-transformer)]
     * **BeT**: "Behavior Transformers: Cloning k modes with one stone", arXiv, 2022 (*NYU*). [[Paper](https://arxiv.org/abs/2206.11251)][[PyTorch](https://github.com/notmahi/bet)]
