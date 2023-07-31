@@ -304,7 +304,7 @@ If you find this repository useful, please consider citing this list:
     * **MQT**: "End-to-end Tracking with a Multi-query Transformer", arXiv, 2022 (*Oxford*). [[Paper](https://arxiv.org/abs/2210.14601)]
     * **ProContEXT**: "ProContEXT: Exploring Progressive Context Transformer for Tracking", arXiv, 2022 (*Alibaba*). [[Paper](https://arxiv.org/abs/2210.15511)]
     * **?**: "Efficient Joint Detection and Multiple Object Tracking with Spatially Aware Transformer", arXiv, 2022 (*Sony*). [[Paper](https://arxiv.org/abs/2211.05654)]
-    * **MOTRv2**: "MOTRv2: Bootstrapping End-to-End Multi-Object Tracking by Pretrained Object Detectors", arXiv, 2022 (*Megvii*). [[Paper](https://arxiv.org/abs/2211.09791)][[Pytorch](https://github.com/megvii-research/MOTRv2)]
+    * **MOTRv2**: "MOTRv2: Bootstrapping End-to-End Multi-Object Tracking by Pretrained Object Detectors", CVPR, 2023 (*Megvii*). [[Paper](https://arxiv.org/abs/2211.09791)][[Pytorch](https://github.com/megvii-research/MOTRv2)]
     * **ViPT**: "Visual Prompt Multi-Modal Tracking", CVPR, 2023 (*Dalian University of Technology*). [[Paper](https://arxiv.org/abs/2303.10826)][[PyTorch](https://github.com/jiawen-zhu/ViPT)]
     * **GRM**: "Generalized Relation Modeling for Transformer Tracking", CVPR, 2023 (*HKUST*). [[Paper](https://arxiv.org/abs/2303.16580)][[PyTorch](https://github.com/Little-Podi/GRM)]
     * **DropMAE**: "DropMAE: Masked Autoencoders with Spatial-Attention Dropout for Tracking Tasks", CVPR, 2023 (*CUHK*). [[Paper](https://arxiv.org/abs/2304.00571)][[PyTorch](https://github.com/jimmy-dq/DropMAE)]
