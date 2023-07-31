@@ -1051,6 +1051,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **SeqCo-DETR**: "SeqCo-DETR: Sequence Consistency Training for Self-Supervised Object Detection with Transformers", arXiv, 2023 (*SenseTime*). [[Paper](https://arxiv.org/abs/2303.08481)]
     * **MOST**: "MOST: Multiple Object localization with Self-supervised Transformers for object discovery", arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2304.05387)]
     * **R-MAE**: "R-MAE: Regions Meet Masked Autoencoders", arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2306.05411)]
+    * **SimDETR**: "SimDETR: Simplifying self-supervised pretraining for DETR", arXiv, 2023 (*Samsung*). [[Paper](https://arxiv.org/abs/2307.15697)]
 * X-Shot Object Detection:
     * **AIT**: "Adaptive Image Transformer for One-Shot Object Detection", CVPR, 2021 (*Academia Sinica*). [[Paper](https://openaccess.thecvf.com/content/CVPR2021/html/Chen_Adaptive_Image_Transformer_for_One-Shot_Object_Detection_CVPR_2021_paper.html)]
     * **Meta-DETR**: "Meta-DETR: Few-Shot Object Detection via Unified Image-Level Meta-Learning", arXiv, 2021 (*NTU Singapore*). [[Paper](https://arxiv.org/abs/2103.11731)][[PyTorch](https://github.com/ZhangGongjie/Meta-DETR)]
