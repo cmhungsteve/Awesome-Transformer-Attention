@@ -234,6 +234,8 @@ If you find this repository useful, please consider citing this list:
     * **DistilPose**: "DistilPose: Tokenized Pose Regression With Heatmap Distillation", CVPR, 2023 (*Tencent*). [[Paper](https://arxiv.org/abs/2303.02455)][[PyTorch](https://github.com/yshMars/DistilPose)]
     * **LPFormer**: "LPFormer: LiDAR Pose Estimation Transformer with Multi-Task Network", CVPRW, 2023 (*UCF*). [[Paper](https://arxiv.org/abs/2306.12525)]
     * **LAMP**: "LAMP: Leveraging Language Prompts for Multi-person Pose Estimation", IROS, 2023 (*UCF*). [[Paper](https://arxiv.org/abs/2307.11934)][[PyTorch](https://github.com/shengnanh20/LAMP)]
+    * **DiffPose**: "DiffPose: SpatioTemporal Diffusion Model for Video-Based Human Pose Estimation", ICCV, 2023 (*Jilin University*). [[Paper](https://arxiv.org/abs/2307.16687)]
+    * **JOTR**: "JOTR: 3D Joint Contrastive Learning with Transformers for Occluded Human Mesh Recovery", ICCV, 2023 (*Alibaba*). [[Paper](https://arxiv.org/abs/2307.16377)]
     * **XFormer**: "XFormer: Fast and Accurate Monocular 3D Body Capture", arXiv, 2023 (*Huya Inc, China*). [[Paper](https://arxiv.org/abs/2305.11101)]
     * **4D-Humans**: "Humans in 4D: Reconstructing and Tracking Humans with Transformers", arXiv, 2023 (*Berkeley*). [[Paper](https://arxiv.org/abs/2305.20091)][[PyTorch](https://github.com/shubham-goel/4D-Humans)][[Website](https://shubham-goel.github.io/4dhumans/)]
     * **PGformer**: "PGformer: Proxy-Bridged Game Transformer for Multi-Person Extremely Interactive Motion Prediction", arXiv, 2023 (*Alibaba*). [[Paper](https://arxiv.org/abs/2306.03374)]
@@ -551,6 +553,7 @@ If you find this repository useful, please consider citing this list:
     * **FedCLIP**: "FedCLIP: Fast Generalization and Personalization for CLIP in Federated Learning", arXiv, 2023 (*CAS*). [[Paper](https://arxiv.org/abs/2302.13485)][[PyTorch](https://github.com/microsoft/PersonalizedFL)]
     * **UniOOD**: "Universal Domain Adaptation from Foundation Models", arXiv, 2023 (*South China University of Technology*). [[Paper](https://arxiv.org/abs/2305.11092)][[Code (in construction)](https://github.com/szubing/uniood)]
     * **PEST**: "Prompt Ensemble Self-training for Open-Vocabulary Domain Adaptation", arXiv, 2023 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2306.16658)]
+    * **?**: "Open-Set Domain Adaptation with Visual-Language Foundation Models", arXiv, 2023 (*The University of Tokyo*). [[Paper](https://arxiv.org/abs/2307.16204)]
 * X-Supervised:
     * **Semiformer**: "Semi-Supervised Vision Transformers", ECCV, 2022 (*Fudan University*). [[Paper](https://arxiv.org/abs/2111.11067)][[PyTorch](https://github.com/wengzejia1/Semiformer)]
     * **SVL-Adapter**: "SVL-Adapter: Self-Supervised Adapter for Vision-Language Pretrained Models", BMVC, 2022 (*UCL*). [[Paper](https://arxiv.org/abs/2210.03794)][[Code (in construction)](https://github.com/omipan/svl_adapter)]
@@ -918,6 +921,7 @@ If you find this repository useful, please consider citing this list:
 * **EMA-VFI**: "Extracting Motion and Appearance via Inter-Frame Attention for Efficient Video Frame Interpolation", CVPR, 2023 (*Nanjing University*). [[Paper](https://arxiv.org/abs/2303.00440)][[PyTorch](https://github.com/MCG-NJU/EMA-VFI)]
 * **EIF-BiOFNet**: "Event-Based Video Frame Interpolation With Cross-Modal Asymmetric Bidirectional Motion Fields", CVPR, 2023 (*KAIST*). [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Kim_Event-Based_Video_Frame_Interpolation_With_Cross-Modal_Asymmetric_Bidirectional_Motion_Fields_CVPR_2023_paper.html)]
 * **TECO**: "Temporally Consistent Video Transformer for Long-Term Video Prediction", ICML, 2023 (*Berkeley*). [[Paper](https://arxiv.org/abs/2210.02396)][[JAX](https://github.com/wilson1yan/teco)][[Website](https://wilson1yan.github.io/teco/index.html)]
+* **VFIFT**: "Video Frame Interpolation with Flow Transformer", ACMMM, 2023 (*Nanjing University of Aeronautics and Astronautics*). [[Paper](https://arxiv.org/abs/2307.16144)]
 * **NUWA-XL**: "NUWA-XL: Diffusion over Diffusion for eXtremely Long Video Generation", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2303.12346)][[Website (in construction)](https://msra-nuwa.azurewebsites.net/)]
 * **CAT-NeRF**: "CAT-NeRF: Constancy-Aware Tx<sup>2</sup>Former for Dynamic Body Modeling", arXiv, 2023 (*USC*). [[Paper](https://arxiv.org/abs/2304.07915)]
 * **IconShop**: "IconShop: Text-Based Vector Icon Synthesis with Autoregressive Transformers", arXiv, 2023 (*CUHK*). [[Paper](https://arxiv.org/abs/2304.14400)][[Code (in construction)](https://github.com/kingnobro/IconShop)][[Website](https://kingnobro.github.io/iconshop/)]
@@ -1201,6 +1205,7 @@ If you find this repository useful, please consider citing this list:
 * **UniSeg**: "UniSeg: A Prompt-driven Universal Segmentation Model as well as A Strong Representation Learner", arXiv, 2023 (*Northwestern Polytechnical University, China*). [[Paper](https://arxiv.org/abs/2304.03493)][[PyTorch (in construction)](https://github.com/yeerwen/UniSeg)]
 * **UniverSeg**: "UniverSeg: Universal Medical Image Segmentation", arXiv, 2023 (*MIT*). [[Paper](https://arxiv.org/abs/2304.06131)][[PyTorch](https://github.com/JJGO/UniverSeg)][[Website](https://universeg.csail.mit.edu/)]
 * **3DSAM-adapter**: "3DSAM-adapter: Holistic Adaptation of SAM from 2D to 3D for Promptable Medical Image Segmentation", arXiv, 2023 (*CUHK*). [[Paper](https://arxiv.org/abs/2306.13465)]
+* **CMCL**: "Disruptive Autoencoders: Leveraging Low-level features for 3D Medical Image Pre-training", arXiv, 2023 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2307.16896)]
 
 [[Back to Overview](#overview)]
 
@@ -1534,6 +1539,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **TDRG**: "Transformer-Based Dual Relation Graph for Multi-Label Image Recognition", ICCV, 2021 (*Tencent*). [[Paper](https://arxiv.org/abs/2110.04722)]
     * **MlTr**: "MlTr: Multi-label Classification with Transformer", arXiv, 2021 (*KuaiShou*). [[Paper](https://arxiv.org/abs/2106.06195)]
     * **GATN**: "Graph Attention Transformer Network for Multi-Label Image Classification", arXiv, 2022 (*Southeast University, China*). [[Paper](https://arxiv.org/abs/2203.04049)]
+    * **CDUL**: "CDUL: CLIP-Driven Unsupervised Learning for Multi-Label Image Classification", ICCV, 2023 (*University of Southern Mississippi, Mississippi*). [[Paper](https://arxiv.org/abs/2307.16634)]
 * Multi-task:
     * **MulT**: "MulT: An End-to-End Multitask Learning Transformer", CVPR, 2022 (*EPFL*). [[Paper](https://arxiv.org/abs/2205.08303)]
     * **UFO**: "UFO: Unified Feature Optimization", ECCV, 2022 (*Baidu*). [[Paper](https://arxiv.org/abs/2207.10341)][[PaddlePaddle](https://github.com/PaddlePaddle/VIMER/tree/main/UFO)]
