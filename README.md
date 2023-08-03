@@ -898,6 +898,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **Align-DETR**: "Align-DETR: Improving DETR with Simple IoU-aware BCE loss", arXiv, 2023 (*Megvii*). [[Paper](https://arxiv.org/abs/2304.07527)][[PyTorch](https://github.com/FelixCaae/AlignDETR)]
     * **Box-DETR**: "Box-DETR: Understanding and Boxing Conditional Spatial Queries", arXiv, 2023 (*Huazhong University of Science and Technology*). [[Paper](https://arxiv.org/abs/2307.08353)][[PyTorch (in construction)](https://github.com/tiny-smart/box-detr)]
     * **RefineBox**: "Enhancing Your Trained DETRs with Box Refinement", arXiv, 2023 (*CAS*). [[Paper](https://arxiv.org/abs/2307.11828)][[Code (in construction)](https://github.com/YiqunChen1999/RefineBox)]
+    * **?**: "Revisiting DETR Pre-training for Object Detection", arXiv, 2023 (*Toronto*). [[Paper](https://arxiv.org/abs/2308.01300)]
 * Transformer-based backbone:
     * **ViT-FRCNN**: "Toward Transformer-Based Object Detection", arXiv, 2020 (*Pinterest*). [[Paper](https://arxiv.org/abs/2012.09958)]
     * **WB-DETR**: "WB-DETR: Transformer-Based Detector Without Backbone", ICCV, 2021 (*CAS*). [[Paper](https://openaccess.thecvf.com/content/ICCV2021/html/Liu_WB-DETR_Transformer-Based_Detector_Without_Backbone_ICCV_2021_paper.html)]
@@ -1228,7 +1229,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **PFT**: "Pyramid Fusion Transformer for Semantic Segmentation", arXiv, 2022 (*CUHK + SenseTime*). [[Paper](https://arxiv.org/abs/2201.04019)]
 * **DFlatFormer**: "Dual-Flattening Transformers through Decomposed Row and Column Queries for Semantic Segmentation", arXiv, 2022 (*OPPO*). [[Paper](https://arxiv.org/abs/2201.09139)]
 * **FeSeFormer**: "Feature Selective Transformer for Semantic Image Segmentation", arXiv, 2022 (*Baidu*). [[Paper](https://arxiv.org/abs/2203.14124)]
-* **StructToken**: "StructToken : Rethinking Semantic Segmentation with Structural Prior", arXiv, 2022 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2203.12612)]
+* **StructToken**: "StructToken: Rethinking Semantic Segmentation with Structural Prior", arXiv, 2022 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2203.12612)]
 * **HILA**: "Improving Semantic Segmentation in Transformers using Hierarchical Inter-Level Attention", arXiv, 2022 (*University of Toronto*). [[Paper](https://arxiv.org/abs/2207.02126)][[Website](https://www.cs.toronto.edu/~garyleung/hila/)][[PyTorch](https://github.com/fidler-lab/hila)]
 * **HLG**: "Visual Representation Learning with Transformer: A Sequence-to-Sequence Perspective", arXiv, 2022 (*Fudan University*). [[Paper](https://arxiv.org/abs/2207.09339)][[PyTorch](https://github.com/fudan-zvg/SETR)]
 * **SSformer**: "SSformer: A Lightweight Transformer for Semantic Segmentation", arXiv, 2022 (*Nanjing University of Aeronautics and Astronautics*). [[Paper](https://arxiv.org/abs/2208.02034)][[PyTorch](https://github.com/shiwt03/SSformer)]
@@ -1242,6 +1243,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **FASeg**: "Dynamic Focus-aware Positional Queries for Semantic Segmentation", CVPR, 2023 (*Monash University, Australia*). [[Paper](https://arxiv.org/abs/2204.01244)][[PyTorch](https://github.com/ziplab/FASeg)]
 * **HFD-BSD**: "A Good Student is Cooperative and Reliable: CNN-Transformer Collaborative Learning for Semantic Segmentation", ICCV, 2023 (*HKUST*). [[Paper](https://arxiv.org/abs/2307.12574)]
 * **SegViTv2**: "SegViTv2: Exploring Efficient and Continual Semantic Segmentation with Plain Vision Transformers", arXiv, 2023 (*The University of Adelaide, Australia*). [[Paper](https://arxiv.org/abs/2306.06289)][[PyTorch](https://github.com/zbwxp/SegVit)]
+* **DToP**: "Dynamic Token Pruning in Plain Vision Transformers for Semantic Segmentation", arXiv, 2023 (*South China University of Technology + The University of Adelaide*). [[Paper](https://arxiv.org/abs/2308.01045)]
 
 [[Back to Overview](#overview)]
 
@@ -2482,6 +2484,7 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
     * **MASCOT**: "Mask to reconstruct: Cooperative Semantics Completion for Video-text Retrieval", arXiv, 2023 (*?*). [[Paper](https://arxiv.org/abs/2305.07910)]
     * **CrossTVR**: "Fine-grained Text-Video Retrieval with Frozen Image Encoders", arXiv, 2023 (*Alibaba*). [[Paper](https://arxiv.org/abs/2307.09972)]
     * **TEFAL**: "Audio-Enhanced Text-to-Video Retrieval using Text-Conditioned Feature Alignment", arXiv, 2023 (*Amazon*). [[Paper](https://arxiv.org/abs/2307.12964)]
+    * **TeachCLIP**: "TeachCLIP: Multi-Grained Teaching for Efficient Text-to-Video Retrieval", arXiv, 2023 (*Renmin University of China*). [[Paper](https://arxiv.org/abs/2308.01217)]
 * Others:
     * **IRRA**: "Cross-Modal Implicit Relation Reasoning and Aligning for Text-to-Image Person Retrieval", CVPR, 2023 (*Wuhan University*). [[Paper](https://arxiv.org/abs/2303.12501)][[PyTorch](https://github.com/anosorae/IRRA)]
     * **ZS-SBIR**: "CLIP for All Things Zero-Shot Sketch-Based Image Retrieval, Fine-Grained or Not", CVPR, 2023 (*University of Surrey, UK*). [[Paper](https://arxiv.org/abs/2303.13440)][[PyTorch](https://github.com/aneeshan95/Sketch_LVM)]
