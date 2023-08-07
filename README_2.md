@@ -239,6 +239,7 @@ If you find this repository useful, please consider citing this list:
     * **XFormer**: "XFormer: Fast and Accurate Monocular 3D Body Capture", arXiv, 2023 (*Huya Inc, China*). [[Paper](https://arxiv.org/abs/2305.11101)]
     * **4D-Humans**: "Humans in 4D: Reconstructing and Tracking Humans with Transformers", arXiv, 2023 (*Berkeley*). [[Paper](https://arxiv.org/abs/2305.20091)][[PyTorch](https://github.com/shubham-goel/4D-Humans)][[Website](https://shubham-goel.github.io/4dhumans/)]
     * **PGformer**: "PGformer: Proxy-Bridged Game Transformer for Multi-Person Extremely Interactive Motion Prediction", arXiv, 2023 (*Alibaba*). [[Paper](https://arxiv.org/abs/2306.03374)]
+    * **?**: "Scene-aware Human Pose Generation using Transformer", arXiv, 2023 (*Shanghai Jiao Tong*). [[Paper](https://arxiv.org/abs/2308.02177)]
 * Hands:
     * **Hand-Transformer**: "Hand-Transformer: Non-Autoregressive Structured Modeling for 3D Hand Pose Estimation", ECCV, 2020 (*Kwai*). [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/4836_ECCV_2020_paper.php)]
     * **SCAT**: "SCAT: Stride Consistency With Auto-Regressive Regressor and Transformer for Hand Pose Estimation", ICCVW, 2021 (*Alibaba*). [[Paper](https://openaccess.thecvf.com/content/ICCV2021W/SoMoF/html/Gao_SCAT_Stride_Consistency_With_Auto-Regressive_Regressor_and_Transformer_for_Hand_ICCVW_2021_paper.html)]
@@ -1394,6 +1395,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **BEV-SAN**: "BEV-SAN: Accurate BEV 3D Object Detection via Slice Attention Networks", CVPR, 2023 (*Peking University*). [[Paper](https://arxiv.org/abs/2212.01231)]
     * **BEVGuide**: "BEV-Guided Multi-Modality Fusion for Driving Perception", CVPR, 2023 (*UIUC*). [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Man_BEV-Guided_Multi-Modality_Fusion_for_Driving_Perception_CVPR_2023_paper.html)][[Code (in construction)](https://github.com/YunzeMan/BEVGuide)][[Website](https://yunzeman.github.io/BEVGuide/)]
     * **FB-OCC**: "FB-OCC: 3D Occupancy Prediction based on Forward-Backward View Transformation", CVPRW, 2023 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2307.01492)][[Code (in construction)](https://github.com/NVlabs/FB-BEV)]
+    * **FB-BEV**: "FB-BEV: BEV Representation from Forward-Backward View Transformations", ICCV, 2023 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2308.02236)][[Code (in construction)](https://github.com/NVlabs/FB-BEV)]
     * **OCBEV**: "OCBEV: Object-Centric BEV Transformer for Multi-View 3D Object Detection", arXiv, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2306.01738)]
 * Biology:
     * **?**: "A State-of-the-art Survey of Object Detection Techniques in Microorganism Image Analysis: from Traditional Image Processing and Classical Machine Learning to Current Deep Convolutional Neural Networks and Potential Visual Transformers", arXiv, 2021 (*Northeastern University*). [[Paper](https://arxiv.org/abs/2105.03148)]
@@ -1476,6 +1478,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **ViT-FOD**: "ViT-FOD: A Vision Transformer based Fine-grained Object Discriminator", arXiv, 2022 (*Shandong University*). [[Paper](https://arxiv.org/abs/2203.12816)]
     * **PLEor**: "Open-Set Fine-Grained Retrieval via Prompting Vision-Language Evaluator", CVPR, 2023 (*Dalian University of Technology*). [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Wang_Open-Set_Fine-Grained_Retrieval_via_Prompting_Vision-Language_Evaluator_CVPR_2023_paper.html)]
     * **MultitaskVLFM**: "Leveraging Vision-Language Foundation Models for Fine-Grained Downstream Tasks", arXiv, 2023 (*Conservatoire National des Arts et Métiers (CEDRIC) France*). [[Paper](https://arxiv.org/abs/2307.06795)][[PyTorch](https://github.com/FactoDeepLearning/MultitaskVLFM)]
+    * **M2Former**: "M2Former: Multi-Scale Patch Selection for Fine-Grained Visual Recognition", arXiv, 2023 (*Dongguk University, Korea*). [[Paper](https://arxiv.org/abs/2308.02161)]
 * Gait:
     * **Gait-TR**: "Spatial Transformer Network on Skeleton-based Gait Recognition", arXiv, 2022 (*South China University of Technology*). [[Paper](https://arxiv.org/abs/2204.03873)]
     * **MMGaitFormer**: "Multi-Modal Gait Recognition via Effective Spatial-Temporal Feature Fusion", CVPR, 2023 (*Beihang University*). [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Cui_Multi-Modal_Gait_Recognition_via_Effective_Spatial-Temporal_Feature_Fusion_CVPR_2023_paper.html)]
@@ -1667,6 +1670,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **Pix2Map**: "Pix2Map: Cross-modal Retrieval for Inferring Street Maps from Images", CVPR, 2023 (*CMU*). [[Paper](https://arxiv.org/abs/2301.04224)][[Website](https://pix2map.github.io/)]
     * **UniAD**: "Planning-oriented Autonomous Driving", CVPR, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2212.10156)][[PyTorch](https://github.com/OpenDriveLab/UniAD)][[Website](https://opendrivelab.github.io/UniAD/)]
     * **Multiverse-Transformer**: "Multiverse Transformer: 1st Place Solution for Waymo Open Sim Agents Challenge 2023", CVPRW, 2023 (*Pegasus*). [[Paper](https://arxiv.org/abs/2306.11868)][[Website](https://multiverse-transformer.github.io/sim-agents/)]
+    * **SegMiF**: "Multi-interactive Feature Learning and a Full-time Multi-modality Benchmark for Image Fusion and Segmentation", ICCV, 2023 (*Dalian University of Technology*). [[Paper](https://arxiv.org/abs/2308.02097)][[Code (in construction)](https://github.com/JinyuanLiu-CV/SegMiF)]
     * **LiDARFormer**: "LiDARFormer: A Unified Transformer-based Multi-task Network for LiDAR Perception", arXiv, 2023 (*TuSimple*). [[Paper](https://arxiv.org/abs/2303.12194)]
     * **VoxelFormer**: "VoxelFormer: Bird's-Eye-View Feature Generation based on Dual-view Attention for Multi-view 3D Object Detection", arXiv, 2023 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2304.01054)][[PyTorch](https://github.com/Lizhuoling/VoxelFormer-public)]
     * **AVIS**: "AVIS: Autonomous Visual Information Seeking with Large Language Models", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2306.08129)]
