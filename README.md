@@ -1247,6 +1247,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **HFD-BSD**: "A Good Student is Cooperative and Reliable: CNN-Transformer Collaborative Learning for Semantic Segmentation", ICCV, 2023 (*HKUST*). [[Paper](https://arxiv.org/abs/2307.12574)]
 * **SegViTv2**: "SegViTv2: Exploring Efficient and Continual Semantic Segmentation with Plain Vision Transformers", arXiv, 2023 (*The University of Adelaide, Australia*). [[Paper](https://arxiv.org/abs/2306.06289)][[PyTorch](https://github.com/zbwxp/SegVit)]
 * **DToP**: "Dynamic Token Pruning in Plain Vision Transformers for Semantic Segmentation", arXiv, 2023 (*South China University of Technology + The University of Adelaide*). [[Paper](https://arxiv.org/abs/2308.01045)]
+* **DoViT**: "Dynamic Token-Pass Transformers for Semantic Segmentation", arXiv, 2023 (*Alibaba*). [[Paper](https://arxiv.org/abs/2308.01944)]
 
 [[Back to Overview](#overview)]
 
@@ -1356,6 +1357,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **OVDiff**: "Diffusion Models for Zero-Shot Open-Vocabulary Segmentation", arXiv, 2023 (*Oxford*). [[Paper](https://arxiv.org/abs/2306.09316)][[Website](https://www.robots.ox.ac.uk/~vgg/research/ovdiff/)]
     * **HIPIE**: "Hierarchical Open-vocabulary Universal Image Segmentation", arXiv, 2023 (*Berkeley*). [[Paper](https://arxiv.org/abs/2307.00764)][[PyTorch](https://github.com/berkeley-hipie/HIPIE)][[Website](http://people.eecs.berkeley.edu/~xdwang/projects/HIPIE/)]
     * **UOVN**: "Unified Open-Vocabulary Dense Visual Prediction", arXiv, 2023 (*Monash University*). [[Paper](https://arxiv.org/abs/2307.08238)]
+    * **FC-CLIP**: "Convolutions Die Hard: Open-Vocabulary Segmentation with Single Frozen Convolutional CLIP", arXiv, 2023 (*ByteDance*). [[Paper](https://arxiv.org/abs/2308.02487)]
 * Universal Segmentation:
     * **K-Net**: "K-Net: Towards Unified Image Segmentation", NeurIPS, 2021 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2106.14855)][[PyTorch](https://github.com/ZwwWayne/K-Net/)]
     * **Mask2Former**: "Masked-attention Mask Transformer for Universal Image Segmentation", CVPR, 2022 (*Meta*). [[Paper](https://arxiv.org/abs/2112.01527)][[PyTorch](https://github.com/facebookresearch/Mask2Former)][[Website](https://bowenc0221.github.io/mask2former/)]
@@ -1969,6 +1971,7 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
     * **?**: "Improving Image Captioning Descriptiveness by Ranking and LLM-based Fusion", arXiv, 2023 (*University of Milano-Bicocca, Italy*). [[Paper](https://arxiv.org/abs/2306.11593)]
     * **SITTA**: "SITTA: A Semantic Image-Text Alignment for Image Captioning", arXiv, 2023 (*Johannes Kepler University, Austria*). [[Paper](https://arxiv.org/abs/2307.05591)][[PyTorch](https://github.com/ml-jku/semantic-image-text-alignment)]
     * **MMNS**: "Multimodal Neurons in Pretrained Text-Only Transformers", arXiv, 2023 (*MIT*). [[Paper](https://arxiv.org/abs/2308.01544)]
+    * **RegionBLIP**: "RegionBLIP: A Unified Multi-modal Pre-training Framework for Holistic and Regional Comprehension", arXiv, 2023 (*Alibaba*). [[Paper](https://arxiv.org/abs/2308.02299)][[PyTorch](https://github.com/mightyzau/RegionBLIP)]
 * Video:
     * **Masked Transformers**: "End-to-End Dense Video Captioning with Masked Transformer", CVPR, 2018 (*UMich + Salesforce*). [[Paper](https://openaccess.thecvf.com/content_cvpr_2018/html/Zhou_End-to-End_Dense_Video_CVPR_2018_paper.html)][[PyTorch](https://github.com/salesforce/densecap)]
     * **BMT**: "A Better Use of Audio-Visual Cues: Dense Video Captioning with Bi-modal Transformer", BMVC, 2020 (*Tampere University, Finland*). [[Paper](https://arxiv.org/abs/2005.08271)][[PyTorch](https://github.com/v-iashin/bmt)][[Website](https://iashin.ai/bmt)]
@@ -2805,6 +2808,7 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
     * **SOC**: "SOC: Semantic-Assisted Object Cluster for Referring Video Object Segmentation", arXiv, 2023 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2305.17011)]
     * **RefSAM**: "RefSAM: Efficiently Adapting Segmenting Anything Model for Referring Video Object Segmentation", arXiv, 2023 (*National University of Defense Technology, China*). [[Paper](https://arxiv.org/abs/2307.00997)][[Code (in construction)](https://github.com/LancasterLi/RefSAM)]
     * **IFIRVOS**: "Referring Video Object Segmentation with Inter-Frame Interaction and Cross-Modal Correlation", arXiv, 2023 (*Wuhan University*). [[Paper](https://arxiv.org/abs/2307.00536)]
+    * **LGCFS**: "Learning Referring Video Object Segmentation from Weak Annotation", arXiv, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2308.02162)]
 * Tracking:
     * **ModaMixer**: "Divert More Attention to Vision-Language Tracking", NeurIPS, 2022 (*Beijing Jiaotong University*). [[Paper](https://arxiv.org/abs/2207.01076)][[PyTorch](https://github.com/JudasDie/SOTS)]
     * **TransRMOT**: "Referring Multi-Object Tracking", CVPR, 2023 (*Megvii*). [[Paper](https://arxiv.org/abs/2303.03366)][[PyTorch](https://github.com/wudongming97/RMOT)][[Website](https://referringmot.github.io/)]
@@ -3006,6 +3010,7 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
     * **MovieChat**: "MovieChat: From Dense Token to Sparse Memory for Long Video Understanding", arXiv, 2023 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2307.16449)][[PyTorch](https://github.com/rese1f/MovieChat)][[Website](https://rese1f.github.io/MovieChat/)]
     * **AntGPT**: "AntGPT: Can Large Language Models Help Long-term Action Anticipation from Videos?", arXiv, 2023 (*Brown*). [[Paper](https://arxiv.org/abs/2307.16368)][[Website](https://brown-palm.github.io/AntGPT/)]
     * **?**: "Tool Documentation Enables Zero-Shot Tool-Usage with Large Language Models", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2308.00675)]
+    * **MM-Vet**: "MM-Vet: Evaluating Large Multimodal Models for Integrated Capabilities", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2308.02490)][[Code](https://github.com/yuweihao/MM-Vet)]
 * Visual Reasoning:
     * **RPT**: "Fine-Grained Regional Prompt Tuning for Visual Abductive Reasoning", arXiv, 2023 (*A\*STAR*). [[Paper](https://arxiv.org/abs/2303.10428)]
     * **LRR**: "Look, Remember and Reason: Visual Reasoning with Grounded Rationales", arXiv, 2023 (*Qualcomm*). [[Paper](https://arxiv.org/abs/2306.17778)]
