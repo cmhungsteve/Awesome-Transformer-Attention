@@ -432,6 +432,7 @@ If you find this repository useful, please consider citing this list:
 * **NextViT**: "Vision Transformer with Attention Map Hallucination and FFN Compaction", arXiv, 2023 (*Baidu*). [[Paper](https://arxiv.org/abs/2306.10875)]
 * **SkipAt**: "Skip-Attention: Improving Vision Transformers by Paying Less Attention", arXiv, 2023 (*Qualcomm*). [[Paper](https://arxiv.org/abs/2301.02240)]
 * **MSViT**: "MSViT: Dynamic Mixed-Scale Tokenization for Vision Transformers", arXiv, 2023 (*Qualcomm*). [[Paper](https://arxiv.org/abs/2307.02321)]
+* **DiT**: "DiT: Efficient Vision Transformers with Dynamic Token Routing", arXiv, 2023 (*Meituan*). [[Paper](https://arxiv.org/abs/2308.03409)][[Code (in construction)](https://github.com/Maycbj/DiT)]
 #### Conv + Transformer
 * **LeViT**: "LeViT: a Vision Transformer in ConvNet's Clothing for Faster Inference", ICCV, 2021 (*Facebook*). [[Paper](https://arxiv.org/abs/2104.01136)][[PyTorch](https://github.com/facebookresearch/LeViT)]
 * **CeiT**: "Incorporating Convolution Designs into Visual Transformers", ICCV, 2021 (*SenseTime*). [[Paper](https://arxiv.org/abs/2103.11816)][[PyTorch (rishikksh20)](https://github.com/rishikksh20/CeiT)]
@@ -1394,6 +1395,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **SP**: "Boosting Low-Data Instance Segmentation by Unsupervised Pre-training with Saliency Prompt", CVPR, 2023 (*Northwestern Polytechnical University, China*). [[Paper](https://arxiv.org/abs/2302.01171)]
     * **X-Paste**: "X-Paste: Revisiting Scalable Copy-Paste for Instance Segmentation using CLIP and StableDiffusion", ICML, 2023 (*USTC*). [[Paper](https://arxiv.org/abs/2212.03863)][[PyTorch](https://github.com/yoctta/XPaste)]
     * **DynaMITe**: "DynaMITe: Dynamic Query Bootstrapping for Multi-object Interactive Segmentation Transformer", arXiv, 2023 (*RWTH Aachen University, Germany*). [[Paper](https://arxiv.org/abs/2304.06668)][[Code (in construction)](https://github.com/sabarim/dynamite/)][[Website](https://sabarim.github.io/dynamite/)]
+    * **Mask-Frozen-DETR**: "Mask Frozen-DETR: High Quality Instance Segmentation with One GPU", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2308.03747)]
 * Optical Flow:
     * **CRAFT**: "CRAFT: Cross-Attentional Flow Transformer for Robust Optical Flow", CVPR, 2022 (*A\*STAR, Singapore*). [[Paper](https://arxiv.org/abs/2203.16896)][[PyTorch](https://github.com/askerlee/craft)]
     * **KPA-Flow**: "Learning Optical Flow With Kernel Patch Attention", CVPR, 2022 (*Megvii*). [[Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Luo_Learning_Optical_Flow_With_Kernel_Patch_Attention_CVPR_2022_paper.html)][[PyTorch (in construction)](https://github.com/megvii-research/KPAFlow)]
@@ -1454,7 +1456,9 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **SEPL**: "Segment Anything Model (SAM) Enhanced Pseudo Labels for Weakly Supervised Semantic Segmentation", arXiv, 2023 (*OSU*). [[Paper](https://arxiv.org/abs/2305.05803)][[Code (in construction)](https://github.com/cskyl/SAM_WSSS)]
     * **PaintSeg**: "PaintSeg: Training-free Segmentation via Painting", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2305.19406)]
     * **MIMIC**: "MIMIC: Masked Image Modeling with Image Correspondences", arXiv, 2023 (*UW*). [[Paper](https://arxiv.org/abs/2306.15128)][[PyTorch](https://github.com/RAIVNLab/MIMIC)]
-    * **POLE**: "Prompting classes: Exploring the Power of Prompt Class Learning in Weakly Supervised Semantic Segmentation", arXiv, 2023 (**). [[Paper](https://arxiv.org/abs/2307.00097)][[PyTorch](https://github.com/rB080/WSS_POLE)]
+    * **POLE**: "Prompting classes: Exploring the Power of Prompt Class Learning in Weakly Supervised Semantic Segmentation", arXiv, 2023 (*ETS Montreal, Canada*). [[Paper](https://arxiv.org/abs/2307.00097)][[PyTorch](https://github.com/rB080/WSS_POLE)]
+    * **GD**: "Guided Distillation for Semi-Supervised Instance Segmentation", arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2308.02668)]
+    * **MCTformer+**: "MCTformer+: Multi-Class Token Transformer for Weakly Supervised Semantic Segmentation", arXiv, 2023 (*The University of Western Australia*). [[Paper](https://arxiv.org/abs/2308.03005)][[PyTorch](https://github.com/xulianuwa/MCTformer)]
 * Cross-Domain:
     * **DAFormer**: "DAFormer: Improving Network Architectures and Training Strategies for Domain-Adaptive Semantic Segmentation", CVPR, 2022 (*ETHZ*). [[Paper](https://arxiv.org/abs/2111.14887)][[PyTorch](https://github.com/lhoyer/DAFormer)]
     * **?**: "Exploring Consistency in Cross-Domain Transformer for Domain Adaptive Semantic Segmentation", arXiv, 2022 (*Boston*). [[Paper](https://arxiv.org/abs/2211.14703)]
@@ -2099,6 +2103,7 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
     * **MIST**: "MIST: Multi-modal Iterative Spatial-Temporal Transformer for Long-form Video Question Answering", CVPR, 2023 (*NUS*). [[Paper](https://arxiv.org/abs/2212.09522)][[PyTorch](https://github.com/showlab/mist)]
     * **CaKE-LM**: "Language Models are Causal Knowledge Extractors for Zero-shot Video Question Answering", CVPRW, 2023 (*NTU + Columbia*). [[Paper](https://arxiv.org/abs/2304.03754)]
     * **TransSTR**: "Discovering Spatio-Temporal Rationales for Video Question Answering", ICCV, 2023 (*NUS*). [[Paper](https://arxiv.org/abs/2307.12058)]
+    * **RaFormer**: "Redundancy-aware Transformer for Video Question Answering", ACMMM, 2023 (*NUS*). [[Paper](https://arxiv.org/abs/2308.03267)]
     * **SeViLA**: "Self-Chained Image-Language Model for Video Localization and Question Answering", arXiv, 2023 (*UNC*). [[Paper](https://arxiv.org/abs/2305.06988)][[PyTorch](https://github.com/Yui010206/SeViLA)]
     * **FunQA**: "FunQA: Towards Surprising Video Comprehension", arXiv, 2023 (*Beijing University of Posts and Telecommunication*). [[Paper](https://arxiv.org/abs/2306.14899)][[Code (in construction)](https://github.com/Jingkang50/FunQA)][[Website](https://funqa-benchmark.github.io/)]
 * 3D:
@@ -2824,6 +2829,7 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
     * **CREPE**: "CREPE: Can Vision-Language Foundation Models Reason Compositionally?", CVPR, 2023 (*Stanford*). [[Paper](https://arxiv.org/abs/2212.07796)]
     * **ZOOM**: "Zero-shot Model Diagnosis", CVPR, 2023 (*CMU*). [[Paper](https://arxiv.org/abs/2303.15441)]
     * **?**: "On the Generalization of Multi-modal Contrastive Learning", ICML, 2023 (*Peking*). [[Paper](https://arxiv.org/abs/2306.04272)][[PyTorch](https://github.com/PKU-ML/CLIP-Help-SimCLR)]
+    * **?**: "Learning Concise and Descriptive Attributes for Visual Recognition", ICCV, 2023 (*UCSD*). [[Paper](https://arxiv.org/abs/2308.03685)]
 * Speaker Localization:
     * **?**: "The Right to Talk: An Audio-Visual Transformer Approach", ICCV, 2021 (*University of Arkansas*). [[Paper](https://arxiv.org/abs/2108.03256)]
 * Multi-task:
@@ -3044,6 +3050,7 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
     * **VisoGender**: "VisoGender: A dataset for benchmarking gender bias in image-text pronoun resolution", arXiv, 2023 (*Oxford*). [[Paper](https://arxiv.org/abs/2306.12424)][[PyTorch](https://github.com/oxai/visogender)]
     * **MME**: "MME: A Comprehensive Evaluation Benchmark for Multimodal Large Language Models", arXiv, 2023 (*Tencent*). [[Paper](https://arxiv.org/abs/2306.13394)][[Code (in construction)](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)]
     * **MMBench**: "MMBench: Is Your Multi-modal Model an All-around Player?", arXiv, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2307.06281)][[Website](https://opencompass.org.cn/mmbench)]
+    * **Tiny-LVLM-eHub**: "Tiny LVLM-eHub: Early Multimodal Experiments with Bard", arXiv, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2308.03729)][[PyTorch](https://github.com/OpenGVLab/Multi-Modality-Arena)][[Website](http://lvlm-ehub.opengvlab.com/)]
 * Robustness:
     * **Hierarchy-CLIP**: "Improving Zero-shot Generalization and Robustness of Multi-modal Models", CVPR, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2212.01758)][[JAX](https://github.com/gyhandy/Hierarchy-CLIP)][[Website](https://sites.google.com/usc.edu/hierarchy-clip/)]
     * **?**: "Mitigating Spurious Correlations in Multi-modal Models during Fine-tuning", ICML, 2023 (*UCLA*). [[Paper](https://arxiv.org/abs/2304.03916)]
