@@ -366,6 +366,7 @@ If you find this repository useful, please consider citing this list:
 * **TP-TPS**: "Exploiting the Textual Potential from Vision-Language Pre-training for Text-based Person Search", arXiv, 2023 (*Tencent*). [[Paper](https://arxiv.org/abs/2303.04497)]
 * **PLIP**: "PLIP: Language-Image Pre-training for Person Representation Learning", arXiv, 2023 (*Huazhong University of Science and Technology*). [[Paper](https://arxiv.org/abs/2305.08386)][[Code (in construction)](https://github.com/Zplusdragon/PLIP)]
 * **SSCP**: "Selecting Learnable Training Samples is All DETRs Need in Crowded Pedestrian Detection", arXiv, 2023 (*Chongqing University of Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2305.10801)]
+* **PI-VL**: "Exploring Part-Informed Visual-Language Learning for Person Re-Identification", arXiv, 2023 (*iFLYTEK, China*). [[Paper](https://arxiv.org/abs/2308.02738)]
 
 [[Back to Overview](#overview)]
 
@@ -725,6 +726,7 @@ If you find this repository useful, please consider citing this list:
     * **CLIT**: "Cascaded Local Implicit Transformer for Arbitrary-Scale Super-Resolution", CVPR, 2023 (*MediaTek*). [[Paper](https://arxiv.org/abs/2303.16513)]
     * **CiaoSR**: "CiaoSR: Continuous Implicit Attention-in-Attention Network for Arbitrary-Scale Image Super-Resolution", CVPR, 2023 (*ETHZ*). [[Paper](https://arxiv.org/abs/2212.04362)][[PyTorch](https://github.com/caojiezhang/CiaoSR)]
     * **HTCAN**: "Hybrid Transformer and CNN Attention Network for Stereo Image Super-resolution", CVPRW, 2023 (*ByteDance*). [[Paper](https://arxiv.org/abs/2305.05177)]
+    * **DAT**: "Dual Aggregation Transformer for Image Super-Resolution", ICCV, 2023 (*Shanghai Jiao Tong*). [[Paper](https://arxiv.org/abs/2308.03364)][[PyTorch](https://github.com/zhengchen1999/DAT)]
     * **RGT**: "Recursive Generalization Transformer for Image Super-Resolution", arXiv, 2023 (*Shanghai Jiao Tong*). [[Paper](https://arxiv.org/abs/2303.06373)]
     * **SOSR**: "SOSR: Source-Free Image Super-Resolution with Wavelet Augmentation Transformer", arXiv, 2023 (*CAS*). [[Paper](https://arxiv.org/abs/2303.17783)]
 * Others:
@@ -1207,6 +1209,7 @@ If you find this repository useful, please consider citing this list:
 * **UniverSeg**: "UniverSeg: Universal Medical Image Segmentation", arXiv, 2023 (*MIT*). [[Paper](https://arxiv.org/abs/2304.06131)][[PyTorch](https://github.com/JJGO/UniverSeg)][[Website](https://universeg.csail.mit.edu/)]
 * **3DSAM-adapter**: "3DSAM-adapter: Holistic Adaptation of SAM from 2D to 3D for Promptable Medical Image Segmentation", arXiv, 2023 (*CUHK*). [[Paper](https://arxiv.org/abs/2306.13465)]
 * **CMCL**: "Disruptive Autoencoders: Leveraging Low-level features for 3D Medical Image Pre-training", arXiv, 2023 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2307.16896)]
+* **AdaptiveSAM**: "AdaptiveSAM: Towards Efficient Tuning of SAM for Surgical Scene Segmentation", arXiv, 2023 (*JHU*). [[Paper](https://arxiv.org/abs/2308.03726)][[PyTorch](https://github.com/JayParanjape/biastuning)]
 
 [[Back to Overview](#overview)]
 
