@@ -969,6 +969,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **DSVT**: "DSVT: Dynamic Sparse Voxel Transformer with Rotated Sets", CVPR, 2023 (*Peking University*). [[Paper](https://arxiv.org/abs/2301.06051)][[PyTorch](https://github.com/Haiyang-W/DSVT)]
 * **AShapeFormer**: "AShapeFormer: Semantics-Guided Object-Level Active Shape Encoding for 3D Object Detection via Transformers", CVPR, 2023 (*Hunan University*). [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Li_AShapeFormer_Semantics-Guided_Object-Level_Active_Shape_Encoding_for_3D_Object_Detection_CVPR_2023_paper.html)][[Code (in construction)](https://github.com/ZechuanLi/AShapeFormer)]
 * **MV-JAR**: "MV-JAR: Masked Voxel Jigsaw and Reconstruction for LiDAR-Based Self-Supervised Pre-Training", CVPR, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2303.13510)][[Code (in construction)](https://github.com/SmartBot-PJLab/MV-JAR)]
+* **?**: "An Empirical Analysis of Range for 3D Object Detection", ICCVW, 2023 (*CMU*). [[Paper](https://arxiv.org/abs/2308.04054)]
 * **DTH**: "Efficient Transformer-based 3D Object Detection with Dynamic Token Halting", arXiv, 2023 (*Cruise*). [[Paper](https://arxiv.org/abs/2303.05078)]
 * **STEMD**: "Spatial-Temporal Enhanced Transformer Towards Multi-Frame 3D Object Detection", arXiv, 2023 (*CUHK*). [[Paper](https://arxiv.org/abs/2307.00347)][[Code (in construction)(https://github.com/Eaphan/STEMD)]]
 * **V-DETR**: "V-DETR: DETR with Vertex Relative Position Encoding for 3D Object Detection", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2308.04409)][[Code (in construction)](https://github.com/yichaoshen-MS/V-DETR)]
@@ -1042,6 +1043,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **MCNet**: "Mirror Complementary Transformer Network for RGB-thermal Salient Object Detection", arXiv, 2022 (*Beijing University of Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2207.03558)][[PyTorch](https://github.com/jxr326/SwinMCNet)]
 * **SiaTrans**: "SiaTrans: Siamese Transformer Network for RGB-D Salient Object Detection with Depth Image Classification", arXiv, 2022 (*Shandong University of Science and Technology*). [[Paper](https://arxiv.org/abs/2207.04224)]
 * **PSFormer**: "PSFormer: Point Transformer for 3D Salient Object Detection", arXiv, 2022 (*Nanjing University of Aeronautics and Astronautics*). [[Paper](https://arxiv.org/abs/2210.15933)]
+* **RMFormer**: "Recurrent Multi-scale Transformer for High-Resolution Salient Object Detection", ACMMM, 2023 (*Dalian University of Technology*). [[Paper](https://arxiv.org/abs/2308.03826)]
 
 [[Back to Overview](#overview)]
 
@@ -1366,6 +1368,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **Mask2Former**: "Masked-attention Mask Transformer for Universal Image Segmentation", CVPR, 2022 (*Meta*). [[Paper](https://arxiv.org/abs/2112.01527)][[PyTorch](https://github.com/facebookresearch/Mask2Former)][[Website](https://bowenc0221.github.io/mask2former/)]
     * **MP-Former**: "MP-Former: Mask-Piloted Transformer for Image Segmentation", CVPR, 2023 (*IDEA*). [[Paper](https://arxiv.org/abs/2303.07336)][[Code (in construction)](https://github.com/IDEA-Research/MP-Former)]
     * **OneFormer**: "OneFormer: One Transformer to Rule Universal Image Segmentation", CVPR, 2023 (*Oregon*). [[Paper](https://arxiv.org/abs/2211.06220)][[PyTorch](https://github.com/SHI-Labs/OneFormer)][[Website](https://praeclarumjj3.github.io/oneformer/)]
+    * **UNINEXT**: "Universal Instance Perception as Object Discovery and Retrieval", CVPR, 2023 (*ByteDance*). [[Paper](https://arxiv.org/abs/2303.06674v1)][[PyTorch](https://github.com/MasterBin-IIAU/UNINEXT)]
     * **ClustSeg**: "CLUSTSEG: Clustering for Universal Segmentation", ICML, 2023 (*Rochester Institute of Technology*). [[Paper](https://arxiv.org/abs/2305.02187)]
     * **DaTaSeg**: "DaTaSeg: Taming a Universal Multi-Dataset Multi-Task Segmentation Model", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2306.01736)]
     * **DFormer**: "DFormer: Diffusion-guided Transformer for Universal Image Segmentation", arXiv, 2023 (*Tianjin University*). [[Paper](https://arxiv.org/abs/2306.03437)][[Code (in construction)](https://github.com/cp3wan/DFormer)]
@@ -1624,6 +1627,7 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
     * **STAR-Transformer**: "STAR-Transformer: A Spatio-temporal Cross Attention Transformer for Human Action Recognition", WACV, 2023 (*Keimyung University, Korea*). [[Paper](https://arxiv.org/abs/2210.07503)]
     * **STMT**: "STMT: A Spatial-Temporal Mesh Transformer for MoCap-Based Action Recognition", CVPR, 2023 (*CMU*). [[Paper](https://arxiv.org/abs/2303.18177)][[Code (in construction)](https://github.com/zgzxy001/STMT)]
     * **SkeletonMAE**: "SkeletonMAE: Graph-based Masked Autoencoder for Skeleton Sequence Pre-training", ICCV, 2023 (*Sun Yat-sen University*). [[Paper](https://arxiv.org/abs/2307.08476)][[Code (in construction)](https://github.com/HongYan1123/SkeletonMAE)]
+    * **PCM<sup>3</sup>**: "Prompted Contrast with Masked Motion Modeling: Towards Versatile 3D Action Representation Learning", ACMMM, 2023 (*Peking*). [[Paper](https://arxiv.org/abs/2308.03975)][[Website](https://jhang2020.github.io/Projects/PCM3/PCM3.html)]
     * **PoseAwareVT**: "Seeing the Pose in the Pixels: Learning Pose-Aware Representations in Vision Transformers", arXiv, 2023 (*Amazon*). [[Paper](https://arxiv.org/abs/2306.09331)][[PyTorch](https://github.com/dominickrei/PoseAwareVT)]
 * Multi-modal:
     * **MBT**: "Attention Bottlenecks for Multimodal Fusion", NeurIPS, 2021 (*Google*). [[Paper](https://arxiv.org/abs/2107.00135)]
@@ -2969,6 +2973,7 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
     * **AV-SAM**: "AV-SAM: Segment Anything Model Meets Audio-Visual Localization and Segmentation", arXiv, 2023 (*CMU + UT Dallas*). [[Paper](https://arxiv.org/abs/2305.01836)]
     * **AUSS**: "Hear to Segment: Unmixing the Audio to Guide the Semantic Segmentation", arXiv, 2023 (*Fudan*). [[Paper](https://arxiv.org/abs/2305.07223)]
     * **AuTR**: "Annotation-free Audio-Visual Segmentation", arXiv, 2023 (*Shanghai Jiao Tong*). [[Paper](https://arxiv.org/abs/2305.11019)]
+    * **AVSegFormer**: "AVSegFormer: Audio-Visual Segmentation with Transformer", arXiv, 2023 (*Nanjing University*). [[Paper](https://arxiv.org/abs/2307.01146)][[PyTorch](https://github.com/vvvb-github/AVSegFormer)]
 * Audio Description:
     * **AutoAD**: "AutoAD: Movie Description in Context", CVPR, 2023 (*Oxford*). [[Paper](https://arxiv.org/abs/2303.16899)][[Code (in construction)](https://github.com/TengdaHan/AutoAD)][[Website](https://www.robots.ox.ac.uk/~vgg/research/autoad/)]
 * Sound Localization:
