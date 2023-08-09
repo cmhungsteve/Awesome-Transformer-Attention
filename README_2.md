@@ -557,6 +557,7 @@ If you find this repository useful, please consider citing this list:
     * **UniOOD**: "Universal Domain Adaptation from Foundation Models", arXiv, 2023 (*South China University of Technology*). [[Paper](https://arxiv.org/abs/2305.11092)][[Code (in construction)](https://github.com/szubing/uniood)]
     * **PEST**: "Prompt Ensemble Self-training for Open-Vocabulary Domain Adaptation", arXiv, 2023 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2306.16658)]
     * **?**: "Open-Set Domain Adaptation with Visual-Language Foundation Models", arXiv, 2023 (*The University of Tokyo*). [[Paper](https://arxiv.org/abs/2307.16204)]
+    * **ReCLIP**: "ReCLIP: Refine Contrastive Language Image Pre-Training with Source Free Domain Adaptation", arXiv, 2023 (*Amazon*). [[Paper](https://arxiv.org/abs/2308.03793)]
 * X-Supervised:
     * **Semiformer**: "Semi-Supervised Vision Transformers", ECCV, 2022 (*Fudan University*). [[Paper](https://arxiv.org/abs/2111.11067)][[PyTorch](https://github.com/wengzejia1/Semiformer)]
     * **SVL-Adapter**: "SVL-Adapter: Self-Supervised Adapter for Vision-Language Pretrained Models", BMVC, 2022 (*UCL*). [[Paper](https://arxiv.org/abs/2210.03794)][[Code (in construction)](https://github.com/omipan/svl_adapter)]
@@ -577,6 +578,7 @@ If you find this repository useful, please consider citing this list:
     * **I2MVFormer**: "I2MVFormer: Large Language Model Generated Multi-View Document Supervision for Zero-Shot Image Classification", CVPR, 2023 (*ETHZ*). [[Paper](https://arxiv.org/abs/2212.02291)]
     * **ADE**: "Learning Attention as Disentangler for Compositional Zero-shot Learning", CVPR, 2023 (*HKU*). [[Paper](https://arxiv.org/abs/2303.15111)][[PyTorch](https://github.com/haoosz/ade-czsl)][[Website](https://haoosz.github.io/ade-czsl/)]
     * **CHiLS**: "CHiLS: Zero-Shot Image Classification with Hierarchical Label Sets", ICML, 2023 (*UCSD*). [[Paper](https://arxiv.org/abs/2302.02551)][[PyTorch](https://github.com/acmi-lab/CHILS)]
+    * **CoT**: "Hierarchical Visual Primitive Experts for Compositional Zero-Shot Learning", ICCV, 2023 (*Yonsei*). [[Paper](https://arxiv.org/abs/2308.04016)]
     * **?**: "Text-to-Image Diffusion Models are Zero-Shot Classifiers", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2303.15233)]
     * **?**: "Your Diffusion Model is Secretly a Zero-Shot Classifier", arXiv, 2023 (*CMU*). [[Paper](https://arxiv.org/abs/2303.16203)][[Code (in construction)](https://github.com/diffusion-classifier/diffusion-classifier)][[Website](https://diffusion-classifier.github.io/)]
 * X-Shot:
@@ -1440,6 +1442,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **EvT**: "Event Transformer: A sparse-aware solution for efficient event data processing", arXiv, 2022 (*Universidad de Zaragoza, Spain*). [[Paper](https://arxiv.org/abs/2204.03355)][[PyTorch](https://github.com/AlbertoSabater/EventTransformer)]
     * **ETB**: "Event Transformer", arXiv, 2022 (*Nanjing University*). [[Paper](https://arxiv.org/abs/2204.05172)]
     * **RVT**: "Recurrent Vision Transformers for Object Detection with Event Cameras", CVPR, 2023 (*University of Zurich*). [[Paper](https://arxiv.org/abs/2212.05598)]
+    * **SODFormer**: "SODFormer: Streaming Object Detection with Transformer Using Events and Frames", TPAMI, 2023 (*Peking*). [[Paper](https://arxiv.org/abs/2308.04047)][[PyTorch](https://github.com/dianzl/SODFormer)]
 * Fashion:
     * **Kaleido-BERT**: "Kaleido-BERT: Vision-Language Pre-training on Fashion Domain", CVPR, 2021 (*Alibaba*). [[Paper](https://arxiv.org/abs/2103.16110)][[Tensorflow](https://github.com/mczhuge/Kaleido-BERT)]
     * **CIT**: "Cloth Interactive Transformer for Virtual Try-On", arXiv, 2021 (*University of Trento*). [[Paper](https://arxiv.org/abs/2104.05519)][[Code (in construction)](https://github.com/Amazingren/CIT)]
