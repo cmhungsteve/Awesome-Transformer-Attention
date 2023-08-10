@@ -730,6 +730,7 @@ If you find this repository useful, please consider citing this list:
     * **CiaoSR**: "CiaoSR: Continuous Implicit Attention-in-Attention Network for Arbitrary-Scale Image Super-Resolution", CVPR, 2023 (*ETHZ*). [[Paper](https://arxiv.org/abs/2212.04362)][[PyTorch](https://github.com/caojiezhang/CiaoSR)]
     * **HTCAN**: "Hybrid Transformer and CNN Attention Network for Stereo Image Super-resolution", CVPRW, 2023 (*ByteDance*). [[Paper](https://arxiv.org/abs/2305.05177)]
     * **DAT**: "Dual Aggregation Transformer for Image Super-Resolution", ICCV, 2023 (*Shanghai Jiao Tong*). [[Paper](https://arxiv.org/abs/2308.03364)][[PyTorch](https://github.com/zhengchen1999/DAT)]
+    * **CRAFT**: "Feature Modulation Transformer: Cross-Refinement of Global Representation via High-Frequency Prior for Image Super-Resolution", ICCV, 2023 (*UESTC*). [[Paper](https://arxiv.org/abs/2308.05022)][[Code (in construction)](https://github.com/AVC2-UESTC/CRAFT-SR)]
     * **RGT**: "Recursive Generalization Transformer for Image Super-Resolution", arXiv, 2023 (*Shanghai Jiao Tong*). [[Paper](https://arxiv.org/abs/2303.06373)]
     * **SOSR**: "SOSR: Source-Free Image Super-Resolution with Wavelet Augmentation Transformer", arXiv, 2023 (*CAS*). [[Paper](https://arxiv.org/abs/2303.17783)]
 * Others:
@@ -1084,6 +1085,7 @@ If you find this repository useful, please consider citing this list:
 * **VLN-Behave**: "Behavioral Analysis of Vision-and-Language Navigation Agents", CVPR, 2023 (*Oregon State*). [[Paper](https://arxiv.org/abs/2307.10790)][[Code](https://github.com/Yoark/vln-behave)]
 * **Lily**: "Learning Vision-and-Language Navigation from YouTube Videos", ICCV, 2023 (*South China University of Technology*). [[Paper](https://arxiv.org/abs/2307.11984)][[Code (in construction)](https://github.com/JeremyLinky/YouTube-VLN)]
 * **ScaleVLN**: "Scaling Data Generation in Vision-and-Language Navigation", ICCV, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2307.15644)][[PyTorch](https://github.com/wz0919/ScaleVLN)]
+* **BSG**: "Bird's-Eye-View Scene Graph for Vision-Language Navigation", ICCV, 2023 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2308.04758)][[Code (in construction)](https://github.com/DefaultRui/BEV-Scene-Graph)]
 * **MLANet**: "MLANet: Multi-Level Attention Network with Sub-instruction for Continuous Vision-and-Language Navigation", arXiv, 2023 (*Tongji University*). [[Paper](https://arxiv.org/abs/2303.01396)][[PyTorch](https://github.com/RavenKiller/MLA)]
 * **ENTL**: "ENTL: Embodied Navigation Trajectory Learner", arXiv, 2023 (*AI2*). [[Paper](https://arxiv.org/abs/2304.02639)]
 * **MPM**: "Masked Path Modeling for Vision-and-Language Navigation", arXiv, 2023 (*UCLA*). [[Paper](https://arxiv.org/abs/2305.14268)]
@@ -1704,6 +1706,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **QCNet**: "Query-Centric Trajectory Prediction", CVPR, 2023 (*CUHK*). [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Zhou_Query-Centric_Trajectory_Prediction_CVPR_2023_paper.html)][[Code (in construction)](https://github.com/ZikangZhou/QCNet)]
     * **ViP3D**: "ViP3D: End-to-end Visual Trajectory Prediction via 3D Agent Queries", CVPR, 2023 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2208.01582)][[PyTorch](https://github.com/Tsinghua-MARS-Lab/ViP3D)][[Website](https://tsinghua-mars-lab.github.io/ViP3D/)]
     * **USST**: "Uncertainty-aware State Space Transformer for Egocentric 3D Hand Trajectory Forecasting", ICCV, 2023 (*OPPO*). [[Paper](https://arxiv.org/abs/2307.08243)]
+    * **JRTransformer**: "Joint-Relation Transformer for Multi-Person Motion Prediction", ICCV, 2023 (*Shanghai Jiao Tong*). [[Paper](https://arxiv.org/abs/2308.04808)][[PyTorch (in construction)](https://github.com/MediaBrain-SJTU/JRTransformer)]
     * **InCrowdFormer**: "InCrowdFormer: On-Ground Pedestrian World Model From Egocentric Views", arXiv, 2023 (*Kyoto University*). [[Paper](https://arxiv.org/abs/2303.09534)]
     * **OccFormer**: "OccFormer: Dual-path Transformer for Vision-based 3D Semantic Occupancy Prediction", arXiv, 2023 (*PhiGent Robotics, China*). [[Paper](https://arxiv.org/abs/2304.05316)][[PyTorch](https://github.com/zhangyp15/OccFormer)]
     * **MTR++**: "MTR++: Multi-Agent Motion Prediction with Symmetric Scene Modeling and Guided Intention Querying", arXiv, 2023 (*MPI*). [[Paper](https://arxiv.org/abs/2306.17770)]
