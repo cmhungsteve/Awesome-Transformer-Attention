@@ -128,6 +128,7 @@ If you find this repository useful, please consider citing this list:
 * "Vision + Language Applications: A Survey", CVPRW, 2023 (*Ritsumeikan University, Japan*). [[Paper](https://arxiv.org/abs/2305.14598)][[GitHub](https://github.com/Yutong-Zhou-cv/Awesome-Text-to-Image)]
 * "Multimodal Learning With Transformers: A Survey", TPAMI, 2023 (*Tsinghua & Oxford*). [[Paper](https://arxiv.org/abs/2206.06488)]
 * "A Survey of Visual Transformers", TNNLS, 2023 (*CAS*). [[Paper](https://arxiv.org/abs/2111.06091)]
+* "From CNN to Transformer: A Review of Medical Image Segmentation Models", arXiv, 2023 (*UESTC*). [[Paper](https://arxiv.org/abs/2308.05305)]
 * "Foundational Models Defining a New Era in Vision: A Survey and Outlook", arXiv, 2023 (*MBZUAI*). [[Paper](https://arxiv.org/abs/2307.13721)][[GitHub](https://github.com/awaisrauf/Awesome-CV-Foundational-Models)]
 * "A Systematic Survey of Prompt Engineering on Vision-Language Foundation Models", arXiv, 2023 (*Oxford*). [[Paper](https://arxiv.org/abs/2307.12980)]
 * "Robust Visual Question Answering: Datasets, Methods, and Future Challenges", arXiv, 2023 (*Xi'an Jiaotong University*). [[Paper](https://arxiv.org/abs/2307.11471)]
@@ -1255,6 +1256,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **SegViTv2**: "SegViTv2: Exploring Efficient and Continual Semantic Segmentation with Plain Vision Transformers", arXiv, 2023 (*The University of Adelaide, Australia*). [[Paper](https://arxiv.org/abs/2306.06289)][[PyTorch](https://github.com/zbwxp/SegVit)]
 * **DToP**: "Dynamic Token Pruning in Plain Vision Transformers for Semantic Segmentation", arXiv, 2023 (*South China University of Technology + The University of Adelaide*). [[Paper](https://arxiv.org/abs/2308.01045)]
 * **DoViT**: "Dynamic Token-Pass Transformers for Semantic Segmentation", arXiv, 2023 (*Alibaba*). [[Paper](https://arxiv.org/abs/2308.01944)]
+* **CFT**: "Category Feature Transformer for Semantic Segmentation", arXiv, 2023 (*Huawei*). [[Paper](https://arxiv.org/abs/2308.05581)]
 
 [[Back to Overview](#overview)]
 
@@ -1310,6 +1312,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **FastSAM**: "Fast Segment Anything", arXiv, 2023 (*CAS*). [[Paper](https://arxiv.org/abs/2306.12156)][[PyTorch](https://github.com/CASIA-IVA-Lab/FastSAM)]
     * **MobileSAM**: "Faster Segment Anything: Towards Lightweight SAM for Mobile Applications", arXiv, 2023 (*Kyung Hee University*). [[Paper](https://arxiv.org/abs/2306.14289)][[PyTorch](https://github.com/ChaoningZhang/MobileSAM)]
     * **Semantic-SAM**: "Semantic-SAM: Segment and Recognize Anything at Any Granularity", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2307.04767)][[Code (in construction)](https://github.com/UX-Decoder/Semantic-SAM)]
+    * **Follow-Anything**: "Follow Anything: Open-set detection, tracking, and following in real-time", arXiv, 2023 (*MIT*). [[Paper](https://arxiv.org/abs/2308.05737)]
 * Vision-Language:
     * **LSeg**: "Language-driven Semantic Segmentation", ICLR, 2022 (*Cornell*). [[Paper](https://arxiv.org/abs/2201.03546)][[PyTorch](https://github.com/isl-org/lang-seg)]
     * **ZegFormer**: "Decoupling Zero-Shot Semantic Segmentation", CVPR, 2022 (*Wuhan University*). [[Paper](https://arxiv.org/abs/2112.07910)][[PyTorch](https://github.com/dingjiansw101/ZegFormer)]
@@ -1492,9 +1495,6 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **BANet**: "Transformer Meets Convolution: A Bilateral Awareness Net-work for Semantic Segmentation of Very Fine Resolution Urban Scene Images", arXiv, 2021 (*Wuhan University*). [[Paper](https://arxiv.org/abs/2106.12413)]
     * **Cerberus-Transformer**: "Cerberus Transformer: Joint Semantic, Affordance and Attribute Parsing", CVPR, 2022 (*Tsinghua University*). [[Paper](https://arxiv.org/abs/2111.12608)][[PyTorch](https://github.com/OPEN-AIR-SUN/Cerberus)]
     * **IRISformer**: "IRISformer: Dense Vision Transformers for Single-Image Inverse Rendering in Indoor Scenes", CVPR, 2022 (*UCSD*). [[Paper](https://arxiv.org/abs/2206.08423)][[Code (in construction)](https://github.com/ViLab-UCSD/IRISformer)]
-    * **InvPT**: "Inverted Pyramid Multi-task Transformer for Dense Scene Understanding", ECCV, 2022 (*HKUST*). [[Paper](https://arxiv.org/abs/2203.07997)][[PyTorch](https://github.com/prismformore/Multi-Task-Transformer)]
-    * **TaskPrompter**: "TaskPrompter: Spatial-Channel Multi-Task Prompting for Dense Scene Understanding", ICLR, 2023 (*HKUST*). [[Paper](https://openreview.net/forum?id=-CwPopPJda)][[PyTorch (in construction)](https://github.com/prismformore/Multi-Task-Transformer)]
-    * **InvPT++**: "InvPT++: Inverted Pyramid Multi-Task Transformer for Visual Scene Understanding", arXiv, 2023 (*HKUST*). [[Paper](https://arxiv.org/abs/2306.04842)]
 * 3D Segmentation:
     * **Stratified-Transformer**: "Stratified Transformer for 3D Point Cloud Segmentation", CVPR, 2022 (*CUHK*). [[Paper](https://arxiv.org/abs/2203.14508)][[PyTorch](https://github.com/dvlab-research/Stratified-Transformer)]
     * **CodedVTR**: "CodedVTR: Codebook-based Sparse Voxel Transformer with Geometric Guidance", CVPR, 2022 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2203.09887)]
@@ -1516,8 +1516,13 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **Symphonies**: "Symphonize 3D Semantic Scene Completion with Contextual Instance Queries", arXiv, 2023 (*Horizon Robotics*). [[Paper](https://arxiv.org/abs/2306.15670)][[PyTorch](https://github.com/hustvl/Symphonies)]
     * **CVSformer**: "CVSformer: Cross-View Synthesis Transformer for Semantic Scene Completion", arXiv, 2023 (*Tianjin University*). [[Paper](https://arxiv.org/abs/2307.07938)]
 * Multi-Task:
+    * **InvPT**: "Inverted Pyramid Multi-task Transformer for Dense Scene Understanding", ECCV, 2022 (*HKUST*). [[Paper](https://arxiv.org/abs/2203.07997)][[PyTorch](https://github.com/prismformore/Multi-Task-Transformer)]
     * **MTFormer**: "MTFormer: Multi-task Learning via Transformer and Cross-Task Reasoning", ECCV, 2022 (*CUHK*). [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/1353_ECCV_2022_paper.php)]
     * **MQTransformer**: "Multi-Task Learning with Multi-Query Transformer for Dense Prediction", arXiv, 2022 (*Wuhan University*). [[Paper](https://arxiv.org/abs/2205.14354)]
+    * **DeMT**: "DeMT: Deformable Mixer Transformer for Multi-Task Learning of Dense Prediction", AAAI, 2023 (*Wuhan University*). [[Paper](https://arxiv.org/abs/2301.03461)][[PyTorch](https://github.com/yangyangxu0/DeMT)]
+    * **TaskPrompter**: "TaskPrompter: Spatial-Channel Multi-Task Prompting for Dense Scene Understanding", ICLR, 2023 (*HKUST*). [[Paper](https://openreview.net/forum?id=-CwPopPJda)][[PyTorch (in construction)](https://github.com/prismformore/Multi-Task-Transformer)]
+    * **InvPT++**: "InvPT++: Inverted Pyramid Multi-Task Transformer for Visual Scene Understanding", arXiv, 2023 (*HKUST*). [[Paper](https://arxiv.org/abs/2306.04842)]
+    * **DeMTG**: "Deformable Mixer Transformer with Gating for Multi-Task Learning of Dense Prediction", arXiv, 2023 (*Wuhan University*). [[Paper](https://arxiv.org/abs/2308.05721)][[PyTorch](https://github.com/yangyangxu0/DeMTG)]
 * Forecasting:
     * **DiffAttn**: "Joint Forecasting of Panoptic Segmentations with Difference Attention", CVPR, 2022 (*UIUC*). [[Paper](https://arxiv.org/abs/2204.07157)][[Code (in construction)](https://github.com/cgraber/psf-diffattn)]
 * LiDAR:
@@ -2123,6 +2128,8 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
 * 3D:
     * **3D-VQA**: "CLIP-Guided Vision-Language Pre-training for Question Answering in 3D Scenes", CVPRW, 2023 (*ETHZ*). [[Paper](https://arxiv.org/abs/2304.06061)][[Code (in construction)](https://github.com/AlexDelitzas/3D-VQA)]
     * **Multi-CLIP**: "Multi-CLIP: Contrastive Vision-Language Pre-training for Question Answering tasks in 3D Scenes", arXiv, 2023 (*ETHZ*). [[Paper](https://arxiv.org/abs/2306.02329)]
+* Audio-Visual:
+    * **PSTP-Net**: "Progressive Spatio-temporal Perception for Audio-Visual Question Answering", ACMMM, 2023 (*Renmin University of China*). [[Paper](https://arxiv.org/abs/2308.05421)][[PyTorch](https://github.com/GeWu-Lab/PSTP-Net)]
 
 [[Back to Overview](#overview)]
 
