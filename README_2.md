@@ -569,7 +569,6 @@ If you find this repository useful, please consider citing this list:
     * **ViT-ZSL**: "Multi-Head Self-Attention via Vision Transformer for Zero-Shot Learning", IMVIP, 2021 (*University of Exeter, UK*). [[Paper](https://arxiv.org/abs/2108.00045)]
     * **TransZero**: "TransZero: Attribute-guided Transformer for Zero-Shot Learning", AAAI, 2022 (*Huazhong University of Science and Technology*). [[Paper](https://arxiv.org/abs/2112.01683)][[PyTorch](https://github.com/shiming-chen/TransZero)]
     * **?**: "Zero-shot Visual Commonsense Immorality Prediction", BMVC, 2022 (*Korea University*). [[Paper](https://arxiv.org/abs/2211.05521)][[PyTorch](https://github.com/ku-vai/Zero-shot-Visual-Commonsense-Immorality-Prediction)]
-    * **TPT**: "Test-Time Prompt Tuning for Zero-Shot Generalization in Vision-Language Models", NeurIPS, 2022 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2209.07511)][[PyTorch](https://github.com/azshue/TPT)][[Website](https://azshue.github.io/TPT/)]
     * **I2DFormer**: "I2DFormer: Learning Image to Document Attention for Zero-Shot Image Classification", NeurIPS, 2022 (*ETHZ*). [[Paper](https://arxiv.org/abs/2209.10304)]
     * **HRT**: "Hybrid Routing Transformer for Zero-Shot Learning", arXiv, 2022 (*Xidian University*). [[Paper](https://arxiv.org/abs/2203.15310)]
     * **CuPL**: "What does a platypus look like? Generating customized prompts for zero-shot image classification", arXiv, 2022 (*University of Washington*). [[Paper](https://arxiv.org/abs/2209.03320)][[PyTorch](https://github.com/sarahpratt/CuPL)]
