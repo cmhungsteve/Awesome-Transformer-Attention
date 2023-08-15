@@ -321,6 +321,7 @@ If you find this repository useful, please consider citing this list:
     * **MAT**: "Representation Learning for Visual Object Tracking by Masked Appearance Transfer", CVPR, 2023 (*Dalian University of Technology*). [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Zhao_Representation_Learning_for_Visual_Object_Tracking_by_Masked_Appearance_Transfer_CVPR_2023_paper.html)][[PyTorch](https://github.com/difhnp/MAT)]
     * **MeMOTR**: "MeMOTR: Long-Term Memory-Augmented Transformer for Multi-Object Tracking", ICCV, 2023 (*Nanjing University*). [[Paper](https://arxiv.org/abs/2307.15700)]
     * **ROMTrack**: "Robust Object Modeling for Visual Tracking", ICCV, 2023 (*Nanjing University*). [[Paper](https://arxiv.org/abs/2308.05140)][[PyTorch](https://github.com/dawnyc/ROMTrack)]
+    * **HiT**: "Exploring Lightweight Hierarchical Vision Transformers for Efficient Visual Tracking", ICCV, 2023 (*Dalian University of Technology*). [[Paper](https://arxiv.org/abs/2308.06904)][[PyTorch](https://github.com/kangben258/HiT)]
     * **MOTRv3**: "MOTRv3: Release-Fetch Supervision for End-to-End Multi-Object Tracking", arXiv, 2023 (*Megvii*). [[Paper](https://arxiv.org/abs/2305.14298)]
     * **MixFormerV2**: "MixFormerV2: Efficient Fully Transformer Tracking", arXiv, 2023 (*Nanjing University*). [[Paper](https://arxiv.org/abs/2305.15896)][[PyTorch](https://github.com/MCG-NJU/MixFormerV2)]
     * **?**: "Tracking Everything Everywhere All at Once", arXiv, 2023 (*Cornell*). [[Paper](https://arxiv.org/abs/2306.05422)][[Website](https://omnimotion.github.io/)]
@@ -330,6 +331,7 @@ If you find this repository useful, please consider citing this list:
     * **CMT**: "CMT: Context-Matching-Guided Transformer for 3D Tracking in Point Clouds", ECCV, 2022 (*USTC*). [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/1253_ECCV_2022_paper.php)]
     * **InterTrack**: "InterTrack: Interaction Transformer for 3D Multi-Object Tracking", arXiv, 2022 (*University of Toronto*). [[Paper](https://arxiv.org/abs/2208.08041)]
     * **GLT-T**: "GLT-T: Global-Local Transformer Voting for 3D Single Object Tracking in Point Clouds", AAAI, 2023 (*Hangzhou Dianzi University*). [[Paper](https://arxiv.org/abs/2211.10927)][[PyTorch](https://github.com/haooozi/GLT-T)]
+    * **3DMOTFormer**: "3DMOTFormer: Graph Transformer for Online 3D Multi-Object Tracking", ICCV, 2023 (*University of Bonn, Germany*). [[Paper](https://arxiv.org/abs/2308.06635)][[PyTorch](https://github.com/dsx0511/3DMOTFormer)]
     * **GLT-T++**: "GLT-T++: Global-Local Transformer for 3D Siamese Tracking with Ranking Loss", arXiv, 2023 (*Hangzhou Dianzi University*). [[Paper](https://arxiv.org/abs/2304.00242)][[PyTorch](https://github.com/haooozi/GLT-T)]
     * **TrajectoryFormer**: "TrajectoryFormer: 3D Object Tracking Transformer with Predictive Trajectory Hypotheses", arXiv, 2023 (*CUHK*). [[Paper](https://arxiv.org/abs/2306.05888)]
 
@@ -1091,6 +1093,7 @@ If you find this repository useful, please consider citing this list:
 * **Lily**: "Learning Vision-and-Language Navigation from YouTube Videos", ICCV, 2023 (*South China University of Technology*). [[Paper](https://arxiv.org/abs/2307.11984)][[Code (in construction)](https://github.com/JeremyLinky/YouTube-VLN)]
 * **ScaleVLN**: "Scaling Data Generation in Vision-and-Language Navigation", ICCV, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2307.15644)][[PyTorch](https://github.com/wz0919/ScaleVLN)]
 * **BSG**: "Bird's-Eye-View Scene Graph for Vision-Language Navigation", ICCV, 2023 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2308.04758)][[Code (in construction)](https://github.com/DefaultRui/BEV-Scene-Graph)]
+* **AerialVLN**: "AerialVLN: Vision-and-Language Navigation for UAVs", ICCV, 2023 (*Northwestern Polytechnical University*). [[Paper](https://arxiv.org/abs/2308.06735)]
 * **MLANet**: "MLANet: Multi-Level Attention Network with Sub-instruction for Continuous Vision-and-Language Navigation", arXiv, 2023 (*Tongji University*). [[Paper](https://arxiv.org/abs/2303.01396)][[PyTorch](https://github.com/RavenKiller/MLA)]
 * **ENTL**: "ENTL: Embodied Navigation Trajectory Learner", arXiv, 2023 (*AI2*). [[Paper](https://arxiv.org/abs/2304.02639)]
 * **MPM**: "Masked Path Modeling for Vision-and-Language Navigation", arXiv, 2023 (*UCLA*). [[Paper](https://arxiv.org/abs/2305.14268)]
@@ -1409,6 +1412,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **BEVGuide**: "BEV-Guided Multi-Modality Fusion for Driving Perception", CVPR, 2023 (*UIUC*). [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Man_BEV-Guided_Multi-Modality_Fusion_for_Driving_Perception_CVPR_2023_paper.html)][[Code (in construction)](https://github.com/YunzeMan/BEVGuide)][[Website](https://yunzeman.github.io/BEVGuide/)]
     * **FB-OCC**: "FB-OCC: 3D Occupancy Prediction based on Forward-Backward View Transformation", CVPRW, 2023 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2307.01492)][[Code (in construction)](https://github.com/NVlabs/FB-BEV)]
     * **FB-BEV**: "FB-BEV: BEV Representation from Forward-Backward View Transformations", ICCV, 2023 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2308.02236)][[Code (in construction)](https://github.com/NVlabs/FB-BEV)]
+    * **BEV-DG**: "BEV-DG: Cross-Modal Learning under Bird's-Eye View for Domain Generalization of 3D Semantic Segmentation", ICCV, 2023 (*Xiamen University*). [[Paper](https://arxiv.org/abs/2308.06530)]
     * **OCBEV**: "OCBEV: Object-Centric BEV Transformer for Multi-View 3D Object Detection", arXiv, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2306.01738)]
 * Biology:
     * **?**: "A State-of-the-art Survey of Object Detection Techniques in Microorganism Image Analysis: from Traditional Image Processing and Classical Machine Learning to Current Deep Convolutional Neural Networks and Potential Visual Transformers", arXiv, 2021 (*Northeastern University*). [[Paper](https://arxiv.org/abs/2105.03148)]
