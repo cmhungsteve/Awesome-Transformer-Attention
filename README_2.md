@@ -237,6 +237,7 @@ If you find this repository useful, please consider citing this list:
     * **LAMP**: "LAMP: Leveraging Language Prompts for Multi-person Pose Estimation", IROS, 2023 (*UCF*). [[Paper](https://arxiv.org/abs/2307.11934)][[PyTorch](https://github.com/shengnanh20/LAMP)]
     * **DiffPose**: "DiffPose: SpatioTemporal Diffusion Model for Video-Based Human Pose Estimation", ICCV, 2023 (*Jilin University*). [[Paper](https://arxiv.org/abs/2307.16687)]
     * **JOTR**: "JOTR: 3D Joint Contrastive Learning with Transformers for Occluded Human Mesh Recovery", ICCV, 2023 (*Alibaba*). [[Paper](https://arxiv.org/abs/2307.16377)]
+    * **GroupPose**: "Group Pose: A Simple Baseline for End-to-End Multi-person Pose Estimation", ICCV, 2023 (*Baidu*). [[Paper](https://arxiv.org/abs/2308.07313)][[Paddle](https://github.com/Michel-liu/GroupPose-Paddle)][[PyTorch](https://github.com/Michel-liu/GroupPose)]
     * **XFormer**: "XFormer: Fast and Accurate Monocular 3D Body Capture", arXiv, 2023 (*Huya Inc, China*). [[Paper](https://arxiv.org/abs/2305.11101)]
     * **4D-Humans**: "Humans in 4D: Reconstructing and Tracking Humans with Transformers", arXiv, 2023 (*Berkeley*). [[Paper](https://arxiv.org/abs/2305.20091)][[PyTorch](https://github.com/shubham-goel/4D-Humans)][[Website](https://shubham-goel.github.io/4dhumans/)]
     * **PGformer**: "PGformer: Proxy-Bridged Game Transformer for Multi-Person Extremely Interactive Motion Prediction", arXiv, 2023 (*Alibaba*). [[Paper](https://arxiv.org/abs/2306.03374)]
@@ -415,6 +416,7 @@ If you find this repository useful, please consider citing this list:
     * **FEAT**: "FEAT: Face Editing with Attention", arXiv, 2022 (*Shenzhen University*). [[Paper](https://arxiv.org/abs/2202.02713)]
     * **CoralStyleCLIP**: "CoralStyleCLIP: Co-optimized Region and Layer Selection for Image Editing", CVPR, 2023 (*Adobe*). [[Paper](https://arxiv.org/abs/2303.05031)]
     * **CLIP2Protect**: "CLIP2Protect: Protecting Facial Privacy Using Text-Guided Makeup via Adversarial Latent Search", CVPR, 2023 (*MBZUAI*). [[Paper](https://arxiv.org/abs/2306.10008)][[Code (in construction)](https://github.com/fahadshamshad/Clip2Protect)]
+    * **RestoreFormer++**: "RestoreFormer++: Towards Real-World Blind Face Restoration from Undegraded Key-Value Pairs", arXiv, 2023 (*HKU*). [[Paper](https://arxiv.org/abs/2308.07228)]
 * Facial Expression:
     * **TransFER**: "TransFER: Learning Relation-aware Facial Expression Representations with Transformers", ICCV, 2021 (*CAS*). [[Paper](https://arxiv.org/abs/2108.11116)]
     * **CVT-Face**: "Robust Facial Expression Recognition with Convolutional Visual Transformers", arXiv, 2021 (*Hunan University*). [[Paper](https://arxiv.org/abs/2103.16854)]
@@ -635,6 +637,7 @@ If you find this repository useful, please consider citing this list:
     * **CODA-Prompt**: "CODA-Prompt: COntinual Decomposed Attention-based Prompting for Rehearsal-Free Continual Learning", CVPR, 2023 (*IBM*). [[Paper](https://arxiv.org/abs/2211.13218)][[PyTorch](https://github.com/GT-RIPL/CODA-Prompt)]
     * **BiRT**: "BiRT: Bio-inspired Replay in Vision Transformers for Continual Learning", ICML, 2023 (*NavInfo, Netherlands*). [[Paper](https://arxiv.org/abs/2305.04769)]
     * **CLR**: "CLR: Channel-wise Lightweight Reprogramming for Continual Learning", ICCV, 2023 (*USC*). [[Paper](https://arxiv.org/abs/2307.11386)][[Code (in construction)](https://github.com/gyhandy/Channel-wise-Lightweight-Reprogramming)]
+    * **CTP**: "CTP: Towards Vision-Language Continual Pretraining via Compatible Momentum Contrast and Topology Preservation", ICCV, 2023 (*Peng Cheng Lab*). [[Paper](https://arxiv.org/abs/2308.07146)][[PyTorch](https://github.com/KevinLight831/CTP)]
     * **PromptFusion**: "PromptFusion: Decoupling Stability and Plasticity for Continual Learning", arXiv, 2023 (*Fudan*). [[Paper](https://arxiv.org/abs/2303.07223)]
     * **MSc-iNCD**: "Large-scale Pre-trained Models are Surprisingly Strong in Incremental Novel Class Discovery", arXiv, 2023 (*University of Trento, Italy*). [[Paper](https://arxiv.org/abs/2303.15975)][[PyTorch (in construction)](https://github.com/OatmealLiu/MSc-iNCD)]
     * **PROOF**: "Learning without Forgetting for Vision-Language Models", arXiv, 2023 (*Nanjing University*). [[Paper](https://arxiv.org/abs/2305.19270)]
@@ -1687,6 +1690,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **VoxelFormer**: "VoxelFormer: Bird's-Eye-View Feature Generation based on Dual-view Attention for Multi-view 3D Object Detection", arXiv, 2023 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2304.01054)][[PyTorch](https://github.com/Lizhuoling/VoxelFormer-public)]
     * **AVIS**: "AVIS: Autonomous Visual Information Seeking with Large Language Models", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2306.08129)]
     * **LCTGen**: "Language Conditioned Traffic Generation", arXiv, 2023 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2307.07947)][[Website](https://ariostgx.github.io/lctgen/)]
+    * **UniWorld**: "UniWorld: Autonomous Driving Pre-training via World Models", arXiv, 2023 (*Peking*). [[Paper](https://arxiv.org/abs/2308.07234)][[Code (in construction)](https://github.com/chaytonmin/UniWorld)]
 * Trajectory Prediction:
     * **mmTransformer**: "Multimodal Motion Prediction with Stacked Transformers", CVPR, 2021 (*CUHK + SenseTime*). [[Paper](https://arxiv.org/abs/2103.11624)][[Code (in construction)](https://github.com/decisionforce/mmTransformer)][[Website](https://decisionforce.github.io/mmTransformer/)]
     * **AgentFormer**: "AgentFormer: Agent-Aware Transformers for Socio-Temporal Multi-Agent Forecasting", ICCV, 2021 (*CMU*). [[Paper](https://arxiv.org/abs/2103.14023)][[PyTorch](https://github.com/Khrylx/AgentFormer)][[Website](https://www.ye-yuan.com/agentformer/)]
@@ -1767,6 +1771,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **DDT**: "DDT: A Diffusion-Driven Transformer-based Framework for Human Mesh Recovery from a Video", arXiv, 2023 (*OPPO*). [[Paper](https://arxiv.org/abs/2303.13397)]
     * **MotionGPT**: "MotionGPT: Finetuned LLMs are General-Purpose Motion Generators", arXiv, 2023 (*USTC*). [[Paper](https://arxiv.org/abs/2306.10900)][[PyTorch (in construction)](https://github.com/qiqiApink/MotionGPT)][[Website](https://qiqiapink.github.io/MotionGPT/)]
     * **MotionGPT**: "MotionGPT: Human Motion as a Foreign Language", arXiv, 2023 (*Fudan*). [[Paper](https://arxiv.org/abs/2306.14795)][[Code (in construction)](https://github.com/OpenMotionLab/MotionGPT)]
+    * **UNIMASK-M**: "A Unified Masked Autoencoder with Patchified Skeletons for Motion Synthesis", arXiv, 2023 (*Technische Universitat Wien (TUWien), Austria*). [[Paper](https://arxiv.org/abs/2308.07301)][[Website](https://sites.google.com/view/estevevallsmascaro/publications/unimask-m)]
 * 3D Object Recognition:
     * **MVT**: "MVT: Multi-view Vision Transformer for 3D Object Recognition", BMVC, 2021 (*Baidu*). [[Paper](https://arxiv.org/abs/2110.13083)]
 * 3D Reconstruction:
