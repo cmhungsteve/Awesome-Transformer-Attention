@@ -1094,6 +1094,7 @@ If you find this repository useful, please consider citing this list:
 * **ScaleVLN**: "Scaling Data Generation in Vision-and-Language Navigation", ICCV, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2307.15644)][[PyTorch](https://github.com/wz0919/ScaleVLN)]
 * **BSG**: "Bird's-Eye-View Scene Graph for Vision-Language Navigation", ICCV, 2023 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2308.04758)][[Code (in construction)](https://github.com/DefaultRui/BEV-Scene-Graph)]
 * **AerialVLN**: "AerialVLN: Vision-and-Language Navigation for UAVs", ICCV, 2023 (*Northwestern Polytechnical University*). [[Paper](https://arxiv.org/abs/2308.06735)]
+* **DREAMWALKER**: "DREAMWALKER: Mental Planning for Continuous Vision-Language Navigation", ICCV, 2023 (*Beijing Institute of Technology*). [[Paper](https://arxiv.org/abs/2308.07498)][[Code (in construction)](https://github.com/hanqingwangai/Dreamwalker)]
 * **MLANet**: "MLANet: Multi-Level Attention Network with Sub-instruction for Continuous Vision-and-Language Navigation", arXiv, 2023 (*Tongji University*). [[Paper](https://arxiv.org/abs/2303.01396)][[PyTorch](https://github.com/RavenKiller/MLA)]
 * **ENTL**: "ENTL: Embodied Navigation Trajectory Learner", arXiv, 2023 (*AI2*). [[Paper](https://arxiv.org/abs/2304.02639)]
 * **MPM**: "Masked Path Modeling for Vision-and-Language Navigation", arXiv, 2023 (*UCLA*). [[Paper](https://arxiv.org/abs/2305.14268)]
@@ -1413,6 +1414,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **FB-OCC**: "FB-OCC: 3D Occupancy Prediction based on Forward-Backward View Transformation", CVPRW, 2023 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2307.01492)][[Code (in construction)](https://github.com/NVlabs/FB-BEV)]
     * **FB-BEV**: "FB-BEV: BEV Representation from Forward-Backward View Transformations", ICCV, 2023 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2308.02236)][[Code (in construction)](https://github.com/NVlabs/FB-BEV)]
     * **BEV-DG**: "BEV-DG: Cross-Modal Learning under Bird's-Eye View for Domain Generalization of 3D Semantic Segmentation", ICCV, 2023 (*Xiamen University*). [[Paper](https://arxiv.org/abs/2308.06530)]
+    * **UniTR**: "UniTR: A Unified and Efficient Multi-Modal Transformer for Bird's-Eye-View Representation", ICCV, 2023 (*Peking*). [[Paper](https://arxiv.org/abs/2308.07732)][[Code (in construction)](https://github.com/Haiyang-W/UniTR)]
     * **OCBEV**: "OCBEV: Object-Centric BEV Transformer for Multi-View 3D Object Detection", arXiv, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2306.01738)]
 * Biology:
     * **?**: "A State-of-the-art Survey of Object Detection Techniques in Microorganism Image Analysis: from Traditional Image Processing and Classical Machine Learning to Current Deep Convolutional Neural Networks and Potential Visual Transformers", arXiv, 2021 (*Northeastern University*). [[Paper](https://arxiv.org/abs/2105.03148)]
