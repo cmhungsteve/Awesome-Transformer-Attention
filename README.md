@@ -1439,7 +1439,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **MSANet**: "MSANet: Multi-Similarity and Attention Guidance for Boosting Few-Shot Segmentation", arXiv, 2022 (*AiV Research Group, Korea*). [[Paper](https://arxiv.org/abs/2206.09667)][[PyTorch](https://github.com/AIVResearch/MSANet)]
     * **MuHS**: "Suppressing the Heterogeneity: A Strong Feature Extractor for Few-shot Segmentation", ICLR, 2023 (*Zhejiang University*). [[Paper](https://openreview.net/forum?id=CGuvK3U09LH)]
     * **VTM**: "Universal Few-shot Learning of Dense Prediction Tasks with Visual Token Matching", ICLR, 2023 (*KAIST*). [[Paper](https://arxiv.org/abs/2303.14969)][[PyTorch](https://github.com/GitGyun/visual_token_matching)]
-    * **SegGPT**: "SegGPT: Segmenting Everything In Context", arXiv, 2023 (*BAAI*). [[Paper](https://arxiv.org/abs/2304.03284)][[PyTorch](https://github.com/baaivision/Painter)]
+    * **SegGPT**: "SegGPT: Segmenting Everything In Context", ICCV, 2023 (*BAAI*). [[Paper](https://arxiv.org/abs/2304.03284)][[PyTorch](https://github.com/baaivision/Painter)]
     * **RefT**: "Reference Twice: A Simple and Unified Baseline for Few-Shot Instance Segmentation", arXiv, 2023 (*Tencent*). [[Paper](https://arxiv.org/abs/2301.01156)][[Code (in construction)](https://github.com/hanyue1648/RefT)]
     * **?**: "Multi-Modal Prototypes for Open-Set Semantic Segmentation", arXiv, 2023 (*Shanghai Jiao Tong*). [[Paper](https://arxiv.org/abs/2307.02003)]
 * X-Supervised:
