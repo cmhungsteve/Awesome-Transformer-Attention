@@ -1103,6 +1103,7 @@ If you find this repository useful, please consider citing this list:
 * **MO-VLN**: "MO-VLN: A Multi-Task Benchmark for Open-set Zero-Shot Vision-and-Language Navigation", arXiv, 2023 (*Sun Yat-Sen University*). [[Paper](https://arxiv.org/abs/2306.10322)][[Code (in construction)](https://github.com/mligg23/MO-VLN/)][[Website](https://mligg23.github.io/MO-VLN-Site/)]
 * **ViNT**: "ViNT: A Foundation Model for Visual Navigation", arXiv, 2023 (*Berkeley*). [[Paper](https://arxiv.org/abs/2306.14846)][[Code (in construction)](https://github.com/PrieureDeSion/visualnav-transformer)][[Website](https://visualnav-transformer.github.io/)]
 * **GridMM**: "GridMM: Grid Memory Map for Vision-and-Language Navigation", arXiv, 2023 (*CAS*). [[Paper](https://arxiv.org/abs/2307.12907)][[Code (in construction)](https://github.com/MrZihan/GridMM)]
+* **A<sup>2</sup>Nav**: "A<sup>2</sup>Nav: Action-Aware Zero-Shot Robot Navigation by Exploiting Vision-and-Language Ability of Foundation Models", arXiv, 2023 (*South China University of Technology*). [[Paper](https://arxiv.org/abs/2308.07997)]
 
 [[Back to Overview](#overview)]
 
