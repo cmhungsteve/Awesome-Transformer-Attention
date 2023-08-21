@@ -1921,9 +1921,10 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
     * **?**: "Action Quality Assessment using Transformers", arXiv, 2022 (*USC*). [[Paper](https://arxiv.org/abs/2207.12318)]
 * Human Interaction:
     * **IGFormer**: "IGFormer: Interaction Graph Transformer for Skeleton-based Human Interaction Recognition", ECCV, 2022 (*The University of Melbourne*). [[Paper](https://arxiv.org/abs/2207.12100)]
-* Domain Adaptation:
+* Cross-Domain:
     * **UDAVT**: "Unsupervised Domain Adaptation for Video Transformers in Action Recognition", ICPR, 2022 (*University of Trento*). [[Paper](https://arxiv.org/abs/2207.12842)][[Code (in construction)](https://github.com/vturrisi/UDAVT)]
     * **AutoLabel**: "AutoLabel: CLIP-based framework for Open-set Video Domain Adaptation", CVPR, 2023 (*University of Trento*). [[Paper](https://arxiv.org/abs/2304.01110)][[PyTorch](https://github.com/gzaraunitn/autolabel)]
+    * **DALL-V**: "The Unreasonable Effectiveness of Large Language-Vision Models for Source-free Video Domain Adaptation", ICCV, 2023 (*University of Trento*). [[Paper](https://arxiv.org/abs/2308.09139)][[Code (in construction)](https://github.com/giaczara/dallv)]
 * Multi-Camera Editing:
     * **TC-Transformer**: "Temporal and Contextual Transformer for Multi-Camera Editing of TV Shows", ECCVW, 2022 (*CUHK*). [[Paper](https://arxiv.org/abs/2210.08737)]
 * Instructional Video:
