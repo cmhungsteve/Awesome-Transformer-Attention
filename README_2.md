@@ -165,6 +165,7 @@ If you find this repository useful, please consider citing this list:
 * **PIC**: "Explore In-Context Learning for 3D Point Cloud Understanding", arXiv, 2023 (*Sun Yat-sen University*). [[Paper](https://arxiv.org/abs/2306.08659)][[Code (in construction)](https://github.com/fanglaosi/Point-In-Context)]
 * **DiT-3D**: "DiT-3D: Exploring Plain Diffusion Transformers for 3D Shape Generation", arXiv, 2023 (*Huawei*). [[Paper](https://arxiv.org/abs/2307.01831)][[Code (in construction)](https://github.com/DiT-3D/DiT-3D)][[Website](https://dit-3d.github.io/)]
 * **PointCAM**: "Self-supervised adversarial masking for 3D point cloud representation learning", arXiv, 2023 (*Wrocław University of Science and Technology, Poland*). [[Paper](https://arxiv.org/abs/2307.05325)][[PyTorch](https://github.com/szacho/pointcam)]
+* **PPT**: "Towards Large-scale 3D Representation Learning with Multi-dataset Point Prompt Training", arXiv, 2023 (*HKU*). [[Paper](https://arxiv.org/abs/2308.09718)][[PyTorch](https://github.com/Pointcept/Pointcept)]
 
 [[Back to Overview](#overview)]
 
@@ -335,6 +336,7 @@ If you find this repository useful, please consider citing this list:
     * **3DMOTFormer**: "3DMOTFormer: Graph Transformer for Online 3D Multi-Object Tracking", ICCV, 2023 (*University of Bonn, Germany*). [[Paper](https://arxiv.org/abs/2308.06635)][[PyTorch](https://github.com/dsx0511/3DMOTFormer)]
     * **GLT-T++**: "GLT-T++: Global-Local Transformer for 3D Siamese Tracking with Ranking Loss", arXiv, 2023 (*Hangzhou Dianzi University*). [[Paper](https://arxiv.org/abs/2304.00242)][[PyTorch](https://github.com/haooozi/GLT-T)]
     * **TrajectoryFormer**: "TrajectoryFormer: 3D Object Tracking Transformer with Predictive Trajectory Hypotheses", arXiv, 2023 (*CUHK*). [[Paper](https://arxiv.org/abs/2306.05888)]
+    * **BOTT**: "BOTT: Box Only Transformer Tracker for 3D Object Tracking", arXiv, 2023 (*Motional*). [[Paper](https://arxiv.org/abs/2308.08753)]
 
 [[Back to Overview](#overview)]
 
@@ -520,6 +522,7 @@ If you find this repository useful, please consider citing this list:
 * **SQUAT**: "Devil's on the Edges: Selective Quad Attention for Scene Graph Generation", CVPR, 2023 (*POSTECH*). [[Paper](https://arxiv.org/abs/2304.03495)][[PyTorch](https://github.com/hesedjds/SQUAT)][[Website](https://cvlab.postech.ac.kr/research/SQUAT/)]
 * **VS<sup>3</sup>**: "Learning to Generate Language-supervised and Open-vocabulary Scene Graph using Pre-trained Visual-Semantic Space", CVPR, 2023 (*CUHK*). [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Zhang_Learning_To_Generate_Language-Supervised_and_Open-Vocabulary_Scene_Graph_Using_Pre-Trained_CVPR_2023_paper.html)]
 * **PVSG**: "Panoptic Video Scene Graph Generation", CVPR, 2023 (*NTU, Singapore*). [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Yang_Panoptic_Video_Scene_Graph_Generation_CVPR_2023_paper.html)]
+* **VETO-MEET**: "Vision Relation Transformer for Unbiased Scene Graph Generation", ICCV, 2023 (*Technical University of Darmstadt, Germany*). [[Paper](https://arxiv.org/abs/2308.09472)][[PyTorch](https://github.com/visinf/veto)]
 * **SGT**: "Revisiting Transformer for Point Cloud-based 3D Scene Graph Generation", arXiv, 2023 (*Beijing University of Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2303.11048)]
 
 [[Back to Overview](#overview)]
@@ -641,6 +644,7 @@ If you find this repository useful, please consider citing this list:
     * **BiRT**: "BiRT: Bio-inspired Replay in Vision Transformers for Continual Learning", ICML, 2023 (*NavInfo, Netherlands*). [[Paper](https://arxiv.org/abs/2305.04769)]
     * **CLR**: "CLR: Channel-wise Lightweight Reprogramming for Continual Learning", ICCV, 2023 (*USC*). [[Paper](https://arxiv.org/abs/2307.11386)][[Code (in construction)](https://github.com/gyhandy/Channel-wise-Lightweight-Reprogramming)]
     * **CTP**: "CTP: Towards Vision-Language Continual Pretraining via Compatible Momentum Contrast and Topology Preservation", ICCV, 2023 (*Peng Cheng Lab*). [[Paper](https://arxiv.org/abs/2308.07146)][[PyTorch](https://github.com/KevinLight831/CTP)]
+    * **C-LN**: "On the Effectiveness of LayerNorm Tuning for Continual Learning in Vision Transformers", ICCVW, 2023 (*University of Trento*). [[Paper](https://arxiv.org/abs/2308.09610)][[PyTorch](https://github.com/tdemin16/Continual-LayerNorm-Tuning)]
     * **PromptFusion**: "PromptFusion: Decoupling Stability and Plasticity for Continual Learning", arXiv, 2023 (*Fudan*). [[Paper](https://arxiv.org/abs/2303.07223)]
     * **MSc-iNCD**: "Large-scale Pre-trained Models are Surprisingly Strong in Incremental Novel Class Discovery", arXiv, 2023 (*University of Trento, Italy*). [[Paper](https://arxiv.org/abs/2303.15975)][[PyTorch (in construction)](https://github.com/OatmealLiu/MSc-iNCD)]
     * **PROOF**: "Learning without Forgetting for Vision-Language Models", arXiv, 2023 (*Nanjing University*). [[Paper](https://arxiv.org/abs/2305.19270)]
@@ -703,6 +707,7 @@ If you find this repository useful, please consider citing this list:
     * **RAP**: "Restore Anything Pipeline: Segment Anything Meets Image Restoration", arXiv, 2023 (*ETHZ*). [[Paper](https://arxiv.org/abs/2305.13093)][[Code (in construction)](https://github.com/eth-siplab/RAP)]
     * **PromptIR**: "PromptIR: Prompting for All-in-One Blind Image Restoration", arXiv, 2023 (*MBZUAI*). [[Paper](https://arxiv.org/abs/2306.13090)][[Code (in construction)](https://github.com/va1shn9v/PromptIR)]
     * **ProRes**: "ProRes: Exploring Degradation-aware Visual Prompt for Universal Image Restoration", arXiv, 2023 (*Horizon Robotics*). [[Paper](https://arxiv.org/abs/2306.13653)][[PyTorch (in construction)](https://github.com/leonmakise/ProRes)]
+    * **C2F-DFT**: "Learning A Coarse-to-Fine Diffusion Transformer for Image Restoration", arXiv, 2023 (*Dalian University of Technology*). [[Paper](https://arxiv.org/abs/2308.08730)][[PyTorch (in construction)](https://github.com/wlydlut/C2F-DFT)]
 * Super-Resolution:
     * **SAN**: "Second-Order Attention Network for Single Image Super-Resolution", CVPR, 2019 (*Tsinghua*). [[Paper](https://openaccess.thecvf.com/content_CVPR_2019/html/Dai_Second-Order_Attention_Network_for_Single_Image_Super-Resolution_CVPR_2019_paper.html)][[PyTorch](https://github.com/daitao/SAN)]
     * **CS-NL**: "Image Super-Resolution with Cross-Scale Non-Local Attention and Exhaustive Self-Exemplars Mining", CVPR, 2020 (*UIUC*). [[Paper](https://arxiv.org/abs/2006.01424)][[PyTorch](https://github.com/SHI-Labs/Cross-Scale-Non-Local-Attention)]
@@ -1096,6 +1101,7 @@ If you find this repository useful, please consider citing this list:
 * **BSG**: "Bird's-Eye-View Scene Graph for Vision-Language Navigation", ICCV, 2023 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2308.04758)][[Code (in construction)](https://github.com/DefaultRui/BEV-Scene-Graph)]
 * **AerialVLN**: "AerialVLN: Vision-and-Language Navigation for UAVs", ICCV, 2023 (*Northwestern Polytechnical University*). [[Paper](https://arxiv.org/abs/2308.06735)]
 * **DREAMWALKER**: "DREAMWALKER: Mental Planning for Continuous Vision-Language Navigation", ICCV, 2023 (*Beijing Institute of Technology*). [[Paper](https://arxiv.org/abs/2308.07498)][[Code (in construction)](https://github.com/hanqingwangai/Dreamwalker)]
+* **Le-RNR-Map**: "Language-enhanced RNR-Map: Querying Renderable Neural Radiance Field maps with natural language", ICCVW, 2023 (*University of Verona, Italy*). [[Paper](https://arxiv.org/abs/2308.08854)][[Code (in construction)](https://github.com/intelligolabs/Le-RNR-Map)][[Website](https://intelligolabs.github.io/Le-RNR-Map/)]
 * **MLANet**: "MLANet: Multi-Level Attention Network with Sub-instruction for Continuous Vision-and-Language Navigation", arXiv, 2023 (*Tongji University*). [[Paper](https://arxiv.org/abs/2303.01396)][[PyTorch](https://github.com/RavenKiller/MLA)]
 * **ENTL**: "ENTL: Embodied Navigation Trajectory Learner", arXiv, 2023 (*AI2*). [[Paper](https://arxiv.org/abs/2304.02639)]
 * **MPM**: "Masked Path Modeling for Vision-and-Language Navigation", arXiv, 2023 (*UCLA*). [[Paper](https://arxiv.org/abs/2305.14268)]
@@ -1417,6 +1423,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **FB-BEV**: "FB-BEV: BEV Representation from Forward-Backward View Transformations", ICCV, 2023 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2308.02236)][[Code (in construction)](https://github.com/NVlabs/FB-BEV)]
     * **BEV-DG**: "BEV-DG: Cross-Modal Learning under Bird's-Eye View for Domain Generalization of 3D Semantic Segmentation", ICCV, 2023 (*Xiamen University*). [[Paper](https://arxiv.org/abs/2308.06530)]
     * **UniTR**: "UniTR: A Unified and Efficient Multi-Modal Transformer for Bird's-Eye-View Representation", ICCV, 2023 (*Peking*). [[Paper](https://arxiv.org/abs/2308.07732)][[Code (in construction)](https://github.com/Haiyang-W/UniTR)]
+    * **SparseBEV**: "SparseBEV: High-Performance Sparse 3D Object Detection from Multi-Camera Videos", ICCV, 2023 (*Nanjing University*). [[Paper](https://arxiv.org/abs/2308.09244)][[Code (in construction)](https://github.com/MCG-NJU/SparseBEV)]
     * **OCBEV**: "OCBEV: Object-Centric BEV Transformer for Multi-View 3D Object Detection", arXiv, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2306.01738)]
 * Biology:
     * **?**: "A State-of-the-art Survey of Object Detection Techniques in Microorganism Image Analysis: from Traditional Image Processing and Classical Machine Learning to Current Deep Convolutional Neural Networks and Potential Visual Transformers", arXiv, 2021 (*Northeastern University*). [[Paper](https://arxiv.org/abs/2105.03148)]
@@ -1776,6 +1783,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **Optimus**: "Transformer-Based Learned Optimization", CVPR, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2212.01055)]
     * **CITL**: "Continuous Intermediate Token Learning with Implicit Motion Manifold for Keyframe Based Motion Interpolation", CVPR, 2023 (*The University of Sydney*). [[Paper](https://arxiv.org/abs/2303.14926)][[PyTorch](https://github.com/MiniEval/CITL)]
     * **OOHMG**: "Being Comes from Not-being: Open-vocabulary Text-to-Motion Generation with Wordless Training", CVPR, 2023 (*Sun Yat-Sen University*). [[Paper](https://arxiv.org/abs/2210.15929)][[Code (in construction)](https://github.com/junfanlin/oohmg)]
+    * **ATOM**: "Language-guided Human Motion Synthesis with Atomic Actions", ACMMM, 2023 (*University at Buffalo*). [[Paper](https://arxiv.org/abs/2308.09611)][[Code (in construction)](https://github.com/yhZhai/ATOM)]
     * **DDT**: "DDT: A Diffusion-Driven Transformer-based Framework for Human Mesh Recovery from a Video", arXiv, 2023 (*OPPO*). [[Paper](https://arxiv.org/abs/2303.13397)]
     * **MotionGPT**: "MotionGPT: Finetuned LLMs are General-Purpose Motion Generators", arXiv, 2023 (*USTC*). [[Paper](https://arxiv.org/abs/2306.10900)][[PyTorch (in construction)](https://github.com/qiqiApink/MotionGPT)][[Website](https://qiqiapink.github.io/MotionGPT/)]
     * **MotionGPT**: "MotionGPT: Human Motion as a Foreign Language", arXiv, 2023 (*Fudan*). [[Paper](https://arxiv.org/abs/2306.14795)][[Code (in construction)](https://github.com/OpenMotionLab/MotionGPT)]
@@ -1794,6 +1802,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **SDF-Former**: "Monocular Scene Reconstruction with 3D SDF Transformers", ICLR, 2023 (*Alibaba*). [[Paper](https://arxiv.org/abs/2301.13510)][[Website](https://weihaosky.github.io/sdfformer/)]
     * **AMVUR**: "A Probabilistic Attention Model with Occlusion-aware Texture Regression for 3D Hand Reconstruction from a Single RGB Image", CVPR, 2023 (*Lancaster University, UK*). [[Paper](https://arxiv.org/abs/2304.14299)]
     * **LIST**: "LIST: Learning Implicitly from Spatial Transformers for Single-View 3D Reconstruction", ICCV, 2023 (*UT Arlington*). [[Paper](https://arxiv.org/abs/2307.12194)]
+    * **LRGT**: "Long-Range Grouping Transformer for Multi-View 3D Reconstruction", ICCV, 2023 (*Macau University of Science and Technology*). [[Paper](https://arxiv.org/abs/2308.08724)]
     * **UMIFormer**: "UMIFormer: Mining the Correlations between Similar Tokens for Multi-View 3D Reconstruction", arXiv, 2023 (*Macau University of Science and Technology*). [[Paper](https://arxiv.org/abs/2302.13987)]
 * 360 Scene:
     * **?**: "Improving 360 Monocular Depth Estimation via Non-local Dense Prediction Transformer and Joint Supervised and Self-supervised Learning", AAAI, 2022 (*Seoul National University*). [[Paper](https://arxiv.org/abs/2109.10563)][[PyTorch](https://github.com/yuniw18/Joint_360depth)]
