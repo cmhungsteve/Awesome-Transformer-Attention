@@ -240,6 +240,7 @@ If you find this repository useful, please consider citing this list:
     * **DiffPose**: "DiffPose: SpatioTemporal Diffusion Model for Video-Based Human Pose Estimation", ICCV, 2023 (*Jilin University*). [[Paper](https://arxiv.org/abs/2307.16687)]
     * **JOTR**: "JOTR: 3D Joint Contrastive Learning with Transformers for Occluded Human Mesh Recovery", ICCV, 2023 (*Alibaba*). [[Paper](https://arxiv.org/abs/2307.16377)]
     * **GroupPose**: "Group Pose: A Simple Baseline for End-to-End Multi-person Pose Estimation", ICCV, 2023 (*Baidu*). [[Paper](https://arxiv.org/abs/2308.07313)][[Paddle](https://github.com/Michel-liu/GroupPose-Paddle)][[PyTorch](https://github.com/Michel-liu/GroupPose)]
+    * **CoordFormer**: "Coordinate Transformer: Achieving Single-stage Multi-person Mesh Recovery from Videos", ICCV, 2023 (*Sun Yat-sen University*). [[Paper](https://arxiv.org/abs/2308.10334)][[Code (in construction)](https://github.com/Li-Hao-yuan/CoordFormer)]
     * **XFormer**: "XFormer: Fast and Accurate Monocular 3D Body Capture", arXiv, 2023 (*Huya Inc, China*). [[Paper](https://arxiv.org/abs/2305.11101)]
     * **4D-Humans**: "Humans in 4D: Reconstructing and Tracking Humans with Transformers", arXiv, 2023 (*Berkeley*). [[Paper](https://arxiv.org/abs/2305.20091)][[PyTorch](https://github.com/shubham-goel/4D-Humans)][[Website](https://shubham-goel.github.io/4dhumans/)]
     * **PGformer**: "PGformer: Proxy-Bridged Game Transformer for Multi-Person Extremely Interactive Motion Prediction", arXiv, 2023 (*Alibaba*). [[Paper](https://arxiv.org/abs/2306.03374)]
@@ -376,6 +377,7 @@ If you find this repository useful, please consider citing this list:
 * **PLIP**: "PLIP: Language-Image Pre-training for Person Representation Learning", arXiv, 2023 (*Huazhong University of Science and Technology*). [[Paper](https://arxiv.org/abs/2305.08386)][[Code (in construction)](https://github.com/Zplusdragon/PLIP)]
 * **SSCP**: "Selecting Learnable Training Samples is All DETRs Need in Crowded Pedestrian Detection", arXiv, 2023 (*Chongqing University of Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2305.10801)]
 * **PI-VL**: "Exploring Part-Informed Visual-Language Learning for Person Re-Identification", arXiv, 2023 (*iFLYTEK, China*). [[Paper](https://arxiv.org/abs/2308.02738)]
+* **TBPS-CLIP**: "An Empirical Study of CLIP for Text-based Person Search", arXiv, 2023 (*Soochow University, China*). [[Paper](https://arxiv.org/abs/2308.10045)][[PyTorch](https://github.com/Flame-Chasers/TBPS-CLIP)]
 
 [[Back to Overview](#overview)]
 
@@ -398,6 +400,7 @@ If you find this repository useful, please consider citing this list:
     * **MFT**: "Multi-Modal Learning for AU Detection Based on Multi-Head Fused Transformers", arXiv, 2022 (*SUNY Binghamton*). [[Paper](https://arxiv.org/abs/2203.11441)]
     * **VC-TRSF**: "Self-supervised Video-centralised Transformer for Video Face Clustering", arXiv, 2022 (*ICL*). [[Paper](https://arxiv.org/abs/2203.13166)]
     * **MARLIN**: "MARLIN: Masked Autoencoder for facial video Representation LearnINg", CVPR, 2023 (*Monash University, Australia*). [[Paper](https://arxiv.org/abs/2211.06627)][[PyTorch](https://github.com/ControlNet/MARLIN)]
+    * **TransFace**: "TransFace: Calibrating Transformer Training for Face Recognition from a Data-Centric Perspective", ICCV, 2023 (*Alibaba*). [[Paper](https://arxiv.org/abs/2308.10133)][[PyTorch](https://github.com/DanJun6737/TransFace)]
 * Facial Landmark:
     * **Clusformer**: "Clusformer: A Transformer Based Clustering Approach to Unsupervised Large-Scale Face and Visual Landmark Recognition", CVPR, 2021 (*VinAI Research, Vietnam*). [[Paper](https://openaccess.thecvf.com/content/CVPR2021/html/Nguyen_Clusformer_A_Transformer_Based_Clustering_Approach_to_Unsupervised_Large-Scale_Face_CVPR_2021_paper.html)]
     * **LOTR**: "LOTR: Face Landmark Localization Using Localization Transformer", arXiv, 2021 (*Sertis, Thailand*). [[Paper](https://arxiv.org/abs/2109.10057)]
@@ -441,6 +444,7 @@ If you find this repository useful, please consider citing this list:
     * **APViT**: "Vision Transformer with Attentive Pooling for Robust Facial Expression Recognition", arXiv, 2022 (*Baidu*). [[Paper](https://arxiv.org/abs/2212.05463)]
     * **Micron-BERT**: "Micron-BERT: BERT-based Facial Micro-Expression Recognition", CVPR, 2023 (*University of Arkansas*). [[Paper](https://arxiv.org/abs/2304.03195)][[PyTorch (in construction)](https://github.com/uark-cviu/Micron-BERT)]
     * **FRL-DGT**: "Feature Representation Learning with Adaptive Displacement Generation and Transformer Fusion for Micro-Expression Recognition", CVPR, 2023 (*Wuhan University*). [[Paper](https://arxiv.org/abs/2304.04420)]
+    * **Text2Listen**: "Can Language Models Learn to Listen?", ICCV, 2023 (*Berkeley*). [[Paper](https://arxiv.org/abs/2308.10897)][[Website](https://people.eecs.berkeley.edu/~evonne_ng/projects/text2listen/)]
 * Attack-related:
     * **?**: "Video Transformer for Deepfake Detection with Incremental Learning", ACMMM, 2021 (*MBZUAI*). [[Paper](https://arxiv.org/abs/2108.05307)]
     * **ViTranZFAS**: "On the Effectiveness of Vision Transformers for Zero-shot Face Anti-Spoofing", International Joint Conference on Biometrics (IJCB), 2021 (*Idiap*). [[Paper](https://arxiv.org/abs/2011.08019)]
@@ -644,6 +648,7 @@ If you find this repository useful, please consider citing this list:
     * **BiRT**: "BiRT: Bio-inspired Replay in Vision Transformers for Continual Learning", ICML, 2023 (*NavInfo, Netherlands*). [[Paper](https://arxiv.org/abs/2305.04769)]
     * **CLR**: "CLR: Channel-wise Lightweight Reprogramming for Continual Learning", ICCV, 2023 (*USC*). [[Paper](https://arxiv.org/abs/2307.11386)][[Code (in construction)](https://github.com/gyhandy/Channel-wise-Lightweight-Reprogramming)]
     * **CTP**: "CTP: Towards Vision-Language Continual Pretraining via Compatible Momentum Contrast and Topology Preservation", ICCV, 2023 (*Peng Cheng Lab*). [[Paper](https://arxiv.org/abs/2308.07146)][[PyTorch](https://github.com/KevinLight831/CTP)]
+    * **APG**: "When Prompt-based Incremental Learning Does Not Meet Strong Pretraining", ICCV, 2023 (*Sun Yat-sen University*). [[Paper](https://arxiv.org/abs/2308.10445)][[PyTorch (in construction)](https://github.com/TOM-tym/APG)]
     * **C-LN**: "On the Effectiveness of LayerNorm Tuning for Continual Learning in Vision Transformers", ICCVW, 2023 (*University of Trento*). [[Paper](https://arxiv.org/abs/2308.09610)][[PyTorch](https://github.com/tdemin16/Continual-LayerNorm-Tuning)]
     * **PromptFusion**: "PromptFusion: Decoupling Stability and Plasticity for Continual Learning", arXiv, 2023 (*Fudan*). [[Paper](https://arxiv.org/abs/2303.07223)]
     * **MSc-iNCD**: "Large-scale Pre-trained Models are Surprisingly Strong in Incremental Novel Class Discovery", arXiv, 2023 (*University of Trento, Italy*). [[Paper](https://arxiv.org/abs/2303.15975)][[PyTorch (in construction)](https://github.com/OatmealLiu/MSc-iNCD)]
@@ -1038,6 +1043,7 @@ If you find this repository useful, please consider citing this list:
     * **S<sup>2</sup>-Transformer**: "S<sup>2</sup>-Transformer for Mask-Aware Hyperspectral Image Reconstruction", arXiv, 2022 (*Rochester Institute of Technology*). [[Paper](https://arxiv.org/abs/2209.12075)]
     * **NLOST**: "NLOST: Non-Line-of-Sight Imaging with Transformer", CVPR, 2023 (*USTC*). [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Li_NLOST_Non-Line-of-Sight_Imaging_With_Transformer_CVPR_2023_paper.html)][[Code (in construction)](https://github.com/Depth2World/NLOST)]
     * **MinD-Vis**: "Seeing Beyond the Brain: Conditional Diffusion Model with Sparse Masked Modeling for Vision Decoding", CVPR, 2023 (*NUS*). [[Paper](https://arxiv.org/abs/2211.06956)][[PyTorch](https://github.com/zjc062/mind-vis)][[Website](https://mind-vis.github.io/)]
+    * **PADUT**: "Pixel Adaptive Deep Unfolding Transformer for Hyperspectral Image Reconstruction", ICCV, 2023 (*Beijing Institute of Technology*). [[Paper](https://arxiv.org/abs/2308.10820)]
 * Radiance Fields:
     * **NeXT**: "NeXT: Towards High Quality Neural Radiance Fields via Multi-Skip Transformer", ECCV, 2022 (*Tsinghua University*). [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/1810_ECCV_2022_paper.php)][[JAX](https://github.com/Crishawy/NeXT)]
     * **TransNeRF**: "Generalizable Neural Radiance Fields for Novel View Synthesis with Transformer", arXiv, 2022 (*UBC*). [[Paper](https://arxiv.org/abs/2206.05375)]
@@ -1101,6 +1107,8 @@ If you find this repository useful, please consider citing this list:
 * **BSG**: "Bird's-Eye-View Scene Graph for Vision-Language Navigation", ICCV, 2023 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2308.04758)][[Code (in construction)](https://github.com/DefaultRui/BEV-Scene-Graph)]
 * **AerialVLN**: "AerialVLN: Vision-and-Language Navigation for UAVs", ICCV, 2023 (*Northwestern Polytechnical University*). [[Paper](https://arxiv.org/abs/2308.06735)]
 * **DREAMWALKER**: "DREAMWALKER: Mental Planning for Continuous Vision-Language Navigation", ICCV, 2023 (*Beijing Institute of Technology*). [[Paper](https://arxiv.org/abs/2308.07498)][[Code (in construction)](https://github.com/hanqingwangai/Dreamwalker)]
+* **VLN-PETL**: "VLN-PETL: Parameter-Efficient Transfer Learning for Vision-and-Language Navigation", ICCV, 2023 (*The University of Adelaide, Australia*). [[Paper](https://arxiv.org/abs/2308.10172)][[Code (in construction)](https://github.com/YanyuanQiao/VLN-PETL)]
+* **MiC**: "March in Chat: Interactive Prompting for Remote Embodied Referring Expression", ICCV, 2023 (*The University of Adelaide, Australia*). [[Paper](https://arxiv.org/abs/2308.10141)][[Code (in construction)](https://github.com/YanyuanQiao/MiC)]
 * **Le-RNR-Map**: "Language-enhanced RNR-Map: Querying Renderable Neural Radiance Field maps with natural language", ICCVW, 2023 (*University of Verona, Italy*). [[Paper](https://arxiv.org/abs/2308.08854)][[Code (in construction)](https://github.com/intelligolabs/Le-RNR-Map)][[Website](https://intelligolabs.github.io/Le-RNR-Map/)]
 * **MLANet**: "MLANet: Multi-Level Attention Network with Sub-instruction for Continuous Vision-and-Language Navigation", arXiv, 2023 (*Tongji University*). [[Paper](https://arxiv.org/abs/2303.01396)][[PyTorch](https://github.com/RavenKiller/MLA)]
 * **ENTL**: "ENTL: Embodied Navigation Trajectory Learner", arXiv, 2023 (*AI2*). [[Paper](https://arxiv.org/abs/2304.02639)]
@@ -1729,6 +1737,8 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **ViP3D**: "ViP3D: End-to-end Visual Trajectory Prediction via 3D Agent Queries", CVPR, 2023 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2208.01582)][[PyTorch](https://github.com/Tsinghua-MARS-Lab/ViP3D)][[Website](https://tsinghua-mars-lab.github.io/ViP3D/)]
     * **USST**: "Uncertainty-aware State Space Transformer for Egocentric 3D Hand Trajectory Forecasting", ICCV, 2023 (*OPPO*). [[Paper](https://arxiv.org/abs/2307.08243)]
     * **JRTransformer**: "Joint-Relation Transformer for Multi-Person Motion Prediction", ICCV, 2023 (*Shanghai Jiao Tong*). [[Paper](https://arxiv.org/abs/2308.04808)][[PyTorch (in construction)](https://github.com/MediaBrain-SJTU/JRTransformer)]
+    * **Forecast-MAE**: "Forecast-MAE: Self-supervised Pre-training for Motion Forecasting with Masked Autoencoders", ICCV, 2023 (*HKUST*). [[Paper](https://arxiv.org/abs/2308.09882)][[PyTorch](https://github.com/jchengai/forecast-mae)]
+    * **MacFormer**: "MacFormer: Map-Agent Coupled Transformer for Real-time and Robust Trajectory Prediction", RAL, 2023 (*HKUST*). [[Paper](https://arxiv.org/abs/2308.10280)]
     * **InCrowdFormer**: "InCrowdFormer: On-Ground Pedestrian World Model From Egocentric Views", arXiv, 2023 (*Kyoto University*). [[Paper](https://arxiv.org/abs/2303.09534)]
     * **OccFormer**: "OccFormer: Dual-path Transformer for Vision-based 3D Semantic Occupancy Prediction", arXiv, 2023 (*PhiGent Robotics, China*). [[Paper](https://arxiv.org/abs/2304.05316)][[PyTorch](https://github.com/zhangyp15/OccFormer)]
     * **MTR++**: "MTR++: Multi-Agent Motion Prediction with Symmetric Scene Modeling and Guided Intention Querying", arXiv, 2023 (*MPI*). [[Paper](https://arxiv.org/abs/2306.17770)]
