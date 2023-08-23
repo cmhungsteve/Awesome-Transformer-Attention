@@ -66,7 +66,6 @@ If you find this repository useful, please consider citing this list:
 * **CT**: "Cloud Transformers: A Universal Approach To Point Cloud Processing Tasks", ICCV, 2021 (*Samsung*). [[Paper](https://arxiv.org/abs/2007.11679)]
 * **3DVG-Transformer**: "3DVG-Transformer: Relation Modeling for Visual Grounding on Point Clouds", ICCV, 2021 (*Beihang University*). [[Paper](https://openaccess.thecvf.com/content/ICCV2021/html/Zhao_3DVG-Transformer_Relation_Modeling_for_Visual_Grounding_on_Point_Clouds_ICCV_2021_paper.html)]
 * **PPT-Net**: "Pyramid Point Cloud Transformer for Large-Scale Place Recognition", ICCV, 2021 (*Nanjing University of Science and Technology*). [[Paper](https://openaccess.thecvf.com/content/ICCV2021/html/Hui_Pyramid_Point_Cloud_Transformer_for_Large-Scale_Place_Recognition_ICCV_2021_paper.html)]
-* **LTTR**: "3D Object Tracking with Transformer", BMVC, 2021 (*Northeastern University, China*). [[Paper](https://arxiv.org/abs/2110.14921)][[Code (in construction)](https://github.com/3bobo/lttr)]
 * **?**: "Shape registration in the time of transformers", NeurIPS, 2021 (*Sapienza University of Rome*). [[Paper](https://arxiv.org/abs/2106.13679)]
 * **YOGO**: "You Only Group Once: Efficient Point-Cloud Processing with Token Representation and Relation Inference Module", arXiv, 2021 (*Berkeley*). [[Paper](https://arxiv.org/abs/2103.09975)][[PyTorch](https://github.com/chenfengxu714/YOGO)]
 * **DTNet**: "Dual Transformer for Point Cloud Analysis", arXiv, 2021 (*Southwest University*). [[Paper](https://arxiv.org/abs/2104.13044)]
@@ -330,11 +329,14 @@ If you find this repository useful, please consider citing this list:
     * **?**: "Tracking Everything Everywhere All at Once", arXiv, 2023 (*Cornell*). [[Paper](https://arxiv.org/abs/2306.05422)][[Website](https://omnimotion.github.io/)]
     * **?**: "A Dual-Source Attention Transformer for Multi-Person Pose Tracking", arXiv, 2023 (*University of Bonn, Germany*). [[Paper](https://arxiv.org/abs/2306.05807)]
 * 3D:
+    * **LTTR**: "3D Object Tracking with Transformer", BMVC, 2021 (*Northeastern University, China*). [[Paper](https://arxiv.org/abs/2110.14921)][[Code (in construction)](https://github.com/3bobo/lttr)]
     * **STNet**: "3D Siamese Transformer Network for Single Object Tracking on Point Clouds", ECCV, 2022 (*Nanjing University of Science and Technology*). [[Paper](https://arxiv.org/abs/2207.11995)][[PyTorch](https://github.com/fpthink/STNet)]
     * **CMT**: "CMT: Context-Matching-Guided Transformer for 3D Tracking in Point Clouds", ECCV, 2022 (*USTC*). [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/1253_ECCV_2022_paper.php)]
     * **InterTrack**: "InterTrack: Interaction Transformer for 3D Multi-Object Tracking", arXiv, 2022 (*University of Toronto*). [[Paper](https://arxiv.org/abs/2208.08041)]
     * **GLT-T**: "GLT-T: Global-Local Transformer Voting for 3D Single Object Tracking in Point Clouds", AAAI, 2023 (*Hangzhou Dianzi University*). [[Paper](https://arxiv.org/abs/2211.10927)][[PyTorch](https://github.com/haooozi/GLT-T)]
     * **3DMOTFormer**: "3DMOTFormer: Graph Transformer for Online 3D Multi-Object Tracking", ICCV, 2023 (*University of Bonn, Germany*). [[Paper](https://arxiv.org/abs/2308.06635)][[PyTorch](https://github.com/dsx0511/3DMOTFormer)]
+    * **CiteTracker**: "CiteTracker: Correlating Image and Text for Visual Tracking", ICCV, 2023 (*Peng Cheng Lab*). [[Paper](https://arxiv.org/abs/2308.11322)][[Code (in construction)](https://github.com/NorahGreen/CiteTracker)]
+    * **MoMA-M3T**: "Delving into Motion-Aware Matching for Monocular 3D Object Tracking", ICCV, 2023 (*UC Merced*). [[Paper](https://arxiv.org/abs/2308.11607)][[Code (in construction)](https://github.com/kuanchihhuang/MoMA-M3T)]
     * **GLT-T++**: "GLT-T++: Global-Local Transformer for 3D Siamese Tracking with Ranking Loss", arXiv, 2023 (*Hangzhou Dianzi University*). [[Paper](https://arxiv.org/abs/2304.00242)][[PyTorch](https://github.com/haooozi/GLT-T)]
     * **TrajectoryFormer**: "TrajectoryFormer: 3D Object Tracking Transformer with Predictive Trajectory Hypotheses", arXiv, 2023 (*CUHK*). [[Paper](https://arxiv.org/abs/2306.05888)]
     * **BOTT**: "BOTT: Box Only Transformer Tracker for 3D Object Tracking", arXiv, 2023 (*Motional*). [[Paper](https://arxiv.org/abs/2308.08753)]
@@ -506,6 +508,7 @@ If you find this repository useful, please consider citing this list:
 * **GPT-NAS**: "GPT-NAS: Neural Architecture Search with the Generative Pre-Trained Model", arXiv, 2023 (*Sichuan University*). [[Paper](https://arxiv.org/abs/2305.05351)]
 * **NAR-Former-V2**: "NAR-Former V2: Rethinking Transformer for Universal Neural Network Representation Learning", arXiv, 2023 (*Intellifusion, China*). [[Paper](https://arxiv.org/abs/2306.10792)]
 * **AutoST**: "AutoST: Training-free Neural Architecture Search for Spiking Transformers", arXiv, 2023 (*NC State*). [[Paper](https://arxiv.org/abs/2307.00293)]
+* **TurboViT**: "TurboViT: Generating Fast Vision Transformers via Generative Architecture Search", arXiv, 2023 (*University of Waterloo*). [[Paper](https://arxiv.org/abs/2308.11421)]
 
 [[Back to Overview](#overview)]
 
@@ -566,6 +569,7 @@ If you find this repository useful, please consider citing this list:
     * **PMTrans**: "Patch-Mix Transformer for Unsupervised Domain Adaptation: A Game Perspective", CVPR, 2023 (*HKUST*). [[Paper](https://arxiv.org/abs/2303.13434)][[Website (in construction)](https://vlis2022.github.io/cvpr23/PMTrans)]
     * **ALOFT**: "ALOFT: A Lightweight MLP-like Architecture with Dynamic Low-frequency Transform for Domain Generalization", CVPR, 2023 (*Nanjing University*). [[Paper](https://arxiv.org/abs/2303.11674)][[PyTorch](https://github.com/lingeringlight/ALOFT/)]
     * **PromptStyler**: "PromptStyler: Prompt-driven Style Generation for Source-free Domain Generalization", ICCV, 2023 (*Agency for Defense Development, Korea*). [[Paper](https://arxiv.org/abs/2307.15199)][[Website](https://promptstyler.github.io/)]
+    * **ConTraCon**: "Exemplar-Free Continual Transformer with Convolutions", ICCV, 2023 (*IIT Kharagpur*). [[Paper](https://arxiv.org/abs/2308.11357)][[Website](https://cvir.github.io/projects/contracon)]
     * **AD-CLIP**: "AD-CLIP: Adapting Domains in Prompt Space Using CLIP", ICCVW, 2023 (*IIT Bombay*). [[Paper](https://arxiv.org/abs/2308.05659)]
     * **StyLIP**: "StyLIP: Multi-Scale Style-Conditioned Prompt Learning for CLIP-based Domain Generalization", arXiv, 2023 (*TUM*). [[Paper](https://arxiv.org/abs/2302.09251)]
     * **FedCLIP**: "FedCLIP: Fast Generalization and Personalization for CLIP in Federated Learning", arXiv, 2023 (*CAS*). [[Paper](https://arxiv.org/abs/2302.13485)][[PyTorch](https://github.com/microsoft/PersonalizedFL)]
@@ -1813,6 +1817,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **AMVUR**: "A Probabilistic Attention Model with Occlusion-aware Texture Regression for 3D Hand Reconstruction from a Single RGB Image", CVPR, 2023 (*Lancaster University, UK*). [[Paper](https://arxiv.org/abs/2304.14299)]
     * **LIST**: "LIST: Learning Implicitly from Spatial Transformers for Single-View 3D Reconstruction", ICCV, 2023 (*UT Arlington*). [[Paper](https://arxiv.org/abs/2307.12194)]
     * **LRGT**: "Long-Range Grouping Transformer for Multi-View 3D Reconstruction", ICCV, 2023 (*Macau University of Science and Technology*). [[Paper](https://arxiv.org/abs/2308.08724)]
+    * **Spectral-Graphormer**: "Spectral Graphormer: Spectral Graph-based Transformer for Egocentric Two-Hand Reconstruction using Multi-View Color Images", ICCV, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2308.11015)]
     * **UMIFormer**: "UMIFormer: Mining the Correlations between Similar Tokens for Multi-View 3D Reconstruction", arXiv, 2023 (*Macau University of Science and Technology*). [[Paper](https://arxiv.org/abs/2302.13987)]
 * 360 Scene:
     * **?**: "Improving 360 Monocular Depth Estimation via Non-local Dense Prediction Transformer and Joint Supervised and Self-supervised Learning", AAAI, 2022 (*Seoul National University*). [[Paper](https://arxiv.org/abs/2109.10563)][[PyTorch](https://github.com/yuniw18/Joint_360depth)]
