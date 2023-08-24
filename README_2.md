@@ -267,6 +267,7 @@ If you find this repository useful, please consider citing this list:
     * **TokenHPE**: "TokenHPE: Learning Orientation Tokens for Efficient Head Pose Estimation via Transformers", CVPR, 2023 (*Central China Normal University*). [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Zhang_TokenHPE_Learning_Orientation_Tokens_for_Efficient_Head_Pose_Estimation_via_CVPR_2023_paper.html)][[Code (in construction)](https://github.com/zc2023/TokenHPE)]
     * **CLAMP**: "CLAMP: Prompt-based Contrastive Learning for Connecting Language and Animal Pose", CVPR, 2023 (*The University of Sydney*). [[Paper](https://arxiv.org/abs/2206.11752)][[Code (in construction)](https://github.com/xuzhang1199/CLAMP)]
     * **DFTr**: "Deep Fusion Transformer Network with Weighted Vector-Wise Keypoints Voting for Robust 6D Object Pose Estimation", ICCV, 2023 (*The Hong Kong Polytechnic University*). [[Paper](https://arxiv.org/abs/2308.05438)][[PyTorch (in construction)](https://github.com/junzastar/DFTr_Voting)]
+    * **c2f-MS-Trans**: "Coarse-to-Fine Multi-Scene Pose Regression with Transformers", TPAMI, 2023 (*Bar-Ilan University (BIU), Israel*). [[Paper](https://arxiv.org/abs/2308.11783)]
     * **TransPoser**: "TransPoser: Transformer as an Optimizer for Joint Object Shape and Pose Estimation", arXiv, 2023 (*Kyoto University*). [[Paper](https://arxiv.org/abs/2303.13477)]
     * **RelPose++**: "RelPose++: Recovering 6D Poses from Sparse-view Observations", arXiv, 2023 (*CMU*). [[Paper](https://arxiv.org/abs/2305.04926)][[PyTorch](https://github.com/amyxlase/relpose-plus-plus)][[Website](https://amyxlase.github.io/relpose-plus-plus/)]
 
@@ -1603,6 +1604,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **MOOD**: "Rethinking Out-of-distribution (OOD) Detection: Masked Image Modeling is All You Need", CVPR, 2023 (*CUHK*). [[Paper](https://arxiv.org/abs/2302.02615)][[PyTorch](https://github.com/JulietLJY/MOOD)]
     * **?**: "Masked Images Are Counterfactual Samples for Robust Fine-tuning", CVPR, 2023 (*Sun Yat-sen University*). [[Paper](https://arxiv.org/abs/2303.03052)][[PyTorch](https://github.com/Coxy7/robust-finetuning)]
     * **CLIPood**: "CLIPood: Generalizing CLIP to Out-of-Distributions", ICML, 2023 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2302.00864)]
+    * **CLIPN**: "CLIPN for Zero-Shot OOD Detection: Teaching CLIP to Say No", ICCV, 2023 (*HKUST*). [[Paper](https://arxiv.org/abs/2308.12213)][[PyTorch](https://github.com/xmed-lab/CLIPN)]
     * **GL-MCM**: "Zero-Shot In-Distribution Detection in Multi-Object Settings Using Vision-Language Foundation Models", arXiv, 2023 (*The University of Tokyo*). [[Paper](https://arxiv.org/abs/2304.04521)]
     * **LoCoOp**: "LoCoOp: Few-Shot Out-of-Distribution Detection via Prompt Learning", arXiv, 2023 (*The University of Tokyo*). [[Paper](https://arxiv.org/abs/2306.01293)][[Code (in construction)](https://github.com/AtsuMiyai/LoCoOp)]
     * **?**: "Distilling Large Vision-Language Model with Out-of-Distribution Generalizability", arXiv, 2023 (*UCSD*). [[Paper](https://arxiv.org/abs/2307.03135)][[PyTorch](https://github.com/xuanlinli17/large_vlm_distillation_ood)]
@@ -1670,6 +1672,12 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **MGP-STR**: "Multi-Granularity Prediction for Scene Text Recognition", ECCV, 2022 (*Alibaba*). [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/3821_ECCV_2022_paper.php)]
     * **VLAMD**: "Vision-Language Adaptive Mutual Decoder for OOV-STR", ECCVW, 2022 (*iFLYTEK, China*). [[Paper](https://arxiv.org/abs/2209.00859)]
     * **MVLT**: "Masked Vision-Language Transformers for Scene Text Recognition", BMVC, 2022 (*Westone Information Industry Inc., China*). [[Paper](https://arxiv.org/abs/2211.04785)][[PyTorch](https://github.com/onealwj/MVLT)]
+* Sign Language:
+    * **LWTA**: "Stochastic Transformer Networks with Linear Competing Units: Application to end-to-end SL Translation", ICCV, 2021 (*Cyprus University of Technology*). [[Paper](https://arxiv.org/abs/2109.13318)]
+    * **CiCo**: "CiCo: Domain-Aware Sign Language Retrieval via Cross-Lingual Contrastive Learning", CVPR, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2303.12793)][[Code (in construction)](https://github.com/FangyunWei/SLRT)]
+    * **GFSLT-VLP**: "Gloss-free Sign Language Translation: Improving from Visual-Language Pretraining", ICCV, 2023 (*Macau University of Science and Technology (MUST)*). [[Paper](https://arxiv.org/abs/2307.14768)][[Code (in construction)](https://github.com/zhoubenjia/GFSLT-VLP)]
+    * **IP-SLT**: "Sign Language Translation with Iterative Prototype", ICCV, 2023 (*USTC*). [[Paper](https://arxiv.org/abs/2308.12191)]
+    * **SignBERT+**: "SignBERT+: Hand-model-aware Self-supervised Pre-training for Sign Language Understanding", TPAMI, 2023 (*USTC*). [[Paper](https://arxiv.org/abs/2305.04868)][[Website](https://signbert-zoo.github.io/)]
 * Spike:
     * **Spikformer**: "Spikformer: When Spiking Neural Network Meets Transformer", arXiv, 2022 (*Peking*). [[Paper](https://arxiv.org/abs/2209.15425)]
 * Stereo:
@@ -1776,6 +1784,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **LIQE**: "Blind Image Quality Assessment via Vision-Language Correspondence: A Multitask Learning Perspective", CVPR, 2023 (*Shanghai Jiao Tong*). [[Paper](https://arxiv.org/abs/2303.14968)][[PyTorch](https://github.com/zwx8981/LIQE)]
     * **MRET**: "MRET: Multi-resolution Transformer for Video Quality Assessment", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2303.07489)]
     * **SAM-IQA**: "SAM-IQA: Can Segment Anything Boost Image Quality Assessment?", arXiv, 2023 (*Megvii*). [[Paper](https://arxiv.org/abs/2307.04455)][[Code (in construction)](https://github.com/Hedlen/SAM-IQA)]
+    * **LoDa**: "Local Distortion Aware Efficient Transformer Adaptation for Image Quality Assessment", arXiv, 2023 (*Wuhan University*). [[Paper](https://arxiv.org/abs/2308.12001)]
 * Visual Reasoning:
     * **SAViR-T**: "SAViR-T: Spatially Attentive Visual Reasoning with Transformers", arXiv, 2022 (*Rutgers University*). [[Paper](https://arxiv.org/abs/2206.09265)]
 * 3D Human Texture Estimation:
