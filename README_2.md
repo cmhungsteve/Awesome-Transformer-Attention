@@ -1411,6 +1411,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
 * **HVTSurv**: "HVTSurv: Hierarchical Vision Transformer for Patient-Level Survival Prediction from Whole Slide Image", AAAI, 2023 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2306.17373)][[PyTorch](https://github.com/szc19990412/HVTSurv)]
 * **AMIGO**: "AMIGO: Sparse Multi-Modal Graph Transformer with Shared-Context Processing for Representation Learning of Giga-pixel Images", CVPR, 2023 (*UBC*). [[Paper](https://arxiv.org/abs/2303.00865)]
 * **ACAT**: "ACAT: Adversarial Counterfactual Attention for Classification and Detection in Medical Imaging", ICML, 2023 (*University of Edinburgh, UK*). [[Paper](https://arxiv.org/abs/2303.15421)]
+* **ConSlide**: "ConSlide: Asynchronous Hierarchical Interaction Transformer with Breakup-Reorganize Rehearsal for Continual Whole Slide Image Analysis", ICCV, 2023 (*HKU*). [[Paper](https://arxiv.org/abs/2308.13324)]
 * **ViT-DAE**: "ViT-DAE: Transformer-driven Diffusion Autoencoder for Histopathology Image Analysis", arXiv, 2023 (*Stony Brook*). [[Paper](https://arxiv.org/abs/2304.01053)]
 
 [[Back to Overview](#overview)]
@@ -1482,6 +1483,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **EvT**: "Event Transformer: A sparse-aware solution for efficient event data processing", arXiv, 2022 (*Universidad de Zaragoza, Spain*). [[Paper](https://arxiv.org/abs/2204.03355)][[PyTorch](https://github.com/AlbertoSabater/EventTransformer)]
     * **ETB**: "Event Transformer", arXiv, 2022 (*Nanjing University*). [[Paper](https://arxiv.org/abs/2204.05172)]
     * **RVT**: "Recurrent Vision Transformers for Object Detection with Event Cameras", CVPR, 2023 (*University of Zurich*). [[Paper](https://arxiv.org/abs/2212.05598)]
+    * **Eventful-Transformer**: "Eventful Transformers: Leveraging Temporal Redundancy in Vision Transformers", ICCV, 2023 (*UW Madison*). [[Paper](https://arxiv.org/abs/2308.13494)][[PyTorch](https://github.com/WISION-Lab/eventful-transformer)][[Website](https://wisionlab.com/project/eventful-transformers/)]
     * **SODFormer**: "SODFormer: Streaming Object Detection with Transformer Using Events and Frames", TPAMI, 2023 (*Peking*). [[Paper](https://arxiv.org/abs/2308.04047)][[PyTorch](https://github.com/dianzl/SODFormer)]
 * Fashion:
     * **Kaleido-BERT**: "Kaleido-BERT: Vision-Language Pre-training on Fashion Domain", CVPR, 2021 (*Alibaba*). [[Paper](https://arxiv.org/abs/2103.16110)][[Tensorflow](https://github.com/mczhuge/Kaleido-BERT)]
@@ -1840,6 +1842,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **CoVisPose**: "CoVisPose: Co-Visibility Pose Transformer for Wide-Baseline Relative Pose Estimation in 360° Indoor Panoramas", ECCV, 2022 (*Zillow*). [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/5330_ECCV_2022_paper.php)]
     * **SPH**: "Spherical Transformer", arXiv, 2022 (*Chung-Ang University, Korea*). [[Paper](https://arxiv.org/abs/2202.04942)]
     * **PanoSwin**: "PanoSwin: a Pano-style Swin Transformer for Panorama Understanding", CVPR, 2023 (*Fudan*). [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Ling_PanoSwin_A_Pano-Style_Swin_Transformer_for_Panorama_Understanding_CVPR_2023_paper.html)][[PyTorch](https://github.com/1069066484/PanoSwinTransformerObjectDetection)]
+    * **SalViT360**: "Spherical Vision Transformer for 360-degree Video Saliency Prediction", BMVC, 2023 (*Koc University, Turkey*). [[Paper](https://arxiv.org/abs/2308.13004)]
     * **PanoContext-Former**: "PanoContext-Former: Panoramic Total Scene Understanding with a Transformer", arXiv, 2023 (*Alibaba*). [[Paper](https://arxiv.org/abs/2305.12497)]
 * Others:
     * **?**: "Connecting Compression Spaces with Transformer for Approximate Nearest Neighbor Search", ECCV, 2022 (*Intellifusion, China*). [[Paper](https://arxiv.org/abs/2107.14415)]
