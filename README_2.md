@@ -572,6 +572,7 @@ If you find this repository useful, please consider citing this list:
     * **ALOFT**: "ALOFT: A Lightweight MLP-like Architecture with Dynamic Low-frequency Transform for Domain Generalization", CVPR, 2023 (*Nanjing University*). [[Paper](https://arxiv.org/abs/2303.11674)][[PyTorch](https://github.com/lingeringlight/ALOFT/)]
     * **PromptStyler**: "PromptStyler: Prompt-driven Style Generation for Source-free Domain Generalization", ICCV, 2023 (*Agency for Defense Development, Korea*). [[Paper](https://arxiv.org/abs/2307.15199)][[Website](https://promptstyler.github.io/)]
     * **ConTraCon**: "Exemplar-Free Continual Transformer with Convolutions", ICCV, 2023 (*IIT Kharagpur*). [[Paper](https://arxiv.org/abs/2308.11357)][[Website](https://cvir.github.io/projects/contracon)]
+    * **DSiT**: "Domain-Specificity Inducing Transformers for Source-Free Domain Adaptation", ICCV, 2023 (*Indian Institute of Science*). [[Paper](https://arxiv.org/abs/2308.14023)][[Website](http://val.cds.iisc.ac.in/DSiT-SFDA/)]
     * **AD-CLIP**: "AD-CLIP: Adapting Domains in Prompt Space Using CLIP", ICCVW, 2023 (*IIT Bombay*). [[Paper](https://arxiv.org/abs/2308.05659)]
     * **StyLIP**: "StyLIP: Multi-Scale Style-Conditioned Prompt Learning for CLIP-based Domain Generalization", arXiv, 2023 (*TUM*). [[Paper](https://arxiv.org/abs/2302.09251)]
     * **FedCLIP**: "FedCLIP: Fast Generalization and Personalization for CLIP in Federated Learning", arXiv, 2023 (*CAS*). [[Paper](https://arxiv.org/abs/2302.13485)][[PyTorch](https://github.com/microsoft/PersonalizedFL)]
@@ -788,6 +789,8 @@ If you find this repository useful, please consider citing this list:
     * **MaskedDenoising**: "Masked Image Training for Generalizable Deep Image Denoising", CVPR, 2023 (*HKUST*). [[Paper](https://arxiv.org/abs/2303.13132)][[Code (in construction)](https://github.com/haoyuc/MaskedDenoising)]
     * **SERT**: "Spectral Enhanced Rectangle Transformer for Hyperspectral Image Denoising", CVPR, 2023 (*Beijing Institute of Technology*). [[Paper](https://arxiv.org/abs/2304.00844)][[PyTorch](https://github.com/MyuLi/SERT)]
     * **FFTformer**: "Efficient Frequency Domain-based Transformers for High-Quality Image Deblurring", CVPR, 2023 (*Nanjing University of Science and Technology*). [[Paper](https://arxiv.org/abs/2211.12250)][[PyTorch](https://github.com/kkkls/FFTformer)]
+    * **MB-TaylorFormer**: "MB-TaylorFormer: Multi-branch Efficient Transformer Expanded by Taylor Formula for Image Dehazing", ICCV, 2023 (*Sun Yat-sen University*). [[Paper](https://arxiv.org/abs/2308.14036)][[Code (in construction)](https://github.com/FVL2020/ICCV-2023-MB-TaylorFormer)]
+    * **UDR-S<sup>2</sup>Former**: "Sparse Sampling Transformer with Uncertainty-Driven Ranking for Unified Removal of Raindrops and Rain Streaks", ICCV, 2023 (*HKUST*). [[Paper](https://arxiv.org/abs/2308.14153)][[PyTorch](https://github.com/Ephemeral182/UDR-S2Former_deraining)][[Website](https://ephemeral182.github.io/UDR_S2Former_deraining/)]
     * **SelfPromer**: "SelfPromer: Self-Prompt Dehazing Transformers with Depth-Consistency", arXiv, 2023 (*The Hong Kong Polytechnic University*). [[Paper](https://arxiv.org/abs/2303.07033)]
     * **Xformer**: "Xformer: Hybrid X-Shaped Transformer for Image Denoising", arXiv, 2023 (*Shanghai Jiao Tong*). [[Paper](https://arxiv.org/abs/2303.06440)]
     * **?**: "A Data-Centric Solution to NonHomogeneous Dehazing via Vision Transformer", arXiv, 2023 (*McMaster University, Canada*). [[Paper](https://arxiv.org/abs/2304.07874)][[PyTorch](https://github.com/yangyiliu21/ntire2023_ITBdehaze)]
@@ -1328,6 +1331,7 @@ If you find this repository useful, please consider citing this list:
 * **SIST**: "Low-Dose CT Denoising via Sinogram Inner-Structure Transformer", arXiv, 2022 (*?*). [[Paper](https://arxiv.org/abs/2204.03163)]
 * **Spach-Transformer**: "Spach Transformer: Spatial and Channel-wise Transformer Based on Local and Global Self-attentions for PET Image Denoising", arXiv, 2022 (*Harvard*). [[Paper](https://arxiv.org/abs/2209.03300)]
 * **ConvFormer**: "ConvFormer: Combining CNN and Transformer for Medical Image Segmentation", arXiv, 2022 (*University of Notre Dame*). [[Paper](https://arxiv.org/abs/2211.08564)]
+* **?**: "Unaligned 2D to 3D Translation with Conditional Vector-Quantized Code Diffusion using Transformers", ICCV, 2023 (*Durham University, UK*). [[Paper](https://arxiv.org/abs/2308.14152)]
 
 [[Back to Overview](#overview)]
 
@@ -1773,6 +1777,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **CrowdMLP**: "CrowdMLP: Weakly-Supervised Crowd Counting via Multi-Granularity MLP", arXiv, 2022 (*University of Guelph, Canada*). [[Paper](https://arxiv.org/abs/2203.08219)]
     * **CounTR**: "CounTR: Transformer-based Generalised Visual Counting", arXiv, 2022 (*Shanghai Jiao Tong University*). [[Paper](https://arxiv.org/abs/2208.13721)][[Website](https://verg-avesta.github.io/CounTR_Webpage/)]
     * **CrowdCLIP**: "CrowdCLIP: Unsupervised Crowd Counting via Vision-Language Model", CVPR, 2023 (*Baidu*). [[Paper](https://arxiv.org/abs/2304.04231)][[Code (in construction)](https://github.com/dk-liang/CrowdCLIP)]
+    * **PET**: "Point-Query Quadtree for Crowd Counting, Localization, and More", ICCV, 2023 (*Huazhong University of Science and Technology*). [[Paper](https://arxiv.org/abs/2308.13814)][[Code (in construction)](https://github.com/cxliu0/PET)]
     * **CLIP-Count**: "CLIP-Count: Towards Text-Guided Zero-Shot Object Counting", arXiv, 2023 (*The Hong Kong Polytechnic University*). [[Paper](https://arxiv.org/abs/2305.07304)][[Code (in construction)](https://github.com/songrise/CLIP-Count)]
     * **?**: "Training-free Object Counting with Prompts", arXiv, 2023 (*A\⋆STAR*). [[Paper](https://arxiv.org/abs/2307.00038)][[PyTorch](https://github.com/shizenglin/training-free-object-counter)]
 * Visual Quality Assessment:
@@ -1841,7 +1846,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **PanoFormer**: "PanoFormer: Panorama Transformer for Indoor 360° Depth Estimation", ECCV, 2022 (*Beijing Jiaotong University*). [[Paper](https://arxiv.org/abs/2203.09283)]
     * **CoVisPose**: "CoVisPose: Co-Visibility Pose Transformer for Wide-Baseline Relative Pose Estimation in 360° Indoor Panoramas", ECCV, 2022 (*Zillow*). [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/5330_ECCV_2022_paper.php)]
     * **SPH**: "Spherical Transformer", arXiv, 2022 (*Chung-Ang University, Korea*). [[Paper](https://arxiv.org/abs/2202.04942)]
-    * **PanoSwin**: "PanoSwin: a Pano-style Swin Transformer for Panorama Understanding", CVPR, 2023 (*Fudan*). [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Ling_PanoSwin_A_Pano-Style_Swin_Transformer_for_Panorama_Understanding_CVPR_2023_paper.html)][[PyTorch](https://github.com/1069066484/PanoSwinTransformerObjectDetection)]
+    * **PanoSwin**: "PanoSwin: a Pano-style Swin Transformer for Panorama Understanding", CVPR, 2023 (*Fudan*). [[Paper](https://arxiv.org/abs/2308.14726)][[PyTorch](https://github.com/1069066484/PanoSwinTransformerObjectDetection)]
     * **SalViT360**: "Spherical Vision Transformer for 360-degree Video Saliency Prediction", BMVC, 2023 (*Koc University, Turkey*). [[Paper](https://arxiv.org/abs/2308.13004)]
     * **PanoContext-Former**: "PanoContext-Former: Panoramic Total Scene Understanding with a Transformer", arXiv, 2023 (*Alibaba*). [[Paper](https://arxiv.org/abs/2305.12497)]
 * Others:
