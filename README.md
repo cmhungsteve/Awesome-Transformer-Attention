@@ -1666,6 +1666,7 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
     * **STMT**: "STMT: A Spatial-Temporal Mesh Transformer for MoCap-Based Action Recognition", CVPR, 2023 (*CMU*). [[Paper](https://arxiv.org/abs/2303.18177)][[Code (in construction)](https://github.com/zgzxy001/STMT)]
     * **SkeletonMAE**: "SkeletonMAE: Graph-based Masked Autoencoder for Skeleton Sequence Pre-training", ICCV, 2023 (*Sun Yat-sen University*). [[Paper](https://arxiv.org/abs/2307.08476)][[Code (in construction)](https://github.com/HongYan1123/SkeletonMAE)]
     * **MAMP**: "Masked Motion Predictors are Strong 3D Action Representation Learners", ICCV, 2023 (*USTC*). [[Paper](https://arxiv.org/abs/2308.07092)][[Code (in construction)](https://github.com/maoyunyao/MAMP)]
+    * **LAC**: "LAC - Latent Action Composition for Skeleton-based Action Segmentation", ICCV, 2023 (*INRIA*). [[Paper](https://arxiv.org/abs/2308.14500)][[Website](https://walker1126.github.io/LAC/)]
     * **PCM<sup>3</sup>**: "Prompted Contrast with Masked Motion Modeling: Towards Versatile 3D Action Representation Learning", ACMMM, 2023 (*Peking*). [[Paper](https://arxiv.org/abs/2308.03975)][[Website](https://jhang2020.github.io/Projects/PCM3/PCM3.html)]
     * **PoseAwareVT**: "Seeing the Pose in the Pixels: Learning Pose-Aware Representations in Vision Transformers", arXiv, 2023 (*Amazon*). [[Paper](https://arxiv.org/abs/2306.09331)][[PyTorch](https://github.com/dominickrei/PoseAwareVT)]
 * Multi-modal:
@@ -1796,6 +1797,7 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
 * **GRAtt-VIS**: "GRAtt-VIS: Gated Residual Attention for Auto Rectifying Video Instance Segmentation", arXiv, 2023 (*LMU Munich*). [[Paper](https://arxiv.org/abs/2305.17096)][[Code (in construction)](https://github.com/Tanveer81/GRAttVIS)]
 * **DVIS**: "DVIS: Decoupled Video Instance Segmentation Framework", arXiv, 2023 (*Wuhan University*). [[Paper](https://arxiv.org/abs/2306.03413)][[PyTorch](https://github.com/zhang-tao-whu/DVIS)]
 * **RefineVIS**: "RefineVIS: Video Instance Segmentation with Temporal Attention Refinement", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2306.04774)]
+* **VideoCutLER**: "VideoCutLER: Surprisingly Simple Unsupervised Video Instance Segmentation", arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2308.14710)][[PyTorch](https://github.com/facebookresearch/CutLER/tree/main/videocutler)]
 
 [[Back to Overview](#overview)]
 
@@ -1966,6 +1968,8 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
     * **EPIC-Fields**: "EPIC Fields: Marrying 3D Geometry and Video Understanding", arXiv, 2023 (*Oxford + Bristol*). [[Paper](https://arxiv.org/abs/2306.08731)][[Website](https://epic-kitchens.github.io/epic-fields/)]
 * Audio-Video:
     * **AVGN**: "Audio-Visual Glance Network for Efficient Video Recognition", ICCV, 2023 (*KAIST*). [[Paper](https://arxiv.org/abs/2308.09322)]
+* Event Camera:
+    * **EventTransAct**: "EventTransAct: A video transformer-based framework for Event-camera based action recognition", IROS, 2023 (*UCF*). [[Paper](https://arxiv.org/abs/2308.13711)][[PyTorch](https://github.com/tristandb8/EventTransAct)][[Website](https://tristandb8.github.io/EventTransAct_webpage/)]
 
 [[Back to Overview](#overview)]
 
@@ -2606,6 +2610,7 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
     * **CrossTVR**: "Fine-grained Text-Video Retrieval with Frozen Image Encoders", arXiv, 2023 (*Alibaba*). [[Paper](https://arxiv.org/abs/2307.09972)]
     * **TEFAL**: "Audio-Enhanced Text-to-Video Retrieval using Text-Conditioned Feature Alignment", arXiv, 2023 (*Amazon*). [[Paper](https://arxiv.org/abs/2307.12964)]
     * **TeachCLIP**: "TeachCLIP: Multi-Grained Teaching for Efficient Text-to-Video Retrieval", arXiv, 2023 (*Renmin University of China*). [[Paper](https://arxiv.org/abs/2308.01217)]
+    * **CoVR**: "CoVR: Learning Composed Video Retrieval from Web Video Captions", arXiv, 2023 (*Ecole des Ponts ParisTech (ENPC), France*). [[Paper](https://arxiv.org/abs/2308.14746)][[PyTorch](https://github.com/lucas-ventura/CoVR/)][[Website](https://imagine.enpc.fr/~ventural/covr/)]
 * Vision-Audio-Text:
     * **Multi-SK**: "Preserving Modality Structure Improves Multi-Modal Learning", ICCV, 2023 (*UCF*). [[Paper](https://arxiv.org/abs/2308.13077)][[Code (in construction)](https://github.com/Swetha5/Multi_Sinkhorn_Knopp)]
 * Others:
@@ -2700,6 +2705,7 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
     * **?**: "Domain-Agnostic Tuning-Encoder for Fast Personalization of Text-To-Image Models", arXiv, 2023 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2307.06925)][[Website](https://datencoder.github.io/)]
     * **GORS**: "T2I-CompBench: A Comprehensive Benchmark for Open-world Compositional Text-to-image Generation", arXiv, 2023 (*HKU*). [[Paper](https://arxiv.org/abs/2307.06350)][[Website](https://karine-h.github.io/T2I-CompBench/)][[PyTorch](https://github.com/Karine-Huang/T2I-CompBench)]
     * **IP-Adapter**: "IP-Adapter: Text Compatible Image Prompt Adapter for Text-to-Image Diffusion Models", arXiv, 2023 (*Tencent*). [[Paper](https://arxiv.org/abs/2308.06721)][[Website](https://ip-adapter.github.io/)]
+    * **ORES**: "ORES: Open-vocabulary Responsible Visual Synthesis", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2308.13785)]
 * Video:
     * **Imagen-Video**: "Imagen Video: High Definition Video Generation with Diffusion Models", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2210.02303)][[Website](https://imagen.research.google/video/)]
     * **Phenaki**: "Phenaki: Variable Length Video Generation From Open Domain Textual Description", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2210.02399)][[PyTorch (LAION-AI, in construction)](https://github.com/LAION-AI/phenaki)][[Website](https://phenaki.video/)]
@@ -2914,6 +2920,8 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
     * **CGFormer**: "Contrastive Grouping With Transformer for Referring Image Segmentation", CVPR, 2023 (*ShanghaiTech*). [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Tang_Contrastive_Grouping_With_Transformer_for_Referring_Image_Segmentation_CVPR_2023_paper.html)][[PyTorch (in construction)](https://github.com/Toneyaya/CGFormer)]
     * **CCTF**: "Learning To Segment Every Referring Object Point by Point", CVPR, 2023 (*JD*). [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Qu_Learning_To_Segment_Every_Referring_Object_Point_by_Point_CVPR_2023_paper.html)][[Code (in construction)](https://github.com/qumengxue/Partial-RES)]
     * **ETRIS**: "Bridging Vision and Language Encoders: Parameter-Efficient Tuning for Referring Image Segmentation", ICCV, 2023 (*Sun Yat-sen University*). [[Paper](https://arxiv.org/abs/2307.11545)][[PyTorch](https://github.com/kkakkkka/ETRIS)]
+    * **DMMI**: "Beyond One-to-One: Rethinking the Referring Image Segmentation", ICCV, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2308.13853)][[Code (in construction)](https://github.com/toggle1995/RIS-DMMI)]
+    * **TRIS**: "Referring Image Segmentation Using Text Supervision", ICCV, 2023 (*CUHK*). [[Paper](https://arxiv.org/abs/2308.14575)][[Code (in construction)](https://github.com/fawnliu/TRIS)]
     * **IREG**: "Whether you can locate or not? Interactive Referring Expression Generation", arXiv, 2023 (*Beijing University of Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2308.09977)][[Code (in construction)](https://github.com/superhero-7/IREG)]
     * **VLT**: "VLT: Vision-Language Transformer and Query Generation for Referring Segmentation", TPAMI, 2023 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2210.15871)]
     * **PVD**: "Parallel Vertex Diffusion for Unified Visual Grounding", arXiv, 2023 (*Peking University*). [[Paper](https://arxiv.org/abs/2303.07216)]
@@ -3149,6 +3157,7 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
     * **?**: "Towards Grounded Visual Spatial Reasoning in Multi-Modal Vision Language Models", arXiv, 2023 (*George Mason University*). [[Paper](https://arxiv.org/abs/2308.09778)]
 * Tracking:
     * **JointNLT**: "Joint Visual Grounding and Tracking with Natural Language Specification", CVPR, 2023 (*Harbin Institute of Technology*). [[Paper](https://arxiv.org/abs/2303.12027)][[PyTorch](https://github.com/lizhou-cs/JointNLT)]
+    * **MMTrack**: "Towards Unified Token Learning for Vision-Language Tracking", arXiv, 2023 (*Guangxi Normal University*). [[Paper](https://arxiv.org/pdf/2308.14103.pdf)]
 * Scene Graph:
     * **CaCao**: "Visually-Prompted Language Model for Fine-Grained Scene Graph Generation in an Open World", arXiv, 2023 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2303.13233)]
 * Egocentric Video:
