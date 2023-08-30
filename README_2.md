@@ -144,6 +144,7 @@ If you find this repository useful, please consider citing this list:
 * **OctFormer**: "OctFormer: Octree-based Transformers for 3D Point Clouds", SIGGRAPH, 2023 (*Peking University*). [[Paper](https://arxiv.org/abs/2305.03045)][[Code (in construction)](https://github.com/octree-nn/octformer)][[Website](https://wang-ps.github.io/octformer)]
 * **SVDFormer**: "SVDFormer: Complementing Point Cloud via Self-view Augmentation and Self-structure Dual-generator", ICCV, 2023 (*Nanjing University of Aeronautics and Astronautics*). [[Paper](https://arxiv.org/abs/2307.08492)][[PyTorch](https://github.com/czvvd/SVDFormer)]
 * **TAP**: "Take-A-Photo: 3D-to-2D Generative Pre-training of Point Cloud Models", ICCV, 2023 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2307.14971)][[PyTorch](https://github.com/wangzy22/TAP)]
+* **MATE**: "MATE: Masked Autoencoders are Online 3D Test-Time Learners", ICCV, 2023 (*Graz University of Technology, Austria*). [[Paper](https://arxiv.org/abs/2211.11432)]
 * **GeoTransformer**: "GeoTransformer: Fast and Robust Point Cloud Registration with Geometric Transformer", TPAMI, 2023 (*National University of Defense Technology, China*). [[Paper](https://arxiv.org/abs/2308.03768)][[PyTorch](https://github.com/qinzheng93/GeoTransformer)]
 * **Text4Point**: "Joint Representation Learning for Text and 3D Point Cloud", arXiv, 2023 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2301.07584)][[Code (in construction)](https://github.com/LeapLabTHU/Text4Point)]
 * **FullFormer**: "FullFormer: Generating Shapes Inside Shapes", arXiv, 2023 (*University of Siegen, Germany*). [[Paper](https://arxiv.org/abs/2303.11235)]
@@ -1026,6 +1027,7 @@ If you find this repository useful, please consider citing this list:
     * **Text2Light**: "Text2Light: Zero-Shot Text-Driven HDR Panorama Generation", SIGGRAPH Asia, 2022 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2209.09898)][[PyTorch](https://github.com/FrozenBurning/Text2Light)][[Website](https://frozenburning.github.io/projects/text2light/)]
     * **SMAE**: "SMAE: Few-shot Learning for HDR Deghosting with Saturation-Aware Masked Autoencoders", CVPR, 2023 (*Northwestern Polytechnical University*). [[Paper](https://arxiv.org/abs/2304.06914)]
     * **SCTNet**: "Alignment-free HDR Deghosting with Semantics Consistent Transformer", arXiv, 2023 (*University of Bourgogne, France*). [[Paper](https://arxiv.org/abs/2305.18135)][[Website](https://steven-tel.github.io/sctnet/)]
+    * **?**: "Online Overexposed Pixels Hallucination in Videos with Adaptive Reference Frame Selection", arXiv, 2023 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2308.15462)]
 * Harmonization:
     * **HT**: "Image Harmonization With Transformer", ICCV, 2021 (*Ocean University of China*). [[Paper](https://openaccess.thecvf.com/content/ICCV2021/html/Guo_Image_Harmonization_With_Transformer_ICCV_2021_paper.html)]
     * **LEMaRT**: "LEMaRT: Label-Efficient Masked Region Transform for Image Harmonization", CVPR, 2023 (*Amazon*). [[Paper](https://arxiv.org/abs/2304.13166)]
