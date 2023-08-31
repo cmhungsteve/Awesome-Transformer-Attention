@@ -2909,6 +2909,8 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
     * **LFA**: "Black Box Few-Shot Adaptation for Vision-Language models", arXiv, 2023 (*Samsung*). [[Paper](https://arxiv.org/abs/2304.01752)]
     * **?**: "Making the Most of What You Have: Adapting Pre-trained Visual Language Models in the Low-data Regime", arXiv, 2023 (*DeepMind*). [[Paper](https://arxiv.org/abs/2305.02297)]
     * **Proto-CLIP**: "Proto-CLIP: Vision-Language Prototypical Network for Few-Shot Learning", arXiv, 2023 (*UT Dallas*). [[Paper](https://arxiv.org/abs/2307.03073)]
+* Referring Detection:
+    * **GREC**: "GREC: Generalized Referring Expression Comprehension", arXiv, 2023 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2308.16182)][[Website](https://henghuiding.github.io/GRES/)]
 * Referring Image Segmentation:
     * **VLT**: "Vision-Language Transformer and Query Generation for Referring Segmentation", ICCV, 2021 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2108.05565)][[Tensorflow](https://github.com/henghuiding/Vision-Language-Transformer)]
     * **CRIS**: "CRIS: CLIP-Driven Referring Image Segmentation", CVPR, 2022 (*University of Sydney*). [[Paper](https://arxiv.org/abs/2111.15174)]
