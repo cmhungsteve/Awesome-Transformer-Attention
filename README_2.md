@@ -1671,7 +1671,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **Afformer**: "Affordance Grounding from Demonstration Video to Target Image", CVPR, 2023 (*NUS*). [[Paper](https://arxiv.org/abs/2303.14644)][[PyTorch](https://github.com/showlab/afformer)]
     * **MV-MWM**: "Multi-View Masked World Models for Visual Robotic Manipulation", ICML, 2023 (*KAIST*). [[Paper](https://arxiv.org/abs/2302.02408)][[Tensorflow2](https://github.com/younggyoseo/MV-MWM)][[Website](https://sites.google.com/view/mv-mwm)]
     * **MTM**: "Masked Trajectory Models for Prediction, Representation, and Control", ICML, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2305.02968)][[PyTorch](https://github.com/facebookresearch/mtm)][[Website](https://wuphilipp.github.io/mtm/)]
-    * **RVT**: "RVT: Robotic View Transformer for 3D Object Manipulation", arXiv, 2023 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2306.14896)][[PyTorch](https://github.com/nvlabs/rvt)][[Website](https://robotic-view-transformer.github.io/)]
+    * **RVT**: "RVT: Robotic View Transformer for 3D Object Manipulation", CoRL, 2023 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2306.14896)][[PyTorch](https://github.com/nvlabs/rvt)][[Website](https://robotic-view-transformer.github.io/)]
 * Scene Decomposition:
     * **SRT**: "Scene Representation Transformer: Geometry-Free Novel View Synthesis Through Set-Latent Scene Representations", CVPR, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2111.13152)][[PyTorch (stelzner)](https://github.com/stelzner/srt)][[Website](https://srt-paper.github.io/)]
     * **OSRT**: "Object Scene Representation Transformer", NeurIPS, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2206.06922)][[Website](https://osrt-paper.github.io/)]
