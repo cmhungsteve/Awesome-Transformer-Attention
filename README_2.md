@@ -572,7 +572,6 @@ If you find this repository useful, please consider citing this list:
     * **PMTrans**: "Patch-Mix Transformer for Unsupervised Domain Adaptation: A Game Perspective", CVPR, 2023 (*HKUST*). [[Paper](https://arxiv.org/abs/2303.13434)][[Website (in construction)](https://vlis2022.github.io/cvpr23/PMTrans)]
     * **ALOFT**: "ALOFT: A Lightweight MLP-like Architecture with Dynamic Low-frequency Transform for Domain Generalization", CVPR, 2023 (*Nanjing University*). [[Paper](https://arxiv.org/abs/2303.11674)][[PyTorch](https://github.com/lingeringlight/ALOFT/)]
     * **PromptStyler**: "PromptStyler: Prompt-driven Style Generation for Source-free Domain Generalization", ICCV, 2023 (*Agency for Defense Development, Korea*). [[Paper](https://arxiv.org/abs/2307.15199)][[Website](https://promptstyler.github.io/)]
-    * **ConTraCon**: "Exemplar-Free Continual Transformer with Convolutions", ICCV, 2023 (*IIT Kharagpur*). [[Paper](https://arxiv.org/abs/2308.11357)][[Website](https://cvir.github.io/projects/contracon)]
     * **DSiT**: "Domain-Specificity Inducing Transformers for Source-Free Domain Adaptation", ICCV, 2023 (*Indian Institute of Science*). [[Paper](https://arxiv.org/abs/2308.14023)][[Website](http://val.cds.iisc.ac.in/DSiT-SFDA/)]
     * **pFedPG**: "Efficient Model Personalization in Federated Learning via Client-Specific Prompt Generation", ICCV, 2023 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2308.15367)]
     * **AD-CLIP**: "AD-CLIP: Adapting Domains in Prompt Space Using CLIP", ICCVW, 2023 (*IIT Bombay*). [[Paper](https://arxiv.org/abs/2308.05659)]
@@ -659,6 +658,8 @@ If you find this repository useful, please consider citing this list:
     * **CTP**: "CTP: Towards Vision-Language Continual Pretraining via Compatible Momentum Contrast and Topology Preservation", ICCV, 2023 (*Peng Cheng Lab*). [[Paper](https://arxiv.org/abs/2308.07146)][[PyTorch](https://github.com/KevinLight831/CTP)]
     * **APG**: "When Prompt-based Incremental Learning Does Not Meet Strong Pretraining", ICCV, 2023 (*Sun Yat-sen University*). [[Paper](https://arxiv.org/abs/2308.10445)][[PyTorch (in construction)](https://github.com/TOM-tym/APG)]
     * **MAE-CIL**: "Masked Autoencoders are Efficient Class Incremental Learners", ICCV, 2023 (*Nankai University*). [[Paper](https://arxiv.org/abs/2308.12510)][[Code (in construction)](https://github.com/scok30/MAE-CIL)]
+    * **ConTraCon**: "Exemplar-Free Continual Transformer with Convolutions", ICCV, 2023 (*IIT Kharagpur*). [[Paper](https://arxiv.org/abs/2308.11357)][[Website](https://cvir.github.io/projects/contracon)]
+    * **LGCL**: "Introducing Language Guidance in Prompt-based Continual Learning", ICCV, 2023 (*RPTU Kaiserslautern, Germany*). [[Paper](https://arxiv.org/abs/2308.15827)]
     * **C-LN**: "On the Effectiveness of LayerNorm Tuning for Continual Learning in Vision Transformers", ICCVW, 2023 (*University of Trento*). [[Paper](https://arxiv.org/abs/2308.09610)][[PyTorch](https://github.com/tdemin16/Continual-LayerNorm-Tuning)]
     * **PromptFusion**: "PromptFusion: Decoupling Stability and Plasticity for Continual Learning", arXiv, 2023 (*Fudan*). [[Paper](https://arxiv.org/abs/2303.07223)]
     * **MSc-iNCD**: "Large-scale Pre-trained Models are Surprisingly Strong in Incremental Novel Class Discovery", arXiv, 2023 (*University of Trento, Italy*). [[Paper](https://arxiv.org/abs/2303.15975)][[PyTorch (in construction)](https://github.com/OatmealLiu/MSc-iNCD)]
@@ -1255,6 +1256,7 @@ If you find this repository useful, please consider citing this list:
 * **3DSAM-adapter**: "3DSAM-adapter: Holistic Adaptation of SAM from 2D to 3D for Promptable Medical Image Segmentation", arXiv, 2023 (*CUHK*). [[Paper](https://arxiv.org/abs/2306.13465)]
 * **CMCL**: "Disruptive Autoencoders: Leveraging Low-level features for 3D Medical Image Pre-training", arXiv, 2023 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2307.16896)]
 * **AdaptiveSAM**: "AdaptiveSAM: Towards Efficient Tuning of SAM for Surgical Scene Segmentation", arXiv, 2023 (*JHU*). [[Paper](https://arxiv.org/abs/2308.03726)][[PyTorch](https://github.com/JayParanjape/biastuning)]
+* **SAM-Med2D**: "SAM-Med2D", arXiv, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2308.16184)][[Code (in construction)](https://github.com/uni-medical/SAM-Med2D)]
 
 [[Back to Overview](#overview)]
 
