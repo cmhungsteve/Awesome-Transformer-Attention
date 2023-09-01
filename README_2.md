@@ -1282,7 +1282,7 @@ If you find this repository useful, please consider citing this list:
 * **ScoreNet**: "ScoreNet: Learning Non-Uniform Attention and Augmentation for Transformer-Based Histopathological Image Classification", arXiv, 2022 (*EPFL*). [[Paper](https://arxiv.org/abs/2202.07570)]
 * **LA-MIL**: "Local Attention Graph-based Transformer for Multi-target Genetic Alteration Prediction", arXiv, 2022 (*TUM*). [[Paper](https://arxiv.org/abs/2205.06672)]
 * **HoVer-Trans**: "HoVer-Trans: Anatomy-aware HoVer-Transformer for ROI-free Breast Cancer Diagnosis in Ultrasound Images", arXiv, 2022 (*South China University of Technology*). [[Paper](https://arxiv.org/abs/2205.08390)]
-* **GTP**: "A graph-transformer for whole slide image classification", arXiv, 2022 (*Boston University*). [[Paper](https://arxiv.org/abs/2205.09671)]
+* **GTP**: "A graph-transformer for whole slide image classification", IEEE Transactions on Medical Imaging (TMI), 2022 (*Boston University*). [[Paper](https://arxiv.org/abs/2205.09671)][[PyTorch](https://github.com/vkola-lab/tmi2022)]
 * **?**: "Zero-Shot and Few-Shot Learning for Lung Cancer Multi-Label Classification using Vision Transformer", arXiv, 2022 (*Harvard*). [[Paper](https://arxiv.org/abs/2205.15290)]
 * **SwinCheX**: "SwinCheX: Multi-label classification on chest X-ray images with transformers", arXiv, 2022 (*Sharif University of Technology, Iran*). [[Paper](https://arxiv.org/abs/2206.04246)]
 * **SGT**: "Rectify ViT Shortcut Learning by Visual Saliency", arXiv, 2022 (*Northwestern Polytechnical University, China*). [[Paper](https://arxiv.org/abs/2206.08567)]
