@@ -1391,6 +1391,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **HIPIE**: "Hierarchical Open-vocabulary Universal Image Segmentation", arXiv, 2023 (*Berkeley*). [[Paper](https://arxiv.org/abs/2307.00764)][[PyTorch](https://github.com/berkeley-hipie/HIPIE)][[Website](http://people.eecs.berkeley.edu/~xdwang/projects/HIPIE/)]
     * **UOVN**: "Unified Open-Vocabulary Dense Visual Prediction", arXiv, 2023 (*Monash University*). [[Paper](https://arxiv.org/abs/2307.08238)]
     * **FC-CLIP**: "Convolutions Die Hard: Open-Vocabulary Segmentation with Single Frozen Convolutional CLIP", arXiv, 2023 (*ByteDance*). [[Paper](https://arxiv.org/abs/2308.02487)]
+    * **?**: "Open-Vocabulary Semantic Segmentation via Attribute Decomposition-Aggregation", arXiv, 2023 (*Shanghai Jiao Tong*). [[Paper](https://arxiv.org/abs/2309.00096)]
 * Universal Segmentation:
     * **K-Net**: "K-Net: Towards Unified Image Segmentation", NeurIPS, 2021 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2106.14855)][[PyTorch](https://github.com/ZwwWayne/K-Net/)]
     * **Mask2Former**: "Masked-attention Mask Transformer for Universal Image Segmentation", CVPR, 2022 (*Meta*). [[Paper](https://arxiv.org/abs/2112.01527)][[PyTorch](https://github.com/facebookresearch/Mask2Former)][[Website](https://bowenc0221.github.io/mask2former/)]
@@ -3062,6 +3063,7 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
     * **Seal**: "Segment Any Point Cloud Sequences by Distilling Vision Foundation Models", arXiv, 2023 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2306.09347)][[PyTorch (in construction)](https://github.com/youquanl/Segment-Any-Point-Cloud)]
     * **OpenMask3D**: "OpenMask3D: Open-Vocabulary 3D Instance Segmentation", arXiv, 2023 (*ETHZ*). [[Paper](https://arxiv.org/abs/2306.13631)][[Website (in construction)](https://openmask3d.github.io/)]
     * **Lowis3D**: "Lowis3D: Language-Driven Open-World Instance-Level 3D Scene Understanding", arXiv, 2023 (*HKU*). [[Paper](https://arxiv.org/abs/2308.00353)]
+    * **OpenIns3D**: "OpenIns3D: Snap and Lookup for 3D Open-vocabulary Instance Segmentation", arXiv, 2023 (*Cambridge*). [[Paper](https://arxiv.org/abs/2309.00616)][[Website](https://zheninghuang.github.io/OpenIns3D/)]
 * Speech Recognition:
     * **AV-HuBERT**: "Robust Self-Supervised Audio-Visual Speech Recognition", arXiv, 2022 (*Meta*). [[Paper](https://arxiv.org/abs/2201.01763)][[PyTorch](https://github.com/facebookresearch/av_hubert)]
     * **?**: "Transformer-Based Video Front-Ends for Audio-Visual Speech Recognition", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2201.10439)]
@@ -3167,6 +3169,7 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
     * **StableLLaVA**: "StableLLaVA: Enhanced Visual Instruction Tuning with Synthesized Image-Dialogue Data", arXiv, 2023 (*Tencent*). [[Paper](https://arxiv.org/abs/2308.10253)][[Code (in construction)](https://github.com/icoz69/StableLLAVA)]
     * **PVIT**: "Position-Enhanced Visual Instruction Tuning for Multimodal Large Language Models", arXiv, 2023 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2308.13437)]
     * **PointLLM**: "PointLLM: Empowering Large Language Models to Understand Point Clouds", arXiv, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2308.16911)][[Code (in construction)](https://github.com/OpenRobotLab/PointLLM)][[Website](https://runsenxu.com/projects/PointLLM/)]
+    * **Point-Bind**: "Point-Bind & Point-LLM: Aligning Point Cloud with Multi-modality for 3D Understanding, Generation, and Instruction Following", arXiv, 2023 (*CUHK*). [[Paper](https://arxiv.org/abs/2309.00615)][[PyTorch](https://github.com/ZiyuGuo99/Point-Bind_Point-LLM)]
 * Visual Reasoning:
     * **RPT**: "Fine-Grained Regional Prompt Tuning for Visual Abductive Reasoning", arXiv, 2023 (*A\*STAR*). [[Paper](https://arxiv.org/abs/2303.10428)]
     * **LRR**: "Look, Remember and Reason: Visual Reasoning with Grounded Rationales", arXiv, 2023 (*Qualcomm*). [[Paper](https://arxiv.org/abs/2306.17778)]
