@@ -1362,6 +1362,7 @@ If you find this repository useful, please consider citing this list:
 * **BioViL-T**: "Learning to Exploit Temporal Structure for Biomedical Vision-Language Processing", CVPR, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2301.04558)]
 * **?**: "Evidential Interactive Learning for Medical Image Captioning", ICML, 2023 (*Rochester Institute of Technology, NY*). [[Paper](https://openreview.net/forum?id=6wfqx3CdKv)]
 * **PRIOR**: "PRIOR: Prototype Representation Joint Learning from Medical Images and Reports", ICCV, 2023 (*Southern University of Science and Technology*). [[Paper](https://arxiv.org/abs/2307.12577)][[Code (in construction)](https://github.com/QtacierP/PRIOR)]
+* **MedKLIP**: "MedKLIP: Medical Knowledge Enhanced Language-Image Pre-Training in Radiology", ICCV, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2301.02228)][[PyTorch](https://github.com/MediaBrain-SJTU/MedKLIP)][[Website](https://chaoyi-wu.github.io/MedKLIP/)]
 * **?**: "Localized Questions in Medical Visual Question Answering", MICCAI, 2023 (*University of Bern, Switzerland*). [[Paper](https://arxiv.org/abs/2307.01067)]
 * **RAMM**: "RAMM: Retrieval-augmented Biomedical Visual Question Answering with Multi-modal Pre-training", arXiv, 2023 (*Alibaba*). [[Paper](https://arxiv.org/abs/2303.00534)]
 * **PT**: "Open-Ended Medical Visual Question Answering Through Prefix Tuning of Language Models", arXiv, 2023 (*University of Amsterdam*). [[Paper](https://arxiv.org/abs/2303.05977)]
