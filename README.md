@@ -1577,6 +1577,7 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
 * Diffusion:
     * **VPD**: "Unleashing Text-to-Image Diffusion Models for Visual Perception", ICCV, 2023 (*Tsinghua University*). [[Paper](https://arxiv.org/abs/2303.02153)][[PyTorch](https://github.com/wl-zhao/VPD)][[Website](https://vpd.ivg-research.xyz/)]
     * **DiffSeg**: "Diffuse, Attend, and Segment: Unsupervised Zero-Shot Segmentation using Stable Diffusion", arXiv, 2023 (*Georgia Tech*). [[Paper](https://arxiv.org/abs/2308.12469)]
+    * **DiffSegmenter**: "Diffusion Model is Secretly a Training-free Open Vocabulary Semantic Segmenter", arXiv, 2023 (*Beihang University*). [[Paper](https://arxiv.org/abs/2309.02773)]
 * Low-Level Structure Segmentation:
     * **EVP**: "Explicit Visual Prompting for Low-Level Structure Segmentations", CVPR, 2023. (*Tencent*). [[Paper](https://arxiv.org/abs/2303.10883)][[PyTorch](https://github.com/NiFangBaAGe/Explict-Visual-Prompt)]
     * **EVP**: "Explicit Visual Prompting for Universal Foreground Segmentations", arXiv, 2023 (*Tencent*). [[Paper](https://arxiv.org/abs/2305.18476)][[PyTorch](https://github.com/NiFangBaAGe/Explict-Visual-Prompt)]
@@ -2093,8 +2094,9 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
     * **?**: "Exploring the Role of Audio in Video Captioning", arXiv, 2023 (*ByteDance*). [[Paper](https://arxiv.org/abs/2306.12559)]
     * **ZeroTA**: "Zero-Shot Dense Video Captioning by Jointly Optimizing Text and Moment", arXiv, 2023 (*KAIST*). [[Paper](https://arxiv.org/abs/2307.02682)]
 * 3D:
-    * **Vote2Cap-DETR**: "End-to-End 3D Dense Captioning with Vote2Cap-DETR", CVPR, 2023 (*Fudan*). [[Paper](https://arxiv.org/abs/2301.02508)]
+    * **Vote2Cap-DETR**: "End-to-End 3D Dense Captioning with Vote2Cap-DETR", CVPR, 2023 (*Fudan*). [[Paper](https://arxiv.org/abs/2301.02508)][[PyTorch](https://github.com/ch3cook-fdu/Vote2Cap-DETR)]
     * **Cap3D**: "Scalable 3D Captioning with Pretrained Models", arXiv, 2023 (*UMich*). [[Paper](https://arxiv.org/abs/2306.07279)][[Dataset](https://huggingface.co/datasets/tiange/Cap3D)]
+    * **Vote2Cap-DETR++**: "Vote2Cap-DETR++: Decoupling Localization and Describing for End-to-End 3D Dense Captioning", arXiv, 2023 (*Fudan*). [[Paper](https://arxiv.org/abs/2309.02999)][[PyTorch](https://github.com/ch3cook-fdu/Vote2Cap-DETR)]
 * Others:
     * **ET-Cap**: "Explore and Tell: Embodied Visual Captioning in 3D Environments", ICCV, 2023 (*Renmin University of China*). [[Paper](https://arxiv.org/abs/2308.10447)][[Code (in construction)](https://github.com/HAWLYQ/ET-Cap)][[Website](https://aim3-ruc.github.io/ExploreAndTell/)]
 
@@ -2732,6 +2734,7 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
     * **GORS**: "T2I-CompBench: A Comprehensive Benchmark for Open-world Compositional Text-to-image Generation", arXiv, 2023 (*HKU*). [[Paper](https://arxiv.org/abs/2307.06350)][[Website](https://karine-h.github.io/T2I-CompBench/)][[PyTorch](https://github.com/Karine-Huang/T2I-CompBench)]
     * **IP-Adapter**: "IP-Adapter: Text Compatible Image Prompt Adapter for Text-to-Image Diffusion Models", arXiv, 2023 (*Tencent*). [[Paper](https://arxiv.org/abs/2308.06721)][[Website](https://ip-adapter.github.io/)]
     * **ORES**: "ORES: Open-vocabulary Responsible Visual Synthesis", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2308.13785)]
+    * **CM3Leon**: "Scaling Autoregressive Multi-Modal Models: Pretraining and Instruction Tuning", arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2309.02591)]
 * Video:
     * **Imagen-Video**: "Imagen Video: High Definition Video Generation with Diffusion Models", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2210.02303)][[Website](https://imagen.research.google/video/)]
     * **Phenaki**: "Phenaki: Variable Length Video Generation From Open Domain Textual Description", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2210.02399)][[PyTorch (LAION-AI, in construction)](https://github.com/LAION-AI/phenaki)][[Website](https://phenaki.video/)]
