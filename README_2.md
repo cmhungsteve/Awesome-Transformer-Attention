@@ -1478,6 +1478,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **SVGformer**: "SVGformer: Representation Learning for Continuous Vector Graphics Using Transformers", CVPR, 2023 (*Adobe*). [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Cao_SVGformer_Representation_Learning_for_Continuous_Vector_Graphics_Using_Transformers_CVPR_2023_paper.html)]
     * **SIGA**: "Self-supervised Implicit Glyph Attention for Text Recognition", CVPR, 2023 (*Shanghai Jiao Tong*). [[Paper](https://arxiv.org/abs/2203.03382)]
     * **LISTER**: "LISTER: Neighbor Decoding for Length-Insensitive Scene Text Recognition", ICCV, 2023 (*Alibaba*). [[Paper](https://arxiv.org/abs/2308.12774)][[PyTorch](https://github.com/AlibabaResearch/AdvancedLiterateMachinery)]
+    * **CCR-CLIP**: "Chinese Text Recognition with A Pre-Trained CLIP-Like Model Through Image-IDS Aligning", ICCV, 2023 (*Fudan*). [[Paper](https://arxiv.org/abs/2309.01083)][[PyTorch](https://github.com/FudanVI/FudanOCR/tree/main/image-ids-CTR)]
     * **CLIP4STR**: "CLIP4STR: A Simple Baseline for Scene Text Recognition with Pre-trained Vision-Language Model", arXiv, 2023 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2305.14014)]
 * Curriculum Learning:
     * **SSTN**: "Spatial Transformer Networks for Curriculum Learning", arXiv, 2021 (*TU Kaiserslautern, Germany*). [[Paper](https://arxiv.org/abs/2108.09696)]
@@ -1826,6 +1827,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **Optimus**: "Transformer-Based Learned Optimization", CVPR, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2212.01055)]
     * **CITL**: "Continuous Intermediate Token Learning with Implicit Motion Manifold for Keyframe Based Motion Interpolation", CVPR, 2023 (*The University of Sydney*). [[Paper](https://arxiv.org/abs/2303.14926)][[PyTorch](https://github.com/MiniEval/CITL)]
     * **OOHMG**: "Being Comes from Not-being: Open-vocabulary Text-to-Motion Generation with Wordless Training", CVPR, 2023 (*Sun Yat-Sen University*). [[Paper](https://arxiv.org/abs/2210.15929)][[Code (in construction)](https://github.com/junfanlin/oohmg)]
+    * **AttT2M**: "AttT2M: Text-Driven Human Motion Generation with Multi-Perspective Attention Mechanism", ICCV, 2023 (*CAS*). [[Paper](https://arxiv.org/abs/2309.00796)][[PyTorch](https://github.com/ZcyMonkey/AttT2M)]
     * **ATOM**: "Language-guided Human Motion Synthesis with Atomic Actions", ACMMM, 2023 (*University at Buffalo*). [[Paper](https://arxiv.org/abs/2308.09611)][[Code (in construction)](https://github.com/yhZhai/ATOM)]
     * **DDT**: "DDT: A Diffusion-Driven Transformer-based Framework for Human Mesh Recovery from a Video", arXiv, 2023 (*OPPO*). [[Paper](https://arxiv.org/abs/2303.13397)]
     * **MotionGPT**: "MotionGPT: Finetuned LLMs are General-Purpose Motion Generators", arXiv, 2023 (*USTC*). [[Paper](https://arxiv.org/abs/2306.10900)][[PyTorch (in construction)](https://github.com/qiqiApink/MotionGPT)][[Website](https://qiqiapink.github.io/MotionGPT/)]
