@@ -326,6 +326,8 @@ If you find this repository useful, please consider citing this list:
     * **MixFormerV2**: "MixFormerV2: Efficient Fully Transformer Tracking", arXiv, 2023 (*Nanjing University*). [[Paper](https://arxiv.org/abs/2305.15896)][[PyTorch](https://github.com/MCG-NJU/MixFormerV2)]
     * **?**: "Tracking Everything Everywhere All at Once", arXiv, 2023 (*Cornell*). [[Paper](https://arxiv.org/abs/2306.05422)][[Website](https://omnimotion.github.io/)]
     * **?**: "A Dual-Source Attention Transformer for Multi-Person Pose Tracking", arXiv, 2023 (*University of Bonn, Germany*). [[Paper](https://arxiv.org/abs/2306.05807)]
+    * **TAM**: "Track Anything: Segment Anything Meets Videos", arXiv, 2023 (*SUSTech*). [[Paper](https://arxiv.org/abs/2304.11968)][[PyTorch](https://github.com/gaomingqi/Track-Anything)]
+    * **SAM-Track**: "Segment and Track Anything", arXiv, 2023 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2305.06558)][[PyTorch](https://github.com/z-x-yang/Segment-and-Track-Anything)]
 * 3D:
     * **PTT**: "PTT: Point-Track-Transformer Module for 3D Single Object Tracking in Point Clouds", IROS, 2021 (*Northeastern University*). [[Paper](https://arxiv.org/abs/2108.06455)][[PyTorch (in construction)](https://github.com/shanjiayao/PTT)]
     * **LTTR**: "3D Object Tracking with Transformer", BMVC, 2021 (*Northeastern University, China*). [[Paper](https://arxiv.org/abs/2110.14921)][[Code (in construction)](https://github.com/3bobo/lttr)]
@@ -854,7 +856,7 @@ If you find this repository useful, please consider citing this list:
 * **Imagen-Editor**: "Imagen Editor and EditBench: Advancing and Evaluating Text-Guided Image Inpainting", CVPR, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2212.06909)][[Website](https://imagen.research.google/editor/)]
 * **SmartBrush**: "SmartBrush: Text and Shape Guided Object Inpainting with Diffusion Model", CVPR, 2023 (*Adobe*). [[Paper](https://arxiv.org/abs/2212.05034)]
 * **NÜWA-LIP**: "NÜWA-LIP: Language Guided Image Inpainting with Defect-free VQGAN", CVPR, 2023 (*Harbin Institute of Technology*). [[Paper](https://arxiv.org/abs/2202.05009)][[PyTorch](https://github.com/kodenii/NUWA-LIP)]
-* **ProPainter**: "ProPainter: Improving Propagation and Transformer for Video Inpainting", ICCV, 2023 (*NTU, Singapore*). [[Paper]()][[Website](https://shangchenzhou.com/projects/ProPainter/)] 
+* **ProPainter**: "ProPainter: Improving Propagation and Transformer for Video Inpainting", ICCV, 2023 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2309.03897)][[PyTorch](https://github.com/sczhou/ProPainter)][[Website](https://shangchenzhou.com/projects/ProPainter/)]
 * **Inst-Inpaint**: "Inst-Inpaint: Instructing to Remove Objects with Diffusion Models", arXiv, 2023 (*Bilkent University, Turkey*). [[Paper](https://arxiv.org/abs/2304.03246)]
 * **Inpaint-Anything**: "Inpaint Anything: Segment Anything Meets Image Inpainting", arXiv, 2023 (*USTC*). [[Paper](https://arxiv.org/abs/2304.06790)][[PyTorch](https://github.com/geekyutao/Inpaint-Anything)]
 * **TransRef**: "TransRef: Multi-Scale Reference Embedding Transformer for Reference-Guided Image Inpainting", arXiv, 2023 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2306.11528)][[PyTorch](https://github.com/Cameltr/TransRef)]
