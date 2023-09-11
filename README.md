@@ -441,6 +441,7 @@ If you find this repository useful, please consider citing this list:
 * **MSViT**: "MSViT: Dynamic Mixed-Scale Tokenization for Vision Transformers", arXiv, 2023 (*Qualcomm*). [[Paper](https://arxiv.org/abs/2307.02321)]
 * **DiT**: "DiT: Efficient Vision Transformers with Dynamic Token Routing", arXiv, 2023 (*Meituan*). [[Paper](https://arxiv.org/abs/2308.03409)][[Code (in construction)](https://github.com/Maycbj/DiT)]
 * **?**: "Which Transformer to Favor: A Comparative Analysis of Efficiency in Vision Transformers", arXiv, 2023 (*German Research Center for Artificial Intelligence (DFKI)*). [[Paper](https://arxiv.org/abs/2308.09372)][[PyTorch](https://github.com/tobna/WhatTransformerToFavor)]
+* **Mobile-V-MoEs**: "Mobile V-MoEs: Scaling Down Vision Transformers via Sparse Mixture-of-Experts", arXiv, 2023 (*Apple*). [[Paper](https://arxiv.org/abs/2309.04354)]
 #### Conv + Transformer
 * **LeViT**: "LeViT: a Vision Transformer in ConvNet's Clothing for Faster Inference", ICCV, 2021 (*Facebook*). [[Paper](https://arxiv.org/abs/2104.01136)][[PyTorch](https://github.com/facebookresearch/LeViT)]
 * **CeiT**: "Incorporating Convolution Designs into Visual Transformers", ICCV, 2021 (*SenseTime*). [[Paper](https://arxiv.org/abs/2103.11816)][[PyTorch (rishikksh20)](https://github.com/rishikksh20/CeiT)]
@@ -1581,6 +1582,7 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
     * **VPD**: "Unleashing Text-to-Image Diffusion Models for Visual Perception", ICCV, 2023 (*Tsinghua University*). [[Paper](https://arxiv.org/abs/2303.02153)][[PyTorch](https://github.com/wl-zhao/VPD)][[Website](https://vpd.ivg-research.xyz/)]
     * **DiffSeg**: "Diffuse, Attend, and Segment: Unsupervised Zero-Shot Segmentation using Stable Diffusion", arXiv, 2023 (*Georgia Tech*). [[Paper](https://arxiv.org/abs/2308.12469)]
     * **DiffSegmenter**: "Diffusion Model is Secretly a Training-free Open Vocabulary Semantic Segmenter", arXiv, 2023 (*Beihang University*). [[Paper](https://arxiv.org/abs/2309.02773)]
+    * **?**: "From Text to Mask: Localizing Entities Using the Attention of Text-to-Image Diffusion Models", arXiv, 2023 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2309.04109)]
 * Low-Level Structure Segmentation:
     * **EVP**: "Explicit Visual Prompting for Low-Level Structure Segmentations", CVPR, 2023. (*Tencent*). [[Paper](https://arxiv.org/abs/2303.10883)][[PyTorch](https://github.com/NiFangBaAGe/Explict-Visual-Prompt)]
     * **EVP**: "Explicit Visual Prompting for Universal Foreground Segmentations", arXiv, 2023 (*Tencent*). [[Paper](https://arxiv.org/abs/2305.18476)][[PyTorch](https://github.com/NiFangBaAGe/Explict-Visual-Prompt)]
@@ -2192,6 +2194,7 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
     * **Context-VQA**: "Context-VQA: Towards Context-Aware and Purposeful Visual Question Answering", arXiv, 2023 (*Stanford*). [[Paper](https://arxiv.org/abs/2307.15745)]
     * **BLIVA**: "BLIVA: A Simple Multimodal LLM for Better Handling of Text-Rich Visual Questions", arXiv, 2023 (*USCD*). [[Paper](https://arxiv.org/abs/2308.09936)]
     * **NExT-GQA**: "Can I Trust Your Answer? Visually Grounded Video Question Answering", arXiv, 2023 (*NUS*). [[Paper](https://arxiv.org/abs/2309.01327)]
+    * **CURE**: "Measuring and Improving Chain-of-Thought Reasoning in Vision-Language Models", arXiv, 2023 (*SRI*). [[Paper](https://arxiv.org/abs/2309.04461)][[Code (in construction)](https://github.com/Yangyi-Chen/CoTConsistency)]
 * Video:
     * **?**: "Mounting Video Metadata on Transformer-based Language Model for Open-ended Video Question Answering", arXiv, 2021 (*Seoul National University*). [[Paper](https://arxiv.org/abs/2108.05158)]
     * **TPT**: "Temporal Pyramid Transformer with Multimodal Interaction for Video Question Answering", arXiv, 2021 (*CAS*). [[Paper](https://arxiv.org/abs/2109.04735)]
@@ -2869,6 +2872,7 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
 * **CiP**: "Image Captions are Natural Prompts for Text-to-Image Models", arXiv, 2023 (*The University of Sydney*). [[Paper](https://arxiv.org/abs/2307.08526)]
 * **UP-DP**: "UP-DP: Unsupervised Prompt Learning for Data Pre-Selection with Vision-Language Models", arXiv, 2023 (*Bosch*). [[Paper](https://arxiv.org/abs/2307.11227)]
 * **DPL**: "DPL: Decoupled Prompt Learning for Vision-Language Models", arXiv, 2023 (*vivo*). [[Paper](https://arxiv.org/abs/2308.10061)]
+* **DuAl-PT**: "Context-Aware Prompt Tuning for Vision-Language Model with Dual-Alignment", arXiv, 2023 (**). [[Paper](https://arxiv.org/abs/2309.04158)]
 
 [[Back to Overview](#overview)]
 
