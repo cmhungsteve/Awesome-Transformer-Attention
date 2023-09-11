@@ -328,6 +328,7 @@ If you find this repository useful, please consider citing this list:
     * **?**: "A Dual-Source Attention Transformer for Multi-Person Pose Tracking", arXiv, 2023 (*University of Bonn, Germany*). [[Paper](https://arxiv.org/abs/2306.05807)]
     * **TAM**: "Track Anything: Segment Anything Meets Videos", arXiv, 2023 (*SUSTech*). [[Paper](https://arxiv.org/abs/2304.11968)][[PyTorch](https://github.com/gaomingqi/Track-Anything)]
     * **SAM-Track**: "Segment and Track Anything", arXiv, 2023 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2305.06558)][[PyTorch](https://github.com/z-x-yang/Segment-and-Track-Anything)]
+    * **SMAT**: "Separable Self and Mixed Attention Transformers for Efficient Object Tracking", WACV, 2024 (*Concordia University, Canada*). [[Paper](https://arxiv.org/abs/2309.03979)][[PyTorch](https://github.com/goutamyg/SMAT)]
 * 3D:
     * **PTT**: "PTT: Point-Track-Transformer Module for 3D Single Object Tracking in Point Clouds", IROS, 2021 (*Northeastern University*). [[Paper](https://arxiv.org/abs/2108.06455)][[PyTorch (in construction)](https://github.com/shanjiayao/PTT)]
     * **LTTR**: "3D Object Tracking with Transformer", BMVC, 2021 (*Northeastern University, China*). [[Paper](https://arxiv.org/abs/2110.14921)][[Code (in construction)](https://github.com/3bobo/lttr)]
@@ -1743,11 +1744,13 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **UniAD**: "Planning-oriented Autonomous Driving", CVPR, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2212.10156)][[PyTorch](https://github.com/OpenDriveLab/UniAD)][[Website](https://opendrivelab.github.io/UniAD/)]
     * **Multiverse-Transformer**: "Multiverse Transformer: 1st Place Solution for Waymo Open Sim Agents Challenge 2023", CVPRW, 2023 (*Pegasus*). [[Paper](https://arxiv.org/abs/2306.11868)][[Website](https://multiverse-transformer.github.io/sim-agents/)]
     * **SegMiF**: "Multi-interactive Feature Learning and a Full-time Multi-modality Benchmark for Image Fusion and Segmentation", ICCV, 2023 (*Dalian University of Technology*). [[Paper](https://arxiv.org/abs/2308.02097)][[Code (in construction)](https://github.com/JinyuanLiu-CV/SegMiF)]
+    * **VTD**: "Video Task Decathlon: Unifying Image and Video Tasks in Autonomous Driving", ICCV, 2023 (*ETHZ*). [[Paper](https://arxiv.org/abs/2309.04422)]
     * **LiDARFormer**: "LiDARFormer: A Unified Transformer-based Multi-task Network for LiDAR Perception", arXiv, 2023 (*TuSimple*). [[Paper](https://arxiv.org/abs/2303.12194)]
     * **VoxelFormer**: "VoxelFormer: Bird's-Eye-View Feature Generation based on Dual-view Attention for Multi-view 3D Object Detection", arXiv, 2023 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2304.01054)][[PyTorch](https://github.com/Lizhuoling/VoxelFormer-public)]
     * **AVIS**: "AVIS: Autonomous Visual Information Seeking with Large Language Models", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2306.08129)]
     * **LCTGen**: "Language Conditioned Traffic Generation", arXiv, 2023 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2307.07947)][[Website](https://ariostgx.github.io/lctgen/)]
     * **UniWorld**: "UniWorld: Autonomous Driving Pre-training via World Models", arXiv, 2023 (*Peking*). [[Paper](https://arxiv.org/abs/2308.07234)][[Code (in construction)](https://github.com/chaytonmin/UniWorld)]
+    * **PromptTrack**: "Language Prompt for Autonomous Driving", arXiv, 2023 (*Megvii*). [[Paper](https://arxiv.org/abs/2309.04379)]
 * Trajectory Prediction:
     * **mmTransformer**: "Multimodal Motion Prediction with Stacked Transformers", CVPR, 2021 (*CUHK + SenseTime*). [[Paper](https://arxiv.org/abs/2103.11624)][[Code (in construction)](https://github.com/decisionforce/mmTransformer)][[Website](https://decisionforce.github.io/mmTransformer/)]
     * **AgentFormer**: "AgentFormer: Agent-Aware Transformers for Socio-Temporal Multi-Agent Forecasting", ICCV, 2021 (*CMU*). [[Paper](https://arxiv.org/abs/2103.14023)][[PyTorch](https://github.com/Khrylx/AgentFormer)][[Website](https://www.ye-yuan.com/agentformer/)]
