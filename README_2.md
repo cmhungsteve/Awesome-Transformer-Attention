@@ -328,6 +328,7 @@ If you find this repository useful, please consider citing this list:
     * **?**: "A Dual-Source Attention Transformer for Multi-Person Pose Tracking", arXiv, 2023 (*University of Bonn, Germany*). [[Paper](https://arxiv.org/abs/2306.05807)]
     * **TAM**: "Track Anything: Segment Anything Meets Videos", arXiv, 2023 (*SUSTech*). [[Paper](https://arxiv.org/abs/2304.11968)][[PyTorch](https://github.com/gaomingqi/Track-Anything)]
     * **SAM-Track**: "Segment and Track Anything", arXiv, 2023 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2305.06558)][[PyTorch](https://github.com/z-x-yang/Segment-and-Track-Anything)]
+    * **CoTracker**: "CoTracker: It is Better to Track Together", arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2307.07635)][[PyTorch](https://github.com/facebookresearch/co-tracker)]
     * **SMAT**: "Separable Self and Mixed Attention Transformers for Efficient Object Tracking", WACV, 2024 (*Concordia University, Canada*). [[Paper](https://arxiv.org/abs/2309.03979)][[PyTorch](https://github.com/goutamyg/SMAT)]
 * 3D:
     * **PTT**: "PTT: Point-Track-Transformer Module for 3D Single Object Tracking in Point Clouds", IROS, 2021 (*Northeastern University*). [[Paper](https://arxiv.org/abs/2108.06455)][[PyTorch (in construction)](https://github.com/shanjiayao/PTT)]
@@ -1514,6 +1515,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **Fashionformer**: "Fashionformer: A simple, Effective and Unified Baseline for Human Fashion Segmentation and Recognition", ECCV, 2022 (*Peking*). [[Paper](https://arxiv.org/abs/2204.04654)][[PyTorch](https://github.com/xushilin1/FashionFormer)]
     * **FAME-ViL**: "FAME-ViL: Multi-Tasking Vision-Language Model for Heterogeneous Fashion Tasks", CVPR, 2023 (*University of Surrey*). [[Paper](https://arxiv.org/abs/2303.02483)][[PyTorch](https://github.com/BrandonHanx/FAME-ViL)]
     * **FashionSAP**: "FashionSAP: Symbols and Attributes Prompt for Fine-grained Fashion Vision-Language Pre-training", CVPR, 2023 (*Harbin Institute of Technology*). [[Paper](https://arxiv.org/abs/2304.05051)][[PyTorch](https://github.com/hssip/FashionSAP)]
+    * **OpenFashionCLIP**: "OpenFashionCLIP: Vision-and-Language Contrastive Learning with Open-Source Fashion Data", ICIAP, 2023 (*UniMoRE, Italy*). [[Paper](https://arxiv.org/abs/2309.05551)][[PyTorch](https://github.com/aimagelab/open-fashion-clip)]
     * **MVLT**: "Masked Vision-Language Transformer in Fashion", Machine Intelligence Research, 2023 (*Alibaba*). [[Paper](https://arxiv.org/abs/2210.15110)][[PyTorch](https://github.com/GewelsJI/MVLT)]
     * **UniDiff**: "UniDiff: Advancing Vision-Language Models with Generative and Discriminative Learning", arXiv, 2023 (*Sun Yat-Sen University*). [[Paper](https://arxiv.org/abs/2306.00813)]
 * Feature Matching:
