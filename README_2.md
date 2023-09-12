@@ -766,6 +766,7 @@ If you find this repository useful, please consider citing this list:
     * **CRAFT**: "Feature Modulation Transformer: Cross-Refinement of Global Representation via High-Frequency Prior for Image Super-Resolution", ICCV, 2023 (*UESTC*). [[Paper](https://arxiv.org/abs/2308.05022)][[Code (in construction)](https://github.com/AVC2-UESTC/CRAFT-SR)]
     * **RGT**: "Recursive Generalization Transformer for Image Super-Resolution", arXiv, 2023 (*Shanghai Jiao Tong*). [[Paper](https://arxiv.org/abs/2303.06373)]
     * **SOSR**: "SOSR: Source-Free Image Super-Resolution with Wavelet Augmentation Transformer", arXiv, 2023 (*CAS*). [[Paper](https://arxiv.org/abs/2303.17783)]
+    * **HAT**: "HAT: Hybrid Attention Transformer for Image Restoration", arXiv, 2023 (*University of Macau*). [[Paper](https://arxiv.org/abs/2309.05239)][[PyTorch](https://github.com/XPixelGroup/HAT)]
 * Others:
     * **SDNet**: "SDNet: multi-branch for single image deraining using swin", arXiv, 2021 (*Xinjiang University*). [[Paper](https://arxiv.org/abs/2105.15077)][[Code (in construction)](https://github.com/H-tfx/SDNet)]
     * **ATTSF**: "Attention! Stay Focus!", arXiv, 2021 (*BridgeAI, Seoul*). [[Paper](https://arxiv.org/abs/2104.07925)][[Tensorflow](https://github.com/tuvovan/ATTSF)]
@@ -1458,6 +1459,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **UniTR**: "UniTR: A Unified and Efficient Multi-Modal Transformer for Bird's-Eye-View Representation", ICCV, 2023 (*Peking*). [[Paper](https://arxiv.org/abs/2308.07732)][[Code (in construction)](https://github.com/Haiyang-W/UniTR)]
     * **SparseBEV**: "SparseBEV: High-Performance Sparse 3D Object Detection from Multi-Camera Videos", ICCV, 2023 (*Nanjing University*). [[Paper](https://arxiv.org/abs/2308.09244)][[Code (in construction)](https://github.com/MCG-NJU/SparseBEV)]
     * **OCBEV**: "OCBEV: Object-Centric BEV Transformer for Multi-View 3D Object Detection", arXiv, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2306.01738)]
+    * **FusionFormer**: "FusionFormer: A Multi-sensory Fusion in Bird's-Eye-View and Temporal Consistent Transformer for 3D Objection", arXiv, 2023 (*Cainiao Network, China*). [[Paper](https://arxiv.org/abs/2309.05257)]
 * Biology:
     * **?**: "A State-of-the-art Survey of Object Detection Techniques in Microorganism Image Analysis: from Traditional Image Processing and Classical Machine Learning to Current Deep Convolutional Neural Networks and Potential Visual Transformers", arXiv, 2021 (*Northeastern University*). [[Paper](https://arxiv.org/abs/2105.03148)]
 * Brain Score:
@@ -1751,6 +1753,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **LCTGen**: "Language Conditioned Traffic Generation", arXiv, 2023 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2307.07947)][[Website](https://ariostgx.github.io/lctgen/)]
     * **UniWorld**: "UniWorld: Autonomous Driving Pre-training via World Models", arXiv, 2023 (*Peking*). [[Paper](https://arxiv.org/abs/2308.07234)][[Code (in construction)](https://github.com/chaytonmin/UniWorld)]
     * **PromptTrack**: "Language Prompt for Autonomous Driving", arXiv, 2023 (*Megvii*). [[Paper](https://arxiv.org/abs/2309.04379)]
+    * **HiLM-D**: "HiLM-D: Towards High-Resolution Understanding in Multimodal Large Language Models for Autonomous Driving", arXiv, 2023 (*Huawei*). [[Paper](https://arxiv.org/abs/2309.05186)]
 * Trajectory Prediction:
     * **mmTransformer**: "Multimodal Motion Prediction with Stacked Transformers", CVPR, 2021 (*CUHK + SenseTime*). [[Paper](https://arxiv.org/abs/2103.11624)][[Code (in construction)](https://github.com/decisionforce/mmTransformer)][[Website](https://decisionforce.github.io/mmTransformer/)]
     * **AgentFormer**: "AgentFormer: Agent-Aware Transformers for Socio-Temporal Multi-Agent Forecasting", ICCV, 2021 (*CMU*). [[Paper](https://arxiv.org/abs/2103.14023)][[PyTorch](https://github.com/Khrylx/AgentFormer)][[Website](https://www.ye-yuan.com/agentformer/)]
