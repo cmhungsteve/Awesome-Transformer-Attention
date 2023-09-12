@@ -127,7 +127,8 @@ If you find this repository useful, please consider citing this list:
 ## Survey
 * "Vision + Language Applications: A Survey", CVPRW, 2023 (*Ritsumeikan University, Japan*). [[Paper](https://arxiv.org/abs/2305.14598)][[GitHub](https://github.com/Yutong-Zhou-cv/Awesome-Text-to-Image)]
 * "Multimodal Learning With Transformers: A Survey", TPAMI, 2023 (*Tsinghua & Oxford*). [[Paper](https://arxiv.org/abs/2206.06488)]
-* "A Survey of Visual Transformers", TNNLS, 2023 (*CAS*). [[Paper](https://arxiv.org/abs/2111.06091)]
+* "A Survey of Visual Transformers", TNNLS, 2023 (*CAS*). [[Paper](https://arxiv.org/abs/2111.06091)][[GitHub](https://github.com/arekavandi/Transformer-SOD)]
+* "Transformers in Small Object Detection: A Benchmark and Survey of State-of-the-Art", arXiv, 2023 (*University of Western Australia*). [[Paper](https://arxiv.org/abs/2309.04902)]
 * "RenAIssance: A Survey into AI Text-to-Image Generation in the Era of Large Model", arXiv, 2023 (*University of Sydney*). [[Paper](https://arxiv.org/abs/2309.00810)]
 * "A survey on efficient vision transformers: algorithms, techniques, and performance benchmarking", arXiv, 2023 (*The University of Sydney*). [[Paper](https://arxiv.org/abs/2309.02031)]
 * "From CNN to Transformer: A Review of Medical Image Segmentation Models", arXiv, 2023 (*UESTC*). [[Paper](https://arxiv.org/abs/2308.05305)]
@@ -1046,6 +1047,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **AGER**: "Agglomerative Transformer for Human-Object Interaction Detection", ICCV, 2023 (*Shanghai Jiao Tong*). [[Paper](https://arxiv.org/abs/2308.08370)][[Code (in construction)](https://github.com/six6607/AGER)]
 * **RLIPv2**: "RLIPv2: Fast Scaling of Relational Language-Image Pre-training", ICCV, 2023 (*Alibaba*). [[Paper](https://arxiv.org/abs/2308.09351)][[PyTorch](https://github.com/JacobYuan7/RLIPv2)]
 * **EgoPCA**: "EgoPCA: A New Framework for Egocentric Hand-Object Interaction Understanding", ICCV, 2023 (*Shanghai Jiao Tong*). [[Paper](https://arxiv.org/abs/2309.02423)][[Website](https://mvig-rhos.com/ego_pca)]
+* **?**: "Exploiting CLIP for Zero-shot HOI Detection Requires Knowledge Distillation at Multiple Levels", arXiv, 2023 (*KU Leuven*). [[Paper](https://arxiv.org/abs/2309.05069)]
 
 [[Back to Overview](#overview)]
 
@@ -1414,6 +1416,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **DaTaSeg**: "DaTaSeg: Taming a Universal Multi-Dataset Multi-Task Segmentation Model", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2306.01736)]
     * **DFormer**: "DFormer: Diffusion-guided Transformer for Universal Image Segmentation", arXiv, 2023 (*Tianjin University*). [[Paper](https://arxiv.org/abs/2306.03437)][[Code (in construction)](https://github.com/cp3wan/DFormer)]
     * **?**: "A Critical Look at the Current Usage of Foundation Model for Dense Recognition Task", arXiv, 2023 (*OMRON SINIC X, Japan*). [[Paper](https://arxiv.org/abs/2307.02862)]
+    * **Mask2Anomaly**: "Mask2Anomaly: Mask Transformer for Universal Open-set Segmentation", arXiv, 2023 (*Politecnico di Torino, Italy*). [[Paper](https://arxiv.org/abs/2309.04573)]
 * Multi-Modal:
     * **UCTNet**: "UCTNet: Uncertainty-Aware Cross-Modal Transformer Network for Indoor RGB-D Semantic Segmentation", ECCV, 2022 (*Lehigh University, Pennsylvania*). [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/7082_ECCV_2022_paper.php)]
     * **CMX**: "CMX: Cross-Modal Fusion for RGB-X Semantic Segmentation with Transformers", arXiv, 2022 (*Karlsruhe Institute of Technology, Germany*). [[Paper](https://arxiv.org/abs/2203.04838)][[PyTorch](https://github.com/huaaaliu/RGBX_Semantic_Segmentation)]
@@ -1544,6 +1547,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **SGVF-SVFE**: "See More and Know More: Zero-shot Point Cloud Segmentation via Multi-modal Visual Data", ICCV, 2023 (*ShanghaiTech*). [[Paper](https://arxiv.org/abs/2307.10782)]
     * **SVQNet**: "SVQNet: Sparse Voxel-Adjacent Query Network for 4D Spatio-Temporal LiDAR Semantic Segmentation", ICCV, 2023 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2308.13323)]
     * **MAF-Transformer**: "Mask-Attention-Free Transformer for 3D Instance Segmentation", ICCV, 2023 (*CUHK*). [[Paper](https://arxiv.org/abs/2309.01692)][[PyTorch](https://github.com/dvlab-research/Mask-Attention-Free-Transformer)]
+    * **UniSeg**: "UniSeg: A Unified Multi-Modal LiDAR Segmentation Network and the OpenPCSeg Codebase", ICCV, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2309.05573)][[PyTorch](https://github.com/PJLab-ADG/PCSeg)]
     * **P3Former**: "Position-Guided Point Cloud Panoptic Segmentation Transformer", arXiv, 2023 (*1Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2303.13509)][[Code (in construction)](https://github.com/SmartBot-PJLab/P3Former)]
     * **UnScene3D**: "UnScene3D: Unsupervised 3D Instance Segmentation for Indoor Scenes", arXiv, 2023 (*TUM*). [[Paper](https://arxiv.org/abs/2303.14541)][[Website](https://rozdavid.github.io/unscene3d)]
     * **CNS**: "Towards Label-free Scene Understanding by Vision Foundation Models", arXiv, 2023 (*HKU*). [[Paper](https://arxiv.org/abs/2306.03899)][[Code (in construction)](https://github.com/runnanchen/Label-Free-Scene-Understanding)]
@@ -1600,6 +1604,8 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
 * Amodal Segmentation:
     * **AISFormer**: "AISFormer: Amodal Instance Segmentation with Transformer", BMVC, 2022 (*University of Arkansas, Arkansas*). [[Paper](https://arxiv.org/abs/2210.06323)][[PyTorch](https://github.com/UARK-AICV/AISFormer)]
     * **C2F-Seg**: "Coarse-to-Fine Amodal Segmentation with Shape Prior", ICCv, 2023 (*Fudan*). [[Paper](https://arxiv.org/abs/2308.16825)][[Code (in construction)](https://github.com/JianxGao/C2F-Seg)][[Website](https://jianxgao.github.io/C2F-Seg/)]
+* Amonaly Segmentation:
+    * **Mask2Anomaly**: "Unmasking Anomalies in Road-Scene Segmentation", ICCV, 2023 (*Politecnico di Torino, Italy*). [[Paper](https://arxiv.org/abs/2307.13316)][[PyTorch](https://github.com/shyam671/Mask2Anomaly-Unmasking-Anomalies-in-Road-Scene-Segmentation)]
 
 [[Back to Overview](#overview)]
 
@@ -2307,10 +2313,11 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
     * **ViL3DRel**: "Language Conditioned Spatial Relation Reasoning for 3D Object Grounding", NeurIPS, 2022 (*INRIA*). [[Paper](https://arxiv.org/abs/2211.09646)][[Website](https://cshizhe.github.io/projects/vil3dref.html)]
     * **LAR**: "Look Around and Refer: 2D Synthetic Semantics Knowledge Distillation for 3D Visual Grounding", NeurIPS, 2022 (*KAUST*). [[Paper](https://arxiv.org/abs/2211.14241)][[Website](https://eslambakr.github.io/LAR.github.io/)]
     * **3D-CG**: "3D Concept Grounding on Neural Fields", NeurIPS, 2022 (*MIT*). [[Paper](https://arxiv.org/abs/2207.06403)][[Website](http://3d-cg.csail.mit.edu/)]
-    * **UniT3D**: "UniT3D: A Unified Transformer for 3D Dense Captioning and Visual Grounding", arXiv, 2022 (*TUM*). [[Paper](https://arxiv.org/abs/2212.00836)]
     * **NS3D**: "NS3D: Neuro-Symbolic Grounding of 3D Objects and Relations", CVPR, 2023 (*Stanford*). [[Paper](https://arxiv.org/abs/2303.13483)]
     * **EDA**: "EDA: Explicit Text-Decoupling and Dense Alignment for 3D Visual Grounding", CVPR, 2023 (*Peking University*). [[Paper](https://arxiv.org/abs/2209.14941)]
     * **?**: "Distilling Coarse-to-Fine Semantic Matching Knowledge for Weakly Supervised 3D Visual Grounding", ICCV, 2023 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2307.09267)]
+    * **Multi3DRefer**: "Multi3DRefer: Grounding Text Description to Multiple 3D Objects", ICCV, 2023 (*Simon Fraser*). [[Paper](https://arxiv.org/abs/2309.05251)]
+    * **UniT3D**: "UniT3D: A Unified Transformer for 3D Dense Captioning and Visual Grounding", ICCV, 2023 (*TUM*). [[Paper](https://arxiv.org/abs/2212.00836)]
     * **3DOGSFormer**: "Dense Object Grounding in 3D Scenes", ACMMM, 2023 (*Peking*). [[Paper](https://arxiv.org/abs/2309.02224)]
     * **ViewRefer**: "ViewRefer: Grasp the Multi-view Knowledge for 3D Visual Grounding with GPT and Prototype Guidance", arXiv, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2303.16894)][[Code (in construction)](https://github.com/ZiyuGuo99/ViewRefer3D)]
     * **?**: "What, when, and where? -- Self-Supervised Spatio-Temporal Grounding in Untrimmed Multi-Action Videos from Narrated Instructions", arXiv, 2023 (*Columbia*). [[Paper](https://arxiv.org/abs/2303.16990)]
@@ -2488,6 +2495,7 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
     * **DLIP**: "DLIP: Distilling Language-Image Pre-training", arXiv, 2023 (*ByteDance*). [[Paper](https://arxiv.org/abs/2308.12956)]
     * **ViLTA**: "ViLTA: Enhancing Vision-Language Pre-training through Textual Augmentation", arXiv, 2023 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2308.16689)]
     * **DAS**: "Parameter and Computation Efficient Transfer Learning for Vision-Language Pre-trained Models", arXiv, 2023 (*Xiamen University*). [[Paper](https://arxiv.org/abs/2309.01479)]
+    * **LaVIT**: "Unified Language-Vision Pretraining with Dynamic Discrete Visual Tokenization", arXiv, 2023 (*Kuaishou*). [[Paper](https://arxiv.org/abs/2309.04669)][[Code (in construction)](https://github.com/jy0205/LaVIT)]
 * Video:
     * **COOT**: "COOT: Cooperative Hierarchical Transformer for Video-Text Representation Learning", NeurIPS, 2020 (*University of Freiburg*). [[Paper](https://arxiv.org/abs/2011.00597)][[PyTorch](https://github.com/gingsi/coot-videotext)]
     * **Parameter-Reduction**: "Parameter Efficient Multimodal Transformers for Video Representation Learning", ICLR, 2021 (*Seoul National University*). [[Paper](https://openreview.net/forum?id=6UdQLhqJyFD)]
@@ -2872,7 +2880,8 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
 * **CiP**: "Image Captions are Natural Prompts for Text-to-Image Models", arXiv, 2023 (*The University of Sydney*). [[Paper](https://arxiv.org/abs/2307.08526)]
 * **UP-DP**: "UP-DP: Unsupervised Prompt Learning for Data Pre-Selection with Vision-Language Models", arXiv, 2023 (*Bosch*). [[Paper](https://arxiv.org/abs/2307.11227)]
 * **DPL**: "DPL: Decoupled Prompt Learning for Vision-Language Models", arXiv, 2023 (*vivo*). [[Paper](https://arxiv.org/abs/2308.10061)]
-* **DuAl-PT**: "Context-Aware Prompt Tuning for Vision-Language Model with Dual-Alignment", arXiv, 2023 (**). [[Paper](https://arxiv.org/abs/2309.04158)]
+* **DuAl-PT**: "Context-Aware Prompt Tuning for Vision-Language Model with Dual-Alignment", arXiv, 2023 (*ByteDance*). [[Paper](https://arxiv.org/abs/2309.04158)]
+* **DePT**: "DePT: Decomposed Prompt Tuning for Parameter-Efficient Fine-tuning", arXiv, 2023 (*UCL*). [[Paper](https://arxiv.org/abs/2309.05173)][[PyTorch](https://github.com/ZhengxiangShi/DePT)]
 
 [[Back to Overview](#overview)]
 
