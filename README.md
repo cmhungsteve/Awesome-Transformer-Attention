@@ -690,6 +690,7 @@ If you find this repository useful, please consider citing this list:
 * **BadViT**: "You Are Catching My Attention: Are Vision Transformers Bad Learners Under Backdoor Attacks?", CVPR, 2023 (*Huazhong University of Science and Technology*). [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Yuan_You_Are_Catching_My_Attention_Are_Vision_Transformers_Bad_Learners_CVPR_2023_paper.html)]
 * **?**: "Understanding and Defending Patched-based Adversarial Attacks for Vision Transformer", ICML, 2023 (*University of Pittsburgh*). [[Paper](https://openreview.net/forum?id=GR4c6Onxfw)]
 * **RobustMAE**: "Improving Adversarial Robustness of Masked Autoencoders via Test-time Frequency-domain Prompting", ICCV, 2023 (*USTC*). [[Paper](https://arxiv.org/abs/2308.10315)][[Code (in construction)](https://github.com/shikiw/RobustMAE)]
+* **QBBA**: "Exploring Non-additive Randomness on ViT against Query-Based Black-Box Attacks", BMVC, 2023 (*Oxford*). [[Paper](https://arxiv.org/abs/2309.06438)]
 * **PreLayerNorm**: "Improved Robustness of Vision Transformer via PreLayerNorm in Patch Embedding", PR, 2023 (*POSTECH*). [[Paper](https://arxiv.org/abs/2111.08413)]
 * **CertViT**: "CertViT: Certified Robustness of Pre-Trained Vision Transformers", arXiv, 2023 (*INRIA*). [[Paper](https://arxiv.org/abs/2302.10287)][[PyTorch](https://github.com/sagarverma/transformer-lipschitz)]
 * **CleanCLIP**: "CleanCLIP: Mitigating Data Poisoning Attacks in Multimodal Contrastive Learning", arXiv, 2023 (*UCLA*). [[Paper](https://arxiv.org/abs/2303.03323)]
@@ -2883,6 +2884,8 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
 * **DPL**: "DPL: Decoupled Prompt Learning for Vision-Language Models", arXiv, 2023 (*vivo*). [[Paper](https://arxiv.org/abs/2308.10061)]
 * **DuAl-PT**: "Context-Aware Prompt Tuning for Vision-Language Model with Dual-Alignment", arXiv, 2023 (*ByteDance*). [[Paper](https://arxiv.org/abs/2309.04158)]
 * **DePT**: "DePT: Decomposed Prompt Tuning for Parameter-Efficient Fine-tuning", arXiv, 2023 (*UCL*). [[Paper](https://arxiv.org/abs/2309.05173)][[PyTorch](https://github.com/ZhengxiangShi/DePT)]
+* **Prompting4Debugging**: "Prompting4Debugging: Red-Teaming Text-to-Image Diffusion Models by Finding Problematic Prompts", arXiv, 2023 (*NYCU*). [[Paper](https://arxiv.org/abs/2309.06135)]
+* **?**: "Language Models as Black-Box Optimizers for Vision-Language Models", arXiv, 2023 (*CMU*). [[Paper](https://arxiv.org/abs/2309.05950)]
 
 [[Back to Overview](#overview)]
 
