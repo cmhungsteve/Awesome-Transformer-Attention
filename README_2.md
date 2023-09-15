@@ -580,6 +580,7 @@ If you find this repository useful, please consider citing this list:
     * **PromptStyler**: "PromptStyler: Prompt-driven Style Generation for Source-free Domain Generalization", ICCV, 2023 (*Agency for Defense Development, Korea*). [[Paper](https://arxiv.org/abs/2307.15199)][[Website](https://promptstyler.github.io/)]
     * **DSiT**: "Domain-Specificity Inducing Transformers for Source-Free Domain Adaptation", ICCV, 2023 (*Indian Institute of Science*). [[Paper](https://arxiv.org/abs/2308.14023)][[Website](http://val.cds.iisc.ac.in/DSiT-SFDA/)]
     * **pFedPG**: "Efficient Model Personalization in Federated Learning via Client-Specific Prompt Generation", ICCV, 2023 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2308.15367)]
+    * **FedPerfix**: "FedPerfix: Towards Partial Model Personalization of Vision Transformers in Federated Learning", ICCV, 2023 (*UCF*). [[Paper](https://arxiv.org/abs/2308.09160)][[Code (in construction)](https://github.com/imguangyu/FedPerfix)]
     * **AD-CLIP**: "AD-CLIP: Adapting Domains in Prompt Space Using CLIP", ICCVW, 2023 (*IIT Bombay*). [[Paper](https://arxiv.org/abs/2308.05659)]
     * **StyLIP**: "StyLIP: Multi-Scale Style-Conditioned Prompt Learning for CLIP-based Domain Generalization", arXiv, 2023 (*TUM*). [[Paper](https://arxiv.org/abs/2302.09251)]
     * **FedCLIP**: "FedCLIP: Fast Generalization and Personalization for CLIP in Federated Learning", arXiv, 2023 (*CAS*). [[Paper](https://arxiv.org/abs/2302.13485)][[PyTorch](https://github.com/microsoft/PersonalizedFL)]
