@@ -1021,6 +1021,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **OmniLabel**: "OmniLabel: A Challenging Benchmark for Language-Based Object Detection", arXiv, 2023 (*NEC*). [[Paper](https://arxiv.org/abs/2304.11463)][[GitHub](https://github.com/samschulter/omnilabeltools)][[Website](https://www.omnilabel.org/)]
 * **ContextDET**: "Contextual Object Detection with Multimodal Large Language Models", arXiv, 2023 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2305.18279)][[Code (in construction)](https://github.com/yuhangzang/ContextDET)][[Website](https://www.mmlab-ntu.com/project/contextdet/index.html)]
 * **OWL-ST**: "Scaling Open-Vocabulary Object Detection", arXiv, 2023 (*DeepMind*). [[Paper](https://arxiv.org/abs/2306.09683)]
+* **Object2Scene**: "Object2Scene: Putting Objects in Context for Open-Vocabulary 3D Detection", arXiv, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2309.09456)]
 
 [[Back to Overview](#overview)]
 
