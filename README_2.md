@@ -1442,7 +1442,8 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
 * Active Learning:
     * **TJLS**: "Visual Transformer for Task-aware Active Learning", arXiv, 2021 (*ICL*). [[Paper](https://arxiv.org/abs/2106.03801)][[PyTorch](https://github.com/razvancaramalau/Visual-Transformer-for-Task-aware-Active-Learning)]
 * Agriculture:
-    * **PlantXViT**: "Explainable vision transformer enabled convolutional neural network for plant disease identification: PlantXViT", arXiv, 2922 (*Indian Institute of Information Technology*). [[Paper](https://arxiv.org/abs/2207.07919)]
+    * **PlantXViT**: "Explainable vision transformer enabled convolutional neural network for plant disease identification: PlantXViT", arXiv, 2022 (*Indian Institute of Information Technology*). [[Paper](https://arxiv.org/abs/2207.07919)]
+    * **MMST-ViT**: "MMST-ViT: Climate Change-aware Crop Yield Prediction via Multi-Modal Spatial-Temporal Vision Transformer", ICCV, 2023 (*University of Delaware, Delaware*). [[Paper](https://arxiv.org/abs/2309.09067)][[PyTorch](https://github.com/fudong03/MMST-ViT)]
 * Aesthetic:
     * **CSKD**: "CLIP Brings Better Features to Visual Aesthetics Learners", arXiv, 2023 (*OPPO*). [[Paper](https://arxiv.org/abs/2307.15640)]
 * Animation-related:
