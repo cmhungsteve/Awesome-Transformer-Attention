@@ -184,6 +184,7 @@ If you find this repository useful, please consider citing this list:
 * "Transformers Meet Visual Learning Understanding: A Comprehensive Review", arXiv, 2022 (*Xidian University*). [[Paper](https://arxiv.org/abs/2203.12944)]
 * "Image Captioning In the Transformer Age", arXiv, 2022 (*Alibaba*). [[Paper](https://arxiv.org/abs/2204.07374)][[GitHub](https://github.com/SjokerLily/awesome-image-captioning)]
 * "Visual Attention Methods in Deep Learning: An In-Depth Survey", arXiv, 2022 (*Fayoum University, Egypt*). [[Paper](https://arxiv.org/abs/2204.07756)]
+* "Attention mechanisms in computer vision: A survey", Computational Visual Media, 2022 (*Tsinghua University, China*). [[Paper](https://link.springer.com/article/10.1007/s41095-022-0271-y)][[Github](https://github.com/MenghaoGuo/Awesome-Vision-Attentions)][[Arxiv](https://arxiv.org/abs/2111.07624)]
 * "Transformers in Vision: A Survey", ACM Computing Surveys, 2021 (*MBZUAI*). [[Paper](https://arxiv.org/abs/2101.01169)]
 * "Survey: Transformer based Video-Language Pre-training", arXiv, 2021 (*Renmin University of China*). [[Paper](https://arxiv.org/abs/2109.09920)]
 * "A Survey of Transformers", arXiv, 2021 (*Fudan*). [[Paper](https://arxiv.org/abs/2106.04554)]
