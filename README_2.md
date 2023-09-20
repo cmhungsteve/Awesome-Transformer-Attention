@@ -1554,6 +1554,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **PLEor**: "Open-Set Fine-Grained Retrieval via Prompting Vision-Language Evaluator", CVPR, 2023 (*Dalian University of Technology*). [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Wang_Open-Set_Fine-Grained_Retrieval_via_Prompting_Vision-Language_Evaluator_CVPR_2023_paper.html)]
     * **MultitaskVLFM**: "Leveraging Vision-Language Foundation Models for Fine-Grained Downstream Tasks", arXiv, 2023 (*Conservatoire National des Arts et Métiers (CEDRIC) France*). [[Paper](https://arxiv.org/abs/2307.06795)][[PyTorch](https://github.com/FactoDeepLearning/MultitaskVLFM)]
     * **M2Former**: "M2Former: Multi-Scale Patch Selection for Fine-Grained Visual Recognition", arXiv, 2023 (*Dongguk University, Korea*). [[Paper](https://arxiv.org/abs/2308.02161)]
+    * **MP-FGVC**: "Delving into Multimodal Prompting for Fine-grained Visual Classification", arXiv, 2023 (*Nanjing University of Science and Technology*). [[Paper](https://arxiv.org/abs/2309.08912)]
 * Gait:
     * **Gait-TR**: "Spatial Transformer Network on Skeleton-based Gait Recognition", arXiv, 2022 (*South China University of Technology*). [[Paper](https://arxiv.org/abs/2204.03873)]
     * **MMGaitFormer**: "Multi-Modal Gait Recognition via Effective Spatial-Temporal Feature Fusion", CVPR, 2023 (*Beihang University*). [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Cui_Multi-Modal_Gait_Recognition_via_Effective_Spatial-Temporal_Feature_Fusion_CVPR_2023_paper.html)]
