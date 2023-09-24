@@ -332,6 +332,7 @@ If you find this repository useful, please consider citing this list:
 * **NaViT**: "Patch n' Pack: NaViT, a Vision Transformer for any Aspect Ratio and Resolution", arXiv, 2023 (*DeepMind*). [[Paper](https://arxiv.org/abs/2307.06304)]
 * **DAT++**: "DAT++: Spatially Dynamic Vision Transformer with Deformable Attention", arXiv, 2023 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2309.01430)][[PyTorch](https://github.com/LeapLabTHU/DAT)]
 * **?**: "Replacing softmax with ReLU in Vision Transformers", arXiv, 2023 (*DeepMind*). [[Paper](https://arxiv.org/abs/2309.08586)]
+* **RMT**: "RMT: Retentive Networks Meet Vision Transformers", arXiv, 2023 (*CAS*). [[Paper](https://arxiv.org/abs/2309.11523)]
 #### Efficient Vision Transformer
 * **DeiT**: "Training data-efficient image transformers & distillation through attention", ICML, 2021 (*Facebook*). [[Paper](https://arxiv.org/abs/2012.12877)][[PyTorch](https://github.com/facebookresearch/deit)]
 * **ConViT**: "ConViT: Improving Vision Transformers with Soft Convolutional Inductive Biases", ICML, 2021 (*Facebook*). [[Paper](https://arxiv.org/abs/2103.10697)][[Code](https://github.com/facebookresearch/convit)]
@@ -1811,6 +1812,7 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
 * **VIPMT**: "Multi-grained Temporal Prototype Learning for Few-shot Video Object Segmentation", ICCV, 2023 (*MBZUAI*). [[Paper](https://arxiv.org/abs/2309.11160)][[Code (in construction)](https://github.com/nankepan/VIPMT)]
 * **MUTR**: "Referred by Multi-Modality: A Unified Temporal Transformer for Video Object Segmentation", arXiv, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2305.16318)][[PyTorch](https://github.com/OpenGVLab/MUTR)]
 * **JointFormer**: "Joint Modeling of Feature, Correspondence, and a Compressed Memory for Video Object Segmentation", arXiv, 2023 (*Nanjing University*). [[Paper](https://arxiv.org/abs/2308.13505)]
+* **PanoVOS**: "PanoVOS: Bridging Non-panoramic and Panoramic Views with Transformer for Video Segmentation", arXiv, 2023 (*Fudan*). [[Paper](https://arxiv.org/abs/2309.12303)][[Code (in construction)](https://github.com/shilinyan99/PanoVOS)][[Website](https://shilinyan99.github.io/PanoVOS/index_pano.html)]
 
 [[Back to Overview](#overview)]
 
@@ -2018,6 +2020,8 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
     * **AVGN**: "Audio-Visual Glance Network for Efficient Video Recognition", ICCV, 2023 (*KAIST*). [[Paper](https://arxiv.org/abs/2308.09322)]
 * Event Camera:
     * **EventTransAct**: "EventTransAct: A video transformer-based framework for Event-camera based action recognition", IROS, 2023 (*UCF*). [[Paper](https://arxiv.org/abs/2308.13711)][[PyTorch](https://github.com/tristandb8/EventTransAct)][[Website](https://tristandb8.github.io/EventTransAct_webpage/)]
+* Long Video:
+    * **KTS**: "Revisiting Kernel Temporal Segmentation as an Adaptive Tokenizer for Long-form Video Understanding", arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2309.11569)]
 
 [[Back to Overview](#overview)]
 
@@ -3121,10 +3125,11 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
     * **EDA**: "EDA: Explicit Text-Decoupling and Dense Alignment for 3D Visual and Language Learning", arXiv, 2022 (*Peking University*). [[Paper](https://arxiv.org/abs/2209.14941)]
     * **PLA**: "Language-driven Open-Vocabulary 3D Scene Understanding", CVPR, 2023 (*ByteDance*). [[Paper](https://arxiv.org/abs/2211.16312)][[PyTorch](https://github.com/CVMI-Lab/PLA)][[Website](https://dingry.github.io/projects/PLA)]
     * **VL-SAT**: "VL-SAT: Visual-Linguistic Semantics Assisted Training for 3D Semantic Scene Graph Prediction in Point Cloud", CVPR, 2023 (*Beihang University*). [[Paper](https://arxiv.org/abs/2303.14408)][[PyTorch](https://github.com/wz7in/CVPR2023-VLSAT)]
+    * **LERF**: "LERF: Language Embedded Radiance Fields", ICCV, 2023 (*Berkeley*). [[Paper](https://arxiv.org/abs/2303.09553)][[Website](https://www.lerf.io/)]
     * **ConceptFusion**: "ConceptFusion: Open-set Multimodal 3D Mapping", arXiv, 2023 (*MIT*). [[Paper](https://arxiv.org/abs/2302.07241)][[Website](https://concept-fusion.github.io/)]
-    * **LERF**: "LERF: Language Embedded Radiance Fields", arXiv, 2023 (*Berkeley*). [[Paper](https://arxiv.org/abs/2303.09553)][[Website](https://www.lerf.io/)]
     * **CG3D**: "CLIP goes 3D: Leveraging Prompt Tuning for Language Grounded 3D Recognition", arXiv, 2023 (*JHU*). [[Paper](https://arxiv.org/abs/2303.11313)][[PyTorch](https://github.com/deeptibhegde/CLIP-goes-3D)][[Website](https://jeya-maria-jose.github.io/cg3d-web/)]
     * **DiffCLIP**: "DiffCLIP: Leveraging Stable Diffusion for Language Grounded 3D Classification", arXiv, 2023 (*Beijing Institute of Technology*). [[Paper](https://arxiv.org/abs/2305.15957)]
+    * **LLM-Grounder**: "LLM-Grounder: Open-Vocabulary 3D Visual Grounding with Large Language Model as an Agent", arXiv, 2023 (*UMich*). [[Paper](https://arxiv.org/abs/2309.12311)][[PyTorch](https://github.com/sled-group/chat-with-nerf)][[Website](https://chat-with-nerf.github.io/)]
 * 3D Segmentation:
     * **OpenScene**: "OpenScene: 3D Scene Understanding with Open Vocabularies", CVPR, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2211.15654)][[PyTorch](https://github.com/pengsongyou/openscene)][[Website](https://pengsongyou.github.io/openscene)]
     * **PartSLIP**: "PartSLIP: Low-Shot Part Segmentation for 3D Point Clouds via Pretrained Image-Language Models", CVPR, 2023 (*Qualcomm*). [[Paper](https://arxiv.org/abs/2212.01558)]
