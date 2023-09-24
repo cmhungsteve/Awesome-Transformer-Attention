@@ -692,6 +692,7 @@ If you find this repository useful, please consider citing this list:
     * **G2SD**: "Generic-to-Specific Distillation of Masked Autoencoders", CVPR, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2302.14771)][[PyTorch](https://github.com/pengzhiliang/G2SD)]
     * **SLaK**: "Are Large Kernels Better Teachers than Transformers for ConvNets?", ICML, 2023 (*Eindhoven University of Technology, Netherlands*). [[Paper] (https://arxiv.org/abs/2305.19412)][[PyTorch](https://github.com/VITA-Group/SLaK)]
     * **CSKD**: "Cumulative Spatial Knowledge Distillation for Vision Transformers", ICCV, 2023 (*Megvii*). [[Paper](https://arxiv.org/abs/2307.08500)]
+    * **TinyCLIP**: "TinyCLIP: CLIP Distillation via Affinity Mimicking and Weight Inheritance", ICCV, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2309.12314)][[PyTorch](https://github.com/microsoft/Cream/tree/main/TinyCLIP)]
     * **MaskedKD**: "MaskedKD: Efficient Distillation of Vision Transformers with Masked Images", arXiv, 2023 (*POSTECH*). [[Paper](https://arxiv.org/abs/2302.10494)]
     * **DIME-FM**: "DIME-FM: DIstilling Multimodal and Efficient Foundation Models", arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2303.18232)]
 * Clustering:
