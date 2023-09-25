@@ -1074,7 +1074,8 @@ If you find this repository useful, please consider citing this list:
 * Radiance Fields:
     * **NeXT**: "NeXT: Towards High Quality Neural Radiance Fields via Multi-Skip Transformer", ECCV, 2022 (*Tsinghua University*). [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/1810_ECCV_2022_paper.php)][[JAX](https://github.com/Crishawy/NeXT)]
     * **TransNeRF**: "Generalizable Neural Radiance Fields for Novel View Synthesis with Transformer", arXiv, 2022 (*UBC*). [[Paper](https://arxiv.org/abs/2206.05375)]
-    * **TransHuman**: "TransHuman: A Transformer-based Human Representation for Generalizable Neural Human Rendering", ICCV, 2023 (*Alibaba*). [[Paper](https://arxiv.org/abs/2307.12291)][[Code (in construction)](https://github.com/pansanity666/TransHuman/)][[Website](https://pansanity666.github.io/TransHuman/)]
+    * **TransHuman**: "TransHuman: A Transformer-based Human Representation for Generalizable Neural Human Rendering", ICCV, 2023 (*Alibaba*). [[Paper](https://arxiv.org/abs/2307.12291)][[PyTorch](https://github.com/pansanity666/TransHuman/)][[Website](https://pansanity666.github.io/TransHuman/)]
+    * **GNT-MOVE**: "Enhancing NeRF akin to Enhancing LLMs: Generalizable NeRF Transformer with Mixture-of-View-Experts", ICCV, 2023 (*UT Austin*). [[Paper](https://arxiv.org/abs/2308.11793)]
 * 3D:
     * **MNSRNet**: "MNSRNet: Multimodal Transformer Network for 3D Surface Super-Resolution", CVPR, 2022 (*Shenzhen University*). [[Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Xie_MNSRNet_Multimodal_Transformer_Network_for_3D_Surface_Super-Resolution_CVPR_2022_paper.html)]
 * Others:
@@ -1088,6 +1089,7 @@ If you find this repository useful, please consider citing this list:
     * **OCTUF**: "Optimization-Inspired Cross-Attention Transformer for Compressive Sensing", CVPR, 2023 (*Peking University*). [[Paper](https://arxiv.org/abs/2304.13986)][[PyTorch](https://github.com/songjiechong/OCTUF)]
     * **TopNet**: "TopNet: Transformer-based Object Placement Network for Image Compositing", CVPR, 2023 (*Adobe*). [[Paper](https://arxiv.org/abs/2304.03372)]
     * **RHWF**: "Recurrent Homography Estimation Using Homography-Guided Image Warping and Focus Transformer", CVPR, 2023 (*Zhejiang University*). [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Cao_Recurrent_Homography_Estimation_Using_Homography-Guided_Image_Warping_and_Focus_Transformer_CVPR_2023_paper.html)][[Code (in construction)](https://github.com/imdumpl78/rhwf)]
+    * **M2T**: "M2T: Masking Transformers Twice for Faster Decoding", ICCV, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2304.07313)]
 
 [[Back to Overview](#overview)]
 
@@ -1607,7 +1609,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **LayoutFormer++**: "LayoutFormer++: Conditional Graphic Layout Generation via Constraint Serialization and Decoding Space Restriction", CVPR, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2208.08037)]
     * **RoomFormer**: "Connecting the Dots: Floorplan Reconstruction Using Two-Level Queries", CVPR, 2023 (*ETH Zurich*). [[Paper](https://arxiv.org/abs/2211.15658)][[PyTorch](https://github.com/ywyue/RoomFormer)][[Website](https://ywyue.github.io/RoomFormer/)]
     * **LayoutDM**: "LayoutDM: Transformer-based Diffusion Model for Layout Generation", CVPR, 2023 (*USTC*). [[Paper](https://arxiv.org/abs/2305.02567)]
-    * **DLT**: "DLT: Conditioned layout generation with Joint Discrete-Continuous Diffusion Layout Transformer", arXiv, 2023 (*Wix.com*). [[Paper](https://arxiv.org/abs/2303.03755)]
+    * **DLT**: "DLT: Conditioned layout generation with Joint Discrete-Continuous Diffusion Layout Transformer", ICCV, 2023 (*Wix.com*). [[Paper](https://arxiv.org/abs/2303.03755)]
 * Livestock Monitoring:
     * **STARFormer**: "Livestock Monitoring with Transformer", BMVC, 2021 (*IIT Dhanbad*). [[Paper](https://arxiv.org/abs/2111.00801)]
 * Metric Learning:
@@ -1758,6 +1760,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **Multiverse-Transformer**: "Multiverse Transformer: 1st Place Solution for Waymo Open Sim Agents Challenge 2023", CVPRW, 2023 (*Pegasus*). [[Paper](https://arxiv.org/abs/2306.11868)][[Website](https://multiverse-transformer.github.io/sim-agents/)]
     * **SegMiF**: "Multi-interactive Feature Learning and a Full-time Multi-modality Benchmark for Image Fusion and Segmentation", ICCV, 2023 (*Dalian University of Technology*). [[Paper](https://arxiv.org/abs/2308.02097)][[Code (in construction)](https://github.com/JinyuanLiu-CV/SegMiF)]
     * **VTD**: "Video Task Decathlon: Unifying Image and Video Tasks in Autonomous Driving", ICCV, 2023 (*ETHZ*). [[Paper](https://arxiv.org/abs/2309.04422)]
+    * **HM-ViT**: "HM-ViT: Hetero-modal Vehicle-to-Vehicle Cooperative perception with vision transformer", ICCV, 2023 (*UCLA*). [[Paper](https://arxiv.org/abs/2304.10628)]
     * **LiDARFormer**: "LiDARFormer: A Unified Transformer-based Multi-task Network for LiDAR Perception", arXiv, 2023 (*TuSimple*). [[Paper](https://arxiv.org/abs/2303.12194)]
     * **VoxelFormer**: "VoxelFormer: Bird's-Eye-View Feature Generation based on Dual-view Attention for Multi-view 3D Object Detection", arXiv, 2023 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2304.01054)][[PyTorch](https://github.com/Lizhuoling/VoxelFormer-public)]
     * **AVIS**: "AVIS: Autonomous Visual Information Seeking with Large Language Models", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2306.08129)]
@@ -1837,7 +1840,6 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **TEMOS**: "TEMOS: Generating diverse human motions from textual descriptions", ECCV, 2022 (*MPI*). [[Paper](https://arxiv.org/abs/2204.14109)][[PyTorch](https://github.com/Mathux/TEMOS)][[Website](https://mathis.petrovich.fr/temos/)]
     * **TM2T**: "TM2T: Stochastic and Tokenized Modeling for the Reciprocal Generation of 3D Human Motions and Texts", ECCV, 2022 (*University of Alberta, Canada*). [[Paper](https://arxiv.org/abs/2207.01696)][[PyTorch](https://github.com/EricGuo5513/TM2T)][[Website](https://ericguo5513.github.io/TM2T/)]
     * **HUMANISE**: "HUMANISE: Language-conditioned Human Motion Generation in 3D Scenes", NeurIPS, 2022 (*Beijing Institute of Technology*). [[Paper](https://arxiv.org/abs/2210.09729)][[GitHub](https://github.com/Silverster98/HUMANISE)][[Website](https://silvester.wang/HUMANISE/)]
-    * **ActFormer**: "ActFormer: A GAN Transformer Framework towards General Action-Conditioned 3D Human Motion Generation", arXiv, 2022 (*SenseTime*). [[Paper](https://arxiv.org/abs/2203.07706)]
     * **?**: "Diverse Dance Synthesis via Keyframes with Transformer Controllers", arXiv, 2022 (*Beihang University*). [[Paper](https://arxiv.org/abs/2207.05906)]
     * **MARIONET**: "NEURAL MARIONETTE: A Transformer-based Multi-action Human Motion Synthesis System", arXiv, 2022 (*Wuhan University*). [[Paper](https://arxiv.org/abs/2209.13204)]
     * **Action-GPT**: "Action-GPT: Leveraging Large-scale Language Models for Improved and Generalized Zero Shot Action Generation", arXiv, 2022 (*IIIT Hyderabad*). [[Paper](https://arxiv.org/abs/2211.15603)][[Website](https://actiongpt.github.io/)]
@@ -1847,6 +1849,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **CITL**: "Continuous Intermediate Token Learning with Implicit Motion Manifold for Keyframe Based Motion Interpolation", CVPR, 2023 (*The University of Sydney*). [[Paper](https://arxiv.org/abs/2303.14926)][[PyTorch](https://github.com/MiniEval/CITL)]
     * **OOHMG**: "Being Comes from Not-being: Open-vocabulary Text-to-Motion Generation with Wordless Training", CVPR, 2023 (*Sun Yat-Sen University*). [[Paper](https://arxiv.org/abs/2210.15929)][[Code (in construction)](https://github.com/junfanlin/oohmg)]
     * **AttT2M**: "AttT2M: Text-Driven Human Motion Generation with Multi-Perspective Attention Mechanism", ICCV, 2023 (*CAS*). [[Paper](https://arxiv.org/abs/2309.00796)][[PyTorch](https://github.com/ZcyMonkey/AttT2M)]
+    * **ActFormer**: "ActFormer: A GAN Transformer Framework towards General Action-Conditioned 3D Human Motion Generation", ICCV, 2023 (*SenseTime*). [[Paper](https://arxiv.org/abs/2203.07706)]
     * **ATOM**: "Language-guided Human Motion Synthesis with Atomic Actions", ACMMM, 2023 (*University at Buffalo*). [[Paper](https://arxiv.org/abs/2308.09611)][[Code (in construction)](https://github.com/yhZhai/ATOM)]
     * **DDT**: "DDT: A Diffusion-Driven Transformer-based Framework for Human Mesh Recovery from a Video", arXiv, 2023 (*OPPO*). [[Paper](https://arxiv.org/abs/2303.13397)]
     * **MotionGPT**: "MotionGPT: Finetuned LLMs are General-Purpose Motion Generators", arXiv, 2023 (*USTC*). [[Paper](https://arxiv.org/abs/2306.10900)][[PyTorch (in construction)](https://github.com/qiqiApink/MotionGPT)][[Website](https://qiqiapink.github.io/MotionGPT/)]
