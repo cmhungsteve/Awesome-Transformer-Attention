@@ -1148,6 +1148,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **SGDN**: "Open-Vocabulary Object Detection via Scene Graph Discovery", arXiv, 2023 (*Monash University*). [[Paper](https://arxiv.org/abs/2307.03339)]
     * **ASM**: "The All-Seeing Project: Towards Panoptic Visual Recognition and Understanding of the Open World", arXiv, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2308.01907)][[Code (in construction)](https://github.com/OpenGVLab/All-Seeing)][[Demo](https://huggingface.co/spaces/OpenGVLab/all-seeing)]
     * **SAS-Det**: "Improving Pseudo Labels for Open-Vocabulary Object Detection", arXiv, 2023 (*NEC*). [[Paper](https://arxiv.org/abs/2308.06412)]
+    * **DE-ViT**: "Detect Every Thing with Few Examples", arXiv, 2023 (*Rutgers*). [[Paper](https://arxiv.org/abs/2309.12969)][[PyTorch](https://github.com/mlzxy/devit)]
 * Pedestrian Detection:
     * **PED**: "DETR for Crowd Pedestrian Detection", arXiv, 2020 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2012.06785)][[PyTorch](https://github.com/Hatmm/PED-DETR-for-Pedestrian-Detection)]
     * **?**: "Effectiveness of Vision Transformer for Fast and Accurate Single-Stage Pedestrian Detection", NeurIPS, 2022 (*ICL*). [[Paper](https://openreview.net/forum?id=eow_ZGaw24j)]
