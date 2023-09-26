@@ -1,4 +1,4 @@
-## (back to [README.md](README.md) for other categories)
+(back to [README.md](README.md) for other categories)
 ## Overview
 
 - [Citation](#citation)
