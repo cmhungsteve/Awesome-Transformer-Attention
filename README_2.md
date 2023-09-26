@@ -1072,6 +1072,7 @@ If you find this repository useful, please consider citing this list:
     * **NLOST**: "NLOST: Non-Line-of-Sight Imaging with Transformer", CVPR, 2023 (*USTC*). [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Li_NLOST_Non-Line-of-Sight_Imaging_With_Transformer_CVPR_2023_paper.html)][[Code (in construction)](https://github.com/Depth2World/NLOST)]
     * **MinD-Vis**: "Seeing Beyond the Brain: Conditional Diffusion Model with Sparse Masked Modeling for Vision Decoding", CVPR, 2023 (*NUS*). [[Paper](https://arxiv.org/abs/2211.06956)][[PyTorch](https://github.com/zjc062/mind-vis)][[Website](https://mind-vis.github.io/)]
     * **PADUT**: "Pixel Adaptive Deep Unfolding Transformer for Hyperspectral Image Reconstruction", ICCV, 2023 (*Beijing Institute of Technology*). [[Paper](https://arxiv.org/abs/2308.10820)]
+    * **GTA**: "Global-correlated 3D-decoupling Transformer for Clothed Avatar Reconstruction", NeurIPS, 2023 (*Zhejiang*). [[Paper](https://arxiv.org/abs/2309.13524)]
 * Radiance Fields:
     * **NeXT**: "NeXT: Towards High Quality Neural Radiance Fields via Multi-Skip Transformer", ECCV, 2022 (*Tsinghua University*). [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/1810_ECCV_2022_paper.php)][[JAX](https://github.com/Crishawy/NeXT)]
     * **TransNeRF**: "Generalizable Neural Radiance Fields for Novel View Synthesis with Transformer", arXiv, 2022 (*UBC*). [[Paper](https://arxiv.org/abs/2206.05375)]
