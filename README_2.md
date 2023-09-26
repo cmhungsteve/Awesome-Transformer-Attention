@@ -480,6 +480,7 @@ If you find this repository useful, please consider citing this list:
     * **?**: "Deep Convolutional Pooling Transformer for Deepfake Detection", arXiv, 2022 (*HKU*). [[Paper](https://arxiv.org/abs/2209.05299)]
     * **DGM<sup>4</sup>**: "Detecting and Grounding Multi-Modal Media Manipulation", CVPR, 2023 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2304.02556)][[PyTorch](https://github.com/rshaojimmy/MultiModal-DeepFake)][[Website](https://rshaojimmy.github.io/Projects/MultiModal-DeepFake)]
     * **Face-Transformer**: "Face Transformer: Towards High Fidelity and Accurate Face Swapping", arXiv, 2023 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2304.02530)]
+    * **DGM<sup>4</sup>**: "Detecting and Grounding Multi-Modal Media Manipulation and Beyond", arXiv, 2023 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2309.14203)][[PyTorch](https://github.com/rshaojimmy/MultiModal-DeepFake)]
 * Fairness:
     * **TADeT**: "Mitigating Bias in Visual Transformers via Targeted Alignment", BMVC, 2021 (*Georgia Tech*). [[Paper](https://arxiv.org/abs/2302.04358)]
 * Generation:
@@ -1642,6 +1643,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **?**: "Masked Images Are Counterfactual Samples for Robust Fine-tuning", CVPR, 2023 (*Sun Yat-sen University*). [[Paper](https://arxiv.org/abs/2303.03052)][[PyTorch](https://github.com/Coxy7/robust-finetuning)]
     * **CLIPood**: "CLIPood: Generalizing CLIP to Out-of-Distributions", ICML, 2023 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2302.00864)]
     * **CLIPN**: "CLIPN for Zero-Shot OOD Detection: Teaching CLIP to Say No", ICCV, 2023 (*HKUST*). [[Paper](https://arxiv.org/abs/2308.12213)][[PyTorch](https://github.com/xmed-lab/CLIPN)]
+    * **DREAM-OOD**: "Dream the Impossible: Outlier Imagination with Diffusion Models", NeurIPS, 2023 (*UW Madison*). [[Paper](https://arxiv.org/abs/2309.13415)]
     * **GL-MCM**: "Zero-Shot In-Distribution Detection in Multi-Object Settings Using Vision-Language Foundation Models", arXiv, 2023 (*The University of Tokyo*). [[Paper](https://arxiv.org/abs/2304.04521)]
     * **LoCoOp**: "LoCoOp: Few-Shot Out-of-Distribution Detection via Prompt Learning", arXiv, 2023 (*The University of Tokyo*). [[Paper](https://arxiv.org/abs/2306.01293)][[Code (in construction)](https://github.com/AtsuMiyai/LoCoOp)]
     * **?**: "Distilling Large Vision-Language Model with Out-of-Distribution Generalizability", arXiv, 2023 (*UCSD*). [[Paper](https://arxiv.org/abs/2307.03135)][[PyTorch](https://github.com/xuanlinli17/large_vlm_distillation_ood)]
@@ -1851,9 +1853,9 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **AttT2M**: "AttT2M: Text-Driven Human Motion Generation with Multi-Perspective Attention Mechanism", ICCV, 2023 (*CAS*). [[Paper](https://arxiv.org/abs/2309.00796)][[PyTorch](https://github.com/ZcyMonkey/AttT2M)]
     * **ActFormer**: "ActFormer: A GAN Transformer Framework towards General Action-Conditioned 3D Human Motion Generation", ICCV, 2023 (*SenseTime*). [[Paper](https://arxiv.org/abs/2203.07706)]
     * **ATOM**: "Language-guided Human Motion Synthesis with Atomic Actions", ACMMM, 2023 (*University at Buffalo*). [[Paper](https://arxiv.org/abs/2308.09611)][[Code (in construction)](https://github.com/yhZhai/ATOM)]
+    * **MotionGPT**: "MotionGPT: Human Motion as a Foreign Language", NeurIPS, 2023 (*Fudan*). [[Paper](https://arxiv.org/abs/2306.14795)][[PyTorch](https://github.com/OpenMotionLab/MotionGPT)][[Website](https://motion-gpt.github.io/)]
     * **DDT**: "DDT: A Diffusion-Driven Transformer-based Framework for Human Mesh Recovery from a Video", arXiv, 2023 (*OPPO*). [[Paper](https://arxiv.org/abs/2303.13397)]
     * **MotionGPT**: "MotionGPT: Finetuned LLMs are General-Purpose Motion Generators", arXiv, 2023 (*USTC*). [[Paper](https://arxiv.org/abs/2306.10900)][[PyTorch (in construction)](https://github.com/qiqiApink/MotionGPT)][[Website](https://qiqiapink.github.io/MotionGPT/)]
-    * **MotionGPT**: "MotionGPT: Human Motion as a Foreign Language", arXiv, 2023 (*Fudan*). [[Paper](https://arxiv.org/abs/2306.14795)][[Code (in construction)](https://github.com/OpenMotionLab/MotionGPT)]
     * **UNIMASK-M**: "A Unified Masked Autoencoder with Patchified Skeletons for Motion Synthesis", arXiv, 2023 (*Technische Universitat Wien (TUWien), Austria*). [[Paper](https://arxiv.org/abs/2308.07301)][[Website](https://sites.google.com/view/estevevallsmascaro/publications/unimask-m)]
 * 3D Object Recognition:
     * **MVT**: "MVT: Multi-view Vision Transformer for 3D Object Recognition", BMVC, 2021 (*Baidu*). [[Paper](https://arxiv.org/abs/2110.13083)]
