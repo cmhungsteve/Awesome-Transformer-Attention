@@ -638,6 +638,7 @@ If you find this repository useful, please consider citing this list:
 * **Soft-MoE**: "From Sparse to Soft Mixtures of Experts", arXiv, 2023 (*DeepMind*). [[Paper](https://arxiv.org/abs/2308.00951)]
 * **RevColV2**: "RevColV2: Exploring Disentangled Representations in Masked Image Modeling", arXiv, 2023 (*Megvii*). [[Paper](https://arxiv.org/abs/2309.01005)][[PyTorch](https://github.com/megvii-research/RevCol)]
 * **DropPos**: "DropPos: Pre-Training Vision Transformers by Reconstructing Dropped Positions", arXiv, 2023 (*CAS*). [[Paper](https://arxiv.org/abs/2309.03576)]
+* **MIRL**: "Masked Image Residual Learning for Scaling Deeper Vision Transformers", arXiv, 2023 (*Baidu*). [[Paper](https://arxiv.org/abs/2309.14136)]
 #### Robustness + Transformer
 * **ViT-Robustness**: "Understanding Robustness of Transformers for Image Classification", ICCV, 2021 (*Google*). [[Paper](https://arxiv.org/abs/2103.14586)]
 * **SAGA**: "On the Robustness of Vision Transformers to Adversarial Examples", ICCV, 2021 (*University of Connecticut*). [[Paper](https://arxiv.org/abs/2104.02610)]
@@ -1517,6 +1518,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **SIM**: "SIM: Semantic-aware Instance Mask Generation for Box-Supervised Instance Segmentation", CVPR, 2023 (*The Hong Kong Polytechnic University*). [[Paper](https://arxiv.org/abs/2303.08578)][[PyTorch (in construction)](https://github.com/lslrh/SIM)]
     * **AttentionShift**: "AttentionShift: Iteratively Estimated Part-based Attention Map for Pointly Supervised Instance Segmentation", CVPR, 2023 (*CAS*). [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Liao_AttentionShift_Iteratively_Estimated_Part-Based_Attention_Map_for_Pointly_Supervised_Instance_CVPR_2023_paper.html)]
     * **Point2Mask**: "Point2Mask: Point-supervised Panoptic Segmentation via Optimal Transport", ICCV, 2023 (*Zhejiang*). [[Paper](https://arxiv.org/abs/2308.01779)][[PyTorch](https://github.com/LiWentomng/Point2Mask)]
+    * **CoCu**: "Bridging Semantic Gaps for Language-Supervised Semantic Segmentation", NeurIPS, 2023 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2309.13505)][[PyTorch (in construction)](https://github.com/xing0047/CoCu)]
     * **VLOSS**: "Towards Universal Vision-language Omni-supervised Segmentation", arXiv, 2023 (*Harbin Institute of Technology*). [[Paper](https://arxiv.org/abs/2303.06547)]
     * **MECPformer**: "MECPformer: Multi-estimations Complementary Patch with CNN-Transformers for Weakly Supervised Semantic Segmentation", arXiv, 2023 (*Tongji University*). [[Paper](https://arxiv.org/abs/2303.10689)][[Code (in construction)](https://github.com/ChunmengLiu1/MECPformer)]
     * **BoxSnake**: "BoxSnake: Polygonal Instance Segmentation with Box Supervision", arXiv, 2023 (*Tencent*). [[Paper](https://arxiv.org/abs/2303.11630)]
