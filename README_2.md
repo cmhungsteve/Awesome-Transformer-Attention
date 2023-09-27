@@ -1035,13 +1035,14 @@ If you find this repository useful, please consider citing this list:
     * **SPGAT**: "Structural Prior Guided Generative Adversarial Transformers for Low-Light Image Enhancement", arXiv, 2022 (*The Hong Kong Polytechnic University*). [[Paper](https://arxiv.org/abs/2207.07828)]
     * **SSTF**: "End-to-end Transformer for Compressed Video Quality Enhancement", arXiv, 2022 (*Nanjing University of Information Science and Technology*). [[Paper](https://arxiv.org/abs/2210.13827)]
     * **CLIP-LiT**: "Iterative Prompt Learning for Unsupervised Backlit Image Enhancement", ICCV, 2023 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2303.17569)][[PyTorch](https://github.com/ZhexinLiang/CLIP-LIT)][[Website](https://zhexinliang.github.io/CLIP_LIT_page/)]
-* HDR:
+* High Dynamic Range (HDR):
     * **CA-ViT**: "Ghost-free High Dynamic Range Imaging with Context-aware Transformer", ECCV, 2022 (*Megvii*). [[Paper](https://arxiv.org/abs/2208.05114)][[PyTorch](https://github.com/megvii-research/HDR-Transformer)]
     * **Selective-TransHDR**: "Selective TransHDR: Transformer-Based Selective HDR Imaging Using Ghost Region Mask", ECCV, 2022 (*Sogang University, Korea*). [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/6670_ECCV_2022_paper.php)]
     * **Text2Light**: "Text2Light: Zero-Shot Text-Driven HDR Panorama Generation", SIGGRAPH Asia, 2022 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2209.09898)][[PyTorch](https://github.com/FrozenBurning/Text2Light)][[Website](https://frozenburning.github.io/projects/text2light/)]
     * **SMAE**: "SMAE: Few-shot Learning for HDR Deghosting with Saturation-Aware Masked Autoencoders", CVPR, 2023 (*Northwestern Polytechnical University*). [[Paper](https://arxiv.org/abs/2304.06914)]
     * **SCTNet**: "Alignment-free HDR Deghosting with Semantics Consistent Transformer", arXiv, 2023 (*University of Bourgogne, France*). [[Paper](https://arxiv.org/abs/2305.18135)][[Website](https://steven-tel.github.io/sctnet/)]
     * **?**: "Online Overexposed Pixels Hallucination in Videos with Adaptive Reference Frame Selection", arXiv, 2023 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2308.15462)]
+    * **IFT**: "IFT: Image Fusion Transformer for Ghost-free High Dynamic Range Imaging", arXiv, 2023 (*Huawei*). [[Paper](https://arxiv.org/abs/2309.15019)]
 * Harmonization:
     * **HT**: "Image Harmonization With Transformer", ICCV, 2021 (*Ocean University of China*). [[Paper](https://openaccess.thecvf.com/content/ICCV2021/html/Guo_Image_Harmonization_With_Transformer_ICCV_2021_paper.html)]
     * **LEMaRT**: "LEMaRT: Label-Efficient Masked Region Transform for Image Harmonization", CVPR, 2023 (*Amazon*). [[Paper](https://arxiv.org/abs/2304.13166)]
@@ -1764,6 +1765,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **SegMiF**: "Multi-interactive Feature Learning and a Full-time Multi-modality Benchmark for Image Fusion and Segmentation", ICCV, 2023 (*Dalian University of Technology*). [[Paper](https://arxiv.org/abs/2308.02097)][[Code (in construction)](https://github.com/JinyuanLiu-CV/SegMiF)]
     * **VTD**: "Video Task Decathlon: Unifying Image and Video Tasks in Autonomous Driving", ICCV, 2023 (*ETHZ*). [[Paper](https://arxiv.org/abs/2309.04422)]
     * **HM-ViT**: "HM-ViT: Hetero-modal Vehicle-to-Vehicle Cooperative perception with vision transformer", ICCV, 2023 (*UCLA*). [[Paper](https://arxiv.org/abs/2304.10628)]
+    * **UP-VL**: "Unsupervised 3D Perception with 2D Vision-Language Distillation for Autonomous Driving", ICCV, 2023 (*Waymo*). [[Paper](https://arxiv.org/abs/2309.14491)]
     * **LiDARFormer**: "LiDARFormer: A Unified Transformer-based Multi-task Network for LiDAR Perception", arXiv, 2023 (*TuSimple*). [[Paper](https://arxiv.org/abs/2303.12194)]
     * **VoxelFormer**: "VoxelFormer: Bird's-Eye-View Feature Generation based on Dual-view Attention for Multi-view 3D Object Detection", arXiv, 2023 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2304.01054)][[PyTorch](https://github.com/Lizhuoling/VoxelFormer-public)]
     * **AVIS**: "AVIS: Autonomous Visual Information Seeking with Large Language Models", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2306.08129)]
