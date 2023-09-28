@@ -577,6 +577,7 @@ If you find this repository useful, please consider citing this list:
     * **InternVid**: "InternVid: A Large-scale Video-Text Dataset for Multimodal Understanding and Generation", arXiv, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2307.06942)][[Code (in construction)](https://github.com/OpenGVLab/InternVideo/tree/main/Data/InternVid)]
     * **EVE**: "EVE: Efficient Vision-Language Pre-training with Masked Prediction and Modality-Aware MoE", arXiv, 2023 (*Sun Yat-sen University*). [[Paper](https://arxiv.org/abs/2308.11971)]
     * **Qwen-VL**: "Qwen-VL: A Frontier Large Vision-Language Model with Versatile Abilities", arXiv, 2023 (*Alibaba*). [[Paper](https://arxiv.org/abs/2308.12966)][[PyTorch](https://github.com/QwenLM/Qwen-VL)]
+    * **BT-Adapter**: "One For All: Video Conversation is Feasible Without Video Instruction Tuning", arXiv, 2023 (*Tencent*). [[Paper](https://arxiv.org/abs/2309.15785)]
 * 3D:
     * **CLIP<sup>2</sup>**: "CLIP<sup>2</sup>: Contrastive Language-Image-Point Pretraining from Real-World Point Cloud Data", CVPR, 2023 (*Huawei*). [[Paper](https://arxiv.org/abs/2303.12417)]
     * **3D-VLP**: "Context-aware Alignment and Mutual Masking for 3D-Language Pre-training", CVPR, 2023 (*Sichuan University*). [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Jin_Context-Aware_Alignment_and_Mutual_Masking_for_3D-Language_Pre-Training_CVPR_2023_paper.html)][[PyTorch](https://github.com/leolyj/3D-VLP)]
@@ -786,6 +787,7 @@ If you find this repository useful, please consider citing this list:
     * **CM3Leon**: "Scaling Autoregressive Multi-Modal Models: Pretraining and Instruction Tuning", arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2309.02591)]
     * **DreamLLM**: "DreamLLM: Synergistic Multimodal Comprehension and Creation", arXiv, 2023 (*Megvii*). [[Paper](https://arxiv.org/abs/2309.11499)][[Code (in construction)](https://github.com/RunpeiDong/DreamLLM)][[Website](https://dreamllm.github.io/)]
     * **FreeU**: "FreeU: Free Lunch in Diffusion U-Net", arXiv, 2023 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2309.11497)][[Website](https://chenyangsi.top/FreeU/)][[Code (in construction)](https://github.com/ChenyangSi/FreeU)]
+    * **Emu**: "Emu: Enhancing Image Generation Models Using Photogenic Needles in a Haystack", arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2309.15807)]
 * Video:
     * **Imagen-Video**: "Imagen Video: High Definition Video Generation with Diffusion Models", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2210.02303)][[Website](https://imagen.research.google/video/)]
     * **Phenaki**: "Phenaki: Variable Length Video Generation From Open Domain Textual Description", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2210.02399)][[PyTorch (LAION-AI, in construction)](https://github.com/LAION-AI/phenaki)][[Website](https://phenaki.video/)]
