@@ -592,6 +592,7 @@ If you find this repository useful, please consider citing this list:
     * **PEST**: "Prompt Ensemble Self-training for Open-Vocabulary Domain Adaptation", arXiv, 2023 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2306.16658)]
     * **?**: "Open-Set Domain Adaptation with Visual-Language Foundation Models", arXiv, 2023 (*The University of Tokyo*). [[Paper](https://arxiv.org/abs/2307.16204)]
     * **ReCLIP**: "ReCLIP: Refine Contrastive Language Image Pre-Training with Source Free Domain Adaptation", arXiv, 2023 (*Amazon*). [[Paper](https://arxiv.org/abs/2308.03793)]
+    * **VPA**: "VPA: Fully Test-Time Visual Prompt Adaptation", arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2309.15251)]
 * X-Supervised:
     * **Semiformer**: "Semi-Supervised Vision Transformers", ECCV, 2022 (*Fudan University*). [[Paper](https://arxiv.org/abs/2111.11067)][[PyTorch](https://github.com/wengzejia1/Semiformer)]
     * **SVL-Adapter**: "SVL-Adapter: Self-Supervised Adapter for Vision-Language Pretrained Models", BMVC, 2022 (*UCL*). [[Paper](https://arxiv.org/abs/2210.03794)][[Code (in construction)](https://github.com/omipan/svl_adapter)]
