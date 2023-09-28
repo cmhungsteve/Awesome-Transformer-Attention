@@ -436,6 +436,7 @@ If you find this repository useful, please consider citing this list:
 * **MST**: "Masked Spiking Transformer", ICCV, 2023 (*HKUST*). [[Paper](https://arxiv.org/abs/2210.01208)]
 * **TokenReduction**: "Which Tokens to Use? Investigating Token Reduction in Vision Transformers", ICCVW, 2023 (*Aalborg University, Denmark*). [[Paper](https://arxiv.org/abs/2308.04657)][[PyTorch](https://github.com/JoakimHaurum/TokenReduction)][[Website](https://vap.aau.dk/tokens/)]
 * **LGViT**: "LGViT: Dynamic Early Exiting for Accelerating Vision Transformer", ACMMM, 2023 (*Beijing Institute of Technology*). [[Paper](https://arxiv.org/abs/2308.00255)]
+* **LBP-WHT**: "Efficient Low-rank Backpropagation for Vision Transformer Adaptation", NeurIPS, 2023 (*UT Austin*). [[Paper](https://arxiv.org/abs/2309.15275)]
 * **ElasticViT**: "ElasticViT: Conflict-aware Supernet Training for Deploying Fast Vision Transformer on Diverse Mobile Devices", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2303.09730)]
 * **SeiT**: "SeiT: Storage-Efficient Vision Training with Tokens Using 1% of Pixel Storage", arXiv, 2023 (*NAVER*). [[Paper](https://arxiv.org/abs/2303.11114)][[Code (in construction)](https://github.com/naver-ai/seit)]
 * **FastViT**: "FastViT: A Fast Hybrid Vision Transformer using Structural Reparameterization", arXiv, 2023 (*Apple*). [[Paper](https://arxiv.org/abs/2303.14189)]
