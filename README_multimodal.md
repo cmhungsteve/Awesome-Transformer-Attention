@@ -163,6 +163,7 @@ If you find this repository useful, please consider citing this list:
     * **LaTr**: "LaTr: Layout-Aware Transformer for Scene-Text VQA", CVPR, 2022 (*Amazon*). [[Paper](https://arxiv.org/abs/2112.12494)]
     * **QAA**: "Query and Attention Augmentation for Knowledge-Based Explainable Reasoning", CVPR, 2022 (*University of Minnesota*). [[Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Zhang_Query_and_Attention_Augmentation_for_Knowledge-Based_Explainable_Reasoning_CVPR_2022_paper.html)][[PyTorch](https://github.com/SuperJohnZhang/QAA)]
     * **WebQA**: "WebQA: Multihop and Multimodal QA", CVPR, 2022 (*CMU + Microsoft*). [[Paper](https://arxiv.org/abs/2109.00590)][[PyTorch](https://github.com/WebQnA/WebQA_Baseline)][[Website](https://webqna.github.io/)]
+    * **GPV-1**: "Towards General Purpose Vision Systems: An End-to-End Task-Agnostic Vision-Language Architecture", CVPR, 2022 (*Allen AI*). [[Paper](https://arxiv.org/abs/2104.00743)][[IEEE](https://ieeexplore.ieee.org/document/9880087)][[Github](https://github.com/allenai/gpv-1)]
     * **?**: "Efficient Adaptive Image-Language Learning for Visual Question Answering", CVPRW, 2022 (*Google*). [[Paper](https://drive.google.com/file/d/1SPeCqJ_Uzs_jk4yxxcSS8OOUKZmXf_Mt/view)]
     * **cViL**: "cViL: Cross-Lingual Training of Vision-Language Models using Knowledge Distillation", ICPR, 2022 (*IIIT, Hyderabad*). [[Paper](https://arxiv.org/abs/2206.03354)]
     * **Distinguishing-VQA**: "Overcoming Language Priors in Visual Question Answering via Distinguishing Superficially Similar Instances", COLING, 2022 (*Nankai University*). [[Paper](https://arxiv.org/abs/2209.08529)][[Code (in construction)](https://github.com/wyk-nku/Distinguishing-VQA)]
@@ -989,6 +990,7 @@ If you find this repository useful, please consider citing this list:
     * **?**: "Challenges of Zero-Shot Recognition with Vision-Language Models: Granularity and Correctness", arXiv, 2023 (*Amazon*). [[Paper](https://arxiv.org/abs/2306.16048)]
     * **UniFine**: "UniFine: A Unified and Fine-grained Approach for Zero-shot Vision-Language Understanding", arXiv, 2023 (*Columbia*). [[Paper](https://arxiv.org/abs/2307.00862)][[Code (in construction)](https://github.com/ThreeSR/UniFine)]
     * **Cheetah**: "Empowering Vision-Language Models to Follow Interleaved Vision-Language Instructions", arXiv, 2023 (*Zhejiang*). [[Paper](https://arxiv.org/abs/2308.04152)]
+    * **PerceptionCLIP**: "More Context, Less Distraction: Visual Classification by Inferring and Conditioning on Contextual Attributes", arXiv, 2023 (*University of Maryland*). [[Paper](https://arxiv.org/abs/2308.01313)][[Github](https://github.com/umd-huang-lab/perceptionCLIP)]
 * X-Shot:
     * **Tip-Adapter**: "Tip-Adapter: Training-free Adaption of CLIP for Few-shot Classification", ECCV, 2022 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2207.09519)][[PyTorch](https://github.com/gaopengcuhk/Tip-Adapter)]
     * **VidIL**: "Language Models with Image Descriptors are Strong Few-Shot Video-Language Learners", NeurIPS, 2022 (*UIUC*). [[Paper](https://arxiv.org/abs/2205.10747)][[PyTorch](https://github.com/MikeWangWZHL/VidIL)]
