@@ -89,6 +89,7 @@ If you find this repository useful, please consider citing this list:
     * **?**: "Guiding Image Captioning Models Toward More Specific Captions", ICCV, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2307.16686)]
     * **ViECap**: "Transferable Decoding with Visual Entities for Zero-Shot Image Captioning", ICCV, 2023 (*Southern University of Science and Technology*). [[Paper](https://arxiv.org/abs/2307.16525)][[Code (in construction)](https://github.com/FeiElysia/ViECap)]
     * **PMA-Net**: "With a Little Help from your own Past: Prototypical Memory Networks for Image Captioning", ICCV, 2023 (*University of Modena and Reggio Emilia (UniMoRE), Italy*). [[Paper](https://arxiv.org/abs/2308.12383)][[Code (in construction)](https://github.com/aimagelab/PMA-Net)]
+    * **SCORER**: "Self-supervised Cross-view Representation Reconstruction for Change Captioning", ICCV, 2023 (*CAS*). [[Paper](https://arxiv.org/abs/2309.16283)][[Code (in construction)](https://github.com/tuyunbin/SCORER)]
     * **TSG**: "Transforming Visual Scene Graphs to Image Captions", ACL, 2023 (*Southeast University, China*). [[Paper](https://arxiv.org/abs/2305.02177)][[PyTorch](https://anonymous.4open.science/r/ACL23_TSG/README.md)]
     * **InfoMetIC**: "InfoMetIC: An Informative Metric for Reference-free Image Caption Evaluation", ACL, 2023 (*Renmin University of China*). [[Paper](https://arxiv.org/abs/2305.06002)][[Code (in construction)](https://github.com/HAWLYQ/InfoMetIC)]
     * **MultiCapCLIP**: "MultiCapCLIP: Auto-Encoding Prompts for Zero-Shot Multilingual Visual Captioning", ACL, 2023 (*Peking*). [[Paper](https://arxiv.org/abs/2308.13218)][[PyTorch (in construction)](https://github.com/yangbang18/MultiCapCLIP)]
@@ -206,6 +207,7 @@ If you find this repository useful, please consider citing this list:
     * **S3C**: "S3C: Semi-Supervised VQA Natural Language Explanation via Self-Critical Learning", CVPR, 2023 (*Northwestern Polytechnical University, China*). [[Paper](https://arxiv.org/abs/2309.02155)]
     * **?**: "Diversifying Joint Vision-Language Tokenization Learning", CVPRW, 2023 (*DeepMind*). [[Paper](https://arxiv.org/abs/2306.03421)]
     * **VQAAnswerTherapy**: "VQA Therapy: Exploring Answer Differences by Visually Grounding Answers", ICCV, 2023 (*UT Austin*). [[Paper](https://arxiv.org/abs/2308.11662)][[Website](https://vizwiz.org/tasks-and-datasets/vqa-answer-therapy/)]
+    * **ViTiS**: "Zero-Shot and Few-Shot Video Question Answering with Multi-Modal Prompts", ICCVW, 2023 (*INRIA*). [[Paper](https://arxiv.org/abs/2309.15915)][[Website](https://engindeniz.github.io/vitis)]
     * **TwO**: "Combo of Thinking and Observing for Outside-Knowledge VQA", ACL, 2023 (*ByteDance*). [[Paper](https://arxiv.org/abs/2305.06407)][[Code (in construction)](https://github.com/PhoebusSi/Thinking-while-Observing)]
     * **Mod-Zero-VQA**: "Modularized Zero-shot VQA with Pre-trained Models", ACL Findings, 2023 (*Singapore Management University*). [[Paper](https://arxiv.org/abs/2305.17369)]
     * **SaL**: "Separate and Locate: Rethink the Text in Text-based Visual Question Answering", ACMMM, 2023 (*CAS*). [[Paper](https://arxiv.org/abs/2308.16383)][[Code (in construction)](https://github.com/fangbufang/SaL)]
@@ -1141,12 +1143,13 @@ If you find this repository useful, please consider citing this list:
     * **CG3D**: "CLIP goes 3D: Leveraging Prompt Tuning for Language Grounded 3D Recognition", arXiv, 2023 (*JHU*). [[Paper](https://arxiv.org/abs/2303.11313)][[PyTorch](https://github.com/deeptibhegde/CLIP-goes-3D)][[Website](https://jeya-maria-jose.github.io/cg3d-web/)]
     * **DiffCLIP**: "DiffCLIP: Leveraging Stable Diffusion for Language Grounded 3D Classification", arXiv, 2023 (*Beijing Institute of Technology*). [[Paper](https://arxiv.org/abs/2305.15957)]
     * **LLM-Grounder**: "LLM-Grounder: Open-Vocabulary 3D Visual Grounding with Large Language Model as an Agent", arXiv, 2023 (*UMich*). [[Paper](https://arxiv.org/abs/2309.12311)][[PyTorch](https://github.com/sled-group/chat-with-nerf)][[Website](https://chat-with-nerf.github.io/)]
-* 3D Segmentation:
+* 3D Scene Understanding:
     * **OpenScene**: "OpenScene: 3D Scene Understanding with Open Vocabularies", CVPR, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2211.15654)][[PyTorch](https://github.com/pengsongyou/openscene)][[Website](https://pengsongyou.github.io/openscene)]
     * **PartSLIP**: "PartSLIP: Low-Shot Part Segmentation for 3D Point Clouds via Pretrained Image-Language Models", CVPR, 2023 (*Qualcomm*). [[Paper](https://arxiv.org/abs/2212.01558)]
     * **CLIP2Scene**: "CLIP2Scene: Towards Label-efficient 3D Scene Understanding by CLIP", CVPR, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2301.04926)][[PyTorch](https://github.com/runnanchen/CLIP2Scene)]
     * **PLA**: "Language-driven Open-Vocabulary 3D Scene Understanding", CVPR, 2023 (*ByteDance*). [[Paper](https://arxiv.org/abs/2211.16312)][[PyTorch](https://github.com/CVMI-Lab/PLA)][[Website](https://dingry.github.io/projects/PLA)]
     * **3D-Highlighter**: "3D Highlighter: Localizing Regions on 3D Shapes via Text Descriptions", CVPR, 2023 (*University of Chicago*). [[Paper](https://arxiv.org/abs/2212.11263)][[PyTorch](https://github.com/threedle/3DHighlighter)][[Website](https://threedle.github.io/3DHighlighter/)]
+    * **OVSG**: "Context-Aware Entity Grounding with Open-Vocabulary 3D Scene Graphs", CoRL, 2023 (*Rutgers*). [[Paper](https://arxiv.org/abs/2309.15940)][[Code (in construction)](https://github.com/changhaonan/OVSG)]
     * **CLIP-FO3D**: "CLIP-FO3D: Learning Free Open-world 3D Scene Representations from 2D Dense CLIP", arXiv, 2023 (*Tsinghua University*). [[Paper](https://arxiv.org/abs/2303.04748)]
     * **3D-OVS**: "3D Open-vocabulary Segmentation with Foundation Models", arXiv, 2023 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2305.14093)][[Code (in construction)](https://github.com/Kunhao-Liu/3D-OVS)]
     * **OVO**: "OVO: Open-Vocabulary Occupancy", arXiv, 2023 (*Fudan*). [[Paper](https://arxiv.org/abs/2305.16133)]
@@ -1155,6 +1158,7 @@ If you find this repository useful, please consider citing this list:
     * **OpenMask3D**: "OpenMask3D: Open-Vocabulary 3D Instance Segmentation", arXiv, 2023 (*ETHZ*). [[Paper](https://arxiv.org/abs/2306.13631)][[Website (in construction)](https://openmask3d.github.io/)]
     * **Lowis3D**: "Lowis3D: Language-Driven Open-World Instance-Level 3D Scene Understanding", arXiv, 2023 (*HKU*). [[Paper](https://arxiv.org/abs/2308.00353)]
     * **OpenIns3D**: "OpenIns3D: Snap and Lookup for 3D Open-vocabulary Instance Segmentation", arXiv, 2023 (*Cambridge*). [[Paper](https://arxiv.org/abs/2309.00616)][[Website](https://zheninghuang.github.io/OpenIns3D/)]
+    * **ConceptGraphs**: "ConceptGraphs: Open-Vocabulary 3D Scene Graphs for Perception and Planning", arXiv, 2023 (*1University of Toronto + Universite de Montreal*). [[Paper](https://arxiv.org/abs/2309.16650)][[PyTorch](https://github.com/concept-graphs/concept-graphs)][[Website](https://concept-graphs.github.io/)]
 * Speech Recognition:
     * **AV-HuBERT**: "Robust Self-Supervised Audio-Visual Speech Recognition", arXiv, 2022 (*Meta*). [[Paper](https://arxiv.org/abs/2201.01763)][[PyTorch](https://github.com/facebookresearch/av_hubert)]
     * **?**: "Transformer-Based Video Front-Ends for Audio-Visual Speech Recognition", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2201.10439)]
@@ -1267,6 +1271,7 @@ If you find this repository useful, please consider citing this list:
     * **?**: "An Empirical Study of Scaling Instruct-Tuned Large Multimodal Models", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2309.09958)][[GitHub](https://github.com/haotian-liu/LLaVA/blob/main/docs/MODEL_ZOO.md)]
     * **InternLM-XComposer**: "InternLM-XComposer: A Vision-Language Large Model for Advanced Text-image Comprehension and Composition", arXiv, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2309.15112)][[PyTorch](https://github.com/InternLM/InternLM-XComposer)]
     * **LLaVA-RLHF**: "Aligning Large Multimodal Models with Factually Augmented RLHF", arXiv, 2023 (*Berkeley + CMU + UIUC*). [[Paper](https://arxiv.org/abs/2309.14525)][[Code (in construction)](https://github.com/llava-rlhf/LLaVA-RLHF)][[Website](https://llava-rlhf.github.io/)]
+    * **AnyMAL**: "AnyMAL: An Efficient and Scalable Any-Modality Augmented Language Model", arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2309.16058)]
 * Visual Reasoning:
     * **BDC-Adapter**: "BDC-Adapter: Brownian Distance Covariance for Better Vision-Language Reasoning", BMVC, 2023 (*SUSTech*). [[Paper](https://arxiv.org/abs/2309.01256)]
     * **RPT**: "Fine-Grained Regional Prompt Tuning for Visual Abductive Reasoning", arXiv, 2023 (*A\*STAR*). [[Paper](https://arxiv.org/abs/2303.10428)]
@@ -1328,5 +1333,7 @@ If you find this repository useful, please consider citing this list:
     * **?**: "Learning Unseen Modality Interaction", arXiv, 2023 (*University of Amsterdam*). [[Paper](https://arxiv.org/abs/2306.12795)]
 * Multimodal Translation:
     * **CLIPTrans**: "CLIPTrans: Transferring Visual Knowledge with Pre-trained Models for Multimodal Machine Translation", ICCV, 2023 (*Boston College*). [[Paper](https://arxiv.org/abs/2308.15226)][[PyTorch](https://github.com/devaansh100/CLIPTrans)]
+* Noisy label detection:
+    * **VDC**: "VDC: Versatile Data Cleanser for Detecting Dirty Samples via Visual-Linguistic Inconsistency", arXiv, 2023 (*CUHK*). [[Paper](https://arxiv.org/abs/2309.16211)]
 
 [[Back to Overview](#overview)]
