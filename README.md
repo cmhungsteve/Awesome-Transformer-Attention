@@ -337,6 +337,8 @@ If you find this repository useful, please consider citing this list:
 * **DAT++**: "DAT++: Spatially Dynamic Vision Transformer with Deformable Attention", arXiv, 2023 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2309.01430)][[PyTorch](https://github.com/LeapLabTHU/DAT)]
 * **?**: "Replacing softmax with ReLU in Vision Transformers", arXiv, 2023 (*DeepMind*). [[Paper](https://arxiv.org/abs/2309.08586)]
 * **RMT**: "RMT: Retentive Networks Meet Vision Transformers", arXiv, 2023 (*CAS*). [[Paper](https://arxiv.org/abs/2309.11523)]
+* **reg**: "Vision Transformers Need Registers", arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2309.16588)]
+* **ChannelViT**: "Channel Vision Transformers: An Image Is Worth C x 16 x 16 Words", arXiv, 2023 (*Insitro, CA*). [[Paper](https://arxiv.org/abs/2309.16108)]
 #### Efficient Vision Transformer
 * **DeiT**: "Training data-efficient image transformers & distillation through attention", ICML, 2021 (*Facebook*). [[Paper](https://arxiv.org/abs/2012.12877)][[PyTorch](https://github.com/facebookresearch/deit)]
 * **ConViT**: "ConViT: Improving Vision Transformers with Soft Convolutional Inductive Biases", ICML, 2021 (*Facebook*). [[Paper](https://arxiv.org/abs/2103.10697)][[Code](https://github.com/facebookresearch/convit)]
@@ -640,6 +642,7 @@ If you find this repository useful, please consider citing this list:
 * **RevColV2**: "RevColV2: Exploring Disentangled Representations in Masked Image Modeling", arXiv, 2023 (*Megvii*). [[Paper](https://arxiv.org/abs/2309.01005)][[PyTorch](https://github.com/megvii-research/RevCol)]
 * **DropPos**: "DropPos: Pre-Training Vision Transformers by Reconstructing Dropped Positions", arXiv, 2023 (*CAS*). [[Paper](https://arxiv.org/abs/2309.03576)]
 * **MIRL**: "Masked Image Residual Learning for Scaling Deeper Vision Transformers", arXiv, 2023 (*Baidu*). [[Paper](https://arxiv.org/abs/2309.14136)]
+* **MetaCLIP**: "Demystifying CLIP Data", arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2309.16671)][[PyTorch](https://github.com/facebookresearch/MetaCLIP)]
 #### Robustness + Transformer
 * **ViT-Robustness**: "Understanding Robustness of Transformers for Image Classification", ICCV, 2021 (*Google*). [[Paper](https://arxiv.org/abs/2103.14586)]
 * **SAGA**: "On the Robustness of Vision Transformers to Adversarial Examples", ICCV, 2021 (*University of Connecticut*). [[Paper](https://arxiv.org/abs/2104.02610)]
@@ -1598,8 +1601,8 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **DiffAttn**: "Joint Forecasting of Panoptic Segmentations with Difference Attention", CVPR, 2022 (*UIUC*). [[Paper](https://arxiv.org/abs/2204.07157)][[Code (in construction)](https://github.com/cgraber/psf-diffattn)]
 * LiDAR:
     * **HelixNet**: "Online Segmentation of LiDAR Sequences: Dataset and Algorithm", CVPRW, 2022 (*CNRS, France*). [[Paper](https://arxiv.org/abs/2206.08194)][[Website](https://romainloiseau.fr/helixnet/)][[PyTorch](https://github.com/romainloiseau/Helix4D)]
-    * **Gaussian-Radar-Transformer**: "Gaussian Radar Transformer for Semantic Segmentation in Noisy Radar Data", RA-L, 2022 (*University of Bonn,
-Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
+    * **Gaussian-Radar-Transformer**: "Gaussian Radar Transformer for Semantic Segmentation in Noisy Radar Data", RA-L, 2022 (*University of Bonn, Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
+    * **MASK4D**: "MASK4D: Mask Transformer for 4D Panoptic Segmentation", arXiv, 2023 (*RWTH Aachen University, Germany*). [[Paper](https://arxiv.org/abs/2309.16133)]
 * Co-Segmentation:
     * **ReCo**: "ReCo: Retrieve and Co-segment for Zero-shot Transfer", NeurIPS, 2022 (*Oxford*). [[Paper](https://arxiv.org/abs/2206.07045)][[PyTorch](https://github.com/NoelShin/reco)][[Website](https://www.robots.ox.ac.uk/~vgg/research/reco/)]
     * **DINO-ViT-feature**: "Deep ViT Features as Dense Visual Descriptors", arXiv, 2022 (*Weizmann Institute of Science, Israel*). [[Paper](https://arxiv.org/abs/2112.05814)][[PyTorch](https://github.com/ShirAmir/dino-vit-features)][[Website](https://dino-vit-features.github.io/)]
@@ -1951,6 +1954,7 @@ Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
     * **?**: "Open-Vocabulary Temporal Action Detection with Off-the-Shelf Image-Text Features", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2212.10596)]
     * **MSQNet**: "MSQNet: Actor-agnostic Action Recognition with Multi-modal Query", arXiv, 2023 (*University of Surrey, England*). [[Paper](https://arxiv.org/abs/2307.10763)][[Code (in construction)](https://github.com/mondalanindya/MSQNet)]
     * **OAP-AOP**: "Opening the Vocabulary of Egocentric Actions", arXiv, 2023 (*NUS*). [[Paper](https://arxiv.org/abs/2308.11488)][[Website (in construction)](https://dibschat.github.io/openvocab-egoAR/)]
+    * **AVION**: "Training a Large Video Model on a Single Machine in a Day", arXiv, 2023 (*UT Austin*). [[Paper](https://arxiv.org/abs/2309.16669)][[PyTorch](https://github.com/zhaoyue-zephyrus/AVION)]
 * X-supervised Learning:
     * **LSTCL**: "Long-Short Temporal Contrastive Learning of Video Transformers", CVPR, 2022 (*Facebook*). [[Paper](https://arxiv.org/abs/2106.09212)]
     * **SVT**: "Self-supervised Video Transformer", CVPR, 2022 (*Stony Brook*). [[Paper](https://arxiv.org/abs/2112.01514)][[PyTorch](https://github.com/kahnchana/svt)][[Website](https://kahnchana.github.io/svt/)]
