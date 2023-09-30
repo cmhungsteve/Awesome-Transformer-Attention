@@ -251,6 +251,7 @@ If you find this repository useful, please consider citing this list:
     * **?**: "Image-free Domain Generalization via CLIP for 3D Hand Pose Estimation", arXiv, 2022 (*UNIST, Korea*). [[Paper](https://arxiv.org/abs/2210.16788)]
     * **A2J-Transformer**: "A2J-Transformer: Anchor-to-Joint Transformer Network for 3D Interacting Hand Pose Estimation from a Single RGB Image", CVPR, 2023 (*Huazhong University of Science and Technology*). [[Paper](https://arxiv.org/abs/2304.03635)][[PyTorch](https://github.com/ChanglongJiangGit/A2J-Transformer)]
     * **H2OTR**: "Transformer-Based Unified Recognition of Two Hands Manipulating Objects", CVPR, 2023 (*Ulsan National Institute of Science & Technology (UNIST), Korea*). [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Cho_Transformer-Based_Unified_Recognition_of_Two_Hands_Manipulating_Objects_CVPR_2023_paper.html)]
+    * **CLIP-Hand3D**: "CLIP-Hand3D: Exploiting 3D Hand Pose Estimation via Context-Aware Prompting", ACMMM, 2023 (*Ocean University of China*). [[Paper](https://arxiv.org/abs/2309.16140)]
     * **Deformer**: "Deformer: Dynamic Fusion Transformer for Robust Hand Pose Estimation", arXiv, 2023 (*CMU*). [[Paper](https://arxiv.org/abs/2303.04991)]
 * Others:
     * **TAPE**: "Transformer Guided Geometry Model for Flow-Based Unsupervised Visual Odometry", arXiv, 2020 (*Tianjing University*). [[Paper](https://arxiv.org/abs/2101.02143)]
@@ -479,6 +480,7 @@ If you find this repository useful, please consider citing this list:
     * **STDT**: "Deepfake Video Detection with Spatiotemporal Dropout Transformer", arXiv, 2022 (*CAS*). [[Paper](https://arxiv.org/abs/2207.06612)]
     * **?**: "Deep Convolutional Pooling Transformer for Deepfake Detection", arXiv, 2022 (*HKU*). [[Paper](https://arxiv.org/abs/2209.05299)]
     * **DGM<sup>4</sup>**: "Detecting and Grounding Multi-Modal Media Manipulation", CVPR, 2023 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2304.02556)][[PyTorch](https://github.com/rshaojimmy/MultiModal-DeepFake)][[Website](https://rshaojimmy.github.io/Projects/MultiModal-DeepFake)]
+    * **FLIP**: "FLIP: Cross-domain Face Anti-spoofing with Language Guidance", ICCV, 2023 (*MBZUAI*). [[Paper](https://arxiv.org/abs/2309.16649)][[PyTorch](https://github.com/koushiksrivats/FLIP)][[Website](https://koushiksrivats.github.io/FLIP/)]
     * **Face-Transformer**: "Face Transformer: Towards High Fidelity and Accurate Face Swapping", arXiv, 2023 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2304.02530)]
     * **DGM<sup>4</sup>**: "Detecting and Grounding Multi-Modal Media Manipulation and Beyond", arXiv, 2023 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2309.14203)][[PyTorch](https://github.com/rshaojimmy/MultiModal-DeepFake)]
 * Fairness:
@@ -615,6 +617,7 @@ If you find this repository useful, please consider citing this list:
     * **CoT**: "Hierarchical Visual Primitive Experts for Compositional Zero-Shot Learning", ICCV, 2023 (*Yonsei*). [[Paper](https://arxiv.org/abs/2308.04016)]
     * **?**: "Text-to-Image Diffusion Models are Zero-Shot Classifiers", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2303.15233)]
     * **?**: "Your Diffusion Model is Secretly a Zero-Shot Classifier", arXiv, 2023 (*CMU*). [[Paper](https://arxiv.org/abs/2303.16203)][[Code (in construction)](https://github.com/diffusion-classifier/diffusion-classifier)][[Website](https://diffusion-classifier.github.io/)]
+    * **AutoCLIP**: "AutoCLIP: Auto-tuning Zero-Shot Classifiers for Vision-Language Models", arXiv, 2023 (*Bosch*). [[Paper](https://arxiv.org/abs/2309.16414)]
 * X-Shot:
     * **CrossTransformer**: "CrossTransformers: spatially-aware few-shot transfer", NeurIPS, 2020 (*DeepMind*). [[Paper](https://arxiv.org/abs/2007.11498)][[Tensorflow](https://github.com/google-research/meta-dataset)]
     * **URT**: "A Universal Representation Transformer Layer for Few-Shot Image Classification", ICLR, 2021 (*Mila*). [[Paper](https://openreview.net/forum?id=04cII6MumYV)][[PyTorch](https://github.com/liulu112601/URT)]
@@ -1581,6 +1584,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **TransGCNN**: "Transformer-Guided Convolutional Neural Network for Cross-View Geolocalization", arXiv, 2022 (*Southeast University, China*). [[Paper](https://arxiv.org/abs/2204.09967)]
     * **MGTL**: "Mutual Generative Transformer Learning for Cross-view Geo-localization", arXiv, 2022 (*University of Electronic Science and Technology of China*). [[Paper](https://arxiv.org/abs/2203.09135)]
     * **GeoGuessNet**: "Where We Are and What We're Looking At: Query Based Worldwide Image Geo-localization Using Hierarchies and Scenes", CVPR, 2023 (*UCF*). [[Paper](https://arxiv.org/abs/2303.04249)][[PyTorch (in construction)](https://github.com/AHKerrigan/GeoGuessNet)]
+    * **GeoCLIP**: "GeoCLIP: Clip-Inspired Alignment between Locations and Images for Effective Worldwide Geo-localization", NeurIPS, 2023 (*UCF*). [[Paper](https://arxiv.org/abs/2309.16020)]
 * Homography Estimation:
     * **LocalTrans**: "LocalTrans: A Multiscale Local Transformer Network for Cross-Resolution Homography Estimation", ICCV, 2021 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2106.04067)]
 * Image Registration:
@@ -1798,6 +1802,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **USST**: "Uncertainty-aware State Space Transformer for Egocentric 3D Hand Trajectory Forecasting", ICCV, 2023 (*OPPO*). [[Paper](https://arxiv.org/abs/2307.08243)]
     * **JRTransformer**: "Joint-Relation Transformer for Multi-Person Motion Prediction", ICCV, 2023 (*Shanghai Jiao Tong*). [[Paper](https://arxiv.org/abs/2308.04808)][[PyTorch (in construction)](https://github.com/MediaBrain-SJTU/JRTransformer)]
     * **Forecast-MAE**: "Forecast-MAE: Self-supervised Pre-training for Motion Forecasting with Masked Autoencoders", ICCV, 2023 (*HKUST*). [[Paper](https://arxiv.org/abs/2308.09882)][[PyTorch](https://github.com/jchengai/forecast-mae)]
+    * **MotionLM**: "MotionLM: Multi-Agent Motion Forecasting as Language Modeling", ICCV, 2023 (*Waymo*). [[Paper](https://arxiv.org/abs/2309.16534)]
     * **MacFormer**: "MacFormer: Map-Agent Coupled Transformer for Real-time and Robust Trajectory Prediction", RAL, 2023 (*HKUST*). [[Paper](https://arxiv.org/abs/2308.10280)]
     * **InCrowdFormer**: "InCrowdFormer: On-Ground Pedestrian World Model From Egocentric Views", arXiv, 2023 (*Kyoto University*). [[Paper](https://arxiv.org/abs/2303.09534)]
     * **OccFormer**: "OccFormer: Dual-path Transformer for Vision-based 3D Semantic Occupancy Prediction", arXiv, 2023 (*PhiGent Robotics, China*). [[Paper](https://arxiv.org/abs/2304.05316)][[PyTorch](https://github.com/zhangyp15/OccFormer)]
