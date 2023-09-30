@@ -855,6 +855,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **CLIP-Dissect**: "CLIP-Dissect: Automatic Description of Neuron Representations in Deep Vision Networks", ICLR, 2023 (*UCSD*). [[Paper](https://arxiv.org/abs/2204.10965)]
 * **?**: "Understanding Masked Autoencoders via Hierarchical Latent Variable Models", CVPR, 2023 (*CMU*). [[Paper](https://arxiv.org/abs/2306.04898)]
 * **?**: "Teaching Matters: Investigating the Role of Supervision in Vision Transformers", CVPR, 2023 (*Maryland*). [[Paper](https://arxiv.org/abs/2212.03862)][[PyTorch](https://github.com/mwalmer-umd/vit_analysis)][[Website](https://www.cs.umd.edu/~sakshams/vit_analysis/)]
+* **?**: "Examining the Difference Among Transformers and CNNs with Explanation Methods", arXiv, 2022 (*Oregon State University*). [[Paper](https://arxiv.org/abs/2212.06872)]
 * **?**: "Masked Autoencoding Does Not Help Natural Language Supervision at Scale", CVPR, 2023 (*Apple*). [[Paper](https://arxiv.org/abs/2301.07836)]
 * **?**: "On Data Scaling in Masked Image Modeling", CVPR, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2206.04664)][[PyTorch](https://github.com/microsoft/SimMIM)]
 * **?**: "Revealing the Dark Secrets of Masked Image Modeling", CVPR, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2205.13543)]
