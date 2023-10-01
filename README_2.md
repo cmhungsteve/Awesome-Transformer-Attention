@@ -1911,6 +1911,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
 * **GCNet**: "Global Context Networks", ICCVW, 2019 (& TPAMI 2020) (*Microsoft*). [[Paper](https://arxiv.org/abs/2012.13375)][[PyTorch](https://github.com/xvjiarui/GCNet)]
 * **SASA**: "Stand-Alone Self-Attention in Vision Models", NeurIPS, 2019 (*Google*). [[Paper](https://arxiv.org/abs/1906.05909)][[PyTorch-1 (Unofficial)](https://github.com/leaderj1001/Stand-Alone-Self-Attention)][[PyTorch-2 (Unofficial)](https://github.com/MerHS/SASA-pytorch)]
     * key message: attention module is more efficient than conv & provide comparable accuracy
+* **Saccader**: "Saccader: Improving Accuracy of Hard Attention Models for Vision", NeurIPS, 2019 (*Google*). [[Paper](https://arxiv.org/abs/1908.07644)][[Code](https://github.com/google-research/google-research/tree/master/saccader)]
 * **Axial-Transformer**: "Axial Attention in Multidimensional Transformers", arXiv, 2019 (*Google*). [[Paper](https://openreview.net/forum?id=H1e5GJBtDr)][[PyTorch (Unofficial)](https://github.com/lucidrains/axial-attention)]
 * **Attention-CNN**: "On the Relationship between Self-Attention and Convolutional Layers", ICLR, 2020 (*EPFL*). [[Paper](https://openreview.net/forum?id=HJlnC1rKPB)][[PyTorch](https://github.com/epfml/attention-cnn)][[Website](https://epfml.github.io/attention-cnn/)]
 * **SAN**: "Exploring Self-attention for Image Recognition", CVPR, 2020 (*CUHK + Intel*). [[Paper](https://arxiv.org/abs/2004.13621)][[PyTorch](https://github.com/hszhao/SAN)]
@@ -1934,6 +1935,8 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
 * **Invertible-Attention**: "Invertible Attention", arXiv, 2021 (*ANU*). [[Paper](https://arxiv.org/abs/2106.09003)]
 * **VOLO**: "VOLO: Vision Outlooker for Visual Recognition", arXiv, 2021 (*Sea AI Lab + NUS, Singapore*). [[Paper](https://arxiv.org/abs/2106.13112)][[PyTorch](https://github.com/sail-sg/volo)]
 * **LESA**: "Locally Enhanced Self-Attention: Rethinking Self-Attention as Local and Context Terms", arXiv, 2021 (*Johns Hopkins*). [[Paper](https://arxiv.org/abs/2107.05637)]
+* **Glimpse-Attend-and-Explore**: "Glimpse-Attend-and-Explore: Self-Attention for Active Visual Exploration", ICCV, 2021 (*KU Leuven*). [[Paper](https://arxiv.org/abs/2108.11717)][[Code](https://github.com/soroushseifi/glimpse-attend-explore)]
+* **MGNet**: "Multi-Glimpse Network: A Robust and Efficient Classification Architecture based on Recurrent Downsampled Attention", BMVC, 2021 (*Tsinghua University*). [[Paper](https://arxiv.org/abs/2111.02018)][[Code](https://github.com/siahuat0727/MGNet)]
 * **PS-Attention**: "Pale Transformer: A General Vision Transformer Backbone with Pale-Shaped Attention", AAAI, 2022 (*Baidu*). [[Paper](https://arxiv.org/abs/2112.14000)][[Paddle](https://github.com/BR-IDL/PaddleViT)]
 * **QuadTree**: "QuadTree Attention for Vision Transformers", ICLR, 2022 (*Simon Fraser + Alibaba*). [[Paper](https://arxiv.org/abs/2201.02767)][[PyTorch](https://github.com/Tangshitao/QuadtreeAttention)]
 * **QnA**: "Learned Queries for Efficient Local Attention", CVPR, 2022 (*Tel-Aviv*). [[Paper](https://arxiv.org/abs/2112.11435)][[JAX](https://github.com/moabarar/qna)]
