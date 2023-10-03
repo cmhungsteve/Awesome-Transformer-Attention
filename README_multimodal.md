@@ -528,6 +528,7 @@ If you find this repository useful, please consider citing this list:
     * **DAS**: "Parameter and Computation Efficient Transfer Learning for Vision-Language Pre-trained Models", arXiv, 2023 (*Xiamen University*). [[Paper](https://arxiv.org/abs/2309.01479)]
     * **LaVIT**: "Unified Language-Vision Pretraining with Dynamic Discrete Visual Tokenization", arXiv, 2023 (*Kuaishou*). [[Paper](https://arxiv.org/abs/2309.04669)][[Code (in construction)](https://github.com/jy0205/LaVIT)]
     * **MMICL**: "MMICL: Empowering Vision-language Model with Multi-Modal In-Context Learning", arXiv, 2023 (*Peking*). [[Paper](https://arxiv.org/abs/2309.07915)][[PyTorch](https://github.com/HaozheZhao/MIC)]
+    * **ELIP**: "ELIP: Efficient Language-Image Pre-training with Fewer Vision Tokens", arXiv, 2023 (*NUS*). [[Paper](https://arxiv.org/abs/2309.16738)]
 * Video:
     * **COOT**: "COOT: Cooperative Hierarchical Transformer for Video-Text Representation Learning", NeurIPS, 2020 (*University of Freiburg*). [[Paper](https://arxiv.org/abs/2011.00597)][[PyTorch](https://github.com/gingsi/coot-videotext)]
     * **Parameter-Reduction**: "Parameter Efficient Multimodal Transformers for Video Representation Learning", ICLR, 2021 (*Seoul National University*). [[Paper](https://openreview.net/forum?id=6UdQLhqJyFD)]
@@ -806,6 +807,7 @@ If you find this repository useful, please consider citing this list:
     * **VideoFactory**: "VideoFactory: Swap Attention in Spatiotemporal Diffusions for Text-to-Video Generation", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2305.10874)]
     * **Video-Adapter**: "Probabilistic Adaptation of Text-to-Video Models", arXiv, 2023 (*DeepMind*). [[Paper](https://arxiv.org/abs/2306.01872)][[Website](https://video-adapter.github.io/video-adapter/)]
     * **SimDA**: "SimDA: Simple Diffusion Adapter for Efficient Video Generation", arXiv, 2023 (*Fudan*). [[Paper](https://arxiv.org/abs/2308.09710)][[Website](https://chenhsing.github.io/SimDA/)]
+    * **LVD**: "LLM-grounded Video Diffusion Models", arXiv, 2023 (*Berkeley*). [[Paper](https://arxiv.org/abs/2309.17444)][[Code (in construction)](https://github.com/TonyLianLong/LLM-groundedVideoDiffusion)][[Website](https://llm-grounded-video-diffusion.github.io/)]
 * 3D:
     * **Magic3D**: "Magic3D: High-Resolution Text-to-3D Content Creation", CVPR, 2023 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2211.10440)][[Website](https://research.nvidia.com/labs/dir/magic3d/)]
     * **CLIP-Sculptor**: "CLIP-Sculptor: Zero-Shot Generation of High-Fidelity and Diverse Shapes from Natural Language", CVPR, 2023 (*Autodesk*). [[Paper](https://arxiv.org/abs/2211.01427)][[Website](https://ivl.cs.brown.edu/#/projects/clip-sculptor)]
@@ -1032,6 +1034,7 @@ If you find this repository useful, please consider citing this list:
     * **RISCLIP**: "RISCLIP: Referring Image Segmentation Framework using CLIP", arXiv, 2023 (*POSTECH*). [[Paper](https://arxiv.org/abs/2306.08498)]
     * **EAVL**: "EAVL: Explicitly Align Vision and Language for Referring Image Segmentation", arXiv, 2023 (*CAS*). [[Paper](https://arxiv.org/abs/2308.09779)]
     * **Ref-Diff**: "Ref-Diff: Zero-shot Referring Image Segmentation with Generative Models", arXiv, 2023 (*Harbin Institute of Technology*). [[Paper](https://arxiv.org/abs/2308.16777)][[Code (in construction)](https://github.com/kodenii/Ref-Diff)]
+    * **DuMoGa**: "Towards Complex-query Referring Image Segmentation: A Novel Benchmark", arXiv, 2023 (*NUS*). [[Paper](https://arxiv.org/abs/2309.17205)]
 * Referring Video Segmentation:
     * **ReferFormer**: "Language as Queries for Referring Video Object Segmentation", CVPR, 2022 (*HKU*). [[Paper](https://arxiv.org/abs/2201.00487)][[PyTorch](https://github.com/wjn922/ReferFormer)]
     * **MTTR**: "End-to-End Referring Video Object Segmentation with Multimodal Transformers", CVPR, 2022 (*Technion - Israel Institute of Technology*). [[Paper](https://arxiv.org/abs/2111.14821)][[PyTorch](https://github.com/mttr2021/MTTR)]
