@@ -131,6 +131,7 @@ If you find this repository useful, please consider citing this list:
 * "Vision + Language Applications: A Survey", CVPRW, 2023 (*Ritsumeikan University, Japan*). [[Paper](https://arxiv.org/abs/2305.14598)][[GitHub](https://github.com/Yutong-Zhou-cv/Awesome-Text-to-Image)]
 * "Multimodal Learning With Transformers: A Survey", TPAMI, 2023 (*Tsinghua & Oxford*). [[Paper](https://arxiv.org/abs/2206.06488)]
 * "A Survey of Visual Transformers", TNNLS, 2023 (*CAS*). [[Paper](https://arxiv.org/abs/2111.06091)][[GitHub](https://github.com/arekavandi/Transformer-SOD)]
+* "The Dawn of LMMs: Preliminary Explorations with GPT-4V(ision)", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2309.17421)]
 * "Multimodal Foundation Models: From Specialists to General-Purpose Assistants", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2309.10020)]
 * "Transformers in Small Object Detection: A Benchmark and Survey of State-of-the-Art", arXiv, 2023 (*University of Western Australia*). [[Paper](https://arxiv.org/abs/2309.04902)]
 * "RenAIssance: A Survey into AI Text-to-Image Generation in the Era of Large Model", arXiv, 2023 (*University of Sydney*). [[Paper](https://arxiv.org/abs/2309.00810)]
@@ -1315,6 +1316,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **DoViT**: "Dynamic Token-Pass Transformers for Semantic Segmentation", arXiv, 2023 (*Alibaba*). [[Paper](https://arxiv.org/abs/2308.01944)]
 * **CFT**: "Category Feature Transformer for Semantic Segmentation", arXiv, 2023 (*Huawei*). [[Paper](https://arxiv.org/abs/2308.05581)]
 * **ICPC**: "ICPC: Instance-Conditioned Prompting with Contrastive Learning for Semantic Segmentation", arXiv, 2023 (*Alibaba*). [[Paper](https://arxiv.org/abs/2308.07078)]
+* **Superpixel-Association**: "Superpixel Transformers for Efficient Semantic Segmentation", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2309.16889)]
 
 [[Back to Overview](#overview)]
 
