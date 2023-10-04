@@ -529,6 +529,7 @@ If you find this repository useful, please consider citing this list:
     * **LaVIT**: "Unified Language-Vision Pretraining with Dynamic Discrete Visual Tokenization", arXiv, 2023 (*Kuaishou*). [[Paper](https://arxiv.org/abs/2309.04669)][[Code (in construction)](https://github.com/jy0205/LaVIT)]
     * **MMICL**: "MMICL: Empowering Vision-language Model with Multi-Modal In-Context Learning", arXiv, 2023 (*Peking*). [[Paper](https://arxiv.org/abs/2309.07915)][[PyTorch](https://github.com/HaozheZhao/MIC)]
     * **ELIP**: "ELIP: Efficient Language-Image Pre-training with Fewer Vision Tokens", arXiv, 2023 (*NUS*). [[Paper](https://arxiv.org/abs/2309.16738)]
+    * **SEED-LLaMA**: "Making LLaMA SEE and Draw with SEED Tokenizer", arXiv, 2023 (*Tencent*). [[Paper](https://arxiv.org/abs/2310.01218)][[PyTorch](https://github.com/AILab-CVC/SEED)]
 * Video:
     * **COOT**: "COOT: Cooperative Hierarchical Transformer for Video-Text Representation Learning", NeurIPS, 2020 (*University of Freiburg*). [[Paper](https://arxiv.org/abs/2011.00597)][[PyTorch](https://github.com/gingsi/coot-videotext)]
     * **Parameter-Reduction**: "Parameter Efficient Multimodal Transformers for Video Representation Learning", ICLR, 2021 (*Seoul National University*). [[Paper](https://openreview.net/forum?id=6UdQLhqJyFD)]
@@ -791,6 +792,7 @@ If you find this repository useful, please consider citing this list:
     * **DreamLLM**: "DreamLLM: Synergistic Multimodal Comprehension and Creation", arXiv, 2023 (*Megvii*). [[Paper](https://arxiv.org/abs/2309.11499)][[Code (in construction)](https://github.com/RunpeiDong/DreamLLM)][[Website](https://dreamllm.github.io/)]
     * **FreeU**: "FreeU: Free Lunch in Diffusion U-Net", arXiv, 2023 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2309.11497)][[Website](https://chenyangsi.top/FreeU/)][[Code (in construction)](https://github.com/ChenyangSi/FreeU)]
     * **Emu**: "Emu: Enhancing Image Generation Models Using Photogenic Needles in a Haystack", arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2309.15807)]
+    * **PixArt-α**: "PixArt-α: Fast Training of Diffusion Transformer for Photorealistic Text-to-Image Synthesis", arXiv, 2023 (*Huawei*). [[Paper](https://arxiv.org/abs/2310.00426)][[Website](https://pixart-alpha.github.io/)]
 * Video:
     * **Imagen-Video**: "Imagen Video: High Definition Video Generation with Diffusion Models", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2210.02303)][[Website](https://imagen.research.google/video/)]
     * **Phenaki**: "Phenaki: Variable Length Video Generation From Open Domain Textual Description", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2210.02399)][[PyTorch (LAION-AI, in construction)](https://github.com/LAION-AI/phenaki)][[Website](https://phenaki.video/)]
@@ -1008,6 +1010,7 @@ If you find this repository useful, please consider citing this list:
     * **?**: "Making the Most of What You Have: Adapting Pre-trained Visual Language Models in the Low-data Regime", arXiv, 2023 (*DeepMind*). [[Paper](https://arxiv.org/abs/2305.02297)]
     * **Proto-CLIP**: "Proto-CLIP: Vision-Language Prototypical Network for Few-Shot Learning", arXiv, 2023 (*UT Dallas*). [[Paper](https://arxiv.org/abs/2307.03073)]
     * **NtUA**: "Noise-Tolerant Unsupervised Adapter for Vision-Language Models", arXiv, 2023 (*MBZUAI*). [[Paper](https://arxiv.org/abs/2309.14928)]
+    * **SeCAt**: "Small Visual Language Models can also be Open-Ended Few-Shot Learners", arXiv, 2023 (*UvA*). [[Paper](https://arxiv.org/abs/2310.00500)]
 * Referring Image Segmentation:
     * **VLT**: "Vision-Language Transformer and Query Generation for Referring Segmentation", ICCV, 2021 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2108.05565)][[Tensorflow](https://github.com/henghuiding/Vision-Language-Transformer)]
     * **CRIS**: "CRIS: CLIP-Driven Referring Image Segmentation", CVPR, 2022 (*University of Sydney*). [[Paper](https://arxiv.org/abs/2111.15174)]
@@ -1089,6 +1092,7 @@ If you find this repository useful, please consider citing this list:
     * **Tag2Text**: "Tag2Text: Guiding Vision-Language Model via Image Tagging", arXiv, 2023 (*OPPO*). [[Paper](https://arxiv.org/abs/2303.05657)][[PyTorch](https://github.com/xinyu1205/Tag2Text)][[Website](https://tag2text.github.io/)]
     * **RAM**: "Recognize Anything: A Strong Image Tagging Model", arXiv, 2023 (*OPPO*). [[Paper](https://arxiv.org/abs/2306.03514)][[PyTorch](https://github.com/xinyu1205/Tag2Text-Recognize_Anything)][[Website](https://recognize-anything.github.io/)]
     * **InstructDiffusion**: "InstructDiffusion: A Generalist Modeling Interface for Vision Tasks", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2309.03895)][[PyTorch](https://github.com/cientgu/InstructDiffusion)][[Website](https://gengzigang.github.io/instructdiffusion.github.io/)]
+    * **InstructCV**: "InstructCV: Instruction-Tuned Text-to-Image Diffusion Models as Vision Generalists", arXiv, 2023 (*Peking + Berkeley*). [[Paper](https://arxiv.org/abs/2310.00390)][[PyTorch](https://github.com/AlaaLab/InstructCV)]
 * Language-based Video Editing:
     * **M<sup>3</sup>L**: "Language-based Video Editing via Multi-Modal Multi-Level Transformer", CVPR, 2022 (*UCSB*). [[Paper](https://arxiv.org/abs/2104.01122)]
     * **Video-P2P**: "Video-P2P: Video Editing with Cross-attention Control", arXiv, 2023 (*CUHK*). [[Paper](https://arxiv.org/abs/2303.04761)][[Website](https://video-p2p.github.io/)]
@@ -1209,6 +1213,7 @@ If you find this repository useful, please consider citing this list:
     * **AUSS**: "Hear to Segment: Unmixing the Audio to Guide the Semantic Segmentation", arXiv, 2023 (*Fudan*). [[Paper](https://arxiv.org/abs/2305.07223)]
     * **AuTR**: "Annotation-free Audio-Visual Segmentation", arXiv, 2023 (*Shanghai Jiao Tong*). [[Paper](https://arxiv.org/abs/2305.11019)]
     * **AVSegFormer**: "AVSegFormer: Audio-Visual Segmentation with Transformer", arXiv, 2023 (*Nanjing University*). [[Paper](https://arxiv.org/abs/2307.01146)][[PyTorch](https://github.com/vvvb-github/AVSegFormer)]
+    * **SQD**: "Rethinking Audiovisual Segmentation with Semantic Quantization and Decomposition", arXiv, 2023 (*CMU*). [[Paper](https://arxiv.org/abs/2310.00132)]
 * Audio Description:
     * **AutoAD**: "AutoAD: Movie Description in Context", CVPR, 2023 (*Oxford*). [[Paper](https://arxiv.org/abs/2303.16899)][[Code (in construction)](https://github.com/TengdaHan/AutoAD)][[Website](https://www.robots.ox.ac.uk/~vgg/research/autoad/)]
 * Sound Localization:
@@ -1275,6 +1280,8 @@ If you find this repository useful, please consider citing this list:
     * **InternLM-XComposer**: "InternLM-XComposer: A Vision-Language Large Model for Advanced Text-image Comprehension and Composition", arXiv, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2309.15112)][[PyTorch](https://github.com/InternLM/InternLM-XComposer)]
     * **LLaVA-RLHF**: "Aligning Large Multimodal Models with Factually Augmented RLHF", arXiv, 2023 (*Berkeley + CMU + UIUC*). [[Paper](https://arxiv.org/abs/2309.14525)][[Code (in construction)](https://github.com/llava-rlhf/LLaVA-RLHF)][[Website](https://llava-rlhf.github.io/)]
     * **AnyMAL**: "AnyMAL: An Efficient and Scalable Any-Modality Augmented Language Model", arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2309.16058)]
+    * **Muffin**: "Reformulating Vision-Language Foundation Models and Datasets Towards Universal Multimodal Assistants", arXiv, 2023 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2310.00653)]
+    * **Pink**: "Pink: Unveiling the Power of Referential Comprehension for Multi-modal LLMs", arXiv, 2023 (*Ant*). [[Paper](https://arxiv.org/abs/2310.00582)][[Code (in construction)](https://github.com/SY-Xuan/Pink)]
 * Visual Reasoning:
     * **BDC-Adapter**: "BDC-Adapter: Brownian Distance Covariance for Better Vision-Language Reasoning", BMVC, 2023 (*SUSTech*). [[Paper](https://arxiv.org/abs/2309.01256)]
     * **RPT**: "Fine-Grained Regional Prompt Tuning for Visual Abductive Reasoning", arXiv, 2023 (*A\*STAR*). [[Paper](https://arxiv.org/abs/2303.10428)]
