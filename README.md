@@ -1011,6 +1011,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **MV-JAR**: "MV-JAR: Masked Voxel Jigsaw and Reconstruction for LiDAR-Based Self-Supervised Pre-Training", CVPR, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2303.13510)][[Code (in construction)](https://github.com/SmartBot-PJLab/MV-JAR)]
 * **FocalFormer3D**: "FocalFormer3D : Focusing on Hard Instance for 3D Object Detection", ICCV, 2023 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2308.04556)]
 * **3DPPE**: "3D Point Positional Encoding for Multi-Camera 3D Object Detection Transformers", ICCV, 2023 (*Houmo AI, China*). [[Paper](https://arxiv.org/abs/2211.14710)][[PyTorch](https://github.com/drilistbox/3DPPE)]
+* **PARQ**: "Pixel-Aligned Recurrent Queries for Multi-View 3D Object Detection", ICCV, 2023 (*Northeastern*). [[Paper](https://arxiv.org/abs/2310.01401)][[PyTorch](https://github.com/ymingxie/parq)][[Website](https://ymingxie.github.io/parq/)]
 * **?**: "An Empirical Analysis of Range for 3D Object Detection", ICCVW, 2023 (*CMU*). [[Paper](https://arxiv.org/abs/2308.04054)]
 * **DTH**: "Efficient Transformer-based 3D Object Detection with Dynamic Token Halting", arXiv, 2023 (*Cruise*). [[Paper](https://arxiv.org/abs/2303.05078)]
 * **STEMD**: "Spatial-Temporal Enhanced Transformer Towards Multi-Frame 3D Object Detection", arXiv, 2023 (*CUHK*). [[Paper](https://arxiv.org/abs/2307.00347)][[Code (in construction)(https://github.com/Eaphan/STEMD)]]
@@ -1160,6 +1161,9 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **ASM**: "The All-Seeing Project: Towards Panoptic Visual Recognition and Understanding of the Open World", arXiv, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2308.01907)][[Code (in construction)](https://github.com/OpenGVLab/All-Seeing)][[Demo](https://huggingface.co/spaces/OpenGVLab/all-seeing)]
     * **SAS-Det**: "Improving Pseudo Labels for Open-Vocabulary Object Detection", arXiv, 2023 (*NEC*). [[Paper](https://arxiv.org/abs/2308.06412)]
     * **DE-ViT**: "Detect Every Thing with Few Examples", arXiv, 2023 (*Rutgers*). [[Paper](https://arxiv.org/abs/2309.12969)][[PyTorch](https://github.com/mlzxy/devit)]
+    * **CLIPSelf**: "CLIPSelf: Vision Transformer Distills Itself for Open-Vocabulary Dense Prediction", arXiv, 2023 (*NTU, Singapore*). [[Papewr](https://arxiv.org/abs/2310.01403)][[PyTorch](https://github.com/wusize/CLIPSelf)]
+    * **DST-Det**: "DST-Det: Simple Dynamic Self-Training for Open-Vocabulary Object Detection", arXiv, 2023 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2310.01393)][[Code (in consgtruction)](https://github.com/xushilin1/dst-det)]
+    * **DITO**: "Detection-Oriented Image-Text Pretraining for Open-Vocabulary Detection", arXiv, 2023 (*DeepMind*). [[Paper](https://arxiv.org/abs/2310.00161)]
 * Pedestrian Detection:
     * **PED**: "DETR for Crowd Pedestrian Detection", arXiv, 2020 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2012.06785)][[PyTorch](https://github.com/Hatmm/PED-DETR-for-Pedestrian-Detection)]
     * **?**: "Effectiveness of Vision Transformer for Fast and Accurate Single-Stage Pedestrian Detection", NeurIPS, 2022 (*ICL*). [[Paper](https://openreview.net/forum?id=eow_ZGaw24j)]
@@ -1267,6 +1271,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **CoTDet**: "CoTDet: Affordance Knowledge Prompting for Task Driven Object Detection", ICCV, 2023 (*ShanghaiTech*). [[Paper](https://arxiv.org/abs/2309.01093)]
 * Diffusion:
     * **DiffusionEngine**: "DiffusionEngine: Diffusion Model is Scalable Data Engine for Object Detection", arXiv, 2023 (*ByteDance*). [[Paper](https://arxiv.org/abs/2309.03893)][[PyTorch](https://github.com/bytedance/DiffusionEngine)][[Website](https://mettyz.github.io/DiffusionEngine/)]
+    * **TADP**: "Text-image Alignment for Diffusion-based Perception", arXiv, 2023 (*California Institute of Technology (CIT)*). [[Paper](https://arxiv.org/abs/2310.00031)]
 
 [[Back to Overview](#overview)]
 
@@ -1345,6 +1350,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **CompletionFormer**: "CompletionFormer: Depth Completion with Convolutions and Vision Transformers", CVPR, 2023 (*University of Bologna, Italy*). [[Paper](https://arxiv.org/abs/2304.13030)][[PyTorch](https://github.com/youmi-zym/CompletionFormer)][[Website](https://youmi-zym.github.io/projects/CompletionFormer/)]
 * **Lite-Mono**: "Lite-Mono: A Lightweight CNN and Transformer Architecture for Self-Supervised Monocular Depth Estimation", CVPR, 2023 (*University of Twente, Netherlands*). [[Paper](https://arxiv.org/abs/2211.13202)][[PyTorch](https://github.com/noahzn/Lite-Mono)]
 * **EGformer**: "EGformer: Equirectangular Geometry-biased Transformer for 360 Depth Estimation", arXiv, 2023 (*SNU*). [[Paper](https://arxiv.org/abs/2304.07803)]
+* **Win-Win**: "Win-Win: Training High-Resolution Vision Transformers from Two Windows", arXiv, 2023 (*NAVER*). [[Paper](https://arxiv.org/abs/2310.00632)]
 
 [[Back to Overview](#overview)]
 
@@ -1390,6 +1396,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **CLIP-S<sup>4</sup>**: "CLIP-S<sup>4</sup>: Language-Guided Self-Supervised Semantic Segmentation", CVPR, 2023 (*Bosch*). [[Paper](https://arxiv.org/abs/2305.01040)]
     * **D<sup>2</sup>Zero**: "Semantic-Promoted Debiasing and Background Disambiguation for Zero-Shot Instance Segmentation", CVPR, 2023 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2305.13173)][[Code (in construction)](https://github.com/heshuting555/D2Zero)][[Website](https://henghuiding.github.io/D2Zero/)]
     * **PADing**: "Primitive Generation and Semantic-related Alignment for Universal Zero-Shot Segmentation", CVPR, 2023 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2306.11087)][[PyTorch](https://github.com/heshuting555/PADing)][[Website](https://henghuiding.github.io/PADing/)]
+    * **MAFT**: "Learning Mask-aware CLIP Representations for Zero-Shot Segmentation", NeurIPS, 2023 (*Picsart*). [[Paper](https://arxiv.org/abs/2310.00240)][[Code (in construction)](https://github.com/jiaosiyu1999/MAFT)]
     * **ZegOT**: "ZegOT: Zero-shot Segmentation Through Optimal Transport of Text Prompts", arXiv, 2023 (*KAIST*). [[Paper](https://arxiv.org/abs/2301.12171)]
     * **SimCon**: "SimCon Loss with Multiple Views for Text Supervised Semantic Segmentation", arXiv, 2023 (*Amazon*). [[Paper](https://arxiv.org/abs/2302.03432)]
     * **DiffusionSeg**: "DiffusionSeg: Adapting Diffusion Towards Unsupervised Object Discovery", arXiv, 2023 (*Shanghai Jiao Tong*). [[Paper](https://arxiv.org/abs/2303.09813)]
@@ -1710,6 +1717,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **PLAR**: "Prompt Learning for Action Recognition", arXiv, 2023 (*Maryland*). [[Paper](https://arxiv.org/abs/2305.12437)]
     * **SFA-ViViT**: "Optimizing ViViT Training: Time and Memory Reduction for Action Recognition", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2306.04822)]
     * **TAdaConv**: "Temporally-Adaptive Models for Efficient Video Understanding", arXiv, 2023 (*NUS*). [[Paper](https://arxiv.org/abs/2308.05787)][[PyTorch](https://github.com/alibaba-mmai-research/TAdaConv)]
+    * **ZeroI2V**: "ZeroI2V: Zero-Cost Adaptation of Pre-trained Transformers from Image to Video", arXiv, 2023 (*Nanjing University*). [[Paper](https://arxiv.org/abs/2310.01324)]
 * Depth:
     * **Trear**: "Trear: Transformer-based RGB-D Egocentric Action Recognition",  IEEE Transactions on Cognitive and Developmental Systems, 2021 (*Tianjing University*). [[Paper](https://ieeexplore.ieee.org/document/9312201)]
 * Pose/Skeleton:
