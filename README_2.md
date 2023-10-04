@@ -740,6 +740,7 @@ If you find this repository useful, please consider citing this list:
     * **PromptIR**: "PromptIR: Prompting for All-in-One Blind Image Restoration", arXiv, 2023 (*MBZUAI*). [[Paper](https://arxiv.org/abs/2306.13090)][[Code (in construction)](https://github.com/va1shn9v/PromptIR)]
     * **ProRes**: "ProRes: Exploring Degradation-aware Visual Prompt for Universal Image Restoration", arXiv, 2023 (*Horizon Robotics*). [[Paper](https://arxiv.org/abs/2306.13653)][[PyTorch (in construction)](https://github.com/leonmakise/ProRes)]
     * **C2F-DFT**: "Learning A Coarse-to-Fine Diffusion Transformer for Image Restoration", arXiv, 2023 (*Dalian University of Technology*). [[Paper](https://arxiv.org/abs/2308.08730)][[PyTorch (in construction)](https://github.com/wlydlut/C2F-DFT)]
+    * **DA-CLIP**: "Controlling Vision-Language Models for Universal Image Restoration", arXiv, 2023 (*Uppsala University, Sweden*). [[Paper](https://arxiv.org/abs/2310.01018)][[PyTorch](https://github.com/Algolzw/daclip-uir)][[Website](https://algolzw.github.io/daclip-uir/index.html)]
 * Super-Resolution:
     * **SAN**: "Second-Order Attention Network for Single Image Super-Resolution", CVPR, 2019 (*Tsinghua*). [[Paper](https://openaccess.thecvf.com/content_CVPR_2019/html/Dai_Second-Order_Attention_Network_for_Single_Image_Super-Resolution_CVPR_2019_paper.html)][[PyTorch](https://github.com/daitao/SAN)]
     * **CS-NL**: "Image Super-Resolution with Cross-Scale Non-Local Attention and Exhaustive Self-Exemplars Mining", CVPR, 2020 (*UIUC*). [[Paper](https://arxiv.org/abs/2006.01424)][[PyTorch](https://github.com/SHI-Labs/Cross-Scale-Non-Local-Attention)]
@@ -1576,6 +1577,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **MGTR**: "MGTR: End-to-End Mutual Gaze Detection with Transformer", ACCV, 2022 (*Nankai University*). [[Paper](https://arxiv.org/abs/2209.10930)][[PyTorch](https://github.com/Gmbition/MGTR)]
     * **GLC**: "In the Eye of Transformer: Global-Local Correlation for Egocentric Gaze Estimation", arXiv, 2022 (*Georgia Tech*). [[Paper](https://arxiv.org/abs/2208.04464)][[Website](https://bolinlai.github.io/GLC-EgoGazeEst/)]
     * **Gazeformer**: "Gazeformer: Scalable, Effective and Fast Prediction of Goal-Directed Human Attention", CVPR, 2023 (*Stony Brook*). [[Paper](https://arxiv.org/abs/2303.15274)][[PyTorch](https://github.com/cvlab-stonybrook/Gazeformer)]
+    * **Sharingan**: "Sharingan: A Transformer-based Architecture for Gaze Following", arXiv, 2023 (*EPFL*). [[Paper](https://arxiv.org/abs/2310.00816)]
 * Geo-Localization:
     * **EgoTR**: "Cross-view Geo-localization with Evolving Transformer", arXiv, 2021 (*Shenzhen University*). [[Paper](https://arxiv.org/abs/2107.00842)]
     * **TransGeo**: "TransGeo: Transformer Is All You Need for Cross-view Image Geo-localization", CVPR, 2022 (*UCF*). [[Paper](https://arxiv.org/abs/2204.00097)][[PyTorch](https://github.com/Jeff-Zilence/TransGeo2022)]
@@ -1778,6 +1780,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **UniWorld**: "UniWorld: Autonomous Driving Pre-training via World Models", arXiv, 2023 (*Peking*). [[Paper](https://arxiv.org/abs/2308.07234)][[Code (in construction)](https://github.com/chaytonmin/UniWorld)]
     * **PromptTrack**: "Language Prompt for Autonomous Driving", arXiv, 2023 (*Megvii*). [[Paper](https://arxiv.org/abs/2309.04379)]
     * **HiLM-D**: "HiLM-D: Towards High-Resolution Understanding in Multimodal Large Language Models for Autonomous Driving", arXiv, 2023 (*Huawei*). [[Paper](https://arxiv.org/abs/2309.05186)]
+    * **DriveGPT4**: "DriveGPT4: Interpretable End-to-end Autonomous Driving via Large Language Model", arXiv, 2023 (*HKU*). [[Paper](https://arxiv.org/abs/2310.01412)][[Website](https://tonyxuqaq.github.io/projects/DriveGPT4/)]
 * Trajectory Prediction:
     * **mmTransformer**: "Multimodal Motion Prediction with Stacked Transformers", CVPR, 2021 (*CUHK + SenseTime*). [[Paper](https://arxiv.org/abs/2103.11624)][[Code (in construction)](https://github.com/decisionforce/mmTransformer)][[Website](https://decisionforce.github.io/mmTransformer/)]
     * **AgentFormer**: "AgentFormer: Agent-Aware Transformers for Socio-Temporal Multi-Agent Forecasting", ICCV, 2021 (*CMU*). [[Paper](https://arxiv.org/abs/2103.14023)][[PyTorch](https://github.com/Khrylx/AgentFormer)][[Website](https://www.ye-yuan.com/agentformer/)]
