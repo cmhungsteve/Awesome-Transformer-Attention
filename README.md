@@ -458,6 +458,7 @@ If you find this repository useful, please consider citing this list:
 * **DiT**: "DiT: Efficient Vision Transformers with Dynamic Token Routing", arXiv, 2023 (*Meituan*). [[Paper](https://arxiv.org/abs/2308.03409)][[Code (in construction)](https://github.com/Maycbj/DiT)]
 * **?**: "Which Transformer to Favor: A Comparative Analysis of Efficiency in Vision Transformers", arXiv, 2023 (*German Research Center for Artificial Intelligence (DFKI)*). [[Paper](https://arxiv.org/abs/2308.09372)][[PyTorch](https://github.com/tobna/WhatTransformerToFavor)]
 * **Mobile-V-MoEs**: "Mobile V-MoEs: Scaling Down Vision Transformers via Sparse Mixture-of-Experts", arXiv, 2023 (*Apple*). [[Paper](https://arxiv.org/abs/2309.04354)]
+* **?**: "Vision Transformers Need Registers", arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2309.16588)]
 #### Conv + Transformer
 * **LeViT**: "LeViT: a Vision Transformer in ConvNet's Clothing for Faster Inference", ICCV, 2021 (*Facebook*). [[Paper](https://arxiv.org/abs/2104.01136)][[PyTorch](https://github.com/facebookresearch/LeViT)]
 * **CeiT**: "Incorporating Convolution Designs into Visual Transformers", ICCV, 2021 (*SenseTime*). [[Paper](https://arxiv.org/abs/2103.11816)][[PyTorch (rishikksh20)](https://github.com/rishikksh20/CeiT)]
