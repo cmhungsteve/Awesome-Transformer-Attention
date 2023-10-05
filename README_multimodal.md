@@ -692,6 +692,7 @@ If you find this repository useful, please consider citing this list:
     * **TEFAL**: "Audio-Enhanced Text-to-Video Retrieval using Text-Conditioned Feature Alignment", arXiv, 2023 (*Amazon*). [[Paper](https://arxiv.org/abs/2307.12964)]
     * **TeachCLIP**: "TeachCLIP: Multi-Grained Teaching for Efficient Text-to-Video Retrieval", arXiv, 2023 (*Renmin University of China*). [[Paper](https://arxiv.org/abs/2308.01217)]
     * **CoVR**: "CoVR: Learning Composed Video Retrieval from Web Video Captions", arXiv, 2023 (*Ecole des Ponts ParisTech (ENPC), France*). [[Paper](https://arxiv.org/abs/2308.14746)][[PyTorch](https://github.com/lucas-ventura/CoVR/)][[Website](https://imagine.enpc.fr/~ventural/covr/)]
+    * **LanguageBind**: "LanguageBind: Extending Video-Language Pretraining to N-modality by Language-based Semantic Alignment", arXiv, 2023 (*Peking*). [[Paper](https://arxiv.org/abs/2310.01852)][[PyTorch](https://github.com/PKU-YuanGroup/LanguageBind)]
 * Vision-Audio-Text:
     * **Multi-SK**: "Preserving Modality Structure Improves Multi-Modal Learning", ICCV, 2023 (*UCF*). [[Paper](https://arxiv.org/abs/2308.13077)][[Code (in construction)](https://github.com/Swetha5/Multi_Sinkhorn_Knopp)]
 * Others:
@@ -1288,6 +1289,7 @@ If you find this repository useful, please consider citing this list:
     * **LRR**: "Look, Remember and Reason: Visual Reasoning with Grounded Rationales", arXiv, 2023 (*Qualcomm*). [[Paper](https://arxiv.org/abs/2306.17778)]
     * **SDS-CLIP**: "Augmenting CLIP with Improved Visio-Linguistic Reasoning", arXiv, 2023 (*Maryland*). [[Paper](https://arxiv.org/abs/2307.09233)]
     * **?**: "Towards Grounded Visual Spatial Reasoning in Multi-Modal Vision Language Models", arXiv, 2023 (*George Mason University*). [[Paper](https://arxiv.org/abs/2308.09778)]
+    * **MiniGPT-5**: "MiniGPT-5: Interleaved Vision-and-Language Generation via Generative Vokens", arXiv, 2023 (*UC Santa Cruz*). [[Paper](https://arxiv.org/abs/2310.02239)][[PyTorch](https://github.com/eric-ai-lab/MiniGPT-5)]
 * Tracking:
     * **JointNLT**: "Joint Visual Grounding and Tracking with Natural Language Specification", CVPR, 2023 (*Harbin Institute of Technology*). [[Paper](https://arxiv.org/abs/2303.12027)][[PyTorch](https://github.com/lizhou-cs/JointNLT)]
     * **MMTrack**: "Towards Unified Token Learning for Vision-Language Tracking", arXiv, 2023 (*Guangxi Normal University*). [[Paper](https://arxiv.org/pdf/2308.14103.pdf)]
@@ -1323,6 +1325,7 @@ If you find this repository useful, please consider citing this list:
     * **MODE**: "An Examination of the Compositionality of Large Generative Vision-Language Models", arXiv, 2023 (*HKUST*). [[Paper](https://arxiv.org/abs/2308.10509)]
     * **TouchStone**: "TouchStone: Evaluating Vision-Language Models by Language Models", arXiv, 2023 (*Alibaba*). [[Paper](https://arxiv.org/abs/2308.16890)]
     * **Q-Bench**: "Q-Bench: A Benchmark for General-Purpose Foundation Models on Low-level Vision", arXiv, 2023 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2309.14181)]
+    * **PCA-EVAL**: "Towards End-to-End Embodied Decision Making via Multi-modal Large Language Model: Explorations with GPT4-Vision and Beyond", arXiv, 2023 (*Peking*). [[Paper](https://arxiv.org/abs/2310.02071)][[Code (in construction)](https://github.com/pkunlp-icler/PCA-EVAL)]
 * Robustness:
     * **Hierarchy-CLIP**: "Improving Zero-shot Generalization and Robustness of Multi-modal Models", CVPR, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2212.01758)][[JAX](https://github.com/gyhandy/Hierarchy-CLIP)][[Website](https://sites.google.com/usc.edu/hierarchy-clip/)]
     * **?**: "Mitigating Spurious Correlations in Multi-modal Models during Fine-tuning", ICML, 2023 (*UCLA*). [[Paper](https://arxiv.org/abs/2304.03916)]
