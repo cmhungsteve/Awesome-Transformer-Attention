@@ -1479,6 +1479,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **SparseBEV**: "SparseBEV: High-Performance Sparse 3D Object Detection from Multi-Camera Videos", ICCV, 2023 (*Nanjing University*). [[Paper](https://arxiv.org/abs/2308.09244)][[Code (in construction)](https://github.com/MCG-NJU/SparseBEV)]
     * **OCBEV**: "OCBEV: Object-Centric BEV Transformer for Multi-View 3D Object Detection", arXiv, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2306.01738)]
     * **FusionFormer**: "FusionFormer: A Multi-sensory Fusion in Bird's-Eye-View and Temporal Consistent Transformer for 3D Objection", arXiv, 2023 (*Cainiao Network, China*). [[Paper](https://arxiv.org/abs/2309.05257)]
+    * **Talk2BEV**: "Talk2BEV: Language-enhanced Bird's-eye View Maps for Autonomous Driving", arXiv, 2023 (*IIIT Hyderabad*). [[Paper](https://arxiv.org/abs/2310.02251)][[Code](https://github.com/llmbev/talk2bev)][[Website](https://llmbev.github.io/talk2bev/)]
 * Biology:
     * **?**: "A State-of-the-art Survey of Object Detection Techniques in Microorganism Image Analysis: from Traditional Image Processing and Classical Machine Learning to Current Deep Convolutional Neural Networks and Potential Visual Transformers", arXiv, 2021 (*Northeastern University*). [[Paper](https://arxiv.org/abs/2105.03148)]
 * Brain Score:
@@ -1781,6 +1782,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **PromptTrack**: "Language Prompt for Autonomous Driving", arXiv, 2023 (*Megvii*). [[Paper](https://arxiv.org/abs/2309.04379)]
     * **HiLM-D**: "HiLM-D: Towards High-Resolution Understanding in Multimodal Large Language Models for Autonomous Driving", arXiv, 2023 (*Huawei*). [[Paper](https://arxiv.org/abs/2309.05186)]
     * **DriveGPT4**: "DriveGPT4: Interpretable End-to-end Autonomous Driving via Large Language Model", arXiv, 2023 (*HKU*). [[Paper](https://arxiv.org/abs/2310.01412)][[Website](https://tonyxuqaq.github.io/projects/DriveGPT4/)]
+    * **?**: "Driving with LLMs: Fusing Object-Level Vector Modality for Explainable Autonomous Driving", arXiv, 2023 (*Wayve*). [[Paper](https://arxiv.org/abs/2310.01957)][[PyTorch](https://github.com/wayveai/Driving-with-LLMs)]
 * Trajectory Prediction:
     * **mmTransformer**: "Multimodal Motion Prediction with Stacked Transformers", CVPR, 2021 (*CUHK + SenseTime*). [[Paper](https://arxiv.org/abs/2103.11624)][[Code (in construction)](https://github.com/decisionforce/mmTransformer)][[Website](https://decisionforce.github.io/mmTransformer/)]
     * **AgentFormer**: "AgentFormer: Agent-Aware Transformers for Socio-Temporal Multi-Agent Forecasting", ICCV, 2021 (*CMU*). [[Paper](https://arxiv.org/abs/2103.14023)][[PyTorch](https://github.com/Khrylx/AgentFormer)][[Website](https://www.ye-yuan.com/agentformer/)]
