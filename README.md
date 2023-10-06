@@ -645,6 +645,7 @@ If you find this repository useful, please consider citing this list:
 * **DropPos**: "DropPos: Pre-Training Vision Transformers by Reconstructing Dropped Positions", arXiv, 2023 (*CAS*). [[Paper](https://arxiv.org/abs/2309.03576)]
 * **MIRL**: "Masked Image Residual Learning for Scaling Deeper Vision Transformers", arXiv, 2023 (*Baidu*). [[Paper](https://arxiv.org/abs/2309.14136)]
 * **MetaCLIP**: "Demystifying CLIP Data", arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2309.16671)][[PyTorch](https://github.com/facebookresearch/MetaCLIP)]
+* **CMM**: "Investigating the Limitation of CLIP Models: The Worst-Performing Categories", arXiv, 2023 (*Nanjing University*). [[Paper](https://arxiv.org/abs/2310.03324)]
 #### Robustness + Transformer
 * **ViT-Robustness**: "Understanding Robustness of Transformers for Image Classification", ICCV, 2021 (*Google*). [[Paper](https://arxiv.org/abs/2103.14586)]
 * **SAGA**: "On the Robustness of Vision Transformers to Adversarial Examples", ICCV, 2021 (*University of Connecticut*). [[Paper](https://arxiv.org/abs/2104.02610)]
