@@ -876,6 +876,7 @@ If you find this repository useful, please consider citing this list:
 * **Inpaint-Anything**: "Inpaint Anything: Segment Anything Meets Image Inpainting", arXiv, 2023 (*USTC*). [[Paper](https://arxiv.org/abs/2304.06790)][[PyTorch](https://github.com/geekyutao/Inpaint-Anything)]
 * **TransRef**: "TransRef: Multi-Scale Reference Embedding Transformer for Reference-Guided Image Inpainting", arXiv, 2023 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2306.11528)][[PyTorch](https://github.com/Cameltr/TransRef)]
 * **DMT**: "Deficiency-Aware Masked Transformer for Video Inpainting", arXiv, 2023 (*CAS*). [[Paper](https://arxiv.org/abs/2307.08629)][[Code (in construction)](https://github.com/yeates/DMT)]
+* **Magicremover**: "Magicremover: Tuning-free Text-guided Image inpainting with Diffusion Models", arXiv, 2023 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2310.02848)][[Code (in construction)](https://github.com/exisas/Magicremover)]
 
 [[Back to Overview](#overview)]
 
@@ -1522,6 +1523,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **ETB**: "Event Transformer", arXiv, 2022 (*Nanjing University*). [[Paper](https://arxiv.org/abs/2204.05172)]
     * **RVT**: "Recurrent Vision Transformers for Object Detection with Event Cameras", CVPR, 2023 (*University of Zurich*). [[Paper](https://arxiv.org/abs/2212.05598)]
     * **Eventful-Transformer**: "Eventful Transformers: Leveraging Temporal Redundancy in Vision Transformers", ICCV, 2023 (*UW Madison*). [[Paper](https://arxiv.org/abs/2308.13494)][[PyTorch](https://github.com/WISION-Lab/eventful-transformer)][[Website](https://wisionlab.com/project/eventful-transformers/)]
+    * **GET**: "GET: Group Event Transformer for Event-Based Vision", ICCV, 2023 (*USTC*). [[Paper](https://arxiv.org/abs/2310.02642)][[PyTorch](https://github.com/Peterande/GET-Group-Event-Transformer)]
     * **SODFormer**: "SODFormer: Streaming Object Detection with Transformer Using Events and Frames", TPAMI, 2023 (*Peking*). [[Paper](https://arxiv.org/abs/2308.04047)][[PyTorch](https://github.com/dianzl/SODFormer)]
 * Fashion:
     * **Kaleido-BERT**: "Kaleido-BERT: Vision-Language Pre-training on Fashion Domain", CVPR, 2021 (*Alibaba*). [[Paper](https://arxiv.org/abs/2103.16110)][[Tensorflow](https://github.com/mczhuge/Kaleido-BERT)]
