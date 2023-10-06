@@ -530,6 +530,7 @@ If you find this repository useful, please consider citing this list:
     * **MMICL**: "MMICL: Empowering Vision-language Model with Multi-Modal In-Context Learning", arXiv, 2023 (*Peking*). [[Paper](https://arxiv.org/abs/2309.07915)][[PyTorch](https://github.com/HaozheZhao/MIC)]
     * **ELIP**: "ELIP: Efficient Language-Image Pre-training with Fewer Vision Tokens", arXiv, 2023 (*NUS*). [[Paper](https://arxiv.org/abs/2309.16738)]
     * **SEED-LLaMA**: "Making LLaMA SEE and Draw with SEED Tokenizer", arXiv, 2023 (*Tencent*). [[Paper](https://arxiv.org/abs/2310.01218)][[PyTorch](https://github.com/AILab-CVC/SEED)]
+    * **ITIT**: "Leveraging Unpaired Data for Vision-Language Generative Models via Cycle Consistency", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2310.03734)]
 * Video:
     * **COOT**: "COOT: Cooperative Hierarchical Transformer for Video-Text Representation Learning", NeurIPS, 2020 (*University of Freiburg*). [[Paper](https://arxiv.org/abs/2011.00597)][[PyTorch](https://github.com/gingsi/coot-videotext)]
     * **Parameter-Reduction**: "Parameter Efficient Multimodal Transformers for Video Representation Learning", ICLR, 2021 (*Seoul National University*). [[Paper](https://openreview.net/forum?id=6UdQLhqJyFD)]
