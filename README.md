@@ -720,6 +720,7 @@ If you find this repository useful, please consider citing this list:
 * **DeepMIM**: "DeepMIM: Deep Supervision for Masked Image Modeling", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2303.08817)][[Code (in construction)](https://github.com/OliverRensu/DeepMIM)]
 * **TAP-ADL**: "Robustifying Token Attention for Vision Transformers", arXiv, 2023 (*MPI*). [[Paper](https://arxiv.org/abs/2303.11126)]
 * **EWA**: "Experts Weights Averaging: A New General Training Scheme for Vision Transformers", arXiv, 2023 (*Fudan*). [[Paper](https://arxiv.org/abs/2308.06093)]
+* **SlowFormer**: "SlowFormer: Universal Adversarial Patch for Attack on Compute and Energy Efficiency of Inference Efficient Vision Transformers", arXiv, 2023 (*UC Davis*). [[Paper](https://arxiv.org/abs/2310.02544)][[PyTorch](https://github.com/UCDvision/SlowFormer)]
 #### Model Compression + Transformer
 * **ViT-quant**: "Post-Training Quantization for Vision Transformer", NeurIPS, 2021 (*Huawei*). [[Paper](https://arxiv.org/abs/2106.14156)]
 * **VTP**: "Visual Transformer Pruning", arXiv, 2021 (*Huawei*). [[Paper](https://arxiv.org/abs/2104.08500)]
@@ -865,6 +866,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **AttentionViz**: "AttentionViz: A Global View of Transformer Attention", arXiv, 2023 (*Harvard*). [[Paper](https://arxiv.org/abs/2305.03210)][[Website](http://attentionviz.com/)]
 * **?**: "Understanding Gaussian Attention Bias of Vision Transformers Using Effective Receptive Fields", arXiv, 2023 (*POSTECH*). [[Paper](https://arxiv.org/abs/2305.04722)]
 * **?**: "Reviving Shift Equivariance in Vision Transformers", arXiv, 2023 (*Maryland*). [[Paper](https://arxiv.org/abs/2306.07470)]
+* **ViT-ReciproCAM**: "ViT-ReciproCAM: Gradient and Attention-Free Visual Explanations for Vision Transformer", arXiv, 2023 (*Intel*). [[Paper](https://arxiv.org/abs/2310.02588)]
 
 [[Back to Overview](#overview)]
 
@@ -1039,6 +1041,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **OV-3DET**: "Open-Vocabulary Point-Cloud Object Detection without 3D Annotation", CVPR, 2023 (*Peking University*). [[Paper](https://arxiv.org/abs/2304.00788)][[PyTorch](https://github.com/lyhdet/OV-3DET)]
 * **Detection-Hub**: "Detection Hub: Unifying Object Detection Datasets via Query Adaptation on Language Embedding", CVPR, 2023 (*Fudan + Microsoft*). [[Paper](https://arxiv.org/abs/2206.03484)]
 * **MM-OVOD**: "Multi-Modal Classifiers for Open-Vocabulary Object Detection", ICML, 2023 (*Oxford*). [[Paper](https://arxiv.org/abs/2306.05493?s=31)][[Code (in construction)](https://github.com/prannaykaul/mm-ovod)][[Website](https://www.robots.ox.ac.uk/~vgg/research/mm-ovod/)]
+* **CoDA**: "CoDA: Collaborative Novel Box Discovery and Cross-modal Alignment for Open-vocabulary 3D Object Detection", NeurIPS, 2023 (**). [[Paper](https://arxiv.org/abs/2310.02960)][[Code (in construction)](https://github.com/yangcaoai/CoDA_NeurIPS2023)][[Website](https://yangcaoai.github.io/publications/CoDA.html)]
 * **OmniLabel**: "OmniLabel: A Challenging Benchmark for Language-Based Object Detection", arXiv, 2023 (*NEC*). [[Paper](https://arxiv.org/abs/2304.11463)][[GitHub](https://github.com/samschulter/omnilabeltools)][[Website](https://www.omnilabel.org/)]
 * **ContextDET**: "Contextual Object Detection with Multimodal Large Language Models", arXiv, 2023 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2305.18279)][[Code (in construction)](https://github.com/yuhangzang/ContextDET)][[Website](https://www.mmlab-ntu.com/project/contextdet/index.html)]
 * **OWL-ST**: "Scaling Open-Vocabulary Object Detection", arXiv, 2023 (*DeepMind*). [[Paper](https://arxiv.org/abs/2306.09683)]
@@ -1407,6 +1410,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **MESS**: "What a MESS: Multi-Domain Evaluation of Zero-Shot Semantic Segmentation", arXiv, 2023 (*Karlsruhe Institute of Technology, Germnay*). [[Paper](https://arxiv.org/abs/2306.15521)][[PyTorch](https://github.com/blumenstiel/MESS)][[Website](https://blumenstiel.github.io/mess-benchmark/)]
     * **LISA**: "LISA: Reasoning Segmentation via Large Language Model", arXiv, 2023 (*CUHK*). [[Paper](https://arxiv.org/abs/2308.00692)][[Code (in construction)](https://github.com/dvlab-research/LISA)]
     * **MixReorg**: "MixReorg: Cross-Modal Mixed Patch Reorganization is a Good Mask Learner for Open-World Semantic Segmentation", arXiv, 2023 (*Sun Yat-sen University*). [[Paper](https://arxiv.org/abs/2308.04829)]
+    * **CLIPTeacher**: "CLIP Is Also a Good Teacher: A New Learning Framework for Inductive Zero-shot Semantic Segmentation", arXiv, 2023 (*Nagoya University*). [[Paper](https://arxiv.org/abs/2310.02296)]
 * Open-World/Vocabulary:
     * **ViL-Seg**: "Open-world Semantic Segmentation via Contrasting and Clustering Vision-Language Embedding", ECCV, 2022 (*CUHK*). [[Paper](https://arxiv.org/abs/2207.08455)]
     * **OVSS**: "A Simple Baseline for Open Vocabulary Semantic Segmentation with Pre-trained Vision-language Model", ECCV, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2112.14757)][[PyTorch](https://github.com/MendelXu/zsseg.baseline)]
