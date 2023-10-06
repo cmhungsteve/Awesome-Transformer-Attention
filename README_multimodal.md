@@ -794,6 +794,7 @@ If you find this repository useful, please consider citing this list:
     * **FreeU**: "FreeU: Free Lunch in Diffusion U-Net", arXiv, 2023 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2309.11497)][[Website](https://chenyangsi.top/FreeU/)][[Code (in construction)](https://github.com/ChenyangSi/FreeU)]
     * **Emu**: "Emu: Enhancing Image Generation Models Using Photogenic Needles in a Haystack", arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2309.15807)]
     * **PixArt-α**: "PixArt-α: Fast Training of Diffusion Transformer for Photorealistic Text-to-Image Synthesis", arXiv, 2023 (*Huawei*). [[Paper](https://arxiv.org/abs/2310.00426)][[Website](https://pixart-alpha.github.io/)]
+    * **Kosmos-G**: "Kosmos-G: Generating Images in Context with Multimodal Large Language Models", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2310.02992)][[PyTorch](https://github.com/microsoft/unilm/tree/master/kosmos-g)][[Website](https://xichenpan.com/kosmosg/)]
 * Video:
     * **Imagen-Video**: "Imagen Video: High Definition Video Generation with Diffusion Models", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2210.02303)][[Website](https://imagen.research.google/video/)]
     * **Phenaki**: "Phenaki: Variable Length Video Generation From Open Domain Textual Description", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2210.02399)][[PyTorch (LAION-AI, in construction)](https://github.com/LAION-AI/phenaki)][[Website](https://phenaki.video/)]
@@ -1326,6 +1327,7 @@ If you find this repository useful, please consider citing this list:
     * **TouchStone**: "TouchStone: Evaluating Vision-Language Models by Language Models", arXiv, 2023 (*Alibaba*). [[Paper](https://arxiv.org/abs/2308.16890)]
     * **Q-Bench**: "Q-Bench: A Benchmark for General-Purpose Foundation Models on Low-level Vision", arXiv, 2023 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2309.14181)]
     * **PCA-EVAL**: "Towards End-to-End Embodied Decision Making via Multi-modal Large Language Model: Explorations with GPT4-Vision and Beyond", arXiv, 2023 (*Peking*). [[Paper](https://arxiv.org/abs/2310.02071)][[Code (in construction)](https://github.com/pkunlp-icler/PCA-EVAL)]
+    * **ReForm-Eval**: "ReForm-Eval: Evaluating Large Vision Language Models via Unified Re-Formulation of Task-Oriented Benchmarks", arXiv, 2023 (*Fudan*). [[Paper](https://arxiv.org/abs/2310.02569)]
 * Robustness:
     * **Hierarchy-CLIP**: "Improving Zero-shot Generalization and Robustness of Multi-modal Models", CVPR, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2212.01758)][[JAX](https://github.com/gyhandy/Hierarchy-CLIP)][[Website](https://sites.google.com/usc.edu/hierarchy-clip/)]
     * **?**: "Mitigating Spurious Correlations in Multi-modal Models during Fine-tuning", ICML, 2023 (*UCLA*). [[Paper](https://arxiv.org/abs/2304.03916)]
@@ -1348,5 +1350,7 @@ If you find this repository useful, please consider citing this list:
     * **CLIPTrans**: "CLIPTrans: Transferring Visual Knowledge with Pre-trained Models for Multimodal Machine Translation", ICCV, 2023 (*Boston College*). [[Paper](https://arxiv.org/abs/2308.15226)][[PyTorch](https://github.com/devaansh100/CLIPTrans)]
 * Noisy label detection:
     * **VDC**: "VDC: Versatile Data Cleanser for Detecting Dirty Samples via Visual-Linguistic Inconsistency", arXiv, 2023 (*CUHK*). [[Paper](https://arxiv.org/abs/2309.16211)]
+* Model Compression:
+    * **ECoFLaP**: "ECoFLaP: Efficient Coarse-to-Fine Layer-Wise Pruning for Vision-Language Models", arXiv, 2023 (*UNC*). [[Paper](https://arxiv.org/abs/2310.02998)][[PyTorch](https://github.com/ylsung/ECoFLaP)][[Website](https://ecoflap.github.io/)]
 
 [[Back to Overview](#overview)]
