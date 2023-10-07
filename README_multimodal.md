@@ -531,6 +531,7 @@ If you find this repository useful, please consider citing this list:
     * **ELIP**: "ELIP: Efficient Language-Image Pre-training with Fewer Vision Tokens", arXiv, 2023 (*NUS*). [[Paper](https://arxiv.org/abs/2309.16738)]
     * **SEED-LLaMA**: "Making LLaMA SEE and Draw with SEED Tokenizer", arXiv, 2023 (*Tencent*). [[Paper](https://arxiv.org/abs/2310.01218)][[PyTorch](https://github.com/AILab-CVC/SEED)]
     * **ITIT**: "Leveraging Unpaired Data for Vision-Language Generative Models via Cycle Consistency", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2310.03734)]
+    * **SimVLG**: "SimVLG: Simple and Efficient Pretraining of Visual Language Generative Models", arXiv, 2023 (*ByteDance*). [[Paper](https://arxiv.org/abs/2310.03291)]
 * Video:
     * **COOT**: "COOT: Cooperative Hierarchical Transformer for Video-Text Representation Learning", NeurIPS, 2020 (*University of Freiburg*). [[Paper](https://arxiv.org/abs/2011.00597)][[PyTorch](https://github.com/gingsi/coot-videotext)]
     * **Parameter-Reduction**: "Parameter Efficient Multimodal Transformers for Video Representation Learning", ICLR, 2021 (*Seoul National University*). [[Paper](https://openreview.net/forum?id=6UdQLhqJyFD)]
@@ -591,6 +592,7 @@ If you find this repository useful, please consider citing this list:
     * **RegionPLC**: "RegionPLC: Regional Point-Language Contrastive Learning for Open-World 3D Scene Understanding", arXiv, 2023 (*HKU*). [[Paper](https://arxiv.org/abs/2304.00962)][[Website](https://jihanyang.github.io/projects/RegionPLC)]
     * **3DVLP**: "Vision-Language Pre-training with Object Contrastive Learning for 3D Scene Understanding", arXiv, 2023 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2305.10714)]
     * **CLIPXPlore**: "CLIPXPlore: Coupled CLIP and Shape Spaces for 3D Shape Exploration", arXiv, 2023 (*CUHK*). [[Paper](https://arxiv.org/abs/2306.08226)]
+    * **Point-PEFT**: "Point-PEFT: Parameter-Efficient Fine-Tuning for 3D Pre-trained Models", arXiv, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2310.03059)][[PyTorch](https://github.com/EvenJoker/Point-PEFT)]
 * Vision-Audio-Text:
     * **VATT**: "VATT: Transformers for Multimodal Self-Supervised Learning from Raw Video, Audio and Text", NeurIPS, 2021 (*Google*). [[Paper](https://arxiv.org/abs/2104.11178)][[Tensorflow](https://github.com/google-research/google-research/tree/master/vatt)]
     * **VideoCC**: "Learning Audio-Video Modalities from Image Captions", ECCV, 2022 (*Google*). [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/4217_ECCV_2022_paper.php)][[Website](https://a-nagrani.github.io/videocc.html)]
@@ -796,6 +798,7 @@ If you find this repository useful, please consider citing this list:
     * **Emu**: "Emu: Enhancing Image Generation Models Using Photogenic Needles in a Haystack", arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2309.15807)]
     * **PixArt-α**: "PixArt-α: Fast Training of Diffusion Transformer for Photorealistic Text-to-Image Synthesis", arXiv, 2023 (*Huawei*). [[Paper](https://arxiv.org/abs/2310.00426)][[Website](https://pixart-alpha.github.io/)]
     * **Kosmos-G**: "Kosmos-G: Generating Images in Context with Multimodal Large Language Models", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2310.02992)][[PyTorch](https://github.com/microsoft/unilm/tree/master/kosmos-g)][[Website](https://xichenpan.com/kosmosg/)]
+    * **AlignProp**: "Aligning Text-to-Image Diffusion Models with Reward Backpropagation", arXiv, 2023 (*CMU*). [[Paper](https://arxiv.org/abs/2310.03739)][[PyTorch](https://github.com/mihirp1998/AlignProp/)][[Website](https://align-prop.github.io/)]
 * Video:
     * **Imagen-Video**: "Imagen Video: High Definition Video Generation with Diffusion Models", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2210.02303)][[Website](https://imagen.research.google/video/)]
     * **Phenaki**: "Phenaki: Variable Length Video Generation From Open Domain Textual Description", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2210.02399)][[PyTorch (LAION-AI, in construction)](https://github.com/LAION-AI/phenaki)][[Website](https://phenaki.video/)]
@@ -1285,6 +1288,7 @@ If you find this repository useful, please consider citing this list:
     * **AnyMAL**: "AnyMAL: An Efficient and Scalable Any-Modality Augmented Language Model", arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2309.16058)]
     * **Muffin**: "Reformulating Vision-Language Foundation Models and Datasets Towards Universal Multimodal Assistants", arXiv, 2023 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2310.00653)]
     * **Pink**: "Pink: Unveiling the Power of Referential Comprehension for Multi-modal LLMs", arXiv, 2023 (*Ant*). [[Paper](https://arxiv.org/abs/2310.00582)][[Code (in construction)](https://github.com/SY-Xuan/Pink)]
+    * **LLaVA-1.5**: "Improved Baselines with Visual Instruction Tuning", arXiv, 2023 (*UW Madison*). [[Paper](https://arxiv.org/abs/2310.03744)][[PyTorch](https://github.com/haotian-liu/LLaVA)][[Website](https://llava-vl.github.io/)]
 * Visual Reasoning:
     * **BDC-Adapter**: "BDC-Adapter: Brownian Distance Covariance for Better Vision-Language Reasoning", BMVC, 2023 (*SUSTech*). [[Paper](https://arxiv.org/abs/2309.01256)]
     * **RPT**: "Fine-Grained Regional Prompt Tuning for Visual Abductive Reasoning", arXiv, 2023 (*A\*STAR*). [[Paper](https://arxiv.org/abs/2303.10428)]
