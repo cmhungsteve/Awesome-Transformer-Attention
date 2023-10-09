@@ -1210,6 +1210,7 @@ If you find this repository useful, please consider citing this list:
     * **OneAVM**: "A Unified Audio-Visual Learning Framework for Localization, Separation, and Recognition", ICML, 2023 (*CMU + UW Madison*). [[Paper](https://arxiv.org/abs/2305.19458)][[Code (in construction)](https://github.com/stoneMo/OneAVM)]
     * **AdVerb**: "AdVerb: Visually Guided Audio Dereverberation", ICCV, 2023 (*Maryland*). [[Paper](https://arxiv.org/abs/2308.12370)][[Website](https://gamma.umd.edu/researchdirections/speech/adverb)]
     * **CIGN**: "Class-Incremental Grouping Network for Continual Audio-Visual Learning", ICCV, 2023 (*CMU*). [[Paper](https://arxiv.org/abs/2309.05281)][[PyTorch](https://github.com/stoneMo/CIGN)]
+    * **MAViL**: "MAViL: Masked Audio-Video Learners", NeurIPS, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2212.08071)][[Code (in construction)](https://github.com/facebookresearch/MAViL)]
     * **GestureDiffuCLIP**: "GestureDiffuCLIP: Gesture Diffusion Model with CLIP Latents", arXiv, 2023 (*Peking University*). [[Paper](https://arxiv.org/abs/2303.14613)]
     * **MMViT**: "MMViT: Multiscale Multiview Vision Transformers", arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2305.00104)]
     * **?**: "Learning Spatial Features from Audio-Visual Correspondence in Egocentric Videos" arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2307.04760)]
@@ -1220,6 +1221,7 @@ If you find this repository useful, please consider citing this list:
     * **AuTR**: "Annotation-free Audio-Visual Segmentation", arXiv, 2023 (*Shanghai Jiao Tong*). [[Paper](https://arxiv.org/abs/2305.11019)]
     * **AVSegFormer**: "AVSegFormer: Audio-Visual Segmentation with Transformer", arXiv, 2023 (*Nanjing University*). [[Paper](https://arxiv.org/abs/2307.01146)][[PyTorch](https://github.com/vvvb-github/AVSegFormer)]
     * **SQD**: "Rethinking Audiovisual Segmentation with Semantic Quantization and Decomposition", arXiv, 2023 (*CMU*). [[Paper](https://arxiv.org/abs/2310.00132)]
+    * **DiffMAViL**: "Diffusion Models as Masked Audio-Video Learners", arXiv, 2023 (*Apple*). [[Paper](https://arxiv.org/abs/2310.03937)]
 * Audio Description:
     * **AutoAD**: "AutoAD: Movie Description in Context", CVPR, 2023 (*Oxford*). [[Paper](https://arxiv.org/abs/2303.16899)][[Code (in construction)](https://github.com/TengdaHan/AutoAD)][[Website](https://www.robots.ox.ac.uk/~vgg/research/autoad/)]
 * Sound Localization:
