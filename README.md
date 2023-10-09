@@ -1612,6 +1612,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **TaskPrompter**: "TaskPrompter: Spatial-Channel Multi-Task Prompting for Dense Scene Understanding", ICLR, 2023 (*HKUST*). [[Paper](https://openreview.net/forum?id=-CwPopPJda)][[PyTorch (in construction)](https://github.com/prismformore/Multi-Task-Transformer)]
     * **InvPT++**: "InvPT++: Inverted Pyramid Multi-Task Transformer for Visual Scene Understanding", arXiv, 2023 (*HKUST*). [[Paper](https://arxiv.org/abs/2306.04842)]
     * **DeMTG**: "Deformable Mixer Transformer with Gating for Multi-Task Learning of Dense Prediction", arXiv, 2023 (*Wuhan University*). [[Paper](https://arxiv.org/abs/2308.05721)][[PyTorch](https://github.com/yangyangxu0/DeMTG)]
+    * **SRT**: "Sub-token ViT Embedding via Stochastic Resonance Transformers", arXiv, 2023 (*UCLA*). [[Paper](https://arxiv.org/abs/2310.03967)]
 * Forecasting:
     * **DiffAttn**: "Joint Forecasting of Panoptic Segmentations with Difference Attention", CVPR, 2022 (*UIUC*). [[Paper](https://arxiv.org/abs/2204.07157)][[Code (in construction)](https://github.com/cgraber/psf-diffattn)]
 * LiDAR:
