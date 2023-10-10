@@ -243,6 +243,7 @@ If you find this repository useful, please consider citing this list:
     * **4D-Humans**: "Humans in 4D: Reconstructing and Tracking Humans with Transformers", arXiv, 2023 (*Berkeley*). [[Paper](https://arxiv.org/abs/2305.20091)][[PyTorch](https://github.com/shubham-goel/4D-Humans)][[Website](https://shubham-goel.github.io/4dhumans/)]
     * **PGformer**: "PGformer: Proxy-Bridged Game Transformer for Multi-Person Extremely Interactive Motion Prediction", arXiv, 2023 (*Alibaba*). [[Paper](https://arxiv.org/abs/2306.03374)]
     * **?**: "Scene-aware Human Pose Generation using Transformer", arXiv, 2023 (*Shanghai Jiao Tong*). [[Paper](https://arxiv.org/abs/2308.02177)]
+    * **KDSM**: "Language-driven Open-Vocabulary Keypoint Detection for Animal Body and Face", arXiv, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2310.05056)]
 * Hands:
     * **Hand-Transformer**: "Hand-Transformer: Non-Autoregressive Structured Modeling for 3D Hand Pose Estimation", ECCV, 2020 (*Kwai*). [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/4836_ECCV_2020_paper.php)]
     * **SCAT**: "SCAT: Stride Consistency With Auto-Regressive Regressor and Transformer for Hand Pose Estimation", ICCVW, 2021 (*Alibaba*). [[Paper](https://openaccess.thecvf.com/content/ICCV2021W/SoMoF/html/Gao_SCAT_Stride_Consistency_With_Auto-Regressive_Regressor_and_Transformer_for_Hand_ICCVW_2021_paper.html)]
@@ -559,6 +560,7 @@ If you find this repository useful, please consider citing this list:
     * **MP**: "Tuning Pre-trained Model via Moment Probing", ICCV, 2023 (*Tianjin University*). [[Paper](https://arxiv.org/abs/2307.11342)][[PyTorch](https://github.com/mingzeG/Moment-Probing)]
     * **E<sup>3</sup>VA**: "Parameter-efficient is not sufficient: Exploring Parameter, Memory, and Time Efficient Adapter Tuning for Dense Predictions", arXiv, 2023 (*Alibaba + Microsoft*). [[Paper](https://arxiv.org/abs/2306.09729)]
     * **Minimax**: "Task-Robust Pre-Training for Worst-Case Downstream Adaptation", arXiv, 2023 (*Peking*). [[Paper](https://arxiv.org/abs/2306.12070)]
+    * **HST**: "Hierarchical Side-Tuning for Vision Transformers", arXiv, 2023 (*Alibaba*). [[Paper](https://arxiv.org/abs/2310.05393)][[Code (in construction)](https://github.com/AFeng-x/HST)]
 * Domain Adaptation/Domain Generalization/Federated Learning:
     * **TransDA**: "Transformer-Based Source-Free Domain Adaptation", arXiv, 2021 (*Haerbin Institute of Technology*). [[Paper](https://arxiv.org/abs/2105.14138)][[PyTorch](https://github.com/ygjwd12345/TransDA)]
     * **TVT**: "TVT: Transferable Vision Transformer for Unsupervised Domain Adaptation", arXiv, 2021 (*UT Arlington + Kuaishou*). [[Paper](https://arxiv.org/abs/2108.05988)]
@@ -944,6 +946,7 @@ If you find this repository useful, please consider citing this list:
 * **Reg-VQ**: "Regularized Vector Quantization for Tokenized Image Synthesis", CVPR, 2023 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2303.06424)]
 * **LCP-GAN**: "Exploring Intra-Class Variation Factors With Learnable Cluster Prompts for Semi-Supervised Image Synthesis", CVPR, 2023 (*South China University of Technology*). [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Zhang_Exploring_Intra-Class_Variation_Factors_With_Learnable_Cluster_Prompts_for_Semi-Supervised_CVPR_2023_paper.html)]
 * **Slot-VAE**: "Slot-VAE: Object-Centric Scene Generation with Slot Attention", ICML, 2023 (*Delft University of Technology, Netherland*). [[Paper](https://arxiv.org/abs/2306.06997)]
+* **Efficient-VQGAN**: "Efficient-VQGAN: Towards High-Resolution Image Generation with Efficient Vision Transformers", ICCV, 2023 (*Alibaba*). [[Paper](https://arxiv.org/abs/2310.05400)]
 * **VQ3D**: "VQ3D: Learning a 3D-Aware Generative Model on ImageNet", arXiv, 2023 (*Stanford*). [[Paper](https://arxiv.org/abs/2302.06833)][[Website](https://kylesargent.github.io/vq3d)]
 * **LayoutDiffuse**: "LayoutDiffuse: Adapting Foundational Diffusion Models for Layout-to-Image Generation", arXiv, 2023 (*Amazon*). [[Paper](https://arxiv.org/abs/2302.08908)]
 * **StraIT**: "StraIT: Non-autoregressive Generation with Stratified Image Transformer", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2303.00750)]
@@ -984,6 +987,7 @@ If you find this repository useful, please consider citing this list:
 * **CAT-NeRF**: "CAT-NeRF: Constancy-Aware Tx<sup>2</sup>Former for Dynamic Body Modeling", arXiv, 2023 (*USC*). [[Paper](https://arxiv.org/abs/2304.07915)]
 * **IconShop**: "IconShop: Text-Based Vector Icon Synthesis with Autoregressive Transformers", arXiv, 2023 (*CUHK*). [[Paper](https://arxiv.org/abs/2304.14400)][[Code (in construction)](https://github.com/kingnobro/IconShop)][[Website](https://kingnobro.github.io/iconshop/)]
 * **VDT**: "VDT: An Empirical Study on Video Diffusion with Transformers", arXiv, 2023 (*Renmin University of China*). [[Paper](https://arxiv.org/abs/2305.13311)][[PyTorch](https://github.com/RERV/VDT)]
+* **MAGVIT-v2**: "Language Model Beats Diffusion - Tokenizer is Key to Visual Generation", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2310.05737)][[Website](https://magvit.cs.cmu.edu/v2/)]
 
 [[Back to Overview](#overview)]
 
