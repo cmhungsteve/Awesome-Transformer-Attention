@@ -960,6 +960,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **CFDT**: "A Transformer-Based Object Detector with Coarse-Fine Crossing Representations", NeurIPS, 2022 (*Huawei*). [[Paper](https://openreview.net/forum?id=iuW96ssPQX)]
     * **D<sup>2</sup>ETR**: "D<sup>2</sup>ETR: Decoder-Only DETR with Computationally Efficient Cross-Scale Attention", arXiv, 2022 (*Alibaba*). [[Paper](https://arxiv.org/abs/2203.00860)]
     * **DINO**: "DINO: DETR with Improved DeNoising Anchor Boxes for End-to-End Object Detection", ICLR, 2023 (*IDEA, China*). [[Paper](https://arxiv.org/abs/2203.03605)][[PyTorch](https://github.com/IDEACVR/DINO)]
+    * **SimPLR**: "SimPLR: A Simple and Plain Transformer for Object Detection and Segmentation", arXiv, 2023 (*UvA*). [[Paper](https://arxiv.org/abs/2310.05920)]
 
 [[Back to Overview](#overview)]
 
@@ -1017,6 +1018,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **3DPPE**: "3D Point Positional Encoding for Multi-Camera 3D Object Detection Transformers", ICCV, 2023 (*Houmo AI, China*). [[Paper](https://arxiv.org/abs/2211.14710)][[PyTorch](https://github.com/drilistbox/3DPPE)]
 * **PARQ**: "Pixel-Aligned Recurrent Queries for Multi-View 3D Object Detection", ICCV, 2023 (*Northeastern*). [[Paper](https://arxiv.org/abs/2310.01401)][[PyTorch](https://github.com/ymingxie/parq)][[Website](https://ymingxie.github.io/parq/)]
 * **?**: "An Empirical Analysis of Range for 3D Object Detection", ICCVW, 2023 (*CMU*). [[Paper](https://arxiv.org/abs/2308.04054)]
+* **Uni3DETR**: "Uni3DETR: Unified 3D Detection Transformer", NeurIPS, 2023 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2310.05699)][[PyTorch](https://github.com/zhenyuw16/Uni3DETR)]
 * **DTH**: "Efficient Transformer-based 3D Object Detection with Dynamic Token Halting", arXiv, 2023 (*Cruise*). [[Paper](https://arxiv.org/abs/2303.05078)]
 * **STEMD**: "Spatial-Temporal Enhanced Transformer Towards Multi-Frame 3D Object Detection", arXiv, 2023 (*CUHK*). [[Paper](https://arxiv.org/abs/2307.00347)][[Code (in construction)(https://github.com/Eaphan/STEMD)]]
 * **V-DETR**: "V-DETR: DETR with Vertex Relative Position Encoding for 3D Object Detection", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2308.04409)][[Code (in construction)](https://github.com/yichaoshen-MS/V-DETR)]
@@ -1434,6 +1436,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **CGG**: "Betrayed by Captions: Joint Caption Grounding and Generation for Open Vocabulary Instance Segmentation", ICCV, 2023 (*SenseTime*). [[Paper](https://arxiv.org/abs/2301.00805)][[PyTorch](https://github.com/jzwu48033552/betrayed-by-captions)][[Website](https://www.mmlab-ntu.com/project/betrayed_caption/index.html)]
     * **OpenSeeD**: "A Simple Framework for Open-Vocabulary Segmentation and Detection", ICCV, 2023 (*IDEA*). [[Paper](https://arxiv.org/abs/2303.08131)][[PyTorch](https://github.com/IDEA-Research/OpenSeeD)]
     * **OPSNet**: "Open-vocabulary Panoptic Segmentation with Embedding Modulation", ICCV, 2023 (*HKU*). [[Paper](https://arxiv.org/abs/2303.11324)]
+    * **OV-PARTS**: "OV-PARTS: Towards Open-Vocabulary Part Segmentation", NeurIPS (Datasets and Benchmarks), 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2310.05107)][[PyTorch](https://github.com/OpenRobotLab/OV_PARTS)]
     * **WLSegNet**: "A Language-Guided Benchmark for Weakly Supervised Open Vocabulary Semantic Segmentation", arXiv, 2023 (*IIT, New Delhi*). [[Paper](https://arxiv.org/abs/2302.14163)]
     * **GKC**: "Global Knowledge Calibration for Fast Open-Vocabulary Segmentation", arXiv, 2023 (*ByteDance*). [[Paper](https://arxiv.org/abs/2303.09181)]
     * **CAT-Seg**: "CAT-Seg: Cost Aggregation for Open-Vocabulary Semantic Segmentation", arXiv, 2023 (*Korea University*). [[Paper](https://arxiv.org/abs/2303.11797)][[PyTorch](https://github.com/KU-CVLAB/CAT-Seg)][[Website](https://ku-cvlab.github.io/CAT-Seg/)]
@@ -1972,6 +1975,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **MSQNet**: "MSQNet: Actor-agnostic Action Recognition with Multi-modal Query", arXiv, 2023 (*University of Surrey, England*). [[Paper](https://arxiv.org/abs/2307.10763)][[Code (in construction)](https://github.com/mondalanindya/MSQNet)]
     * **OAP-AOP**: "Opening the Vocabulary of Egocentric Actions", arXiv, 2023 (*NUS*). [[Paper](https://arxiv.org/abs/2308.11488)][[Website (in construction)](https://dibschat.github.io/openvocab-egoAR/)]
     * **AVION**: "Training a Large Video Model on a Single Machine in a Day", arXiv, 2023 (*UT Austin*). [[Paper](https://arxiv.org/abs/2309.16669)][[PyTorch](https://github.com/zhaoyue-zephyrus/AVION)]
+    * **Open-VCLIP**: "Building an Open-Vocabulary Video CLIP Model with Better Architectures, Optimization and Data", arXiv, 2023 (*Fudan*). [[Paper](https://arxiv.org/abs/2310.05010)][[PyTorch](https://github.com/wengzejia1/Open-VCLIP)]
 * X-supervised Learning:
     * **LSTCL**: "Long-Short Temporal Contrastive Learning of Video Transformers", CVPR, 2022 (*Facebook*). [[Paper](https://arxiv.org/abs/2106.09212)]
     * **SVT**: "Self-supervised Video Transformer", CVPR, 2022 (*Stony Brook*). [[Paper](https://arxiv.org/abs/2112.01514)][[PyTorch](https://github.com/kahnchana/svt)][[Website](https://kahnchana.github.io/svt/)]
