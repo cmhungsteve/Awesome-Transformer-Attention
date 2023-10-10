@@ -136,6 +136,7 @@ If you find this repository useful, please consider citing this list:
     * **Dense-VOC**: "Dense Video Object Captioning from Disjoint Supervision", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2306.11729)]
     * **?**: "Exploring the Role of Audio in Video Captioning", arXiv, 2023 (*ByteDance*). [[Paper](https://arxiv.org/abs/2306.12559)]
     * **ZeroTA**: "Zero-Shot Dense Video Captioning by Jointly Optimizing Text and Moment", arXiv, 2023 (*KAIST*). [[Paper](https://arxiv.org/abs/2307.02682)]
+    * **Video-CSR**: "Video-CSR: Complex Video Digest Creation for Visual-Language Models", arXiv, 2023 (*ByteDance*). [[Paper](https://arxiv.org/abs/2310.05060)]
 * 3D:
     * **Vote2Cap-DETR**: "End-to-End 3D Dense Captioning with Vote2Cap-DETR", CVPR, 2023 (*Fudan*). [[Paper](https://arxiv.org/abs/2301.02508)][[PyTorch](https://github.com/ch3cook-fdu/Vote2Cap-DETR)]
     * **Cap3D**: "Scalable 3D Captioning with Pretrained Models", arXiv, 2023 (*UMich*). [[Paper](https://arxiv.org/abs/2306.07279)][[Dataset](https://huggingface.co/datasets/tiange/Cap3D)]
@@ -232,6 +233,7 @@ If you find this repository useful, please consider citing this list:
     * **BLIVA**: "BLIVA: A Simple Multimodal LLM for Better Handling of Text-Rich Visual Questions", arXiv, 2023 (*USCD*). [[Paper](https://arxiv.org/abs/2308.09936)]
     * **NExT-GQA**: "Can I Trust Your Answer? Visually Grounded Video Question Answering", arXiv, 2023 (*NUS*). [[Paper](https://arxiv.org/abs/2309.01327)]
     * **CURE**: "Measuring and Improving Chain-of-Thought Reasoning in Vision-Language Models", arXiv, 2023 (*SRI*). [[Paper](https://arxiv.org/abs/2309.04461)][[Code (in construction)](https://github.com/Yangyi-Chen/CoTConsistency)]
+    * **RepARe**: "Rephrase, Augment, Reason: Visual Grounding of Questions for Vision-Language Models", arXiv, 2023 (*UNC*). [[Paper](https://arxiv.org/abs/2310.05861)][[PyTorch](https://github.com/archiki/RepARe)]
 * Video:
     * **?**: "Mounting Video Metadata on Transformer-based Language Model for Open-ended Video Question Answering", arXiv, 2021 (*Seoul National University*). [[Paper](https://arxiv.org/abs/2108.05158)]
     * **TPT**: "Temporal Pyramid Transformer with Multimodal Interaction for Video Question Answering", arXiv, 2021 (*CAS*). [[Paper](https://arxiv.org/abs/2109.04735)]
@@ -485,6 +487,7 @@ If you find this repository useful, please consider citing this list:
     * **GrowCLIP**: "GrowCLIP: Data-aware Automatic Model Growing for Large-scale Contrastive Language-Image Pre-training", ICCV, 2023 (*Sun Yat-sen University*). [[Paper](https://arxiv.org/abs/2308.11331)]
     * **ViLLA**: "ViLLA: Fine-Grained Vision-Language Representation Learning from Real-World Data", ICCV, 2023 (*Stanford*). [[Paper](https://arxiv.org/abs/2308.11194)][[PyTorch](https://github.com/StanfordMIMI/villa)]
     * **CFM-ViT**: "Contrastive Feature Masking Open-Vocabulary Vision Transformer", ICCV, 2023 (*DeepMind*). [[Paper](https://arxiv.org/abs/2309.00775)]
+    * **OPTIMA**: "Module-wise Adaptive Distillation for Multimodality Foundation Models", NeurIPS, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2310.04550)]
     * **KOSMOS-1**: "Language Is Not All You Need: Aligning Perception with Language Models", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2302.14045)][[Code](https://github.com/microsoft/unilm)]
     * **Prismer**: "Prismer: A Vision-Language Model with An Ensemble of Experts", arXiv, 2023 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2303.02506)][[PyTorch](https://github.com/NVlabs/prismer)][[Website](https://shikun.io/projects/prismer)]
     * **RVLM**: "Replacement as a Self-supervision for Fine-grained Vision-language Pre-training", arXiv, 2023 (*Harbin Institute of Technology*). [[Paper](https://arxiv.org/abs/2303.05313)]
@@ -979,6 +982,7 @@ If you find this repository useful, please consider citing this list:
 * **DocumentCLIP**: "DocumentCLIP: Linking Figures and Main Body Text in Reflowed Documents", arXiv, 2023 (*Adobe*). [[Paper](https://arxiv.org/abs/2306.06306)][[PyTorch](https://github.com/FuxiaoLiu/DocumentCLIP)]
 * **DocTr**: "DocTr: Document Transformer for Structured Information Extraction in Documents", arXiv, 2023 (*Amazon*). [[Paper](https://arxiv.org/abs/2307.07929)]
 * **Kosmos-2.5**: "Kosmos-2.5: A Multimodal Literate Model", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2309.11419)]
+* **UReader**: "UReader: Universal OCR-free Visually-situated Language Understanding with Multimodal Large Language Model", arXiv, 2023 (*Alibaba*). [[Paper](https://arxiv.org/abs/2310.05126)]
 
 [[Back to Overview](#overview)]
 
@@ -1080,6 +1084,7 @@ If you find this repository useful, please consider citing this list:
     * **ZOOM**: "Zero-shot Model Diagnosis", CVPR, 2023 (*CMU*). [[Paper](https://arxiv.org/abs/2303.15441)]
     * **?**: "On the Generalization of Multi-modal Contrastive Learning", ICML, 2023 (*Peking*). [[Paper](https://arxiv.org/abs/2306.04272)][[PyTorch](https://github.com/PKU-ML/CLIP-Help-SimCLR)]
     * **?**: "Learning Concise and Descriptive Attributes for Visual Recognition", ICCV, 2023 (*UCSD*). [[Paper](https://arxiv.org/abs/2308.03685)]
+    * **?**: "Interpreting CLIP's Image Representation via Text-Based Decomposition", arXiv, 2023 (*Berkeley*). [[Paper](https://arxiv.org/abs/2310.05916)][[PyTorch](https://github.com/yossigandelsman/clip_prs)][[Website](https://yossigandelsman.github.io/clip_decomposition/)]
 * Speaker Localization:
     * **?**: "The Right to Talk: An Audio-Visual Transformer Approach", ICCV, 2021 (*University of Arkansas*). [[Paper](https://arxiv.org/abs/2108.03256)]
 * Multi-task:
@@ -1291,13 +1296,14 @@ If you find this repository useful, please consider citing this list:
     * **Muffin**: "Reformulating Vision-Language Foundation Models and Datasets Towards Universal Multimodal Assistants", arXiv, 2023 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2310.00653)]
     * **Pink**: "Pink: Unveiling the Power of Referential Comprehension for Multi-modal LLMs", arXiv, 2023 (*Ant*). [[Paper](https://arxiv.org/abs/2310.00582)][[Code (in construction)](https://github.com/SY-Xuan/Pink)]
     * **LLaVA-1.5**: "Improved Baselines with Visual Instruction Tuning", arXiv, 2023 (*UW Madison*). [[Paper](https://arxiv.org/abs/2310.03744)][[PyTorch](https://github.com/haotian-liu/LLaVA)][[Website](https://llava-vl.github.io/)]
+    * **MiniGPT-5**: "MiniGPT-5: Interleaved Vision-and-Language Generation via Generative Vokens", arXiv, 2023 (*UC Santa Cruz*). [[Paper](https://arxiv.org/abs/2310.02239)][[PyTorch](https://github.com/eric-ai-lab/MiniGPT-5)]
 * Visual Reasoning:
     * **BDC-Adapter**: "BDC-Adapter: Brownian Distance Covariance for Better Vision-Language Reasoning", BMVC, 2023 (*SUSTech*). [[Paper](https://arxiv.org/abs/2309.01256)]
     * **RPT**: "Fine-Grained Regional Prompt Tuning for Visual Abductive Reasoning", arXiv, 2023 (*A\*STAR*). [[Paper](https://arxiv.org/abs/2303.10428)]
     * **LRR**: "Look, Remember and Reason: Visual Reasoning with Grounded Rationales", arXiv, 2023 (*Qualcomm*). [[Paper](https://arxiv.org/abs/2306.17778)]
     * **SDS-CLIP**: "Augmenting CLIP with Improved Visio-Linguistic Reasoning", arXiv, 2023 (*Maryland*). [[Paper](https://arxiv.org/abs/2307.09233)]
     * **?**: "Towards Grounded Visual Spatial Reasoning in Multi-Modal Vision Language Models", arXiv, 2023 (*George Mason University*). [[Paper](https://arxiv.org/abs/2308.09778)]
-    * **MiniGPT-5**: "MiniGPT-5: Interleaved Vision-and-Language Generation via Generative Vokens", arXiv, 2023 (*UC Santa Cruz*). [[Paper](https://arxiv.org/abs/2310.02239)][[PyTorch](https://github.com/eric-ai-lab/MiniGPT-5)]
+    * **ViCor**: "ViCor: Bridging Visual Understanding and Commonsense Reasoning with Large Language Models", arXiv, 2023 (*UC Santa Cruz*). [[Paper](https://arxiv.org/abs/2310.05872)]
 * Tracking:
     * **JointNLT**: "Joint Visual Grounding and Tracking with Natural Language Specification", CVPR, 2023 (*Harbin Institute of Technology*). [[Paper](https://arxiv.org/abs/2303.12027)][[PyTorch](https://github.com/lizhou-cs/JointNLT)]
     * **MMTrack**: "Towards Unified Token Learning for Vision-Language Tracking", arXiv, 2023 (*Guangxi Normal University*). [[Paper](https://arxiv.org/pdf/2308.14103.pdf)]
@@ -1339,6 +1345,7 @@ If you find this repository useful, please consider citing this list:
     * **Hierarchy-CLIP**: "Improving Zero-shot Generalization and Robustness of Multi-modal Models", CVPR, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2212.01758)][[JAX](https://github.com/gyhandy/Hierarchy-CLIP)][[Website](https://sites.google.com/usc.edu/hierarchy-clip/)]
     * **?**: "Mitigating Spurious Correlations in Multi-modal Models during Fine-tuning", ICML, 2023 (*UCLA*). [[Paper](https://arxiv.org/abs/2304.03916)]
     * **SGA**: "Set-level Guidance Attack: Boosting Adversarial Transferability of Vision-Language Pre-training Models", ICCV, 2023 (*Southern University of Science and Technology*). [[Paper](https://arxiv.org/abs/2307.14061)]
+    * **VLAttack**: "VLAttack: Multimodal Adversarial Attacks on Vision-Language Tasks via Pre-trained Models", NeurIPS, 2023 (*Pennsylvania State University*). [[Paper](https://arxiv.org/abs/2310.04655)]
     * **AttackVLM**: "On Evaluating Adversarial Robustness of Large Vision-Language Models", arXiv, 2023 (*Singapore University of Technology and Design (SUTD)*). [[Paper](https://arxiv.org/abs/2305.16934)][[PyTorch (in construction)](https://github.com/yunqing-me/AttackVLM)]
 * Compositional Reasoning:
     * **DAC**: "Dense and Aligned Captions (DAC) Promote Compositional Reasoning in VL Models", arXiv, 2023 (*IBM*). [[Paper](https://arxiv.org/abs/2305.19595)]
