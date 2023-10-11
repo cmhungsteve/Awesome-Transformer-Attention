@@ -253,8 +253,8 @@ If you find this repository useful, please consider citing this list:
     * **?**: "Image-free Domain Generalization via CLIP for 3D Hand Pose Estimation", arXiv, 2022 (*UNIST, Korea*). [[Paper](https://arxiv.org/abs/2210.16788)]
     * **A2J-Transformer**: "A2J-Transformer: Anchor-to-Joint Transformer Network for 3D Interacting Hand Pose Estimation from a Single RGB Image", CVPR, 2023 (*Huazhong University of Science and Technology*). [[Paper](https://arxiv.org/abs/2304.03635)][[PyTorch](https://github.com/ChanglongJiangGit/A2J-Transformer)]
     * **H2OTR**: "Transformer-Based Unified Recognition of Two Hands Manipulating Objects", CVPR, 2023 (*Ulsan National Institute of Science & Technology (UNIST), Korea*). [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Cho_Transformer-Based_Unified_Recognition_of_Two_Hands_Manipulating_Objects_CVPR_2023_paper.html)]
+    * **Deformer**: "Deformer: Dynamic Fusion Transformer for Robust Hand Pose Estimation", ICCV, 2023 (*CMU*). [[Paper](https://arxiv.org/abs/2303.04991)][[Code (in construction)](https://github.com/fuqichen1998/Deformer)][[Website](https://fuqichen1998.github.io/Deformer/)]
     * **CLIP-Hand3D**: "CLIP-Hand3D: Exploiting 3D Hand Pose Estimation via Context-Aware Prompting", ACMMM, 2023 (*Ocean University of China*). [[Paper](https://arxiv.org/abs/2309.16140)]
-    * **Deformer**: "Deformer: Dynamic Fusion Transformer for Robust Hand Pose Estimation", arXiv, 2023 (*CMU*). [[Paper](https://arxiv.org/abs/2303.04991)]
 * Others:
     * **TAPE**: "Transformer Guided Geometry Model for Flow-Based Unsupervised Visual Odometry", arXiv, 2020 (*Tianjing University*). [[Paper](https://arxiv.org/abs/2101.02143)]
     * **T6D-Direct**: "T6D-Direct: Transformers for Multi-Object 6D Pose Direct Regression", GCPR, 2021 (*University of Bonn*). [[Paper](https://arxiv.org/abs/2109.10948)]
@@ -1783,6 +1783,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **VTD**: "Video Task Decathlon: Unifying Image and Video Tasks in Autonomous Driving", ICCV, 2023 (*ETHZ*). [[Paper](https://arxiv.org/abs/2309.04422)]
     * **HM-ViT**: "HM-ViT: Hetero-modal Vehicle-to-Vehicle Cooperative perception with vision transformer", ICCV, 2023 (*UCLA*). [[Paper](https://arxiv.org/abs/2304.10628)]
     * **UP-VL**: "Unsupervised 3D Perception with 2D Vision-Language Distillation for Autonomous Driving", ICCV, 2023 (*Waymo*). [[Paper](https://arxiv.org/abs/2309.14491)]
+    * **GameFormer**: "GameFormer: Game-theoretic Modeling and Learning of Transformer-based Interactive Prediction and Planning for Autonomous Driving", ICCV, 2023 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2303.05760)][[PyTorch](https://github.com/MCZhi/GameFormer)][[Website](https://mczhi.github.io/GameFormer/)]
     * **LiDARFormer**: "LiDARFormer: A Unified Transformer-based Multi-task Network for LiDAR Perception", arXiv, 2023 (*TuSimple*). [[Paper](https://arxiv.org/abs/2303.12194)]
     * **VoxelFormer**: "VoxelFormer: Bird's-Eye-View Feature Generation based on Dual-view Attention for Multi-view 3D Object Detection", arXiv, 2023 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2304.01054)][[PyTorch](https://github.com/Lizhuoling/VoxelFormer-public)]
     * **AVIS**: "AVIS: Autonomous Visual Information Seeking with Large Language Models", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2306.08129)]
@@ -1895,7 +1896,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **SDF-Former**: "Monocular Scene Reconstruction with 3D SDF Transformers", ICLR, 2023 (*Alibaba*). [[Paper](https://arxiv.org/abs/2301.13510)][[Website](https://weihaosky.github.io/sdfformer/)]
     * **AMVUR**: "A Probabilistic Attention Model with Occlusion-aware Texture Regression for 3D Hand Reconstruction from a Single RGB Image", CVPR, 2023 (*Lancaster University, UK*). [[Paper](https://arxiv.org/abs/2304.14299)]
     * **LIST**: "LIST: Learning Implicitly from Spatial Transformers for Single-View 3D Reconstruction", ICCV, 2023 (*UT Arlington*). [[Paper](https://arxiv.org/abs/2307.12194)]
-    * **LRGT**: "Long-Range Grouping Transformer for Multi-View 3D Reconstruction", ICCV, 2023 (*Macau University of Science and Technology*). [[Paper](https://arxiv.org/abs/2308.08724)]
+    * **LRGT**: "Long-Range Grouping Transformer for Multi-View 3D Reconstruction", ICCV, 2023 (*Macau University of Science and Technology*). [[Paper](https://arxiv.org/abs/2308.08724)][[PyTorch (in construction)](https://github.com/LiyingCV/Long-Range-Grouping-Transformer)]
     * **Spectral-Graphormer**: "Spectral Graphormer: Spectral Graph-based Transformer for Egocentric Two-Hand Reconstruction using Multi-View Color Images", ICCV, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2308.11015)]
     * **UMIFormer**: "UMIFormer: Mining the Correlations between Similar Tokens for Multi-View 3D Reconstruction", arXiv, 2023 (*Macau University of Science and Technology*). [[Paper](https://arxiv.org/abs/2302.13987)]
 * 360 Scene:
