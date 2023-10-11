@@ -163,6 +163,7 @@ If you find this repository useful, please consider citing this list:
 * **DiT-3D**: "DiT-3D: Exploring Plain Diffusion Transformers for 3D Shape Generation", arXiv, 2023 (*Huawei*). [[Paper](https://arxiv.org/abs/2307.01831)][[Code (in construction)](https://github.com/DiT-3D/DiT-3D)][[Website](https://dit-3d.github.io/)]
 * **PointCAM**: "Self-supervised adversarial masking for 3D point cloud representation learning", arXiv, 2023 (*Wrocław University of Science and Technology, Poland*). [[Paper](https://arxiv.org/abs/2307.05325)][[PyTorch](https://github.com/szacho/pointcam)]
 * **PPT**: "Towards Large-scale 3D Representation Learning with Multi-dataset Point Prompt Training", arXiv, 2023 (*HKU*). [[Paper](https://arxiv.org/abs/2308.09718)][[PyTorch](https://github.com/Pointcept/Pointcept)]
+* **Uni3D**: "Uni3D: Exploring Unified 3D Representation at Scale", arXiv, 2023 (*BAAI*). [[Paper](https://arxiv.org/abs/2310.06773)][[PyTorch](https://github.com/baaivision/Uni3D)]
 
 [[Back to Overview](#overview)]
 
@@ -551,13 +552,14 @@ If you find this repository useful, please consider citing this list:
 
 
 ## Transfer / X-Supervised / X-Shot / Continual Learning
-* Transfer Learning:
+* Transfer Learning/Adapter:
     * **AdaptFormer**: "AdaptFormer: Adapting Vision Transformers for Scalable Visual Recognition", NeurIPS, 2022 (*HKU*). [[Paper](https://arxiv.org/abs/2205.13535)][[PyTorch](https://github.com/ShoufaChen/AdaptFormer)][[Website](http://www.shoufachen.com/adaptformer-page/)]
     * **Convpass**: "Convolutional Bypasses Are Better Vision Transformer Adapters", arXiv, 2022 (*Peking University*). [[Paper](https://arxiv.org/abs/2207.07039)][[Pytorch](https://github.com/JieShibo/PETL-ViT)]
     * **FacT**: "FacT: Factor-Tuning for Lightweight Adaptation on Vision Transformer", AAAI, 2023 (*Peking*). [[Paper](https://arxiv.org/abs/2212.03145)][[Pytorch](https://github.com/JieShibo/PETL-ViT)]
     * **Consolidator**: "Consolidator: Mergable Adapter with Group Connections for Vision Transformer", ICLR, 2023 (*Tsinghua*). [[Paper](https://openreview.net/forum?id=J_Cja7cpgW)]
     * **REACT**: "Learning Customized Visual Models with Retrieval-Augmented Knowledge", CVPR, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2301.07094)][[Code (in construction)](https://github.com/microsoft/react)][[Website](https://react-vl.github.io/)]
     * **MP**: "Tuning Pre-trained Model via Moment Probing", ICCV, 2023 (*Tianjin University*). [[Paper](https://arxiv.org/abs/2307.11342)][[PyTorch](https://github.com/mingzeG/Moment-Probing)]
+    * **ARC**: "Efficient Adaptation of Large Vision Transformer via Adapter Re-Composing", NeurIPS, 2023 (* Xi'an University of Architecture and Technology*). [[Paper](https://arxiv.org/abs/2310.06234)][[PyTorch](https://github.com/DavidYanAnDe/ARC)]
     * **E<sup>3</sup>VA**: "Parameter-efficient is not sufficient: Exploring Parameter, Memory, and Time Efficient Adapter Tuning for Dense Predictions", arXiv, 2023 (*Alibaba + Microsoft*). [[Paper](https://arxiv.org/abs/2306.09729)]
     * **Minimax**: "Task-Robust Pre-Training for Worst-Case Downstream Adaptation", arXiv, 2023 (*Peking*). [[Paper](https://arxiv.org/abs/2306.12070)]
     * **HST**: "Hierarchical Side-Tuning for Vision Transformers", arXiv, 2023 (*Alibaba*). [[Paper](https://arxiv.org/abs/2310.05393)][[Code (in construction)](https://github.com/AFeng-x/HST)]
@@ -597,6 +599,7 @@ If you find this repository useful, please consider citing this list:
     * **?**: "Open-Set Domain Adaptation with Visual-Language Foundation Models", arXiv, 2023 (*The University of Tokyo*). [[Paper](https://arxiv.org/abs/2307.16204)]
     * **ReCLIP**: "ReCLIP: Refine Contrastive Language Image Pre-Training with Source Free Domain Adaptation", arXiv, 2023 (*Amazon*). [[Paper](https://arxiv.org/abs/2308.03793)]
     * **VPA**: "VPA: Fully Test-Time Visual Prompt Adaptation", arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2309.15251)]
+    * **FedTPG**: "Text-driven Prompt Generation for Vision-Language Models in Federated Learning", arXiv, 2023 (*Bosch*). [[Paper](https://arxiv.org/abs/2310.06123)]
 * X-Supervised:
     * **Semiformer**: "Semi-Supervised Vision Transformers", ECCV, 2022 (*Fudan University*). [[Paper](https://arxiv.org/abs/2111.11067)][[PyTorch](https://github.com/wengzejia1/Semiformer)]
     * **SVL-Adapter**: "SVL-Adapter: Self-Supervised Adapter for Vision-Language Pretrained Models", BMVC, 2022 (*UCL*). [[Paper](https://arxiv.org/abs/2210.03794)][[Code (in construction)](https://github.com/omipan/svl_adapter)]
