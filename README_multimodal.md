@@ -356,6 +356,7 @@ If you find this repository useful, please consider citing this list:
     * **?**: "What, when, and where? -- Self-Supervised Spatio-Temporal Grounding in Untrimmed Multi-Action Videos from Narrated Instructions", arXiv, 2023 (*Columbia*). [[Paper](https://arxiv.org/abs/2303.16990)]
     * **3DRP-Net**: "3DRP-Net: 3D Relative Position-aware Network for 3D Visual Grounding", arXiv, 2023 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2307.13363)]
     * **3DRefTR**: "A Unified Framework for 3D Point Cloud Visual Grounding", arXiv, 2023 (*Xiamen University*). [[Paper](https://arxiv.org/abs/2308.11887)][[PyTorch](https://github.com/Leon1207/3DRefTR)]
+    * **CoT3DRef**: "CoT3DRef: Chain-of-Thoughts Data-Efficient 3D Visual Grounding", arXiv, 2023 (*KAUST*). [[Paper](https://arxiv.org/abs/2310.06214)]
 
 [[Back to Overview](#overview)]
 
@@ -1058,6 +1059,8 @@ If you find this repository useful, please consider citing this list:
     * **MeViS**: "MeViS: A Large-scale Benchmark for Video Segmentation with Motion Expressions", ICCV, 2023 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2308.08544)][[PyTorch](https://github.com/henghuiding/MeViS)][[Website](https://henghuiding.github.io/MeViS/)]
     * **CMA**: "Learning Cross-Modal Affinity for Referring Video Object Segmentation Targeting Limited Samples", ICCV, 2023 (*SUSTech*). [[Paper](https://arxiv.org/abs/2309.02041)][[PyTorch](https://github.com/hengliusky/Few_shot_RVOS)]
     * **TempCD**: "Temporal Collection and Distribution for Referring Video Object Segmentation", ICCV, 2023 (*ShanghaiTech*). [[Paper](https://arxiv.org/abs/2309.03473)][[Website](https://toneyaya.github.io/tempcd/)]
+    * **UniRef**: "Segment Every Reference Object in Spatial and Temporal Spaces", ICCV, 2023 (*HKU*). [[Paper](https://openaccess.thecvf.com/content/ICCV2023/html/Wu_Segment_Every_Reference_Object_in_Spatial_and_Temporal_Spaces_ICCV_2023_paper.html)]
+    * **HTML**: "HTML: Hybrid Temporal-scale Multimodal Learning Framework for Referring Video Object Segmentation", ICCV, 2023 (*University of Technology Sydney, UTS*). [[Paper](https://openaccess.thecvf.com/content/ICCV2023/html/Han_HTML_Hybrid_Temporal-scale_Multimodal_Learning_Framework_for_Referring_Video_Object_ICCV_2023_paper.html)][[Website](https://mingfei.info/HTML/)]
     * **Locater**: "Local-Global Context Aware Transformer for Language-Guided Video Segmentation", TPAMI, 2023 (*Zhejiang*). [[Paper](https://arxiv.org/abs/2203.09773)][[PyTorch](https://github.com/leonnnop/Locater)]
     * **LoSh**: "LoSh: Long-Short Text Joint Prediction Network for Referring Video Object Segmentation", arXiv, 2023 (*King’s College London*). [[Paper](https://arxiv.org/abs/2306.08736)]
     * **SOC**: "SOC: Semantic-Assisted Object Cluster for Referring Video Object Segmentation", arXiv, 2023 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2305.17011)]
