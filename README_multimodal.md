@@ -1052,7 +1052,7 @@ If you find this repository useful, please consider citing this list:
     * **ReferFormer**: "Language as Queries for Referring Video Object Segmentation", CVPR, 2022 (*HKU*). [[Paper](https://arxiv.org/abs/2201.00487)][[PyTorch](https://github.com/wjn922/ReferFormer)]
     * **MTTR**: "End-to-End Referring Video Object Segmentation with Multimodal Transformers", CVPR, 2022 (*Technion - Israel Institute of Technology*). [[Paper](https://arxiv.org/abs/2111.14821)][[PyTorch](https://github.com/mttr2021/MTTR)]
     * **MANet**: "Multi-Attention Network for Compressed Video Referring Object Segmentation", ACMMM, 2022 (*CAS*). [[Paper](https://arxiv.org/abs/2207.12622)][[PyTorch](https://github.com/DexiangHong/MANet)]
-    * **R<sup>2</sup>VOS**: "R<sup>2</sup>VOS: Robust Referring Video Object Segmentation via Relational Multimodal Cycle Consistency", arXiv, 2022 (*CMU*). [[Paper](https://arxiv.org/abs/2207.01203)][[PyTorch](https://github.com/lxa9867/R2VOS)][[Website](https://lxa9867.github.io/works/rrvos/)]
+    * **R<sup>2</sup>VOS**: "Towards Robust Referring Video Object Segmentation with Cyclic Relational Consensus", ICCV, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2207.01203)][[PyTorch](https://github.com/lxa9867/R2VOS)][[Website](https://lxa9867.github.io/works/rrvos/)]
     * **OnlineRefer**: "OnlineRefer: A Simple Online Baseline for Referring Video Object Segmentation", ICCV, 2023 (*Megvii*). [[Paper](https://arxiv.org/abs/2307.09356)][[PyTorch](https://github.com/wudongming97/OnlineRefer)]
     * **SgMg**: "Spectrum-guided Multi-granularity Referring Video Object Segmentation", ICCV, 2023 (*The University of Western Australia*). [[Paper](https://arxiv.org/abs/2307.13537)][[PyTorch](https://github.com/bo-miao/SgMg)]
     * **MeViS**: "MeViS: A Large-scale Benchmark for Video Segmentation with Motion Expressions", ICCV, 2023 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2308.08544)][[PyTorch](https://github.com/henghuiding/MeViS)][[Website](https://henghuiding.github.io/MeViS/)]
@@ -1228,7 +1228,8 @@ If you find this repository useful, please consider citing this list:
     * **SQD**: "Rethinking Audiovisual Segmentation with Semantic Quantization and Decomposition", arXiv, 2023 (*CMU*). [[Paper](https://arxiv.org/abs/2310.00132)]
     * **DiffMAViL**: "Diffusion Models as Masked Audio-Video Learners", arXiv, 2023 (*Apple*). [[Paper](https://arxiv.org/abs/2310.03937)]
 * Audio Description:
-    * **AutoAD**: "AutoAD: Movie Description in Context", CVPR, 2023 (*Oxford*). [[Paper](https://arxiv.org/abs/2303.16899)][[Code (in construction)](https://github.com/TengdaHan/AutoAD)][[Website](https://www.robots.ox.ac.uk/~vgg/research/autoad/)]
+    * **AutoAD**: "AutoAD: Movie Description in Context", CVPR, 2023 (*Oxford*). [[Paper](https://arxiv.org/abs/2303.16899)][[PyTorch (in construction)](https://github.com/TengdaHan/AutoAD)][[Website](https://www.robots.ox.ac.uk/~vgg/research/autoad/)][[Website](https://www.robots.ox.ac.uk/~vgg/research/autoad/)]
+    * **AutoAD-II**: "AutoAD II: The Sequel - Who, When, and What in Movie Audio Description", ICCV, 2023 (*Oxford*). [[Paper](https://arxiv.org/abs/2310.06838)][[PyTorch (in construction)](https://github.com/TengdaHan/AutoAD)]
 * Sound Localization:
     * **TURN**: "Towards Effective Multi-Modal Interchanges in Zero-Resource Sounding Object Localization", NeurIPS, 2022 (*Zhejiang University*). [[Paper](https://openreview.net/forum?id=rQAJmrLmGC6)][[PyTorch (in construction)](https://github.com/AwalkZY/TURN)]
     * **AVGN**: "Audio-Visual Grouping Network for Sound Localization from Mixtures", CVPR, 2023 (*CMU*). [[Paper](https://arxiv.org/abs/2303.17056)][[PyTorch](https://github.com/stoneMo/AVGN)]
