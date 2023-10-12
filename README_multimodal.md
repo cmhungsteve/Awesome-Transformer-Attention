@@ -536,6 +536,7 @@ If you find this repository useful, please consider citing this list:
     * **SEED-LLaMA**: "Making LLaMA SEE and Draw with SEED Tokenizer", arXiv, 2023 (*Tencent*). [[Paper](https://arxiv.org/abs/2310.01218)][[PyTorch](https://github.com/AILab-CVC/SEED)]
     * **ITIT**: "Leveraging Unpaired Data for Vision-Language Generative Models via Cycle Consistency", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2310.03734)]
     * **SimVLG**: "SimVLG: Simple and Efficient Pretraining of Visual Language Generative Models", arXiv, 2023 (*ByteDance*). [[Paper](https://arxiv.org/abs/2310.03291)]
+    * **VeCLIP**: "From Scarcity to Efficiency: Improving CLIP Training via Visual-enriched Captions", arXiv, 2023 (*Apple*). [[Paper](https://arxiv.org/abs/2310.07699)]
 * Video:
     * **COOT**: "COOT: Cooperative Hierarchical Transformer for Video-Text Representation Learning", NeurIPS, 2020 (*University of Freiburg*). [[Paper](https://arxiv.org/abs/2011.00597)][[PyTorch](https://github.com/gingsi/coot-videotext)]
     * **Parameter-Reduction**: "Parameter Efficient Multimodal Transformers for Video Representation Learning", ICLR, 2021 (*Seoul National University*). [[Paper](https://openreview.net/forum?id=6UdQLhqJyFD)]
@@ -1301,6 +1302,7 @@ If you find this repository useful, please consider citing this list:
     * **Pink**: "Pink: Unveiling the Power of Referential Comprehension for Multi-modal LLMs", arXiv, 2023 (*Ant*). [[Paper](https://arxiv.org/abs/2310.00582)][[Code (in construction)](https://github.com/SY-Xuan/Pink)]
     * **LLaVA-1.5**: "Improved Baselines with Visual Instruction Tuning", arXiv, 2023 (*UW Madison*). [[Paper](https://arxiv.org/abs/2310.03744)][[PyTorch](https://github.com/haotian-liu/LLaVA)][[Website](https://llava-vl.github.io/)]
     * **MiniGPT-5**: "MiniGPT-5: Interleaved Vision-and-Language Generation via Generative Vokens", arXiv, 2023 (*UC Santa Cruz*). [[Paper](https://arxiv.org/abs/2310.02239)][[PyTorch](https://github.com/eric-ai-lab/MiniGPT-5)]
+    * **Ferret**: "Ferret: Refer and Ground Anything Anywhere at Any Granularity", arXiv, 2023 (*Apple*). [[Paper](https://arxiv.org/abs/2310.07704)][[Code (in construction)](https://github.com/apple/ml-ferret)]
 * Visual Reasoning:
     * **BDC-Adapter**: "BDC-Adapter: Brownian Distance Covariance for Better Vision-Language Reasoning", BMVC, 2023 (*SUSTech*). [[Paper](https://arxiv.org/abs/2309.01256)]
     * **RPT**: "Fine-Grained Regional Prompt Tuning for Visual Abductive Reasoning", arXiv, 2023 (*A\*STAR*). [[Paper](https://arxiv.org/abs/2303.10428)]
