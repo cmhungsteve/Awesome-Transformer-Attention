@@ -335,6 +335,7 @@ If you find this repository useful, please consider citing this list:
     * **TAM**: "Track Anything: Segment Anything Meets Videos", arXiv, 2023 (*SUSTech*). [[Paper](https://arxiv.org/abs/2304.11968)][[PyTorch](https://github.com/gaomingqi/Track-Anything)]
     * **SAM-Track**: "Segment and Track Anything", arXiv, 2023 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2305.06558)][[PyTorch](https://github.com/z-x-yang/Segment-and-Track-Anything)]
     * **CoTracker**: "CoTracker: It is Better to Track Together", arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2307.07635)][[PyTorch](https://github.com/facebookresearch/co-tracker)]
+    * **OVTracktor**: "Zero-Shot Open-Vocabulary Tracking with Large Pre-Trained Models", arXiv, 2023 (*CMU*). [[Paper](https://arxiv.org/abs/2310.06992)][[Website](https://wenhsuanchu.github.io/ovtracktor/)]
     * **SMAT**: "Separable Self and Mixed Attention Transformers for Efficient Object Tracking", WACV, 2024 (*Concordia University, Canada*). [[Paper](https://arxiv.org/abs/2309.03979)][[PyTorch](https://github.com/goutamyg/SMAT)]
 * 3D:
     * **PTT**: "PTT: Point-Track-Transformer Module for 3D Single Object Tracking in Point Clouds", IROS, 2021 (*Northeastern University*). [[Paper](https://arxiv.org/abs/2108.06455)][[PyTorch (in construction)](https://github.com/shanjiayao/PTT)]
@@ -546,6 +547,7 @@ If you find this repository useful, please consider citing this list:
 * **VS<sup>3</sup>**: "Learning to Generate Language-supervised and Open-vocabulary Scene Graph using Pre-trained Visual-Semantic Space", CVPR, 2023 (*CUHK*). [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Zhang_Learning_To_Generate_Language-Supervised_and_Open-Vocabulary_Scene_Graph_Using_Pre-Trained_CVPR_2023_paper.html)]
 * **PVSG**: "Panoptic Video Scene Graph Generation", CVPR, 2023 (*NTU, Singapore*). [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Yang_Panoptic_Video_Scene_Graph_Generation_CVPR_2023_paper.html)]
 * **VETO-MEET**: "Vision Relation Transformer for Unbiased Scene Graph Generation", ICCV, 2023 (*Technical University of Darmstadt, Germany*). [[Paper](https://arxiv.org/abs/2308.09472)][[PyTorch](https://github.com/visinf/veto)]
+* **TextPSG**: "TextPSG: Panoptic Scene Graph Generation from Textual Descriptions", ICCV, 2023 (*IBM*). [[Paper](https://arxiv.org/abs/2310.07056)][[Code (in construction)](https://github.com/chengyzhao/TextPSG)][[Website](https://vis-www.cs.umass.edu/TextPSG/)]
 * **SGT**: "Revisiting Transformer for Point Cloud-based 3D Scene Graph Generation", arXiv, 2023 (*Beijing University of Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2303.11048)]
 
 [[Back to Overview](#overview)]
@@ -1156,6 +1158,7 @@ If you find this repository useful, please consider citing this list:
 * **MiC**: "March in Chat: Interactive Prompting for Remote Embodied Referring Expression", ICCV, 2023 (*The University of Adelaide, Australia*). [[Paper](https://arxiv.org/abs/2308.10141)][[Code (in construction)](https://github.com/YanyuanQiao/MiC)]
 * **GELA**: "Grounded Entity-Landmark Adaptive Pre-training for Vision-and-Language Navigation", ICCV, 2023 (*Chinese Academy of Military Science*). [[Paper](https://arxiv.org/abs/2308.12587)][[Code (in construction)](https://github.com/CSir1996/VLN-GELA)]
 * **Le-RNR-Map**: "Language-enhanced RNR-Map: Querying Renderable Neural Radiance Field maps with natural language", ICCVW, 2023 (*University of Verona, Italy*). [[Paper](https://arxiv.org/abs/2308.08854)][[Code (in construction)](https://github.com/intelligolabs/Le-RNR-Map)][[Website](https://intelligolabs.github.io/Le-RNR-Map/)]
+* **FGPrompt**: "FGPrompt: Fine-grained Goal Prompting for Image-goal Navigation", NeurIPS, 2023 (*South China University of Technology*). [[Paper](https://arxiv.org/abs/2310.07473)][[Code (in construction)](https://github.com/XinyuSun/FGPrompt)][[Website](https://xinyusun.github.io/fgprompt-pages/)]
 * **MLANet**: "MLANet: Multi-Level Attention Network with Sub-instruction for Continuous Vision-and-Language Navigation", arXiv, 2023 (*Tongji University*). [[Paper](https://arxiv.org/abs/2303.01396)][[PyTorch](https://github.com/RavenKiller/MLA)]
 * **ENTL**: "ENTL: Embodied Navigation Trajectory Learner", arXiv, 2023 (*AI2*). [[Paper](https://arxiv.org/abs/2304.02639)]
 * **MPM**: "Masked Path Modeling for Vision-and-Language Navigation", arXiv, 2023 (*UCLA*). [[Paper](https://arxiv.org/abs/2305.14268)]
