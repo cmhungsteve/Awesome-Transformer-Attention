@@ -240,8 +240,8 @@ If you find this repository useful, please consider citing this list:
     * **GroupPose**: "Group Pose: A Simple Baseline for End-to-End Multi-person Pose Estimation", ICCV, 2023 (*Baidu*). [[Paper](https://arxiv.org/abs/2308.07313)][[Paddle](https://github.com/Michel-liu/GroupPose-Paddle)][[PyTorch](https://github.com/Michel-liu/GroupPose)]
     * **CoordFormer**: "Coordinate Transformer: Achieving Single-stage Multi-person Mesh Recovery from Videos", ICCV, 2023 (*Sun Yat-sen University*). [[Paper](https://arxiv.org/abs/2308.10334)][[Code (in construction)](https://github.com/Li-Hao-yuan/CoordFormer)]
     * **PoseFix**: "PoseFix: Correcting 3D Human Poses with Natural Language", ICCV, 2023 (*NAVER*). [[Paper](https://arxiv.org/abs/2309.08480)][[Website](https://europe.naverlabs.com/research/computer-vision/posefix/)]
+    * **4D-Humans**: "Humans in 4D: Reconstructing and Tracking Humans with Transformers", ICCV, 2023 (*Berkeley*). [[Paper](https://arxiv.org/abs/2305.20091)][[PyTorch](https://github.com/shubham-goel/4D-Humans)][[Website](https://shubham-goel.github.io/4dhumans/)]
     * **XFormer**: "XFormer: Fast and Accurate Monocular 3D Body Capture", arXiv, 2023 (*Huya Inc, China*). [[Paper](https://arxiv.org/abs/2305.11101)]
-    * **4D-Humans**: "Humans in 4D: Reconstructing and Tracking Humans with Transformers", arXiv, 2023 (*Berkeley*). [[Paper](https://arxiv.org/abs/2305.20091)][[PyTorch](https://github.com/shubham-goel/4D-Humans)][[Website](https://shubham-goel.github.io/4dhumans/)]
     * **PGformer**: "PGformer: Proxy-Bridged Game Transformer for Multi-Person Extremely Interactive Motion Prediction", arXiv, 2023 (*Alibaba*). [[Paper](https://arxiv.org/abs/2306.03374)]
     * **?**: "Scene-aware Human Pose Generation using Transformer", arXiv, 2023 (*Shanghai Jiao Tong*). [[Paper](https://arxiv.org/abs/2308.02177)]
     * **KDSM**: "Language-driven Open-Vocabulary Keypoint Detection for Animal Body and Face", arXiv, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2310.05056)]
@@ -324,7 +324,7 @@ If you find this repository useful, please consider citing this list:
     * **TCOW**: "Tracking through Containers and Occluders in the Wild", CVPR, 2023 (*Columbia*). [[Paper](https://arxiv.org/abs/2305.03052)][[Code (in construction)](https://github.com/basilevh/tcow)][[Website](https://tcow.cs.columbia.edu/)]
     * **VideoTrack**: "VideoTrack: Learning to Track Objects via Video Transformer", CVPR, 2023 (*Microsoft*). [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Xie_VideoTrack_Learning_To_Track_Objects_via_Video_Transformer_CVPR_2023_paper.html)]
     * **MAT**: "Representation Learning for Visual Object Tracking by Masked Appearance Transfer", CVPR, 2023 (*Dalian University of Technology*). [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Zhao_Representation_Learning_for_Visual_Object_Tracking_by_Masked_Appearance_Transfer_CVPR_2023_paper.html)][[PyTorch](https://github.com/difhnp/MAT)]
-    * **MeMOTR**: "MeMOTR: Long-Term Memory-Augmented Transformer for Multi-Object Tracking", ICCV, 2023 (*Nanjing University*). [[Paper](https://arxiv.org/abs/2307.15700)]
+    * **MeMOTR**: "MeMOTR: Long-Term Memory-Augmented Transformer for Multi-Object Tracking", ICCV, 2023 (*Nanjing University*). [[Paper](https://arxiv.org/abs/2307.15700)][[PyTorch](https://github.com/MCG-NJU/MeMOTR)]
     * **ROMTrack**: "Robust Object Modeling for Visual Tracking", ICCV, 2023 (*Nanjing University*). [[Paper](https://arxiv.org/abs/2308.05140)][[PyTorch](https://github.com/dawnyc/ROMTrack)]
     * **HiT**: "Exploring Lightweight Hierarchical Vision Transformers for Efficient Visual Tracking", ICCV, 2023 (*Dalian University of Technology*). [[Paper](https://arxiv.org/abs/2308.06904)][[PyTorch](https://github.com/kangben258/HiT)]
     * **MVT**: "Mobile Vision Transformer-based Visual Object Tracking", BMVC, 2023 (*Concordia University, Canada*). [[Paper](https://arxiv.org/abs/2309.05829)][[PyTorch](https://github.com/goutamyg/MVT)]
@@ -1531,6 +1531,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **RVT**: "Recurrent Vision Transformers for Object Detection with Event Cameras", CVPR, 2023 (*University of Zurich*). [[Paper](https://arxiv.org/abs/2212.05598)]
     * **Eventful-Transformer**: "Eventful Transformers: Leveraging Temporal Redundancy in Vision Transformers", ICCV, 2023 (*UW Madison*). [[Paper](https://arxiv.org/abs/2308.13494)][[PyTorch](https://github.com/WISION-Lab/eventful-transformer)][[Website](https://wisionlab.com/project/eventful-transformers/)]
     * **GET**: "GET: Group Event Transformer for Event-Based Vision", ICCV, 2023 (*USTC*). [[Paper](https://arxiv.org/abs/2310.02642)][[PyTorch](https://github.com/Peterande/GET-Group-Event-Transformer)]
+    * **?**: "Cross-modal Orthogonal High-rank Augmentation for RGB-Event Transformer-trackers", ICCV, 2023 (*CUHK*). [[Paper](https://arxiv.org/abs/2307.04129)][[PyTorch](https://github.com/ZHU-Zhiyu/High-Rank_RGB-Event_Tracker)]
     * **SODFormer**: "SODFormer: Streaming Object Detection with Transformer Using Events and Frames", TPAMI, 2023 (*Peking*). [[Paper](https://arxiv.org/abs/2308.04047)][[PyTorch](https://github.com/dianzl/SODFormer)]
 * Fashion:
     * **Kaleido-BERT**: "Kaleido-BERT: Vision-Language Pre-training on Fashion Domain", CVPR, 2021 (*Alibaba*). [[Paper](https://arxiv.org/abs/2103.16110)][[Tensorflow](https://github.com/mczhuge/Kaleido-BERT)]
@@ -1563,6 +1564,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **D<sup>2</sup>Former**: "D<sup>2</sup>Former: Jointly Learning Hierarchical Detectors and Contextual Descriptors via Agent-based Transformers", CVPR, 2023 (*USTC*). [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/He_D2Former_Jointly_Learning_Hierarchical_Detectors_and_Contextual_Descriptors_via_Agent-Based_CVPR_2023_paper.html)]
     * **PMatch**: "PMatch: Paired Masked Image Modeling for Dense Geometric Matching", CVPR, 2023 (*Michigan State*). [[Paper](https://arxiv.org/abs/2303.17342)][[Code (in construction)](https://github.com/ShngJZ/PMatch)]
     * **2D3D-MATR**: "2D3D-MATR: 2D-3D Matching Transformer for Detection-free Registration between Images and Point Clouds", ICCV, 2023 (*National University of Defense Technology, China*). [[Paper](https://arxiv.org/abs/2308.05667)][[PyTorch (in construction)](https://github.com/minhaolee/2D3DMATR)]
+    * **CasMTR**: "Improving Transformer-based Image Matching by Cascaded Capturing Spatially Informative Keypoints", ICCV, 2023 (*Fudan*). [[Paper](https://arxiv.org/abs/2303.02885)][[PyTorch](https://github.com/ewrfcas/CasMTR)]
     * **Fuse-ViT**: "A Tale of Two Features: Stable Diffusion Complements DINO for Zero-Shot Semantic Correspondence", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2305.15347)][[Website](https://sd-complements-dino.github.io/)]
 * Fine-grained:
     * **ViT-FGVC**: "Exploring Vision Transformers for Fine-grained Classification", CVPRW, 2021 (*Universidad de Valladolid*). [[Paper](https://arxiv.org/abs/2106.10587)]
@@ -1856,6 +1858,8 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **LoDa**: "Local Distortion Aware Efficient Transformer Adaptation for Image Quality Assessment", arXiv, 2023 (*Wuhan University*). [[Paper](https://arxiv.org/abs/2308.12001)]
 * Visual Reasoning:
     * **SAViR-T**: "SAViR-T: Spatially Attentive Visual Reasoning with Transformers", arXiv, 2022 (*Rutgers University*). [[Paper](https://arxiv.org/abs/2206.09265)]
+* Wide-angle lenses:
+    * **DarSwin**: "DarSwin: Distortion Aware Radial Swin Transformer", ICCV, 2023 (*Laval University, Canada*). [[Paper](https://arxiv.org/abs/2304.09691)][[PyTorch](https://github.com/thalesgroup/darswin)][[Website](https://lvsn.github.io/darswin/)]
 * 3D Human Texture Estimation:
     * **Texformer**: "3D Human Texture Estimation from a Single Image with Transformers", ICCV, 2021 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2109.02563)][[PyTorch](https://github.com/xuxy09/Texformer)][[Website](https://www.mmlab-ntu.com/project/texformer/)]
 * 3D Motion Synthesis:
