@@ -244,7 +244,6 @@ If you find this repository useful, please consider citing this list:
     * **XFormer**: "XFormer: Fast and Accurate Monocular 3D Body Capture", arXiv, 2023 (*Huya Inc, China*). [[Paper](https://arxiv.org/abs/2305.11101)]
     * **PGformer**: "PGformer: Proxy-Bridged Game Transformer for Multi-Person Extremely Interactive Motion Prediction", arXiv, 2023 (*Alibaba*). [[Paper](https://arxiv.org/abs/2306.03374)]
     * **?**: "Scene-aware Human Pose Generation using Transformer", arXiv, 2023 (*Shanghai Jiao Tong*). [[Paper](https://arxiv.org/abs/2308.02177)]
-    * **KDSM**: "Language-driven Open-Vocabulary Keypoint Detection for Animal Body and Face", arXiv, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2310.05056)]
 * Hands:
     * **Hand-Transformer**: "Hand-Transformer: Non-Autoregressive Structured Modeling for 3D Hand Pose Estimation", ECCV, 2020 (*Kwai*). [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/4836_ECCV_2020_paper.php)]
     * **SCAT**: "SCAT: Stride Consistency With Auto-Regressive Regressor and Transformer for Hand Pose Estimation", ICCVW, 2021 (*Alibaba*). [[Paper](https://openaccess.thecvf.com/content/ICCV2021W/SoMoF/html/Gao_SCAT_Stride_Consistency_With_Auto-Regressive_Regressor_and_Transformer_for_Hand_ICCVW_2021_paper.html)]
@@ -272,12 +271,14 @@ If you find this repository useful, please consider citing this list:
     * **c2f-MS-Trans**: "Coarse-to-Fine Multi-Scene Pose Regression with Transformers", TPAMI, 2023 (*Bar-Ilan University (BIU), Israel*). [[Paper](https://arxiv.org/abs/2308.11783)]
     * **TransPoser**: "TransPoser: Transformer as an Optimizer for Joint Object Shape and Pose Estimation", arXiv, 2023 (*Kyoto University*). [[Paper](https://arxiv.org/abs/2303.13477)]
     * **RelPose++**: "RelPose++: Recovering 6D Poses from Sparse-view Observations", arXiv, 2023 (*CMU*). [[Paper](https://arxiv.org/abs/2305.04926)][[PyTorch](https://github.com/amyxlase/relpose-plus-plus)][[Website](https://amyxlase.github.io/relpose-plus-plus/)]
+    * **KDSM**: "Language-driven Open-Vocabulary Keypoint Detection for Animal Body and Face", arXiv, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2310.05056)]
+    * **UniPose**: "UniPose: Detecting Any Keypoints", arXiv, 2023 (*IDEA*). [[Paper](https://arxiv.org/abs/2310.08530)][[Code (in construction)](https://github.com/IDEA-Research/UniPose)][[Website](https://yangjie-cv.github.io/UniPose/)]
 
 [[Back to Overview](#overview)]
 
 ### Tracking
 * General:
-    * **TransTrack**: "TransTrack: Multiple-Object Tracking with Transformer",arXiv, 2020 (*HKU + ByteDance*) . [[Paper](https://arxiv.org/abs/2012.15460)][[PyTorch](https://github.com/PeizeSun/TransTrack)]
+    * **TransTrack**: "TransTrack: Multiple-Object Tracking with Transformer",arXiv, 2020 (*HKU + ByteDance*). [[Paper](https://arxiv.org/abs/2012.15460)][[PyTorch](https://github.com/PeizeSun/TransTrack)]
     * **TransformerTrack**: "Transformer Meets Tracker: Exploiting Temporal Context for Robust Visual Tracking", CVPR, 2021 (*USTC*). [[Paper](https://arxiv.org/abs/2103.11681)][[PyTorch](https://github.com/594422814/TransformerTrack)]
     * **TransT**: "Transformer Tracking", CVPR, 2021 (*Dalian University of Technology*). [[Paper](https://arxiv.org/abs/2103.15436)][[PyTorch](https://github.com/chenxin-dlut/TransT)]
     * **STARK**: "Learning Spatio-Temporal Transformer for Visual Tracking", ICCV, 2021 (*Microsoft*). [[Paper](https://arxiv.org/abs/2103.17154)][[PyTorch](https://github.com/researchmm/Stark)]
@@ -1168,6 +1169,7 @@ If you find this repository useful, please consider citing this list:
 * **ViNT**: "ViNT: A Foundation Model for Visual Navigation", arXiv, 2023 (*Berkeley*). [[Paper](https://arxiv.org/abs/2306.14846)][[Code (in construction)](https://github.com/PrieureDeSion/visualnav-transformer)][[Website](https://visualnav-transformer.github.io/)]
 * **GridMM**: "GridMM: Grid Memory Map for Vision-and-Language Navigation", arXiv, 2023 (*CAS*). [[Paper](https://arxiv.org/abs/2307.12907)][[Code (in construction)](https://github.com/MrZihan/GridMM)]
 * **A<sup>2</sup>Nav**: "A<sup>2</sup>Nav: Action-Aware Zero-Shot Robot Navigation by Exploiting Vision-and-Language Ability of Foundation Models", arXiv, 2023 (*South China University of Technology*). [[Paper](https://arxiv.org/abs/2308.07997)]
+* **LangNav**: "LangNav: Language as a Perceptual Representation for Navigation", arXiv, 2023 (*MIT*). [[Paper](https://arxiv.org/abs/2310.07889)]
 
 [[Back to Overview](#overview)]
 
