@@ -1095,7 +1095,7 @@ If you find this repository useful, please consider citing this list:
     * **NeXT**: "NeXT: Towards High Quality Neural Radiance Fields via Multi-Skip Transformer", ECCV, 2022 (*Tsinghua University*). [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/1810_ECCV_2022_paper.php)][[JAX](https://github.com/Crishawy/NeXT)]
     * **TransNeRF**: "Generalizable Neural Radiance Fields for Novel View Synthesis with Transformer", arXiv, 2022 (*UBC*). [[Paper](https://arxiv.org/abs/2206.05375)]
     * **TransHuman**: "TransHuman: A Transformer-based Human Representation for Generalizable Neural Human Rendering", ICCV, 2023 (*Alibaba*). [[Paper](https://arxiv.org/abs/2307.12291)][[PyTorch](https://github.com/pansanity666/TransHuman/)][[Website](https://pansanity666.github.io/TransHuman/)]
-    * **GNT-MOVE**: "Enhancing NeRF akin to Enhancing LLMs: Generalizable NeRF Transformer with Mixture-of-View-Experts", ICCV, 2023 (*UT Austin*). [[Paper](https://arxiv.org/abs/2308.11793)]
+    * **GNT-MOVE**: "Enhancing NeRF akin to Enhancing LLMs: Generalizable NeRF Transformer with Mixture-of-View-Experts", ICCV, 2023 (*UT Austin*). [[Paper](https://arxiv.org/abs/2308.11793)][[PyTorch](https://github.com/VITA-Group/GNT-MOVE)]
 * 3D:
     * **MNSRNet**: "MNSRNet: Multimodal Transformer Network for 3D Surface Super-Resolution", CVPR, 2022 (*Shenzhen University*). [[Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Xie_MNSRNet_Multimodal_Transformer_Network_for_3D_Surface_Super-Resolution_CVPR_2022_paper.html)]
 * Others:
@@ -1110,6 +1110,7 @@ If you find this repository useful, please consider citing this list:
     * **TopNet**: "TopNet: Transformer-based Object Placement Network for Image Compositing", CVPR, 2023 (*Adobe*). [[Paper](https://arxiv.org/abs/2304.03372)]
     * **RHWF**: "Recurrent Homography Estimation Using Homography-Guided Image Warping and Focus Transformer", CVPR, 2023 (*Zhejiang University*). [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Cao_Recurrent_Homography_Estimation_Using_Homography-Guided_Image_Warping_and_Focus_Transformer_CVPR_2023_paper.html)][[Code (in construction)](https://github.com/imdumpl78/rhwf)]
     * **M2T**: "M2T: Masking Transformers Twice for Faster Decoding", ICCV, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2304.07313)]
+    * **CTM**: "Unfolding Framework with Prior of Convolution-Transformer Mixture and Uncertainty Estimation for Video Snapshot Compressive Imaging", ICCV, 2023 (*CAS*). [[Paper](https://arxiv.org/abs/2306.11316)]
 
 [[Back to Overview](#overview)]
 
@@ -1825,7 +1826,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **QCNet**: "Query-Centric Trajectory Prediction", CVPR, 2023 (*CUHK*). [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Zhou_Query-Centric_Trajectory_Prediction_CVPR_2023_paper.html)][[Code (in construction)](https://github.com/ZikangZhou/QCNet)]
     * **ViP3D**: "ViP3D: End-to-end Visual Trajectory Prediction via 3D Agent Queries", CVPR, 2023 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2208.01582)][[PyTorch](https://github.com/Tsinghua-MARS-Lab/ViP3D)][[Website](https://tsinghua-mars-lab.github.io/ViP3D/)]
     * **USST**: "Uncertainty-aware State Space Transformer for Egocentric 3D Hand Trajectory Forecasting", ICCV, 2023 (*OPPO*). [[Paper](https://arxiv.org/abs/2307.08243)]
-    * **JRTransformer**: "Joint-Relation Transformer for Multi-Person Motion Prediction", ICCV, 2023 (*Shanghai Jiao Tong*). [[Paper](https://arxiv.org/abs/2308.04808)][[PyTorch (in construction)](https://github.com/MediaBrain-SJTU/JRTransformer)]
+    * **JRTransformer**: "Joint-Relation Transformer for Multi-Person Motion Prediction", ICCV, 2023 (*Shanghai Jiao Tong*). [[Paper](https://arxiv.org/abs/2308.04808)][[PyTorch](https://github.com/MediaBrain-SJTU/JRTransformer)]
     * **Forecast-MAE**: "Forecast-MAE: Self-supervised Pre-training for Motion Forecasting with Masked Autoencoders", ICCV, 2023 (*HKUST*). [[Paper](https://arxiv.org/abs/2308.09882)][[PyTorch](https://github.com/jchengai/forecast-mae)]
     * **MotionLM**: "MotionLM: Multi-Agent Motion Forecasting as Language Modeling", ICCV, 2023 (*Waymo*). [[Paper](https://arxiv.org/abs/2309.16534)]
     * **OccFormer**: "OccFormer: Dual-path Transformer for Vision-based 3D Semantic Occupancy Prediction", ICCV, 2023 (*PhiGent Robotics, China*). [[Paper](https://arxiv.org/abs/2304.05316)][[PyTorch](https://github.com/zhangyp15/OccFormer)]
@@ -1909,7 +1910,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **LIST**: "LIST: Learning Implicitly from Spatial Transformers for Single-View 3D Reconstruction", ICCV, 2023 (*UT Arlington*). [[Paper](https://arxiv.org/abs/2307.12194)]
     * **LRGT**: "Long-Range Grouping Transformer for Multi-View 3D Reconstruction", ICCV, 2023 (*Macau University of Science and Technology*). [[Paper](https://arxiv.org/abs/2308.08724)][[PyTorch (in construction)](https://github.com/LiyingCV/Long-Range-Grouping-Transformer)]
     * **Spectral-Graphormer**: "Spectral Graphormer: Spectral Graph-based Transformer for Egocentric Two-Hand Reconstruction using Multi-View Color Images", ICCV, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2308.11015)]
-    * **UMIFormer**: "UMIFormer: Mining the Correlations between Similar Tokens for Multi-View 3D Reconstruction", arXiv, 2023 (*Macau University of Science and Technology*). [[Paper](https://arxiv.org/abs/2302.13987)]
+    * **UMIFormer**: "UMIFormer: Mining the Correlations between Similar Tokens for Multi-View 3D Reconstruction", ICCV, 2023 (*Macau University of Science and Technology*). [[Paper](https://arxiv.org/abs/2302.13987)][[PyTorch](https://github.com/GaryZhu1996/UMIFormer)]
 * 360 Scene:
     * **?**: "Improving 360 Monocular Depth Estimation via Non-local Dense Prediction Transformer and Joint Supervised and Self-supervised Learning", AAAI, 2022 (*Seoul National University*). [[Paper](https://arxiv.org/abs/2109.10563)][[PyTorch](https://github.com/yuniw18/Joint_360depth)]
     * **PAVER**: "Panoramic Vision Transformer for Saliency Detection in 360° Videos", ECCV, 2022 (*Seoul National University*). [[Paper](https://arxiv.org/abs/2209.08956)]
