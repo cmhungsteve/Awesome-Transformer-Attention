@@ -804,6 +804,7 @@ If you find this repository useful, please consider citing this list:
     * **PixArt-α**: "PixArt-α: Fast Training of Diffusion Transformer for Photorealistic Text-to-Image Synthesis", arXiv, 2023 (*Huawei*). [[Paper](https://arxiv.org/abs/2310.00426)][[Website](https://pixart-alpha.github.io/)]
     * **Kosmos-G**: "Kosmos-G: Generating Images in Context with Multimodal Large Language Models", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2310.02992)][[PyTorch](https://github.com/microsoft/unilm/tree/master/kosmos-g)][[Website](https://xichenpan.com/kosmosg/)]
     * **AlignProp**: "Aligning Text-to-Image Diffusion Models with Reward Backpropagation", arXiv, 2023 (*CMU*). [[Paper](https://arxiv.org/abs/2310.03739)][[PyTorch](https://github.com/mihirp1998/AlignProp/)][[Website](https://align-prop.github.io/)]
+    * **Idea2Img**: "Idea2Img: Iterative Self-Refinement with GPT-4V(ision) for Automatic Image Design and Generation", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2310.08541)][[Website](https://idea2img.github.io/)]
 * Video:
     * **Imagen-Video**: "Imagen Video: High Definition Video Generation with Diffusion Models", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2210.02303)][[Website](https://imagen.research.google/video/)]
     * **Phenaki**: "Phenaki: Variable Length Video Generation From Open Domain Textual Description", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2210.02399)][[PyTorch (LAION-AI, in construction)](https://github.com/LAION-AI/phenaki)][[Website](https://phenaki.video/)]
