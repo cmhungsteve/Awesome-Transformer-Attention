@@ -2005,6 +2005,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **SiamMAE**: "Siamese Masked Autoencoders", arXiv, 2023 (*Stanford*). [[Paper](https://arxiv.org/abs/2305.14344)][[Website](https://siam-mae-video.github.io/)]
     * **LSS**: "Language-based Action Concept Spaces Improve Video Self-Supervised Learning", arXiv, 2023 (*Stony Brook*). [[Paper](https://arxiv.org/abs/2307.10922)]
     * **LSTA**: "Efficient Long-Short Temporal Attention Network for Unsupervised Video Object Segmentation", arXiv, 2023 (*Hangzhou Dianzi University*). [[Paper](https://arxiv.org/abs/2309.11707)]
+    * **DoRA**: "Is ImageNet worth 1 video? Learning strong image encoders from 1 long unlabelled video", arXiv, 2023 (*INRIA*). [[Paper](https://arxiv.org/abs/2310.08584)]
 * X-shot:
     * **ResT**: "Cross-modal Representation Learning for Zero-shot Action Recognition", CVPR, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2205.01657)]
     * **ViSET**: "Zero-Shot Action Recognition with Transformer-based Video Semantic Embedding", arXiv, 2022 (*University of South FLorida*). [[Paper](https://arxiv.org/abs/2203.05156)]
