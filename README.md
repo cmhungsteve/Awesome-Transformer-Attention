@@ -326,6 +326,7 @@ If you find this repository useful, please consider citing this list:
 * **SG-Former**: "SG-Former: Self-guided Transformer with Evolving Token Reallocation", ICCV, 2023 (*NUS*). [[Paper](https://arxiv.org/abs/2308.12216)]
 * **SimPool**: "Keep It SimPool: Who Said Supervised Transformers Suffer from Attention Deficit?", ICCV, 2023 (*National Technical University of Athens*). [[Paper](https://arxiv.org/abs/2309.06891)]
 * **LaPE**: "LaPE: Layer-adaptive Position Embedding for Vision Transformers with Independent Layer Normalization", ICCV, 2023 (*Peking*). [[Paper](https://openaccess.thecvf.com/content/ICCV2023/html/Yu_LaPE_Layer-adaptive_Position_Embedding_for_Vision_Transformers_with_Independent_Layer_ICCV_2023_paper.html)][[PyTorch](https://github.com/Ingrid725/LaPE)]
+* **CB**: "Scratching Visual Transformer's Back with Uniform Attention", ICCV, 2023 (*NAVER*). [[Paper](https://openaccess.thecvf.com/content/ICCV2023/html/Hyeon-Woo_Scratching_Visual_Transformers_Back_with_Uniform_Attention_ICCV_2023_paper.html)]
 * **ClusterFormer**: "ClusterFormer: Clustering As A Universal Visual Learner", NeurIPS, 2023 (*Rochester Institute of Technology (RIT)*). [[Paper](https://arxiv.org/abs/2309.13196)]
 * **CrossFormer++**: "CrossFormer++: A Versatile Vision Transformer Hinging on Cross-scale Attention", arXiv, 2023 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2303.06908)][[PyTorch](https://github.com/cheerss/CrossFormer)]
 * **QFormer**: "Vision Transformer with Quadrangle Attention", arXiv, 2023 (*The University of Sydney*). [[Paper](https://arxiv.org/abs/2303.15105)][[Code (in construction)](https://github.com/ViTAE-Transformer/QFormer)]
@@ -440,6 +441,7 @@ If you find this repository useful, please consider citing this list:
 * **MPCViT**: "MPCViT: Searching for Accurate and Efficient MPC-Friendly Vision Transformer with Heterogeneous Attention", ICCV, 2023 (*Peking*). [[Paper](https://arxiv.org/abs/2211.13955)][[PyTorch](https://github.com/PKU-SEC-Lab/mpcvit)]
 * **MST**: "Masked Spiking Transformer", ICCV, 2023 (*HKUST*). [[Paper](https://arxiv.org/abs/2210.01208)]
 * **EfficientFormerV2**: "Rethinking Vision Transformers for MobileNet Size and Speed", ICCV, 2023 (*Snap*). [[Paper](https://arxiv.org/abs/2212.08059)][[PyTorch](https://github.com/snap-research/EfficientFormer)]
+* **DiffRate**: "DiffRate: Differentiable Compression Rate for Efficient Vision Transformers", ICCV, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2305.17997)][[PyTorch](https://github.com/OpenGVLab/DiffRate)]
 * **TokenReduction**: "Which Tokens to Use? Investigating Token Reduction in Vision Transformers", ICCVW, 2023 (*Aalborg University, Denmark*). [[Paper](https://arxiv.org/abs/2308.04657)][[PyTorch](https://github.com/JoakimHaurum/TokenReduction)][[Website](https://vap.aau.dk/tokens/)]
 * **LGViT**: "LGViT: Dynamic Early Exiting for Accelerating Vision Transformer", ACMMM, 2023 (*Beijing Institute of Technology*). [[Paper](https://arxiv.org/abs/2308.00255)]
 * **LBP-WHT**: "Efficient Low-rank Backpropagation for Vision Transformer Adaptation", NeurIPS, 2023 (*UT Austin*). [[Paper](https://arxiv.org/abs/2309.15275)]
@@ -911,7 +913,6 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **?**: "A Simple Approach and Benchmark for 21,000-Category Object Detection", ECCV, 2022 (*Microsoft*). [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/8094_ECCV_2022_paper.php)][[Code (in construction)](https://github.com/SwinTransformer/Simple-21K-Detection)]
     * **Obj2Seq**: "Obj2Seq: Formatting Objects as Sequences with Class Prompt for Visual Tasks", NeurIPS, 2022 (*CAS*). [[Paper](https://arxiv.org/abs/2209.13948)][[PyTorch](https://github.com/CASIA-IVA-Lab/Obj2Seq)]
     * **KA**: "Knowledge Amalgamation for Object Detection with Transformers", arXiv, 2022 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2203.03187)]
-    * **MIMDet**: "Unleashing Vanilla Vision Transformer with Masked Image Modeling for Object Detection", arXiv, 2022 (*Tencent*). [[Paper](https://arxiv.org/abs/2204.02964)][[PyTorch](https://github.com/hustvl/MIMDet)]
     * **imTED**: "Integral Migrating Pre-trained Transformer Encoder-decoders for Visual Object Detection", arXiv, 2022 (*CAS*). [[Paper](https://arxiv.org/abs/2205.09613)]
     * **TCC**: "Transformer-based Context Condensation for Boosting Feature Pyramids in Object Detection", arXiv, 2022 (*The University of Sydney*). [[Paper](https://arxiv.org/abs/2207.06603)]
     * **Conditional-DETR-V2**: "Conditional DETR V2: Efficient Detection Transformer with Box Queries", arXiv, 2022 (*Peking University*). [[Paper](https://arxiv.org/abs/2207.08914)]
@@ -943,6 +944,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **Focus-DETR**: "Less is More: Focus Attention for Efficient DETR", ICCV, 2023 (*Huawei*). [[Paper](https://arxiv.org/abs/2307.12612)][[PyTorch](https://github.com/huawei-noah/noah-research/tree/master/Focus-DETR)][[MindSpore](https://gitee.com/mindspore/models/tree/master/research/cv/Focus-DETR)]
     * **Plain-DETR**: "DETR Doesn't Need Multi-Scale or Locality Design", ICCV, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2308.01904)][[Code (in construction)](https://github.com/impiga/Plain-DETR)]
     * **ASAG**: "ASAG: Building Strong One-Decoder-Layer Sparse Detectors via Adaptive Sparse Anchor Generation", ICCV, 2023 (*Sun Yat-sen University*). [[Paper](https://arxiv.org/abs/2308.09242)][[PyTorch](https://github.com/iSEE-Laboratory/ASAG)]
+    * **MIMDet**: "Unleashing Vanilla Vision Transformer with Masked Image Modeling for Object Detection", ICCV, 2023 (*Tencent*). [[Paper](https://arxiv.org/abs/2204.02964)][[PyTorch](https://github.com/hustvl/MIMDet)]
     * **KS-DETR**: "KS-DETR: Knowledge Sharing in Attention Learning for Detection Transformer", arXiv, 2023 (*Toyota Technological Institute*). [[Paper](https://arxiv.org/abs/2302.11208)][[PyTorch](https://github.com/edocanonymous/KS-DETR)]
     * **FeatAug-DETR**: "FeatAug-DETR: Enriching One-to-Many Matching for DETRs with Feature Augmentation", arXiv, 2023 (*CUHK*). [[Paper](https://arxiv.org/abs/2303.01503)][[Codee (in construction)](https://github.com/rongyaofang/FeatAug-DETR)]
     * **Stable-DINO**: "Detection Transformer with Stable Matching", arXiv, 2023 (*IDEA*). [[Paper](https://arxiv.org/abs/2304.04742)][[Code (in construction)](https://github.com/IDEA-Research/Stable-DINO)]
@@ -1190,7 +1192,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **MHVA**: "Lane Detection Transformer Based on Multi-Frame Horizontal and Vertical Attention and Visual Transformer Module", ECCV, 2022 (*Beihang University*). [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/3918_ECCV_2022_paper.php)]
     * **PriorLane**: "PriorLane: A Prior Knowledge Enhanced Lane Detection Approach Based on Transformer", arXiv, 2022 (*Zhejiang Lab*). [[Paper](https://arxiv.org/abs/2209.06994)][[PyTorch](https://github.com/vincentqqb/priorlane)]
     * **CurveFormer**: "CurveFormer: 3D Lane Detection by Curve Propagation with Curve Queries and Attention", arXiv, 2022 (*NullMax, China*). [[Paper](https://arxiv.org/abs/2209.07989)]
-    * **LATR**: "LATR: 3D Lane Detection from Monocular Images with Transformer", ICCV, 2023 (*CUHK*). [[Paper](https://arxiv.org/abs/2308.04583)]
+    * **LATR**: "LATR: 3D Lane Detection from Monocular Images with Transformer", ICCV, 2023 (*CUHK*). [[Paper](https://arxiv.org/abs/2308.04583)][[PyTorch](https://github.com/JMoonr/LATR)]
     * **O2SFormer**: "End to End Lane detection with One-to-Several Transformer", arXiv, 2023 (*Southeast University, China*). [[Paper](https://arxiv.org/abs/2305.00675)][[PyTorch](https://github.com/zkyseu/O2SFormer)]
 * Object Localization:
     * **TS-CAM**: "TS-CAM: Token Semantic Coupled Attention Map for Weakly Supervised Object Localization", arXiv, 2021 (*CAS*). [[Paper](https://arxiv.org/abs/2103.14862)]
@@ -1656,6 +1658,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * Evaluation:
     * **?**: "Robustness Analysis on Foundational Segmentation Models", arXiv, 2023 (*UCF*). [[Paper](https://arxiv.org/abs/2306.09278)][[PyTorch](https://github.com/DeepLearningRobustnessStudies/SegmetationRobustness)]
 * Interactive Segmentation:
+    * **InterFormer**: "InterFormer: Real-time Interactive Image Segmentation", ICCV, 2023 (*Xiamen University*). [[Paper](https://arxiv.org/abs/2304.02942)][[PyTorch](https://github.com/YouHuang67/InterFormer)]
     * **iCMFormer**: "Interactive Image Segmentation with Cross-Modality Vision Transformers", arXiv, 2023 (*University of Twente, Netherlands*). [[Paper](https://arxiv.org/abs/2307.02280)][[Code (in construction)](https://github.com/lik1996/iCMFormer)]
 * Amodal Segmentation:
     * **AISFormer**: "AISFormer: Amodal Instance Segmentation with Transformer", BMVC, 2022 (*University of Arkansas, Arkansas*). [[Paper](https://arxiv.org/abs/2210.06323)][[PyTorch](https://github.com/UARK-AICV/AISFormer)]
