@@ -767,6 +767,7 @@ If you find this repository useful, please consider citing this list:
     * **RA-CM3**: "Retrieval-Augmented Multimodal Language Modeling", ICML, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2211.12561)]
     * **StyleGAN-T**: "StyleGAN-T: Unlocking the Power of GANs for Fast Large-Scale Text-to-Image Synthesis", ICML, 2023 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2301.09515)][[PyTorch](https://github.com/autonomousvision/stylegan-t)][[Website](https://sites.google.com/view/stylegan-t/)]
     * **VD**: "Versatile Diffusion: Text, Images and Variations All in One Diffusion Model", ICCV, 2023 (*Oregon*). [[Paper](https://arxiv.org/abs/2211.08332)][[PyTorch](https://github.com/SHI-Labs/Versatile-Diffusion)]
+    * **DiT**: "Scalable Diffusion Models with Transformers", ICCV, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2212.09748)][[PyTorch](https://github.com/facebookresearch/DiT)][[Website](https://www.wpeebles.com/DiT)]
     * **E4T**: "Designing an Encoder for Fast Personalization of Text-to-Image Models", arXiv, 2023 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2302.12228)][[Website](https://tuning-encoder.github.io/)]
     * **?**: "Controlled and Conditional Text to Image Generation with Diffusion Prior", arXiv, 2023 (*Adobe*). [[Paper](https://arxiv.org/abs/2302.11710)]
     * **Lformer**: "Lformer: Text-to-Image Generation with L-shape Block Parallel Decoding", arXiv, 2023 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2303.03800)]
