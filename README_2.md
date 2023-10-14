@@ -444,6 +444,7 @@ If you find this repository useful, please consider citing this list:
     * **FEAT**: "FEAT: Face Editing with Attention", arXiv, 2022 (*Shenzhen University*). [[Paper](https://arxiv.org/abs/2202.02713)]
     * **CoralStyleCLIP**: "CoralStyleCLIP: Co-optimized Region and Layer Selection for Image Editing", CVPR, 2023 (*Adobe*). [[Paper](https://arxiv.org/abs/2303.05031)]
     * **CLIP2Protect**: "CLIP2Protect: Protecting Facial Privacy Using Text-Guided Makeup via Adversarial Latent Search", CVPR, 2023 (*MBZUAI*). [[Paper](https://arxiv.org/abs/2306.10008)][[Code (in construction)](https://github.com/fahadshamshad/Clip2Protect)]
+    * **PATMAT**: "PATMAT: Person Aware Tuning of Mask-Aware Transformer for Face Inpainting", ICCV, 2023 (*CMU*). [[Paper](https://arxiv.org/abs/2304.06107)]
     * **RestoreFormer++**: "RestoreFormer++: Towards Real-World Blind Face Restoration from Undegraded Key-Value Pairs", arXiv, 2023 (*HKU*). [[Paper](https://arxiv.org/abs/2308.07228)]
 * Facial Expression:
     * **TransFER**: "TransFER: Learning Relation-aware Facial Expression Representations with Transformers", ICCV, 2021 (*CAS*). [[Paper](https://arxiv.org/abs/2108.11116)]
@@ -787,6 +788,7 @@ If you find this repository useful, please consider citing this list:
     * **HTCAN**: "Hybrid Transformer and CNN Attention Network for Stereo Image Super-resolution", CVPRW, 2023 (*ByteDance*). [[Paper](https://arxiv.org/abs/2305.05177)]
     * **DAT**: "Dual Aggregation Transformer for Image Super-Resolution", ICCV, 2023 (*Shanghai Jiao Tong*). [[Paper](https://arxiv.org/abs/2308.03364)][[PyTorch](https://github.com/zhengchen1999/DAT)]
     * **CRAFT**: "Feature Modulation Transformer: Cross-Refinement of Global Representation via High-Frequency Prior for Image Super-Resolution", ICCV, 2023 (*UESTC*). [[Paper](https://arxiv.org/abs/2308.05022)][[Code (in construction)](https://github.com/AVC2-UESTC/CRAFT-SR)]
+    * **ESSAformer**: "ESSAformer: Efficient Transformer for Hyperspectral Image Super-resolution", ICCV, 2023 (*Xidian University*). [[Paper](https://arxiv.org/abs/2307.14010)][[PyTorch](https://github.com/Rexzhan/ESSAformer)]
     * **RGT**: "Recursive Generalization Transformer for Image Super-Resolution", arXiv, 2023 (*Shanghai Jiao Tong*). [[Paper](https://arxiv.org/abs/2303.06373)]
     * **SOSR**: "SOSR: Source-Free Image Super-Resolution with Wavelet Augmentation Transformer", arXiv, 2023 (*CAS*). [[Paper](https://arxiv.org/abs/2303.17783)]
     * **HAT**: "HAT: Hybrid Attention Transformer for Image Restoration", arXiv, 2023 (*University of Macau*). [[Paper](https://arxiv.org/abs/2309.05239)][[PyTorch](https://github.com/XPixelGroup/HAT)]
@@ -1059,7 +1061,7 @@ If you find this repository useful, please consider citing this list:
     * **Selective-TransHDR**: "Selective TransHDR: Transformer-Based Selective HDR Imaging Using Ghost Region Mask", ECCV, 2022 (*Sogang University, Korea*). [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/6670_ECCV_2022_paper.php)]
     * **Text2Light**: "Text2Light: Zero-Shot Text-Driven HDR Panorama Generation", SIGGRAPH Asia, 2022 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2209.09898)][[PyTorch](https://github.com/FrozenBurning/Text2Light)][[Website](https://frozenburning.github.io/projects/text2light/)]
     * **SMAE**: "SMAE: Few-shot Learning for HDR Deghosting with Saturation-Aware Masked Autoencoders", CVPR, 2023 (*Northwestern Polytechnical University*). [[Paper](https://arxiv.org/abs/2304.06914)]
-    * **SCTNet**: "Alignment-free HDR Deghosting with Semantics Consistent Transformer", arXiv, 2023 (*University of Bourgogne, France*). [[Paper](https://arxiv.org/abs/2305.18135)][[Website](https://steven-tel.github.io/sctnet/)]
+    * **SCTNet**: "Alignment-free HDR Deghosting with Semantics Consistent Transformer", ICCV, 2023 (*University of Bourgogne, France*). [[Paper](https://arxiv.org/abs/2305.18135)][[Website](https://steven-tel.github.io/sctnet/)]
     * **?**: "Online Overexposed Pixels Hallucination in Videos with Adaptive Reference Frame Selection", arXiv, 2023 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2308.15462)]
     * **IFT**: "IFT: Image Fusion Transformer for Ghost-free High Dynamic Range Imaging", arXiv, 2023 (*Huawei*). [[Paper](https://arxiv.org/abs/2309.15019)]
 * Harmonization:
@@ -1092,7 +1094,7 @@ If you find this repository useful, please consider citing this list:
     * **S<sup>2</sup>-Transformer**: "S<sup>2</sup>-Transformer for Mask-Aware Hyperspectral Image Reconstruction", arXiv, 2022 (*Rochester Institute of Technology*). [[Paper](https://arxiv.org/abs/2209.12075)]
     * **NLOST**: "NLOST: Non-Line-of-Sight Imaging with Transformer", CVPR, 2023 (*USTC*). [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Li_NLOST_Non-Line-of-Sight_Imaging_With_Transformer_CVPR_2023_paper.html)][[Code (in construction)](https://github.com/Depth2World/NLOST)]
     * **MinD-Vis**: "Seeing Beyond the Brain: Conditional Diffusion Model with Sparse Masked Modeling for Vision Decoding", CVPR, 2023 (*NUS*). [[Paper](https://arxiv.org/abs/2211.06956)][[PyTorch](https://github.com/zjc062/mind-vis)][[Website](https://mind-vis.github.io/)]
-    * **PADUT**: "Pixel Adaptive Deep Unfolding Transformer for Hyperspectral Image Reconstruction", ICCV, 2023 (*Beijing Institute of Technology*). [[Paper](https://arxiv.org/abs/2308.10820)]
+    * **PADUT**: "Pixel Adaptive Deep Unfolding Transformer for Hyperspectral Image Reconstruction", ICCV, 2023 (*Beijing Institute of Technology*). [[Paper](https://arxiv.org/abs/2308.10820)][[PyTorch](https://github.com/MyuLi/PADUT)]
     * **GTA**: "Global-correlated 3D-decoupling Transformer for Clothed Avatar Reconstruction", NeurIPS, 2023 (*Zhejiang*). [[Paper](https://arxiv.org/abs/2309.13524)]
 * Radiance Fields:
     * **NeXT**: "NeXT: Towards High Quality Neural Radiance Fields via Multi-Skip Transformer", ECCV, 2022 (*Tsinghua University*). [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/1810_ECCV_2022_paper.php)][[JAX](https://github.com/Crishawy/NeXT)]
@@ -1729,6 +1731,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **MV-MWM**: "Multi-View Masked World Models for Visual Robotic Manipulation", ICML, 2023 (*KAIST*). [[Paper](https://arxiv.org/abs/2302.02408)][[Tensorflow2](https://github.com/younggyoseo/MV-MWM)][[Website](https://sites.google.com/view/mv-mwm)]
     * **MTM**: "Masked Trajectory Models for Prediction, Representation, and Control", ICML, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2305.02968)][[PyTorch](https://github.com/facebookresearch/mtm)][[Website](https://wuphilipp.github.io/mtm/)]
     * **Skill-Transformer**: "Skill Transformer: A Monolithic Policy for Mobile Manipulation", ICCV, 2023 (*Georgia Tech*). [[Paper](https://arxiv.org/abs/2308.09873)]
+    * **RUPs**: "Nonrigid Object Contact Estimation With Regional Unwrapping Transformer", ICCV, 2023 (*Southeast University, China*). [[Paper](https://arxiv.org/abs/2308.14074)]
     * **RVT**: "RVT: Robotic View Transformer for 3D Object Manipulation", CoRL, 2023 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2306.14896)][[PyTorch](https://github.com/nvlabs/rvt)][[Website](https://robotic-view-transformer.github.io/)]
 * Scene Decomposition:
     * **SRT**: "Scene Representation Transformer: Geometry-Free Novel View Synthesis Through Set-Latent Scene Representations", CVPR, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2111.13152)][[PyTorch (stelzner)](https://github.com/stelzner/srt)][[Website](https://srt-paper.github.io/)]
