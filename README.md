@@ -1135,7 +1135,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **TENET**: "Time-rEversed diffusioN tEnsor Transformer: A New TENET of Few-Shot Object Detection", ECCV, 2022 (*ANU*). [[Paper](https://arxiv.org/abs/2210.16897)][[PyTorch](https://github.com/ZS123-lang/TENET)]
     * **Meta-DETR**: "Meta-DETR: Image-Level Few-Shot Detection with Inter-Class Correlation Exploitation", TPAMI, 2022 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2208.00219)]
     * **Incremental-DETR**: "Incremental-DETR: Incremental Few-Shot Object Detection via Self-Supervised Learning", arXiv, 2022 (*NUS*). [[Paper](https://arxiv.org/abs/2205.04042)]
-    * **FS-DETR**: "FS-DETR: Few-Shot DEtection TRansformer with prompting and without re-training", arXiv, 2022 (*Samsung*). [[Paper](https://arxiv.org/abs/2210.04845)]
+    * **FS-DETR**: "FS-DETR: Few-Shot DEtection TRansformer with prompting and without re-training", ICCV, 2023 (*Samsung*). [[Paper](https://arxiv.org/abs/2210.04845)]
     * **Meta-ZSDETR**: "Meta-ZSDETR: Zero-shot DETR with Meta-learning", ICCV, 2023 (*Fudan*). [[Paper](https://arxiv.org/abs/2308.09540)]
     * **ALWOD**: "ALWOD: Active Learning for Weakly-Supervised Object Detection", ICCV, 2023 (*Rutgers*). [[Paper](https://arxiv.org/abs/2309.07914)][[Code (in construction)](https://github.com/seqam-lab/ALWOD)]
 * Open-World/Vocabulary:
@@ -1603,6 +1603,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **MAF-Transformer**: "Mask-Attention-Free Transformer for 3D Instance Segmentation", ICCV, 2023 (*CUHK*). [[Paper](https://arxiv.org/abs/2309.01692)][[PyTorch](https://github.com/dvlab-research/Mask-Attention-Free-Transformer)]
     * **UniSeg**: "UniSeg: A Unified Multi-Modal LiDAR Segmentation Network and the OpenPCSeg Codebase", ICCV, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2309.05573)][[PyTorch](https://github.com/PJLab-ADG/PCSeg)]
     * **MIT**: "2D-3D Interlaced Transformer for Point Cloud Segmentation with Scene-Level Supervision", ICCV, 2023 (*NTU*). [[Paper](https://openaccess.thecvf.com/content/ICCV2023/html/Yang_2D-3D_Interlaced_Transformer_for_Point_Cloud_Segmentation_with_Scene-Level_Supervision_ICCV_2023_paper.html)]
+    * **CVSformer**: "CVSformer: Cross-View Synthesis Transformer for Semantic Scene Completion", ICCV, 2023 (*Tianjin University*). [[Paper](https://arxiv.org/abs/2307.07938)]
     * **3D-OWIS**: "3D Indoor Instance Segmentation in an Open-World", NeurIPS, 2023 (*MBZUAI*). [[Paper](https://arxiv.org/abs/2309.14338)] 
     * **P3Former**: "Position-Guided Point Cloud Panoptic Segmentation Transformer", arXiv, 2023 (*1Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2303.13509)][[Code (in construction)](https://github.com/SmartBot-PJLab/P3Former)]
     * **UnScene3D**: "UnScene3D: Unsupervised 3D Instance Segmentation for Indoor Scenes", arXiv, 2023 (*TUM*). [[Paper](https://arxiv.org/abs/2303.14541)][[Website](https://rozdavid.github.io/unscene3d)]
@@ -1611,7 +1612,6 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **DCTNet**: "Dynamic Clustering Transformer Network for Point Cloud Segmentation", arXiv, 2023 (*University of Waterloo, Waterloo, Canada*). [[Paper](https://arxiv.org/abs/2306.08073)]
     * **SPT**: "Efficient 3D Semantic Segmentation with Superpoint Transformer", arXiv, 2023 (*Univ Gustave Eiffel, France*). [[Paper](https://arxiv.org/abs/2306.08045)][[PyTorch](https://github.com/drprojects/superpoint_transformer)]
     * **Symphonies**: "Symphonize 3D Semantic Scene Completion with Contextual Instance Queries", arXiv, 2023 (*Horizon Robotics*). [[Paper](https://arxiv.org/abs/2306.15670)][[PyTorch](https://github.com/hustvl/Symphonies)]
-    * **CVSformer**: "CVSformer: Cross-View Synthesis Transformer for Semantic Scene Completion", arXiv, 2023 (*Tianjin University*). [[Paper](https://arxiv.org/abs/2307.07938)]
     * **TFS3D**: "Less is More: Towards Efficient Few-shot 3D Semantic Segmentation via Training-free Networks", arXiv, 2023 (*CUHK*). [[Paper](https://arxiv.org/abs/2308.12961)][[PyTorch](https://github.com/yangyangyang127/TFS3D)]
     * **CIP-WPIS**: "When 3D Bounding-Box Meets SAM: Point Cloud Instance Segmentation with Weak-and-Noisy Supervision", arXiv, 2023 (*Australian National University*). [[Paper](https://arxiv.org/abs/2309.00828)]
 * Multi-Task:
@@ -2004,9 +2004,9 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **MGMAE**: "MGMAE: Motion Guided Masking for Video Masked Autoencoding", ICCV, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2308.10794)]
     * **MGM**: "Motion-Guided Masking for Spatiotemporal Representation Learning", ICCV, 2023 (*Amazon*). [[Paper](https://arxiv.org/abs/2308.12962)]
     * **TimeT**: "Time Does Tell: Self-Supervised Time-Tuning of Dense Image Representations", ICCV, 2023 (*UvA*). [[Paper](https://arxiv.org/abs/2308.11796)][[PyTorch](https://github.com/SMSD75/Timetuning)]
+    * **LSS**: "Language-based Action Concept Spaces Improve Video Self-Supervised Learning", NeurIPS, 2023 (*Stony Brook*). [[Paper](https://arxiv.org/abs/2307.10922)]
     * **ViC-MAE**: "Visual Representation Learning from Unlabeled Video using Contrastive Masked Autoencoders", arXiv, 2023 (*Rice University*). [[Paper](https://arxiv.org/abs/2303.12001)]
     * **SiamMAE**: "Siamese Masked Autoencoders", arXiv, 2023 (*Stanford*). [[Paper](https://arxiv.org/abs/2305.14344)][[Website](https://siam-mae-video.github.io/)]
-    * **LSS**: "Language-based Action Concept Spaces Improve Video Self-Supervised Learning", arXiv, 2023 (*Stony Brook*). [[Paper](https://arxiv.org/abs/2307.10922)]
     * **LSTA**: "Efficient Long-Short Temporal Attention Network for Unsupervised Video Object Segmentation", arXiv, 2023 (*Hangzhou Dianzi University*). [[Paper](https://arxiv.org/abs/2309.11707)]
     * **DoRA**: "Is ImageNet worth 1 video? Learning strong image encoders from 1 long unlabelled video", arXiv, 2023 (*INRIA*). [[Paper](https://arxiv.org/abs/2310.08584)]
 * X-shot:
