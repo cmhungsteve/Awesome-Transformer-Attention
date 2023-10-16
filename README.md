@@ -947,6 +947,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **ASAG**: "ASAG: Building Strong One-Decoder-Layer Sparse Detectors via Adaptive Sparse Anchor Generation", ICCV, 2023 (*Sun Yat-sen University*). [[Paper](https://arxiv.org/abs/2308.09242)][[PyTorch](https://github.com/iSEE-Laboratory/ASAG)]
     * **MIMDet**: "Unleashing Vanilla Vision Transformer with Masked Image Modeling for Object Detection", ICCV, 2023 (*Tencent*). [[Paper](https://arxiv.org/abs/2204.02964)][[PyTorch](https://github.com/hustvl/MIMDet)]
     * **Stable-DINO**: "Detection Transformer with Stable Matching", ICCV, 2023 (*IDEA*). [[Paper](https://arxiv.org/abs/2304.04742)][[Code (in construction)](https://github.com/IDEA-Research/Stable-DINO)]
+    * **Rank-DETR**: "Rank-DETR for High Quality Object Detection", NeurIPS, 2023 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2310.08854)]
     * **KS-DETR**: "KS-DETR: Knowledge Sharing in Attention Learning for Detection Transformer", arXiv, 2023 (*Toyota Technological Institute*). [[Paper](https://arxiv.org/abs/2302.11208)][[PyTorch](https://github.com/edocanonymous/KS-DETR)]
     * **FeatAug-DETR**: "FeatAug-DETR: Enriching One-to-Many Matching for DETRs with Feature Augmentation", arXiv, 2023 (*CUHK*). [[Paper](https://arxiv.org/abs/2303.01503)][[Codee (in construction)](https://github.com/rongyaofang/FeatAug-DETR)]
     * **RT-DETR**: "DETRs Beat YOLOs on Real-time Object Detection", arXiv, 2023 (*Baidu*). [[Paper](https://arxiv.org/abs/2304.08069)]
@@ -1615,6 +1616,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **Symphonies**: "Symphonize 3D Semantic Scene Completion with Contextual Instance Queries", arXiv, 2023 (*Horizon Robotics*). [[Paper](https://arxiv.org/abs/2306.15670)][[PyTorch](https://github.com/hustvl/Symphonies)]
     * **TFS3D**: "Less is More: Towards Efficient Few-shot 3D Semantic Segmentation via Training-free Networks", arXiv, 2023 (*CUHK*). [[Paper](https://arxiv.org/abs/2308.12961)][[PyTorch](https://github.com/yangyangyang127/TFS3D)]
     * **CIP-WPIS**: "When 3D Bounding-Box Meets SAM: Point Cloud Instance Segmentation with Weak-and-Noisy Supervision", arXiv, 2023 (*Australian National University*). [[Paper](https://arxiv.org/abs/2309.00828)]
+    * **?**: "SAM-guided Unsupervised Domain Adaptation for 3D Segmentation", arXiv, 2023 (*ShanghaiTech*). [[Paper](https://arxiv.org/abs/2310.08820)]
 * Multi-Task:
     * **InvPT**: "Inverted Pyramid Multi-task Transformer for Dense Scene Understanding", ECCV, 2022 (*HKUST*). [[Paper](https://arxiv.org/abs/2203.07997)][[PyTorch](https://github.com/prismformore/Multi-Task-Transformer)]
     * **MTFormer**: "MTFormer: Multi-task Learning via Transformer and Cross-Task Reasoning", ECCV, 2022 (*CUHK*). [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/1353_ECCV_2022_paper.php)]
