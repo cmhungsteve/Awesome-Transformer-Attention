@@ -537,6 +537,8 @@ If you find this repository useful, please consider citing this list:
     * **ITIT**: "Leveraging Unpaired Data for Vision-Language Generative Models via Cycle Consistency", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2310.03734)]
     * **SimVLG**: "SimVLG: Simple and Efficient Pretraining of Visual Language Generative Models", arXiv, 2023 (*ByteDance*). [[Paper](https://arxiv.org/abs/2310.03291)]
     * **VeCLIP**: "From Scarcity to Efficiency: Improving CLIP Training via Visual-enriched Captions", arXiv, 2023 (*Apple*). [[Paper](https://arxiv.org/abs/2310.07699)]
+    * **PaLI-3**: "PaLI-3 Vision Language Models: Smaller, Faster, Stronger", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2310.09199)]
+    * **COMM**: "From CLIP to DINO: Visual Encoders Shout in Multi-modal Large Language Models", arXiv, 2023 (*Huawei*). [[Paper](https://arxiv.org/abs/2310.08825)][[PyTorch (in construction)](https://github.com/YuchenLiu98/COMM)]
 * Video:
     * **COOT**: "COOT: Cooperative Hierarchical Transformer for Video-Text Representation Learning", NeurIPS, 2020 (*University of Freiburg*). [[Paper](https://arxiv.org/abs/2011.00597)][[PyTorch](https://github.com/gingsi/coot-videotext)]
     * **Parameter-Reduction**: "Parameter Efficient Multimodal Transformers for Video Representation Learning", ICLR, 2021 (*Seoul National University*). [[Paper](https://openreview.net/forum?id=6UdQLhqJyFD)]
@@ -806,6 +808,7 @@ If you find this repository useful, please consider citing this list:
     * **Kosmos-G**: "Kosmos-G: Generating Images in Context with Multimodal Large Language Models", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2310.02992)][[PyTorch](https://github.com/microsoft/unilm/tree/master/kosmos-g)][[Website](https://xichenpan.com/kosmosg/)]
     * **AlignProp**: "Aligning Text-to-Image Diffusion Models with Reward Backpropagation", arXiv, 2023 (*CMU*). [[Paper](https://arxiv.org/abs/2310.03739)][[PyTorch](https://github.com/mihirp1998/AlignProp/)][[Website](https://align-prop.github.io/)]
     * **Idea2Img**: "Idea2Img: Iterative Self-Refinement with GPT-4V(ision) for Automatic Image Design and Generation", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2310.08541)][[Website](https://idea2img.github.io/)]
+    * **EasyGen**: "Making Multimodal Generation Easier: When Diffusion Models Meet LLMs", arXiv, 2023 (*The Hong Kong Polytechnic University*). [[Paper](https://arxiv.org/abs/2310.08949)][[PyTorch](https://github.com/zxy556677/EasyGen)]
 * Video:
     * **Imagen-Video**: "Imagen Video: High Definition Video Generation with Diffusion Models", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2210.02303)][[Website](https://imagen.research.google/video/)]
     * **Phenaki**: "Phenaki: Variable Length Video Generation From Open Domain Textual Description", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2210.02399)][[PyTorch (LAION-AI, in construction)](https://github.com/LAION-AI/phenaki)][[Website](https://phenaki.video/)]
