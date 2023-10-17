@@ -147,6 +147,7 @@ If you find this repository useful, please consider citing this list:
 * **MATE**: "MATE: Masked Autoencoders are Online 3D Test-Time Learners", ICCV, 2023 (*Graz University of Technology, Austria*). [[Paper](https://arxiv.org/abs/2211.11432)]
 * **DeFormer**: "DeFormer: Integrating Transformers with Deformable Models for 3D Shape Abstraction from a Single Image", ICCV, 2023 (*Rutgers*). [[Paper](https://arxiv.org/abs/2309.12594)]
 * **RegFormer**: "RegFormer: An Efficient Projection-Aware Transformer Network for Large-Scale Point Cloud Registration", ICCV, 2023 (*Shanghai Jiao Tong*). [[Paper](https://arxiv.org/abs/2303.12384)][[PyTorch](https://github.com/IRMVLab/RegFormer)]
+* **JM3D**: "Beyond First Impressions: Integrating Joint Multi-modal Cues for Comprehensive 3D Representation", ACMMM, 2023 (*NetEase, China*). [[Paper](https://arxiv.org/abs/2308.02982)][[PyTorch](https://github.com/Mr-Neko/JM3D)]
 * **GeoTransformer**: "GeoTransformer: Fast and Robust Point Cloud Registration with Geometric Transformer", TPAMI, 2023 (*National University of Defense Technology, China*). [[Paper](https://arxiv.org/abs/2308.03768)][[PyTorch](https://github.com/qinzheng93/GeoTransformer)]
 * **Text4Point**: "Joint Representation Learning for Text and 3D Point Cloud", arXiv, 2023 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2301.07584)][[Code (in construction)](https://github.com/LeapLabTHU/Text4Point)]
 * **FullFormer**: "FullFormer: Generating Shapes Inside Shapes", arXiv, 2023 (*University of Siegen, Germany*). [[Paper](https://arxiv.org/abs/2303.11235)]
@@ -164,6 +165,7 @@ If you find this repository useful, please consider citing this list:
 * **PointCAM**: "Self-supervised adversarial masking for 3D point cloud representation learning", arXiv, 2023 (*Wrocław University of Science and Technology, Poland*). [[Paper](https://arxiv.org/abs/2307.05325)][[PyTorch](https://github.com/szacho/pointcam)]
 * **PPT**: "Towards Large-scale 3D Representation Learning with Multi-dataset Point Prompt Training", arXiv, 2023 (*HKU*). [[Paper](https://arxiv.org/abs/2308.09718)][[PyTorch](https://github.com/Pointcept/Pointcept)]
 * **Uni3D**: "Uni3D: Exploring Unified 3D Representation at Scale", arXiv, 2023 (*BAAI*). [[Paper](https://arxiv.org/abs/2310.06773)][[PyTorch](https://github.com/baaivision/Uni3D)]
+* **JM3D**: "JM3D & JM3D-LLM: Elevating 3D Representation with Joint Multi-modal Cues", arXiv, 2023 (*Xiamen University*). [[Paper](https://arxiv.org/abs/2310.09503)][[PyTorch](https://github.com/Mr-Neko/JM3D)]
 
 [[Back to Overview](#overview)]
 
@@ -445,6 +447,7 @@ If you find this repository useful, please consider citing this list:
     * **CoralStyleCLIP**: "CoralStyleCLIP: Co-optimized Region and Layer Selection for Image Editing", CVPR, 2023 (*Adobe*). [[Paper](https://arxiv.org/abs/2303.05031)]
     * **CLIP2Protect**: "CLIP2Protect: Protecting Facial Privacy Using Text-Guided Makeup via Adversarial Latent Search", CVPR, 2023 (*MBZUAI*). [[Paper](https://arxiv.org/abs/2306.10008)][[Code (in construction)](https://github.com/fahadshamshad/Clip2Protect)]
     * **PATMAT**: "PATMAT: Person Aware Tuning of Mask-Aware Transformer for Face Inpainting", ICCV, 2023 (*CMU*). [[Paper](https://arxiv.org/abs/2304.06107)]
+    * **HairCLIPv2**: "HairCLIPv2: Unifying Hair Editing via Proxy Feature Blending", ICCV, 2023 (*USTC*). [[Paper](https://arxiv.org/abs/2310.10651)][[Code (in construction)](https://github.com/wty-ustc/HairCLIPv2)]
     * **RestoreFormer++**: "RestoreFormer++: Towards Real-World Blind Face Restoration from Undegraded Key-Value Pairs", arXiv, 2023 (*HKU*). [[Paper](https://arxiv.org/abs/2308.07228)]
 * Facial Expression:
     * **TransFER**: "TransFER: Learning Relation-aware Facial Expression Representations with Transformers", ICCV, 2021 (*CAS*). [[Paper](https://arxiv.org/abs/2108.11116)]
@@ -1419,6 +1422,7 @@ If you find this repository useful, please consider citing this list:
 * **XrayGPT**: "XrayGPT: Chest Radiographs Summarization using Medical Vision-Language Models", arXiv, 2023 (*MBZUAI*). [[Paper](https://arxiv.org/abs/2306.07971)][[PyTorch](https://github.com/mbzuai-oryx/XrayGPT)]
 * **CONCH**: "Towards a Visual-Language Foundation Model for Computational Pathology", arXiv, 2023 (*Harvard*). [[Paper](https://arxiv.org/abs/2307.12914)]
 * **Med-Flamingo**: "Med-Flamingo: a Multimodal Medical Few-shot Learner", arXiv, 2023 (*Stanford*). [[Paper](https://arxiv.org/abs/2307.15189)][[PyTorch](https://github.com/snap-stanford/med-flamingo)]
+* **?**: "Can GPT-4V(ision) Serve Medical Applications? Case Studies on GPT-4V for Multimodal Medical Diagnosis", arXiv, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2310.09909)][[GitHub](https://github.com/chaoyi-wu/GPT-4V_Medical_Evaluation)]
 
 [[Back to Overview](#overview)]
 
@@ -1685,6 +1689,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **GL-MCM**: "Zero-Shot In-Distribution Detection in Multi-Object Settings Using Vision-Language Foundation Models", arXiv, 2023 (*The University of Tokyo*). [[Paper](https://arxiv.org/abs/2304.04521)]
     * **LoCoOp**: "LoCoOp: Few-Shot Out-of-Distribution Detection via Prompt Learning", arXiv, 2023 (*The University of Tokyo*). [[Paper](https://arxiv.org/abs/2306.01293)][[Code (in construction)](https://github.com/AtsuMiyai/LoCoOp)]
     * **?**: "Distilling Large Vision-Language Model with Out-of-Distribution Generalizability", arXiv, 2023 (*UCSD*). [[Paper](https://arxiv.org/abs/2307.03135)][[PyTorch](https://github.com/xuanlinli17/large_vlm_distillation_ood)]
+    * **CLIP-OOD**: "Does CLIP's Generalization Performance Mainly Stem from High Train-Test Similarity?", arXiv, 2023 (*University of Tübingen*). [[Paper](https://arxiv.org/abs/2310.09562)]
 * Pedestrian Intention:
     * **IntFormer**: "IntFormer: Predicting pedestrian intention with the aid of the Transformer architecture", arXiv, 2021 (*Universidad de Alcala*). [[Paper](https://arxiv.org/abs/2105.08647)]
 * Physics Simulation:
