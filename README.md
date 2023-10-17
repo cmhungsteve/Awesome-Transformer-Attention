@@ -131,6 +131,7 @@ If you find this repository useful, please consider citing this list:
 * "Vision + Language Applications: A Survey", CVPRW, 2023 (*Ritsumeikan University, Japan*). [[Paper](https://arxiv.org/abs/2305.14598)][[GitHub](https://github.com/Yutong-Zhou-cv/Awesome-Text-to-Image)]
 * "Multimodal Learning With Transformers: A Survey", TPAMI, 2023 (*Tsinghua & Oxford*). [[Paper](https://arxiv.org/abs/2206.06488)]
 * "A Survey of Visual Transformers", TNNLS, 2023 (*CAS*). [[Paper](https://arxiv.org/abs/2111.06091)][[GitHub](https://github.com/arekavandi/Transformer-SOD)]
+* "A Survey on Video Diffusion Models", arXiv, 2023 (*Fudan*). [[Paper](https://arxiv.org/abs/2310.10647)][[GitHub](https://github.com/ChenHsing/Awesome-Video-Diffusion-Models)]
 * "The Dawn of LMMs: Preliminary Explorations with GPT-4V(ision)", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2309.17421)]
 * "Multimodal Foundation Models: From Specialists to General-Purpose Assistants", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2309.10020)]
 * "Transformers in Small Object Detection: A Benchmark and Survey of State-of-the-Art", arXiv, 2023 (*University of Western Australia*). [[Paper](https://arxiv.org/abs/2309.04902)]
