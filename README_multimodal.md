@@ -809,6 +809,7 @@ If you find this repository useful, please consider citing this list:
     * **AlignProp**: "Aligning Text-to-Image Diffusion Models with Reward Backpropagation", arXiv, 2023 (*CMU*). [[Paper](https://arxiv.org/abs/2310.03739)][[PyTorch](https://github.com/mihirp1998/AlignProp/)][[Website](https://align-prop.github.io/)]
     * **Idea2Img**: "Idea2Img: Iterative Self-Refinement with GPT-4V(ision) for Automatic Image Design and Generation", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2310.08541)][[Website](https://idea2img.github.io/)]
     * **EasyGen**: "Making Multimodal Generation Easier: When Diffusion Models Meet LLMs", arXiv, 2023 (*The Hong Kong Polytechnic University*). [[Paper](https://arxiv.org/abs/2310.08949)][[PyTorch](https://github.com/zxy556677/EasyGen)]
+    * **LLM-Blueprint**: "LLM Blueprint: Enabling Text-to-Image Generation with Complex and Detailed Prompts", arXiv, 2023 (*MBZUAI*). [[Paper](https://arxiv.org/abs/2310.10640)][[Code (in construction)](https://github.com/hananshafi/llmblueprint)]
 * Video:
     * **Imagen-Video**: "Imagen Video: High Definition Video Generation with Diffusion Models", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2210.02303)][[Website](https://imagen.research.google/video/)]
     * **Phenaki**: "Phenaki: Variable Length Video Generation From Open Domain Textual Description", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2210.02399)][[PyTorch (LAION-AI, in construction)](https://github.com/LAION-AI/phenaki)][[Website](https://phenaki.video/)]
@@ -1093,7 +1094,9 @@ If you find this repository useful, please consider citing this list:
     * **ZOOM**: "Zero-shot Model Diagnosis", CVPR, 2023 (*CMU*). [[Paper](https://arxiv.org/abs/2303.15441)]
     * **?**: "On the Generalization of Multi-modal Contrastive Learning", ICML, 2023 (*Peking*). [[Paper](https://arxiv.org/abs/2306.04272)][[PyTorch](https://github.com/PKU-ML/CLIP-Help-SimCLR)]
     * **?**: "Learning Concise and Descriptive Attributes for Visual Recognition", ICCV, 2023 (*UCSD*). [[Paper](https://arxiv.org/abs/2308.03685)]
+    * **LICO**: "LICO: Explainable Models with Language-Image Consistency", NeurIPS, 2023 (*Fudan*). [[Paper](https://arxiv.org/abs/2310.09821)][[Code (in construction)](https://github.com/ymLeiFDU/LICO)]
     * **?**: "Interpreting CLIP's Image Representation via Text-Based Decomposition", arXiv, 2023 (*Berkeley*). [[Paper](https://arxiv.org/abs/2310.05916)][[PyTorch](https://github.com/yossigandelsman/clip_prs)][[Website](https://yossigandelsman.github.io/clip_decomposition/)]
+    * **vit-interpret**: "Interpreting and Controlling Vision Foundation Models via Text Explanations", arXiv, 2023 (*Columbia*). [[Paper](https://arxiv.org/abs/2310.10591)][[PyTorch](https://github.com/tonychenxyz/vit-interpret)]
 * Speaker Localization:
     * **?**: "The Right to Talk: An Audio-Visual Transformer Approach", ICCV, 2021 (*University of Arkansas*). [[Paper](https://arxiv.org/abs/2108.03256)]
 * Multi-task:
@@ -1150,6 +1153,7 @@ If you find this repository useful, please consider citing this list:
     * **TaPA**: "Embodied Task Planning with Large Language Models", arXiv, 2023 (*Beijing University of Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2307.01848)][[PyTorch](https://github.com/Gary3410/TaPA)][[Website](https://gary3410.github.io/TaPA/)]
     * **VoxPoser**: "VoxPoser: Composable 3D Value Maps for Robotic Manipulation with Language Models", arXiv, 2023 (*Stanford*). [[Paper](https://arxiv.org/abs/2307.05973)][[Website](https://voxposer.github.io/)]
     * **RT-2**: "RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control", arXiv, 2023 (*DeepMind*). [[Paper](https://arxiv.org/abs/2307.15818)][[Website](https://robotics-transformer2.github.io/)]
+    * **VLP**: "Video Language Planning", arXiv, 2023 (*DeepMind*). [[Paper](https://arxiv.org/abs/2310.10625)][[Code (in construction)](https://github.com/video-language-planning/vlp_code)][[Website](https://video-language-planning.github.io/)]
 * Multi-modal Fusion:
     * **MICA**: "Attention Is Not Enough: Mitigating the Distribution Discrepancy in Asynchronous Multimodal Sequence Fusion", ICCV, 2021 (*Southwest Jiaotong University*). [[Paper](https://openaccess.thecvf.com/content/ICCV2021/html/Liang_Attention_Is_Not_Enough_Mitigating_the_Distribution_Discrepancy_in_Asynchronous_ICCV_2021_paper.html)]
     * **IFT**: "Image Fusion Transformer", arXiv, 2021 (*Johns Hopkins*). [[Paper](https://arxiv.org/abs/2107.09011)][[PyTorch](https://github.com/Vibashan/Image-Fusion-Transformer)]
@@ -1308,6 +1312,7 @@ If you find this repository useful, please consider citing this list:
     * **LLaVA-1.5**: "Improved Baselines with Visual Instruction Tuning", arXiv, 2023 (*UW Madison*). [[Paper](https://arxiv.org/abs/2310.03744)][[PyTorch](https://github.com/haotian-liu/LLaVA)][[Website](https://llava-vl.github.io/)]
     * **MiniGPT-5**: "MiniGPT-5: Interleaved Vision-and-Language Generation via Generative Vokens", arXiv, 2023 (*UC Santa Cruz*). [[Paper](https://arxiv.org/abs/2310.02239)][[PyTorch](https://github.com/eric-ai-lab/MiniGPT-5)]
     * **Ferret**: "Ferret: Refer and Ground Anything Anywhere at Any Granularity", arXiv, 2023 (*Apple*). [[Paper](https://arxiv.org/abs/2310.07704)][[Code (in construction)](https://github.com/apple/ml-ferret)]
+    * **MiniGPT-v2**: "MiniGPT-v2: large language model as a unified interface for vision-language multi-task learning", arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2310.09478)][[PyTorch](https://github.com/Vision-CAIR/MiniGPT-4)][[Website](https://minigpt-v2.github.io/)]
 * Visual Reasoning:
     * **BDC-Adapter**: "BDC-Adapter: Brownian Distance Covariance for Better Vision-Language Reasoning", BMVC, 2023 (*SUSTech*). [[Paper](https://arxiv.org/abs/2309.01256)]
     * **RPT**: "Fine-Grained Regional Prompt Tuning for Visual Abductive Reasoning", arXiv, 2023 (*A\*STAR*). [[Paper](https://arxiv.org/abs/2303.10428)]
