@@ -166,6 +166,7 @@ If you find this repository useful, please consider citing this list:
 * **PPT**: "Towards Large-scale 3D Representation Learning with Multi-dataset Point Prompt Training", arXiv, 2023 (*HKU*). [[Paper](https://arxiv.org/abs/2308.09718)][[PyTorch](https://github.com/Pointcept/Pointcept)]
 * **Uni3D**: "Uni3D: Exploring Unified 3D Representation at Scale", arXiv, 2023 (*BAAI*). [[Paper](https://arxiv.org/abs/2310.06773)][[PyTorch](https://github.com/baaivision/Uni3D)]
 * **JM3D**: "JM3D & JM3D-LLM: Elevating 3D Representation with Joint Multi-modal Cues", arXiv, 2023 (*Xiamen University*). [[Paper](https://arxiv.org/abs/2310.09503)][[PyTorch](https://github.com/Mr-Neko/JM3D)]
+* **PonderV2**: "PonderV2: Pave the Way for 3D Foundation Model with A Universal Pre-training Paradigm", arXiv, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2310.08586)][[Code (in construction)](https://github.com/OpenGVLab/PonderV2)]
 
 [[Back to Overview](#overview)]
 
@@ -755,6 +756,7 @@ If you find this repository useful, please consider citing this list:
     * **ProRes**: "ProRes: Exploring Degradation-aware Visual Prompt for Universal Image Restoration", arXiv, 2023 (*Horizon Robotics*). [[Paper](https://arxiv.org/abs/2306.13653)][[PyTorch (in construction)](https://github.com/leonmakise/ProRes)]
     * **C2F-DFT**: "Learning A Coarse-to-Fine Diffusion Transformer for Image Restoration", arXiv, 2023 (*Dalian University of Technology*). [[Paper](https://arxiv.org/abs/2308.08730)][[PyTorch (in construction)](https://github.com/wlydlut/C2F-DFT)]
     * **DA-CLIP**: "Controlling Vision-Language Models for Universal Image Restoration", arXiv, 2023 (*Uppsala University, Sweden*). [[Paper](https://arxiv.org/abs/2310.01018)][[PyTorch](https://github.com/Algolzw/daclip-uir)][[Website](https://algolzw.github.io/daclip-uir/index.html)]
+    * **AutoDIR**: "AutoDIR: Automatic All-in-One Image Restoration with Latent Diffusion", arXiv, 2023 (*CUHK*). [[Paper](https://arxiv.org/abs/2310.10123)]
 * Super-Resolution:
     * **SAN**: "Second-Order Attention Network for Single Image Super-Resolution", CVPR, 2019 (*Tsinghua*). [[Paper](https://openaccess.thecvf.com/content_CVPR_2019/html/Dai_Second-Order_Attention_Network_for_Single_Image_Super-Resolution_CVPR_2019_paper.html)][[PyTorch](https://github.com/daitao/SAN)]
     * **CS-NL**: "Image Super-Resolution with Cross-Scale Non-Local Attention and Exhaustive Self-Exemplars Mining", CVPR, 2020 (*UIUC*). [[Paper](https://arxiv.org/abs/2006.01424)][[PyTorch](https://github.com/SHI-Labs/Cross-Scale-Non-Local-Attention)]
@@ -1119,6 +1121,7 @@ If you find this repository useful, please consider citing this list:
     * **RHWF**: "Recurrent Homography Estimation Using Homography-Guided Image Warping and Focus Transformer", CVPR, 2023 (*Zhejiang University*). [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Cao_Recurrent_Homography_Estimation_Using_Homography-Guided_Image_Warping_and_Focus_Transformer_CVPR_2023_paper.html)][[Code (in construction)](https://github.com/imdumpl78/rhwf)]
     * **M2T**: "M2T: Masking Transformers Twice for Faster Decoding", ICCV, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2304.07313)]
     * **CTM**: "Unfolding Framework with Prior of Convolution-Transformer Mixture and Uncertainty Estimation for Video Snapshot Compressive Imaging", ICCV, 2023 (*CAS*). [[Paper](https://arxiv.org/abs/2306.11316)]
+    * **PromptGIP**: "Unifying Image Processing as Visual Prompting Question Answering", arXiv, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2310.10513)]
 
 [[Back to Overview](#overview)]
 
@@ -1744,7 +1747,8 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **SRT**: "Scene Representation Transformer: Geometry-Free Novel View Synthesis Through Set-Latent Scene Representations", CVPR, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2111.13152)][[PyTorch (stelzner)](https://github.com/stelzner/srt)][[Website](https://srt-paper.github.io/)]
     * **OSRT**: "Object Scene Representation Transformer", NeurIPS, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2206.06922)][[Website](https://osrt-paper.github.io/)]
     * **Prompter**: "Prompter: Utilizing Large Language Model Prompting for a Data Efficient Embodied Instruction Following", arXiv, 2022 (*Hitachi*). [[Paper](https://arxiv.org/abs/2211.03267)]
-    * **RePAST**: "RePAST: Relative Pose Attention Scene Representation Transformer", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2304.00947)] 
+    * **RePAST**: "RePAST: Relative Pose Attention Scene Representation Transformer", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2304.00947)]
+    * **GTA**: "GTA: A Geometry-Aware Attention Mechanism for Multi-View Transformers", arXiv, 2023 (*University of Tubingen*). [[Paper](https://arxiv.org/abs/2310.10375)]
 * Scene Text Recognition:
     * **ViTSTR**: "Vision Transformer for Fast and Efficient Scene Text Recognition", ICDAR, 2021 (*University of the Philippines*). [[Paper](https://arxiv.org/abs/2105.08582)]
     * **STKM**: "Self-attention based Text Knowledge Mining for Text Detection", CVPR, 2021 (*?*). [[Paper]()][[Code (in construction)](https://github.com/CVI-SZU/STKM)]
