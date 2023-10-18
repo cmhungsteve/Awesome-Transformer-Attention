@@ -573,6 +573,7 @@ If you find this repository useful, please consider citing this list:
     * **E<sup>3</sup>VA**: "Parameter-efficient is not sufficient: Exploring Parameter, Memory, and Time Efficient Adapter Tuning for Dense Predictions", arXiv, 2023 (*Alibaba + Microsoft*). [[Paper](https://arxiv.org/abs/2306.09729)]
     * **Minimax**: "Task-Robust Pre-Training for Worst-Case Downstream Adaptation", arXiv, 2023 (*Peking*). [[Paper](https://arxiv.org/abs/2306.12070)]
     * **HST**: "Hierarchical Side-Tuning for Vision Transformers", arXiv, 2023 (*Alibaba*). [[Paper](https://arxiv.org/abs/2310.05393)][[Code (in construction)](https://github.com/AFeng-x/HST)]
+    * **PELA**: "PELA: Learning Parameter-Efficient Models with Low-Rank Approximation", arXiv, 2023 (*NUS*). [[Paper](https://arxiv.org/abs/2310.10700)][[PyTorch](https://github.com/guoyang9/PELA)]
 * Domain Adaptation/Domain Generalization/Federated Learning:
     * **TransDA**: "Transformer-Based Source-Free Domain Adaptation", arXiv, 2021 (*Haerbin Institute of Technology*). [[Paper](https://arxiv.org/abs/2105.14138)][[PyTorch](https://github.com/ygjwd12345/TransDA)]
     * **TVT**: "TVT: Transferable Vision Transformer for Unsupervised Domain Adaptation", arXiv, 2021 (*UT Arlington + Kuaishou*). [[Paper](https://arxiv.org/abs/2108.05988)]
