@@ -313,6 +313,7 @@ If you find this repository useful, please consider citing this list:
     * **LG-DVG**: "Language-Guided Diffusion Model for Visual Grounding", arXiv, 2023 (*University of Toronto*). [[Paper](https://arxiv.org/abs/2308.09599)]
     * **VGDiffZero**: "VGDiffZero: Text-to-image Diffusion Models Can Be Zero-shot Visual Grounders", arXiv, 2023 (*Westlake University, China*). [[Paper](https://arxiv.org/abs/2309.01141)]
     * **GREC**: "GREC: Generalized Referring Expression Comprehension", arXiv, 2023 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2308.16182)][[Website](https://henghuiding.github.io/GRES/)]
+    * **SoM**: "Set-of-Mark Prompting Unleashes Extraordinary Visual Grounding in GPT-4V", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2310.11441)][[Code (in construction)](https://github.com/microsoft/SoM)][[Website](https://som-gpt4v.github.io/)]
 * Video:
     * **Multi-Stage-Transformer**: "Multi-Stage Aggregated Transformer Network for Temporal Language Localization in Videos", CVPR, 2021 (*University of Electronic Science and Technology of China*). [[Paper](https://openaccess.thecvf.com/content/CVPR2021/html/Zhang_Multi-Stage_Aggregated_Transformer_Network_for_Temporal_Language_Localization_in_Videos_CVPR_2021_paper.html)]
     * **GTR**: "On Pursuit of Designing Multi-modal Transformer for Video Grounding", EMNLP, 2021 (*Peking*). [[Paper](https://arxiv.org/abs/2109.06085)]
