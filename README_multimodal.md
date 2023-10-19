@@ -812,6 +812,7 @@ If you find this repository useful, please consider citing this list:
     * **Idea2Img**: "Idea2Img: Iterative Self-Refinement with GPT-4V(ision) for Automatic Image Design and Generation", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2310.08541)][[Website](https://idea2img.github.io/)]
     * **EasyGen**: "Making Multimodal Generation Easier: When Diffusion Models Meet LLMs", arXiv, 2023 (*The Hong Kong Polytechnic University*). [[Paper](https://arxiv.org/abs/2310.08949)][[PyTorch](https://github.com/zxy556677/EasyGen)]
     * **LLM-Blueprint**: "LLM Blueprint: Enabling Text-to-Image Generation with Complex and Detailed Prompts", arXiv, 2023 (*MBZUAI*). [[Paper](https://arxiv.org/abs/2310.10640)][[Code (in construction)](https://github.com/hananshafi/llmblueprint)]
+    * **DiagrammerGPT**: "DiagrammerGPT: Generating Open-Domain, Open-Platform Diagrams via LLM Planning", arXiv, 2023 (*UNC*). [[Paper](https://arxiv.org/abs/2310.12128)][[PyThon](https://github.com/aszala/DiagrammerGPT)][[Website](https://diagrammergpt.github.io/)]
 * Video:
     * **Imagen-Video**: "Imagen Video: High Definition Video Generation with Diffusion Models", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2210.02303)][[Website](https://imagen.research.google/video/)]
     * **Phenaki**: "Phenaki: Variable Length Video Generation From Open Domain Textual Description", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2210.02399)][[PyTorch (LAION-AI, in construction)](https://github.com/LAION-AI/phenaki)][[Website](https://phenaki.video/)]
@@ -1008,6 +1009,7 @@ If you find this repository useful, please consider citing this list:
     * **TaCA**: "TaCA: Upgrading Your Visual Foundation Model with Task-agnostic Compatible Adapter", arXiv, 2023 (*Tencent*). [[Paper](https://arxiv.org/abs/2306.12642)][[Code (in construction)](https://github.com/TencentARC/TaCA)]
     * **ProbVLM**: "ProbVLM: Probabilistic Adapter for Frozen Vison-Language Models", arXiv, 2023 (*University of Tubingen, Germany*). [[Paper](https://arxiv.org/abs/2307.00398)]
     * **CLIP-KD**: "CLIP-KD: An Empirical Study of Distilling CLIP Models", arXiv, 2023 (*CAS*). [[Paper](https://arxiv.org/abs/2307.12732)][[Code (in construction)](https://github.com/winycg/CLIP-KD)]
+    * **AdaLink**: "Non-Intrusive Adaptation: Input-Centric Parameter-efficient Fine-Tuning for Versatile Multimodal Modeling", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2310.12100)]
 * Zero-Shot:
     * **CuPL**: "What does a platypus look like? Generating customized prompts for zero-shot image classification", arXiv, 2022 (*UW*). [[Paper](https://arxiv.org/abs/2209.03320)][[PyTorch](https://github.com/sarahpratt/CuPL)]
     * **SMs**: "Socratic Models: Composing Zero-Shot Multimodal Reasoning with Language", ICLR, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2204.00598)][[GitHub](https://github.com/google-research/google-research/tree/master/socraticmodels)][[Website](https://socraticmodels.github.io/)]
