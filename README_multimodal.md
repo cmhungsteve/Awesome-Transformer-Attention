@@ -96,6 +96,7 @@ If you find this repository useful, please consider citing this list:
     * **Cur-VL**: "Learning from Children: Improving Image-Caption Pretraining via Curriculum", ACL Findings, 2023 (*Columbia*). [[Paper](https://arxiv.org/abs/2305.17540)][[Code (in construction)](https://github.com/hayyubi/cur_vl)]
     * **?**: "Text-Only Training for Visual Storytelling", ACMMM, 2023 (*USTC*). [[Paper](https://arxiv.org/abs/2308.08881)]
     * **CgT-GAN**: "CgT-GAN: CLIP-guided Text GAN for Image Captioning", ACMMM, 2023 (*USTC*). [[Paper](https://arxiv.org/abs/2308.12045)][[PyTorch](https://github.com/Lihr747/CgtGAN)]
+    * **CLAIR**: "CLAIR: Evaluating Image Captions with Large Language Models", EMNLP, 2023 (*Berkeley*). [[Paper](https://arxiv.org/abs/2310.12971)][[Code](https://github.com/davidmchan/clair)][[Website](https://davidmchan.github.io/clair/)]
     * **Re-ViLM**: "Re-ViLM: Retrieval-Augmented Visual Language Model for Zero and Few-Shot Image Captioning", arXiv, 2023 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2302.04858)]
     * **Knight**: "From Association to Generation: Text-only Captioning by Unsupervised Cross-modal Mapping", arXiv, 2023 (*Alibaba*). [[Paper](https://arxiv.org/abs/2304.13273)][[PyTorch](https://github.com/junyangwang0410/Knight)]
     * **VTT**: "Visual Transformation Telling", arXiv, 2023 (*CAS*). [[Paper](https://arxiv.org/abs/2305.01928)]
@@ -842,6 +843,7 @@ If you find this repository useful, please consider citing this list:
     * **SDS-Complete**: "Point-Cloud Completion with Pretrained Text-to-image Diffusion Models", arXiv, 2023 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2306.10533)][[Website](https://sds-complete.github.io/)]
     * **Michelangelo**: "Michelangelo: Conditional 3D Shape Generation based on Shape-Image-Text Aligned Latent Representation", arXiv, 2023 (*Tencent*). [[Paper](https://arxiv.org/abs/2306.17115)][[Code (in construction)(https://github.com/NeuralCarver/michelangelo)]][[Website](https://neuralcarver.github.io/michelangelo/)]
     * **DiffTF**: "Large-Vocabulary 3D Diffusion Model with Transformer", arXiv, 2023 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2309.07920)][[Code (in construction)](https://github.com/ziangcao0312/DiffTF)][[Website](https://ziangcao0312.github.io/difftf_pages/)]
+    * **3D-GPT**: "3D-GPT: Procedural 3D Modeling with Large Language Models", arXiv, 2023 (*ANU*). [[Paper](https://arxiv.org/abs/2310.12945)][[Website](https://chuny1.github.io/3DGPT/3dgpt.html)]
 * Others:
     * **DiffGesture**: "Taming Diffusion Models for Audio-Driven Co-Speech Gesture Generation", CVPR, 2023 (*HKU*). [[Paper](https://arxiv.org/abs/2303.09119)][[PyTorch](https://github.com/Advocate99/DiffGesture)]
     * **CondFoleyGen**: "Conditional Generation of Audio from Video via Foley Analogies", CVPR, 2023 (*UMich*). [[Paper](https://arxiv.org/abs/2304.08490)][[PyTorch (in construction)](https://github.com/XYPB/CondFoleyGen)][[Website](https://xypb.github.io/CondFoleyGen/)]
@@ -1010,6 +1012,7 @@ If you find this repository useful, please consider citing this list:
     * **ProbVLM**: "ProbVLM: Probabilistic Adapter for Frozen Vison-Language Models", arXiv, 2023 (*University of Tubingen, Germany*). [[Paper](https://arxiv.org/abs/2307.00398)]
     * **CLIP-KD**: "CLIP-KD: An Empirical Study of Distilling CLIP Models", arXiv, 2023 (*CAS*). [[Paper](https://arxiv.org/abs/2307.12732)][[Code (in construction)](https://github.com/winycg/CLIP-KD)]
     * **AdaLink**: "Non-Intrusive Adaptation: Input-Centric Parameter-efficient Fine-Tuning for Versatile Multimodal Modeling", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2310.12100)]
+    * **LM4Visual**: "Frozen Transformers in Language Models Are Effective Visual Encoder Layers", arXiv, 2023 (*UIUC*). [[Paper](https://arxiv.org/abs/2310.12973)][[PyTorch (in construction)](https://github.com/ziqipang/LM4VisualEncoding)]
 * Zero-Shot:
     * **CuPL**: "What does a platypus look like? Generating customized prompts for zero-shot image classification", arXiv, 2022 (*UW*). [[Paper](https://arxiv.org/abs/2209.03320)][[PyTorch](https://github.com/sarahpratt/CuPL)]
     * **SMs**: "Socratic Models: Composing Zero-Shot Multimodal Reasoning with Language", ICLR, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2204.00598)][[GitHub](https://github.com/google-research/google-research/tree/master/socraticmodels)][[Website](https://socraticmodels.github.io/)]
