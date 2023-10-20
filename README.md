@@ -132,6 +132,8 @@ If you find this repository useful, please consider citing this list:
 * "Vision + Language Applications: A Survey", CVPRW, 2023 (*Ritsumeikan University, Japan*). [[Paper](https://arxiv.org/abs/2305.14598)][[GitHub](https://github.com/Yutong-Zhou-cv/Awesome-Text-to-Image)]
 * "Multimodal Learning With Transformers: A Survey", TPAMI, 2023 (*Tsinghua & Oxford*). [[Paper](https://arxiv.org/abs/2206.06488)]
 * "A Survey of Visual Transformers", TNNLS, 2023 (*CAS*). [[Paper](https://arxiv.org/abs/2111.06091)][[GitHub](https://github.com/arekavandi/Transformer-SOD)]
+* "Understanding Video Transformers for Segmentation: A Survey of Application and Interpretability", arXiv, 2023 (*York University*). [[Paper](https://arxiv.org/abs/2310.12296)]
+* "Unsupervised Object Localization in the Era of Self-Supervised ViTs: A Survey", arXiv, 2023 (*valeo.ai, France*). [[Paper](https://arxiv.org/abs/2310.12904)][[GitHub](https://github.com/valeoai/Awesome-Unsupervised-Object-Localization)]
 * "A Survey on Video Diffusion Models", arXiv, 2023 (*Fudan*). [[Paper](https://arxiv.org/abs/2310.10647)][[GitHub](https://github.com/ChenHsing/Awesome-Video-Diffusion-Models)]
 * "The Dawn of LMMs: Preliminary Explorations with GPT-4V(ision)", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2309.17421)]
 * "Multimodal Foundation Models: From Specialists to General-Purpose Assistants", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2309.10020)]
@@ -878,6 +880,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **?**: "Understanding Gaussian Attention Bias of Vision Transformers Using Effective Receptive Fields", arXiv, 2023 (*POSTECH*). [[Paper](https://arxiv.org/abs/2305.04722)]
 * **?**: "Reviving Shift Equivariance in Vision Transformers", arXiv, 2023 (*Maryland*). [[Paper](https://arxiv.org/abs/2306.07470)]
 * **ViT-ReciproCAM**: "ViT-ReciproCAM: Gradient and Attention-Free Visual Explanations for Vision Transformer", arXiv, 2023 (*Intel*). [[Paper](https://arxiv.org/abs/2310.02588)]
+* **Eureka-moment**: "Eureka-Moments in Transformers: Multi-Step Tasks Reveal Softmax Induced Optimization Problems", arXiv, 2023 (*Bosch*). [[Paper](https://arxiv.org/abs/2310.12956)]
 
 [[Back to Overview](#overview)]
 
@@ -1341,6 +1344,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **CFT**: "Category Feature Transformer for Semantic Segmentation", arXiv, 2023 (*Huawei*). [[Paper](https://arxiv.org/abs/2308.05581)]
 * **ICPC**: "ICPC: Instance-Conditioned Prompting with Contrastive Learning for Semantic Segmentation", arXiv, 2023 (*Alibaba*). [[Paper](https://arxiv.org/abs/2308.07078)]
 * **Superpixel-Association**: "Superpixel Transformers for Efficient Semantic Segmentation", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2309.16889)]
+* **PlainSeg**: "Minimalist and High-Performance Semantic Segmentation with Plain Vision Transformers", arXiv, 2023 (*Harbin Institute of Technology*). [[Paper](https://arxiv.org/abs/2310.12755)][[PyTorch](https://github.com/ydhongHIT/PlainSeg)]
 
 [[Back to Overview](#overview)]
 
@@ -1635,6 +1639,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * LiDAR:
     * **HelixNet**: "Online Segmentation of LiDAR Sequences: Dataset and Algorithm", CVPRW, 2022 (*CNRS, France*). [[Paper](https://arxiv.org/abs/2206.08194)][[Website](https://romainloiseau.fr/helixnet/)][[PyTorch](https://github.com/romainloiseau/Helix4D)]
     * **Gaussian-Radar-Transformer**: "Gaussian Radar Transformer for Semantic Segmentation in Noisy Radar Data", RA-L, 2022 (*University of Bonn, Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
+    * **MOST**: "Lidar Panoptic Segmentation and Tracking without Bells and Whistles", IROS, 2023 (*CMU*). [[Paper](https://arxiv.org/abs/2310.12464)][[PyTorch](https://github.com/abhinavagarwalla/most-lps)]
     * **MASK4D**: "MASK4D: Mask Transformer for 4D Panoptic Segmentation", arXiv, 2023 (*RWTH Aachen University, Germany*). [[Paper](https://arxiv.org/abs/2309.16133)]
 * Co-Segmentation:
     * **ReCo**: "ReCo: Retrieve and Co-segment for Zero-shot Transfer", NeurIPS, 2022 (*Oxford*). [[Paper](https://arxiv.org/abs/2206.07045)][[PyTorch](https://github.com/NoelShin/reco)][[Website](https://www.robots.ox.ac.uk/~vgg/research/reco/)]
@@ -1870,6 +1875,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **MUTR**: "Referred by Multi-Modality: A Unified Temporal Transformer for Video Object Segmentation", arXiv, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2305.16318)][[PyTorch](https://github.com/OpenGVLab/MUTR)]
 * **JointFormer**: "Joint Modeling of Feature, Correspondence, and a Compressed Memory for Video Object Segmentation", arXiv, 2023 (*Nanjing University*). [[Paper](https://arxiv.org/abs/2308.13505)]
 * **PanoVOS**: "PanoVOS: Bridging Non-panoramic and Panoramic Views with Transformer for Video Segmentation", arXiv, 2023 (*Fudan*). [[Paper](https://arxiv.org/abs/2309.12303)][[Code (in construction)](https://github.com/shilinyan99/PanoVOS)][[Website](https://shilinyan99.github.io/PanoVOS/index_pano.html)]
+* **Cutie**: "Putting the Object Back into Video Object Segmentation", arXiv, 2023 (*UIUC*). [[Paper](https://arxiv.org/abs/2310.12982)][[PyTorch](https://github.com/hkchengrex/Cutie)][[Website](https://hkchengrex.com/Cutie/)]
 
 [[Back to Overview](#overview)]
 
