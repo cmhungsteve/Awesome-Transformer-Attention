@@ -556,6 +556,7 @@ If you find this repository useful, please consider citing this list:
 * **PVSG**: "Panoptic Video Scene Graph Generation", CVPR, 2023 (*NTU, Singapore*). [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Yang_Panoptic_Video_Scene_Graph_Generation_CVPR_2023_paper.html)]
 * **VETO-MEET**: "Vision Relation Transformer for Unbiased Scene Graph Generation", ICCV, 2023 (*Technical University of Darmstadt, Germany*). [[Paper](https://arxiv.org/abs/2308.09472)][[PyTorch](https://github.com/visinf/veto)]
 * **TextPSG**: "TextPSG: Panoptic Scene Graph Generation from Textual Descriptions", ICCV, 2023 (*IBM*). [[Paper](https://arxiv.org/abs/2310.07056)][[Code (in construction)](https://github.com/chengyzhao/TextPSG)][[Website](https://vis-www.cs.umass.edu/TextPSG/)]
+* **HiLo**: "HiLo: Exploiting High Low Frequency Relations for Unbiased Panoptic Scene Graph Generation", ICCV, 2023 (*King's College London*). [[Paper](https://arxiv.org/abs/2303.15994)][[PyTorch](https://github.com/franciszzj/HiLo)]
 * **SGT**: "Revisiting Transformer for Point Cloud-based 3D Scene Graph Generation", arXiv, 2023 (*Beijing University of Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2303.11048)]
 
 [[Back to Overview](#overview)]
