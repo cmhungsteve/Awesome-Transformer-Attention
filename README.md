@@ -1492,6 +1492,8 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **Panoptic-PartFormer**: "Panoptic-PartFormer: Learning a Unified Model for Panoptic Part Segmentation", ECCV, 2022 (*Peking*). [[Paper](https://arxiv.org/abs/2204.04655)][[PyTorch](https://github.com/lxtGH/Panoptic-PartFormer)]
     * **CoMFormer**: "CoMFormer: Continual Learning in Semantic and Panoptic Segmentation", CVPR, 2023 (*Sorbonne Université, France*). [[Paper](https://arxiv.org/abs/2211.13999)]
     * **YOSO**: "You Only Segment Once: Towards Real-Time Panoptic Segmentation", CVPR, 2023 (*Xiamen University*). [[Paper](https://arxiv.org/abs/2303.14651)][[PyTorch](https://github.com/hujiecpp/YOSO)]
+    * **Pix2Seq-D**: "A Generalist Framework for Panoptic Segmentation of Images and Videos", ICCV, 2023 (*DeepMind*). [[Paper](https://arxiv.org/abs/2210.06366)][[Tensorflow2](https://github.com/google-research/pix2seq)]
+    * **DeepDPS**: "Towards Deeply Unified Depth-aware Panoptic Segmentation with Bi-directional Guidance Learning", ICCV, 2023 (*Dalian University of Technology*). [[Paper](https://arxiv.org/abs/2307.14786)][[Code (in construction)](https://github.com/jwh97nn/DeepDPS)]
     * **PanopticPartFormer++**: "PanopticPartFormer++: A Unified and Decoupled View for Panoptic Part Segmentation", arXiv, 2023 (*Peking*). [[Paper](https://arxiv.org/abs/2204.04655)][[PyTorch](https://github.com/lxtGH/Panoptic-PartFormer)]
 * Instance Segmentation:
     * **ISTR**: "ISTR: End-to-End Instance Segmentation with Transformers", arXiv, 2021 (*Xiamen University*). [[Paper](https://arxiv.org/abs/2105.00637)][[PyTorch](https://github.com/hujiecpp/ISTR)]
@@ -1579,6 +1581,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **UniDAformer**: "UniDAformer: Unified Domain Adaptive Panoptic Segmentation Transformer via Hierarchical Mask Calibration", CVPR, 2023 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2206.15083)]
     * **MIC**: "MIC: Masked Image Consistency for Context-Enhanced Domain Adaptation", CVPR, 2023 (*ETHZ*). [[Paper](https://arxiv.org/abs/2212.01322)][[PyTorch](https://github.com/lhoyer/MIC)]
     * **CDAC**: "CDAC: Cross-domain Attention Consistency in Transformer for Domain Adaptive Semantic Segmentation", ICCV, 2023 (*Boston*). [[Paper](https://openaccess.thecvf.com/content/ICCV2023/html/Wang_CDAC_Cross-domain_Attention_Consistency_in_Transformer_for_Domain_Adaptive_Semantic_ICCV_2023_paper.html)][[PyTorch](https://github.com/wangkaihong/CDAC)]
+    * **EDAPS**: "EDAPS: Enhanced Domain-Adaptive Panoptic Segmentation", ICCV, 2023 (*ETHZ*). [[Paper](https://arxiv.org/abs/2304.14291)][[PyTorch](https://github.com/susaha/edaps)]
     * **PTDiffSeg**: "Prompting Diffusion Representations for Cross-Domain Semantic Segmentation", arXiv, 2023 (*ETHZ*). [[Paper](https://arxiv.org/abs/2307.02138)][[Code (in construction)](https://github.com/ETHRuiGong/PTDiffSeg)]
 * Continual Learning:
     * **TISS**: "Delving into Transformer for Incremental Semantic Segmentation", arXiv, 2022 (*Tencent*). [[Paper](https://arxiv.org/abs/2211.10253)]
