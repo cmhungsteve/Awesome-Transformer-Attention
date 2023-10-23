@@ -624,11 +624,11 @@ If you find this repository useful, please consider citing this list:
 * **MFF**: "Improving Pixel-based MIM by Reducing Wasted Modeling Capability", ICCV, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2308.00261)][[PyTorch](https://github.com/open-mmlab/mmpretrain)]
 * **TL-Align**: "Token-Label Alignment for Vision Transformers", ICCV, 2023 (*Tsinghua University*). [[Paper](https://arxiv.org/abs/2210.06455)][[PyTorch](https://github.com/Euphoria16/TL-Align)]
 * **SMMix**: "SMMix: Self-Motivated Image Mixing for Vision Transformers", ICCV, 2023 (*Xiamen University*). [[Paper](https://arxiv.org/abs/2212.12977)][[PyTorch](https://github.com/ChenMnZ/SMMix)]
+* **DiffMAE**: "Diffusion Models as Masked Autoencoders", ICCV, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2304.03283)][[Website](https://weichen582.github.io/diffmae.html)]
 * **CountBench**: "Teaching CLIP to Count to Ten", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2302.12066)]
 * **CCViT**: "Centroid-centered Modeling for Efficient Vision Transformer Pre-training", arXiv, 2023 (*Wuhan University*). [[Paper](https://arxiv.org/abs/2303.04664)]
 * **SoftCLIP**: "SoftCLIP: Softer Cross-modal Alignment Makes CLIP Stronger", arXiv, 2023 (*Tencent*). [[Paper](https://arxiv.org/abs/2303.17561)]
 * **MAE-WSP**: "The effectiveness of MAE pre-pretraining for billion-scale pretraining", arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2303.13496)]
-* **DiffMAE**: "Diffusion Models as Masked Autoencoders", arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2304.03283)][[Website](https://weichen582.github.io/diffmae.html)]
 * **RECLIP**: "RECLIP: Resource-efficient CLIP by Training with Small Images", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2304.06028)]
 * **DINOv2**: "DINOv2: Learning Robust Visual Features without Supervision", arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2304.07193)]
 * **?**: "Stable and low-precision training for large-scale vision-language models", arXiv, 2023 (*UW*). [[Paper](https://arxiv.org/abs/2304.13013)]
@@ -722,7 +722,7 @@ If you find this repository useful, please consider citing this list:
 * **TORA-ViT**: "Trade-off between Robustness and Accuracy of Vision Transformers", CVPR, 2023 (*The University of Sydney*). [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Li_Trade-Off_Between_Robustness_and_Accuracy_of_Vision_Transformers_CVPR_2023_paper.html)]
 * **BadViT**: "You Are Catching My Attention: Are Vision Transformers Bad Learners Under Backdoor Attacks?", CVPR, 2023 (*Huazhong University of Science and Technology*). [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Yuan_You_Are_Catching_My_Attention_Are_Vision_Transformers_Bad_Learners_CVPR_2023_paper.html)]
 * **?**: "Understanding and Defending Patched-based Adversarial Attacks for Vision Transformer", ICML, 2023 (*University of Pittsburgh*). [[Paper](https://openreview.net/forum?id=GR4c6Onxfw)]
-* **RobustMAE**: "Improving Adversarial Robustness of Masked Autoencoders via Test-time Frequency-domain Prompting", ICCV, 2023 (*USTC*). [[Paper](https://arxiv.org/abs/2308.10315)][[Code (in construction)](https://github.com/shikiw/RobustMAE)]
+* **RobustMAE**: "Improving Adversarial Robustness of Masked Autoencoders via Test-time Frequency-domain Prompting", ICCV, 2023 (*USTC*). [[Paper](https://arxiv.org/abs/2308.10315)][[PyTorch (in construction)](https://github.com/shikiw/RobustMAE)]
 * **?**: "Efficiently Robustify Pre-trained Models", ICCV, 2023 (*IIT Roorkee, India*). [[Paper](https://arxiv.org/abs/2309.07499)]
 * **?**: "Transferable Adversarial Attack for Both Vision Transformers and Convolutional Networks via Momentum Integrated Gradients", ICCV, 2023 (*?*). [[Paper]()]
 * **QBBA**: "Exploring Non-additive Randomness on ViT against Query-Based Black-Box Attacks", BMVC, 2023 (*Oxford*). [[Paper](https://arxiv.org/abs/2309.06438)]
@@ -1772,7 +1772,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **STAR-Transformer**: "STAR-Transformer: A Spatio-temporal Cross Attention Transformer for Human Action Recognition", WACV, 2023 (*Keimyung University, Korea*). [[Paper](https://arxiv.org/abs/2210.07503)]
     * **STMT**: "STMT: A Spatial-Temporal Mesh Transformer for MoCap-Based Action Recognition", CVPR, 2023 (*CMU*). [[Paper](https://arxiv.org/abs/2303.18177)][[Code (in construction)](https://github.com/zgzxy001/STMT)]
     * **SkeletonMAE**: "SkeletonMAE: Graph-based Masked Autoencoder for Skeleton Sequence Pre-training", ICCV, 2023 (*Sun Yat-sen University*). [[Paper](https://arxiv.org/abs/2307.08476)][[Code (in construction)](https://github.com/HongYan1123/SkeletonMAE)]
-    * **MAMP**: "Masked Motion Predictors are Strong 3D Action Representation Learners", ICCV, 2023 (*USTC*). [[Paper](https://arxiv.org/abs/2308.07092)][[Code (in construction)](https://github.com/maoyunyao/MAMP)]
+    * **MAMP**: "Masked Motion Predictors are Strong 3D Action Representation Learners", ICCV, 2023 (*USTC*). [[Paper](https://arxiv.org/abs/2308.07092)][[PyTorch](https://github.com/maoyunyao/MAMP)]
     * **LAC**: "LAC - Latent Action Composition for Skeleton-based Action Segmentation", ICCV, 2023 (*INRIA*). [[Paper](https://arxiv.org/abs/2308.14500)][[Website](https://walker1126.github.io/LAC/)]
     * **SkeleTR**: "SkeleTR: Towards Skeleton-based Action Recognition in the Wild", ICCV, 2023 (*Amazon*). [[Paper](https://arxiv.org/abs/2309.11445)]
     * **PCM<sup>3</sup>**: "Prompted Contrast with Masked Motion Modeling: Towards Versatile 3D Action Representation Learning", ACMMM, 2023 (*Peking*). [[Paper](https://arxiv.org/abs/2308.03975)][[Website](https://jhang2020.github.io/Projects/PCM3/PCM3.html)]
@@ -2090,6 +2090,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * Continual Learning:
     * **PIVOT**: "PIVOT: Prompting for Video Continual Learning", CVPR, 2023 (*KAUST*). [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Villa_PIVOT_Prompting_for_Video_Continual_Learning_CVPR_2023_paper.html)]
 * 3D:
+    * **MaST-Pre**: "Masked Spatio-Temporal Structure Prediction for Self-supervised Learning on Point Cloud Videos", ICCV, 2023 (*CloudWalk, China*). [[Paper](https://arxiv.org/abs/2308.09245)][[PyTorch](https://github.com/JohnsonSign/MaST-Pre)]
     * **EPIC-Fields**: "EPIC Fields: Marrying 3D Geometry and Video Understanding", arXiv, 2023 (*Oxford + Bristol*). [[Paper](https://arxiv.org/abs/2306.08731)][[Website](https://epic-kitchens.github.io/epic-fields/)]
 * Audio-Video:
     * **AVGN**: "Audio-Visual Glance Network for Efficient Video Recognition", ICCV, 2023 (*KAIST*). [[Paper](https://arxiv.org/abs/2308.09322)]
