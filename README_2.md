@@ -1419,6 +1419,7 @@ If you find this repository useful, please consider citing this list:
 * **PRIOR**: "PRIOR: Prototype Representation Joint Learning from Medical Images and Reports", ICCV, 2023 (*Southern University of Science and Technology*). [[Paper](https://arxiv.org/abs/2307.12577)][[Code (in construction)](https://github.com/QtacierP/PRIOR)]
 * **MedKLIP**: "MedKLIP: Medical Knowledge Enhanced Language-Image Pre-Training in Radiology", ICCV, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2301.02228)][[PyTorch](https://github.com/MediaBrain-SJTU/MedKLIP)][[Website](https://chaoyi-wu.github.io/MedKLIP/)]
 * **?**: "Localized Questions in Medical Visual Question Answering", MICCAI, 2023 (*University of Bern, Switzerland*). [[Paper](https://arxiv.org/abs/2307.01067)]
+* **CXR-CLIP**: "CXR-CLIP: Toward Large Scale Chest X-ray Language-Image Pre-training", MICCAI, 2023 (*Kakao*). [[Paper](https://arxiv.org/abs/2310.13292)]
 * **RAMM**: "RAMM: Retrieval-augmented Biomedical Visual Question Answering with Multi-modal Pre-training", arXiv, 2023 (*Alibaba*). [[Paper](https://arxiv.org/abs/2303.00534)]
 * **PT**: "Open-Ended Medical Visual Question Answering Through Prefix Tuning of Language Models", arXiv, 2023 (*University of Amsterdam*). [[Paper](https://arxiv.org/abs/2303.05977)]
 * **PMC-CLIP**: "PMC-CLIP: Contrastive Language-Image Pre-training using Biomedical Documents", arXiv, 2023 (*Shanghai Jiao Tong*). [[Paper](https://arxiv.org/abs/2303.07240)]
