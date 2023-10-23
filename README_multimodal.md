@@ -1064,6 +1064,7 @@ If you find this repository useful, please consider citing this list:
     * **EAVL**: "EAVL: Explicitly Align Vision and Language for Referring Image Segmentation", arXiv, 2023 (*CAS*). [[Paper](https://arxiv.org/abs/2308.09779)]
     * **Ref-Diff**: "Ref-Diff: Zero-shot Referring Image Segmentation with Generative Models", arXiv, 2023 (*Harbin Institute of Technology*). [[Paper](https://arxiv.org/abs/2308.16777)][[Code (in construction)](https://github.com/kodenii/Ref-Diff)]
     * **DuMoGa**: "Towards Complex-query Referring Image Segmentation: A Novel Benchmark", arXiv, 2023 (*NUS*). [[Paper](https://arxiv.org/abs/2309.17205)]
+    * **SSC**: "Segment, Select, Correct: A Framework for Weakly-Supervised Referring Segmentation", arXiv, 2023 (*Five AI, UK*). [[Paper](https://arxiv.org/abs/2310.13479)]
 * Referring Video Segmentation:
     * **ReferFormer**: "Language as Queries for Referring Video Object Segmentation", CVPR, 2022 (*HKU*). [[Paper](https://arxiv.org/abs/2201.00487)][[PyTorch](https://github.com/wjn922/ReferFormer)]
     * **MTTR**: "End-to-End Referring Video Object Segmentation with Multimodal Transformers", CVPR, 2022 (*Technion - Israel Institute of Technology*). [[Paper](https://arxiv.org/abs/2111.14821)][[PyTorch](https://github.com/mttr2021/MTTR)]
@@ -1365,6 +1366,7 @@ If you find this repository useful, please consider citing this list:
     * **Q-Bench**: "Q-Bench: A Benchmark for General-Purpose Foundation Models on Low-level Vision", arXiv, 2023 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2309.14181)]
     * **PCA-EVAL**: "Towards End-to-End Embodied Decision Making via Multi-modal Large Language Model: Explorations with GPT4-Vision and Beyond", arXiv, 2023 (*Peking*). [[Paper](https://arxiv.org/abs/2310.02071)][[Code (in construction)](https://github.com/pkunlp-icler/PCA-EVAL)]
     * **ReForm-Eval**: "ReForm-Eval: Evaluating Large Vision Language Models via Unified Re-Formulation of Task-Oriented Benchmarks", arXiv, 2023 (*Fudan*). [[Paper](https://arxiv.org/abs/2310.02569)]
+    * **?**: "Benchmarking Sequential Visual Input Reasoning and Prediction in Multimodal Large Language Models", arXiv, 2023 (*Zhejiang*). [[Paper](https://arxiv.org/abs/2310.13473)][[Code (in construction)](https://github.com/CoderJ-ONE/Giraffe-Bench)]
 * Robustness:
     * **Hierarchy-CLIP**: "Improving Zero-shot Generalization and Robustness of Multi-modal Models", CVPR, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2212.01758)][[JAX](https://github.com/gyhandy/Hierarchy-CLIP)][[Website](https://sites.google.com/usc.edu/hierarchy-clip/)]
     * **?**: "Mitigating Spurious Correlations in Multi-modal Models during Fine-tuning", ICML, 2023 (*UCLA*). [[Paper](https://arxiv.org/abs/2304.03916)]
