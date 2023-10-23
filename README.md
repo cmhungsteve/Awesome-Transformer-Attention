@@ -657,6 +657,8 @@ If you find this repository useful, please consider citing this list:
 * **MIRL**: "Masked Image Residual Learning for Scaling Deeper Vision Transformers", arXiv, 2023 (*Baidu*). [[Paper](https://arxiv.org/abs/2309.14136)]
 * **MetaCLIP**: "Demystifying CLIP Data", arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2309.16671)][[PyTorch](https://github.com/facebookresearch/MetaCLIP)]
 * **CMM**: "Investigating the Limitation of CLIP Models: The Worst-Performing Categories", arXiv, 2023 (*Nanjing University*). [[Paper](https://arxiv.org/abs/2310.03324)]
+* **LC-MAE**: "Longer-range Contextualized Masked Autoencoder", arXiv, 2023 (*NAVER*). [[Paper](https://arxiv.org/abs/2310.13593)]
+* **SILC**: "SILC: Improving Vision Language Pretraining with Self-Distillation", arXiv, 2023 (*ETHZ*). [[Paper](https://arxiv.org/abs/2310.13355)]
 #### Robustness + Transformer
 * **ViT-Robustness**: "Understanding Robustness of Transformers for Image Classification", ICCV, 2021 (*Google*). [[Paper](https://arxiv.org/abs/2103.14586)]
 * **SAGA**: "On the Robustness of Vision Transformers to Adversarial Examples", ICCV, 2021 (*University of Connecticut*). [[Paper](https://arxiv.org/abs/2104.02610)]
@@ -1575,6 +1577,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **MCTformer+**: "MCTformer+: Multi-Class Token Transformer for Weakly Supervised Semantic Segmentation", arXiv, 2023 (*The University of Western Australia*). [[Paper](https://arxiv.org/abs/2308.03005)][[PyTorch](https://github.com/xulianuwa/MCTformer)]
     * **MMC**: "Masked Momentum Contrastive Learning for Zero-shot Semantic Understanding", arXiv, 2023 (*University of Surrey, UK*). [[Paper](https://arxiv.org/abs/2308.11448)]
     * **CRATE**: "Emergence of Segmentation with Minimalistic White-Box Transformers", arXiv, 2023 (*Berkeley*). [[Paper](https://arxiv.org/abs/2308.16271)][[PyTorch](https://github.com/Ma-Lab-Berkeley/CRATE)]
+    * **?**: "Weakly-Supervised Semantic Segmentation with Image-Level Labels: from Traditional Models to Foundation Models", arXiv, 2023 (*Singapore Management University*). [[Paper](https://arxiv.org/abs/2310.13026)]
 * Cross-Domain:
     * **DAFormer**: "DAFormer: Improving Network Architectures and Training Strategies for Domain-Adaptive Semantic Segmentation", CVPR, 2022 (*ETHZ*). [[Paper](https://arxiv.org/abs/2111.14887)][[PyTorch](https://github.com/lhoyer/DAFormer)]
     * **HGFormer**: "HGFormer: Hierarchical Grouping Transformer for Domain Generalized Semantic Segmentation", CVPR, 2023 (*Wuhan University*). [[Paper](https://arxiv.org/abs/2305.13031)][[Code (in construction)](https://github.com/dingjiansw101/HGFormer)]
