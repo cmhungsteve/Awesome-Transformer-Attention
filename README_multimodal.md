@@ -213,6 +213,7 @@ If you find this repository useful, please consider citing this list:
     * **TwO**: "Combo of Thinking and Observing for Outside-Knowledge VQA", ACL, 2023 (*ByteDance*). [[Paper](https://arxiv.org/abs/2305.06407)][[Code (in construction)](https://github.com/PhoebusSi/Thinking-while-Observing)]
     * **Mod-Zero-VQA**: "Modularized Zero-shot VQA with Pre-trained Models", ACL Findings, 2023 (*Singapore Management University*). [[Paper](https://arxiv.org/abs/2305.17369)]
     * **SaL**: "Separate and Locate: Rethink the Text in Text-based Visual Question Answering", ACMMM, 2023 (*CAS*). [[Paper](https://arxiv.org/abs/2308.16383)][[Code (in construction)](https://github.com/fangbufang/SaL)]
+    * **Cola**: "Large Language Models are Visual Reasoning Coordinators", NeurIPS, 2023 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2310.15166)][[PyTorch](https://github.com/cliangyu/Cola)]
     * **InfoSeek**: "Can Pre-trained Vision and Language Models Answer Visual Information-Seeking Questions?", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2302.11713)][[Website](https://open-vision-language.github.io/infoseek/)]
     * **CoVGT**: "Contrastive Video Question Answering via Video Graph Transformer", arXiv, 2023 (*NUS*). [[Paper](https://arxiv.org/abs/2302.13668)]
     * **RVQA**: "Toward Unsupervised Realistic Visual Question Answering", arXiv, 2023 (*UCSD*). [[Paper](https://arxiv.org/abs/2303.05068)]
@@ -956,6 +957,7 @@ If you find this repository useful, please consider citing this list:
 * **Prompting4Debugging**: "Prompting4Debugging: Red-Teaming Text-to-Image Diffusion Models by Finding Problematic Prompts", arXiv, 2023 (*NYCU*). [[Paper](https://arxiv.org/abs/2309.06135)]
 * **?**: "Language Models as Black-Box Optimizers for Vision-Language Models", arXiv, 2023 (*CMU*). [[Paper](https://arxiv.org/abs/2309.05950)]
 * **DePT**: "DePT: Decoupled Prompt Tuning", arXiv, 2023 (*University of Electronic Science and Technology of China*). [[Paper](https://arxiv.org/abs/2309.07439)][[PyTorch](https://github.com/Koorye/DePT)]
+* **DEsignBench**: "DEsignBench: Exploring and Benchmarking DALL-E 3 for Imagining Visual Design", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2310.15144)][[Website](https://design-bench.github.io/)]
 
 [[Back to Overview](#overview)]
 
@@ -1369,6 +1371,7 @@ If you find this repository useful, please consider citing this list:
     * **PCA-EVAL**: "Towards End-to-End Embodied Decision Making via Multi-modal Large Language Model: Explorations with GPT4-Vision and Beyond", arXiv, 2023 (*Peking*). [[Paper](https://arxiv.org/abs/2310.02071)][[Code (in construction)](https://github.com/pkunlp-icler/PCA-EVAL)]
     * **ReForm-Eval**: "ReForm-Eval: Evaluating Large Vision Language Models via Unified Re-Formulation of Task-Oriented Benchmarks", arXiv, 2023 (*Fudan*). [[Paper](https://arxiv.org/abs/2310.02569)]
     * **?**: "Benchmarking Sequential Visual Input Reasoning and Prediction in Multimodal Large Language Models", arXiv, 2023 (*Zhejiang*). [[Paper](https://arxiv.org/abs/2310.13473)][[Code (in construction)](https://github.com/CoderJ-ONE/Giraffe-Bench)]
+    * **HallusionBench**: "HallusionBench: You See What You Think? Or You Think What You See? An Image-Context Reasoning Benchmark Challenging for GPT-4V(ision), LLaVA-1.5, and Other Multi-modality Models", arXiv, 2023 (*Maryland*). [[Paper](https://arxiv.org/abs/2310.14566)][[Code (in construction)](https://github.com/tianyi-lab/HallusionBench)]
 * Robustness:
     * **Hierarchy-CLIP**: "Improving Zero-shot Generalization and Robustness of Multi-modal Models", CVPR, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2212.01758)][[JAX](https://github.com/gyhandy/Hierarchy-CLIP)][[Website](https://sites.google.com/usc.edu/hierarchy-clip/)]
     * **?**: "Mitigating Spurious Correlations in Multi-modal Models during Fine-tuning", ICML, 2023 (*UCLA*). [[Paper](https://arxiv.org/abs/2304.03916)]
