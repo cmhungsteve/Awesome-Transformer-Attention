@@ -659,6 +659,7 @@ If you find this repository useful, please consider citing this list:
 * **CMM**: "Investigating the Limitation of CLIP Models: The Worst-Performing Categories", arXiv, 2023 (*Nanjing University*). [[Paper](https://arxiv.org/abs/2310.03324)]
 * **LC-MAE**: "Longer-range Contextualized Masked Autoencoder", arXiv, 2023 (*NAVER*). [[Paper](https://arxiv.org/abs/2310.13593)]
 * **SILC**: "SILC: Improving Vision Language Pretraining with Self-Distillation", arXiv, 2023 (*ETHZ*). [[Paper](https://arxiv.org/abs/2310.13355)]
+* **CLIPTex**: "CLIP meets Model Zoo Experts: Pseudo-Supervision for Visual Enhancement", arXiv, 2023 (*Apple*). [[Paper](https://arxiv.org/abs/2310.14108)]
 #### Robustness + Transformer
 * **ViT-Robustness**: "Understanding Robustness of Transformers for Image Classification", ICCV, 2021 (*Google*). [[Paper](https://arxiv.org/abs/2103.14586)]
 * **SAGA**: "On the Robustness of Vision Transformers to Adversarial Examples", ICCV, 2021 (*University of Connecticut*). [[Paper](https://arxiv.org/abs/2104.02610)]
@@ -1341,6 +1342,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **FASeg**: "Dynamic Focus-aware Positional Queries for Semantic Segmentation", CVPR, 2023 (*Monash University, Australia*). [[Paper](https://arxiv.org/abs/2204.01244)][[PyTorch](https://github.com/ziplab/FASeg)]
 * **HFD-BSD**: "A Good Student is Cooperative and Reliable: CNN-Transformer Collaborative Learning for Semantic Segmentation", ICCV, 2023 (*HKUST*). [[Paper](https://arxiv.org/abs/2307.12574)]
 * **DToP**: "Dynamic Token Pruning in Plain Vision Transformers for Semantic Segmentation", ICCV, 2023 (*South China University of Technology + The University of Adelaide*). [[Paper](https://arxiv.org/abs/2308.01045)]
+* **FreeMask**: "FreeMask: Synthetic Images with Dense Annotations Make Stronger Segmentation Models", NeurIPS, 2023 (*HKU*). [[Paper](https://arxiv.org/abs/2310.15160)][[PyTorch](https://github.com/LiheYoung/FreeMask)]
 * **SegViTv2**: "SegViTv2: Exploring Efficient and Continual Semantic Segmentation with Plain Vision Transformers", arXiv, 2023 (*The University of Adelaide, Australia*). [[Paper](https://arxiv.org/abs/2306.06289)][[PyTorch](https://github.com/zbwxp/SegVit)]
 * **DoViT**: "Dynamic Token-Pass Transformers for Semantic Segmentation", arXiv, 2023 (*Alibaba*). [[Paper](https://arxiv.org/abs/2308.01944)]
 * **CFT**: "Category Feature Transformer for Semantic Segmentation", arXiv, 2023 (*Huawei*). [[Paper](https://arxiv.org/abs/2308.05581)]
