@@ -1316,7 +1316,8 @@ If you find this repository useful, please consider citing this list:
 * **3DSAM-adapter**: "3DSAM-adapter: Holistic Adaptation of SAM from 2D to 3D for Promptable Medical Image Segmentation", arXiv, 2023 (*CUHK*). [[Paper](https://arxiv.org/abs/2306.13465)]
 * **CMCL**: "Disruptive Autoencoders: Leveraging Low-level features for 3D Medical Image Pre-training", arXiv, 2023 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2307.16896)]
 * **AdaptiveSAM**: "AdaptiveSAM: Towards Efficient Tuning of SAM for Surgical Scene Segmentation", arXiv, 2023 (*JHU*). [[Paper](https://arxiv.org/abs/2308.03726)][[PyTorch](https://github.com/JayParanjape/biastuning)]
-* **SAM-Med2D**: "SAM-Med2D", arXiv, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2308.16184)][[Code (in construction)](https://github.com/uni-medical/SAM-Med2D)]
+* **SAM-Med2D**: "SAM-Med2D", arXiv, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2308.16184)][[Pytorch](https://github.com/OpenGVLab/SAM-Med2D)]
+* **SAM-Med3D**: "SAM-Med3D", arXiv, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2310.15161)][[PyTorch (in construction)](https://github.com/uni-medical/SAM-Med3D)]
 
 [[Back to Overview](#overview)]
 
@@ -1365,6 +1366,8 @@ If you find this repository useful, please consider citing this list:
 * **SwinFPN**: "SwinFPN: Leveraging Vision Transformers for 3D Organs-At-Risk Detection", MIDL, 2022 (*TUM*). [[Paper](https://openreview.net/forum?id=yiIz7DhgRU5)][[PyTorch](https://github.com/bwittmann/transoar)]
 * **DATR**: "DATR: Domain-adaptive transformer for multi-domain landmark detection", arXiv, 2022 (*CAS*). [[Paper](https://arxiv.org/abs/2203.06433)]
 * **SATr**: "SATr: Slice Attention with Transformer for Universal Lesion Detection", arXiv, 2022 (*CAS*). [[Paper](https://arxiv.org/abs/2203.07373)]
+* **AC-Former**: "Affine-Consistent Transformer for Multi-Class Cell Nuclei Detection", ICCV, 2023 (*Sun Yat-sen University*). [[Paper](https://arxiv.org/abs/2310.14154)][[PyTorch](https://github.com/lhaof/ACFormer)]
+* **PGT**: "Prompt-based Grouping Transformer for Nucleus Detection and Classification", MICCAI, 2023 (*Sun Yat-sen University*). [[Paper](https://arxiv.org/abs/2310.14176)][[PyTorch](https://github.com/lhaof/PGT)]
 * **Focused-Decoder**: "Focused Decoding Enables 3D Anatomical Detection by Transformers", MELBA, 2023 (*University of Zurich*). [[Paper](https://arxiv.org/abs/2207.10774)][[PyTorch](https://github.com/bwittmann/transoar)][[Website](https://www.melba-journal.org/papers/2023:003.html)]
 
 [[Back to Overview](#overview)]
