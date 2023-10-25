@@ -956,6 +956,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **Group-DETR**: "Group DETR: Fast Training Convergence with Decoupled One-to-Many Label Assignment", ICCV, 2023 (*Baidu*). [[Paper](https://arxiv.org/abs/2207.13085)][[Code (in construction)](https://github.com/Atten4Vis/GroupDETR)]
     * **Co-DETR**: "DETRs with Collaborative Hybrid Assignments Training", ICCV, 2023 (*SenseTime*). [[Paper](https://arxiv.org/abs/2211.12860)][[PyTorch](https://github.com/Sense-X/Co-DETR)]
     * **DETRDistill**: "DETRDistill: A Universal Knowledge Distillation Framework for DETR-families", ICCV, 2023 (*USTC*). [[Paper](https://arxiv.org/abs/2211.10156)]
+    * **Decoupled-DETR**: "Decoupled DETR: Spatially Disentangling Localization and Classification for Improved End-to-End Object Detection", ICCV, 2023 (*SenseTime*). [[Paper](https://arxiv.org/abs/2310.15955)]
     * **Rank-DETR**: "Rank-DETR for High Quality Object Detection", NeurIPS, 2023 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2310.08854)]
     * **KS-DETR**: "KS-DETR: Knowledge Sharing in Attention Learning for Detection Transformer", arXiv, 2023 (*Toyota Technological Institute*). [[Paper](https://arxiv.org/abs/2302.11208)][[PyTorch](https://github.com/edocanonymous/KS-DETR)]
     * **FeatAug-DETR**: "FeatAug-DETR: Enriching One-to-Many Matching for DETRs with Feature Augmentation", arXiv, 2023 (*CUHK*). [[Paper](https://arxiv.org/abs/2303.01503)][[Codee (in construction)](https://github.com/rongyaofang/FeatAug-DETR)]
@@ -1434,6 +1435,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **LISA**: "LISA: Reasoning Segmentation via Large Language Model", arXiv, 2023 (*CUHK*). [[Paper](https://arxiv.org/abs/2308.00692)][[Code (in construction)](https://github.com/dvlab-research/LISA)]
     * **MixReorg**: "MixReorg: Cross-Modal Mixed Patch Reorganization is a Good Mask Learner for Open-World Semantic Segmentation", arXiv, 2023 (*Sun Yat-sen University*). [[Paper](https://arxiv.org/abs/2308.04829)]
     * **CLIPTeacher**: "CLIP Is Also a Good Teacher: A New Learning Framework for Inductive Zero-shot Semantic Segmentation", arXiv, 2023 (*Nagoya University*). [[Paper](https://arxiv.org/abs/2310.02296)]
+    * **SAM-CLIP**: "SAM-CLIP: Merging Vision Foundation Models towards Semantic and Spatial Understanding", arXiv, 2023 (*Apple*). [[Paper](https://arxiv.org/abs/2310.15308)]
 * Open-World/Vocabulary:
     * **ViL-Seg**: "Open-world Semantic Segmentation via Contrasting and Clustering Vision-Language Embedding", ECCV, 2022 (*CUHK*). [[Paper](https://arxiv.org/abs/2207.08455)]
     * **OVSS**: "A Simple Baseline for Open Vocabulary Semantic Segmentation with Pre-trained Vision-language Model", ECCV, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2112.14757)][[PyTorch](https://github.com/MendelXu/zsseg.baseline)]
@@ -2008,6 +2010,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **OAP-AOP**: "Opening the Vocabulary of Egocentric Actions", arXiv, 2023 (*NUS*). [[Paper](https://arxiv.org/abs/2308.11488)][[Website (in construction)](https://dibschat.github.io/openvocab-egoAR/)]
     * **AVION**: "Training a Large Video Model on a Single Machine in a Day", arXiv, 2023 (*UT Austin*). [[Paper](https://arxiv.org/abs/2309.16669)][[PyTorch](https://github.com/zhaoyue-zephyrus/AVION)]
     * **Open-VCLIP**: "Building an Open-Vocabulary Video CLIP Model with Better Architectures, Optimization and Data", arXiv, 2023 (*Fudan*). [[Paper](https://arxiv.org/abs/2310.05010)][[PyTorch](https://github.com/wengzejia1/Open-VCLIP)]
+    * **Videoprompter**: "Videoprompter: an ensemble of foundational models for zero-shot video understanding", arXiv, 2023 (*UCF*). [[Paper](https://arxiv.org/abs/2310.15324)]
 * X-supervised Learning:
     * **LSTCL**: "Long-Short Temporal Contrastive Learning of Video Transformers", CVPR, 2022 (*Facebook*). [[Paper](https://arxiv.org/abs/2106.09212)]
     * **SVT**: "Self-supervised Video Transformer", CVPR, 2022 (*Stony Brook*). [[Paper](https://arxiv.org/abs/2112.01514)][[PyTorch](https://github.com/kahnchana/svt)][[Website](https://kahnchana.github.io/svt/)]
