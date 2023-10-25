@@ -257,6 +257,7 @@ If you find this repository useful, please consider citing this list:
     * **Tem-adapter**: "Tem-adapter: Adapting Image-Text Pretraining for Video Question Answer", ICCV, 2023 (*CMU*). [[Paper](https://arxiv.org/abs/2308.08414)][[Code (in construction)](https://github.com/XLiu443/Tem-adapter)]
     * **OVQA**: "Open-vocabulary Video Question Answering: A New Benchmark for Evaluating the Generalizability of Video Question Answering Models", ICCV, 2023 (*Korea University*). [[Paper](https://arxiv.org/abs/2308.09351)]
     * **RaFormer**: "Redundancy-aware Transformer for Video Question Answering", ACMMM, 2023 (*NUS*). [[Paper](https://arxiv.org/abs/2308.03267)]
+    * **Flipped-VQA**: "Large Language Models are Temporal and Causal Reasoners for Video Question Answering", EMNLP, 2023 (*Korea University*). [[Paper](https://arxiv.org/abs/2310.15747)][[Code (in construction)](https://github.com/mlvlab/Flipped-VQA)]
     * **SeViLA**: "Self-Chained Image-Language Model for Video Localization and Question Answering", arXiv, 2023 (*UNC*). [[Paper](https://arxiv.org/abs/2305.06988)][[PyTorch](https://github.com/Yui010206/SeViLA)]
     * **FunQA**: "FunQA: Towards Surprising Video Comprehension", arXiv, 2023 (*Beijing University of Posts and Telecommunication*). [[Paper](https://arxiv.org/abs/2306.14899)][[Code (in construction)](https://github.com/Jingkang50/FunQA)][[Website](https://funqa-benchmark.github.io/)]
 * 3D:
@@ -778,6 +779,7 @@ If you find this repository useful, please consider citing this list:
     * **VD**: "Versatile Diffusion: Text, Images and Variations All in One Diffusion Model", ICCV, 2023 (*Oregon*). [[Paper](https://arxiv.org/abs/2211.08332)][[PyTorch](https://github.com/SHI-Labs/Versatile-Diffusion)]
     * **DiT**: "Scalable Diffusion Models with Transformers", ICCV, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2212.09748)][[PyTorch](https://github.com/facebookresearch/DiT)][[Website](https://www.wpeebles.com/DiT)]
     * **TCTS-FAS**: "Text-Conditioned Sampling Framework for Text-to-Image Generation with Masked Generative Models", ICCV, 2023 (*KAIST*). [[Paper](https://arxiv.org/abs/2304.01515)]
+    * **LSDM**: "Language-driven Scene Synthesis using Multi-conditional Diffusion Model", NeurIPS, 2023 (*FSOFT AI Center, Vietnam*). [[Paper](https://arxiv.org/abs/2310.15948)][[PyTorch](https://github.com/andvg3/LSDM)][[Website](https://lang-scene-synth.github.io/)]
     * **E4T**: "Designing an Encoder for Fast Personalization of Text-to-Image Models", arXiv, 2023 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2302.12228)][[Website](https://tuning-encoder.github.io/)]
     * **?**: "Controlled and Conditional Text to Image Generation with Diffusion Prior", arXiv, 2023 (*Adobe*). [[Paper](https://arxiv.org/abs/2302.11710)]
     * **Lformer**: "Lformer: Text-to-Image Generation with L-shape Block Parallel Decoding", arXiv, 2023 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2303.03800)]
@@ -1330,6 +1332,7 @@ If you find this repository useful, please consider citing this list:
     * **MiniGPT-5**: "MiniGPT-5: Interleaved Vision-and-Language Generation via Generative Vokens", arXiv, 2023 (*UC Santa Cruz*). [[Paper](https://arxiv.org/abs/2310.02239)][[PyTorch](https://github.com/eric-ai-lab/MiniGPT-5)]
     * **Ferret**: "Ferret: Refer and Ground Anything Anywhere at Any Granularity", arXiv, 2023 (*Apple*). [[Paper](https://arxiv.org/abs/2310.07704)][[Code (in construction)](https://github.com/apple/ml-ferret)]
     * **MiniGPT-v2**: "MiniGPT-v2: large language model as a unified interface for vision-language multi-task learning", arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2310.09478)][[PyTorch](https://github.com/Vision-CAIR/MiniGPT-4)][[Website](https://minigpt-v2.github.io/)]
+    * **Woodpecker**: "Woodpecker: Hallucination Correction for Multimodal Large Language Models", arXiv, 2023 (*Tencent*). [[Paper](https://arxiv.org/abs/2310.16045)][[PyTorch](https://github.com/BradyFU/Woodpecker)]
 * Visual Reasoning:
     * **BDC-Adapter**: "BDC-Adapter: Brownian Distance Covariance for Better Vision-Language Reasoning", BMVC, 2023 (*SUSTech*). [[Paper](https://arxiv.org/abs/2309.01256)]
     * **RPT**: "Fine-Grained Regional Prompt Tuning for Visual Abductive Reasoning", arXiv, 2023 (*A\*STAR*). [[Paper](https://arxiv.org/abs/2303.10428)]
