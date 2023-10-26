@@ -774,6 +774,7 @@ If you find this repository useful, please consider citing this list:
 * **BiViT**: "BiViT: Extremely Compressed Binary Vision Transformer", ICCV, 2023 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2211.07091)]
 * **I-ViT**: "I-ViT: Integer-only Quantization for Efficient Vision Transformer Inference", ICCV, 2023 (*CAS*). [[Paper](https://arxiv.org/abs/2207.01405)][[PyTorch](https://github.com/zkkli/I-ViT)]
 * **RepQ-ViT**: "RepQ-ViT: Scale Reparameterization for Post-Training Quantization of Vision Transformers", ICCV, 2023 (*CAS*). [[Paper](https://arxiv.org/abs/2212.08254)][[PyTorch](https://github.com/zkkli/RepQ-ViT)]
+* **LLM-FP4**: "LLM-FP4: 4-Bit Floating-Point Quantized Transformers", EMNLP, 2023 (*HKUST*). [[Paper](https://arxiv.org/abs/2310.16836)][[Code (in construction)](https://github.com/nbasyl/LLM-FP4)]
 * **Q-HyViT**: "Q-HyViT: Post-Training Quantization for Hybrid Vision Transformer with Bridge Block Reconstruction", arXiv, 2023 (*Electronics and Telecommunications Research Institute (ETRI), Korea*). [[Paper](https://arxiv.org/abs/2303.12557)]
 * **Bi-ViT**: "Bi-ViT: Pushing the Limit of Vision Transformer Quantization", arXiv, 2023 (*Beihang University*). [[Paper](https://arxiv.org/abs/2305.12354)]
 * **BinaryViT**: "BinaryViT: Towards Efficient and Accurate Binary Vision Transformers", arXiv, 2023 (*CAS*). [[Paper](https://arxiv.org/abs/2305.14730)]
@@ -832,6 +833,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **ConvNeXt-V2**: "ConvNeXt V2: Co-designing and Scaling ConvNets with Masked Autoencoders", CVPR, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2301.00808)][[PyTorch](https://github.com/facebookresearch/ConvNeXt-V2)]
 * **SPANet**: "SPANet: Frequency-balancing Token Mixer using Spectral Pooling Aggregation Modulation", ICCV, 2023 (*Korea Institute of Science and Technology*). [[Paper](https://arxiv.org/abs/2308.11568)][[Website](https://doranlyong.github.io/projects/spanet/)]
 * **DFFormer**: "FFT-based Dynamic Token Mixer for Vision", arXiv, 2023 (*Rikkyo University, Japan*). [[Paper](https://arxiv.org/abs/2303.03932)][[Code (in construction)](https://github.com/okojoalg/dfformer)]
+* **?**: "ConvNets Match Vision Transformers at Scale", arXiv, 2023 (*DeepMind*). [[Paper](https://arxiv.org/abs/2310.16764)]
 
 [[Back to Overview](#overview)]
 
@@ -1177,6 +1179,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **RandBox**: "Random Boxes Are Open-world Object Detectors", ICCV, 2023 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2307.08249)][[Code (in construction)](https://github.com/scuwyh2000/RandBox)]
     * **Cascade-DETR**: "Cascade-DETR: Delving into High-Quality Universal Object Detection", ICCV, 2023 (*ETHZ + HKUST*). [[Paper](https://arxiv.org/abs/2307.11035)][[Pytorch](https://github.com/SysCV/cascade-detr)]
     * **EdaDet**: "EdaDet: Open-Vocabulary Object Detection Using Early Dense Alignment", ICCV, 2023 (*ShanghaiTech*). [[Paper](https://arxiv.org/abs/2309.01151)][[Website](https://chengshiest.github.io/edadet/)]
+    * **CoDet**: "CoDet: Co-Occurrence Guided Region-Word Alignment for Open-Vocabulary Object Detection", NeurIPS, 2023 (*ByteDance*). [[Paper](https://arxiv.org/abs/2310.16667)][[Code (in construction)](https://github.com/CVMI-Lab/CoDet)]
     * **Grounding-DINO**: "Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection", arXiv, 2023 (*IDEA*). [[Paper](https://arxiv.org/abs/2303.05499)]
     * **GridCLIP**: "GridCLIP: One-Stage Object Detection by Grid-Level CLIP Representation Learning", arXiv, 2023 (*Queen Mary University of London*). [[Paper](https://arxiv.org/abs/2303.09252)]
     * **?**: "Three ways to improve feature alignment for open vocabulary detection", arXiv, 2023 (*DeepMind*). [[Paper](https://arxiv.org/abs/2303.13518)]
