@@ -500,6 +500,7 @@ If you find this repository useful, please consider citing this list:
     * **FLIP**: "FLIP: Cross-domain Face Anti-spoofing with Language Guidance", ICCV, 2023 (*MBZUAI*). [[Paper](https://arxiv.org/abs/2309.16649)][[PyTorch](https://github.com/koushiksrivats/FLIP)][[Website](https://koushiksrivats.github.io/FLIP/)]
     * **Face-Transformer**: "Face Transformer: Towards High Fidelity and Accurate Face Swapping", arXiv, 2023 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2304.02530)]
     * **DGM<sup>4</sup>**: "Detecting and Grounding Multi-Modal Media Manipulation and Beyond", arXiv, 2023 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2309.14203)][[PyTorch](https://github.com/rshaojimmy/MultiModal-DeepFake)]
+    * **EmoCLIP**: "EmoCLIP: A Vision-Language Method for Zero-Shot Video Facial Expression Recognition", arXiv, 2023 (*Queen Mary University of London*). [[Paper](https://arxiv.org/abs/2310.16640)][[PyTorch](https://github.com/NickyFot/EmoCLIP)]
 * Fairness:
     * **TADeT**: "Mitigating Bias in Visual Transformers via Targeted Alignment", BMVC, 2021 (*Georgia Tech*). [[Paper](https://arxiv.org/abs/2302.04358)]
 * Generation:
@@ -705,6 +706,7 @@ If you find this repository useful, please consider citing this list:
     * **HePCo**: "HePCo: Data-Free Heterogeneous Prompt Consolidation for Continual Federated Learning", arXiv, 2023 (*Georgia Tech*). [[Paper](https://arxiv.org/abs/2306.09970)]
     * **?**: "Continual Learning in Open-vocabulary Classification with Complementary Memory Systems", arXiv, 2023 (*UIUC*). [[Paper](https://arxiv.org/abs/2307.01430)]
     * **MoP-CLIP**: "MoP-CLIP: A Mixture of Prompt-Tuned CLIP Models for Domain Incremental Learning", arXiv, 2023 (*ETS Montreal, Canada*). [[Paper](https://arxiv.org/abs/2307.05707)]
+    * **TiC-CLIP**: "TiC-CLIP: Continual Training of CLIP Models", arXiv, 2023 (*Apple*). [[Paper](https://arxiv.org/abs/2310.16226)]
 * Long-tail/Imbalanced:
     * **BatchFormer**: "BatchFormer: Learning to Explore Sample Relationships for Robust Representation Learning", CVPR, 2022 (*The University of Sydney*). [[Paper](https://arxiv.org/abs/2203.01522)][[PyTorch](https://github.com/zhihou7/BatchFormer)]
     * **BatchFormerV2**: "BatchFormerV2: Exploring Sample Relationships for Dense Representation Learning", arXiv, 2022 (*The University of Sydney*). [[Paper](https://arxiv.org/abs/2204.01254)]
@@ -979,6 +981,7 @@ If you find this repository useful, please consider citing this list:
 * **MMoT**: "MMoT: Mixture-of-Modality-Tokens Transformer for Composed Multimodal Conditional Image Synthesis", arXiv, 2023 (*South China University of Technology*). [[Paper](https://arxiv.org/abs/2305.05992)][[PyTorch (in construction)](https://github.com/jabir-zheng/MMoT-Transformer)][[Website](https://jabir-zheng.github.io/MMoT/)]
 * **LayoutGPT**: "LayoutGPT: Compositional Visual Planning and Generation with Large Language Models", arXiv, 2023 (*UCSB*). [[Paper](https://arxiv.org/abs/2305.15393)][[Code (in construction)](https://github.com/weixi-feng/LayoutGPT)]
 * **MAskDiT**: "Fast Training of Diffusion Models with Masked Transformers", arXiv, 2023 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2306.09305)]
+* **Dolfin**: "Dolfin: Diffusion Layout Transformers without Autoencoder", arXiv, 2023 (*UCSD*). [[Paper](https://arxiv.org/abs/2310.16305)]
 
 [[Back to Overview](#overview)]
 
@@ -1092,6 +1095,7 @@ If you find this repository useful, please consider citing this list:
     * **TCM**: "Learned Image Compression with Mixed Transformer-CNN Architectures", CVPR, 2023 (*Waseda University*). [[Paper](https://arxiv.org/abs/2303.14978)][[PyTorch](https://github.com/jmliu206/LIC_TCM)]
     * **TransTIC**: "TransTIC: Transferring Transformer-based Image Compression from Human Perception to Machine Perception", ICCV, 2023 (*NYCU*). [[Paper](https://arxiv.org/abs/2306.05085)]
     * **Prompt-ICM**: "Prompt-ICM: A Unified Framework towards Image Coding for Machines with Task-driven Prompts", arXiv, 2023 (*USTC*). [[Paper](https://arxiv.org/abs/2305.02578)]
+    * **FAT-LIC**: "Frequency-Aware Transformer for Learned Image Compression", arXiv, 2023 (*Shanghai Jiao Tong*). [[Paper](https://arxiv.org/abs/2310.16387)]
 * Matting:
     * **MatteFormer**: "MatteFormer: Transformer-Based Image Matting via Prior-Tokens", CVPR, 2022 (*SNU + NAVER*). [[Paper](https://arxiv.org/abs/2203.15662)][[PyTorch](https://github.com/webtoon/matteformer)]
     * **TransMatting**: "TransMatting: Enhancing Transparent Objects Matting with Transformers", ECCV, 2022 (*CAS*). [[Paper](https://arxiv.org/abs/2208.03007)][[Code (in construction)](https://github.com/AceCHQ/TransMatting)]
