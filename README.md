@@ -1193,6 +1193,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **CLIPSelf**: "CLIPSelf: Vision Transformer Distills Itself for Open-Vocabulary Dense Prediction", arXiv, 2023 (*NTU, Singapore*). [[Papewr](https://arxiv.org/abs/2310.01403)][[PyTorch](https://github.com/wusize/CLIPSelf)]
     * **DST-Det**: "DST-Det: Simple Dynamic Self-Training for Open-Vocabulary Object Detection", arXiv, 2023 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2310.01393)][[Code (in consgtruction)](https://github.com/xushilin1/dst-det)]
     * **DITO**: "Detection-Oriented Image-Text Pretraining for Open-Vocabulary Detection", arXiv, 2023 (*DeepMind*). [[Paper](https://arxiv.org/abs/2310.00161)]
+    * **LP-OVOD**: "LP-OVOD: Open-Vocabulary Object Detection by Linear Probing", WACV, 2024 (*VinAI, Vietnam*). [[Paper](https://arxiv.org/abs/2310.17109)]
 * Pedestrian Detection:
     * **PED**: "DETR for Crowd Pedestrian Detection", arXiv, 2020 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2012.06785)][[PyTorch](https://github.com/Hatmm/PED-DETR-for-Pedestrian-Detection)]
     * **?**: "Effectiveness of Vision Transformer for Fast and Accurate Single-Stage Pedestrian Detection", NeurIPS, 2022 (*ICL*). [[Paper](https://openreview.net/forum?id=eow_ZGaw24j)]
