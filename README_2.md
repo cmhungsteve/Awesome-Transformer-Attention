@@ -476,6 +476,7 @@ If you find this repository useful, please consider citing this list:
     * **Micron-BERT**: "Micron-BERT: BERT-based Facial Micro-Expression Recognition", CVPR, 2023 (*University of Arkansas*). [[Paper](https://arxiv.org/abs/2304.03195)][[PyTorch (in construction)](https://github.com/uark-cviu/Micron-BERT)]
     * **FRL-DGT**: "Feature Representation Learning with Adaptive Displacement Generation and Transformer Fusion for Micro-Expression Recognition", CVPR, 2023 (*Wuhan University*). [[Paper](https://arxiv.org/abs/2304.04420)]
     * **Text2Listen**: "Can Language Models Learn to Listen?", ICCV, 2023 (*Berkeley*). [[Paper](https://arxiv.org/abs/2308.10897)][[Website](https://people.eecs.berkeley.edu/~evonne_ng/projects/text2listen/)]
+    * **EmoCLIP**: "EmoCLIP: A Vision-Language Method for Zero-Shot Video Facial Expression Recognition", arXiv, 2023 (*Queen Mary University of London*). [[Paper](https://arxiv.org/abs/2310.16640)][[PyTorch](https://github.com/NickyFot/EmoCLIP)]
 * Attack-related:
     * **?**: "Video Transformer for Deepfake Detection with Incremental Learning", ACMMM, 2021 (*MBZUAI*). [[Paper](https://arxiv.org/abs/2108.05307)]
     * **ViTranZFAS**: "On the Effectiveness of Vision Transformers for Zero-shot Face Anti-Spoofing", International Joint Conference on Biometrics (IJCB), 2021 (*Idiap*). [[Paper](https://arxiv.org/abs/2011.08019)]
@@ -500,7 +501,7 @@ If you find this repository useful, please consider citing this list:
     * **FLIP**: "FLIP: Cross-domain Face Anti-spoofing with Language Guidance", ICCV, 2023 (*MBZUAI*). [[Paper](https://arxiv.org/abs/2309.16649)][[PyTorch](https://github.com/koushiksrivats/FLIP)][[Website](https://koushiksrivats.github.io/FLIP/)]
     * **Face-Transformer**: "Face Transformer: Towards High Fidelity and Accurate Face Swapping", arXiv, 2023 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2304.02530)]
     * **DGM<sup>4</sup>**: "Detecting and Grounding Multi-Modal Media Manipulation and Beyond", arXiv, 2023 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2309.14203)][[PyTorch](https://github.com/rshaojimmy/MultiModal-DeepFake)]
-    * **EmoCLIP**: "EmoCLIP: A Vision-Language Method for Zero-Shot Video Facial Expression Recognition", arXiv, 2023 (*Queen Mary University of London*). [[Paper](https://arxiv.org/abs/2310.16640)][[PyTorch](https://github.com/NickyFot/EmoCLIP)]
+    * **AntifakePrompt**: "AntifakePrompt: Prompt-Tuned Vision-Language Models are Fake Image Detectors", arXiv, 2023 (*NYCU*). [[Paper](https://arxiv.org/abs/2310.17419)]
 * Fairness:
     * **TADeT**: "Mitigating Bias in Visual Transformers via Targeted Alignment", BMVC, 2021 (*Georgia Tech*). [[Paper](https://arxiv.org/abs/2302.04358)]
 * Generation:
@@ -1973,6 +1974,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **?**: "mm-Wave Radar Hand Shape Classification Using Deformable Transformers", arXiv, 2022 (*Intel*). [[Paper](https://arxiv.org/abs/2210.13079)]
     * **?**: "Fully-attentive and interpretable: vision and video vision transformers for pain detection", NeurIPSW, 2022 (*Utrecht University, Netherlands*). [[Paper](https://arxiv.org/abs/2210.15769)][[Code (in construction)](https://github.com/IPDTFE/ViT-McMaster)]
     * **CQFormer**: "Name Your Colour For the Task: Artificially Discover Colour Naming via Colour Quantisation Transformer", ICCV, 2023 (*Shanghai Jiao Tong*). [[Paper](https://arxiv.org/abs/2212.03434)][[PyTorch](https://github.com/ryeocthiv/CQFormer)]
+    * **CircuitFormer**: "Circuit as Set of Points", NeurIPS, 2023 (*Horizon Robotics*). [[Paper](https://arxiv.org/abs/2310.17418)][[PyTorch](https://github.com/hustvl/circuitformer)]
 
 [[Back to Overview](#overview)]
 
