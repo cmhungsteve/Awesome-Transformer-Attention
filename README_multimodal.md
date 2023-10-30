@@ -262,6 +262,7 @@ If you find this repository useful, please consider citing this list:
     * **FunQA**: "FunQA: Towards Surprising Video Comprehension", arXiv, 2023 (*Beijing University of Posts and Telecommunication*). [[Paper](https://arxiv.org/abs/2306.14899)][[Code (in construction)](https://github.com/Jingkang50/FunQA)][[Website](https://funqa-benchmark.github.io/)]
 * 3D:
     * **3D-VQA**: "CLIP-Guided Vision-Language Pre-training for Question Answering in 3D Scenes", CVPRW, 2023 (*ETHZ*). [[Paper](https://arxiv.org/abs/2304.06061)][[Code (in construction)](https://github.com/AlexDelitzas/3D-VQA)]
+    * **PO3D-VQA**: "3D-Aware Visual Question Answering about Parts, Poses and Occlusions", NeurIPS, 2023 (*JHU*). [[Paper](https://arxiv.org/abs/2310.17914)][[Code (in construction)](https://github.com/XingruiWang/3D-Aware-VQA)]
     * **Multi-CLIP**: "Multi-CLIP: Contrastive Vision-Language Pre-training for Question Answering tasks in 3D Scenes", arXiv, 2023 (*ETHZ*). [[Paper](https://arxiv.org/abs/2306.02329)]
 * Audio-Visual:
     * **PSTP-Net**: "Progressive Spatio-temporal Perception for Audio-Visual Question Answering", ACMMM, 2023 (*Renmin University of China*). [[Paper](https://arxiv.org/abs/2308.05421)][[PyTorch](https://github.com/GeWu-Lab/PSTP-Net)]
@@ -1064,6 +1065,7 @@ If you find this repository useful, please consider citing this list:
     * **SnG**: "Shatter and Gather: Learning Referring Image Segmentation with Text Supervision", ICCV, 2023 (*POSTECH*). [[Paper](https://arxiv.org/abs/2308.15512)]
     * **GRSer**: "Advancing Referring Expression Segmentation Beyond Single Image", ICCV, 2023 (*SenseTime*). [[Paper](https://arxiv.org/abs/2305.12452)][[Code (in construction)](https://github.com/yixuan730/group-res)]
     * **APE**: "Not All Features Matter: Enhancing Few-shot CLIP with Adaptive Prior Refinement", ICCV, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2304.01195)][[PyTorch](https://github.com/yangyangyang127/APE)]
+    * **TAS**: "Text Augmented Spatial-aware Zero-shot Referring Image Segmentation", EMNLP, 2023 (*Zhejiang*). [[Paper](https://arxiv.org/abs/2310.18049)]
     * **VLT**: "VLT: Vision-Language Transformer and Query Generation for Referring Segmentation", TPAMI, 2023 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2210.15871)]
     * **IREG**: "Whether you can locate or not? Interactive Referring Expression Generation", arXiv, 2023 (*Beijing University of Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2308.09977)][[Code (in construction)](https://github.com/superhero-7/IREG)]
     * **R-RIS**: "Towards Robust Referring Image Segmentation", arXiv, 2023 (*Peking*). [[Paper](https://arxiv.org/abs/2209.09554)][[Code (in construction)](https://github.com/jzwu48033552/robust-ref-seg)][[Website](https://lxtgh.github.io/project/robust_ref_seg/)]
