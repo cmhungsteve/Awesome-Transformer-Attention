@@ -819,7 +819,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **gSwin**: "gSwin: Gated MLP Vision Model with Hierarchical Structure of Shifted Window", arXiv, 2022 (*PKSHATechnology, Japan*). [[Paper](https://arxiv.org/abs/2208.11718)]
 * **?**: "Analysis of Quantization on MLP-based Vision Models", arXiv, 2022 (*Berkeley*). [[Paper](https://arxiv.org/abs/2209.06383)]
 * **AFFNet**: "Adaptive Frequency Filters As Efficient Global Token Mixers", ICCV, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2307.14008)]
-* **Strip-MLP**: "Strip-MLP: Efficient Token Interaction for Vision MLP", arXiv, 2023 (*Southern University of Science and Technology*). [[Paper](https://arxiv.org/abs/2307.11458)][[Code (in construction)](https://github.com/Med-Process/Strip_MLP)]
+* **Strip-MLP**: "Strip-MLP: Efficient Token Interaction for Vision MLP", ICCV, 2023 (*Southern University of Science and Technology*). [[Paper](https://arxiv.org/abs/2307.11458)][[PyTorch](https://github.com/Med-Process/Strip_MLP)]
 #### Other Attention-Free
 * **DWNet**: "On the Connection between Local Attention and Dynamic Depth-wise Convolution", ICLR, 2022 (*Nankai Univerisy*). [[Paper](https://arxiv.org/abs/2106.04263)][[PyTorch](https://github.com/Atten4Vis/DemystifyLocalViT)]
 * **PoolFormer**: "MetaFormer is Actually What You Need for Vision", CVPR, 2022 (*Sea AI Lab*). [[Paper](https://arxiv.org/abs/2111.11418)][[PyTorch](https://github.com/sail-sg/poolformer)]
