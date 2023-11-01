@@ -264,6 +264,7 @@ If you find this repository useful, please consider citing this list:
     * **3D-VQA**: "CLIP-Guided Vision-Language Pre-training for Question Answering in 3D Scenes", CVPRW, 2023 (*ETHZ*). [[Paper](https://arxiv.org/abs/2304.06061)][[Code (in construction)](https://github.com/AlexDelitzas/3D-VQA)]
     * **PO3D-VQA**: "3D-Aware Visual Question Answering about Parts, Poses and Occlusions", NeurIPS, 2023 (*JHU*). [[Paper](https://arxiv.org/abs/2310.17914)][[Code (in construction)](https://github.com/XingruiWang/3D-Aware-VQA)]
     * **Multi-CLIP**: "Multi-CLIP: Contrastive Vision-Language Pre-training for Question Answering tasks in 3D Scenes", arXiv, 2023 (*ETHZ*). [[Paper](https://arxiv.org/abs/2306.02329)]
+    * **Gen3DQA**: "Generating Context-Aware Natural Answers for Questions in 3D Scenes", arXiv, 2023 (*TUM*). [[Paper](https://arxiv.org/abs/2310.19516)][[Code (in construction)](https://github.com/MunzerDw/Gen3DQA)]
 * Audio-Visual:
     * **PSTP-Net**: "Progressive Spatio-temporal Perception for Audio-Visual Question Answering", ACMMM, 2023 (*Renmin University of China*). [[Paper](https://arxiv.org/abs/2308.05421)][[PyTorch](https://github.com/GeWu-Lab/PSTP-Net)]
 
@@ -601,6 +602,7 @@ If you find this repository useful, please consider citing this list:
     * **EVE**: "EVE: Efficient Vision-Language Pre-training with Masked Prediction and Modality-Aware MoE", arXiv, 2023 (*Sun Yat-sen University*). [[Paper](https://arxiv.org/abs/2308.11971)]
     * **Qwen-VL**: "Qwen-VL: A Frontier Large Vision-Language Model with Versatile Abilities", arXiv, 2023 (*Alibaba*). [[Paper](https://arxiv.org/abs/2308.12966)][[PyTorch](https://github.com/QwenLM/Qwen-VL)]
     * **BT-Adapter**: "One For All: Video Conversation is Feasible Without Video Instruction Tuning", arXiv, 2023 (*Tencent*). [[Paper](https://arxiv.org/abs/2309.15785)]
+    * **?**: "Harvest Video Foundation Models via Efficient Post-Pretraining", arXiv, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2310.19554)][[PyTorch](https://github.com/OpenGVLab/InternVideo)]
 * 3D:
     * **CLIP<sup>2</sup>**: "CLIP<sup>2</sup>: Contrastive Language-Image-Point Pretraining from Real-World Point Cloud Data", CVPR, 2023 (*Huawei*). [[Paper](https://arxiv.org/abs/2303.12417)]
     * **3D-VLP**: "Context-aware Alignment and Mutual Masking for 3D-Language Pre-training", CVPR, 2023 (*Sichuan University*). [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Jin_Context-Aware_Alignment_and_Mutual_Masking_for_3D-Language_Pre-Training_CVPR_2023_paper.html)][[PyTorch](https://github.com/leolyj/3D-VLP)]
@@ -841,6 +843,7 @@ If you find this repository useful, please consider citing this list:
     * **Video-Adapter**: "Probabilistic Adaptation of Text-to-Video Models", arXiv, 2023 (*DeepMind*). [[Paper](https://arxiv.org/abs/2306.01872)][[Website](https://video-adapter.github.io/video-adapter/)]
     * **SimDA**: "SimDA: Simple Diffusion Adapter for Efficient Video Generation", arXiv, 2023 (*Fudan*). [[Paper](https://arxiv.org/abs/2308.09710)][[Website](https://chenhsing.github.io/SimDA/)]
     * **LVD**: "LLM-grounded Video Diffusion Models", arXiv, 2023 (*Berkeley*). [[Paper](https://arxiv.org/abs/2309.17444)][[Code (in construction)](https://github.com/TonyLianLong/LLM-groundedVideoDiffusion)][[Website](https://llm-grounded-video-diffusion.github.io/)]
+    * **VideoCrafter1**: "VideoCrafter1: Open Diffusion Models for High-Quality Video Generation", arXiv, 2023 (*Tencent*). [[Paper](https://arxiv.org/abs/2310.19512)][[PyTorch](https://github.com/AILab-CVC/VideoCrafter)][[Website](https://ailab-cvc.github.io/videocrafter/)]
 * 3D:
     * **Magic3D**: "Magic3D: High-Resolution Text-to-3D Content Creation", CVPR, 2023 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2211.10440)][[Website](https://research.nvidia.com/labs/dir/magic3d/)]
     * **CLIP-Sculptor**: "CLIP-Sculptor: Zero-Shot Generation of High-Fidelity and Diverse Shapes from Natural Language", CVPR, 2023 (*Autodesk*). [[Paper](https://arxiv.org/abs/2211.01427)][[Website](https://ivl.cs.brown.edu/#/projects/clip-sculptor)]
@@ -1029,6 +1032,7 @@ If you find this repository useful, please consider citing this list:
     * **SMs**: "Socratic Models: Composing Zero-Shot Multimodal Reasoning with Language", ICLR, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2204.00598)][[GitHub](https://github.com/google-research/google-research/tree/master/socraticmodels)][[Website](https://socraticmodels.github.io/)]
     * **iCLIP**: "iCLIP: Bridging Image Classification and Contrastive Language-Image Pre-Training for Visual Recognition", CVPR, 2023 (*Microsoft*). [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Wei_iCLIP_Bridging_Image_Classification_and_Contrastive_Language-Image_Pre-Training_for_Visual_CVPR_2023_paper.html)]
     * **DiffDis**: "DiffDis: Empowering Generative Diffusion Model with Cross-Modal Discrimination Capability", ICCV, 2023 (*Huawei*). [[Paper](https://arxiv.org/abs/2308.09306)]
+    * **InMaP**: "Intra-Modal Proxy Learning for Zero-Shot Visual Categorization with CLIP", NeurIPS, 2023 (*Alibaba*). [[Paper](https://arxiv.org/abs/2310.19752)][[PyTorch (in construction)](https://github.com/idstcv/InMaP)]
     * **V-GLOSS**: "Visually-Grounded Descriptions Improve Zero-Shot Image Classification", arXiv, 2023 (*University of Alberta, Canada*). [[Paper](https://arxiv.org/abs/2306.06077)]
     * **?**: "Challenges of Zero-Shot Recognition with Vision-Language Models: Granularity and Correctness", arXiv, 2023 (*Amazon*). [[Paper](https://arxiv.org/abs/2306.16048)]
     * **UniFine**: "UniFine: A Unified and Fine-grained Approach for Zero-shot Vision-Language Understanding", arXiv, 2023 (*Columbia*). [[Paper](https://arxiv.org/abs/2307.00862)][[Code (in construction)](https://github.com/ThreeSR/UniFine)]
