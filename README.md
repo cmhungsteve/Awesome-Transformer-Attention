@@ -1870,6 +1870,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **MAT**: "Memory-and-Anticipation Transformer for Online Action Understanding", ICCV, 2023 (*Nanjing University*). [[Paper](https://arxiv.org/abs/2308.07893)][[PyTorch](https://github.com/Echo0125/Memory-and-Anticipation-Transformer)]
 * **SwinLSTM**: "SwinLSTM: Improving Spatiotemporal Prediction Accuracy using Swin Transformer and LSTM", ICCV, 2023 (*Hainan University*). [[Paper](https://arxiv.org/abs/2308.09891)][[PyTorch](https://github.com/SongTang-x/SwinLSTM)]
 * **MVP**: "Multiscale Video Pretraining for Long-Term Activity Forecasting", arXiv, 2023 (*Boston*). [[Paper](https://arxiv.org/abs/2307.12854)]
+* **ObjectPrompt**: "Object-centric Video Representation for Long-term Action Anticipation", WACV, 2024 (*Honda*). [[Paper](https://arxiv.org/abs/2311.00180)][[Code (in construction)](https://github.com/brown-palm/ObjectPrompt)]
 
 [[Back to Overview](#overview)]
 
