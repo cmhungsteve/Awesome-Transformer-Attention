@@ -1036,6 +1036,7 @@ If you find this repository useful, please consider citing this list:
     * **iCLIP**: "iCLIP: Bridging Image Classification and Contrastive Language-Image Pre-Training for Visual Recognition", CVPR, 2023 (*Microsoft*). [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Wei_iCLIP_Bridging_Image_Classification_and_Contrastive_Language-Image_Pre-Training_for_Visual_CVPR_2023_paper.html)]
     * **DiffDis**: "DiffDis: Empowering Generative Diffusion Model with Cross-Modal Discrimination Capability", ICCV, 2023 (*Huawei*). [[Paper](https://arxiv.org/abs/2308.09306)]
     * **InMaP**: "Intra-Modal Proxy Learning for Zero-Shot Visual Categorization with CLIP", NeurIPS, 2023 (*Alibaba*). [[Paper](https://arxiv.org/abs/2310.19752)][[PyTorch (in construction)](https://github.com/idstcv/InMaP)]
+    * **?**: "ChatGPT-Powered Hierarchical Comparisons for Image Classification", NeurIPS, 2023 (*Michigan State*). [[Paper](https://arxiv.org/abs/2311.00206)][[Code (in construction)](https://github.com/Zhiyuan-R/ChatGPT-Powered-Hierarchical-Comparisons-for-Image-Classification)]
     * **V-GLOSS**: "Visually-Grounded Descriptions Improve Zero-Shot Image Classification", arXiv, 2023 (*University of Alberta, Canada*). [[Paper](https://arxiv.org/abs/2306.06077)]
     * **?**: "Challenges of Zero-Shot Recognition with Vision-Language Models: Granularity and Correctness", arXiv, 2023 (*Amazon*). [[Paper](https://arxiv.org/abs/2306.16048)]
     * **UniFine**: "UniFine: A Unified and Fine-grained Approach for Zero-shot Vision-Language Understanding", arXiv, 2023 (*Columbia*). [[Paper](https://arxiv.org/abs/2307.00862)][[Code (in construction)](https://github.com/ThreeSR/UniFine)]
@@ -1084,6 +1085,7 @@ If you find this repository useful, please consider citing this list:
     * **Ref-Diff**: "Ref-Diff: Zero-shot Referring Image Segmentation with Generative Models", arXiv, 2023 (*Harbin Institute of Technology*). [[Paper](https://arxiv.org/abs/2308.16777)][[Code (in construction)](https://github.com/kodenii/Ref-Diff)]
     * **DuMoGa**: "Towards Complex-query Referring Image Segmentation: A Novel Benchmark", arXiv, 2023 (*NUS*). [[Paper](https://arxiv.org/abs/2309.17205)]
     * **SSC**: "Segment, Select, Correct: A Framework for Weakly-Supervised Referring Segmentation", arXiv, 2023 (*Five AI, UK*). [[Paper](https://arxiv.org/abs/2310.13479)]
+    * **Omni-RES**: "Towards Omni-supervised Referring Expression Segmentation", arXiv, 2023 (*Xiamen University*). [[Paper](https://arxiv.org/abs/2311.00397)]
 * Referring Video Segmentation:
     * **ReferFormer**: "Language as Queries for Referring Video Object Segmentation", CVPR, 2022 (*HKU*). [[Paper](https://arxiv.org/abs/2201.00487)][[PyTorch](https://github.com/wjn922/ReferFormer)]
     * **MTTR**: "End-to-End Referring Video Object Segmentation with Multimodal Transformers", CVPR, 2022 (*Technion - Israel Institute of Technology*). [[Paper](https://arxiv.org/abs/2111.14821)][[PyTorch](https://github.com/mttr2021/MTTR)]
@@ -1125,6 +1127,7 @@ If you find this repository useful, please consider citing this list:
     * **?**: "On the Generalization of Multi-modal Contrastive Learning", ICML, 2023 (*Peking*). [[Paper](https://arxiv.org/abs/2306.04272)][[PyTorch](https://github.com/PKU-ML/CLIP-Help-SimCLR)]
     * **?**: "Learning Concise and Descriptive Attributes for Visual Recognition", ICCV, 2023 (*UCSD*). [[Paper](https://arxiv.org/abs/2308.03685)]
     * **?**: "Evaluating Bias and Fairness in Gender-Neutral Pretrained Vision-and-Language Models", EMNLP, 2023 (*University of Copenhagen, Denmark*). [[Paper](https://arxiv.org/abs/2310.17530)][[PyTorch](https://github.com/coastalcph/gender-neutral-vl)]
+    * **GVIL**: "Grounding Visual Illusions in Language: Do Vision-Language Models Perceive Illusions Like Humans?", EMNLP, 2023 (*UMich*). [[Paper](https://arxiv.org/abs/2311.00047)][[GitHub](https://github.com/vl-illusion/dataset)][[Website](https://vl-illusion.github.io/)]
     * **LICO**: "LICO: Explainable Models with Language-Image Consistency", NeurIPS, 2023 (*Fudan*). [[Paper](https://arxiv.org/abs/2310.09821)][[Code (in construction)](https://github.com/ymLeiFDU/LICO)]
     * **?**: "Interpreting CLIP's Image Representation via Text-Based Decomposition", arXiv, 2023 (*Berkeley*). [[Paper](https://arxiv.org/abs/2310.05916)][[PyTorch](https://github.com/yossigandelsman/clip_prs)][[Website](https://yossigandelsman.github.io/clip_decomposition/)]
     * **vit-interpret**: "Interpreting and Controlling Vision Foundation Models via Text Explanations", arXiv, 2023 (*Columbia*). [[Paper](https://arxiv.org/abs/2310.10591)][[PyTorch](https://github.com/tonychenxyz/vit-interpret)]
@@ -1348,6 +1351,7 @@ If you find this repository useful, please consider citing this list:
     * **Ferret**: "Ferret: Refer and Ground Anything Anywhere at Any Granularity", arXiv, 2023 (*Apple*). [[Paper](https://arxiv.org/abs/2310.07704)][[Code (in construction)](https://github.com/apple/ml-ferret)]
     * **MiniGPT-v2**: "MiniGPT-v2: large language model as a unified interface for vision-language multi-task learning", arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2310.09478)][[PyTorch](https://github.com/Vision-CAIR/MiniGPT-4)][[Website](https://minigpt-v2.github.io/)]
     * **Woodpecker**: "Woodpecker: Hallucination Correction for Multimodal Large Language Models", arXiv, 2023 (*Tencent*). [[Paper](https://arxiv.org/abs/2310.16045)][[PyTorch](https://github.com/BradyFU/Woodpecker)]
+    * **LLaVA-Interactive**: "LLaVA-Interactive: An All-in-One Demo for Image Chat, Segmentation, Generation and Editing", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2311.00571)][[PyTorch](https://github.com/LLaVA-VL/LLaVA-Interactive-Demo)][[Website](https://llava-vl.github.io/llava-interactive/)]
 * Visual Reasoning:
     * **BDC-Adapter**: "BDC-Adapter: Brownian Distance Covariance for Better Vision-Language Reasoning", BMVC, 2023 (*SUSTech*). [[Paper](https://arxiv.org/abs/2309.01256)]
     * **RPT**: "Fine-Grained Regional Prompt Tuning for Visual Abductive Reasoning", arXiv, 2023 (*A\*STAR*). [[Paper](https://arxiv.org/abs/2303.10428)]
