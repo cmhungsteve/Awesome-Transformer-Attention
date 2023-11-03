@@ -345,6 +345,7 @@ If you find this repository useful, please consider citing this list:
     * **UniVTG**: "UniVTG: Towards Unified Video-Language Temporal Grounding", ICCV, 2023 (*NUS*). [[Paper](https://arxiv.org/abs/2307.16715)][[PyTorch](https://github.com/showlab/UniVTG)]
     * **EaTR**: "Knowing Where to Focus: Event-aware Transformer for Video Grounding", ICCV, 2023 (*Yonsei*). [[Paper](https://arxiv.org/abs/2308.06947)][[PyTorch](https://github.com/jinhyunj/EaTR)]
     * **TSGSV**: "Temporal Sentence Grounding in Streaming Videos", ACMMM, 2023 (*Shandong University*). [[Paper](https://arxiv.org/abs/2308.07102)]
+    * **ConFormer**: "Video Referring Expression Comprehension via Transformer with Content-conditioned Query", ACMMM, 2023 (*Peking*). [[Paper](https://arxiv.org/abs/2310.16402)]
     * **CliMer**: "Learning Temporal Sentence Grounding From Narrated EgoVideos", BMVC, 2023 (*University of Bristol, UK*). [[Paper](https://arxiv.org/abs/2310.17395)][[PyTorch](https://github.com/keflanagan/CliMer)]
     * **?**: "Learning Grounded Vision-Language Representation for Versatile Understanding in Untrimmed Videos", arXiv, 2023 (*Southern University of Science and Technology, China*). [[Paper](https://arxiv.org/abs/2303.06378)]
     * **MomentDiff**: "MomentDiff: Generative Video Moment Retrieval from Random to Real", arXiv, 2023 (*Alibaba*). [[Paper](https://arxiv.org/abs/2307.02869)][[Code (in construction)](https://github.com/IMCCretrieval/MomentDiff)]
