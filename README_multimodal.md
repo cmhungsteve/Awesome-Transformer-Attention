@@ -934,6 +934,7 @@ If you find this repository useful, please consider citing this list:
 * **ALIGN**: "Tuning Multi-mode Token-level Prompt Alignment across Modalities", NeurIPS, 2023 (*Xidian University*). [[Paper](https://arxiv.org/abs/2309.13847)][[Code (in construction)](https://github.com/wds2014/ALIGN)]
 * **GraphAdapter**: "GraphAdapter: Tuning Vision-Language Models With Dual Knowledge Graph", NeurIPS, 2023 (*NUS*). [[Paper](https://arxiv.org/abs/2309.13625)][[Code (in construction)](https://github.com/lixinustc/GraphAdapter)]
 * **OpenVik**: "Open Visual Knowledge Extraction via Relation-Oriented Multimodality Model Prompting", NeurIPS, 2023 (*Emory*). [[Paper](https://arxiv.org/abs/2310.18804)]
+* **PromptAlign**: "Align Your Prompts: Test-Time Prompting with Distribution Alignment for Zero-Shot Generalization", NeurIPS, 2023 (*MBZUAI*). [[Paper](https://arxiv.org/abs/2311.01459)][[PyTorch](https://github.com/jameelhassan/PromptAlign)][[Website](https://jameelhassan.github.io/promptalign/)]
 * **SeMap**: "From Visual Prompt Learning to Zero-Shot Transfer: Mapping Is All You Need", arXiv, 2023 (*CISPA, Germany*). [[Paper](https://arxiv.org/abs/2303.05266)]
 * **R-Tuning**: "R-Tuning: Regularized Prompt Tuning in Open-Set Scenarios", arXiv, 2023 (*Shanghai Jiao Tong*). [[Paper](https://arxiv.org/abs/2303.05122)]
 * **VPTM**: "Rethinking Visual Prompt Learning as Masked Visual Token Modeling", arXiv, 2023 (*Shanghai Jiao Tong*). [[Paper](https://arxiv.org/abs/2303.04998)]
@@ -1189,6 +1190,7 @@ If you find this repository useful, please consider citing this list:
     * **VoxPoser**: "VoxPoser: Composable 3D Value Maps for Robotic Manipulation with Language Models", arXiv, 2023 (*Stanford*). [[Paper](https://arxiv.org/abs/2307.05973)][[Website](https://voxposer.github.io/)]
     * **RT-2**: "RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control", arXiv, 2023 (*DeepMind*). [[Paper](https://arxiv.org/abs/2307.15818)][[Website](https://robotics-transformer2.github.io/)]
     * **VLP**: "Video Language Planning", arXiv, 2023 (*DeepMind*). [[Paper](https://arxiv.org/abs/2310.10625)][[Code (in construction)](https://github.com/video-language-planning/vlp_code)][[Website](https://video-language-planning.github.io/)]
+    * **RoboFlamingo**: "Vision-Language Foundation Models as Effective Robot Imitators", arXiv, 2023 (*ByteDance*). [[Paper](https://arxiv.org/abs/2311.01378)][[Website](https://roboflamingo.github.io/)]
 * Multi-modal Fusion:
     * **MICA**: "Attention Is Not Enough: Mitigating the Distribution Discrepancy in Asynchronous Multimodal Sequence Fusion", ICCV, 2021 (*Southwest Jiaotong University*). [[Paper](https://openaccess.thecvf.com/content/ICCV2021/html/Liang_Attention_Is_Not_Enough_Mitigating_the_Distribution_Discrepancy_in_Asynchronous_ICCV_2021_paper.html)]
     * **IFT**: "Image Fusion Transformer", arXiv, 2021 (*Johns Hopkins*). [[Paper](https://arxiv.org/abs/2107.09011)][[PyTorch](https://github.com/Vibashan/Image-Fusion-Transformer)]
@@ -1399,11 +1401,13 @@ If you find this repository useful, please consider citing this list:
     * **ReForm-Eval**: "ReForm-Eval: Evaluating Large Vision Language Models via Unified Re-Formulation of Task-Oriented Benchmarks", arXiv, 2023 (*Fudan*). [[Paper](https://arxiv.org/abs/2310.02569)]
     * **?**: "Benchmarking Sequential Visual Input Reasoning and Prediction in Multimodal Large Language Models", arXiv, 2023 (*Zhejiang*). [[Paper](https://arxiv.org/abs/2310.13473)][[Code (in construction)](https://github.com/CoderJ-ONE/Giraffe-Bench)]
     * **HallusionBench**: "HallusionBench: You See What You Think? Or You Think What You See? An Image-Context Reasoning Benchmark Challenging for GPT-4V(ision), LLaVA-1.5, and Other Multi-modality Models", arXiv, 2023 (*Maryland*). [[Paper](https://arxiv.org/abs/2310.14566)][[Code (in construction)](https://github.com/tianyi-lab/HallusionBench)]
+    * **?**: "GPT-4V(ision) as a Generalist Evaluator for Vision-Language Tasks", arXiv, 2023 (*UCSB*). [[Paper](https://arxiv.org/abs/2311.01361)]
 * Robustness:
     * **Hierarchy-CLIP**: "Improving Zero-shot Generalization and Robustness of Multi-modal Models", CVPR, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2212.01758)][[JAX](https://github.com/gyhandy/Hierarchy-CLIP)][[Website](https://sites.google.com/usc.edu/hierarchy-clip/)]
     * **?**: "Mitigating Spurious Correlations in Multi-modal Models during Fine-tuning", ICML, 2023 (*UCLA*). [[Paper](https://arxiv.org/abs/2304.03916)]
     * **SGA**: "Set-level Guidance Attack: Boosting Adversarial Transferability of Vision-Language Pre-training Models", ICCV, 2023 (*Southern University of Science and Technology*). [[Paper](https://arxiv.org/abs/2307.14061)]
     * **VLAttack**: "VLAttack: Multimodal Adversarial Attacks on Vision-Language Tasks via Pre-trained Models", NeurIPS, 2023 (*Pennsylvania State University*). [[Paper](https://arxiv.org/abs/2310.04655)]
+    * **DAD**: "Distilling Out-of-Distribution Robustness from Vision-Language Foundation Models", NeurIPS, 2023 (*UIUC*). [[Paper](https://arxiv.org/abs/2311.01441)]
     * **AttackVLM**: "On Evaluating Adversarial Robustness of Large Vision-Language Models", arXiv, 2023 (*Singapore University of Technology and Design (SUTD)*). [[Paper](https://arxiv.org/abs/2305.16934)][[PyTorch (in construction)](https://github.com/yunqing-me/AttackVLM)]
 * Compositional Reasoning:
     * **DAC**: "Dense and Aligned Captions (DAC) Promote Compositional Reasoning in VL Models", arXiv, 2023 (*IBM*). [[Paper](https://arxiv.org/abs/2305.19595)]
