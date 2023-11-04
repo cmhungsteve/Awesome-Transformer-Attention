@@ -332,6 +332,7 @@ If you find this repository useful, please consider citing this list:
 * **LaPE**: "LaPE: Layer-adaptive Position Embedding for Vision Transformers with Independent Layer Normalization", ICCV, 2023 (*Peking*). [[Paper](https://openaccess.thecvf.com/content/ICCV2023/html/Yu_LaPE_Layer-adaptive_Position_Embedding_for_Vision_Transformers_with_Independent_Layer_ICCV_2023_paper.html)][[PyTorch](https://github.com/Ingrid725/LaPE)]
 * **CB**: "Scratching Visual Transformer's Back with Uniform Attention", ICCV, 2023 (*NAVER*). [[Paper](https://openaccess.thecvf.com/content/ICCV2023/html/Hyeon-Woo_Scratching_Visual_Transformers_Back_with_Uniform_Attention_ICCV_2023_paper.html)]
 * **ClusterFormer**: "ClusterFormer: Clustering As A Universal Visual Learner", NeurIPS, 2023 (*Rochester Institute of Technology (RIT)*). [[Paper](https://arxiv.org/abs/2309.13196)]
+* **SVT**: "Scattering Vision Transformer: Spectral Mixing Matters", NeurIPS, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2311.01310)][[PyTorch](https://github.com/badripatro/svt)][[Website](https://badripatro.github.io/svt/)]
 * **CrossFormer++**: "CrossFormer++: A Versatile Vision Transformer Hinging on Cross-scale Attention", arXiv, 2023 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2303.06908)][[PyTorch](https://github.com/cheerss/CrossFormer)]
 * **QFormer**: "Vision Transformer with Quadrangle Attention", arXiv, 2023 (*The University of Sydney*). [[Paper](https://arxiv.org/abs/2303.15105)][[Code (in construction)](https://github.com/ViTAE-Transformer/QFormer)]
 * **ViT-Calibrator**: "ViT-Calibrator: Decision Stream Calibration for Vision Transformer", arXiv, 2023 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2304.04354)]
@@ -1197,6 +1198,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **CLIPSelf**: "CLIPSelf: Vision Transformer Distills Itself for Open-Vocabulary Dense Prediction", arXiv, 2023 (*NTU, Singapore*). [[Papewr](https://arxiv.org/abs/2310.01403)][[PyTorch](https://github.com/wusize/CLIPSelf)]
     * **DST-Det**: "DST-Det: Simple Dynamic Self-Training for Open-Vocabulary Object Detection", arXiv, 2023 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2310.01393)][[Code (in consgtruction)](https://github.com/xushilin1/dst-det)]
     * **DITO**: "Detection-Oriented Image-Text Pretraining for Open-Vocabulary Detection", arXiv, 2023 (*DeepMind*). [[Paper](https://arxiv.org/abs/2310.00161)]
+    * **RegionSpot**: "Recognize Any Regions", arXiv, 2023 (*University Of Surrey, England*). [[Paper](https://arxiv.org/abs/2311.01373)][[Code (in construction)](https://github.com/Surrey-UPLab/Recognize-Any-Regions)]
     * **LP-OVOD**: "LP-OVOD: Open-Vocabulary Object Detection by Linear Probing", WACV, 2024 (*VinAI, Vietnam*). [[Paper](https://arxiv.org/abs/2310.17109)]
 * Pedestrian Detection:
     * **PED**: "DETR for Crowd Pedestrian Detection", arXiv, 2020 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2012.06785)][[PyTorch](https://github.com/Hatmm/PED-DETR-for-Pedestrian-Detection)]
