@@ -1354,6 +1354,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **HFD-BSD**: "A Good Student is Cooperative and Reliable: CNN-Transformer Collaborative Learning for Semantic Segmentation", ICCV, 2023 (*HKUST*). [[Paper](https://arxiv.org/abs/2307.12574)]
 * **DToP**: "Dynamic Token Pruning in Plain Vision Transformers for Semantic Segmentation", ICCV, 2023 (*South China University of Technology + The University of Adelaide*). [[Paper](https://arxiv.org/abs/2308.01045)]
 * **FreeMask**: "FreeMask: Synthetic Images with Dense Annotations Make Stronger Segmentation Models", NeurIPS, 2023 (*HKU*). [[Paper](https://arxiv.org/abs/2310.15160)][[PyTorch](https://github.com/LiheYoung/FreeMask)]
+* **AiluRus**: "AiluRus: A Scalable ViT Framework for Dense Prediction", NeurIPS, 2023 (*Huawei*). [[Paper](https://arxiv.org/abs/2311.01197)][[Code (in construction)](https://github.com/caddyless/AiluRus)]
 * **SegViTv2**: "SegViTv2: Exploring Efficient and Continual Semantic Segmentation with Plain Vision Transformers", arXiv, 2023 (*The University of Adelaide, Australia*). [[Paper](https://arxiv.org/abs/2306.06289)][[PyTorch](https://github.com/zbwxp/SegVit)]
 * **DoViT**: "Dynamic Token-Pass Transformers for Semantic Segmentation", arXiv, 2023 (*Alibaba*). [[Paper](https://arxiv.org/abs/2308.01944)]
 * **CFT**: "Category Feature Transformer for Semantic Segmentation", arXiv, 2023 (*Huawei*). [[Paper](https://arxiv.org/abs/2308.05581)]
@@ -1389,6 +1390,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **Lite-Mono**: "Lite-Mono: A Lightweight CNN and Transformer Architecture for Self-Supervised Monocular Depth Estimation", CVPR, 2023 (*University of Twente, Netherlands*). [[Paper](https://arxiv.org/abs/2211.13202)][[PyTorch](https://github.com/noahzn/Lite-Mono)]
 * **EGformer**: "EGformer: Equirectangular Geometry-biased Transformer for 360 Depth Estimation", ICCV, 2023 (*SNU*). [[Paper](https://arxiv.org/abs/2304.07803)]
 * **Win-Win**: "Win-Win: Training High-Resolution Vision Transformers from Two Windows", arXiv, 2023 (*NAVER*). [[Paper](https://arxiv.org/abs/2310.00632)]
+* **?**: "Learning to Adapt CLIP for Few-Shot Monocular Depth Estimation", WACV, 2024 (*Southern University of Science and Technology*). [[Paper](https://arxiv.org/abs/2311.01034)]
 
 [[Back to Overview](#overview)]
 
@@ -1592,6 +1594,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **MMC**: "Masked Momentum Contrastive Learning for Zero-shot Semantic Understanding", arXiv, 2023 (*University of Surrey, UK*). [[Paper](https://arxiv.org/abs/2308.11448)]
     * **CRATE**: "Emergence of Segmentation with Minimalistic White-Box Transformers", arXiv, 2023 (*Berkeley*). [[Paper](https://arxiv.org/abs/2308.16271)][[PyTorch](https://github.com/Ma-Lab-Berkeley/CRATE)]
     * **?**: "Weakly-Supervised Semantic Segmentation with Image-Level Labels: from Traditional Models to Foundation Models", arXiv, 2023 (*Singapore Management University*). [[Paper](https://arxiv.org/abs/2310.13026)]
+    * **MCC**: "Masked Collaborative Contrast for Weakly Supervised Semantic Segmentation", arXiv, 2023 (*Zhejiang Lab, China*). [[Paper](https://arxiv.org/abs/2305.08491)][[PyTorch](https://github.com/fwu11/MCC)]
 * Cross-Domain:
     * **DAFormer**: "DAFormer: Improving Network Architectures and Training Strategies for Domain-Adaptive Semantic Segmentation", CVPR, 2022 (*ETHZ*). [[Paper](https://arxiv.org/abs/2111.14887)][[PyTorch](https://github.com/lhoyer/DAFormer)]
     * **HGFormer**: "HGFormer: Hierarchical Grouping Transformer for Domain Generalized Semantic Segmentation", CVPR, 2023 (*Wuhan University*). [[Paper](https://arxiv.org/abs/2305.13031)][[Code (in construction)](https://github.com/dingjiansw101/HGFormer)]
