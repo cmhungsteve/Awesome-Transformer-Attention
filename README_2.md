@@ -149,6 +149,7 @@ If you find this repository useful, please consider citing this list:
 * **PointCLIP-V2**: "PointCLIP V2: Adapting CLIP for Powerful 3D Open-world Learning", ICCV, 2023 (*CUHK*). [[Paper](https://arxiv.org/abs/2211.11682)][[PyTorch](https://github.com/yangyangyang127/PointCLIP_V2)]
 * **CLIP2Point**: "CLIP2Point: Transfer CLIP to Point Cloud Classification with Image-Depth Pre-training", ICCV, 2023 (*Harbin Institute of Technology*). [[Paper](https://arxiv.org/abs/2210.01055)][[PyTorch](https://github.com/tyhuang0428/CLIP2Point)]
 * **JM3D**: "Beyond First Impressions: Integrating Joint Multi-modal Cues for Comprehensive 3D Representation", ACMMM, 2023 (*NetEase, China*). [[Paper](https://arxiv.org/abs/2308.02982)][[PyTorch](https://github.com/Mr-Neko/JM3D)]
+* **Bridge3D**: "Bridging the Domain Gap: Self-Supervised 3D Scene Understanding with Foundation Models", NeurIPS, 2023 (*Clemson*). [[Paper](https://arxiv.org/abs/2305.08776)][[Code (in construction)](https://github.com/Zhimin-C/Bridge3D)]
 * **GeoTransformer**: "GeoTransformer: Fast and Robust Point Cloud Registration with Geometric Transformer", TPAMI, 2023 (*National University of Defense Technology, China*). [[Paper](https://arxiv.org/abs/2308.03768)][[PyTorch](https://github.com/qinzheng93/GeoTransformer)]
 * **Text4Point**: "Joint Representation Learning for Text and 3D Point Cloud", arXiv, 2023 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2301.07584)][[Code (in construction)](https://github.com/LeapLabTHU/Text4Point)]
 * **FullFormer**: "FullFormer: Generating Shapes Inside Shapes", arXiv, 2023 (*University of Siegen, Germany*). [[Paper](https://arxiv.org/abs/2303.11235)]
@@ -968,7 +969,6 @@ If you find this repository useful, please consider citing this list:
 * **DPC**: "Discrete Predictor-Corrector Diffusion Models for Image Synthesis", ICLR, 2023 (*Google*). [[Paper](https://openreview.net/forum?id=VM8batVBWvg)]
 * **LayoutDM**: "LayoutDM: Discrete Diffusion Model for Controllable Layout Generation", CVPR, 2023 (*CyberAgent, Japan*). [[Paper](https://arxiv.org/abs/2303.08137)][[PyTorch](https://github.com/CyberAgentAILab/layout-dm)][[Website](https://cyberagentailab.github.io/layout-dm/)]
 * **GTGAN**: "Graph Transformer GANs for Graph-Constrained House Generation", CVPR, 2023 (*ETHZ*). [[Paper](https://arxiv.org/abs/2303.08225)]
-* **ABLE-NeRF**: "ABLE-NeRF: Attention-Based Rendering with Learnable Embeddings for Neural Radiance Field", CVPR, 2023 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2303.13817)]
 * **U-ViT**: "All are Worth Words: A ViT Backbone for Diffusion Models", CVPR, 2023 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2209.12152)]
 * **MQ-VAE**: "Not All Image Regions Matter: Masked Vector Quantization for Autoregressive Image Generation", CVPR, 2023 (*USTC*). [[Paper](https://arxiv.org/abs/2305.13607)][[PyTorch](https://github.com/CrossmodalGroup/MaskedVectorQuantization)]
 * **MaskSketch**: "MaskSketch: Unpaired Structure-guided Masked Image Generation", CVPR, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2302.05496)][[JAX](https://github.com/google-research/masksketch)][[Website](https://masksketch.github.io/)]
@@ -1121,8 +1121,10 @@ If you find this repository useful, please consider citing this list:
 * Radiance Fields:
     * **NeXT**: "NeXT: Towards High Quality Neural Radiance Fields via Multi-Skip Transformer", ECCV, 2022 (*Tsinghua University*). [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/1810_ECCV_2022_paper.php)][[JAX](https://github.com/Crishawy/NeXT)]
     * **TransNeRF**: "Generalizable Neural Radiance Fields for Novel View Synthesis with Transformer", arXiv, 2022 (*UBC*). [[Paper](https://arxiv.org/abs/2206.05375)]
+    * **ABLE-NeRF**: "ABLE-NeRF: Attention-Based Rendering with Learnable Embeddings for Neural Radiance Field", CVPR, 2023 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2303.13817)]
     * **TransHuman**: "TransHuman: A Transformer-based Human Representation for Generalizable Neural Human Rendering", ICCV, 2023 (*Alibaba*). [[Paper](https://arxiv.org/abs/2307.12291)][[PyTorch](https://github.com/pansanity666/TransHuman/)][[Website](https://pansanity666.github.io/TransHuman/)]
     * **GNT-MOVE**: "Enhancing NeRF akin to Enhancing LLMs: Generalizable NeRF Transformer with Mixture-of-View-Experts", ICCV, 2023 (*UT Austin*). [[Paper](https://arxiv.org/abs/2308.11793)][[PyTorch](https://github.com/VITA-Group/GNT-MOVE)]
+    * **ReTR**: "ReTR: Modeling Rendering Via Transformer for Generalizable Neural Surface Reconstruction", NeurIPS, 2023 (*HKUST*). [[Paper](https://arxiv.org/abs/2305.18832)][[PyTorch](https://github.com/YixunLiang/ReTR)]
 * 3D:
     * **MNSRNet**: "MNSRNet: Multimodal Transformer Network for 3D Surface Super-Resolution", CVPR, 2022 (*Shenzhen University*). [[Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Xie_MNSRNet_Multimodal_Transformer_Network_for_3D_Surface_Super-Resolution_CVPR_2022_paper.html)]
 * Others:
@@ -1769,6 +1771,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **Skill-Transformer**: "Skill Transformer: A Monolithic Policy for Mobile Manipulation", ICCV, 2023 (*Georgia Tech*). [[Paper](https://arxiv.org/abs/2308.09873)]
     * **RUPs**: "Nonrigid Object Contact Estimation With Regional Unwrapping Transformer", ICCV, 2023 (*Southeast University, China*). [[Paper](https://arxiv.org/abs/2308.14074)]
     * **RVT**: "RVT: Robotic View Transformer for 3D Object Manipulation", CoRL, 2023 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2306.14896)][[PyTorch](https://github.com/nvlabs/rvt)][[Website](https://robotic-view-transformer.github.io/)]
+    * **M2T2**: "M2T2: Multi-Task Masked Transformer for Object-centric Pick and Place", CoRL, 2023 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2311.00926)][[PyTorch](https://github.com/NVlabs/M2T2)][[Website](https://m2-t2.github.io/)]
 * Scene Decomposition:
     * **SRT**: "Scene Representation Transformer: Geometry-Free Novel View Synthesis Through Set-Latent Scene Representations", CVPR, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2111.13152)][[PyTorch (stelzner)](https://github.com/stelzner/srt)][[Website](https://srt-paper.github.io/)]
     * **OSRT**: "Object Scene Representation Transformer", NeurIPS, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2206.06922)][[Website](https://osrt-paper.github.io/)]
