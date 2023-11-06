@@ -1142,6 +1142,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **CutLER**: "Cut and Learn for Unsupervised Object Detection and Instance Segmentation", CVPR, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2301.11320)][[PyTorch](https://github.com/facebookresearch/CutLER)][[Website](http://people.eecs.berkeley.edu/~xdwang/projects/CutLER/)]
     * **ISA-TS**: "Invariant Slot Attention: Object Discovery with Slot-Centric Reference Frames", ICML, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2302.04973)]
     * **MOST**: "MOST: Multiple Object localization with Self-supervised Transformers for object discovery", ICCV, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2304.05387)][[PyTorch](https://github.com/rssaketh/MOST/)][[Website](https://rssaketh.github.io/most)]
+    * **GenPromp**: "Generative Prompt Model for Weakly Supervised Object Localization", ICCV, 2023 (*CAS*). [[Paper](https://arxiv.org/abs/2307.09756)][[PyTorch](https://github.com/callsys/GenPromp)]
     * **SeqCo-DETR**: "SeqCo-DETR: Sequence Consistency Training for Self-Supervised Object Detection with Transformers", arXiv, 2023 (*SenseTime*). [[Paper](https://arxiv.org/abs/2303.08481)]
     * **R-MAE**: "R-MAE: Regions Meet Masked Autoencoders", arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2306.05411)]
     * **SimDETR**: "SimDETR: Simplifying self-supervised pretraining for DETR", arXiv, 2023 (*Samsung*). [[Paper](https://arxiv.org/abs/2307.15697)]
