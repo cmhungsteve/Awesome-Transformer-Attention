@@ -1648,6 +1648,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **TFS3D**: "Less is More: Towards Efficient Few-shot 3D Semantic Segmentation via Training-free Networks", arXiv, 2023 (*CUHK*). [[Paper](https://arxiv.org/abs/2308.12961)][[PyTorch](https://github.com/yangyangyang127/TFS3D)]
     * **CIP-WPIS**: "When 3D Bounding-Box Meets SAM: Point Cloud Instance Segmentation with Weak-and-Noisy Supervision", arXiv, 2023 (*Australian National University*). [[Paper](https://arxiv.org/abs/2309.00828)]
     * **?**: "SAM-guided Unsupervised Domain Adaptation for 3D Segmentation", arXiv, 2023 (*ShanghaiTech*). [[Paper](https://arxiv.org/abs/2310.08820)]
+    * **CSF**: "Leveraging Large-Scale Pretrained Vision Foundation Models for Label-Efficient 3D Point Cloud Segmentation", arXiv, 2023 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2311.01989)]
 * Multi-Task:
     * **InvPT**: "Inverted Pyramid Multi-task Transformer for Dense Scene Understanding", ECCV, 2022 (*HKUST*). [[Paper](https://arxiv.org/abs/2203.07997)][[PyTorch](https://github.com/prismformore/Multi-Task-Transformer)]
     * **MTFormer**: "MTFormer: Multi-task Learning via Transformer and Cross-Task Reasoning", ECCV, 2022 (*CUHK*). [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/1353_ECCV_2022_paper.php)]
@@ -1663,6 +1664,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **HelixNet**: "Online Segmentation of LiDAR Sequences: Dataset and Algorithm", CVPRW, 2022 (*CNRS, France*). [[Paper](https://arxiv.org/abs/2206.08194)][[Website](https://romainloiseau.fr/helixnet/)][[PyTorch](https://github.com/romainloiseau/Helix4D)]
     * **Gaussian-Radar-Transformer**: "Gaussian Radar Transformer for Semantic Segmentation in Noisy Radar Data", RA-L, 2022 (*University of Bonn, Germany*). [[Paper](https://arxiv.org/abs/2212.03690)]
     * **MOST**: "Lidar Panoptic Segmentation and Tracking without Bells and Whistles", IROS, 2023 (*CMU*). [[Paper](https://arxiv.org/abs/2310.12464)][[PyTorch](https://github.com/abhinavagarwalla/most-lps)]
+    * **4D-Former**: "4D-Former: Multimodal 4D Panoptic Segmentation", CoRL, 2023 (*Waabi, Canada*). [[Paper](https://arxiv.org/abs/2311.01520)][[Website](https://waabi.ai/4d-former/)]
     * **MASK4D**: "MASK4D: Mask Transformer for 4D Panoptic Segmentation", arXiv, 2023 (*RWTH Aachen University, Germany*). [[Paper](https://arxiv.org/abs/2309.16133)]
 * Co-Segmentation:
     * **ReCo**: "ReCo: Retrieve and Co-segment for Zero-shot Transfer", NeurIPS, 2022 (*Oxford*). [[Paper](https://arxiv.org/abs/2206.07045)][[PyTorch](https://github.com/NoelShin/reco)][[Website](https://www.robots.ox.ac.uk/~vgg/research/reco/)]
