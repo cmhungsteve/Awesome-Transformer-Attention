@@ -1885,6 +1885,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **MotionLM**: "MotionLM: Multi-Agent Motion Forecasting as Language Modeling", ICCV, 2023 (*Waymo*). [[Paper](https://arxiv.org/abs/2309.16534)]
     * **OccFormer**: "OccFormer: Dual-path Transformer for Vision-based 3D Semantic Occupancy Prediction", ICCV, 2023 (*PhiGent Robotics, China*). [[Paper](https://arxiv.org/abs/2304.05316)][[PyTorch](https://github.com/zhangyp15/OccFormer)]
     * **Traj-MAE**: "Traj-MAE: Masked Autoencoders for Trajectory Prediction", ICCV, 2023 (*CUHK*). [[Paper](https://arxiv.org/abs/2303.06697)]
+    * **R-Pred**: "R-Pred: Two-Stage Motion Prediction Via Tube-Query Attention-Based Trajectory Refinement", ICCV, 2023 (*Hanyang University, Korea*). [[Paper](https://arxiv.org/abs/2211.08609)]
     * **MacFormer**: "MacFormer: Map-Agent Coupled Transformer for Real-time and Robust Trajectory Prediction", RAL, 2023 (*HKUST*). [[Paper](https://arxiv.org/abs/2308.10280)]
     * **InCrowdFormer**: "InCrowdFormer: On-Ground Pedestrian World Model From Egocentric Views", arXiv, 2023 (*Kyoto University*). [[Paper](https://arxiv.org/abs/2303.09534)]
     * **MTR++**: "MTR++: Multi-Agent Motion Prediction with Symmetric Scene Modeling and Guided Intention Querying", arXiv, 2023 (*MPI*). [[Paper](https://arxiv.org/abs/2306.17770)]
@@ -1900,7 +1901,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **CrowdMLP**: "CrowdMLP: Weakly-Supervised Crowd Counting via Multi-Granularity MLP", arXiv, 2022 (*University of Guelph, Canada*). [[Paper](https://arxiv.org/abs/2203.08219)]
     * **CounTR**: "CounTR: Transformer-based Generalised Visual Counting", arXiv, 2022 (*Shanghai Jiao Tong University*). [[Paper](https://arxiv.org/abs/2208.13721)][[Website](https://verg-avesta.github.io/CounTR_Webpage/)]
     * **CrowdCLIP**: "CrowdCLIP: Unsupervised Crowd Counting via Vision-Language Model", CVPR, 2023 (*Baidu*). [[Paper](https://arxiv.org/abs/2304.04231)][[Code (in construction)](https://github.com/dk-liang/CrowdCLIP)]
-    * **PET**: "Point-Query Quadtree for Crowd Counting, Localization, and More", ICCV, 2023 (*Huazhong University of Science and Technology*). [[Paper](https://arxiv.org/abs/2308.13814)][[Code (in construction)](https://github.com/cxliu0/PET)]
+    * **PET**: "Point-Query Quadtree for Crowd Counting, Localization, and More", ICCV, 2023 (*Huazhong University of Science and Technology*). [[Paper](https://arxiv.org/abs/2308.13814)][[PyTorch](https://github.com/cxliu0/PET)]
     * **CLIP-Count**: "CLIP-Count: Towards Text-Guided Zero-Shot Object Counting", arXiv, 2023 (*The Hong Kong Polytechnic University*). [[Paper](https://arxiv.org/abs/2305.07304)][[Code (in construction)](https://github.com/songrise/CLIP-Count)]
     * **?**: "Training-free Object Counting with Prompts", arXiv, 2023 (*A\⋆STAR*). [[Paper](https://arxiv.org/abs/2307.00038)][[PyTorch](https://github.com/shizenglin/training-free-object-counter)]
 * Visual Quality Assessment:
@@ -1967,6 +1968,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **LRGT**: "Long-Range Grouping Transformer for Multi-View 3D Reconstruction", ICCV, 2023 (*Macau University of Science and Technology*). [[Paper](https://arxiv.org/abs/2308.08724)][[PyTorch (in construction)](https://github.com/LiyingCV/Long-Range-Grouping-Transformer)]
     * **Spectral-Graphormer**: "Spectral Graphormer: Spectral Graph-based Transformer for Egocentric Two-Hand Reconstruction using Multi-View Color Images", ICCV, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2308.11015)]
     * **UMIFormer**: "UMIFormer: Mining the Correlations between Similar Tokens for Multi-View 3D Reconstruction", ICCV, 2023 (*Macau University of Science and Technology*). [[Paper](https://arxiv.org/abs/2302.13987)][[PyTorch](https://github.com/GaryZhu1996/UMIFormer)]
+    * **PlaneRecTR**: "PlaneRecTR: Unified Query Learning for 3D Plane Recovery from a Single View", ICCV, 2023 (*National University of Defense Technology, China*). [[Paper](https://arxiv.org/abs/2307.13756)][[PyTorch](https://github.com/SJingjia/PlaneRecTR)]
 * 360 Scene:
     * **?**: "Improving 360 Monocular Depth Estimation via Non-local Dense Prediction Transformer and Joint Supervised and Self-supervised Learning", AAAI, 2022 (*Seoul National University*). [[Paper](https://arxiv.org/abs/2109.10563)][[PyTorch](https://github.com/yuniw18/Joint_360depth)]
     * **PAVER**: "Panoramic Vision Transformer for Saliency Detection in 360° Videos", ECCV, 2022 (*Seoul National University*). [[Paper](https://arxiv.org/abs/2209.08956)]
