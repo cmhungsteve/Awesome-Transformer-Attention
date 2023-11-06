@@ -2014,6 +2014,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **ILA**: "Implicit Temporal Modeling with Learnable Alignment for Video Recognition", ICCV, 2023 (*Fudan*). [[Paper](https://arxiv.org/abs/2304.10465)][[PyTorch](https://github.com/Francis-Rings/ILA)]
     * **OV2Seg**: "Towards Open-Vocabulary Video Instance Segmentation", ICCV, 2023 (*University of Amsterdam*). [[Paper](https://arxiv.org/abs/2304.01715)][[PyTorch](https://github.com/haochenheheda/LVVIS)]
     * **DiST**: "Disentangling Spatial and Temporal Learning for Efficient Image-to-Video Transfer Learning", ICCV, 2023 (*Alibaba*). [[Paper](https://arxiv.org/abs/2309.07911)][[PyTorch](https://github.com/alibaba-mmai-research/DiST)]
+    * **GAP**: "Generative Action Description Prompts for Skeleton-based Action Recognition", ICCV, 2023 (*Alibaba*). [[Paper](https://arxiv.org/abs/2208.05318)][[PyTorch](https://github.com/MartinXM/GAP)]
     * **?**: "Language as the Medium: Multimodal Video Classification through text only", ICCVW, 2023 (*Unitary, UK*). [[Paper](https://arxiv.org/abs/2309.10783)]
     * **MAP**: "Seeing in Flowing: Adapting CLIP for Action Recognition with Motion Prompts Learning", ACMMM, 2023 (*Tencent*). [[Paper](https://arxiv.org/abs/2308.04828)]
     * **OTI**: "Orthogonal Temporal Interpolation for Zero-Shot Video Recognition", ACMMM, 2023 (*CAS*). [[Paper](https://arxiv.org/abs/2308.06897)][[Code (in construction)](https://github.com/sweetorangezhuyan/mm2023_oti)]
