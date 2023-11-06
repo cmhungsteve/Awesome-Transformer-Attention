@@ -789,6 +789,7 @@ If you find this repository useful, please consider citing this list:
     * **VD**: "Versatile Diffusion: Text, Images and Variations All in One Diffusion Model", ICCV, 2023 (*Oregon*). [[Paper](https://arxiv.org/abs/2211.08332)][[PyTorch](https://github.com/SHI-Labs/Versatile-Diffusion)]
     * **DiT**: "Scalable Diffusion Models with Transformers", ICCV, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2212.09748)][[PyTorch](https://github.com/facebookresearch/DiT)][[Website](https://www.wpeebles.com/DiT)]
     * **TCTS-FAS**: "Text-Conditioned Sampling Framework for Text-to-Image Generation with Masked Generative Models", ICCV, 2023 (*KAIST*). [[Paper](https://arxiv.org/abs/2304.01515)]
+    * **?**: "Discriminative Class Tokens for Text-to-Image Diffusion Models", ICCV, 2023 (*Tel Aviv*). [[Paper](https://arxiv.org/abs/2303.17155)][[PyTorch](https://github.com/idansc/discriminative_class_tokens)]
     * **LSDM**: "Language-driven Scene Synthesis using Multi-conditional Diffusion Model", NeurIPS, 2023 (*FSOFT AI Center, Vietnam*). [[Paper](https://arxiv.org/abs/2310.15948)][[PyTorch](https://github.com/andvg3/LSDM)][[Website](https://lang-scene-synth.github.io/)]
     * **E4T**: "Designing an Encoder for Fast Personalization of Text-to-Image Models", arXiv, 2023 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2302.12228)][[Website](https://tuning-encoder.github.io/)]
     * **?**: "Controlled and Conditional Text to Image Generation with Diffusion Prior", arXiv, 2023 (*Adobe*). [[Paper](https://arxiv.org/abs/2302.11710)]
