@@ -256,7 +256,7 @@ If you find this repository useful, please consider citing this list:
     * **CaKE-LM**: "Language Models are Causal Knowledge Extractors for Zero-shot Video Question Answering", CVPRW, 2023 (*NTU + Columbia*). [[Paper](https://arxiv.org/abs/2304.03754)]
     * **TransSTR**: "Discovering Spatio-Temporal Rationales for Video Question Answering", ICCV, 2023 (*NUS*). [[Paper](https://arxiv.org/abs/2307.12058)]
     * **Tem-adapter**: "Tem-adapter: Adapting Image-Text Pretraining for Video Question Answer", ICCV, 2023 (*CMU*). [[Paper](https://arxiv.org/abs/2308.08414)][[Code (in construction)](https://github.com/XLiu443/Tem-adapter)]
-    * **OVQA**: "Open-vocabulary Video Question Answering: A New Benchmark for Evaluating the Generalizability of Video Question Answering Models", ICCV, 2023 (*Korea University*). [[Paper](https://arxiv.org/abs/2308.09351)]
+    * **OVQA**: "Open-vocabulary Video Question Answering: A New Benchmark for Evaluating the Generalizability of Video Question Answering Models", ICCV, 2023 (*Korea University*). [[Paper](https://arxiv.org/abs/2308.09363)][[PyTorch](https://github.com/mlvlab/OVQA)]
     * **RaFormer**: "Redundancy-aware Transformer for Video Question Answering", ACMMM, 2023 (*NUS*). [[Paper](https://arxiv.org/abs/2308.03267)]
     * **LSS**: "Long Story Short: a Summarize-then-Search Method for Long Video Question Answering", BMVC, 2023 (*Yonsei University*). [[Paper](https://arxiv.org/abs/2311.01233)]
     * **Flipped-VQA**: "Large Language Models are Temporal and Causal Reasoners for Video Question Answering", EMNLP, 2023 (*Korea University*). [[Paper](https://arxiv.org/abs/2310.15747)][[Code (in construction)](https://github.com/mlvlab/Flipped-VQA)]
