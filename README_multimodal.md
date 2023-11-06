@@ -1293,8 +1293,9 @@ If you find this repository useful, please consider citing this list:
 * Sentiment Analysis:
     * **CubeMLP**: "CubeMLP: A MLP-based Model for Multimodal Sentiment Analysis and Depression Estimation", ACMMM, 2022 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2207.14087)]
     * **MCMulT**: "Multi-scale Cooperative Multimodal Transformers for Multimodal Sentiment Analysis in Videos", arXiv, 2022 (*Tencent*). [[Paper](https://arxiv.org/abs/2206.07981)]
-* Name Entity Recognition:
+* Entity Recognition:
     * **FMIT**: "Flat Multi-modal Interaction Transformer for Named Entity Recognition", International Conference on Computational Linguistics (COLING), 2022 (*South China University of Technology*). [[Paper](https://arxiv.org/abs/2208.11039)]
+    * **OVEN**: "Open-domain Visual Entity Recognition: Towards Recognizing Millions of Wikipedia Entities", ICCV, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2302.11154)][[PyTorch](https://github.com/edchengg/oven_eval)][[Website](https://open-vision-language.github.io/oven/)]
 * Localization via Embodied Dialog:
     * **LED-Bert**: "Transformer-based Localization from Embodied Dialog with Large-scale Pre-training", arXiv, 2022 (*Georgia Tech*). [[Paper](https://arxiv.org/abs/2210.04864)]
 * Object Captioning:
