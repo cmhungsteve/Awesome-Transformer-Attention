@@ -1235,7 +1235,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **TROI**: "Transformed ROIs for Capturing Visual Transformations in Videos", arXiv, 2021 (*NUS, Singapore*). [[Paper](https://arxiv.org/abs/2106.03162)]
     * **RelTransformer**: "RelTransformer: A Transformer-Based Long-Tail Visual Relationship Recognition", CVPR, 2022 (*KAUST*). [[Paper](https://arxiv.org/abs/2104.11934)][[PyTorch](https://github.com/Vision-CAIR/RelTransformer)]
     * **VReBERT**: "VReBERT: A Simple and Flexible Transformer for Visual Relationship Detection", ICPR, 2022 (*ANU*). [[Paper](https://arxiv.org/abs/2206.09111)]
-    * **UniVRD**: "Unified Visual Relationship Detection with Vision and Language Models", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2303.08998)]
+    * **UniVRD**: "Unified Visual Relationship Detection with Vision and Language Models", ICCV, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2303.08998)][[Code (in construction)](https://github.com/google-research/scenic/tree/main/scenic/projects/univrd)]
     * **RECODE**: "Zero-shot Visual Relation Detection via Composite Visual Cues from Large Language Models", arXiv, 2023 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2305.12476)]
 * Anomaly Detection:
     * **VT-ADL**: "VT-ADL: A Vision Transformer Network for Image Anomaly Detection and Localization", ISIE, 2021 (*University of Udine, Italy*). [[Paper](https://arxiv.org/abs/2104.10036)]
