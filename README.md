@@ -471,6 +471,7 @@ If you find this repository useful, please consider citing this list:
 * **Mobile-V-MoEs**: "Mobile V-MoEs: Scaling Down Vision Transformers via Sparse Mixture-of-Experts", arXiv, 2023 (*Apple*). [[Paper](https://arxiv.org/abs/2309.04354)]
 * **PPT**: "PPT: Token Pruning and Pooling for Efficient Vision Transformers", arXiv, 2023 (*Huawei*). [[Paper](https://arxiv.org/abs/2310.01812)]
 * **MatFormer**: "MatFormer: Nested Transformer for Elastic Inference", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2310.07707)]
+* **GTP-ViT**: "GTP-ViT: Efficient Vision Transformers via Graph-based Token Propagation", WACV, 2024 (*CSIRO Data61, Australia*). [[Paper](https://arxiv.org/abs/2311.03035)][[PyTorch](https://github.com/Ackesnal/GTP-ViT)]
 #### Conv + Transformer
 * **LeViT**: "LeViT: a Vision Transformer in ConvNet's Clothing for Faster Inference", ICCV, 2021 (*Facebook*). [[Paper](https://arxiv.org/abs/2104.01136)][[PyTorch](https://github.com/facebookresearch/LeViT)]
 * **CeiT**: "Incorporating Convolution Designs into Visual Transformers", ICCV, 2021 (*SenseTime*). [[Paper](https://arxiv.org/abs/2103.11816)][[PyTorch (rishikksh20)](https://github.com/rishikksh20/CeiT)]
@@ -1449,7 +1450,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **ASCG**: "Associating Spatially-Consistent Grouping with Text-supervised Semantic Segmentation", arXiv, 2023 (*ByteDance*). [[Paper](https://arxiv.org/abs/2304.01114)]
     * **ClsCLIP**: "[CLS] Token is All You Need for Zero-Shot Semantic Segmentation", arXiv, 2023 (*Eastern Institute for Advanced Study, China*). [[Paper](https://arxiv.org/abs/2304.06212)]
     * **MESS**: "What a MESS: Multi-Domain Evaluation of Zero-Shot Semantic Segmentation", arXiv, 2023 (*Karlsruhe Institute of Technology, Germnay*). [[Paper](https://arxiv.org/abs/2306.15521)][[PyTorch](https://github.com/blumenstiel/MESS)][[Website](https://blumenstiel.github.io/mess-benchmark/)]
-    * **LISA**: "LISA: Reasoning Segmentation via Large Language Model", arXiv, 2023 (*CUHK*). [[Paper](https://arxiv.org/abs/2308.00692)][[Code (in construction)](https://github.com/dvlab-research/LISA)]
+    * **LISA**: "LISA: Reasoning Segmentation via Large Language Model", arXiv, 2023 (*CUHK*). [[Paper](https://arxiv.org/abs/2308.00692)][[PyTorch](https://github.com/dvlab-research/LISA)]
     * **CLIPTeacher**: "CLIP Is Also a Good Teacher: A New Learning Framework for Inductive Zero-shot Semantic Segmentation", arXiv, 2023 (*Nagoya University*). [[Paper](https://arxiv.org/abs/2310.02296)]
     * **SAM-CLIP**: "SAM-CLIP: Merging Vision Foundation Models towards Semantic and Spatial Understanding", arXiv, 2023 (*Apple*). [[Paper](https://arxiv.org/abs/2310.15308)]
 * Open-World/Vocabulary:
@@ -1491,6 +1492,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **FC-CLIP**: "Convolutions Die Hard: Open-Vocabulary Segmentation with Single Frozen Convolutional CLIP", arXiv, 2023 (*ByteDance*). [[Paper](https://arxiv.org/abs/2308.02487)]
     * **?**: "Open-Vocabulary Semantic Segmentation via Attribute Decomposition-Aggregation", arXiv, 2023 (*Shanghai Jiao Tong*). [[Paper](https://arxiv.org/abs/2309.00096)]
     * **CLIP-DIY**: "CLIP-DIY: CLIP Dense Inference Yields Open-Vocabulary Semantic Segmentation For-Free", arXiv, 2023 (*Warsaw University of Technology, Poland*). [[Paper](https://arxiv.org/abs/2309.14289)]
+    * ****: "Rethinking Evaluation Metrics of Open-Vocabulary Segmentaion", arXiv, 2023 (*Harbin Engineering University*). [[Paper](https://arxiv.org/abs/2311.03352)][[PyTorch](https://github.com/qqlu/Entity)]
 * Universal Segmentation:
     * **K-Net**: "K-Net: Towards Unified Image Segmentation", NeurIPS, 2021 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2106.14855)][[PyTorch](https://github.com/ZwwWayne/K-Net/)]
     * **Mask2Former**: "Masked-attention Mask Transformer for Universal Image Segmentation", CVPR, 2022 (*Meta*). [[Paper](https://arxiv.org/abs/2112.01527)][[PyTorch](https://github.com/facebookresearch/Mask2Former)][[Website](https://bowenc0221.github.io/mask2former/)]
@@ -1502,6 +1504,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **DFormer**: "DFormer: Diffusion-guided Transformer for Universal Image Segmentation", arXiv, 2023 (*Tianjin University*). [[Paper](https://arxiv.org/abs/2306.03437)][[Code (in construction)](https://github.com/cp3wan/DFormer)]
     * **?**: "A Critical Look at the Current Usage of Foundation Model for Dense Recognition Task", arXiv, 2023 (*OMRON SINIC X, Japan*). [[Paper](https://arxiv.org/abs/2307.02862)]
     * **Mask2Anomaly**: "Mask2Anomaly: Mask Transformer for Universal Open-set Segmentation", arXiv, 2023 (*Politecnico di Torino, Italy*). [[Paper](https://arxiv.org/abs/2309.04573)]
+    * **SegGen**: "SegGen: Supercharging Segmentation Models with Text2Mask and Mask2Img Synthesis", arXiv, 2023 (**). [[Paper](https://arxiv.org/abs/2311.03355)][[Code (in construction)](https://github.com/prismformore/seggen)][[Website](https://seggenerator.github.io/)]
 * Multi-Modal:
     * **UCTNet**: "UCTNet: Uncertainty-Aware Cross-Modal Transformer Network for Indoor RGB-D Semantic Segmentation", ECCV, 2022 (*Lehigh University, Pennsylvania*). [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/7082_ECCV_2022_paper.php)]
     * **CMX**: "CMX: Cross-Modal Fusion for RGB-X Semantic Segmentation with Transformers", arXiv, 2022 (*Karlsruhe Institute of Technology, Germany*). [[Paper](https://arxiv.org/abs/2203.04838)][[PyTorch](https://github.com/huaaaliu/RGBX_Semantic_Segmentation)]
@@ -2064,6 +2067,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **SiamMAE**: "Siamese Masked Autoencoders", arXiv, 2023 (*Stanford*). [[Paper](https://arxiv.org/abs/2305.14344)][[Website](https://siam-mae-video.github.io/)]
     * **LSTA**: "Efficient Long-Short Temporal Attention Network for Unsupervised Video Object Segmentation", arXiv, 2023 (*Hangzhou Dianzi University*). [[Paper](https://arxiv.org/abs/2309.11707)]
     * **DoRA**: "Is ImageNet worth 1 video? Learning strong image encoders from 1 long unlabelled video", arXiv, 2023 (*INRIA*). [[Paper](https://arxiv.org/abs/2310.08584)]
+    * **AMD**: "Asymmetric Masked Distillation for Pre-Training Small Foundation Models", arXiv, 2023 (*Nanjing University*). [[Paper](https://arxiv.org/abs/2311.03149)]
 * X-shot:
     * **ResT**: "Cross-modal Representation Learning for Zero-shot Action Recognition", CVPR, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2205.01657)]
     * **ViSET**: "Zero-Shot Action Recognition with Transformer-based Video Semantic Embedding", arXiv, 2022 (*University of South FLorida*). [[Paper](https://arxiv.org/abs/2203.05156)]
