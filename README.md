@@ -892,6 +892,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **?**: "Reviving Shift Equivariance in Vision Transformers", arXiv, 2023 (*Maryland*). [[Paper](https://arxiv.org/abs/2306.07470)]
 * **ViT-ReciproCAM**: "ViT-ReciproCAM: Gradient and Attention-Free Visual Explanations for Vision Transformer", arXiv, 2023 (*Intel*). [[Paper](https://arxiv.org/abs/2310.02588)]
 * **Eureka-moment**: "Eureka-Moments in Transformers: Multi-Step Tasks Reveal Softmax Induced Optimization Problems", arXiv, 2023 (*Bosch*). [[Paper](https://arxiv.org/abs/2310.12956)]
+* **INTR**: "A Simple Interpretable Transformer for Fine-Grained Image Classification and Analysis", arXiv, 2023 (*OSU*). [[Paper](https://arxiv.org/abs/2311.04157)][[PyTorch](https://github.com/Imageomics/INTR)]
 
 [[Back to Overview](#overview)]
 
@@ -967,6 +968,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **Decoupled-DETR**: "Decoupled DETR: Spatially Disentangling Localization and Classification for Improved End-to-End Object Detection", ICCV, 2023 (*SenseTime*). [[Paper](https://arxiv.org/abs/2310.15955)]
     * **StageInteractor**: "StageInteractor: Query-based Object Detector with Cross-stage Interaction", ICCV, 2023 (*Nanjing University*). [[Paper](https://arxiv.org/abs/2304.04978)]
     * **Rank-DETR**: "Rank-DETR for High Quality Object Detection", NeurIPS, 2023 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2310.08854)]
+    * **Cal-DETR**: "Cal-DETR: Calibrated Detection Transformer", NeurIPS, 2023 (*MBZUAI*). [[Paper](https://arxiv.org/abs/2311.03570)][[PyTorch](https://github.com/akhtarvision/cal-detr)]
     * **KS-DETR**: "KS-DETR: Knowledge Sharing in Attention Learning for Detection Transformer", arXiv, 2023 (*Toyota Technological Institute*). [[Paper](https://arxiv.org/abs/2302.11208)][[PyTorch](https://github.com/edocanonymous/KS-DETR)]
     * **FeatAug-DETR**: "FeatAug-DETR: Enriching One-to-Many Matching for DETRs with Feature Augmentation", arXiv, 2023 (*CUHK*). [[Paper](https://arxiv.org/abs/2303.01503)][[Codee (in construction)](https://github.com/rongyaofang/FeatAug-DETR)]
     * **RT-DETR**: "DETRs Beat YOLOs on Real-time Object Detection", arXiv, 2023 (*Baidu*). [[Paper](https://arxiv.org/abs/2304.08069)]
@@ -1108,6 +1110,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **AGER**: "Agglomerative Transformer for Human-Object Interaction Detection", ICCV, 2023 (*Shanghai Jiao Tong*). [[Paper](https://arxiv.org/abs/2308.08370)][[Code (in construction)](https://github.com/six6607/AGER)]
 * **RLIPv2**: "RLIPv2: Fast Scaling of Relational Language-Image Pre-training", ICCV, 2023 (*Alibaba*). [[Paper](https://arxiv.org/abs/2308.09351)][[PyTorch](https://github.com/JacobYuan7/RLIPv2)]
 * **EgoPCA**: "EgoPCA: A New Framework for Egocentric Hand-Object Interaction Understanding", ICCV, 2023 (*Shanghai Jiao Tong*). [[Paper](https://arxiv.org/abs/2309.02423)][[Website](https://mvig-rhos.com/ego_pca)]
+* **UniHOI**: "Detecting Any Human-Object Interaction Relationship: Universal HOI Detector with Spatial Prompt Learning on Foundation Models", NeurIPS, 2023 (*Southeast University*). [[Paper](https://arxiv.org/abs/2311.03799)][[Code (in construction)](https://github.com/Caoyichao/UniHOI)]
 * **?**: "Exploiting CLIP for Zero-shot HOI Detection Requires Knowledge Distillation at Multiple Levels", arXiv, 2023 (*KU Leuven*). [[Paper](https://arxiv.org/abs/2309.05069)]
 
 [[Back to Overview](#overview)]
@@ -1504,7 +1507,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **DFormer**: "DFormer: Diffusion-guided Transformer for Universal Image Segmentation", arXiv, 2023 (*Tianjin University*). [[Paper](https://arxiv.org/abs/2306.03437)][[Code (in construction)](https://github.com/cp3wan/DFormer)]
     * **?**: "A Critical Look at the Current Usage of Foundation Model for Dense Recognition Task", arXiv, 2023 (*OMRON SINIC X, Japan*). [[Paper](https://arxiv.org/abs/2307.02862)]
     * **Mask2Anomaly**: "Mask2Anomaly: Mask Transformer for Universal Open-set Segmentation", arXiv, 2023 (*Politecnico di Torino, Italy*). [[Paper](https://arxiv.org/abs/2309.04573)]
-    * **SegGen**: "SegGen: Supercharging Segmentation Models with Text2Mask and Mask2Img Synthesis", arXiv, 2023 (**). [[Paper](https://arxiv.org/abs/2311.03355)][[Code (in construction)](https://github.com/prismformore/seggen)][[Website](https://seggenerator.github.io/)]
+    * **SegGen**: "SegGen: Supercharging Segmentation Models with Text2Mask and Mask2Img Synthesis", arXiv, 2023 (*Adobe*). [[Paper](https://arxiv.org/abs/2311.03355)][[Code (in construction)](https://github.com/prismformore/seggen)][[Website](https://seggenerator.github.io/)]
 * Multi-Modal:
     * **UCTNet**: "UCTNet: Uncertainty-Aware Cross-Modal Transformer Network for Indoor RGB-D Semantic Segmentation", ECCV, 2022 (*Lehigh University, Pennsylvania*). [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/7082_ECCV_2022_paper.php)]
     * **CMX**: "CMX: Cross-Modal Fusion for RGB-X Semantic Segmentation with Transformers", arXiv, 2022 (*Karlsruhe Institute of Technology, Germany*). [[Paper](https://arxiv.org/abs/2203.04838)][[PyTorch](https://github.com/huaaaliu/RGBX_Semantic_Segmentation)]
