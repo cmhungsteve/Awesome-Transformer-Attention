@@ -557,6 +557,7 @@ If you find this repository useful, please consider citing this list:
     * **PaLI-3**: "PaLI-3 Vision Language Models: Smaller, Faster, Stronger", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2310.09199)]
     * **COMM**: "From CLIP to DINO: Visual Encoders Shout in Multi-modal Large Language Models", arXiv, 2023 (*Huawei*). [[Paper](https://arxiv.org/abs/2310.08825)][[PyTorch (in construction)](https://github.com/YuchenLiu98/COMM)]
     * **CogVLM**: "CogVLM: Visual Expert for Pretrained Language Models", arXiv, 2023 (*Zhipu AI, China*). [[Paper](https://arxiv.org/abs/2311.03079)][[PyTorch](https://github.com/THUDM/CogVLM)]
+    * **OtterHD**: "OtterHD: A High-Resolution Multi-modality Model", arXiv, 2023 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2311.04219)][[PyTorch](https://github.com/Luodian/Otter)]
 * Video:
     * **COOT**: "COOT: Cooperative Hierarchical Transformer for Video-Text Representation Learning", NeurIPS, 2020 (*University of Freiburg*). [[Paper](https://arxiv.org/abs/2011.00597)][[PyTorch](https://github.com/gingsi/coot-videotext)]
     * **Parameter-Reduction**: "Parameter Efficient Multimodal Transformers for Video Representation Learning", ICLR, 2021 (*Seoul National University*). [[Paper](https://openreview.net/forum?id=6UdQLhqJyFD)]
@@ -1062,6 +1063,7 @@ If you find this repository useful, please consider citing this list:
     * **?**: "Meta Learning to Bridge Vision and Language Models for Multimodal Few-Shot Learning", ICLR, 2023 (*University of Amsterdam*). [[Paper](https://arxiv.org/abs/2302.14794)]
     * **?**: "Multimodality Helps Unimodality: Cross-Modal Few-Shot Learning with Multimodal Models", CVPR, 2023 (*CMU*). [[Paper](https://arxiv.org/abs/2301.06267)]
     * **SADA**: "Few-Shot Learning with Visual Distribution Calibration and Cross-Modal Distribution Alignment", CVPR, 2023 (*Huawei*). [[Paper](https://arxiv.org/abs/2305.11439)][[PyTorch](https://github.com/bhrqw/SADA)]
+    * **Meta-Adapter**: "Meta-Adapter: An Online Few-shot Learner for Vision-Language Model", NeurIPS, 2023 (*Xi'an JiaoTong*). [[Paper](https://arxiv.org/abs/2311.03774)]
     * **LFA**: "Black Box Few-Shot Adaptation for Vision-Language models", arXiv, 2023 (*Samsung*). [[Paper](https://arxiv.org/abs/2304.01752)]
     * **?**: "Making the Most of What You Have: Adapting Pre-trained Visual Language Models in the Low-data Regime", arXiv, 2023 (*DeepMind*). [[Paper](https://arxiv.org/abs/2305.02297)]
     * **Proto-CLIP**: "Proto-CLIP: Vision-Language Prototypical Network for Few-Shot Learning", arXiv, 2023 (*UT Dallas*). [[Paper](https://arxiv.org/abs/2307.03073)]
@@ -1239,7 +1241,7 @@ If you find this repository useful, please consider citing this list:
     * **OpenMask3D**: "OpenMask3D: Open-Vocabulary 3D Instance Segmentation", arXiv, 2023 (*ETHZ*). [[Paper](https://arxiv.org/abs/2306.13631)][[Website (in construction)](https://openmask3d.github.io/)]
     * **Lowis3D**: "Lowis3D: Language-Driven Open-World Instance-Level 3D Scene Understanding", arXiv, 2023 (*HKU*). [[Paper](https://arxiv.org/abs/2308.00353)]
     * **OpenIns3D**: "OpenIns3D: Snap and Lookup for 3D Open-vocabulary Instance Segmentation", arXiv, 2023 (*Cambridge*). [[Paper](https://arxiv.org/abs/2309.00616)][[Website](https://zheninghuang.github.io/OpenIns3D/)]
-    * **ConceptGraphs**: "ConceptGraphs: Open-Vocabulary 3D Scene Graphs for Perception and Planning", arXiv, 2023 (*1University of Toronto + Universite de Montreal*). [[Paper](https://arxiv.org/abs/2309.16650)][[PyTorch](https://github.com/concept-graphs/concept-graphs)][[Website](https://concept-graphs.github.io/)]
+    * **ConceptGraphs**: "ConceptGraphs: Open-Vocabulary 3D Scene Graphs for Perception and Planning", arXiv, 2023 (*University of Toronto + Universite de Montreal*). [[Paper](https://arxiv.org/abs/2309.16650)][[PyTorch](https://github.com/concept-graphs/concept-graphs)][[Website](https://concept-graphs.github.io/)]
 * Speech Recognition:
     * **AV-HuBERT**: "Robust Self-Supervised Audio-Visual Speech Recognition", arXiv, 2022 (*Meta*). [[Paper](https://arxiv.org/abs/2201.01763)][[PyTorch](https://github.com/facebookresearch/av_hubert)]
     * **?**: "Transformer-Based Video Front-Ends for Audio-Visual Speech Recognition", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2201.10439)]
