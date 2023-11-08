@@ -544,6 +544,7 @@ If you find this repository useful, please consider citing this list:
 * **NAR-Former-V2**: "NAR-Former V2: Rethinking Transformer for Universal Neural Network Representation Learning", arXiv, 2023 (*Intellifusion, China*). [[Paper](https://arxiv.org/abs/2306.10792)]
 * **AutoST**: "AutoST: Training-free Neural Architecture Search for Spiking Transformers", arXiv, 2023 (*NC State*). [[Paper](https://arxiv.org/abs/2307.00293)]
 * **TurboViT**: "TurboViT: Generating Fast Vision Transformers via Generative Architecture Search", arXiv, 2023 (*University of Waterloo*). [[Paper](https://arxiv.org/abs/2308.11421)]
+* **FLORA**: "FLORA: Fine-grained Low-Rank Architecture Search for Vision Transformer", WACV, 2024 (*NYCU*). [[Paper](https://arxiv.org/abs/2311.03912)][[PyTorch](https://github.com/shadowpa0327/FLORA)]
 
 [[Back to Overview](#overview)]
 
