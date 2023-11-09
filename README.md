@@ -1053,6 +1053,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **Uni3DETR**: "Uni3DETR: Unified 3D Detection Transformer", NeurIPS, 2023 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2310.05699)][[PyTorch](https://github.com/zhenyuw16/Uni3DETR)]
 * **STEMD**: "Spatial-Temporal Enhanced Transformer Towards Multi-Frame 3D Object Detection", arXiv, 2023 (*CUHK*). [[Paper](https://arxiv.org/abs/2307.00347)][[Code (in construction)(https://github.com/Eaphan/STEMD)]]
 * **V-DETR**: "V-DETR: DETR with Vertex Relative Position Encoding for 3D Object Detection", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2308.04409)][[Code (in construction)](https://github.com/yichaoshen-MS/V-DETR)]
+* **3DiffTection**: "3DiffTection: 3D Object Detection with Geometry-Aware Diffusion Features", arXiv, 2023 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2311.04391)][[Code (in construction)](https://github.com/nv-tlabs/3DiffTection)][[Website](https://research.nvidia.com/labs/toronto-ai/3difftection/)]
 
 [[Back to Overview](#overview)]
 
@@ -1194,6 +1195,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **EdaDet**: "EdaDet: Open-Vocabulary Object Detection Using Early Dense Alignment", ICCV, 2023 (*ShanghaiTech*). [[Paper](https://arxiv.org/abs/2309.01151)][[Website](https://chengshiest.github.io/edadet/)]
     * **V3Det**: "V3Det: Vast Vocabulary Visual Detection Dataset", ICCV, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2304.03752)][[GitHub](https://github.com/V3Det/V3Det)][[Website](https://v3det.openxlab.org.cn/)]
     * **CoDet**: "CoDet: Co-Occurrence Guided Region-Word Alignment for Open-Vocabulary Object Detection", NeurIPS, 2023 (*ByteDance*). [[Paper](https://arxiv.org/abs/2310.16667)][[Code (in construction)](https://github.com/CVMI-Lab/CoDet)]
+    * **DAMEX**: "DAMEX: Dataset-aware Mixture-of-Experts for visual understanding of mixture-of-datasets", NeurIPS, 2023 (*Georgia Tech*). [[Paper](https://arxiv.org/abs/2311.04894)][[Code (in construction)](https://github.com/jinga-lala/DAMEX)]
     * **Grounding-DINO**: "Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection", arXiv, 2023 (*IDEA*). [[Paper](https://arxiv.org/abs/2303.05499)]
     * **GridCLIP**: "GridCLIP: One-Stage Object Detection by Grid-Level CLIP Representation Learning", arXiv, 2023 (*Queen Mary University of London*). [[Paper](https://arxiv.org/abs/2303.09252)]
     * **?**: "Three ways to improve feature alignment for open vocabulary detection", arXiv, 2023 (*DeepMind*). [[Paper](https://arxiv.org/abs/2303.13518)]
