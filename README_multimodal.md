@@ -1370,6 +1370,9 @@ If you find this repository useful, please consider citing this list:
     * **MiniGPT-v2**: "MiniGPT-v2: large language model as a unified interface for vision-language multi-task learning", arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2310.09478)][[PyTorch](https://github.com/Vision-CAIR/MiniGPT-4)][[Website](https://minigpt-v2.github.io/)]
     * **Woodpecker**: "Woodpecker: Hallucination Correction for Multimodal Large Language Models", arXiv, 2023 (*Tencent*). [[Paper](https://arxiv.org/abs/2310.16045)][[PyTorch](https://github.com/BradyFU/Woodpecker)]
     * **LLaVA-Interactive**: "LLaVA-Interactive: An All-in-One Demo for Image Chat, Segmentation, Generation and Editing", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2311.00571)][[PyTorch](https://github.com/LLaVA-VL/LLaVA-Interactive-Demo)][[Website](https://llava-vl.github.io/llava-interactive/)]
+    * **NExT-Chat**: "NExT-Chat: An LMM for Chat, Detection and Segmentation", arXiv, 2023 (*NUS*). [[Paper](https://arxiv.org/abs/2311.04498)][[Code (in construction)](https://github.com/NExT-ChatV/NExT-Chat)][[Website](https://next-chatv.github.io/)]
+    * **mPLUG-Owl**: "mPLUG-Owl: Modularization Empowers Large Language Models with Multimodality", arXiv, 2023 (*Alibaba*). [[Paper](https://arxiv.org/abs/2304.14178)][[PyTorch](https://github.com/X-PLUG/mPLUG-Owl)]
+    * **mPLUG-Owl2**: "mPLUG-Owl2: Revolutionizing Multi-modal Large Language Model with Modality Collaboration", arXiv, 2023 (*Alibaba*). [[Paper](https://arxiv.org/abs/2311.04257)][[PyTorch](https://github.com/X-PLUG/mPLUG-Owl/tree/main/mPLUG-Owl2)]
 * Visual Reasoning:
     * **BDC-Adapter**: "BDC-Adapter: Brownian Distance Covariance for Better Vision-Language Reasoning", BMVC, 2023 (*SUSTech*). [[Paper](https://arxiv.org/abs/2309.01256)]
     * **RPT**: "Fine-Grained Regional Prompt Tuning for Visual Abductive Reasoning", arXiv, 2023 (*A\*STAR*). [[Paper](https://arxiv.org/abs/2303.10428)]
@@ -1377,6 +1380,7 @@ If you find this repository useful, please consider citing this list:
     * **SDS-CLIP**: "Augmenting CLIP with Improved Visio-Linguistic Reasoning", arXiv, 2023 (*Maryland*). [[Paper](https://arxiv.org/abs/2307.09233)]
     * **?**: "Towards Grounded Visual Spatial Reasoning in Multi-Modal Vision Language Models", arXiv, 2023 (*George Mason University*). [[Paper](https://arxiv.org/abs/2308.09778)]
     * **ViCor**: "ViCor: Bridging Visual Understanding and Commonsense Reasoning with Large Language Models", arXiv, 2023 (*UC Santa Cruz*). [[Paper](https://arxiv.org/abs/2310.05872)]
+    * **GENOME**: "GENOME: GenerativE Neuro-symbOlic visual reasoning by growing and reusing ModulEs", arXiv, 2023 (*IBM*). [[Paper](https://arxiv.org/abs/2311.04901)][[PyTorch](https://github.com/UMass-Foundation-Model/genome)][[Website](https://vis-www.cs.umass.edu/genome/)]
 * Tracking:
     * **JointNLT**: "Joint Visual Grounding and Tracking with Natural Language Specification", CVPR, 2023 (*Harbin Institute of Technology*). [[Paper](https://arxiv.org/abs/2303.12027)][[PyTorch](https://github.com/lizhou-cs/JointNLT)]
     * **MMTrack**: "Towards Unified Token Learning for Vision-Language Tracking", arXiv, 2023 (*Guangxi Normal University*). [[Paper](https://arxiv.org/pdf/2308.14103.pdf)]
@@ -1400,6 +1404,7 @@ If you find this repository useful, please consider citing this list:
 * Social Interaction:
     * **HIINT**: "HIINT: Historical, Intra- and Inter- personal Dynamics Modeling with Cross-person Memory Transformer", arXiv, 2023 (*MIT*). [[Paper](https://arxiv.org/abs/2305.12369)]
 * Evaluation:
+    * **HELM**: "Holistic Evaluation of Text-To-Image Models", NeurIPS (Datasets and Benchmarks), 2023 (*Stanford*). [[Paper](https://arxiv.org/abs/2311.04287)][[PyTorch](https://github.com/stanford-crfm/helm)][[Website](https://crfm.stanford.edu/heim/)]
     * **Perception-Test**: "Perception Test: A Diagnostic Benchmark for Multimodal Video Models", arXiv, 2023 (*DeepMind*). [[Paper](https://arxiv.org/abs/2305.13786)][[GitHub](https://github.com/deepmind/perception_test)]
     * **VLM-Probing**: "Scalable Performance Analysis for Vision-Language Models", Joint Conference on Lexical and Computational Semantics (\*SEM), 2023 (*UMich*). [[Paper](https://arxiv.org/abs/2305.18786)][[PyTorch](https://github.com/MichiganNLP/Scalable-VLM-Probing)]
     * **VisualGPTScore**: "VisualGPTScore: Visio-Linguistic Reasoning with Multimodal Generative Pre-Training Scores", arXiv, 2023 (*CMU*). [[Paper](https://arxiv.org/abs/2306.01879)][[Code (in construction)](https://github.com/linzhiqiu/visual_gpt_score/)][[Website](https://linzhiqiu.github.io/papers/visual_gpt_score/)]
