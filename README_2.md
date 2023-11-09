@@ -409,6 +409,7 @@ If you find this repository useful, please consider citing this list:
 * **SSCP**: "Selecting Learnable Training Samples is All DETRs Need in Crowded Pedestrian Detection", arXiv, 2023 (*Chongqing University of Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2305.10801)]
 * **PI-VL**: "Exploring Part-Informed Visual-Language Learning for Person Re-Identification", arXiv, 2023 (*iFLYTEK, China*). [[Paper](https://arxiv.org/abs/2308.02738)]
 * **TBPS-CLIP**: "An Empirical Study of CLIP for Text-based Person Search", arXiv, 2023 (*Soochow University, China*). [[Paper](https://arxiv.org/abs/2308.10045)][[PyTorch](https://github.com/Flame-Chasers/TBPS-CLIP)]
+* **PersonMAE**: "PersonMAE: Person Re-Identification Pre-Training with Masked AutoEncoders", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2311.04496)]
 
 [[Back to Overview](#overview)]
 
