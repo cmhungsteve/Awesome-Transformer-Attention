@@ -349,6 +349,7 @@ If you find this repository useful, please consider citing this list:
 * **ChannelViT**: "Channel Vision Transformers: An Image Is Worth C x 16 x 16 Words", arXiv, 2023 (*Insitro, CA*). [[Paper](https://arxiv.org/abs/2309.16108)]
 * **EViT**: "EViT: An Eagle Vision Transformer with Bi-Fovea Self-Attention", arXiv, 2023 (*Nankai University*). [[Paper](https://arxiv.org/abs/2310.06629)]
 * **ViR**: "ViR: Vision Retention Networks", arXiv, 2023 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2310.19731)]
+* **abs-win**: "Window Attention is Bugged: How not to Interpolate Position Embeddings", arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2311.05613)]
 #### Efficient Vision Transformer
 * **DeiT**: "Training data-efficient image transformers & distillation through attention", ICML, 2021 (*Facebook*). [[Paper](https://arxiv.org/abs/2012.12877)][[PyTorch](https://github.com/facebookresearch/deit)]
 * **ConViT**: "ConViT: Improving Vision Transformers with Soft Convolutional Inductive Biases", ICML, 2021 (*Facebook*). [[Paper](https://arxiv.org/abs/2103.10697)][[Code](https://github.com/facebookresearch/convit)]
