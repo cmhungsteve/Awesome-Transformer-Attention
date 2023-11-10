@@ -1373,6 +1373,8 @@ If you find this repository useful, please consider citing this list:
     * **NExT-Chat**: "NExT-Chat: An LMM for Chat, Detection and Segmentation", arXiv, 2023 (*NUS*). [[Paper](https://arxiv.org/abs/2311.04498)][[Code (in construction)](https://github.com/NExT-ChatV/NExT-Chat)][[Website](https://next-chatv.github.io/)]
     * **mPLUG-Owl**: "mPLUG-Owl: Modularization Empowers Large Language Models with Multimodality", arXiv, 2023 (*Alibaba*). [[Paper](https://arxiv.org/abs/2304.14178)][[PyTorch](https://github.com/X-PLUG/mPLUG-Owl)]
     * **mPLUG-Owl2**: "mPLUG-Owl2: Revolutionizing Multi-modal Large Language Model with Modality Collaboration", arXiv, 2023 (*Alibaba*). [[Paper](https://arxiv.org/abs/2311.04257)][[PyTorch](https://github.com/X-PLUG/mPLUG-Owl/tree/main/mPLUG-Owl2)]
+    * **LLaVA-Plus**: "LLaVA-Plus: Learning to Use Tools for Creating Multimodal Agents", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2311.05437)][[PyTorch](https://github.com/LLaVA-VL/LLaVA-Plus-Codebase)][[Website](https://llava-vl.github.io/llava-plus/)]
+    * **u-LLaVA**: "u-LLaVA: Unifying Multi-Modal Tasks via Large Language Model", arXiv, 2023 (*OPPO*). [[Paper](https://arxiv.org/abs/2311.05348)]
 * Visual Reasoning:
     * **BDC-Adapter**: "BDC-Adapter: Brownian Distance Covariance for Better Vision-Language Reasoning", BMVC, 2023 (*SUSTech*). [[Paper](https://arxiv.org/abs/2309.01256)]
     * **RPT**: "Fine-Grained Regional Prompt Tuning for Visual Abductive Reasoning", arXiv, 2023 (*A\*STAR*). [[Paper](https://arxiv.org/abs/2303.10428)]
