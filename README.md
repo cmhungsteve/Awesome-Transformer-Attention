@@ -350,6 +350,7 @@ If you find this repository useful, please consider citing this list:
 * **EViT**: "EViT: An Eagle Vision Transformer with Bi-Fovea Self-Attention", arXiv, 2023 (*Nankai University*). [[Paper](https://arxiv.org/abs/2310.06629)]
 * **ViR**: "ViR: Vision Retention Networks", arXiv, 2023 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2310.19731)]
 * **abs-win**: "Window Attention is Bugged: How not to Interpolate Position Embeddings", arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2311.05613)]
+* **FMViT**: "FMViT: A multiple-frequency mixing Vision Transformer", arXiv, 2023 (*Alibaba*). [[Paper](https://arxiv.org/abs/2311.05707)][[Code (in construction)](https://github.com/tany0699/FMViT)]
 #### Efficient Vision Transformer
 * **DeiT**: "Training data-efficient image transformers & distillation through attention", ICML, 2021 (*Facebook*). [[Paper](https://arxiv.org/abs/2012.12877)][[PyTorch](https://github.com/facebookresearch/deit)]
 * **ConViT**: "ConViT: Improving Vision Transformers with Soft Convolutional Inductive Biases", ICML, 2021 (*Facebook*). [[Paper](https://arxiv.org/abs/2103.10697)][[Code](https://github.com/facebookresearch/convit)]
