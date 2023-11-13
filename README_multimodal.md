@@ -558,6 +558,7 @@ If you find this repository useful, please consider citing this list:
     * **COMM**: "From CLIP to DINO: Visual Encoders Shout in Multi-modal Large Language Models", arXiv, 2023 (*Huawei*). [[Paper](https://arxiv.org/abs/2310.08825)][[PyTorch (in construction)](https://github.com/YuchenLiu98/COMM)]
     * **CogVLM**: "CogVLM: Visual Expert for Pretrained Language Models", arXiv, 2023 (*Zhipu AI, China*). [[Paper](https://arxiv.org/abs/2311.03079)][[PyTorch](https://github.com/THUDM/CogVLM)]
     * **OtterHD**: "OtterHD: A High-Resolution Multi-modality Model", arXiv, 2023 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2311.04219)][[PyTorch](https://github.com/Luodian/Otter)]
+    * **Florence-2**: "Florence-2: Advancing a Unified Representation for a Variety of Vision Tasks", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2311.06242)]
 * Video:
     * **COOT**: "COOT: Cooperative Hierarchical Transformer for Video-Text Representation Learning", NeurIPS, 2020 (*University of Freiburg*). [[Paper](https://arxiv.org/abs/2011.00597)][[PyTorch](https://github.com/gingsi/coot-videotext)]
     * **Parameter-Reduction**: "Parameter Efficient Multimodal Transformers for Video Representation Learning", ICLR, 2021 (*Seoul National University*). [[Paper](https://openreview.net/forum?id=6UdQLhqJyFD)]
@@ -1194,6 +1195,7 @@ If you find this repository useful, please consider citing this list:
     * **VIMA**: "VIMA: General Robot Manipulation with Multimodal Prompts", ICML, 2023 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2210.03094)][[PyTorch](https://github.com/vimalabs/VIMA)][[Website](https://vimalabs.github.io/)]
     * **GVCCI**: "GVCCI: Lifelong Learning of Visual Grounding for Language-Guided Robotic Manipulation", IROS, 2023 (*SNU, Korea*). [[Paper](https://arxiv.org/abs/2307.05963)]
     * **LACO**: "Language-Conditioned Path Planning", CoRL, 2023 (*Berkeley*). [[Paper](https://arxiv.org/abs/2308.16893)][[Code (in construction)](https://github.com/amberxie88/lapp)][[Website](https://amberxie88.github.io/lapp/)]
+    * **CROG**: "Language-guided Robot Grasping: CLIP-based Referring Grasp Synthesis in Clutter", CoRL, 2023 (*University of Groningen, Netherlands*). [[Paper](https://arxiv.org/abs/2311.05779)][[PyTorch](https://github.com/gtziafas/OCID-VLG)]
     * **Grounded-Decoding**: "Grounded Decoding: Guiding Text Generation with Grounded Models for Robot Control", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2303.00855)][[Website](https://grounded-decoding.github.io/)]
     * **MOO**: "Open-World Object Manipulation using Pre-trained Vision-Language Models", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2303.00905)][[Website](https://robot-moo.github.io/)]
     * **?**: "Vision-Language Models as Success Detectors", arXiv, 2023 (*DeepMind*). [[Paper](https://arxiv.org/abs/2303.07280)]
