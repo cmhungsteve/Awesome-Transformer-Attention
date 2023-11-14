@@ -983,6 +983,7 @@ If you find this repository useful, please consider citing this list:
 * **Slot-VAE**: "Slot-VAE: Object-Centric Scene Generation with Slot Attention", ICML, 2023 (*Delft University of Technology, Netherland*). [[Paper](https://arxiv.org/abs/2306.06997)]
 * **Efficient-VQGAN**: "Efficient-VQGAN: Towards High-Resolution Image Generation with Efficient Vision Transformers", ICCV, 2023 (*Alibaba*). [[Paper](https://arxiv.org/abs/2310.05400)]
 * **MDT**: "Masked Diffusion Transformer is a Strong Image Synthesizer", ICCV, 2023 (*Sea AI Lab*). [[Paper](https://arxiv.org/abs/2303.14389)][[PyTorch](https://github.com/sail-sg/MDT)]
+* **LayoutPrompter**: "LayoutPrompter: Awaken the Design Ability of Large Language Models", NeurIPS, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2311.06495)]
 * **VQ3D**: "VQ3D: Learning a 3D-Aware Generative Model on ImageNet", arXiv, 2023 (*Stanford*). [[Paper](https://arxiv.org/abs/2302.06833)][[Website](https://kylesargent.github.io/vq3d)]
 * **LayoutDiffuse**: "LayoutDiffuse: Adapting Foundational Diffusion Models for Layout-to-Image Generation", arXiv, 2023 (*Amazon*). [[Paper](https://arxiv.org/abs/2302.08908)]
 * **StraIT**: "StraIT: Non-autoregressive Generation with Stratified Image Transformer", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2303.00750)]
