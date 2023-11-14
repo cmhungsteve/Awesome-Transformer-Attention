@@ -1167,6 +1167,7 @@ If you find this repository useful, please consider citing this list:
     * **RAM**: "Recognize Anything: A Strong Image Tagging Model", arXiv, 2023 (*OPPO*). [[Paper](https://arxiv.org/abs/2306.03514)][[PyTorch](https://github.com/xinyu1205/Tag2Text-Recognize_Anything)][[Website](https://recognize-anything.github.io/)]
     * **InstructDiffusion**: "InstructDiffusion: A Generalist Modeling Interface for Vision Tasks", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2309.03895)][[PyTorch](https://github.com/cientgu/InstructDiffusion)][[Website](https://gengzigang.github.io/instructdiffusion.github.io/)]
     * **InstructCV**: "InstructCV: Instruction-Tuned Text-to-Image Diffusion Models as Vision Generalists", arXiv, 2023 (*Peking + Berkeley*). [[Paper](https://arxiv.org/abs/2310.00390)][[PyTorch](https://github.com/AlaaLab/InstructCV)]
+    * **SPHINX**: "SPHINX: The Joint Mixing of Weights, Tasks, and Visual Embeddings for Multi-modal Large Language Models", arXiv, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2311.07575)][[PyTorch](https://github.com/Alpha-VLLM/LLaMA2-Accessory/tree/main/SPHINX)]
 * Language-based Video Editing:
     * **M<sup>3</sup>L**: "Language-based Video Editing via Multi-Modal Multi-Level Transformer", CVPR, 2022 (*UCSB*). [[Paper](https://arxiv.org/abs/2104.01122)]
     * **Video-P2P**: "Video-P2P: Video Editing with Cross-attention Control", arXiv, 2023 (*CUHK*). [[Paper](https://arxiv.org/abs/2303.04761)][[Website](https://video-p2p.github.io/)]
@@ -1378,6 +1379,9 @@ If you find this repository useful, please consider citing this list:
     * **mPLUG-Owl2**: "mPLUG-Owl2: Revolutionizing Multi-modal Large Language Model with Modality Collaboration", arXiv, 2023 (*Alibaba*). [[Paper](https://arxiv.org/abs/2311.04257)][[PyTorch](https://github.com/X-PLUG/mPLUG-Owl/tree/main/mPLUG-Owl2)]
     * **LLaVA-Plus**: "LLaVA-Plus: Learning to Use Tools for Creating Multimodal Agents", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2311.05437)][[PyTorch](https://github.com/LLaVA-VL/LLaVA-Plus-Codebase)][[Website](https://llava-vl.github.io/llava-plus/)]
     * **u-LLaVA**: "u-LLaVA: Unifying Multi-Modal Tasks via Large Language Model", arXiv, 2023 (*OPPO*). [[Paper](https://arxiv.org/abs/2311.05348)]
+    * **LVIS-Instruct4V**: "To See is to Believe: Prompting GPT-4V for Better Visual Instruction Tuning", arXiv, 2023 (*Fudan*). [[Paper](https://arxiv.org/abs/2311.07574)][[GitHub](https://github.com/X2FD/LVIS-INSTRUCT4V)]
+    * **InfMLLM**: "InfMLLM: A Unified Framework for Visual-Language Tasks", arXiv, 2023 (*?*). [[Paper](https://arxiv.org/abs/2311.06791)][[PyTorch](https://github.com/mightyzau/InfMLLM)]
+    * **Q-Instruct**: "Q-Instruct: Improving Low-level Visual Abilities for Multi-modality Foundation Models", arXiv, 2023 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2311.06783)][[Website](https://q-future.github.io/Q-Instruct/)]
 * Visual Reasoning:
     * **BDC-Adapter**: "BDC-Adapter: Brownian Distance Covariance for Better Vision-Language Reasoning", BMVC, 2023 (*SUSTech*). [[Paper](https://arxiv.org/abs/2309.01256)]
     * **RPT**: "Fine-Grained Regional Prompt Tuning for Visual Abductive Reasoning", arXiv, 2023 (*A\*STAR*). [[Paper](https://arxiv.org/abs/2303.10428)]
@@ -1428,6 +1432,7 @@ If you find this repository useful, please consider citing this list:
     * **HallusionBench**: "HallusionBench: You See What You Think? Or You Think What You See? An Image-Context Reasoning Benchmark Challenging for GPT-4V(ision), LLaVA-1.5, and Other Multi-modality Models", arXiv, 2023 (*Maryland*). [[Paper](https://arxiv.org/abs/2310.14566)][[Code (in construction)](https://github.com/tianyi-lab/HallusionBench)]
     * **?**: "GPT-4V(ision) as a Generalist Evaluator for Vision-Language Tasks", arXiv, 2023 (*UCSB*). [[Paper](https://arxiv.org/abs/2311.01361)]
     * **ChEF**: "ChEF: A Comprehensive Evaluation Framework for Standardized Assessment of Multimodal Large Language Models", arXiv, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2311.02692)][[PyTorch](https://github.com/OpenGVLab/LAMM)]
+    * **ViLMA**: "ViLMA: A Zero-Shot Benchmark for Linguistic and Temporal Grounding in Video-Language Models", arXiv, 2023 (*Koç University, Turkey*). [[Paper](https://arxiv.org/abs/2311.07022)][[Website](https://cyberiada.github.io/ViLMA/)]
 * Robustness:
     * **Hierarchy-CLIP**: "Improving Zero-shot Generalization and Robustness of Multi-modal Models", CVPR, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2212.01758)][[JAX](https://github.com/gyhandy/Hierarchy-CLIP)][[Website](https://sites.google.com/usc.edu/hierarchy-clip/)]
     * **?**: "Mitigating Spurious Correlations in Multi-modal Models during Fine-tuning", ICML, 2023 (*UCLA*). [[Paper](https://arxiv.org/abs/2304.03916)]
@@ -1455,5 +1460,8 @@ If you find this repository useful, please consider citing this list:
     * **VDC**: "VDC: Versatile Data Cleanser for Detecting Dirty Samples via Visual-Linguistic Inconsistency", arXiv, 2023 (*CUHK*). [[Paper](https://arxiv.org/abs/2309.16211)]
 * Model Compression:
     * **ECoFLaP**: "ECoFLaP: Efficient Coarse-to-Fine Layer-Wise Pruning for Vision-Language Models", arXiv, 2023 (*UNC*). [[Paper](https://arxiv.org/abs/2310.02998)][[PyTorch](https://github.com/ylsung/ECoFLaP)][[Website](https://ecoflap.github.io/)]
+* Applications:
+    * **MM-Navigator**: "GPT-4V in Wonderland: Large Multimodal Models for Zero-Shot Smartphone GUI Navigation", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2311.07562)][[Code (in construction)](https://github.com/zzxslp/MM-Navigator)]
+    * **?**: "GPT-4V(ision) as A Social Media Analysis Engine", arXiv, 2023 (*University of Rochester*). [[Paper](https://arxiv.org/abs/2311.07547)][[GitHub](https://github.com/VIStA-H/GPT-4V_Social_Media)]
 
 [[Back to Overview](#overview)]
