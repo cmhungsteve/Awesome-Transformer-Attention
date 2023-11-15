@@ -347,6 +347,7 @@ If you find this repository useful, please consider citing this list:
     * **CoTracker**: "CoTracker: It is Better to Track Together", arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2307.07635)][[PyTorch](https://github.com/facebookresearch/co-tracker)]
     * **OVTracktor**: "Zero-Shot Open-Vocabulary Tracking with Large Pre-Trained Models", arXiv, 2023 (*CMU*). [[Paper](https://arxiv.org/abs/2310.06992)][[Website](https://wenhsuanchu.github.io/ovtracktor/)]
     * **SMAT**: "Separable Self and Mixed Attention Transformers for Efficient Object Tracking", WACV, 2024 (*Concordia University, Canada*). [[Paper](https://arxiv.org/abs/2309.03979)][[PyTorch](https://github.com/goutamyg/SMAT)]
+    * **ContrasTR**: "Contrastive Learning for Multi-Object Tracking with Transformers", WACV, 2024 (*KU Leuven*). [[Paper](https://arxiv.org/abs/2311.08043)]
 * 3D:
     * **PTT**: "PTT: Point-Track-Transformer Module for 3D Single Object Tracking in Point Clouds", IROS, 2021 (*Northeastern University*). [[Paper](https://arxiv.org/abs/2108.06455)][[PyTorch (in construction)](https://github.com/shanjiayao/PTT)]
     * **LTTR**: "3D Object Tracking with Transformer", BMVC, 2021 (*Northeastern University, China*). [[Paper](https://arxiv.org/abs/2110.14921)][[Code (in construction)](https://github.com/3bobo/lttr)]
