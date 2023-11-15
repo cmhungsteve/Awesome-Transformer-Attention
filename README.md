@@ -132,6 +132,7 @@ If you find this repository useful, please consider citing this list:
 * "Vision + Language Applications: A Survey", CVPRW, 2023 (*Ritsumeikan University, Japan*). [[Paper](https://arxiv.org/abs/2305.14598)][[GitHub](https://github.com/Yutong-Zhou-cv/Awesome-Text-to-Image)]
 * "Multimodal Learning With Transformers: A Survey", TPAMI, 2023 (*Tsinghua & Oxford*). [[Paper](https://arxiv.org/abs/2206.06488)]
 * "A Survey of Visual Transformers", TNNLS, 2023 (*CAS*). [[Paper](https://arxiv.org/abs/2111.06091)][[GitHub](https://github.com/arekavandi/Transformer-SOD)]
+* "Vision-Language Instruction Tuning: A Review and Analysis", arXiv, 2023 (*Tencent*). [[Paper](https://arxiv.org/abs/2311.08172)][[GitHub (in construction)](https://github.com/palchenli/VL-Instruction-Tuning)]
 * "Understanding Video Transformers for Segmentation: A Survey of Application and Interpretability", arXiv, 2023 (*York University*). [[Paper](https://arxiv.org/abs/2310.12296)]
 * "Unsupervised Object Localization in the Era of Self-Supervised ViTs: A Survey", arXiv, 2023 (*valeo.ai, France*). [[Paper](https://arxiv.org/abs/2310.12904)][[GitHub](https://github.com/valeoai/Awesome-Unsupervised-Object-Localization)]
 * "A Survey on Video Diffusion Models", arXiv, 2023 (*Fudan*). [[Paper](https://arxiv.org/abs/2310.10647)][[GitHub](https://github.com/ChenHsing/Awesome-Video-Diffusion-Models)]
@@ -1499,7 +1500,8 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **FC-CLIP**: "Convolutions Die Hard: Open-Vocabulary Segmentation with Single Frozen Convolutional CLIP", arXiv, 2023 (*ByteDance*). [[Paper](https://arxiv.org/abs/2308.02487)]
     * **?**: "Open-Vocabulary Semantic Segmentation via Attribute Decomposition-Aggregation", arXiv, 2023 (*Shanghai Jiao Tong*). [[Paper](https://arxiv.org/abs/2309.00096)]
     * **CLIP-DIY**: "CLIP-DIY: CLIP Dense Inference Yields Open-Vocabulary Semantic Segmentation For-Free", arXiv, 2023 (*Warsaw University of Technology, Poland*). [[Paper](https://arxiv.org/abs/2309.14289)]
-    * ****: "Rethinking Evaluation Metrics of Open-Vocabulary Segmentaion", arXiv, 2023 (*Harbin Engineering University*). [[Paper](https://arxiv.org/abs/2311.03352)][[PyTorch](https://github.com/qqlu/Entity)]
+    * **Entity**: "Rethinking Evaluation Metrics of Open-Vocabulary Segmentaion", arXiv, 2023 (*Harbin Engineering University*). [[Paper](https://arxiv.org/abs/2311.03352)][[PyTorch](https://github.com/qqlu/Entity)]
+    * **OSM**: "Towards Open-Ended Visual Recognition with Large Language Model", arXiv, 2023 (*ByteDance*). [[Paper](https://arxiv.org/abs/2311.08400)][[PyTorch](https://github.com/bytedance/OmniScient-Model)]
 * Universal Segmentation:
     * **K-Net**: "K-Net: Towards Unified Image Segmentation", NeurIPS, 2021 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2106.14855)][[PyTorch](https://github.com/ZwwWayne/K-Net/)]
     * **Mask2Former**: "Masked-attention Mask Transformer for Universal Image Segmentation", CVPR, 2022 (*Meta*). [[Paper](https://arxiv.org/abs/2112.01527)][[PyTorch](https://github.com/facebookresearch/Mask2Former)][[Website](https://bowenc0221.github.io/mask2former/)]
@@ -2051,6 +2053,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **Open-VCLIP**: "Building an Open-Vocabulary Video CLIP Model with Better Architectures, Optimization and Data", arXiv, 2023 (*Fudan*). [[Paper](https://arxiv.org/abs/2310.05010)][[PyTorch](https://github.com/wengzejia1/Open-VCLIP)]
     * **Videoprompter**: "Videoprompter: an ensemble of foundational models for zero-shot video understanding", arXiv, 2023 (*UCF*). [[Paper](https://arxiv.org/abs/2310.15324)]
     * **MM-VID**: "MM-VID: Advancing Video Understanding with GPT-4V(vision)", arXivm, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2310.19773)][[Website](https://multimodal-vid.github.io/)]
+    * **Chat-UniVi**: "Chat-UniVi: Unified Visual Representation Empowers Large Language Models with Image and Video Understanding", arXiv, 2023 (*Peking*). [[Paper](https://arxiv.org/abs/2311.08046)]
 * X-supervised Learning:
     * **LSTCL**: "Long-Short Temporal Contrastive Learning of Video Transformers", CVPR, 2022 (*Facebook*). [[Paper](https://arxiv.org/abs/2106.09212)]
     * **SVT**: "Self-supervised Video Transformer", CVPR, 2022 (*Stony Brook*). [[Paper](https://arxiv.org/abs/2112.01514)][[PyTorch](https://github.com/kahnchana/svt)][[Website](https://kahnchana.github.io/svt/)]
