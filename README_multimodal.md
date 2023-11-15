@@ -97,6 +97,7 @@ If you find this repository useful, please consider citing this list:
     * **?**: "Text-Only Training for Visual Storytelling", ACMMM, 2023 (*USTC*). [[Paper](https://arxiv.org/abs/2308.08881)]
     * **CgT-GAN**: "CgT-GAN: CLIP-guided Text GAN for Image Captioning", ACMMM, 2023 (*USTC*). [[Paper](https://arxiv.org/abs/2308.12045)][[PyTorch](https://github.com/Lihr747/CgtGAN)]
     * **CLAIR**: "CLAIR: Evaluating Image Captions with Large Language Models", EMNLP, 2023 (*Berkeley*). [[Paper](https://arxiv.org/abs/2310.12971)][[Code](https://github.com/davidmchan/clair)][[Website](https://davidmchan.github.io/clair/)]
+    * **SCP-WGCN**: "Improving Image Captioning via Predicting Structured Concepts", EMNLP, 2023 (*USTC*). [[Paper](https://arxiv.org/abs/2311.08223)][[Code (in construction)](https://github.com/wangting0/SCP-WGCN)]
     * **Re-ViLM**: "Re-ViLM: Retrieval-Augmented Visual Language Model for Zero and Few-Shot Image Captioning", arXiv, 2023 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2302.04858)]
     * **Knight**: "From Association to Generation: Text-only Captioning by Unsupervised Cross-modal Mapping", arXiv, 2023 (*Alibaba*). [[Paper](https://arxiv.org/abs/2304.13273)][[PyTorch](https://github.com/junyangwang0410/Knight)]
     * **VTT**: "Visual Transformation Telling", arXiv, 2023 (*CAS*). [[Paper](https://arxiv.org/abs/2305.01928)]
