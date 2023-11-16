@@ -357,6 +357,7 @@ If you find this repository useful, please consider citing this list:
     * **BM-DETR**: "Overcoming Weak Visual-Textual Alignment for Video Moment Retrieval", arXiv, 2023 (*Seoul National University (SNU)*). [[Paper](https://arxiv.org/abs/2306.02728)][[PyTorch (in construction)](https://github.com/minjoong507/BM-DETR)]
     * **?**: "Zero-Shot Video Moment Retrieval from Frozen Vision-Language Models", WACV, 2024 (*Queen Mary University of London*). [[Paper](https://arxiv.org/abs/2309.00661)]
     * **DiffusionVG**: "Exploring Iterative Refinement with Diffusion Models for Video Grounding", arXiv, 2023 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2310.17189)][[PyTorch](https://github.com/MasterVito/DiffusionVG)]
+    * **CG-DETR**: "Correlation-guided Query-Dependency Calibration in Video Representation Learning for Temporal Grounding", arXiv, 2023 (*Sungkyunkwan University, Korea*). [[Paper](https://arxiv.org/abs/2311.08835)][[Code (in construction)](https://github.com/wjun0830/CGDETR)]
 * 3D:
     * **ViL3DRel**: "Language Conditioned Spatial Relation Reasoning for 3D Object Grounding", NeurIPS, 2022 (*INRIA*). [[Paper](https://arxiv.org/abs/2211.09646)][[Website](https://cshizhe.github.io/projects/vil3dref.html)]
     * **LAR**: "Look Around and Refer: 2D Synthetic Semantics Knowledge Distillation for 3D Visual Grounding", NeurIPS, 2022 (*KAUST*). [[Paper](https://arxiv.org/abs/2211.14241)][[Website](https://eslambakr.github.io/LAR.github.io/)]
