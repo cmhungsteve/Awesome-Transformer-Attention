@@ -841,6 +841,7 @@ If you find this repository useful, please consider citing this list:
     * **EasyGen**: "Making Multimodal Generation Easier: When Diffusion Models Meet LLMs", arXiv, 2023 (*The Hong Kong Polytechnic University*). [[Paper](https://arxiv.org/abs/2310.08949)][[PyTorch](https://github.com/zxy556677/EasyGen)]
     * **LLM-Blueprint**: "LLM Blueprint: Enabling Text-to-Image Generation with Complex and Detailed Prompts", arXiv, 2023 (*MBZUAI*). [[Paper](https://arxiv.org/abs/2310.10640)][[Code (in construction)](https://github.com/hananshafi/llmblueprint)]
     * **DiagrammerGPT**: "DiagrammerGPT: Generating Open-Domain, Open-Platform Diagrams via LLM Planning", arXiv, 2023 (*UNC*). [[Paper](https://arxiv.org/abs/2310.12128)][[PyThon](https://github.com/aszala/DiagrammerGPT)][[Website](https://diagrammergpt.github.io/)]
+    * **Emu-Edit**: "Emu Edit: Precise Image Editing via Recognition and Generation Tasks", arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2311.10089)]
 * Video:
     * **Imagen-Video**: "Imagen Video: High Definition Video Generation with Diffusion Models", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2210.02303)][[Website](https://imagen.research.google/video/)]
     * **Phenaki**: "Phenaki: Variable Length Video Generation From Open Domain Textual Description", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2210.02399)][[PyTorch (LAION-AI, in construction)](https://github.com/LAION-AI/phenaki)][[Website](https://phenaki.video/)]
@@ -1029,6 +1030,7 @@ If you find this repository useful, please consider citing this list:
 * **DocumentCLIP**: "DocumentCLIP: Linking Figures and Main Body Text in Reflowed Documents", arXiv, 2023 (*Adobe*). [[Paper](https://arxiv.org/abs/2306.06306)][[PyTorch](https://github.com/FuxiaoLiu/DocumentCLIP)]
 * **Kosmos-2.5**: "Kosmos-2.5: A Multimodal Literate Model", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2309.11419)]
 * **UReader**: "UReader: Universal OCR-free Visually-situated Language Understanding with Multimodal Large Language Model", arXiv, 2023 (*Alibaba*). [[Paper](https://arxiv.org/abs/2310.05126)]
+* **RD**: "Efficient End-to-End Visual Document Understanding with Rationale Distillation", arXiv, 2023 (*DeepMind*). [[Paper](https://arxiv.org/abs/2311.09612)]
 
 [[Back to Overview](#overview)]
 
@@ -1384,6 +1386,7 @@ If you find this repository useful, please consider citing this list:
     * **LVIS-Instruct4V**: "To See is to Believe: Prompting GPT-4V for Better Visual Instruction Tuning", arXiv, 2023 (*Fudan*). [[Paper](https://arxiv.org/abs/2311.07574)][[GitHub](https://github.com/X2FD/LVIS-INSTRUCT4V)]
     * **InfMLLM**: "InfMLLM: A Unified Framework for Visual-Language Tasks", arXiv, 2023 (*?*). [[Paper](https://arxiv.org/abs/2311.06791)][[PyTorch](https://github.com/mightyzau/InfMLLM)]
     * **Q-Instruct**: "Q-Instruct: Improving Low-level Visual Abilities for Multi-modality Foundation Models", arXiv, 2023 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2311.06783)][[Website](https://q-future.github.io/Q-Instruct/)]
+    * **DRESS**: "DRESS: Instructing Large Vision-Language Models to Align and Interact with Humans via Natural Language Feedback", arXiv, 2023 (*SRI*). [[Paper](https://arxiv.org/abs/2311.10081)][[Dataset](https://huggingface.co/datasets/YangyiYY/LVLM_NLF)]
 * Visual Reasoning:
     * **BDC-Adapter**: "BDC-Adapter: Brownian Distance Covariance for Better Vision-Language Reasoning", BMVC, 2023 (*SUSTech*). [[Paper](https://arxiv.org/abs/2309.01256)]
     * **RPT**: "Fine-Grained Regional Prompt Tuning for Visual Abductive Reasoning", arXiv, 2023 (*A\*STAR*). [[Paper](https://arxiv.org/abs/2303.10428)]
