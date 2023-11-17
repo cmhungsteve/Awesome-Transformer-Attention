@@ -1115,6 +1115,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **RLIPv2**: "RLIPv2: Fast Scaling of Relational Language-Image Pre-training", ICCV, 2023 (*Alibaba*). [[Paper](https://arxiv.org/abs/2308.09351)][[PyTorch](https://github.com/JacobYuan7/RLIPv2)]
 * **EgoPCA**: "EgoPCA: A New Framework for Egocentric Hand-Object Interaction Understanding", ICCV, 2023 (*Shanghai Jiao Tong*). [[Paper](https://arxiv.org/abs/2309.02423)][[Website](https://mvig-rhos.com/ego_pca)]
 * **UniHOI**: "Detecting Any Human-Object Interaction Relationship: Universal HOI Detector with Spatial Prompt Learning on Foundation Models", NeurIPS, 2023 (*Southeast University*). [[Paper](https://arxiv.org/abs/2311.03799)][[Code (in construction)](https://github.com/Caoyichao/UniHOI)]
+* **LogicHOI**: "Neural-Logic Human-Object Interaction Detection", NeurIPS, 2023 (*University of Technology Sydney*). [[Paper](https://arxiv.org/abs/2311.09817)][[Code (in construction)](https://github.com/weijianan1/LogicHOI)]
 * **?**: "Exploiting CLIP for Zero-shot HOI Detection Requires Knowledge Distillation at Multiple Levels", arXiv, 2023 (*KU Leuven*). [[Paper](https://arxiv.org/abs/2309.05069)]
 
 [[Back to Overview](#overview)]
