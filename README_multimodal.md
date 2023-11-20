@@ -561,6 +561,7 @@ If you find this repository useful, please consider citing this list:
     * **CogVLM**: "CogVLM: Visual Expert for Pretrained Language Models", arXiv, 2023 (*Zhipu AI, China*). [[Paper](https://arxiv.org/abs/2311.03079)][[PyTorch](https://github.com/THUDM/CogVLM)]
     * **OtterHD**: "OtterHD: A High-Resolution Multi-modality Model", arXiv, 2023 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2311.04219)][[PyTorch](https://github.com/Luodian/Otter)]
     * **Florence-2**: "Florence-2: Advancing a Unified Representation for a Variety of Vision Tasks", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2311.06242)]
+    * **MLA**: "Multimodal Representation Learning by Alternating Unimodal Adaptation", arXiv, 2023 (*UNC*). [[Paper](https://arxiv.org/abs/2311.10707)]
 * Video:
     * **COOT**: "COOT: Cooperative Hierarchical Transformer for Video-Text Representation Learning", NeurIPS, 2020 (*University of Freiburg*). [[Paper](https://arxiv.org/abs/2011.00597)][[PyTorch](https://github.com/gingsi/coot-videotext)]
     * **Parameter-Reduction**: "Parameter Efficient Multimodal Transformers for Video Representation Learning", ICLR, 2021 (*Seoul National University*). [[Paper](https://openreview.net/forum?id=6UdQLhqJyFD)]
@@ -616,6 +617,7 @@ If you find this repository useful, please consider citing this list:
     * **Qwen-VL**: "Qwen-VL: A Frontier Large Vision-Language Model with Versatile Abilities", arXiv, 2023 (*Alibaba*). [[Paper](https://arxiv.org/abs/2308.12966)][[PyTorch](https://github.com/QwenLM/Qwen-VL)]
     * **BT-Adapter**: "One For All: Video Conversation is Feasible Without Video Instruction Tuning", arXiv, 2023 (*Tencent*). [[Paper](https://arxiv.org/abs/2309.15785)]
     * **?**: "Harvest Video Foundation Models via Efficient Post-Pretraining", arXiv, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2310.19554)][[PyTorch](https://github.com/OpenGVLab/InternVideo)]
+    * **Owl-Con**: "VideoCon: Robust Video-Language Alignment via Contrast Captions", arXiv, 2023 (*UCLA*). [[Paper](https://arxiv.org/abs/2311.10111)][[PyTorch](https://github.com/Hritikbansal/videocon)]
 * 3D:
     * **CLIP<sup>2</sup>**: "CLIP<sup>2</sup>: Contrastive Language-Image-Point Pretraining from Real-World Point Cloud Data", CVPR, 2023 (*Huawei*). [[Paper](https://arxiv.org/abs/2303.12417)]
     * **3D-VLP**: "Context-aware Alignment and Mutual Masking for 3D-Language Pre-training", CVPR, 2023 (*Sichuan University*). [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Jin_Context-Aware_Alignment_and_Mutual_Masking_for_3D-Language_Pre-Training_CVPR_2023_paper.html)][[PyTorch](https://github.com/leolyj/3D-VLP)]
@@ -861,6 +863,7 @@ If you find this repository useful, please consider citing this list:
     * **SimDA**: "SimDA: Simple Diffusion Adapter for Efficient Video Generation", arXiv, 2023 (*Fudan*). [[Paper](https://arxiv.org/abs/2308.09710)][[Website](https://chenhsing.github.io/SimDA/)]
     * **LVD**: "LLM-grounded Video Diffusion Models", arXiv, 2023 (*Berkeley*). [[Paper](https://arxiv.org/abs/2309.17444)][[Code (in construction)](https://github.com/TonyLianLong/LLM-groundedVideoDiffusion)][[Website](https://llm-grounded-video-diffusion.github.io/)]
     * **VideoCrafter1**: "VideoCrafter1: Open Diffusion Models for High-Quality Video Generation", arXiv, 2023 (*Tencent*). [[Paper](https://arxiv.org/abs/2310.19512)][[PyTorch](https://github.com/AILab-CVC/VideoCrafter)][[Website](https://ailab-cvc.github.io/videocrafter/)]
+    * **Emu-Video**: "Emu Video: Factorizing Text-to-Video Generation by Explicit Image Conditioning", arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2311.10709)][[Website](https://emu-video.metademolab.com/)]
 * 3D:
     * **Magic3D**: "Magic3D: High-Resolution Text-to-3D Content Creation", CVPR, 2023 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2211.10440)][[Website](https://research.nvidia.com/labs/dir/magic3d/)]
     * **CLIP-Sculptor**: "CLIP-Sculptor: Zero-Shot Generation of High-Fidelity and Diverse Shapes from Natural Language", CVPR, 2023 (*Autodesk*). [[Paper](https://arxiv.org/abs/2211.01427)][[Website](https://ivl.cs.brown.edu/#/projects/clip-sculptor)]
@@ -1387,6 +1390,7 @@ If you find this repository useful, please consider citing this list:
     * **InfMLLM**: "InfMLLM: A Unified Framework for Visual-Language Tasks", arXiv, 2023 (*?*). [[Paper](https://arxiv.org/abs/2311.06791)][[PyTorch](https://github.com/mightyzau/InfMLLM)]
     * **Q-Instruct**: "Q-Instruct: Improving Low-level Visual Abilities for Multi-modality Foundation Models", arXiv, 2023 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2311.06783)][[Website](https://q-future.github.io/Q-Instruct/)]
     * **DRESS**: "DRESS: Instructing Large Vision-Language Models to Align and Interact with Humans via Natural Language Feedback", arXiv, 2023 (*SRI*). [[Paper](https://arxiv.org/abs/2311.10081)][[Dataset](https://huggingface.co/datasets/YangyiYY/LVLM_NLF)]
+    * **Video-LLaVA**: "Video-LLaVA: Learning United Visual Representation by Alignment Before Projection", arXiv, 2023 (*Peking*). [[Paper](https://arxiv.org/abs/2311.10122)][[PyTorch](https://github.com/PKU-YuanGroup/Video-LLaVA)]
 * Visual Reasoning:
     * **BDC-Adapter**: "BDC-Adapter: Brownian Distance Covariance for Better Vision-Language Reasoning", BMVC, 2023 (*SUSTech*). [[Paper](https://arxiv.org/abs/2309.01256)]
     * **RPT**: "Fine-Grained Regional Prompt Tuning for Visual Abductive Reasoning", arXiv, 2023 (*A\*STAR*). [[Paper](https://arxiv.org/abs/2303.10428)]
