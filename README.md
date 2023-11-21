@@ -132,6 +132,7 @@ If you find this repository useful, please consider citing this list:
 * "Vision + Language Applications: A Survey", CVPRW, 2023 (*Ritsumeikan University, Japan*). [[Paper](https://arxiv.org/abs/2305.14598)][[GitHub](https://github.com/Yutong-Zhou-cv/Awesome-Text-to-Image)]
 * "Multimodal Learning With Transformers: A Survey", TPAMI, 2023 (*Tsinghua & Oxford*). [[Paper](https://arxiv.org/abs/2206.06488)]
 * "A Survey of Visual Transformers", TNNLS, 2023 (*CAS*). [[Paper](https://arxiv.org/abs/2111.06091)][[GitHub](https://github.com/arekavandi/Transformer-SOD)]
+* "Explainability of Vision Transformers: A Comprehensive Review and New Perspectives", arXiv, 2023 (*Institute for Research in Fundamental Sciences (IPM), Iran*). [[Paper](https://arxiv.org/abs/2311.06786)]
 * "Vision-Language Instruction Tuning: A Review and Analysis", arXiv, 2023 (*Tencent*). [[Paper](https://arxiv.org/abs/2311.08172)][[GitHub (in construction)](https://github.com/palchenli/VL-Instruction-Tuning)]
 * "Understanding Video Transformers for Segmentation: A Survey of Application and Interpretability", arXiv, 2023 (*York University*). [[Paper](https://arxiv.org/abs/2310.12296)]
 * "Unsupervised Object Localization in the Era of Self-Supervised ViTs: A Survey", arXiv, 2023 (*valeo.ai, France*). [[Paper](https://arxiv.org/abs/2310.12904)][[GitHub](https://github.com/valeoai/Awesome-Unsupervised-Object-Localization)]
