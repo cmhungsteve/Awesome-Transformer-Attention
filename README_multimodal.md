@@ -214,6 +214,7 @@ If you find this repository useful, please consider citing this list:
     * **TwO**: "Combo of Thinking and Observing for Outside-Knowledge VQA", ACL, 2023 (*ByteDance*). [[Paper](https://arxiv.org/abs/2305.06407)][[Code (in construction)](https://github.com/PhoebusSi/Thinking-while-Observing)]
     * **Mod-Zero-VQA**: "Modularized Zero-shot VQA with Pre-trained Models", ACL Findings, 2023 (*Singapore Management University*). [[Paper](https://arxiv.org/abs/2305.17369)]
     * **SaL**: "Separate and Locate: Rethink the Text in Text-based Visual Question Answering", ACMMM, 2023 (*CAS*). [[Paper](https://arxiv.org/abs/2308.16383)][[Code (in construction)](https://github.com/fangbufang/SaL)]
+    * **ReVisE**: "From Wrong To Right: A Recursive Approach Towards Vision-Language Explanation", EMNLP, 2023 (*Berkeley*). [[Paper](https://arxiv.org/abs/2311.12391)][[Code (in construction)](https://github.com/para-lost/ReVisE)]
     * **Cola**: "Large Language Models are Visual Reasoning Coordinators", NeurIPS, 2023 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2310.15166)][[PyTorch](https://github.com/cliangyu/Cola)]
     * **AVIS**: "AVIS: Autonomous Visual Information Seeking with Large Language Model Agent", NeurIPS, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2306.08129)]
     * **InfoSeek**: "Can Pre-trained Vision and Language Models Answer Visual Information-Seeking Questions?", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2302.11713)][[Website](https://open-vision-language.github.io/infoseek/)]
@@ -618,6 +619,7 @@ If you find this repository useful, please consider citing this list:
     * **BT-Adapter**: "One For All: Video Conversation is Feasible Without Video Instruction Tuning", arXiv, 2023 (*Tencent*). [[Paper](https://arxiv.org/abs/2309.15785)]
     * **?**: "Harvest Video Foundation Models via Efficient Post-Pretraining", arXiv, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2310.19554)][[PyTorch](https://github.com/OpenGVLab/InternVideo)]
     * **Owl-Con**: "VideoCon: Robust Video-Language Alignment via Contrast Captions", arXiv, 2023 (*UCLA*). [[Paper](https://arxiv.org/abs/2311.10111)][[PyTorch](https://github.com/Hritikbansal/videocon)]
+    * **ShareGPT4V**: "ShareGPT4V: Improving Large Multi-Modal Models with Better Captions", arXiv, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2311.12793)][[Code (in construction)](https://github.com/InternLM/InternLM-XComposer/tree/main/projects/ShareGPT4V)][[Website](https://sharegpt4v.github.io/)]
 * 3D:
     * **CLIP<sup>2</sup>**: "CLIP<sup>2</sup>: Contrastive Language-Image-Point Pretraining from Real-World Point Cloud Data", CVPR, 2023 (*Huawei*). [[Paper](https://arxiv.org/abs/2303.12417)]
     * **3D-VLP**: "Context-aware Alignment and Mutual Masking for 3D-Language Pre-training", CVPR, 2023 (*Sichuan University*). [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Jin_Context-Aware_Alignment_and_Mutual_Masking_for_3D-Language_Pre-Training_CVPR_2023_paper.html)][[PyTorch](https://github.com/leolyj/3D-VLP)]
