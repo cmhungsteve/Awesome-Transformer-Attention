@@ -251,6 +251,7 @@ If you find this repository useful, please consider citing this list:
     * **XFormer**: "XFormer: Fast and Accurate Monocular 3D Body Capture", arXiv, 2023 (*Huya Inc, China*). [[Paper](https://arxiv.org/abs/2305.11101)]
     * **PGformer**: "PGformer: Proxy-Bridged Game Transformer for Multi-Person Extremely Interactive Motion Prediction", arXiv, 2023 (*Alibaba*). [[Paper](https://arxiv.org/abs/2306.03374)]
     * **?**: "Scene-aware Human Pose Generation using Transformer", arXiv, 2023 (*Shanghai Jiao Tong*). [[Paper](https://arxiv.org/abs/2308.02177)]
+    * **HoT**: "Hourglass Tokenizer for Efficient Transformer-Based 3D Human Pose Estimation", arXiv, 2023 (*Peking*). [[Paper](https://arxiv.org/abs/2311.12028)]
 * Hands:
     * **Hand-Transformer**: "Hand-Transformer: Non-Autoregressive Structured Modeling for 3D Hand Pose Estimation", ECCV, 2020 (*Kwai*). [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/4836_ECCV_2020_paper.php)]
     * **SCAT**: "SCAT: Stride Consistency With Auto-Regressive Regressor and Transformer for Hand Pose Estimation", ICCVW, 2021 (*Alibaba*). [[Paper](https://openaccess.thecvf.com/content/ICCV2021W/SoMoF/html/Gao_SCAT_Stride_Consistency_With_Auto-Regressive_Regressor_and_Transformer_for_Hand_ICCVW_2021_paper.html)]
@@ -1864,6 +1865,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **?**: "Driving with LLMs: Fusing Object-Level Vector Modality for Explainable Autonomous Driving", arXiv, 2023 (*Wayve*). [[Paper](https://arxiv.org/abs/2310.01957)][[PyTorch](https://github.com/wayveai/Driving-with-LLMs)]
     * **DiffPrompter**: "DiffPrompter: Differentiable Implicit Visual Prompts for Semantic-Segmentation in Adverse Conditions", arXiv, 2023 (*IIIT Hyderabad*). [[Paper](https://arxiv.org/abs/2310.04181)][[PyTorch](https://github.com/DiffPrompter/diff-prompter)][[Website](https://diffprompter.github.io/)]
     * **GPT4V-AD**: "On the Road with GPT-4V(ision): Early Explorations of Visual-Language Model on Autonomous Driving", arXiv, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2311.05332)][[Code (in construction)](https://github.com/PJLab-ADG/GPT4V-AD-Exploration)]
+    * **Agent-Driver**: "A Language Agent for Autonomous Driving", arXiv, 2023 (*USC*). [[Paper](https://arxiv.org/abs/2311.10813)][[Code (in construction)](https://github.com/USC-GVL/Agent-Driver)][[Website](https://usc-gvl.github.io/Agent-Driver/)]
 * Trajectory Prediction:
     * **mmTransformer**: "Multimodal Motion Prediction with Stacked Transformers", CVPR, 2021 (*CUHK + SenseTime*). [[Paper](https://arxiv.org/abs/2103.11624)][[Code (in construction)](https://github.com/decisionforce/mmTransformer)][[Website](https://decisionforce.github.io/mmTransformer/)]
     * **AgentFormer**: "AgentFormer: Agent-Aware Transformers for Socio-Temporal Multi-Agent Forecasting", ICCV, 2021 (*CMU*). [[Paper](https://arxiv.org/abs/2103.14023)][[PyTorch](https://github.com/Khrylx/AgentFormer)][[Website](https://www.ye-yuan.com/agentformer/)]
