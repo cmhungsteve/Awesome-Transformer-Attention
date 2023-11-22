@@ -1800,6 +1800,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **SFA-ViViT**: "Optimizing ViViT Training: Time and Memory Reduction for Action Recognition", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2306.04822)]
     * **TAdaConv**: "Temporally-Adaptive Models for Efficient Video Understanding", arXiv, 2023 (*NUS*). [[Paper](https://arxiv.org/abs/2308.05787)][[PyTorch](https://github.com/alibaba-mmai-research/TAdaConv)]
     * **ZeroI2V**: "ZeroI2V: Zero-Cost Adaptation of Pre-trained Transformers from Image to Video", arXiv, 2023 (*Nanjing University*). [[Paper](https://arxiv.org/abs/2310.01324)]
+    * **MV-Former**: "Multi-entity Video Transformers for Fine-Grained Video Representation Learning", arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2311.10873)][[PyTorch](https://github.com/facebookresearch/video_rep_learning)]
 * Depth:
     * **Trear**: "Trear: Transformer-based RGB-D Egocentric Action Recognition",  IEEE Transactions on Cognitive and Developmental Systems, 2021 (*Tianjing University*). [[Paper](https://ieeexplore.ieee.org/document/9312201)]
 * Pose/Skeleton:
