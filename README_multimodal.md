@@ -864,6 +864,7 @@ If you find this repository useful, please consider citing this list:
     * **LVD**: "LLM-grounded Video Diffusion Models", arXiv, 2023 (*Berkeley*). [[Paper](https://arxiv.org/abs/2309.17444)][[Code (in construction)](https://github.com/TonyLianLong/LLM-groundedVideoDiffusion)][[Website](https://llm-grounded-video-diffusion.github.io/)]
     * **VideoCrafter1**: "VideoCrafter1: Open Diffusion Models for High-Quality Video Generation", arXiv, 2023 (*Tencent*). [[Paper](https://arxiv.org/abs/2310.19512)][[PyTorch](https://github.com/AILab-CVC/VideoCrafter)][[Website](https://ailab-cvc.github.io/videocrafter/)]
     * **Emu-Video**: "Emu Video: Factorizing Text-to-Video Generation by Explicit Image Conditioning", arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2311.10709)][[Website](https://emu-video.metademolab.com/)]
+    * **PixelDance**: "Make Pixels Dance: High-Dynamic Video Generation", arXiv, 2023 (*ByteDance*). [[Paper](https://arxiv.org/abs/2311.10982)][[Website](https://makepixelsdance.github.io/)]
 * 3D:
     * **Magic3D**: "Magic3D: High-Resolution Text-to-3D Content Creation", CVPR, 2023 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2211.10440)][[Website](https://research.nvidia.com/labs/dir/magic3d/)]
     * **CLIP-Sculptor**: "CLIP-Sculptor: Zero-Shot Generation of High-Fidelity and Diverse Shapes from Natural Language", CVPR, 2023 (*Autodesk*). [[Paper](https://arxiv.org/abs/2211.01427)][[Website](https://ivl.cs.brown.edu/#/projects/clip-sculptor)]
@@ -1053,16 +1054,17 @@ If you find this repository useful, please consider citing this list:
     * **LM4Visual**: "Frozen Transformers in Language Models Are Effective Visual Encoder Layers", arXiv, 2023 (*UIUC*). [[Paper](https://arxiv.org/abs/2310.12973)][[PyTorch (in construction)](https://github.com/ziqipang/LM4VisualEncoding)]
     * **Octavius**: "Octavius: Mitigating Task Interference in MLLMs via MoE", arXiv, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2311.02684)]
 * Zero-Shot:
-    * **CuPL**: "What does a platypus look like? Generating customized prompts for zero-shot image classification", ICCV, 2022 (*UW*). [[Paper](https://arxiv.org/abs/2209.03320)][[PyTorch](https://github.com/sarahpratt/CuPL)]
     * **SMs**: "Socratic Models: Composing Zero-Shot Multimodal Reasoning with Language", ICLR, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2204.00598)][[GitHub](https://github.com/google-research/google-research/tree/master/socraticmodels)][[Website](https://socraticmodels.github.io/)]
     * **iCLIP**: "iCLIP: Bridging Image Classification and Contrastive Language-Image Pre-Training for Visual Recognition", CVPR, 2023 (*Microsoft*). [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Wei_iCLIP_Bridging_Image_Classification_and_Contrastive_Language-Image_Pre-Training_for_Visual_CVPR_2023_paper.html)]
     * **DiffDis**: "DiffDis: Empowering Generative Diffusion Model with Cross-Modal Discrimination Capability", ICCV, 2023 (*Huawei*). [[Paper](https://arxiv.org/abs/2308.09306)]
+    * **CuPL**: "What does a platypus look like? Generating customized prompts for zero-shot image classification", ICCV, 2023 (*UW*). [[Paper](https://arxiv.org/abs/2209.03320)][[PyTorch](https://github.com/sarahpratt/CuPL)]
     * **InMaP**: "Intra-Modal Proxy Learning for Zero-Shot Visual Categorization with CLIP", NeurIPS, 2023 (*Alibaba*). [[Paper](https://arxiv.org/abs/2310.19752)][[PyTorch (in construction)](https://github.com/idstcv/InMaP)]
     * **?**: "ChatGPT-Powered Hierarchical Comparisons for Image Classification", NeurIPS, 2023 (*Michigan State*). [[Paper](https://arxiv.org/abs/2311.00206)][[Code (in construction)](https://github.com/Zhiyuan-R/ChatGPT-Powered-Hierarchical-Comparisons-for-Image-Classification)]
     * **V-GLOSS**: "Visually-Grounded Descriptions Improve Zero-Shot Image Classification", arXiv, 2023 (*University of Alberta, Canada*). [[Paper](https://arxiv.org/abs/2306.06077)]
     * **?**: "Challenges of Zero-Shot Recognition with Vision-Language Models: Granularity and Correctness", arXiv, 2023 (*Amazon*). [[Paper](https://arxiv.org/abs/2306.16048)]
     * **UniFine**: "UniFine: A Unified and Fine-grained Approach for Zero-shot Vision-Language Understanding", arXiv, 2023 (*Columbia*). [[Paper](https://arxiv.org/abs/2307.00862)][[Code (in construction)](https://github.com/ThreeSR/UniFine)]
     * **Cheetah**: "Empowering Vision-Language Models to Follow Interleaved Vision-Language Instructions", arXiv, 2023 (*Zhejiang*). [[Paper](https://arxiv.org/abs/2308.04152)]
+    * **?**: "LLMs as Visual Explainers: Advancing Image Classification with Evolving Visual Descriptions", arXiv, 2023 (*Beihang*). [[Paper](https://arxiv.org/abs/2311.11904)]
 * X-Shot:
     * **Tip-Adapter**: "Tip-Adapter: Training-free Adaption of CLIP for Few-shot Classification", ECCV, 2022 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2207.09519)][[PyTorch](https://github.com/gaopengcuhk/Tip-Adapter)]
     * **VidIL**: "Language Models with Image Descriptors are Strong Few-Shot Video-Language Learners", NeurIPS, 2022 (*UIUC*). [[Paper](https://arxiv.org/abs/2205.10747)][[PyTorch](https://github.com/MikeWangWZHL/VidIL)]
@@ -1215,6 +1217,7 @@ If you find this repository useful, please consider citing this list:
     * **RT-2**: "RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control", arXiv, 2023 (*DeepMind*). [[Paper](https://arxiv.org/abs/2307.15818)][[Website](https://robotics-transformer2.github.io/)]
     * **VLP**: "Video Language Planning", arXiv, 2023 (*DeepMind*). [[Paper](https://arxiv.org/abs/2310.10625)][[Code (in construction)](https://github.com/video-language-planning/vlp_code)][[Website](https://video-language-planning.github.io/)]
     * **RoboFlamingo**: "Vision-Language Foundation Models as Effective Robot Imitators", arXiv, 2023 (*ByteDance*). [[Paper](https://arxiv.org/abs/2311.01378)][[Website](https://roboflamingo.github.io/)]
+    * **?**: "GPT-4V(ision) for Robotics: Multimodal Task Planning from Human Demonstration", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2311.12015)][[Website](https://microsoft.github.io/GPT4Vision-Robot-Manipulation-Prompts/)]
 * Multi-modal Fusion:
     * **MICA**: "Attention Is Not Enough: Mitigating the Distribution Discrepancy in Asynchronous Multimodal Sequence Fusion", ICCV, 2021 (*Southwest Jiaotong University*). [[Paper](https://openaccess.thecvf.com/content/ICCV2021/html/Liang_Attention_Is_Not_Enough_Mitigating_the_Distribution_Discrepancy_in_Asynchronous_ICCV_2021_paper.html)]
     * **IFT**: "Image Fusion Transformer", arXiv, 2021 (*Johns Hopkins*). [[Paper](https://arxiv.org/abs/2107.09011)][[PyTorch](https://github.com/Vibashan/Image-Fusion-Transformer)]
@@ -1253,6 +1256,7 @@ If you find this repository useful, please consider citing this list:
     * **Lowis3D**: "Lowis3D: Language-Driven Open-World Instance-Level 3D Scene Understanding", arXiv, 2023 (*HKU*). [[Paper](https://arxiv.org/abs/2308.00353)]
     * **OpenIns3D**: "OpenIns3D: Snap and Lookup for 3D Open-vocabulary Instance Segmentation", arXiv, 2023 (*Cambridge*). [[Paper](https://arxiv.org/abs/2309.00616)][[Website](https://zheninghuang.github.io/OpenIns3D/)]
     * **ConceptGraphs**: "ConceptGraphs: Open-Vocabulary 3D Scene Graphs for Perception and Planning", arXiv, 2023 (*University of Toronto + Universite de Montreal*). [[Paper](https://arxiv.org/abs/2309.16650)][[PyTorch](https://github.com/concept-graphs/concept-graphs)][[Website](https://concept-graphs.github.io/)]
+    * **OmniSeg3D**: "OmniSeg3D: Omniversal 3D Segmentation via Hierarchical Contrastive Learning", arXiv, 2023 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2311.11666)][[Website](https://oceanying.github.io/OmniSeg3D/)]
 * Speech Recognition:
     * **AV-HuBERT**: "Robust Self-Supervised Audio-Visual Speech Recognition", arXiv, 2022 (*Meta*). [[Paper](https://arxiv.org/abs/2201.01763)][[PyTorch](https://github.com/facebookresearch/av_hubert)]
     * **?**: "Transformer-Based Video Front-Ends for Audio-Visual Speech Recognition", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2201.10439)]
@@ -1391,6 +1395,7 @@ If you find this repository useful, please consider citing this list:
     * **Q-Instruct**: "Q-Instruct: Improving Low-level Visual Abilities for Multi-modality Foundation Models", arXiv, 2023 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2311.06783)][[Website](https://q-future.github.io/Q-Instruct/)]
     * **DRESS**: "DRESS: Instructing Large Vision-Language Models to Align and Interact with Humans via Natural Language Feedback", arXiv, 2023 (*SRI*). [[Paper](https://arxiv.org/abs/2311.10081)][[Dataset](https://huggingface.co/datasets/YangyiYY/LVLM_NLF)]
     * **Video-LLaVA**: "Video-LLaVA: Learning United Visual Representation by Alignment Before Projection", arXiv, 2023 (*Peking*). [[Paper](https://arxiv.org/abs/2311.10122)][[PyTorch](https://github.com/PKU-YuanGroup/Video-LLaVA)]
+    * **LION**: "LION: Empowering Multimodal Large Language Model with Dual-Level Visual Knowledge", arXiv, 2023 (*Harbin Institute of Technology*). [[Paper](https://arxiv.org/abs/2311.11860)][[Code (in construction)](https://github.com/rshaojimmy/JiuTian)][[Website](https://rshaojimmy.github.io/Projects/JiuTian-LION)]
 * Visual Reasoning:
     * **BDC-Adapter**: "BDC-Adapter: Brownian Distance Covariance for Better Vision-Language Reasoning", BMVC, 2023 (*SUSTech*). [[Paper](https://arxiv.org/abs/2309.01256)]
     * **RPT**: "Fine-Grained Regional Prompt Tuning for Visual Abductive Reasoning", arXiv, 2023 (*A\*STAR*). [[Paper](https://arxiv.org/abs/2303.10428)]
@@ -1442,6 +1447,7 @@ If you find this repository useful, please consider citing this list:
     * **?**: "GPT-4V(ision) as a Generalist Evaluator for Vision-Language Tasks", arXiv, 2023 (*UCSB*). [[Paper](https://arxiv.org/abs/2311.01361)]
     * **ChEF**: "ChEF: A Comprehensive Evaluation Framework for Standardized Assessment of Multimodal Large Language Models", arXiv, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2311.02692)][[PyTorch](https://github.com/OpenGVLab/LAMM)]
     * **ViLMA**: "ViLMA: A Zero-Shot Benchmark for Linguistic and Temporal Grounding in Video-Language Models", arXiv, 2023 (*Koç University, Turkey*). [[Paper](https://arxiv.org/abs/2311.07022)][[Website](https://cyberiada.github.io/ViLMA/)]
+    * **VLM-Eval**: "VLM-Eval: A General Evaluation on Video Large Language Models", arXiv, 2023 (*Megvii*). [[Paper](https://arxiv.org/abs/2311.11865)]
 * Robustness:
     * **Hierarchy-CLIP**: "Improving Zero-shot Generalization and Robustness of Multi-modal Models", CVPR, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2212.01758)][[JAX](https://github.com/gyhandy/Hierarchy-CLIP)][[Website](https://sites.google.com/usc.edu/hierarchy-clip/)]
     * **?**: "Mitigating Spurious Correlations in Multi-modal Models during Fine-tuning", ICML, 2023 (*UCLA*). [[Paper](https://arxiv.org/abs/2304.03916)]
