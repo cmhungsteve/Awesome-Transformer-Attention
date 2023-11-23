@@ -1436,6 +1436,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **MobileSAM**: "Faster Segment Anything: Towards Lightweight SAM for Mobile Applications", arXiv, 2023 (*Kyung Hee University*). [[Paper](https://arxiv.org/abs/2306.14289)][[PyTorch](https://github.com/ChaoningZhang/MobileSAM)]
     * **Semantic-SAM**: "Semantic-SAM: Segment and Recognize Anything at Any Granularity", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2307.04767)][[Code (in construction)](https://github.com/UX-Decoder/Semantic-SAM)]
     * **Follow-Anything**: "Follow Anything: Open-set detection, tracking, and following in real-time", arXiv, 2023 (*MIT*). [[Paper](https://arxiv.org/abs/2308.05737)]
+    * **DINOv**: "Visual In-Context Prompting", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2311.13601)][[Code (in construction)](https://github.com/UX-Decoder/DINOv)]
 * Vision-Language:
     * **LSeg**: "Language-driven Semantic Segmentation", ICLR, 2022 (*Cornell*). [[Paper](https://arxiv.org/abs/2201.03546)][[PyTorch](https://github.com/isl-org/lang-seg)]
     * **ZegFormer**: "Decoupling Zero-Shot Semantic Segmentation", CVPR, 2022 (*Wuhan University*). [[Paper](https://arxiv.org/abs/2112.07910)][[PyTorch](https://github.com/dingjiansw101/ZegFormer)]
@@ -1618,6 +1619,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **CRATE**: "Emergence of Segmentation with Minimalistic White-Box Transformers", arXiv, 2023 (*Berkeley*). [[Paper](https://arxiv.org/abs/2308.16271)][[PyTorch](https://github.com/Ma-Lab-Berkeley/CRATE)]
     * **?**: "Weakly-Supervised Semantic Segmentation with Image-Level Labels: from Traditional Models to Foundation Models", arXiv, 2023 (*Singapore Management University*). [[Paper](https://arxiv.org/abs/2310.13026)]
     * **MCC**: "Masked Collaborative Contrast for Weakly Supervised Semantic Segmentation", arXiv, 2023 (*Zhejiang Lab, China*). [[Paper](https://arxiv.org/abs/2305.08491)][[PyTorch](https://github.com/fwu11/MCC)]
+    * **CRATE**: "White-Box Transformers via Sparse Rate Reduction: Compression Is All There Is?", arXiv, 2023 (*Berkeley*). [[Paper](https://arxiv.org/abs/2311.13110)][[PyTorch](https://github.com/Ma-Lab-Berkeley/CRATE)][[Website](https://ma-lab-berkeley.github.io/CRATE/)]
 * Cross-Domain:
     * **DAFormer**: "DAFormer: Improving Network Architectures and Training Strategies for Domain-Adaptive Semantic Segmentation", CVPR, 2022 (*ETHZ*). [[Paper](https://arxiv.org/abs/2111.14887)][[PyTorch](https://github.com/lhoyer/DAFormer)]
     * **HGFormer**: "HGFormer: Hierarchical Grouping Transformer for Domain Generalized Semantic Segmentation", CVPR, 2023 (*Wuhan University*). [[Paper](https://arxiv.org/abs/2305.13031)][[Code (in construction)](https://github.com/dingjiansw101/HGFormer)]
