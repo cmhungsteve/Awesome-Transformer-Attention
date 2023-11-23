@@ -993,6 +993,7 @@ If you find this repository useful, please consider citing this list:
 * **LayoutGPT**: "LayoutGPT: Compositional Visual Planning and Generation with Large Language Models", arXiv, 2023 (*UCSB*). [[Paper](https://arxiv.org/abs/2305.15393)][[Code (in construction)](https://github.com/weixi-feng/LayoutGPT)]
 * **MAskDiT**: "Fast Training of Diffusion Models with Masked Transformers", arXiv, 2023 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2306.09305)]
 * **Dolfin**: "Dolfin: Diffusion Layout Transformers without Autoencoder", arXiv, 2023 (*UCSD*). [[Paper](https://arxiv.org/abs/2310.16305)]
+* **RALF**: "Retrieval-Augmented Layout Transformer for Content-Aware Layout Generation", arXiv, 2023 (*The University of Tokyo*). [[Paper](https://arxiv.org/abs/2311.13602)][[Website](https://udonda.github.io/RALF/)]
 
 [[Back to Overview](#overview)]
 
@@ -1867,6 +1868,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **DiffPrompter**: "DiffPrompter: Differentiable Implicit Visual Prompts for Semantic-Segmentation in Adverse Conditions", arXiv, 2023 (*IIIT Hyderabad*). [[Paper](https://arxiv.org/abs/2310.04181)][[PyTorch](https://github.com/DiffPrompter/diff-prompter)][[Website](https://diffprompter.github.io/)]
     * **GPT4V-AD**: "On the Road with GPT-4V(ision): Early Explorations of Visual-Language Model on Autonomous Driving", arXiv, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2311.05332)][[Code (in construction)](https://github.com/PJLab-ADG/GPT4V-AD-Exploration)]
     * **Agent-Driver**: "A Language Agent for Autonomous Driving", arXiv, 2023 (*USC*). [[Paper](https://arxiv.org/abs/2311.10813)][[Code (in construction)](https://github.com/USC-GVL/Agent-Driver)][[Website](https://usc-gvl.github.io/Agent-Driver/)]
+    * **ADriver-I**: "ADriver-I: A General World Model for Autonomous Driving", arXiv, 2023 (*Megvii*). [[Paper](https://arxiv.org/abs/2311.13549)]
 * Trajectory Prediction:
     * **mmTransformer**: "Multimodal Motion Prediction with Stacked Transformers", CVPR, 2021 (*CUHK + SenseTime*). [[Paper](https://arxiv.org/abs/2103.11624)][[Code (in construction)](https://github.com/decisionforce/mmTransformer)][[Website](https://decisionforce.github.io/mmTransformer/)]
     * **AgentFormer**: "AgentFormer: Agent-Aware Transformers for Socio-Temporal Multi-Agent Forecasting", ICCV, 2021 (*CMU*). [[Paper](https://arxiv.org/abs/2103.14023)][[PyTorch](https://github.com/Khrylx/AgentFormer)][[Website](https://www.ye-yuan.com/agentformer/)]
