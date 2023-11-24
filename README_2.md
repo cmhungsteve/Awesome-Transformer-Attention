@@ -1916,6 +1916,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **PET**: "Point-Query Quadtree for Crowd Counting, Localization, and More", ICCV, 2023 (*Huazhong University of Science and Technology*). [[Paper](https://arxiv.org/abs/2308.13814)][[PyTorch](https://github.com/cxliu0/PET)]
     * **CLIP-Count**: "CLIP-Count: Towards Text-Guided Zero-Shot Object Counting", arXiv, 2023 (*The Hong Kong Polytechnic University*). [[Paper](https://arxiv.org/abs/2305.07304)][[Code (in construction)](https://github.com/songrise/CLIP-Count)]
     * **?**: "Training-free Object Counting with Prompts", arXiv, 2023 (*A\⋆STAR*). [[Paper](https://arxiv.org/abs/2307.00038)][[PyTorch](https://github.com/shizenglin/training-free-object-counter)]
+    * **T-Rex**: "T-Rex: Counting by Visual Prompting", arXiv, 2023 (*IDEA*). [[Paper](https://arxiv.org/abs/2311.13596)][[Website](https://trex-counting.github.io/)]
 * Visual Quality Assessment:
     * **TRIQ**: "Transformer for Image Quality Assessment", arXiv, 2020 (*NORCE*). [[Paper](https://arxiv.org/abs/2101.01097)][[Tensorflow-Keras](https://github.com/junyongyou/triq)]
     * **IQT**: "Perceptual Image Quality Assessment with Transformers", CVPRW, 2021 (*LG*). [[Paper](https://arxiv.org/abs/2104.14730)][[Code (in construction)](https://github.com/manricheon/IQT)]
