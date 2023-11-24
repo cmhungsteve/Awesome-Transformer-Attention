@@ -587,7 +587,6 @@ If you find this repository useful, please consider citing this list:
 * **PatchErasing**: "Effective Vision Transformer Training: A Data-Centric Perspective", arXiv, 2022 (*Alibaba*). [[Paper](https://arxiv.org/abs/2209.15006)] 
 * **Self-Distillation**: "Self-Distillation for Further Pre-training of Transformers", arXiv, 2022 (*KAIST*). [[Paper](https://arxiv.org/abs/2210.02871)]
 * **AutoView**: "Learning Self-Regularized Adversarial Views for Self-Supervised Vision Transformers", arXiv, 2022 (*Sun Yat-sen University*). [[Paper](https://arxiv.org/abs/2210.08458)][[Code (in construction)](https://github.com/Trent-tangtao/AutoView)]
-* **CLIPpy**: "Perceptual Grouping in Vision-Language Models", arXiv, 2022 (*Apple*). [[Paper](https://arxiv.org/abs/2210.09996)]
 * **LOCA**: "Location-Aware Self-Supervised Transformers", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2212.02400)]
 * **FT-CLIP**: "CLIP Itself is a Strong Fine-tuner: Achieving 85.7% and 88.0% Top-1 Accuracy with ViT-B and ViT-L on ImageNet", arXiv, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2212.06138)][[Code (in construction)](https://github.com/LightDXY/FT-CLIP)]
 * **MixPro**: "MixPro: Data Augmentation with MaskMix and Progressive Attention Labeling for Vision Transformer", ICLR, 2023 (*Beijing University of Chemical Technology*). [[Paper](https://arxiv.org/abs/2304.12043)][[PyTorch (in construction)](https://github.com/fistyee/MixPro)]
@@ -634,6 +633,8 @@ If you find this repository useful, please consider citing this list:
 * **DiffMAE**: "Diffusion Models as Masked Autoencoders", ICCV, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2304.03283)][[Website](https://weichen582.github.io/diffmae.html)]
 * **MAWS**: "The effectiveness of MAE pre-pretraining for billion-scale pretraining", ICCV, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2303.13496)][[PyTorch](https://github.com/facebookresearch/maws)]
 * **CountBench**: "Teaching CLIP to Count to Ten", ICCV, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2302.12066)]
+* **CLIPpy**: "Perceptual Grouping in Vision-Language Models", ICCV, 2023 (*Apple*). [[Paper](https://arxiv.org/abs/2210.09996)]
+* **CiT**: "CiT: Curation in Training for Effective Vision-Language Data", ICCV, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2301.02241)][[PyTorch](https://github.com/facebookresearch/CiT)]
 * **CCViT**: "Centroid-centered Modeling for Efficient Vision Transformer Pre-training", arXiv, 2023 (*Wuhan University*). [[Paper](https://arxiv.org/abs/2303.04664)]
 * **SoftCLIP**: "SoftCLIP: Softer Cross-modal Alignment Makes CLIP Stronger", arXiv, 2023 (*Tencent*). [[Paper](https://arxiv.org/abs/2303.17561)]
 * **RECLIP**: "RECLIP: Resource-efficient CLIP by Training with Small Images", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2304.06028)]
@@ -1079,9 +1080,9 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **F-VLM**: "F-VLM: Open-Vocabulary Object Detection upon Frozen Vision and Language Models", ICLR, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2209.15639)][[Website](https://sites.google.com/view/f-vlm)]
 * **OV-3DET**: "Open-Vocabulary Point-Cloud Object Detection without 3D Annotation", CVPR, 2023 (*Peking University*). [[Paper](https://arxiv.org/abs/2304.00788)][[PyTorch](https://github.com/lyhdet/OV-3DET)]
 * **Detection-Hub**: "Detection Hub: Unifying Object Detection Datasets via Query Adaptation on Language Embedding", CVPR, 2023 (*Fudan + Microsoft*). [[Paper](https://arxiv.org/abs/2206.03484)]
+* **OmniLabel**: "OmniLabel: A Challenging Benchmark for Language-Based Object Detection", ICCV, 2023 (*NEC*). [[Paper](https://arxiv.org/abs/2304.11463)][[GitHub](https://github.com/samschulter/omnilabeltools)][[Website](https://www.omnilabel.org/)]
 * **MM-OVOD**: "Multi-Modal Classifiers for Open-Vocabulary Object Detection", ICML, 2023 (*Oxford*). [[Paper](https://arxiv.org/abs/2306.05493?s=31)][[Code (in construction)](https://github.com/prannaykaul/mm-ovod)][[Website](https://www.robots.ox.ac.uk/~vgg/research/mm-ovod/)]
 * **CoDA**: "CoDA: Collaborative Novel Box Discovery and Cross-modal Alignment for Open-vocabulary 3D Object Detection", NeurIPS, 2023 (**). [[Paper](https://arxiv.org/abs/2310.02960)][[Code (in construction)](https://github.com/yangcaoai/CoDA_NeurIPS2023)][[Website](https://yangcaoai.github.io/publications/CoDA.html)]
-* **OmniLabel**: "OmniLabel: A Challenging Benchmark for Language-Based Object Detection", arXiv, 2023 (*NEC*). [[Paper](https://arxiv.org/abs/2304.11463)][[GitHub](https://github.com/samschulter/omnilabeltools)][[Website](https://www.omnilabel.org/)]
 * **ContextDET**: "Contextual Object Detection with Multimodal Large Language Models", arXiv, 2023 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2305.18279)][[Code (in construction)](https://github.com/yuhangzang/ContextDET)][[Website](https://www.mmlab-ntu.com/project/contextdet/index.html)]
 * **OWL-ST**: "Scaling Open-Vocabulary Object Detection", arXiv, 2023 (*DeepMind*). [[Paper](https://arxiv.org/abs/2306.09683)]
 * **Object2Scene**: "Object2Scene: Putting Objects in Context for Open-Vocabulary 3D Detection", arXiv, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2309.09456)]
@@ -2132,7 +2133,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * Cross-Domain:
     * **UDAVT**: "Unsupervised Domain Adaptation for Video Transformers in Action Recognition", ICPR, 2022 (*University of Trento*). [[Paper](https://arxiv.org/abs/2207.12842)][[Code (in construction)](https://github.com/vturrisi/UDAVT)]
     * **AutoLabel**: "AutoLabel: CLIP-based framework for Open-set Video Domain Adaptation", CVPR, 2023 (*University of Trento*). [[Paper](https://arxiv.org/abs/2304.01110)][[PyTorch](https://github.com/gzaraunitn/autolabel)]
-    * **DALL-V**: "The Unreasonable Effectiveness of Large Language-Vision Models for Source-free Video Domain Adaptation", ICCV, 2023 (*University of Trento*). [[Paper](https://arxiv.org/abs/2308.09139)][[Code (in construction)](https://github.com/giaczara/dallv)]
+    * **DALL-V**: "The Unreasonable Effectiveness of Large Language-Vision Models for Source-free Video Domain Adaptation", ICCV, 2023 (*University of Trento*). [[Paper](https://arxiv.org/abs/2308.09139)][[PyTorch](https://github.com/giaczara/dallv)]
 * Multi-Camera Editing:
     * **TC-Transformer**: "Temporal and Contextual Transformer for Multi-Camera Editing of TV Shows", ECCVW, 2022 (*CUHK*). [[Paper](https://arxiv.org/abs/2210.08737)]
 * Instructional Video:
@@ -2140,7 +2141,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **Paprika**: "Procedure-Aware Pretraining for Instructional Video Understanding", CVPR, 2023 (*Salesforce*). [[Paper](https://arxiv.org/abs/2303.18230)][[PyTorch](https://github.com/salesforce/paprika)]
     * **StepFormer**: "StepFormer: Self-supervised Step Discovery and Localization in Instructional Videos", CVPR, 2023 (*Samsung*). [[Paper](https://arxiv.org/abs/2304.13265)]
     * **E3P**: "Event-Guided Procedure Planning from Instructional Videos with Text Supervision", ICCV, 2023 (*Sun Yat-sen University*). [[Paper](https://arxiv.org/abs/2308.08885)]
-    * **VLaMP**: "Pretrained Language Models as Visual Planners for Human Assistance", arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2304.09179)]
+    * **VLaMP**: "Pretrained Language Models as Visual Planners for Human Assistance", ICCV, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2304.09179)]
     * **VINA**: "Learning to Ground Instructional Articles in Videos through Narrations", arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2306.03802)][[Website](https://eval.ai/web/challenges/challenge-page/2082/overview)]
 * Continual Learning:
     * **PIVOT**: "PIVOT: Prompting for Video Continual Learning", CVPR, 2023 (*KAUST*). [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Villa_PIVOT_Prompting_for_Video_Continual_Learning_CVPR_2023_paper.html)]
