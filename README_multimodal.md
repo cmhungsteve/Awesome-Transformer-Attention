@@ -115,6 +115,7 @@ If you find this repository useful, please consider citing this list:
     * **MMNS**: "Multimodal Neurons in Pretrained Text-Only Transformers", arXiv, 2023 (*MIT*). [[Paper](https://arxiv.org/abs/2308.01544)]
     * **RegionBLIP**: "RegionBLIP: A Unified Multi-modal Pre-training Framework for Holistic and Regional Comprehension", arXiv, 2023 (*Alibaba*). [[Paper](https://arxiv.org/abs/2308.02299)][[PyTorch](https://github.com/mightyzau/RegionBLIP)]
     * **?**: "Visually-Aware Context Modeling for News Image Captioning", arXiv, 2023 (*KU Leuven*). [[Paper](https://arxiv.org/abs/2308.08325)]
+    * **EVCap**: "EVCap: Retrieval-Augmented Image Captioning with External Visual-Name Memory for Open-World Comprehension", arXiv, 2023 (*The University of Tokyo*). [[Paper](https://arxiv.org/abs/2311.15879)][[Website](https://jiaxuan-li.github.io/EVCap/)]
 * Video:
     * **Masked Transformers**: "End-to-End Dense Video Captioning with Masked Transformer", CVPR, 2018 (*UMich + Salesforce*). [[Paper](https://openaccess.thecvf.com/content_cvpr_2018/html/Zhou_End-to-End_Dense_Video_CVPR_2018_paper.html)][[PyTorch](https://github.com/salesforce/densecap)]
     * **BMT**: "A Better Use of Audio-Visual Cues: Dense Video Captioning with Bi-modal Transformer", BMVC, 2020 (*Tampere University, Finland*). [[Paper](https://arxiv.org/abs/2005.08271)][[PyTorch](https://github.com/v-iashin/bmt)][[Website](https://iashin.ai/bmt)]
@@ -379,6 +380,7 @@ If you find this repository useful, please consider citing this list:
     * **3DRP-Net**: "3DRP-Net: 3D Relative Position-aware Network for 3D Visual Grounding", arXiv, 2023 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2307.13363)]
     * **3DRefTR**: "A Unified Framework for 3D Point Cloud Visual Grounding", arXiv, 2023 (*Xiamen University*). [[Paper](https://arxiv.org/abs/2308.11887)][[PyTorch](https://github.com/Leon1207/3DRefTR)]
     * **CoT3DRef**: "CoT3DRef: Chain-of-Thoughts Data-Efficient 3D Visual Grounding", arXiv, 2023 (*KAUST*). [[Paper](https://arxiv.org/abs/2310.06214)]
+    * **ZSVG3D**: "Visual Programming for Zero-shot Open-Vocabulary 3D Visual Grounding", arXiv, 2023 (*CUHK*). [[Paper](https://arxiv.org/abs/2311.15383)][[Code (in construction)](https://github.com/CurryYuan/ZSVG3D)][[Website](https://curryyuan.github.io/ZSVG3D/)]
 
 [[Back to Overview](#overview)]
 
@@ -648,6 +650,7 @@ If you find this repository useful, please consider citing this list:
     * **Meta-Transformer**: "Meta-Transformer: A Unified Framework for Multimodal Learning", arXiv, 2023 (*CUHK*). [[Paper](https://arxiv.org/abs/2307.10802)][[Code (in construction)](https://github.com/invictus717/MetaTransformer)][[Website](https://kxgong.github.io/meta_transformer/)]
     * **UnIVAL**: "Unified Model for Image, Video, Audio and Language Tasks", arXiv, 2023 (*Sorbonne University, France*). [[Paper](https://arxiv.org/abs/2307.16184)][[PyTorch](https://github.com/mshukor/UnIVAL)][[Website](https://unival-model.github.io/)]
     * **ViT-Lens**: "ViT-Lens: Towards Omni-modal Representations", arXiv, 2023 (*Tencent*). [[Paper](https://arxiv.org/abs/2308.10185)][[PyTorch](https://github.com/TencentARC/ViT-Lens)]
+    * **ViT-Lens-2**: "ViT-Lens-2: Gateway to Omni-modal Intelligence", arXiv, 2023 (*Tencent*). [[Paper](https://arxiv.org/abs/2311.16081)][[PyTorch](https://github.com/TencentARC/ViT-Lens)]
 
 [[Back to Overview](#overview)]
 
@@ -1313,6 +1316,7 @@ If you find this repository useful, please consider citing this list:
     * **?**: "Learning Spatial Features from Audio-Visual Correspondence in Egocentric Videos" arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2307.04760)]
 * Audio-Visual Localization/Segmentation:
     * **AVSBench**: "Audio-Visual Segmentation", ECCV, 2022 (*SenseTime*). [[Paper](https://arxiv.org/abs/2207.05042)][[PyTorch](https://github.com/OpenNLPLab/AVSBench)][[Website](https://opennlplab.github.io/AVSBench/)]
+    * **WS-AVS**: "Weakly-Supervised Audio-Visual Segmentation", NeurIPS, 2023 (*CMU + MBZUAI*). [[Paper](https://arxiv.org/abs/2311.15080)]
     * **AV-SAM**: "AV-SAM: Segment Anything Model Meets Audio-Visual Localization and Segmentation", arXiv, 2023 (*CMU + UT Dallas*). [[Paper](https://arxiv.org/abs/2305.01836)]
     * **AUSS**: "Hear to Segment: Unmixing the Audio to Guide the Semantic Segmentation", arXiv, 2023 (*Fudan*). [[Paper](https://arxiv.org/abs/2305.07223)]
     * **AuTR**: "Annotation-free Audio-Visual Segmentation", arXiv, 2023 (*Shanghai Jiao Tong*). [[Paper](https://arxiv.org/abs/2305.11019)]
