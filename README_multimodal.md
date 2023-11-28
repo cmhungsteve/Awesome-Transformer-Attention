@@ -1467,6 +1467,9 @@ If you find this repository useful, please consider citing this list:
     * **ViLMA**: "ViLMA: A Zero-Shot Benchmark for Linguistic and Temporal Grounding in Video-Language Models", arXiv, 2023 (*Koç University, Turkey*). [[Paper](https://arxiv.org/abs/2311.07022)][[Website](https://cyberiada.github.io/ViLMA/)]
     * **VLM-Eval**: "VLM-Eval: A General Evaluation on Video Large Language Models", arXiv, 2023 (*Megvii*). [[Paper](https://arxiv.org/abs/2311.11865)]
     * **Auto-Bench**: "Large Language Models as Automated Aligners for benchmarking Vision-Language Models", arXiv, 2023 (*HKU*). [[Paper](https://arxiv.org/abs/2311.14580)][[Website](https://jiyuanfeng.github.io/auto-bench.html)]
+    * **AutoEval-Video**: "AutoEval-Video: An Automatic Benchmark for Assessing Large Vision Language Models in Open-Ended Video Question Answering", arXiv, 2023 (*ByteDance*). [[Paper](https://arxiv.org/abs/2311.14906)][[PyTorch](https://github.com/Xiuyuan-Chen/AutoEval-Video)]
+    * **Video-Bench**: "Video-Bench: A Comprehensive Benchmark and Toolkit for Evaluating Video-based Large Language Models", arXiv, 2023 (*Peking*). [[Paper](https://arxiv.org/abs/2311.16103)][[PyTorch](https://github.com/PKU-YuanGroup/Video-Bench)]
+    * **?**: "How Many Unicorns Are in This Image? A Safety Evaluation Benchmark for Vision LLMs", arXiv, 2023 (*UC Santa Cruz + UNC*). [[Paper](https://arxiv.org/abs/2311.16101)][[PyTorch](https://github.com/UCSC-VLAA/vllm-safety-benchmark)]
 * Robustness:
     * **Hierarchy-CLIP**: "Improving Zero-shot Generalization and Robustness of Multi-modal Models", CVPR, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2212.01758)][[JAX](https://github.com/gyhandy/Hierarchy-CLIP)][[Website](https://sites.google.com/usc.edu/hierarchy-clip/)]
     * **?**: "Mitigating Spurious Correlations in Multi-modal Models during Fine-tuning", ICML, 2023 (*UCLA*). [[Paper](https://arxiv.org/abs/2304.03916)]
