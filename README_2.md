@@ -819,6 +819,7 @@ If you find this repository useful, please consider citing this list:
     * **RGT**: "Recursive Generalization Transformer for Image Super-Resolution", arXiv, 2023 (*Shanghai Jiao Tong*). [[Paper](https://arxiv.org/abs/2303.06373)]
     * **SOSR**: "SOSR: Source-Free Image Super-Resolution with Wavelet Augmentation Transformer", arXiv, 2023 (*CAS*). [[Paper](https://arxiv.org/abs/2303.17783)]
     * **HAT**: "HAT: Hybrid Attention Transformer for Image Restoration", arXiv, 2023 (*University of Macau*). [[Paper](https://arxiv.org/abs/2309.05239)][[PyTorch](https://github.com/XPixelGroup/HAT)]
+    * **PromptSR**: "Image Super-Resolution with Text Prompt Diffusion", arXiv, 2023 (*Shanghai Jiao Tong*). [[Paper](https://arxiv.org/abs/2311.14282)][[Code (in construction)](https://github.com/zhengchen1999/PromptSR)]
 * Others:
     * **SDNet**: "SDNet: multi-branch for single image deraining using swin", arXiv, 2021 (*Xinjiang University*). [[Paper](https://arxiv.org/abs/2105.15077)][[Code (in construction)](https://github.com/H-tfx/SDNet)]
     * **ATTSF**: "Attention! Stay Focus!", arXiv, 2021 (*BridgeAI, Seoul*). [[Paper](https://arxiv.org/abs/2104.07925)][[Tensorflow](https://github.com/tuvovan/ATTSF)]
@@ -1643,6 +1644,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **MultitaskVLFM**: "Leveraging Vision-Language Foundation Models for Fine-Grained Downstream Tasks", arXiv, 2023 (*Conservatoire National des Arts et Métiers (CEDRIC) France*). [[Paper](https://arxiv.org/abs/2307.06795)][[PyTorch](https://github.com/FactoDeepLearning/MultitaskVLFM)]
     * **M2Former**: "M2Former: Multi-Scale Patch Selection for Fine-Grained Visual Recognition", arXiv, 2023 (*Dongguk University, Korea*). [[Paper](https://arxiv.org/abs/2308.02161)]
     * **MP-FGVC**: "Delving into Multimodal Prompting for Fine-grained Visual Classification", arXiv, 2023 (*Nanjing University of Science and Technology*). [[Paper](https://arxiv.org/abs/2309.08912)]
+    * **HGCLIP**: "HGCLIP: Exploring Vision-Language Models with Graph Representations for Hierarchical Understanding", arXiv, 2023 (*Monash*). [[Paper](https://arxiv.org/abs/2311.14064)][[PyTorch](https://github.com/richard-peng-xia/HGCLIP)]
 * Gait:
     * **Gait-TR**: "Spatial Transformer Network on Skeleton-based Gait Recognition", arXiv, 2022 (*South China University of Technology*). [[Paper](https://arxiv.org/abs/2204.03873)]
     * **MMGaitFormer**: "Multi-Modal Gait Recognition via Effective Spatial-Temporal Feature Fusion", CVPR, 2023 (*Beihang University*). [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Cui_Multi-Modal_Gait_Recognition_via_Effective_Spatial-Temporal_Feature_Fusion_CVPR_2023_paper.html)]
