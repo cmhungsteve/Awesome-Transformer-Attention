@@ -1676,6 +1676,8 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **CIP-WPIS**: "When 3D Bounding-Box Meets SAM: Point Cloud Instance Segmentation with Weak-and-Noisy Supervision", arXiv, 2023 (*Australian National University*). [[Paper](https://arxiv.org/abs/2309.00828)]
     * **?**: "SAM-guided Unsupervised Domain Adaptation for 3D Segmentation", arXiv, 2023 (*ShanghaiTech*). [[Paper](https://arxiv.org/abs/2310.08820)]
     * **CSF**: "Leveraging Large-Scale Pretrained Vision Foundation Models for Label-Efficient 3D Point Cloud Segmentation", arXiv, 2023 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2311.01989)]
+    * **?**: "Understanding Self-Supervised Features for Learning Unsupervised Instance Segmentation", arXiv, 2023 (*Oxford*). [[Paper](https://arxiv.org/abs/2311.14665)]
+    * **OneFormer3D**: "OneFormer3D: One Transformer for Unified Point Cloud Segmentation", arXiv, 2023 (*Samsung*). [[Paper](https://arxiv.org/abs/2311.14405)]
 * Multi-Task:
     * **InvPT**: "Inverted Pyramid Multi-task Transformer for Dense Scene Understanding", ECCV, 2022 (*HKUST*). [[Paper](https://arxiv.org/abs/2203.07997)][[PyTorch](https://github.com/prismformore/Multi-Task-Transformer)]
     * **MTFormer**: "MTFormer: Multi-task Learning via Transformer and Cross-Task Reasoning", ECCV, 2022 (*CUHK*). [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/1353_ECCV_2022_paper.php)]
@@ -1732,6 +1734,8 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **EoRaS**: "Rethinking Amodal Video Segmentation from Learning Supervised Signals with Object-centric Representation", ICCV, 2023 (*Fudan*). [[Paper](https://arxiv.org/abs/2309.13248)][[Code (in construction)](https://github.com/kfan21/EoRaS)]
 * Amonaly Segmentation:
     * **Mask2Anomaly**: "Unmasking Anomalies in Road-Scene Segmentation", ICCV, 2023 (*Politecnico di Torino, Italy*). [[Paper](https://arxiv.org/abs/2307.13316)][[PyTorch](https://github.com/shyam671/Mask2Anomaly-Unmasking-Anomalies-in-Road-Scene-Segmentation)]
+* In-Context Segmentation:
+    * **SEGIC**: "SegIC: Unleashing the Emergent Correspondence for In-Context Segmentation", arXiv, 2023 (*Fudan*). [[Paper](https://arxiv.org/abs/2311.14671)][[Code (in construction)](https://github.com/MengLcool/SEGIC)]
 
 [[Back to Overview](#overview)]
 
