@@ -169,6 +169,7 @@ If you find this repository useful, please consider citing this list:
 * **Uni3D**: "Uni3D: Exploring Unified 3D Representation at Scale", arXiv, 2023 (*BAAI*). [[Paper](https://arxiv.org/abs/2310.06773)][[PyTorch](https://github.com/baaivision/Uni3D)]
 * **JM3D**: "JM3D & JM3D-LLM: Elevating 3D Representation with Joint Multi-modal Cues", arXiv, 2023 (*Xiamen University*). [[Paper](https://arxiv.org/abs/2310.09503)][[PyTorch](https://github.com/Mr-Neko/JM3D)]
 * **PonderV2**: "PonderV2: Pave the Way for 3D Foundation Model with A Universal Pre-training Paradigm", arXiv, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2310.08586)][[Code (in construction)](https://github.com/OpenGVLab/PonderV2)]
+* **MeshGPT**: "MeshGPT: Generating Triangle Meshes with Decoder-Only Transformers", arXiv, 2023 (*TUM*). [[Paper](https://arxiv.org/abs/2311.15475)][[Website](https://nihalsid.github.io/mesh-gpt/)]
 
 [[Back to Overview](#overview)]
 
@@ -281,6 +282,7 @@ If you find this repository useful, please consider citing this list:
     * **RelPose++**: "RelPose++: Recovering 6D Poses from Sparse-view Observations", arXiv, 2023 (*CMU*). [[Paper](https://arxiv.org/abs/2305.04926)][[PyTorch](https://github.com/amyxlase/relpose-plus-plus)][[Website](https://amyxlase.github.io/relpose-plus-plus/)]
     * **KDSM**: "Language-driven Open-Vocabulary Keypoint Detection for Animal Body and Face", arXiv, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2310.05056)]
     * **UniPose**: "UniPose: Detecting Any Keypoints", arXiv, 2023 (*IDEA*). [[Paper](https://arxiv.org/abs/2310.08530)][[Code (in construction)](https://github.com/IDEA-Research/UniPose)][[Website](https://yangjie-cv.github.io/UniPose/)]
+    * **SAM-6D**: "SAM-6D: Segment Anything Model Meets Zero-Shot 6D Object Pose Estimation", arXiv, 2023 (*CUHK*). [[Paper](https://arxiv.org/abs/2311.15707)][[PyTorch (in construction)](https://github.com/JiehongLin/SAM-6D)]
 
 [[Back to Overview](#overview)]
 
@@ -347,6 +349,7 @@ If you find this repository useful, please consider citing this list:
     * **SAM-Track**: "Segment and Track Anything", arXiv, 2023 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2305.06558)][[PyTorch](https://github.com/z-x-yang/Segment-and-Track-Anything)]
     * **CoTracker**: "CoTracker: It is Better to Track Together", arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2307.07635)][[PyTorch](https://github.com/facebookresearch/co-tracker)]
     * **OVTracktor**: "Zero-Shot Open-Vocabulary Tracking with Large Pre-Trained Models", arXiv, 2023 (*CMU*). [[Paper](https://arxiv.org/abs/2310.06992)][[Website](https://wenhsuanchu.github.io/ovtracktor/)]
+    * **Un-Track**: "Single-Model and Any-Modality for Video Object Tracking", arXiv, 2023 (*University of Wurzburg (JMU), Germany*). [[Paper](https://arxiv.org/abs/2311.15851)][[Code (in construction)](https://github.com/Zongwei97/UnTrack)]
     * **SMAT**: "Separable Self and Mixed Attention Transformers for Efficient Object Tracking", WACV, 2024 (*Concordia University, Canada*). [[Paper](https://arxiv.org/abs/2309.03979)][[PyTorch](https://github.com/goutamyg/SMAT)]
     * **ContrasTR**: "Contrastive Learning for Multi-Object Tracking with Transformers", WACV, 2024 (*KU Leuven*). [[Paper](https://arxiv.org/abs/2311.08043)]
 * 3D:
@@ -1872,6 +1875,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **GPT4V-AD**: "On the Road with GPT-4V(ision): Early Explorations of Visual-Language Model on Autonomous Driving", arXiv, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2311.05332)][[Code (in construction)](https://github.com/PJLab-ADG/GPT4V-AD-Exploration)]
     * **Agent-Driver**: "A Language Agent for Autonomous Driving", arXiv, 2023 (*USC*). [[Paper](https://arxiv.org/abs/2311.10813)][[Code (in construction)](https://github.com/USC-GVL/Agent-Driver)][[Website](https://usc-gvl.github.io/Agent-Driver/)]
     * **ADriver-I**: "ADriver-I: A General World Model for Autonomous Driving", arXiv, 2023 (*Megvii*). [[Paper](https://arxiv.org/abs/2311.13549)]
+    * **OccWorld**: "OccWorld: Learning a 3D Occupancy World Model for Autonomous Driving", arXiv, 2023 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2311.16038)][[PyTorch](https://github.com/wzzheng/OccWorld)][[Website](https://wzzheng.net/OccWorld/)]
 * Trajectory Prediction:
     * **mmTransformer**: "Multimodal Motion Prediction with Stacked Transformers", CVPR, 2021 (*CUHK + SenseTime*). [[Paper](https://arxiv.org/abs/2103.11624)][[Code (in construction)](https://github.com/decisionforce/mmTransformer)][[Website](https://decisionforce.github.io/mmTransformer/)]
     * **AgentFormer**: "AgentFormer: Agent-Aware Transformers for Socio-Temporal Multi-Agent Forecasting", ICCV, 2021 (*CMU*). [[Paper](https://arxiv.org/abs/2103.14023)][[PyTorch](https://github.com/Khrylx/AgentFormer)][[Website](https://www.ye-yuan.com/agentformer/)]
