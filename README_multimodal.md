@@ -328,6 +328,7 @@ If you find this repository useful, please consider citing this list:
     * **SoM**: "Set-of-Mark Prompting Unleashes Extraordinary Visual Grounding in GPT-4V", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2310.11441)][[Code (in construction)](https://github.com/microsoft/SoM)][[Website](https://som-gpt4v.github.io/)]
     * **GLaMM**: "GLaMM: Pixel Grounding Large Multimodal Model", arXiv, 2023 (*MBZUAI*). [[Paper](https://arxiv.org/abs/2311.03356)][[Code (in construction)](https://github.com/mbzuai-oryx/groundingLMM)][[Website](https://mbzuai-oryx.github.io/groundingLMM/)]
     * **?**: "Augment the Pairs: Semantics-Preserving Image-Caption Pair Augmentation for Grounding-Based Vision and Language Models", WACV, 2024 (*Amazon*). [[Paper](https://arxiv.org/abs/2311.02536)][[PyTorch](https://github.com/amzn/augment-the-pairs-wacv2024)]
+    * **Griffon**: "Griffon: Spelling out All Object Locations at Any Granularity with Large Language Models", arXiv, 2023 (*CAS*). [[Paper](https://arxiv.org/abs/2311.14552)]
 * Video:
     * **Multi-Stage-Transformer**: "Multi-Stage Aggregated Transformer Network for Temporal Language Localization in Videos", CVPR, 2021 (*University of Electronic Science and Technology of China*). [[Paper](https://openaccess.thecvf.com/content/CVPR2021/html/Zhang_Multi-Stage_Aggregated_Transformer_Network_for_Temporal_Language_Localization_in_Videos_CVPR_2021_paper.html)]
     * **GTR**: "On Pursuit of Designing Multi-modal Transformer for Video Grounding", EMNLP, 2021 (*Peking*). [[Paper](https://arxiv.org/abs/2109.06085)]
@@ -614,7 +615,6 @@ If you find this repository useful, please consider citing this list:
     * **STOA-VLP**: "STOA-VLP: Spatial-Temporal Modeling of Object and Action for Video-Language Pre-training", arXiv, 2023 (*Harbin Institute of Technology*). [[Papaer](https://arxiv.org/abs/2302.09736)]
     * **G-ViLM**: "Spatiotemporally Discriminative Video-Language Pre-Training with Text Grounding", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2303.16341)]
     * **VLAB**: "VLAB: Enhancing Video Language Pre-training by Feature Adapting and Blending", arXiv, 2023 (*ByteDance*). [[Paper](https://arxiv.org/abs/2305.13167)]
-    * **i-Code-V2**: "i-Code V2: An Autoregressive Generation Framework over Vision, Language, and Speech Data", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2305.12311)][[PyTorch (in construction)](https://github.com/microsoft/i-Code/tree/main/i-Code-V2)]
     * **TVTSv2**: "TVTSv2: Learning Out-of-the-box Spatiotemporal Visual Representations at Scale", arXiv, 2023 (*Tencent*). [[Paper](https://arxiv.org/abs/2305.14173)][[Code (in construction)](https://github.com/TencentARC/TVTS/tree/master/v2)]
     * **Youku-mPLUG**: "Youku-mPLUG: A 10 Million Large-scale Chinese Video-Language Dataset for Pre-training and Benchmarks", arXiv, 2023 (*Alibaba*). [[Paper](https://arxiv.org/abs/2306.04362)]
     * **VideoGLUE**: "VideoGLUE: Video General Understanding Evaluation of Foundation Models", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2307.03166)]
@@ -625,6 +625,7 @@ If you find this repository useful, please consider citing this list:
     * **?**: "Harvest Video Foundation Models via Efficient Post-Pretraining", arXiv, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2310.19554)][[PyTorch](https://github.com/OpenGVLab/InternVideo)]
     * **Owl-Con**: "VideoCon: Robust Video-Language Alignment via Contrast Captions", arXiv, 2023 (*UCLA*). [[Paper](https://arxiv.org/abs/2311.10111)][[PyTorch](https://github.com/Hritikbansal/videocon)]
     * **ShareGPT4V**: "ShareGPT4V: Improving Large Multi-Modal Models with Better Captions", arXiv, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2311.12793)][[Code (in construction)](https://github.com/InternLM/InternLM-XComposer/tree/main/projects/ShareGPT4V)][[Website](https://sharegpt4v.github.io/)]
+    * **Vamos**: "Vamos: Versatile Action Models for Video Understanding", arXiv, 2023 (*Brown*). [[Paper](https://arxiv.org/abs/2311.13627)][[Website](https://brown-palm.github.io/Vamos/)]
 * 3D:
     * **CLIP<sup>2</sup>**: "CLIP<sup>2</sup>: Contrastive Language-Image-Point Pretraining from Real-World Point Cloud Data", CVPR, 2023 (*Huawei*). [[Paper](https://arxiv.org/abs/2303.12417)]
     * **3D-VLP**: "Context-aware Alignment and Mutual Masking for 3D-Language Pre-training", CVPR, 2023 (*Sichuan University*). [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Jin_Context-Aware_Alignment_and_Mutual_Masking_for_3D-Language_Pre-Training_CVPR_2023_paper.html)][[PyTorch](https://github.com/leolyj/3D-VLP)]
@@ -1461,6 +1462,7 @@ If you find this repository useful, please consider citing this list:
     * **ChEF**: "ChEF: A Comprehensive Evaluation Framework for Standardized Assessment of Multimodal Large Language Models", arXiv, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2311.02692)][[PyTorch](https://github.com/OpenGVLab/LAMM)]
     * **ViLMA**: "ViLMA: A Zero-Shot Benchmark for Linguistic and Temporal Grounding in Video-Language Models", arXiv, 2023 (*Koç University, Turkey*). [[Paper](https://arxiv.org/abs/2311.07022)][[Website](https://cyberiada.github.io/ViLMA/)]
     * **VLM-Eval**: "VLM-Eval: A General Evaluation on Video Large Language Models", arXiv, 2023 (*Megvii*). [[Paper](https://arxiv.org/abs/2311.11865)]
+    * **Auto-Bench**: "Large Language Models as Automated Aligners for benchmarking Vision-Language Models", arXiv, 2023 (*HKU*). [[Paper](https://arxiv.org/abs/2311.14580)][[Website](https://jiyuanfeng.github.io/auto-bench.html)]
 * Robustness:
     * **Hierarchy-CLIP**: "Improving Zero-shot Generalization and Robustness of Multi-modal Models", CVPR, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2212.01758)][[JAX](https://github.com/gyhandy/Hierarchy-CLIP)][[Website](https://sites.google.com/usc.edu/hierarchy-clip/)]
     * **?**: "Mitigating Spurious Correlations in Multi-modal Models during Fine-tuning", ICML, 2023 (*UCLA*). [[Paper](https://arxiv.org/abs/2304.03916)]
