@@ -330,6 +330,7 @@ If you find this repository useful, please consider citing this list:
     * **GLaMM**: "GLaMM: Pixel Grounding Large Multimodal Model", arXiv, 2023 (*MBZUAI*). [[Paper](https://arxiv.org/abs/2311.03356)][[Code (in construction)](https://github.com/mbzuai-oryx/groundingLMM)][[Website](https://mbzuai-oryx.github.io/groundingLMM/)]
     * **?**: "Augment the Pairs: Semantics-Preserving Image-Caption Pair Augmentation for Grounding-Based Vision and Language Models", WACV, 2024 (*Amazon*). [[Paper](https://arxiv.org/abs/2311.02536)][[PyTorch](https://github.com/amzn/augment-the-pairs-wacv2024)]
     * **Griffon**: "Griffon: Spelling out All Object Locations at Any Granularity with Large Language Models", arXiv, 2023 (*CAS*). [[Paper](https://arxiv.org/abs/2311.14552)]
+    * **RelVLA**: "Zero-shot Referring Expression Comprehension via Structural Similarity Between Images and Captions", arXiv, 2023 (*Northeastern*). [[Paper](https://arxiv.org/abs/2311.17048)]
 * Video:
     * **Multi-Stage-Transformer**: "Multi-Stage Aggregated Transformer Network for Temporal Language Localization in Videos", CVPR, 2021 (*University of Electronic Science and Technology of China*). [[Paper](https://openaccess.thecvf.com/content/CVPR2021/html/Zhang_Multi-Stage_Aggregated_Transformer_Network_for_Temporal_Language_Localization_in_Videos_CVPR_2021_paper.html)]
     * **GTR**: "On Pursuit of Designing Multi-modal Transformer for Video Grounding", EMNLP, 2021 (*Peking*). [[Paper](https://arxiv.org/abs/2109.06085)]
@@ -569,6 +570,8 @@ If you find this repository useful, please consider citing this list:
     * **OtterHD**: "OtterHD: A High-Resolution Multi-modality Model", arXiv, 2023 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2311.04219)][[PyTorch](https://github.com/Luodian/Otter)]
     * **Florence-2**: "Florence-2: Advancing a Unified Representation for a Variety of Vision Tasks", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2311.06242)]
     * **MLA**: "Multimodal Representation Learning by Alternating Unimodal Adaptation", arXiv, 2023 (*UNC*). [[Paper](https://arxiv.org/abs/2311.10707)]
+    * **MobileCLIP**: "MobileCLIP: Fast Image-Text Models through Multi-Modal Reinforced Training", arXiv, 2023 (*Apple*). [[Paper](https://arxiv.org/abs/2311.17049)]
+    * **LLaMA-VID**: "LLaMA-VID: An Image is Worth 2 Tokens in Large Language Models", arXiv, 2023 (*CUHK*). [[Paper](https://arxiv.org/abs/2311.17043)][[PyTorch](https://github.com/dvlab-research/LLaMA-VID)]
 * Video:
     * **COOT**: "COOT: Cooperative Hierarchical Transformer for Video-Text Representation Learning", NeurIPS, 2020 (*University of Freiburg*). [[Paper](https://arxiv.org/abs/2011.00597)][[PyTorch](https://github.com/gingsi/coot-videotext)]
     * **Parameter-Reduction**: "Parameter Efficient Multimodal Transformers for Video Representation Learning", ICLR, 2021 (*Seoul National University*). [[Paper](https://openreview.net/forum?id=6UdQLhqJyFD)]
@@ -628,6 +631,7 @@ If you find this repository useful, please consider citing this list:
     * **Owl-Con**: "VideoCon: Robust Video-Language Alignment via Contrast Captions", arXiv, 2023 (*UCLA*). [[Paper](https://arxiv.org/abs/2311.10111)][[PyTorch](https://github.com/Hritikbansal/videocon)]
     * **ShareGPT4V**: "ShareGPT4V: Improving Large Multi-Modal Models with Better Captions", arXiv, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2311.12793)][[Code (in construction)](https://github.com/InternLM/InternLM-XComposer/tree/main/projects/ShareGPT4V)][[Website](https://sharegpt4v.github.io/)]
     * **Vamos**: "Vamos: Versatile Action Models for Video Understanding", arXiv, 2023 (*Brown*). [[Paper](https://arxiv.org/abs/2311.13627)][[Website](https://brown-palm.github.io/Vamos/)]
+    * **EILEV**: "Efficient In-Context Learning in Vision-Language Models for Egocentric Videos", arXiv, 2023 (*UMich*). [[Paper](https://arxiv.org/abs/2311.17041)]
 * 3D:
     * **CLIP<sup>2</sup>**: "CLIP<sup>2</sup>: Contrastive Language-Image-Point Pretraining from Real-World Point Cloud Data", CVPR, 2023 (*Huawei*). [[Paper](https://arxiv.org/abs/2303.12417)]
     * **3D-VLP**: "Context-aware Alignment and Mutual Masking for 3D-Language Pre-training", CVPR, 2023 (*Sichuan University*). [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Jin_Context-Aware_Alignment_and_Mutual_Masking_for_3D-Language_Pre-Training_CVPR_2023_paper.html)][[PyTorch](https://github.com/leolyj/3D-VLP)]
@@ -1005,6 +1009,7 @@ If you find this repository useful, please consider citing this list:
 * **?**: "Language Models as Black-Box Optimizers for Vision-Language Models", arXiv, 2023 (*CMU*). [[Paper](https://arxiv.org/abs/2309.05950)]
 * **DePT**: "DePT: Decoupled Prompt Tuning", arXiv, 2023 (*University of Electronic Science and Technology of China*). [[Paper](https://arxiv.org/abs/2309.07439)][[PyTorch](https://github.com/Koorye/DePT)]
 * **DEsignBench**: "DEsignBench: Exploring and Benchmarking DALL-E 3 for Imagining Visual Design", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2310.15144)][[Website](https://design-bench.github.io/)]
+* **ArGue**: "ArGue: Attribute-Guided Prompt Tuning for Vision-Language Models", arXiv, 2023 (*ANU*). [[Paper](https://arxiv.org/abs/2311.16494)]
 
 [[Back to Overview](#overview)]
 
@@ -1404,6 +1409,7 @@ If you find this repository useful, please consider citing this list:
     * **Q-Instruct**: "Q-Instruct: Improving Low-level Visual Abilities for Multi-modality Foundation Models", arXiv, 2023 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2311.06783)][[Website](https://q-future.github.io/Q-Instruct/)]
     * **DRESS**: "DRESS: Instructing Large Vision-Language Models to Align and Interact with Humans via Natural Language Feedback", arXiv, 2023 (*SRI*). [[Paper](https://arxiv.org/abs/2311.10081)][[Dataset](https://huggingface.co/datasets/YangyiYY/LVLM_NLF)]
     * **LION**: "LION: Empowering Multimodal Large Language Model with Dual-Level Visual Knowledge", arXiv, 2023 (*Harbin Institute of Technology*). [[Paper](https://arxiv.org/abs/2311.11860)][[Code (in construction)](https://github.com/rshaojimmy/JiuTian)][[Website](https://rshaojimmy.github.io/Projects/JiuTian-LION)]
+    * **VCD**: "Mitigating Object Hallucinations in Large Vision-Language Models through Visual Contrastive Decoding", arXiv, 2023 (*Alibaba*). [[Paper](https://arxiv.org/abs/2311.16922)][[PyTorch](https://github.com/DAMO-NLP-SG/VCD)]
 * Conversation (Video):
     * **Video-ChatCaptioner**: "Video ChatCaptioner: Towards the Enriched Spatiotemporal Descriptions", arXiv, 2023 (*KAUST*). [[Paper](https://arxiv.org/abs/2304.04227)][[PyTorch](https://github.com/Vision-CAIR/ChatCaptioner)]
     * **ChatVideo**: "ChatVideo: A Tracklet-centric Multimodal and Versatile Video Understanding System", arXiv, 2023 (*Fudan*). [[Paper](https://arxiv.org/abs/2304.14407)][[Website](https://www.wangjunke.info/ChatVideo/)]
@@ -1414,6 +1420,9 @@ If you find this repository useful, please consider citing this list:
     * **AntGPT**: "AntGPT: Can Large Language Models Help Long-term Action Anticipation from Videos?", arXiv, 2023 (*Brown*). [[Paper](https://arxiv.org/abs/2307.16368)][[Website](https://brown-palm.github.io/AntGPT/)]
     * **Video-LLaVA**: "Video-LLaVA: Learning United Visual Representation by Alignment Before Projection", arXiv, 2023 (*Peking*). [[Paper](https://arxiv.org/abs/2311.10122)][[PyTorch](https://github.com/PKU-YuanGroup/Video-LLaVA)]
     * **PG-Video-LLaVA**: "PG-Video-LLaVA: Pixel Grounding Large Video-Language Models", arXiv, 2023 (*MBZUAI*). [[Paper](https://arxiv.org/abs/2311.13435)][[Code (in construction)](https://github.com/mbzuai-oryx/Video-LLaVA)]
+    * **MVBench**: "MVBench: A Comprehensive Multi-modal Video Understanding Benchmark", arXiv, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2311.17005)][[PyTorch](https://github.com/OpenGVLab/Ask-Anything)]
+    * **Valley**: "Valley: Video Assistant with Large Language model Enhanced abilitY", arXiv, 2023 (*ByteDance*). [[Paper](https://arxiv.org/abs/2306.07207)]
+    * **GPT4Video**: "GPT4Video: A Unified Multimodal Large Language Model for lnstruction-Followed Understanding and Safety-Aware Generation", arXiv, 2023 (*Tencent*). [[Paper](https://arxiv.org/abs/2311.16511)][[Code (in construction)](https://github.com/gpt4video/GPT4Video)][[Website](https://gpt4video.github.io/)]
 * Visual Reasoning:
     * **BDC-Adapter**: "BDC-Adapter: Brownian Distance Covariance for Better Vision-Language Reasoning", BMVC, 2023 (*SUSTech*). [[Paper](https://arxiv.org/abs/2309.01256)]
     * **RPT**: "Fine-Grained Regional Prompt Tuning for Visual Abductive Reasoning", arXiv, 2023 (*A\*STAR*). [[Paper](https://arxiv.org/abs/2303.10428)]
