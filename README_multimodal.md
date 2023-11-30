@@ -632,6 +632,7 @@ If you find this repository useful, please consider citing this list:
     * **ShareGPT4V**: "ShareGPT4V: Improving Large Multi-Modal Models with Better Captions", arXiv, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2311.12793)][[Code (in construction)](https://github.com/InternLM/InternLM-XComposer/tree/main/projects/ShareGPT4V)][[Website](https://sharegpt4v.github.io/)]
     * **Vamos**: "Vamos: Versatile Action Models for Video Understanding", arXiv, 2023 (*Brown*). [[Paper](https://arxiv.org/abs/2311.13627)][[Website](https://brown-palm.github.io/Vamos/)]
     * **EILEV**: "Efficient In-Context Learning in Vision-Language Models for Egocentric Videos", arXiv, 2023 (*UMich*). [[Paper](https://arxiv.org/abs/2311.17041)]
+    * **E-ViLM**: "E-ViLM: Efficient Video-Language Model via Masked Video Modeling with Semantic Vector-Quantized Tokenizer", arXiv, 2023 (*Amazon*). [[Paper](https://arxiv.org/abs/2311.17267)]
 * 3D:
     * **CLIP<sup>2</sup>**: "CLIP<sup>2</sup>: Contrastive Language-Image-Point Pretraining from Real-World Point Cloud Data", CVPR, 2023 (*Huawei*). [[Paper](https://arxiv.org/abs/2303.12417)]
     * **3D-VLP**: "Context-aware Alignment and Mutual Masking for 3D-Language Pre-training", CVPR, 2023 (*Sichuan University*). [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Jin_Context-Aware_Alignment_and_Mutual_Masking_for_3D-Language_Pre-Training_CVPR_2023_paper.html)][[PyTorch](https://github.com/leolyj/3D-VLP)]
@@ -1010,6 +1011,7 @@ If you find this repository useful, please consider citing this list:
 * **DePT**: "DePT: Decoupled Prompt Tuning", arXiv, 2023 (*University of Electronic Science and Technology of China*). [[Paper](https://arxiv.org/abs/2309.07439)][[PyTorch](https://github.com/Koorye/DePT)]
 * **DEsignBench**: "DEsignBench: Exploring and Benchmarking DALL-E 3 for Imagining Visual Design", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2310.15144)][[Website](https://design-bench.github.io/)]
 * **ArGue**: "ArGue: Attribute-Guided Prompt Tuning for Vision-Language Models", arXiv, 2023 (*ANU*). [[Paper](https://arxiv.org/abs/2311.16494)]
+* **SWIG**: "Beyond Sole Strength: Customized Ensembles for Generalized Vision-Language Models", arXiv, 2023 (*NUS*). [[Paper](https://arxiv.org/abs/2311.17091)][[Code (in construction)](https://github.com/zhiheLu/Ensemble_VLM)]
 
 [[Back to Overview](#overview)]
 
@@ -1258,6 +1260,7 @@ If you find this repository useful, please consider citing this list:
     * **CG3D**: "CLIP goes 3D: Leveraging Prompt Tuning for Language Grounded 3D Recognition", arXiv, 2023 (*JHU*). [[Paper](https://arxiv.org/abs/2303.11313)][[PyTorch](https://github.com/deeptibhegde/CLIP-goes-3D)][[Website](https://jeya-maria-jose.github.io/cg3d-web/)]
     * **DiffCLIP**: "DiffCLIP: Leveraging Stable Diffusion for Language Grounded 3D Classification", arXiv, 2023 (*Beijing Institute of Technology*). [[Paper](https://arxiv.org/abs/2305.15957)]
     * **LLM-Grounder**: "LLM-Grounder: Open-Vocabulary 3D Visual Grounding with Large Language Model as an Agent", arXiv, 2023 (*UMich*). [[Paper](https://arxiv.org/abs/2309.12311)][[PyTorch](https://github.com/sled-group/chat-with-nerf)][[Website](https://chat-with-nerf.github.io/)]
+    * **ShapeGPT**: "ShapeGPT: 3D Shape Generation with A Unified Multi-modal Language Model", arXiv, 2023 (*Tencent*). [[Paper](https://arxiv.org/abs/2311.17618)][[Website](https://shapegpt.github.io/)][[Website](https://github.com/OpenShapeLab/ShapeGPT)]
     * **Open-NeRF**: "Open-NeRF: Towards Open Vocabulary NeRF Decomposition", WACV, 2024 (*UIUC*). [[Paper](https://arxiv.org/abs/2310.16383)]
 * 3D Scene Understanding:
     * **OpenScene**: "OpenScene: 3D Scene Understanding with Open Vocabularies", CVPR, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2211.15654)][[PyTorch](https://github.com/pengsongyou/openscene)][[Website](https://pengsongyou.github.io/openscene)]
@@ -1480,6 +1483,8 @@ If you find this repository useful, please consider citing this list:
     * **AutoEval-Video**: "AutoEval-Video: An Automatic Benchmark for Assessing Large Vision Language Models in Open-Ended Video Question Answering", arXiv, 2023 (*ByteDance*). [[Paper](https://arxiv.org/abs/2311.14906)][[PyTorch](https://github.com/Xiuyuan-Chen/AutoEval-Video)]
     * **Video-Bench**: "Video-Bench: A Comprehensive Benchmark and Toolkit for Evaluating Video-based Large Language Models", arXiv, 2023 (*Peking*). [[Paper](https://arxiv.org/abs/2311.16103)][[PyTorch](https://github.com/PKU-YuanGroup/Video-Bench)]
     * **?**: "How Many Unicorns Are in This Image? A Safety Evaluation Benchmark for Vision LLMs", arXiv, 2023 (*UC Santa Cruz + UNC*). [[Paper](https://arxiv.org/abs/2311.16101)][[PyTorch](https://github.com/UCSC-VLAA/vllm-safety-benchmark)]
+    * **VITATECS**: "VITATECS: A Diagnostic Dataset for Temporal Concept Understanding of Video-Language Models", arXiv, 2023 (*Peking*). [[Paper](https://arxiv.org/abs/2311.17404)][[PyTorch](https://github.com/lscpku/VITATECS)]
+    * **SEED-Bench-2**: "SEED-Bench-2: Benchmarking Multimodal Large Language Models", arXiv, 2023 (*Tencent*). [[Paper](https://arxiv.org/abs/2311.17092)][[PyTorch](https://github.com/AILab-CVC/SEED-Bench)]
 * Robustness:
     * **Hierarchy-CLIP**: "Improving Zero-shot Generalization and Robustness of Multi-modal Models", CVPR, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2212.01758)][[JAX](https://github.com/gyhandy/Hierarchy-CLIP)][[Website](https://sites.google.com/usc.edu/hierarchy-clip/)]
     * **?**: "Mitigating Spurious Correlations in Multi-modal Models during Fine-tuning", ICML, 2023 (*UCLA*). [[Paper](https://arxiv.org/abs/2304.03916)]
