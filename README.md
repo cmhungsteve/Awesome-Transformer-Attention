@@ -1510,6 +1510,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **Entity**: "Rethinking Evaluation Metrics of Open-Vocabulary Segmentaion", arXiv, 2023 (*Harbin Engineering University*). [[Paper](https://arxiv.org/abs/2311.03352)][[PyTorch](https://github.com/qqlu/Entity)]
     * **OSM**: "Towards Open-Ended Visual Recognition with Large Language Model", arXiv, 2023 (*ByteDance*). [[Paper](https://arxiv.org/abs/2311.08400)][[PyTorch](https://github.com/bytedance/OmniScient-Model)]
     * **SED**: "SED: A Simple Encoder-Decoder for Open-Vocabulary Semantic Segmentation", arXiv, 2023 (*Tianjin*). [[Paper](https://arxiv.org/abs/2311.15537)][[PyTorch (in construction)](https://github.com/xb534/SED)]
+    * **PnP-OVSS**: "Plug-and-Play, Dense-Label-Free Extraction of Open-Vocabulary Semantic Segmentation from Vision-Language Models", arXiv, 2023 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2311.17095)]
 * Universal Segmentation:
     * **K-Net**: "K-Net: Towards Unified Image Segmentation", NeurIPS, 2021 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2106.14855)][[PyTorch](https://github.com/ZwwWayne/K-Net/)]
     * **Mask2Former**: "Masked-attention Mask Transformer for Universal Image Segmentation", CVPR, 2022 (*Meta*). [[Paper](https://arxiv.org/abs/2112.01527)][[PyTorch](https://github.com/facebookresearch/Mask2Former)][[Website](https://bowenc0221.github.io/mask2former/)]
@@ -1576,6 +1577,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **MuHS**: "Suppressing the Heterogeneity: A Strong Feature Extractor for Few-shot Segmentation", ICLR, 2023 (*Zhejiang University*). [[Paper](https://openreview.net/forum?id=CGuvK3U09LH)]
     * **VTM**: "Universal Few-shot Learning of Dense Prediction Tasks with Visual Token Matching", ICLR, 2023 (*KAIST*). [[Paper](https://arxiv.org/abs/2303.14969)][[PyTorch](https://github.com/GitGyun/visual_token_matching)]
     * **SegGPT**: "SegGPT: Segmenting Everything In Context", ICCV, 2023 (*BAAI*). [[Paper](https://arxiv.org/abs/2304.03284)][[PyTorch](https://github.com/baaivision/Painter)]
+    * **AMFormer**: "Focus on Query: Adversarial Mining Transformer for Few-Shot Segmentation", NeurIPS, 2023 (*ISTC*). [[Paper](https://arxiv.org/abs/2311.17626)][[Code (in construction)](https://github.com/Wyxdm/AMNet)]
     * **RefT**: "Reference Twice: A Simple and Unified Baseline for Few-Shot Instance Segmentation", arXiv, 2023 (*Tencent*). [[Paper](https://arxiv.org/abs/2301.01156)][[Code (in construction)](https://github.com/hanyue1648/RefT)]
     * **?**: "Multi-Modal Prototypes for Open-Set Semantic Segmentation", arXiv, 2023 (*Shanghai Jiao Tong*). [[Paper](https://arxiv.org/abs/2307.02003)]
     * **SPINO**: "Few-Shot Panoptic Segmentation With Foundation Models", arXiv, 2023 (*University of Freiburg, Germany*). [[Paper](https://arxiv.org/abs/2309.10726)][[Website](http://spino.cs.uni-freiburg.de/)]
@@ -2056,6 +2058,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **?**: "Language as the Medium: Multimodal Video Classification through text only", ICCVW, 2023 (*Unitary, UK*). [[Paper](https://arxiv.org/abs/2309.10783)]
     * **MAP**: "Seeing in Flowing: Adapting CLIP for Action Recognition with Motion Prompts Learning", ACMMM, 2023 (*Tencent*). [[Paper](https://arxiv.org/abs/2308.04828)]
     * **OTI**: "Orthogonal Temporal Interpolation for Zero-Shot Video Recognition", ACMMM, 2023 (*CAS*). [[Paper](https://arxiv.org/abs/2308.06897)][[Code (in construction)](https://github.com/sweetorangezhuyan/mm2023_oti)]
+    * **Symbol-LLM**: "Symbol-LLM: Leverage Language Models for Symbolic System in Visual Human Activity Reasoning", NeurIPS, 2023 (*Shanghai Jiao Tong University (SJTU)*). [[Paper](https://arxiv.org/abs/2311.17365)][[Code (in construction)](https://github.com/enlighten0707/Symbol-LLM)][[Website](https://mvig-rhos.com/symbol_llm)]
     * **CLIP-FSAR**: "CLIP-guided Prototype Modulating for Few-shot Action Recognition", arXiv, 2023 (*Alibaba*). [[Paper](https://arxiv.org/abs/2303.02982)][[PyTorch](https://github.com/alibaba-mmai-research/CLIP-FSAR)]
     * **?**: "Multi-modal Prompting for Low-Shot Temporal Action Localization", arXiv, 2023 (*Shanghai Jiao Tong*). [[Paper](https://arxiv.org/abs/2303.11732)]
     * **VicTR**: "VicTR: Video-conditioned Text Representations for Activity Recognition", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2304.02560)]
@@ -2071,6 +2074,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **Chat-UniVi**: "Chat-UniVi: Unified Visual Representation Empowers Large Language Models with Image and Video Understanding", arXiv, 2023 (*Peking*). [[Paper](https://arxiv.org/abs/2311.08046)]
     * **Side4Video**: "Side4Video: Spatial-Temporal Side Network for Memory-Efficient Image-to-Video Transfer Learning", arXiv, 2023 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2311.15769)][[Code (in construction)](https://github.com/HJYao00/Side4Video)]
     * **ALT**: "Align before Adapt: Leveraging Entity-to-Region Alignments for Generalizable Video Action Recognition", arXiv, 2023 (*Huawei*). [[Paper](https://arxiv.org/abs/2311.15619)]
+    * **MM-Narrator**: "MM-Narrator: Narrating Long-form Videos with Multimodal In-Context Learning", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2311.17435)][[Website](https://mm-narrator.github.io/)]
 * X-supervised Learning:
     * **LSTCL**: "Long-Short Temporal Contrastive Learning of Video Transformers", CVPR, 2022 (*Facebook*). [[Paper](https://arxiv.org/abs/2106.09212)]
     * **SVT**: "Self-supervised Video Transformer", CVPR, 2022 (*Stony Brook*). [[Paper](https://arxiv.org/abs/2112.01514)][[PyTorch](https://github.com/kahnchana/svt)][[Website](https://kahnchana.github.io/svt/)]
