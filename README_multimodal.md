@@ -1277,6 +1277,7 @@ If you find this repository useful, please consider citing this list:
     * **OpenIns3D**: "OpenIns3D: Snap and Lookup for 3D Open-vocabulary Instance Segmentation", arXiv, 2023 (*Cambridge*). [[Paper](https://arxiv.org/abs/2309.00616)][[Website](https://zheninghuang.github.io/OpenIns3D/)]
     * **ConceptGraphs**: "ConceptGraphs: Open-Vocabulary 3D Scene Graphs for Perception and Planning", arXiv, 2023 (*University of Toronto + Universite de Montreal*). [[Paper](https://arxiv.org/abs/2309.16650)][[PyTorch](https://github.com/concept-graphs/concept-graphs)][[Website](https://concept-graphs.github.io/)]
     * **OmniSeg3D**: "OmniSeg3D: Omniversal 3D Segmentation via Hierarchical Contrastive Learning", arXiv, 2023 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2311.11666)][[Website](https://oceanying.github.io/OmniSeg3D/)]
+    * **SAMPro3D**: "SAMPro3D: Locating SAM Prompts in 3D for Zero-Shot Scene Segmentation", arXiv, 2023 (*CUHK*). [[Paper](https://arxiv.org/abs/2311.17707)][[Code (in construction)](https://github.com/GAP-LAB-CUHK-SZ/SAMPro3D)][[Website](https://mutianxu.github.io/sampro3d/)]
 * Speech Recognition:
     * **AV-HuBERT**: "Robust Self-Supervised Audio-Visual Speech Recognition", arXiv, 2022 (*Meta*). [[Paper](https://arxiv.org/abs/2201.01763)][[PyTorch](https://github.com/facebookresearch/av_hubert)]
     * **?**: "Transformer-Based Video Front-Ends for Audio-Visual Speech Recognition", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2201.10439)]
