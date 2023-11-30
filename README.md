@@ -1085,7 +1085,6 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **MM-OVOD**: "Multi-Modal Classifiers for Open-Vocabulary Object Detection", ICML, 2023 (*Oxford*). [[Paper](https://arxiv.org/abs/2306.05493?s=31)][[Code (in construction)](https://github.com/prannaykaul/mm-ovod)][[Website](https://www.robots.ox.ac.uk/~vgg/research/mm-ovod/)]
 * **CoDA**: "CoDA: Collaborative Novel Box Discovery and Cross-modal Alignment for Open-vocabulary 3D Object Detection", NeurIPS, 2023 (**). [[Paper](https://arxiv.org/abs/2310.02960)][[Code (in construction)](https://github.com/yangcaoai/CoDA_NeurIPS2023)][[Website](https://yangcaoai.github.io/publications/CoDA.html)]
 * **ContextDET**: "Contextual Object Detection with Multimodal Large Language Models", arXiv, 2023 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2305.18279)][[Code (in construction)](https://github.com/yuhangzang/ContextDET)][[Website](https://www.mmlab-ntu.com/project/contextdet/index.html)]
-* **OWL-ST**: "Scaling Open-Vocabulary Object Detection", arXiv, 2023 (*DeepMind*). [[Paper](https://arxiv.org/abs/2306.09683)]
 * **Object2Scene**: "Object2Scene: Putting Objects in Context for Open-Vocabulary 3D Detection", arXiv, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2309.09456)]
 
 [[Back to Overview](#overview)]
@@ -1203,6 +1202,8 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **V3Det**: "V3Det: Vast Vocabulary Visual Detection Dataset", ICCV, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2304.03752)][[GitHub](https://github.com/V3Det/V3Det)][[Website](https://v3det.openxlab.org.cn/)]
     * **CoDet**: "CoDet: Co-Occurrence Guided Region-Word Alignment for Open-Vocabulary Object Detection", NeurIPS, 2023 (*ByteDance*). [[Paper](https://arxiv.org/abs/2310.16667)][[Code (in construction)](https://github.com/CVMI-Lab/CoDet)]
     * **DAMEX**: "DAMEX: Dataset-aware Mixture-of-Experts for visual understanding of mixture-of-datasets", NeurIPS, 2023 (*Georgia Tech*). [[Paper](https://arxiv.org/abs/2311.04894)][[Code (in construction)](https://github.com/jinga-lala/DAMEX)]
+    * **OWL-ST**: "Scaling Open-Vocabulary Object Detection", NeurIPS, 2023 (*DeepMind*). [[Paper](https://arxiv.org/abs/2306.09683)]
+    * **MQ-Det**: "Multi-modal Queried Object Detection in the Wild", NeurIPS, 2023 (*Tencent*). [[Paper](https://arxiv.org/abs/2305.18980)][[PyTorch](https://github.com/YifanXu74/MQ-Det)]
     * **Grounding-DINO**: "Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection", arXiv, 2023 (*IDEA*). [[Paper](https://arxiv.org/abs/2303.05499)]
     * **GridCLIP**: "GridCLIP: One-Stage Object Detection by Grid-Level CLIP Representation Learning", arXiv, 2023 (*Queen Mary University of London*). [[Paper](https://arxiv.org/abs/2303.09252)]
     * **?**: "Three ways to improve feature alignment for open vocabulary detection", arXiv, 2023 (*DeepMind*). [[Paper](https://arxiv.org/abs/2303.13518)]
@@ -1217,6 +1218,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **DST-Det**: "DST-Det: Simple Dynamic Self-Training for Open-Vocabulary Object Detection", arXiv, 2023 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2310.01393)][[Code (in consgtruction)](https://github.com/xushilin1/dst-det)]
     * **DITO**: "Detection-Oriented Image-Text Pretraining for Open-Vocabulary Detection", arXiv, 2023 (*DeepMind*). [[Paper](https://arxiv.org/abs/2310.00161)]
     * **RegionSpot**: "Recognize Any Regions", arXiv, 2023 (*University Of Surrey, England*). [[Paper](https://arxiv.org/abs/2311.01373)][[Code (in construction)](https://github.com/Surrey-UPLab/Recognize-Any-Regions)]
+    * **DECOLA**: "Language-conditioned Detection Transformer", arXiv, 2023 (*UT Austin*). [[Paper](https://arxiv.org/abs/2311.17902)][[PyTorch](https://github.com/janghyuncho/DECOLA)]
     * **LP-OVOD**: "LP-OVOD: Open-Vocabulary Object Detection by Linear Probing", WACV, 2024 (*VinAI, Vietnam*). [[Paper](https://arxiv.org/abs/2310.17109)]
 * Pedestrian Detection:
     * **PED**: "DETR for Crowd Pedestrian Detection", arXiv, 2020 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2012.06785)][[PyTorch](https://github.com/Hatmm/PED-DETR-for-Pedestrian-Detection)]
@@ -2101,6 +2103,8 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **LSTA**: "Efficient Long-Short Temporal Attention Network for Unsupervised Video Object Segmentation", arXiv, 2023 (*Hangzhou Dianzi University*). [[Paper](https://arxiv.org/abs/2309.11707)]
     * **DoRA**: "Is ImageNet worth 1 video? Learning strong image encoders from 1 long unlabelled video", arXiv, 2023 (*INRIA*). [[Paper](https://arxiv.org/abs/2310.08584)]
     * **AMD**: "Asymmetric Masked Distillation for Pre-Training Small Foundation Models", arXiv, 2023 (*Nanjing University*). [[Paper](https://arxiv.org/abs/2311.03149)]
+    * **SSL-UVOS**: "Betrayed by Attention: A Simple yet Effective Approach for Self-supervised Video Object Segmentation", arXiv, 2023 (*CUHK*). [[Paper](https://arxiv.org/abs/2311.17893)] 
+
 * X-shot:
     * **ResT**: "Cross-modal Representation Learning for Zero-shot Action Recognition", CVPR, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2205.01657)]
     * **ViSET**: "Zero-Shot Action Recognition with Transformer-based Video Semantic Embedding", arXiv, 2022 (*University of South FLorida*). [[Paper](https://arxiv.org/abs/2203.05156)]
