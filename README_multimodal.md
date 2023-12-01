@@ -572,6 +572,7 @@ If you find this repository useful, please consider citing this list:
     * **MLA**: "Multimodal Representation Learning by Alternating Unimodal Adaptation", arXiv, 2023 (*UNC*). [[Paper](https://arxiv.org/abs/2311.10707)]
     * **MobileCLIP**: "MobileCLIP: Fast Image-Text Models through Multi-Modal Reinforced Training", arXiv, 2023 (*Apple*). [[Paper](https://arxiv.org/abs/2311.17049)]
     * **LLaMA-VID**: "LLaMA-VID: An Image is Worth 2 Tokens in Large Language Models", arXiv, 2023 (*CUHK*). [[Paper](https://arxiv.org/abs/2311.17043)][[PyTorch](https://github.com/dvlab-research/LLaMA-VID)]
+    * **?**: "MLLMs-Augmented Visual-Language Representation Learning", arXiv, 2023 (*NUS*). [[Paper](https://arxiv.org/abs/2311.18765)][[Code (in construction)](https://github.com/lyq312318224/MLLMs-Augmented)]
 * Video:
     * **COOT**: "COOT: Cooperative Hierarchical Transformer for Video-Text Representation Learning", NeurIPS, 2020 (*University of Freiburg*). [[Paper](https://arxiv.org/abs/2011.00597)][[PyTorch](https://github.com/gingsi/coot-videotext)]
     * **Parameter-Reduction**: "Parameter Efficient Multimodal Transformers for Video Representation Learning", ICLR, 2021 (*Seoul National University*). [[Paper](https://openreview.net/forum?id=6UdQLhqJyFD)]
@@ -862,6 +863,7 @@ If you find this repository useful, please consider citing this list:
     * **LLM-Blueprint**: "LLM Blueprint: Enabling Text-to-Image Generation with Complex and Detailed Prompts", arXiv, 2023 (*MBZUAI*). [[Paper](https://arxiv.org/abs/2310.10640)][[Code (in construction)](https://github.com/hananshafi/llmblueprint)]
     * **DiagrammerGPT**: "DiagrammerGPT: Generating Open-Domain, Open-Platform Diagrams via LLM Planning", arXiv, 2023 (*UNC*). [[Paper](https://arxiv.org/abs/2310.12128)][[PyThon](https://github.com/aszala/DiagrammerGPT)][[Website](https://diagrammergpt.github.io/)]
     * **Emu-Edit**: "Emu Edit: Precise Image Editing via Recognition and Generation Tasks", arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2311.10089)]
+    * **CoDi-2**: "CoDi-2: In-Context, Interleaved, and Interactive Any-to-Any Generation", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2311.18775)][[Code (in construction)](https://github.com/microsoft/i-Code/tree/main/CoDi-2)][[Website](https://codi-2.github.io/)]
 * Video:
     * **Imagen-Video**: "Imagen Video: High Definition Video Generation with Diffusion Models", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2210.02303)][[Website](https://imagen.research.google/video/)]
     * **Phenaki**: "Phenaki: Variable Length Video Generation From Open Domain Textual Description", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2210.02399)][[PyTorch (LAION-AI, in construction)](https://github.com/LAION-AI/phenaki)][[Website](https://phenaki.video/)]
@@ -1283,6 +1285,7 @@ If you find this repository useful, please consider citing this list:
     * **ConceptGraphs**: "ConceptGraphs: Open-Vocabulary 3D Scene Graphs for Perception and Planning", arXiv, 2023 (*University of Toronto + Universite de Montreal*). [[Paper](https://arxiv.org/abs/2309.16650)][[PyTorch](https://github.com/concept-graphs/concept-graphs)][[Website](https://concept-graphs.github.io/)]
     * **OmniSeg3D**: "OmniSeg3D: Omniversal 3D Segmentation via Hierarchical Contrastive Learning", arXiv, 2023 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2311.11666)][[Website](https://oceanying.github.io/OmniSeg3D/)]
     * **SAMPro3D**: "SAMPro3D: Locating SAM Prompts in 3D for Zero-Shot Scene Segmentation", arXiv, 2023 (*CUHK*). [[Paper](https://arxiv.org/abs/2311.17707)][[Code (in construction)](https://github.com/GAP-LAB-CUHK-SZ/SAMPro3D)][[Website](https://mutianxu.github.io/sampro3d/)]
+    * **LL3DA**: "LL3DA: Visual Interactive Instruction Tuning for Omni-3D Understanding, Reasoning, and Planning", arXiv, 2023 (*Fudan*). [[Paper](https://arxiv.org/abs/2311.18651)][[Code (in construction)](https://github.com/Open3DA/LL3DA)][[Website](https://ll3da.github.io/https://tianweiy.github.io/dmd/)]
 * Speech Recognition:
     * **AV-HuBERT**: "Robust Self-Supervised Audio-Visual Speech Recognition", arXiv, 2022 (*Meta*). [[Paper](https://arxiv.org/abs/2201.01763)][[PyTorch](https://github.com/facebookresearch/av_hubert)]
     * **?**: "Transformer-Based Video Front-Ends for Audio-Visual Speech Recognition", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2201.10439)]
@@ -1383,11 +1386,9 @@ If you find this repository useful, please consider citing this list:
     * **SVIT**: "SVIT: Scaling up Visual Instruction Tuning", arXiv, 2023 (*BAAI*). [[Paper](https://arxiv.org/abs/2307.04087)]
     * **AmadeusGPT**: "AmadeusGPT: a natural language interface for interactive animal behavioral analysis", arXiv, 2023 (*EPFL*). [[Paper](https://arxiv.org/abs/2307.04858)][[Code (in construction)](https://github.com/AdaptiveMotorControlLab/AmadeusGPT)]
     * **ChatSpot**: "ChatSpot: Bootstrapping Multimodal LLMs via Precise Referring Instruction Tuning", arXiv, 2023 (*Megvii*). [[Paper](https://arxiv.org/abs/2307.09474)][[Demo](https://chatspot.streamlit.app/)]
-    * **3D-LLM**: "3D-LLM: Injecting the 3D World into Large Language Models", arXiv, 2023 (*UCLA*). [[Paper](https://arxiv.org/abs/2307.12981)][[PyTorch (in construction)](https://github.com/UMass-Foundation-Model/3D-LLM)][[Website](https://vis-www.cs.umass.edu/3dllm/)]
     * **?**: "How Good is Google Bard's Visual Understanding? An Empirical Study on Open Challenges", arXiv, 2023 (*ETHZ*). [[Paper](https://arxiv.org/abs/2307.15016)][[GitHub (in construction)](https://github.com/htqin/GoogleBard-VisUnderstand)]
     * **?**: "Tool Documentation Enables Zero-Shot Tool-Usage with Large Language Models", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2308.00675)]
     * **MM-Vet**: "MM-Vet: Evaluating Large Multimodal Models for Integrated Capabilities", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2308.02490)][[Code](https://github.com/yuweihao/MM-Vet)]
-    * **Chat-3D**: "Chat-3D: Data-efficiently Tuning Large Language Model for Universal Dialogue of 3D Scenes", arXiv, 2023 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2308.08769)][[PyTorch](https://github.com/Chat-3D/Chat-3D)][[Website](https://chat-3d.github.io/)]
     * **StableLLaVA**: "StableLLaVA: Enhanced Visual Instruction Tuning with Synthesized Image-Dialogue Data", arXiv, 2023 (*Tencent*). [[Paper](https://arxiv.org/abs/2308.10253)][[Code (in construction)](https://github.com/icoz69/StableLLAVA)]
     * **PVIT**: "Position-Enhanced Visual Instruction Tuning for Multimodal Large Language Models", arXiv, 2023 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2308.13437)]
     * **PointLLM**: "PointLLM: Empowering Large Language Models to Understand Point Clouds", arXiv, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2308.16911)][[Code (in construction)](https://github.com/OpenRobotLab/PointLLM)][[Website](https://runsenxu.com/projects/PointLLM/)]
@@ -1418,6 +1419,7 @@ If you find this repository useful, please consider citing this list:
     * **VCD**: "Mitigating Object Hallucinations in Large Vision-Language Models through Visual Contrastive Decoding", arXiv, 2023 (*Alibaba*). [[Paper](https://arxiv.org/abs/2311.16922)][[PyTorch](https://github.com/DAMO-NLP-SG/VCD)]
     * **OPERA**: "OPERA: Alleviating Hallucination in Multi-Modal Large Language Models via Over-Trust Penalty and Retrospection-Allocation", arXiv, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2311.17911)][[PyTorch](https://github.com/shikiw/OPERA)]
     * **CG-VLM**: "Contrastive Vision-Language Alignment Makes Efficient Instruction Learner", arXiv, 2023 (*South China University of Technology*). [[Paper](https://arxiv.org/abs/2311.17945)][[Code (in construction)](https://github.com/lizhaoliu-Lec/CG-VLM)]
+    * **X-InstructBLIP**: "X-InstructBLIP: A Framework for aligning X-Modal instruction-aware representations to LLMs and Emergent Cross-modal Reasoning", arXiv, 2023 (*Salesforce*). [[Paper](https://arxiv.org/abs/2311.18799)]
 * Conversation (Video):
     * **Video-ChatCaptioner**: "Video ChatCaptioner: Towards the Enriched Spatiotemporal Descriptions", arXiv, 2023 (*KAUST*). [[Paper](https://arxiv.org/abs/2304.04227)][[PyTorch](https://github.com/Vision-CAIR/ChatCaptioner)]
     * **ChatVideo**: "ChatVideo: A Tracklet-centric Multimodal and Versatile Video Understanding System", arXiv, 2023 (*Fudan*). [[Paper](https://arxiv.org/abs/2304.14407)][[Website](https://www.wangjunke.info/ChatVideo/)]
@@ -1431,6 +1433,9 @@ If you find this repository useful, please consider citing this list:
     * **MVBench**: "MVBench: A Comprehensive Multi-modal Video Understanding Benchmark", arXiv, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2311.17005)][[PyTorch](https://github.com/OpenGVLab/Ask-Anything)]
     * **Valley**: "Valley: Video Assistant with Large Language model Enhanced abilitY", arXiv, 2023 (*ByteDance*). [[Paper](https://arxiv.org/abs/2306.07207)]
     * **GPT4Video**: "GPT4Video: A Unified Multimodal Large Language Model for lnstruction-Followed Understanding and Safety-Aware Generation", arXiv, 2023 (*Tencent*). [[Paper](https://arxiv.org/abs/2311.16511)][[Code (in construction)](https://github.com/gpt4video/GPT4Video)][[Website](https://gpt4video.github.io/)]
+* Conversation (3D):
+    * **3D-LLM**: "3D-LLM: Injecting the 3D World into Large Language Models", arXiv, 2023 (*UCLA*). [[Paper](https://arxiv.org/abs/2307.12981)][[PyTorch (in construction)](https://github.com/UMass-Foundation-Model/3D-LLM)][[Website](https://vis-www.cs.umass.edu/3dllm/)]
+    * **Chat-3D**: "Chat-3D: Data-efficiently Tuning Large Language Model for Universal Dialogue of 3D Scenes", arXiv, 2023 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2308.08769)][[PyTorch](https://github.com/Chat-3D/Chat-3D)][[Website](https://chat-3d.github.io/)]
 * Visual Reasoning:
     * **BDC-Adapter**: "BDC-Adapter: Brownian Distance Covariance for Better Vision-Language Reasoning", BMVC, 2023 (*SUSTech*). [[Paper](https://arxiv.org/abs/2309.01256)]
     * **RPT**: "Fine-Grained Regional Prompt Tuning for Visual Abductive Reasoning", arXiv, 2023 (*A\*STAR*). [[Paper](https://arxiv.org/abs/2303.10428)]
