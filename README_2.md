@@ -254,6 +254,7 @@ If you find this repository useful, please consider citing this list:
     * **?**: "Scene-aware Human Pose Generation using Transformer", arXiv, 2023 (*Shanghai Jiao Tong*). [[Paper](https://arxiv.org/abs/2308.02177)]
     * **HoT**: "Hourglass Tokenizer for Efficient Transformer-Based 3D Human Pose Estimation", arXiv, 2023 (*Peking*). [[Paper](https://arxiv.org/abs/2311.12028)]
     * **Pose-Anything**: "Pose Anything: A Graph-Based Approach for Category-Agnostic Pose Estimation", arXiv, 2023 (*Tel Aviv*). [[Paper](https://arxiv.org/abs/2311.17891)][[Code (in construction)](https://github.com/orhir/PoseAnything)][[Website](https://orhir.github.io/pose-anything/)]
+    * **PoseGPT**: "PoseGPT: Chatting about 3D Human Pose", arXiv, 2023 (*MPI*). [[Paper](https://arxiv.org/abs/2311.18836)][[Code (in construction)](https://github.com/yfeng95/PoseGPT)][[Website](https://yfeng95.github.io/posegpt/)]
 * Hands:
     * **Hand-Transformer**: "Hand-Transformer: Non-Autoregressive Structured Modeling for 3D Hand Pose Estimation", ECCV, 2020 (*Kwai*). [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/4836_ECCV_2020_paper.php)]
     * **SCAT**: "SCAT: Stride Consistency With Auto-Regressive Regressor and Transformer for Hand Pose Estimation", ICCVW, 2021 (*Alibaba*). [[Paper](https://openaccess.thecvf.com/content/ICCV2021W/SoMoF/html/Gao_SCAT_Stride_Consistency_With_Auto-Regressive_Regressor_and_Transformer_for_Hand_ICCVW_2021_paper.html)]
