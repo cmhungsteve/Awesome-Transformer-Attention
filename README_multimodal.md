@@ -1131,6 +1131,7 @@ If you find this repository useful, please consider citing this list:
     * **DuMoGa**: "Towards Complex-query Referring Image Segmentation: A Novel Benchmark", arXiv, 2023 (*NUS*). [[Paper](https://arxiv.org/abs/2309.17205)]
     * **SSC**: "Segment, Select, Correct: A Framework for Weakly-Supervised Referring Segmentation", arXiv, 2023 (*Five AI, UK*). [[Paper](https://arxiv.org/abs/2310.13479)]
     * **Omni-RES**: "Towards Omni-supervised Referring Expression Segmentation", arXiv, 2023 (*Xiamen University*). [[Paper](https://arxiv.org/abs/2311.00397)]
+    * **BTMAE**: "Synchronizing Vision and Language: Bidirectional Token-Masking AutoEncoder for Referring Image Segmentation", arXiv, 2023 (*Yonsei*). [[Paper](https://arxiv.org/abs/2311.17952)]
 * Referring Video Segmentation:
     * **ReferFormer**: "Language as Queries for Referring Video Object Segmentation", CVPR, 2022 (*HKU*). [[Paper](https://arxiv.org/abs/2201.00487)][[PyTorch](https://github.com/wjn922/ReferFormer)]
     * **MTTR**: "End-to-End Referring Video Object Segmentation with Multimodal Transformers", CVPR, 2022 (*Technion - Israel Institute of Technology*). [[Paper](https://arxiv.org/abs/2111.14821)][[PyTorch](https://github.com/mttr2021/MTTR)]
@@ -1261,6 +1262,7 @@ If you find this repository useful, please consider citing this list:
     * **DiffCLIP**: "DiffCLIP: Leveraging Stable Diffusion for Language Grounded 3D Classification", arXiv, 2023 (*Beijing Institute of Technology*). [[Paper](https://arxiv.org/abs/2305.15957)]
     * **LLM-Grounder**: "LLM-Grounder: Open-Vocabulary 3D Visual Grounding with Large Language Model as an Agent", arXiv, 2023 (*UMich*). [[Paper](https://arxiv.org/abs/2309.12311)][[PyTorch](https://github.com/sled-group/chat-with-nerf)][[Website](https://chat-with-nerf.github.io/)]
     * **ShapeGPT**: "ShapeGPT: 3D Shape Generation with A Unified Multi-modal Language Model", arXiv, 2023 (*Tencent*). [[Paper](https://arxiv.org/abs/2311.17618)][[Website](https://shapegpt.github.io/)][[Website](https://github.com/OpenShapeLab/ShapeGPT)]
+    * **LEGaussain**: "Language Embedded 3D Gaussians for Open-Vocabulary Scene Understanding", arXiv, 2023 (*Beihang*). [[Paper](https://arxiv.org/abs/2311.18482)]
     * **Open-NeRF**: "Open-NeRF: Towards Open Vocabulary NeRF Decomposition", WACV, 2024 (*UIUC*). [[Paper](https://arxiv.org/abs/2310.16383)]
 * 3D Scene Understanding:
     * **OpenScene**: "OpenScene: 3D Scene Understanding with Open Vocabularies", CVPR, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2211.15654)][[PyTorch](https://github.com/pengsongyou/openscene)][[Website](https://pengsongyou.github.io/openscene)]
@@ -1415,6 +1417,7 @@ If you find this repository useful, please consider citing this list:
     * **LION**: "LION: Empowering Multimodal Large Language Model with Dual-Level Visual Knowledge", arXiv, 2023 (*Harbin Institute of Technology*). [[Paper](https://arxiv.org/abs/2311.11860)][[Code (in construction)](https://github.com/rshaojimmy/JiuTian)][[Website](https://rshaojimmy.github.io/Projects/JiuTian-LION)]
     * **VCD**: "Mitigating Object Hallucinations in Large Vision-Language Models through Visual Contrastive Decoding", arXiv, 2023 (*Alibaba*). [[Paper](https://arxiv.org/abs/2311.16922)][[PyTorch](https://github.com/DAMO-NLP-SG/VCD)]
     * **OPERA**: "OPERA: Alleviating Hallucination in Multi-Modal Large Language Models via Over-Trust Penalty and Retrospection-Allocation", arXiv, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2311.17911)][[PyTorch](https://github.com/shikiw/OPERA)]
+    * **CG-VLM**: "Contrastive Vision-Language Alignment Makes Efficient Instruction Learner", arXiv, 2023 (*South China University of Technology*). [[Paper](https://arxiv.org/abs/2311.17945)][[Code (in construction)](https://github.com/lizhaoliu-Lec/CG-VLM)]
 * Conversation (Video):
     * **Video-ChatCaptioner**: "Video ChatCaptioner: Towards the Enriched Spatiotemporal Descriptions", arXiv, 2023 (*KAUST*). [[Paper](https://arxiv.org/abs/2304.04227)][[PyTorch](https://github.com/Vision-CAIR/ChatCaptioner)]
     * **ChatVideo**: "ChatVideo: A Tracklet-centric Multimodal and Versatile Video Understanding System", arXiv, 2023 (*Fudan*). [[Paper](https://arxiv.org/abs/2304.14407)][[Website](https://www.wangjunke.info/ChatVideo/)]
@@ -1486,6 +1489,7 @@ If you find this repository useful, please consider citing this list:
     * **?**: "How Many Unicorns Are in This Image? A Safety Evaluation Benchmark for Vision LLMs", arXiv, 2023 (*UC Santa Cruz + UNC*). [[Paper](https://arxiv.org/abs/2311.16101)][[PyTorch](https://github.com/UCSC-VLAA/vllm-safety-benchmark)]
     * **VITATECS**: "VITATECS: A Diagnostic Dataset for Temporal Concept Understanding of Video-Language Models", arXiv, 2023 (*Peking*). [[Paper](https://arxiv.org/abs/2311.17404)][[PyTorch](https://github.com/lscpku/VITATECS)]
     * **SEED-Bench-2**: "SEED-Bench-2: Benchmarking Multimodal Large Language Models", arXiv, 2023 (*Tencent*). [[Paper](https://arxiv.org/abs/2311.17092)][[PyTorch](https://github.com/AILab-CVC/SEED-Bench)]
+    * **VBench**: "VBench: Comprehensive Benchmark Suite for Video Generative Models", arXiv, 2023 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2311.17982)][[PyTorch](https://github.com/Vchitect/VBench)][[Website](https://vchitect.github.io/VBench-project/)]
 * Robustness:
     * **Hierarchy-CLIP**: "Improving Zero-shot Generalization and Robustness of Multi-modal Models", CVPR, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2212.01758)][[JAX](https://github.com/gyhandy/Hierarchy-CLIP)][[Website](https://sites.google.com/usc.edu/hierarchy-clip/)]
     * **?**: "Mitigating Spurious Correlations in Multi-modal Models during Fine-tuning", ICML, 2023 (*UCLA*). [[Paper](https://arxiv.org/abs/2304.03916)]
