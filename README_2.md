@@ -285,6 +285,7 @@ If you find this repository useful, please consider citing this list:
     * **KDSM**: "Language-driven Open-Vocabulary Keypoint Detection for Animal Body and Face", arXiv, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2310.05056)]
     * **UniPose**: "UniPose: Detecting Any Keypoints", arXiv, 2023 (*IDEA*). [[Paper](https://arxiv.org/abs/2310.08530)][[Code (in construction)](https://github.com/IDEA-Research/UniPose)][[Website](https://yangjie-cv.github.io/UniPose/)]
     * **SAM-6D**: "SAM-6D: Segment Anything Model Meets Zero-Shot 6D Object Pose Estimation", arXiv, 2023 (*CUHK*). [[Paper](https://arxiv.org/abs/2311.15707)][[PyTorch (in construction)](https://github.com/JiehongLin/SAM-6D)]
+    * **?**: "Open-vocabulary object 6D pose estimation", arXiv, 2023 (*Fondazione Bruno Kessler (FBK), Italy*). [[Paper](https://arxiv.org/abs/2312.00690)]
 
 [[Back to Overview](#overview)]
 
@@ -597,6 +598,7 @@ If you find this repository useful, please consider citing this list:
     * **PELA**: "PELA: Learning Parameter-Efficient Models with Low-Rank Approximation", arXiv, 2023 (*NUS*). [[Paper](https://arxiv.org/abs/2310.10700)][[PyTorch](https://github.com/guoyang9/PELA)]
     * **Mona**: "Adapter is All You Need for Tuning Visual Tasks", arXiv, 2023 (*CAS*). [[Paper](https://arxiv.org/abs/2311.15010)][[PyTorch](https://github.com/Leiyi-Hu/mona)]
     * **?**: "Label-efficient Training of Small Task-specific Models by Leveraging Vision Foundation Models", arXiv, 2023 (*Apple*). [[Paper](https://arxiv.org/abs/2311.18237)]
+    * **GIFT**: "GIFT: Generative Interpretable Fine-Tuning Transformers", arXiv, 2023 (*NC State*). [[Paper](https://arxiv.org/abs/2312.00700)][[Code (in construction)](https://github.com/savadikarc/gift)]
 * Domain Adaptation/Domain Generalization/Federated Learning:
     * **TransDA**: "Transformer-Based Source-Free Domain Adaptation", arXiv, 2021 (*Haerbin Institute of Technology*). [[Paper](https://arxiv.org/abs/2105.14138)][[PyTorch](https://github.com/ygjwd12345/TransDA)]
     * **TVT**: "TVT: Transferable Vision Transformer for Unsupervised Domain Adaptation", arXiv, 2021 (*UT Arlington + Kuaishou*). [[Paper](https://arxiv.org/abs/2108.05988)]
@@ -1881,6 +1883,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **Agent-Driver**: "A Language Agent for Autonomous Driving", arXiv, 2023 (*USC*). [[Paper](https://arxiv.org/abs/2311.10813)][[Code (in construction)](https://github.com/USC-GVL/Agent-Driver)][[Website](https://usc-gvl.github.io/Agent-Driver/)]
     * **ADriver-I**: "ADriver-I: A General World Model for Autonomous Driving", arXiv, 2023 (*Megvii*). [[Paper](https://arxiv.org/abs/2311.13549)]
     * **OccWorld**: "OccWorld: Learning a 3D Occupancy World Model for Autonomous Driving", arXiv, 2023 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2311.16038)][[PyTorch](https://github.com/wzzheng/OccWorld)][[Website](https://wzzheng.net/OccWorld/)]
+    * **Dolphins**: "Dolphins: Multimodal Language Model for Driving", arXiv, 2023 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2312.00438)][[Code (in construction)](https://github.com/vlm-driver/Dolphins)][[Website](https://vlm-driver.github.io/)]
 * Trajectory Prediction:
     * **mmTransformer**: "Multimodal Motion Prediction with Stacked Transformers", CVPR, 2021 (*CUHK + SenseTime*). [[Paper](https://arxiv.org/abs/2103.11624)][[Code (in construction)](https://github.com/decisionforce/mmTransformer)][[Website](https://decisionforce.github.io/mmTransformer/)]
     * **AgentFormer**: "AgentFormer: Agent-Aware Transformers for Socio-Temporal Multi-Agent Forecasting", ICCV, 2021 (*CMU*). [[Paper](https://arxiv.org/abs/2103.14023)][[PyTorch](https://github.com/Khrylx/AgentFormer)][[Website](https://www.ye-yuan.com/agentformer/)]
