@@ -355,6 +355,7 @@ If you find this repository useful, please consider citing this list:
 * **FMViT**: "FMViT: A multiple-frequency mixing Vision Transformer", arXiv, 2023 (*Alibaba*). [[Paper](https://arxiv.org/abs/2311.05707)][[Code (in construction)](https://github.com/tany0699/FMViT)]
 * **GroupMixFormer**: "Advancing Vision Transformers with Group-Mix Attention", arXiv, 2023 (*HKU*). [[Paper](https://arxiv.org/abs/2311.15157)][[PyTorch](https://github.com/AILab-CVC/GroupMixFormer)]
 * **PGT**: "Perceptual Group Tokenizer: Building Perception with Iterative Grouping", arXiv, 2023 (*DeepMind*). [[Paper](https://arxiv.org/abs/2311.18296)]
+* **SCHEME**: "SCHEME: Scalable Channer Mixer for Vision Transformers", arXiv, 2023 (*UCSD*). [[Paper](https://arxiv.org/abs/2312.00412)]
 #### Efficient Vision Transformer
 * **DeiT**: "Training data-efficient image transformers & distillation through attention", ICML, 2021 (*Facebook*). [[Paper](https://arxiv.org/abs/2012.12877)][[PyTorch](https://github.com/facebookresearch/deit)]
 * **ConViT**: "ConViT: Improving Vision Transformers with Soft Convolutional Inductive Biases", ICML, 2021 (*Facebook*). [[Paper](https://arxiv.org/abs/2103.10697)][[Code](https://github.com/facebookresearch/convit)]
@@ -1925,6 +1926,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **DiffAnt**: "DiffAnt: Diffusion Models for Action Anticipation", arXiv, 2023 (*Karlsruhe Institute of Technology (KIT), Germany*). [[Paper](https://arxiv.org/abs/2311.15991)]
 * **LALM**: "LALM: Long-Term Action Anticipation with Language Models", arXiv, 2023 (*ETHZ*). [[Paper](https://arxiv.org/abs/2311.17944)]
 * **ObjectPrompt**: "Object-centric Video Representation for Long-term Action Anticipation", WACV, 2024 (*Honda*). [[Paper](https://arxiv.org/abs/2311.00180)][[Code (in construction)](https://github.com/brown-palm/ObjectPrompt)]
+* **?**: "Learning from One Continuous Video Stream", arXiv, 2023 (*DeepMind*). [[Paper](https://arxiv.org/abs/2312.00598)]
 
 [[Back to Overview](#overview)]
 
@@ -2083,6 +2085,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **ALT**: "Align before Adapt: Leveraging Entity-to-Region Alignments for Generalizable Video Action Recognition", arXiv, 2023 (*Huawei*). [[Paper](https://arxiv.org/abs/2311.15619)]
     * **MM-Narrator**: "MM-Narrator: Narrating Long-form Videos with Multimodal In-Context Learning", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2311.17435)][[Website](https://mm-narrator.github.io/)]
     * **Spacewalk-18**: "Spacewalk-18: A Benchmark for Multimodal and Long-form Procedural Video Understanding in Novel Domains", arXiv, 2023 (*Brown*). [[Paper](https://arxiv.org/abs/2311.18773)][[Website](https://brown-palm.github.io/Spacewalk-18/)]
+    * **OST**: "OST: Refining Text Knowledge with Optimal Spatio-Temporal Descriptor for General Video Recognition", arXiv, 2023 (*Hunan University (HNU)*). [[Paper](https://arxiv.org/abs/2312.00096)][[Code (in construction)](https://github.com/tomchen-ctj/OST)][[Website](https://tomchen-ctj.github.io/OST/)]
 * X-supervised Learning:
     * **LSTCL**: "Long-Short Temporal Contrastive Learning of Video Transformers", CVPR, 2022 (*Facebook*). [[Paper](https://arxiv.org/abs/2106.09212)]
     * **SVT**: "Self-supervised Video Transformer", CVPR, 2022 (*Stony Brook*). [[Paper](https://arxiv.org/abs/2112.01514)][[PyTorch](https://github.com/kahnchana/svt)][[Website](https://kahnchana.github.io/svt/)]
