@@ -1036,6 +1036,7 @@ If you find this repository useful, please consider citing this list:
 * **IconShop**: "IconShop: Text-Based Vector Icon Synthesis with Autoregressive Transformers", arXiv, 2023 (*CUHK*). [[Paper](https://arxiv.org/abs/2304.14400)][[Code (in construction)](https://github.com/kingnobro/IconShop)][[Website](https://kingnobro.github.io/iconshop/)]
 * **VDT**: "VDT: An Empirical Study on Video Diffusion with Transformers", arXiv, 2023 (*Renmin University of China*). [[Paper](https://arxiv.org/abs/2305.13311)][[PyTorch](https://github.com/RERV/VDT)]
 * **MAGVIT-v2**: "Language Model Beats Diffusion - Tokenizer is Key to Visual Generation", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2310.05737)][[Website](https://magvit.cs.cmu.edu/v2/)]
+* **UVDv1**: "Sequential Modeling Enables Scalable Learning for Large Vision Models", arXiv, 2023 (*Berkeley*). [[Paper](https://arxiv.org/abs/2312.00785)][[Code (in construction)](https://github.com/ytongbai/LVM)][[Website](https://yutongbai.com/lvm.html)]
 
 [[Back to Overview](#overview)]
 
