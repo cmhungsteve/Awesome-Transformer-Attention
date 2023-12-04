@@ -885,6 +885,7 @@ If you find this repository useful, please consider citing this list:
     * **VideoCrafter1**: "VideoCrafter1: Open Diffusion Models for High-Quality Video Generation", arXiv, 2023 (*Tencent*). [[Paper](https://arxiv.org/abs/2310.19512)][[PyTorch](https://github.com/AILab-CVC/VideoCrafter)][[Website](https://ailab-cvc.github.io/videocrafter/)]
     * **Emu-Video**: "Emu Video: Factorizing Text-to-Video Generation by Explicit Image Conditioning", arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2311.10709)][[Website](https://emu-video.metademolab.com/)]
     * **PixelDance**: "Make Pixels Dance: High-Dynamic Video Generation", arXiv, 2023 (*ByteDance*). [[Paper](https://arxiv.org/abs/2311.10982)][[Website](https://makepixelsdance.github.io/)]
+    * **VideoBooth**: "VideoBooth: Diffusion-based Video Generation with Image Prompts", arXiv, 2023 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2312.00777)][[Code (in construction)](https://github.com/Vchitect/VideoBooth)][[Website](https://vchitect.github.io/VideoBooth-project/)]
 * 3D:
     * **Magic3D**: "Magic3D: High-Resolution Text-to-3D Content Creation", CVPR, 2023 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2211.10440)][[Website](https://research.nvidia.com/labs/dir/magic3d/)]
     * **CLIP-Sculptor**: "CLIP-Sculptor: Zero-Shot Generation of High-Fidelity and Diverse Shapes from Natural Language", CVPR, 2023 (*Autodesk*). [[Paper](https://arxiv.org/abs/2211.01427)][[Website](https://ivl.cs.brown.edu/#/projects/clip-sculptor)]
@@ -1265,6 +1266,7 @@ If you find this repository useful, please consider citing this list:
     * **LLM-Grounder**: "LLM-Grounder: Open-Vocabulary 3D Visual Grounding with Large Language Model as an Agent", arXiv, 2023 (*UMich*). [[Paper](https://arxiv.org/abs/2309.12311)][[PyTorch](https://github.com/sled-group/chat-with-nerf)][[Website](https://chat-with-nerf.github.io/)]
     * **ShapeGPT**: "ShapeGPT: 3D Shape Generation with A Unified Multi-modal Language Model", arXiv, 2023 (*Tencent*). [[Paper](https://arxiv.org/abs/2311.17618)][[Website](https://shapegpt.github.io/)][[Website](https://github.com/OpenShapeLab/ShapeGPT)]
     * **LEGaussain**: "Language Embedded 3D Gaussians for Open-Vocabulary Scene Understanding", arXiv, 2023 (*Beihang*). [[Paper](https://arxiv.org/abs/2311.18482)]
+    * **Gaussian-Grouping**: "Gaussian Grouping: Segment and Edit Anything in 3D Scenes", arXiv, 2023 (*ETHZ*). [[Paper](https://arxiv.org/abs/2312.00732)][[Code (in construction)](https://github.com/lkeab/gaussian-grouping)]
     * **Open-NeRF**: "Open-NeRF: Towards Open Vocabulary NeRF Decomposition", WACV, 2024 (*UIUC*). [[Paper](https://arxiv.org/abs/2310.16383)]
 * 3D Scene Understanding:
     * **OpenScene**: "OpenScene: 3D Scene Understanding with Open Vocabularies", CVPR, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2211.15654)][[PyTorch](https://github.com/pengsongyou/openscene)][[Website](https://pengsongyou.github.io/openscene)]
@@ -1420,6 +1422,7 @@ If you find this repository useful, please consider citing this list:
     * **OPERA**: "OPERA: Alleviating Hallucination in Multi-Modal Large Language Models via Over-Trust Penalty and Retrospection-Allocation", arXiv, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2311.17911)][[PyTorch](https://github.com/shikiw/OPERA)]
     * **CG-VLM**: "Contrastive Vision-Language Alignment Makes Efficient Instruction Learner", arXiv, 2023 (*South China University of Technology*). [[Paper](https://arxiv.org/abs/2311.17945)][[Code (in construction)](https://github.com/lizhaoliu-Lec/CG-VLM)]
     * **X-InstructBLIP**: "X-InstructBLIP: A Framework for aligning X-Modal instruction-aware representations to LLMs and Emergent Cross-modal Reasoning", arXiv, 2023 (*Salesforce*). [[Paper](https://arxiv.org/abs/2311.18799)]
+    * **ViP-LLaVA**: "Making Large Multimodal Models Understand Arbitrary Visual Prompts", arXiv, 2023 (*Cruise*). [[Paper](https://arxiv.org/abs/2312.00784)][[PyTorch](https://github.com/mu-cai/vip-llava)][[Website](https://vip-llava.github.io/)]
 * Conversation (Video):
     * **Video-ChatCaptioner**: "Video ChatCaptioner: Towards the Enriched Spatiotemporal Descriptions", arXiv, 2023 (*KAUST*). [[Paper](https://arxiv.org/abs/2304.04227)][[PyTorch](https://github.com/Vision-CAIR/ChatCaptioner)]
     * **ChatVideo**: "ChatVideo: A Tracklet-centric Multimodal and Versatile Video Understanding System", arXiv, 2023 (*Fudan*). [[Paper](https://arxiv.org/abs/2304.14407)][[Website](https://www.wangjunke.info/ChatVideo/)]
