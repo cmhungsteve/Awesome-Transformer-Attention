@@ -750,6 +750,7 @@ If you find this repository useful, please consider citing this list:
     * **TeachCLIP**: "TeachCLIP: Multi-Grained Teaching for Efficient Text-to-Video Retrieval", arXiv, 2023 (*Renmin University of China*). [[Paper](https://arxiv.org/abs/2308.01217)]
     * **CoVR**: "CoVR: Learning Composed Video Retrieval from Web Video Captions", arXiv, 2023 (*Ecole des Ponts ParisTech (ENPC), France*). [[Paper](https://arxiv.org/abs/2308.14746)][[PyTorch](https://github.com/lucas-ventura/CoVR/)][[Website](https://imagine.enpc.fr/~ventural/covr/)]
     * **LanguageBind**: "LanguageBind: Extending Video-Language Pretraining to N-modality by Language-based Semantic Alignment", arXiv, 2023 (*Peking*). [[Paper](https://arxiv.org/abs/2310.01852)][[PyTorch](https://github.com/PKU-YuanGroup/LanguageBind)]
+    * **10k-Words**: "A Video is Worth 10,000 Words: Training and Benchmarking with Diverse Captions for Better Long Video Retrieval", arXiv, 2023 (*SRI*). [[Paper](https://arxiv.org/abs/2312.00115)][[Website](https://mgwillia.github.io/10k-words/)]
 * Vision-Audio-Text:
     * **Multi-SK**: "Preserving Modality Structure Improves Multi-Modal Learning", ICCV, 2023 (*UCF*). [[Paper](https://arxiv.org/abs/2308.13077)][[Code (in construction)](https://github.com/Swetha5/Multi_Sinkhorn_Knopp)]
 * Others:
@@ -1436,6 +1437,7 @@ If you find this repository useful, please consider citing this list:
     * **MVBench**: "MVBench: A Comprehensive Multi-modal Video Understanding Benchmark", arXiv, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2311.17005)][[PyTorch](https://github.com/OpenGVLab/Ask-Anything)]
     * **Valley**: "Valley: Video Assistant with Large Language model Enhanced abilitY", arXiv, 2023 (*ByteDance*). [[Paper](https://arxiv.org/abs/2306.07207)]
     * **GPT4Video**: "GPT4Video: A Unified Multimodal Large Language Model for lnstruction-Followed Understanding and Safety-Aware Generation", arXiv, 2023 (*Tencent*). [[Paper](https://arxiv.org/abs/2311.16511)][[Code (in construction)](https://github.com/gpt4video/GPT4Video)][[Website](https://gpt4video.github.io/)]
+    * **Merlin**: "Merlin: Empowering Multimodal LLMs with Foresight Minds", arXiv, 2023 (*Huazhong University of Science and Technology*). [[Paper](https://arxiv.org/abs/2312.00589)]
 * Conversation (3D):
     * **3D-LLM**: "3D-LLM: Injecting the 3D World into Large Language Models", arXiv, 2023 (*UCLA*). [[Paper](https://arxiv.org/abs/2307.12981)][[PyTorch (in construction)](https://github.com/UMass-Foundation-Model/3D-LLM)][[Website](https://vis-www.cs.umass.edu/3dllm/)]
     * **Chat-3D**: "Chat-3D: Data-efficiently Tuning Large Language Model for Universal Dialogue of 3D Scenes", arXiv, 2023 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2308.08769)][[PyTorch](https://github.com/Chat-3D/Chat-3D)][[Website](https://chat-3d.github.io/)]
