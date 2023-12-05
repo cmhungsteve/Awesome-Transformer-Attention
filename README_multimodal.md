@@ -116,6 +116,7 @@ If you find this repository useful, please consider citing this list:
     * **RegionBLIP**: "RegionBLIP: A Unified Multi-modal Pre-training Framework for Holistic and Regional Comprehension", arXiv, 2023 (*Alibaba*). [[Paper](https://arxiv.org/abs/2308.02299)][[PyTorch](https://github.com/mightyzau/RegionBLIP)]
     * **?**: "Visually-Aware Context Modeling for News Image Captioning", arXiv, 2023 (*KU Leuven*). [[Paper](https://arxiv.org/abs/2308.08325)]
     * **EVCap**: "EVCap: Retrieval-Augmented Image Captioning with External Visual-Name Memory for Open-World Comprehension", arXiv, 2023 (*The University of Tokyo*). [[Paper](https://arxiv.org/abs/2311.15879)][[Website](https://jiaxuan-li.github.io/EVCap/)]
+    * **SCA**: "Segment and Caption Anything", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2312.00869)][[PyTorch](https://github.com/xk-huang/segment-caption-anything)][[Website](https://xk-huang.github.io/segment-caption-anything/)]
 * Video:
     * **Masked Transformers**: "End-to-End Dense Video Captioning with Masked Transformer", CVPR, 2018 (*UMich + Salesforce*). [[Paper](https://openaccess.thecvf.com/content_cvpr_2018/html/Zhou_End-to-End_Dense_Video_CVPR_2018_paper.html)][[PyTorch](https://github.com/salesforce/densecap)]
     * **BMT**: "A Better Use of Audio-Visual Cues: Dense Video Captioning with Bi-modal Transformer", BMVC, 2020 (*Tampere University, Finland*). [[Paper](https://arxiv.org/abs/2005.08271)][[PyTorch](https://github.com/v-iashin/bmt)][[Website](https://iashin.ai/bmt)]
@@ -267,6 +268,7 @@ If you find this repository useful, please consider citing this list:
     * **Flipped-VQA**: "Large Language Models are Temporal and Causal Reasoners for Video Question Answering", EMNLP, 2023 (*Korea University*). [[Paper](https://arxiv.org/abs/2310.15747)][[Code (in construction)](https://github.com/mlvlab/Flipped-VQA)]
     * **SeViLA**: "Self-Chained Image-Language Model for Video Localization and Question Answering", arXiv, 2023 (*UNC*). [[Paper](https://arxiv.org/abs/2305.06988)][[PyTorch](https://github.com/Yui010206/SeViLA)]
     * **FunQA**: "FunQA: Towards Surprising Video Comprehension", arXiv, 2023 (*Beijing University of Posts and Telecommunication*). [[Paper](https://arxiv.org/abs/2306.14899)][[Code (in construction)](https://github.com/Jingkang50/FunQA)][[Website](https://funqa-benchmark.github.io/)]
+    * **ProViQ**: "Zero-Shot Video Question Answering with Procedural Programs", arXiv, 2023 (*CMU*). [[Paper](https://arxiv.org/abs/2312.00937)][[Website](https://rccchoudhury.github.io/proviq2023/)]
 * 3D:
     * **3D-VQA**: "CLIP-Guided Vision-Language Pre-training for Question Answering in 3D Scenes", CVPRW, 2023 (*ETHZ*). [[Paper](https://arxiv.org/abs/2304.06061)][[Code (in construction)](https://github.com/AlexDelitzas/3D-VQA)]
     * **PO3D-VQA**: "3D-Aware Visual Question Answering about Parts, Poses and Occlusions", NeurIPS, 2023 (*JHU*). [[Paper](https://arxiv.org/abs/2310.17914)][[Code (in construction)](https://github.com/XingruiWang/3D-Aware-VQA)]
