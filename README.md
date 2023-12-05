@@ -479,6 +479,7 @@ If you find this repository useful, please consider citing this list:
 * **PPT**: "PPT: Token Pruning and Pooling for Efficient Vision Transformers", arXiv, 2023 (*Huawei*). [[Paper](https://arxiv.org/abs/2310.01812)]
 * **MatFormer**: "MatFormer: Nested Transformer for Elastic Inference", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2310.07707)]
 * **GTP-ViT**: "GTP-ViT: Efficient Vision Transformers via Graph-based Token Propagation", WACV, 2024 (*CSIRO Data61, Australia*). [[Paper](https://arxiv.org/abs/2311.03035)][[PyTorch](https://github.com/Ackesnal/GTP-ViT)]
+* **ToFu**: "Token Fusion: Bridging the Gap between Token Pruning and Token Merging", WACV, 2024 (*Samsung*). [[Paper](https://arxiv.org/abs/2312.01026)]
 #### Conv + Transformer
 * **LeViT**: "LeViT: a Vision Transformer in ConvNet's Clothing for Faster Inference", ICCV, 2021 (*Facebook*). [[Paper](https://arxiv.org/abs/2104.01136)][[PyTorch](https://github.com/facebookresearch/LeViT)]
 * **CeiT**: "Incorporating Convolution Designs into Visual Transformers", ICCV, 2021 (*SenseTime*). [[Paper](https://arxiv.org/abs/2103.11816)][[PyTorch (rishikksh20)](https://github.com/rishikksh20/CeiT)]
@@ -1430,8 +1431,8 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 
 ### Other Segmentation Tasks
 * Any-X/Every-X:
-    * **SAM**: "Segment Anything", arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2304.02643)][[Website](https://segment-anything.com/)]
-    * **SEEM**: "Segment Everything Everywhere All at Once", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2304.06718)][[Code (in construction)](https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once)]
+    * **SAM**: "Segment Anything", ICCV, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2304.02643)][[PyTorch](https://github.com/facebookresearch/segment-anything)][[Website](https://segment-anything.com/)]
+    * **SEEM**: "Segment Everything Everywhere All at Once", NeurIPS, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2304.06718)][[Code (in construction)](https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once)]
     * **?**: "An Empirical Study on the Robustness of the Segment Anything Model (SAM)", arXiv, 2023 (*UCSB*). [[Paper](https://arxiv.org/abs/2305.06422)]
     * **?**: "A Comprehensive Survey on Segment Anything Model for Vision and Beyond", arXiv, 2023 (*HKUST*). [[Paper](https://arxiv.org/abs/2305.08196)]
     * **SAD**: "SAD: Segment Any RGBD", arXiv, 2023 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2305.14207)][[PyTorch](https://github.com/Jun-CEN/SegmentAnyRGBD)]
@@ -1444,6 +1445,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **Follow-Anything**: "Follow Anything: Open-set detection, tracking, and following in real-time", arXiv, 2023 (*MIT*). [[Paper](https://arxiv.org/abs/2308.05737)]
     * **DINOv**: "Visual In-Context Prompting", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2311.13601)][[Code (in construction)](https://github.com/UX-Decoder/DINOv)]
     * **Stable-SAM**: "Stable Segment Anything Model", arXiv, 2023 (*Kuaishou*). [[Paper](https://arxiv.org/abs/2311.15776)][[Code (in construction)](https://github.com/fanq15/Stable-SAM)]
+    * **EfficientSAM**: "EfficientSAM: Leveraged Masked Image Pretraining for Efficient Segment Anything", arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2312.00863)]
 * Vision-Language:
     * **LSeg**: "Language-driven Semantic Segmentation", ICLR, 2022 (*Cornell*). [[Paper](https://arxiv.org/abs/2201.03546)][[PyTorch](https://github.com/isl-org/lang-seg)]
     * **ZegFormer**: "Decoupling Zero-Shot Semantic Segmentation", CVPR, 2022 (*Wuhan University*). [[Paper](https://arxiv.org/abs/2112.07910)][[PyTorch](https://github.com/dingjiansw101/ZegFormer)]
@@ -1472,6 +1474,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **LISA**: "LISA: Reasoning Segmentation via Large Language Model", arXiv, 2023 (*CUHK*). [[Paper](https://arxiv.org/abs/2308.00692)][[PyTorch](https://github.com/dvlab-research/LISA)]
     * **CLIPTeacher**: "CLIP Is Also a Good Teacher: A New Learning Framework for Inductive Zero-shot Semantic Segmentation", arXiv, 2023 (*Nagoya University*). [[Paper](https://arxiv.org/abs/2310.02296)]
     * **SAM-CLIP**: "SAM-CLIP: Merging Vision Foundation Models towards Semantic and Spatial Understanding", arXiv, 2023 (*Apple*). [[Paper](https://arxiv.org/abs/2310.15308)]
+    * **GEM**: "Grounding Everything: Emerging Localization Properties in Vision-Language Transformers", arXiv, 2023 (*University of Bonn, Germany*). [[Paper](https://arxiv.org/abs/2312.00878)][[PyTorch](https://github.com/WalBouss/GEM)]
 * Open-World/Vocabulary:
     * **ViL-Seg**: "Open-world Semantic Segmentation via Contrasting and Clustering Vision-Language Embedding", ECCV, 2022 (*CUHK*). [[Paper](https://arxiv.org/abs/2207.08455)]
     * **OVSS**: "A Simple Baseline for Open Vocabulary Semantic Segmentation with Pre-trained Vision-language Model", ECCV, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2112.14757)][[PyTorch](https://github.com/MendelXu/zsseg.baseline)]
@@ -1675,7 +1678,8 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **CVSformer**: "CVSformer: Cross-View Synthesis Transformer for Semantic Scene Completion", ICCV, 2023 (*Tianjin University*). [[Paper](https://arxiv.org/abs/2307.07938)]
     * **SPT**: "Efficient 3D Semantic Segmentation with Superpoint Transformer", ICCV, 2023 (*Univ Gustave Eiffel, France*). [[Paper](https://arxiv.org/abs/2306.08045)][[PyTorch](https://github.com/drprojects/superpoint_transformer)]
     * **SATR**: "SATR: Zero-Shot Semantic Segmentation of 3D Shapes", ICCV, 2023 (*KAUST*). [[Paper](https://arxiv.org/abs/2304.04909)][[PyTorch](https://github.com/Samir55/SATR)][[Website](https://samir55.github.io/SATR/)]
-    * **3D-OWIS**: "3D Indoor Instance Segmentation in an Open-World", NeurIPS, 2023 (*MBZUAI*). [[Paper](https://arxiv.org/abs/2309.14338)] 
+    * **3D-OWIS**: "3D Indoor Instance Segmentation in an Open-World", NeurIPS, 2023 (*MBZUAI*). [[Paper](https://arxiv.org/abs/2309.14338)]
+    * **SA3D**: "Segment Anything in 3D with NeRFs", NeurIPS, 2023 (*SJTU*). [[Paper](https://arxiv.org/abs/2304.12308)][[PyTorch](https://github.com/Jumpat/SegmentAnythingin3D)][[Website](https://jumpat.github.io/SA3D/)]
     * **P3Former**: "Position-Guided Point Cloud Panoptic Segmentation Transformer", arXiv, 2023 (*1Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2303.13509)][[Code (in construction)](https://github.com/SmartBot-PJLab/P3Former)]
     * **UnScene3D**: "UnScene3D: Unsupervised 3D Instance Segmentation for Indoor Scenes", arXiv, 2023 (*TUM*). [[Paper](https://arxiv.org/abs/2303.14541)][[Website](https://rozdavid.github.io/unscene3d)]
     * **CNS**: "Towards Label-free Scene Understanding by Vision Foundation Models", arXiv, 2023 (*HKU*). [[Paper](https://arxiv.org/abs/2306.03899)][[Code (in construction)](https://github.com/runnanchen/Label-Free-Scene-Understanding)]
@@ -1688,6 +1692,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **CSF**: "Leveraging Large-Scale Pretrained Vision Foundation Models for Label-Efficient 3D Point Cloud Segmentation", arXiv, 2023 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2311.01989)]
     * **?**: "Understanding Self-Supervised Features for Learning Unsupervised Instance Segmentation", arXiv, 2023 (*Oxford*). [[Paper](https://arxiv.org/abs/2311.14665)]
     * **OneFormer3D**: "OneFormer3D: One Transformer for Unified Point Cloud Segmentation", arXiv, 2023 (*Samsung*). [[Paper](https://arxiv.org/abs/2311.14405)]
+    * **SAGA**: "Segment Any 3D Gaussians", arXiv, 2023 (*SJTU*). [[Paper](https://arxiv.org/abs/2312.00860)][[Code (in construction)](https://github.com/Jumpat/SegAnyGAussians)][[Website](https://jumpat.github.io/SAGA/)]
 * Multi-Task:
     * **InvPT**: "Inverted Pyramid Multi-task Transformer for Dense Scene Understanding", ECCV, 2022 (*HKUST*). [[Paper](https://arxiv.org/abs/2203.07997)][[PyTorch](https://github.com/prismformore/Multi-Task-Transformer)]
     * **MTFormer**: "MTFormer: Multi-task Learning via Transformer and Cross-Task Reasoning", ECCV, 2022 (*CUHK*). [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/1353_ECCV_2022_paper.php)]
