@@ -889,6 +889,7 @@ If you find this repository useful, please consider citing this list:
     * **Emu-Video**: "Emu Video: Factorizing Text-to-Video Generation by Explicit Image Conditioning", arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2311.10709)][[Website](https://emu-video.metademolab.com/)]
     * **PixelDance**: "Make Pixels Dance: High-Dynamic Video Generation", arXiv, 2023 (*ByteDance*). [[Paper](https://arxiv.org/abs/2311.10982)][[Website](https://makepixelsdance.github.io/)]
     * **VideoBooth**: "VideoBooth: Diffusion-based Video Generation with Image Prompts", arXiv, 2023 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2312.00777)][[Code (in construction)](https://github.com/Vchitect/VideoBooth)][[Website](https://vchitect.github.io/VideoBooth-project/)]
+    * **VideoSwap**: "VideoSwap: Customized Video Subject Swapping with Interactive Semantic Point Correspondence", arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2312.02087)][[Code (in construction)](https://github.com/showlab/VideoSwap)][[Website](https://videoswap.github.io/)]
 * 3D:
     * **Magic3D**: "Magic3D: High-Resolution Text-to-3D Content Creation", CVPR, 2023 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2211.10440)][[Website](https://research.nvidia.com/labs/dir/magic3d/)]
     * **CLIP-Sculptor**: "CLIP-Sculptor: Zero-Shot Generation of High-Fidelity and Diverse Shapes from Natural Language", CVPR, 2023 (*Autodesk*). [[Paper](https://arxiv.org/abs/2211.01427)][[Website](https://ivl.cs.brown.edu/#/projects/clip-sculptor)]
@@ -976,6 +977,7 @@ If you find this repository useful, please consider citing this list:
 * **ProGrad**: "Prompt-aligned Gradient for Prompt Tuning", ICCV, 2023 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2205.14865)][[PyTorch](https://github.com/BeierZhu/Prompt-align)]
 * **CTP-TFT**: "Task-Oriented Multi-Modal Mutual Leaning for Vision-Language Models", ICCV, 2023 (*Baidu*). [[Paper](https://arxiv.org/abs/2303.17169)]
 * **GOPro**: "GOPro: Generate and Optimize Prompts in CLIP using Self-Supervised Learning", BMVC, 2023 (*IIT Bombay*). [[Paper](https://arxiv.org/abs/2308.11605)][[Code (in construction)](https://github.com/mainaksingha01/GOPro)]
+* **APoLLo**: "APoLLo: Unified Adapter and Prompt Learning for Vision Language Models", EMNLP, 2023 (*Maryland*). [[Paper](https://arxiv.org/abs/2312.01564)][[Website](https://gamma.umd.edu/pro/vision_language/apollo/)]
 * **ALIGN**: "Tuning Multi-mode Token-level Prompt Alignment across Modalities", NeurIPS, 2023 (*Xidian University*). [[Paper](https://arxiv.org/abs/2309.13847)][[Code (in construction)](https://github.com/wds2014/ALIGN)]
 * **GraphAdapter**: "GraphAdapter: Tuning Vision-Language Models With Dual Knowledge Graph", NeurIPS, 2023 (*NUS*). [[Paper](https://arxiv.org/abs/2309.13625)][[Code (in construction)](https://github.com/lixinustc/GraphAdapter)]
 * **OpenVik**: "Open Visual Knowledge Extraction via Relation-Oriented Multimodality Model Prompting", NeurIPS, 2023 (*Emory*). [[Paper](https://arxiv.org/abs/2310.18804)]
@@ -1440,6 +1442,7 @@ If you find this repository useful, please consider citing this list:
     * **Valley**: "Valley: Video Assistant with Large Language model Enhanced abilitY", arXiv, 2023 (*ByteDance*). [[Paper](https://arxiv.org/abs/2306.07207)]
     * **GPT4Video**: "GPT4Video: A Unified Multimodal Large Language Model for lnstruction-Followed Understanding and Safety-Aware Generation", arXiv, 2023 (*Tencent*). [[Paper](https://arxiv.org/abs/2311.16511)][[Code (in construction)](https://github.com/gpt4video/GPT4Video)][[Website](https://gpt4video.github.io/)]
     * **Merlin**: "Merlin: Empowering Multimodal LLMs with Foresight Minds", arXiv, 2023 (*Huazhong University of Science and Technology*). [[Paper](https://arxiv.org/abs/2312.00589)]
+    * **TimeChat**: "TimeChat: A Time-sensitive Multimodal Large Language Model for Long Video Understanding", arXiv, 2023 (*Peking*). [[Paper](https://arxiv.org/abs/2312.02051)][[Code (in construction)](https://github.com/RenShuhuai-Andy/TimeChat)]
 * Conversation (3D):
     * **3D-LLM**: "3D-LLM: Injecting the 3D World into Large Language Models", arXiv, 2023 (*UCLA*). [[Paper](https://arxiv.org/abs/2307.12981)][[PyTorch (in construction)](https://github.com/UMass-Foundation-Model/3D-LLM)][[Website](https://vis-www.cs.umass.edu/3dllm/)]
     * **Chat-3D**: "Chat-3D: Data-efficiently Tuning Large Language Model for Universal Dialogue of 3D Scenes", arXiv, 2023 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2308.08769)][[PyTorch](https://github.com/Chat-3D/Chat-3D)][[Website](https://chat-3d.github.io/)]
