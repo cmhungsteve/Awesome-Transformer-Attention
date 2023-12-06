@@ -867,6 +867,7 @@ If you find this repository useful, please consider citing this list:
     * **DiagrammerGPT**: "DiagrammerGPT: Generating Open-Domain, Open-Platform Diagrams via LLM Planning", arXiv, 2023 (*UNC*). [[Paper](https://arxiv.org/abs/2310.12128)][[PyThon](https://github.com/aszala/DiagrammerGPT)][[Website](https://diagrammergpt.github.io/)]
     * **Emu-Edit**: "Emu Edit: Precise Image Editing via Recognition and Generation Tasks", arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2311.10089)]
     * **CoDi-2**: "CoDi-2: In-Context, Interleaved, and Interactive Any-to-Any Generation", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2311.18775)][[Code (in construction)](https://github.com/microsoft/i-Code/tree/main/CoDi-2)][[Website](https://codi-2.github.io/)]
+    * **UniGS**: "UniGS: Unified Representation for Image Generation and Segmentation", arXiv, 2023 (*UC Merced*). [[Paper](https://arxiv.org/abs/2312.01985)][[PyTorch (in construction)](https://github.com/qqlu/Entity)]
 * Video:
     * **Imagen-Video**: "Imagen Video: High Definition Video Generation with Diffusion Models", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2210.02303)][[Website](https://imagen.research.google/video/)]
     * **Phenaki**: "Phenaki: Variable Length Video Generation From Open Domain Textual Description", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2210.02399)][[PyTorch (LAION-AI, in construction)](https://github.com/LAION-AI/phenaki)][[Website](https://phenaki.video/)]
