@@ -497,6 +497,8 @@ If you find this repository useful, please consider citing this list:
     * **SVLC**: "Teaching Structured Vision & Language Concepts to Vision&Language Models", CVPR, 2023 (*IBM*). [[Paper](https://arxiv.org/abs/2211.11733)]
     * **DeAR**: "DeAR: Debiasing Vision-Language Models with Additive Residuals", CVPR, 2023 (*Adobe*). [[Paper](https://arxiv.org/abs/2303.10431)][[GitHub](https://github.com/pata-fairness/pata_dataset)]
     * **?**: "Understanding and Constructing Latent Modality Structures in Multi-modal Representation Learning", CVPR, 2023 (*Amazon*). [[Paper](https://arxiv.org/abs/2303.05952)]
+    * **UniHCP**: "UniHCP: A Unified Model for Human-Centric Perceptions", CVPR, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2303.02936)][[PyTorch](https://github.com/OpenGVLab/UniHCP)]
+    * **HumanBench**: "HumanBench: Towards General Human-centric Perception with Projector Assisted Pretraining", CVPR, 2023 (*SenseTime*). [[Paper](https://arxiv.org/abs/2303.05675)][[PyTorch](https://github.com/OpenGVLab/HumanBench)]
     * **?**: "Joint Adaptive Representations for Image-Language Learning", CVPRW, 2023 (*DeepMind*). [[Paper](https://arxiv.org/abs/2305.19924)]
     * **BLIP-2**: "BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models", ICML, 2023 (*Salesforce*). [[Paper](https://arxiv.org/abs/2301.12597)][[PyTorch](https://github.com/salesforce/LAVIS/tree/main/projects/blip2)]
     * **RLEG**: "RLEG: Vision-Language Representation Learning with Diffusion-based Embedding Generation", ICML, 2023 (*Alibaba*). [[Paper](https://openreview.net/forum?id=zBShO1Vmf0)]
@@ -575,6 +577,8 @@ If you find this repository useful, please consider citing this list:
     * **MobileCLIP**: "MobileCLIP: Fast Image-Text Models through Multi-Modal Reinforced Training", arXiv, 2023 (*Apple*). [[Paper](https://arxiv.org/abs/2311.17049)]
     * **LLaMA-VID**: "LLaMA-VID: An Image is Worth 2 Tokens in Large Language Models", arXiv, 2023 (*CUHK*). [[Paper](https://arxiv.org/abs/2311.17043)][[PyTorch](https://github.com/dvlab-research/LLaMA-VID)]
     * **?**: "MLLMs-Augmented Visual-Language Representation Learning", arXiv, 2023 (*NUS*). [[Paper](https://arxiv.org/abs/2311.18765)][[Code (in construction)](https://github.com/lyq312318224/MLLMs-Augmented)]
+    * **Hulk**: "Hulk: A Universal Knowledge Translator for Human-Centric Tasks", arXiv, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2312.01697)][[PyTorch](https://github.com/OpenGVLab/HumanBench)]
+    * **D-iGPT**: "Rejuvenating image-GPT as Strong Visual Representation Learners", arXiv, 2023 (*JHU + UC Santa Cruz*). [[Paper](https://arxiv.org/abs/2312.02147)][[PyTorch](https://github.com/OliverRensu/D-iGPT)]
 * Video:
     * **COOT**: "COOT: Cooperative Hierarchical Transformer for Video-Text Representation Learning", NeurIPS, 2020 (*University of Freiburg*). [[Paper](https://arxiv.org/abs/2011.00597)][[PyTorch](https://github.com/gingsi/coot-videotext)]
     * **Parameter-Reduction**: "Parameter Efficient Multimodal Transformers for Video Representation Learning", ICLR, 2021 (*Seoul National University*). [[Paper](https://openreview.net/forum?id=6UdQLhqJyFD)]
@@ -1021,6 +1025,8 @@ If you find this repository useful, please consider citing this list:
 * **DEsignBench**: "DEsignBench: Exploring and Benchmarking DALL-E 3 for Imagining Visual Design", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2310.15144)][[Website](https://design-bench.github.io/)]
 * **ArGue**: "ArGue: Attribute-Guided Prompt Tuning for Vision-Language Models", arXiv, 2023 (*ANU*). [[Paper](https://arxiv.org/abs/2311.16494)]
 * **SWIG**: "Beyond Sole Strength: Customized Ensembles for Generalized Vision-Language Models", arXiv, 2023 (*NUS*). [[Paper](https://arxiv.org/abs/2311.17091)][[Code (in construction)](https://github.com/zhiheLu/Ensemble_VLM)]
+* **IMProv**: "IMProv: Inpainting-based Multimodal Prompting for Computer Vision Tasks", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2312.01771)][[PyTorch](https://github.com/xvjiarui/IMProv)][[Website](https://jerryxu.net/IMProv/)]
+* **CLAMP**: "CLAMP: Contrastive LAnguage Model Prompt-tuning", arXiv, 2023 (*Boston*). [[Paper](https://arxiv.org/abs/2312.01629)]
 
 [[Back to Overview](#overview)]
 
@@ -1208,6 +1214,8 @@ If you find this repository useful, please consider citing this list:
     * **InstructDiffusion**: "InstructDiffusion: A Generalist Modeling Interface for Vision Tasks", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2309.03895)][[PyTorch](https://github.com/cientgu/InstructDiffusion)][[Website](https://gengzigang.github.io/instructdiffusion.github.io/)]
     * **InstructCV**: "InstructCV: Instruction-Tuned Text-to-Image Diffusion Models as Vision Generalists", arXiv, 2023 (*Peking + Berkeley*). [[Paper](https://arxiv.org/abs/2310.00390)][[PyTorch](https://github.com/AlaaLab/InstructCV)]
     * **SPHINX**: "SPHINX: The Joint Mixing of Weights, Tasks, and Visual Embeddings for Multi-modal Large Language Models", arXiv, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2311.07575)][[PyTorch](https://github.com/Alpha-VLLM/LLaMA2-Accessory/tree/main/SPHINX)]
+    * **UniLSeg**: "Universal Segmentation at Arbitrary Granularity with Language Instruction", arXiv, 2023 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2312.01623)]
+    * **APE**: "Aligning and Prompting Everything All at Once for Universal Visual Perception", arXiv, 2023 (*Tencent*). [[Paper](https://arxiv.org/abs/2312.02153)][[PyTorch](https://github.com/shenyunhang/APE)]
 * Language-based Video Editing:
     * **M<sup>3</sup>L**: "Language-based Video Editing via Multi-Modal Multi-Level Transformer", CVPR, 2022 (*UCSB*). [[Paper](https://arxiv.org/abs/2104.01122)]
     * **Video-P2P**: "Video-P2P: Video Editing with Cross-attention Control", arXiv, 2023 (*CUHK*). [[Paper](https://arxiv.org/abs/2303.04761)][[Website](https://video-p2p.github.io/)]
