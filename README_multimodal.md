@@ -243,6 +243,7 @@ If you find this repository useful, please consider citing this list:
     * **NExT-GQA**: "Can I Trust Your Answer? Visually Grounded Video Question Answering", arXiv, 2023 (*NUS*). [[Paper](https://arxiv.org/abs/2309.01327)]
     * **CURE**: "Measuring and Improving Chain-of-Thought Reasoning in Vision-Language Models", arXiv, 2023 (*SRI*). [[Paper](https://arxiv.org/abs/2309.04461)][[Code (in construction)](https://github.com/Yangyi-Chen/CoTConsistency)]
     * **RepARe**: "Rephrase, Augment, Reason: Visual Grounding of Questions for Vision-Language Models", arXiv, 2023 (*UNC*). [[Paper](https://arxiv.org/abs/2310.05861)][[PyTorch](https://github.com/archiki/RepARe)]
+    * **RVP**: "Recursive Visual Programming", arXiv, 2023 (*Berkeley*). [[Paper](https://arxiv.org/abs/2312.02249)]
 * Video:
     * **?**: "Mounting Video Metadata on Transformer-based Language Model for Open-ended Video Question Answering", arXiv, 2021 (*Seoul National University*). [[Paper](https://arxiv.org/abs/2108.05158)]
     * **TPT**: "Temporal Pyramid Transformer with Multimodal Interaction for Video Question Answering", arXiv, 2021 (*CAS*). [[Paper](https://arxiv.org/abs/2109.04735)]
@@ -874,6 +875,7 @@ If you find this repository useful, please consider citing this list:
     * **Emu-Edit**: "Emu Edit: Precise Image Editing via Recognition and Generation Tasks", arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2311.10089)]
     * **CoDi-2**: "CoDi-2: In-Context, Interleaved, and Interactive Any-to-Any Generation", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2311.18775)][[Code (in construction)](https://github.com/microsoft/i-Code/tree/main/CoDi-2)][[Website](https://codi-2.github.io/)]
     * **UniGS**: "UniGS: Unified Representation for Image Generation and Segmentation", arXiv, 2023 (*UC Merced*). [[Paper](https://arxiv.org/abs/2312.01985)][[PyTorch (in construction)](https://github.com/qqlu/Entity)]
+    * **StoryGPT-V**: "Large Language Models as Consistent Story Visualizers", arXiv, 2023 (*KAUST*). [[Paper](https://arxiv.org/abs/2312.02252)][[PyTorch](https://anonymous.4open.science/r/story/README.md)][[Website](https://storygpt-v.s3.amazonaws.com/index.html)]
 * Video:
     * **Imagen-Video**: "Imagen Video: High Definition Video Generation with Diffusion Models", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2210.02303)][[Website](https://imagen.research.google/video/)]
     * **Phenaki**: "Phenaki: Variable Length Video Generation From Open Domain Textual Description", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2210.02399)][[PyTorch (LAION-AI, in construction)](https://github.com/LAION-AI/phenaki)][[Website](https://phenaki.video/)]
@@ -1236,6 +1238,7 @@ If you find this repository useful, please consider citing this list:
     * **VideoXum**: "VideoXum: Cross-modal Visual and Textural Summarization of Videos", arXiv, 2023 (*OPPO*). [[Paper](https://arxiv.org/abs/2303.12060)][[Website](https://videoxum.github.io/)]
     * **MH-DETR**: "MH-DETR: Video Moment and Highlight Detection with Cross-modal Transformer", arXiv, 2023 (*Nanjing University*). [[Paper](https://arxiv.org/abs/2305.00355)]
     * **VisionaryVid**: "Joint Moment Retrieval and Highlight Detection Via Natural Language Queries", arXiv, 2023 (*Georgia Tech*). [[Paper](https://arxiv.org/abs/2305.04961)][[PyTorch](https://github.com/Skyline-9/Visionary-Vids)]
+    * **VIEWS**: "Video Summarization: Towards Entity-Aware Captions", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2312.02188)]
 * Robotics:
     * **CRT**: "Case Relation Transformer: A Crossmodal Language Generation Model for Fetching Instructions", IROS, 2021 (*Keio University*). [[Paper](https://arxiv.org/abs/2107.00789)]
     * **TraSeTR**: "TraSeTR: Track-to-Segment Transformer with Contrastive Query for Instance-level Instrument Segmentation in Robotic Surgery", ICRA, 2022 (*CUHK*). [[Paper](https://arxiv.org/abs/2202.08453)]
@@ -1455,6 +1458,7 @@ If you find this repository useful, please consider citing this list:
     * **GPT4Video**: "GPT4Video: A Unified Multimodal Large Language Model for lnstruction-Followed Understanding and Safety-Aware Generation", arXiv, 2023 (*Tencent*). [[Paper](https://arxiv.org/abs/2311.16511)][[Code (in construction)](https://github.com/gpt4video/GPT4Video)][[Website](https://gpt4video.github.io/)]
     * **Merlin**: "Merlin: Empowering Multimodal LLMs with Foresight Minds", arXiv, 2023 (*Huazhong University of Science and Technology*). [[Paper](https://arxiv.org/abs/2312.00589)]
     * **TimeChat**: "TimeChat: A Time-sensitive Multimodal Large Language Model for Long Video Understanding", arXiv, 2023 (*Peking*). [[Paper](https://arxiv.org/abs/2312.02051)][[Code (in construction)](https://github.com/RenShuhuai-Andy/TimeChat)]
+    * **VaQuitA**: "VaQuitA: Enhancing Alignment in LLM-Assisted Video Understanding", arXiv, 2023 (*Adobe*). [[Paper](https://arxiv.org/abs/2312.02310)]
 * Conversation (3D):
     * **3D-LLM**: "3D-LLM: Injecting the 3D World into Large Language Models", arXiv, 2023 (*UCLA*). [[Paper](https://arxiv.org/abs/2307.12981)][[PyTorch (in construction)](https://github.com/UMass-Foundation-Model/3D-LLM)][[Website](https://vis-www.cs.umass.edu/3dllm/)]
     * **Chat-3D**: "Chat-3D: Data-efficiently Tuning Large Language Model for Universal Dialogue of 3D Scenes", arXiv, 2023 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2308.08769)][[PyTorch](https://github.com/Chat-3D/Chat-3D)][[Website](https://chat-3d.github.io/)]
@@ -1517,6 +1521,8 @@ If you find this repository useful, please consider citing this list:
     * **VITATECS**: "VITATECS: A Diagnostic Dataset for Temporal Concept Understanding of Video-Language Models", arXiv, 2023 (*Peking*). [[Paper](https://arxiv.org/abs/2311.17404)][[PyTorch](https://github.com/lscpku/VITATECS)]
     * **SEED-Bench-2**: "SEED-Bench-2: Benchmarking Multimodal Large Language Models", arXiv, 2023 (*Tencent*). [[Paper](https://arxiv.org/abs/2311.17092)][[PyTorch](https://github.com/AILab-CVC/SEED-Bench)]
     * **VBench**: "VBench: Comprehensive Benchmark Suite for Video Generative Models", arXiv, 2023 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2311.17982)][[PyTorch](https://github.com/Vchitect/VBench)][[Website](https://vchitect.github.io/VBench-project/)]
+    * **MERLIM**: "Behind the Magic, MERLIM: Multi-modal Evaluation Benchmark for Large Image-Language Models", arXiv, 2023 (*KAUST*). [[Paper](https://arxiv.org/abs/2312.02219)]
+    * **BenchLMM**: "BenchLMM: Benchmarking Cross-style Visual Capability of Large Multimodal Models", arXiv, 2023 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2312.02896)][[PyTorch](https://github.com/AIFEG/BenchLMM)]
 * Robustness:
     * **Hierarchy-CLIP**: "Improving Zero-shot Generalization and Robustness of Multi-modal Models", CVPR, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2212.01758)][[JAX](https://github.com/gyhandy/Hierarchy-CLIP)][[Website](https://sites.google.com/usc.edu/hierarchy-clip/)]
     * **?**: "Mitigating Spurious Correlations in Multi-modal Models during Fine-tuning", ICML, 2023 (*UCLA*). [[Paper](https://arxiv.org/abs/2304.03916)]
