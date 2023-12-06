@@ -673,6 +673,7 @@ If you find this repository useful, please consider citing this list:
 * **LC-MAE**: "Longer-range Contextualized Masked Autoencoder", arXiv, 2023 (*NAVER*). [[Paper](https://arxiv.org/abs/2310.13593)]
 * **SILC**: "SILC: Improving Vision Language Pretraining with Self-Distillation", arXiv, 2023 (*ETHZ*). [[Paper](https://arxiv.org/abs/2310.13355)]
 * **CLIPTex**: "CLIP meets Model Zoo Experts: Pseudo-Supervision for Visual Enhancement", arXiv, 2023 (*Apple*). [[Paper](https://arxiv.org/abs/2310.14108)]
+* **NxTP**: "Object Recognition as Next Token Prediction", arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2312.02142)][[PyTorch](https://github.com/kaiyuyue/nxtp)]
 * **SSAT**: "Limited Data, Unlimited Potential: A Study on ViTs Augmented by Masked Autoencoders", WACV, 2024 (*UNC Charlotte*). [[Paper](https://arxiv.org/abs/2310.20704)][[Code (in construction)](https://github.com/dominickrei/Limited-data-vits)]
 #### Robustness + Transformer
 * **ViT-Robustness**: "Understanding Robustness of Transformers for Image Classification", ICCV, 2021 (*Google*). [[Paper](https://arxiv.org/abs/2103.14586)]
@@ -1520,6 +1521,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **OSM**: "Towards Open-Ended Visual Recognition with Large Language Model", arXiv, 2023 (*ByteDance*). [[Paper](https://arxiv.org/abs/2311.08400)][[PyTorch](https://github.com/bytedance/OmniScient-Model)]
     * **SED**: "SED: A Simple Encoder-Decoder for Open-Vocabulary Semantic Segmentation", arXiv, 2023 (*Tianjin*). [[Paper](https://arxiv.org/abs/2311.15537)][[PyTorch (in construction)](https://github.com/xb534/SED)]
     * **PnP-OVSS**: "Plug-and-Play, Dense-Label-Free Extraction of Open-Vocabulary Semantic Segmentation from Vision-Language Models", arXiv, 2023 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2311.17095)]
+    * **SCLIP**: "SCLIP: Rethinking Self-Attention for Dense Vision-Language Inference", arXiv, 2023 (*JHU*). [[Paper](https://arxiv.org/abs/2312.01597)]
 * Universal Segmentation:
     * **K-Net**: "K-Net: Towards Unified Image Segmentation", NeurIPS, 2021 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2106.14855)][[PyTorch](https://github.com/ZwwWayne/K-Net/)]
     * **Mask2Former**: "Masked-attention Mask Transformer for Universal Image Segmentation", CVPR, 2022 (*Meta*). [[Paper](https://arxiv.org/abs/2112.01527)][[PyTorch](https://github.com/facebookresearch/Mask2Former)][[Website](https://bowenc0221.github.io/mask2former/)]
@@ -1695,6 +1697,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **?**: "Understanding Self-Supervised Features for Learning Unsupervised Instance Segmentation", arXiv, 2023 (*Oxford*). [[Paper](https://arxiv.org/abs/2311.14665)]
     * **OneFormer3D**: "OneFormer3D: One Transformer for Unified Point Cloud Segmentation", arXiv, 2023 (*Samsung*). [[Paper](https://arxiv.org/abs/2311.14405)]
     * **SAGA**: "Segment Any 3D Gaussians", arXiv, 2023 (*SJTU*). [[Paper](https://arxiv.org/abs/2312.00860)][[Code (in construction)](https://github.com/Jumpat/SegAnyGAussians)][[Website](https://jumpat.github.io/SAGA/)]
+    * **SANeRF-HQ**: "SANeRF-HQ: Segment Anything for NeRF in High Quality", arXiv, 2023 (*HKUST*). [[Paper](https://arxiv.org/abs/2312.01531)][[Code (in construction)](https://github.com/lyclyc52/SANeRF-HQ)][[Website](https://lyclyc52.github.io/SANeRF-HQ/)]
 * Multi-Task:
     * **InvPT**: "Inverted Pyramid Multi-task Transformer for Dense Scene Understanding", ECCV, 2022 (*HKUST*). [[Paper](https://arxiv.org/abs/2203.07997)][[PyTorch](https://github.com/prismformore/Multi-Task-Transformer)]
     * **MTFormer**: "MTFormer: Multi-task Learning via Transformer and Cross-Task Reasoning", ECCV, 2022 (*CUHK*). [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/1353_ECCV_2022_paper.php)]
