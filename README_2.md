@@ -1004,6 +1004,7 @@ If you find this repository useful, please consider citing this list:
 * **MAskDiT**: "Fast Training of Diffusion Models with Masked Transformers", arXiv, 2023 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2306.09305)]
 * **Dolfin**: "Dolfin: Diffusion Layout Transformers without Autoencoder", arXiv, 2023 (*UCSD*). [[Paper](https://arxiv.org/abs/2310.16305)]
 * **RALF**: "Retrieval-Augmented Layout Transformer for Content-Aware Layout Generation", arXiv, 2023 (*The University of Tokyo*). [[Paper](https://arxiv.org/abs/2311.13602)][[Website](https://udonda.github.io/RALF/)]
+* **GIVT**: "GIVT: Generative Infinite-Vocabulary Transformers", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2312.02116)]
 
 [[Back to Overview](#overview)]
 
