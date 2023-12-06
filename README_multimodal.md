@@ -333,6 +333,8 @@ If you find this repository useful, please consider citing this list:
     * **?**: "Augment the Pairs: Semantics-Preserving Image-Caption Pair Augmentation for Grounding-Based Vision and Language Models", WACV, 2024 (*Amazon*). [[Paper](https://arxiv.org/abs/2311.02536)][[PyTorch](https://github.com/amzn/augment-the-pairs-wacv2024)]
     * **Griffon**: "Griffon: Spelling out All Object Locations at Any Granularity with Large Language Models", arXiv, 2023 (*CAS*). [[Paper](https://arxiv.org/abs/2311.14552)]
     * **RelVLA**: "Zero-shot Referring Expression Comprehension via Structural Similarity Between Images and Captions", arXiv, 2023 (*Northeastern*). [[Paper](https://arxiv.org/abs/2311.17048)]
+    * **Lenna**: "Lenna: Language Enhanced Reasoning Detection Assistant", arXiv, 2023 (*Meituan*). [[Paper](https://arxiv.org/abs/2312.02433)][[Code (in construction)](https://github.com/Meituan-AutoML/Lenna)]
+    * **LLaVA-Grounding**: "LLaVA-Grounding: Grounded Visual Chat with Large Multimodal Models", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2312.02949)][[PyTorch](https://github.com/UX-Decoder/LLaVA-Grounding)][[Website](https://llava-vl.github.io/llava-grounding/)]
 * Video:
     * **Multi-Stage-Transformer**: "Multi-Stage Aggregated Transformer Network for Temporal Language Localization in Videos", CVPR, 2021 (*University of Electronic Science and Technology of China*). [[Paper](https://openaccess.thecvf.com/content/CVPR2021/html/Zhang_Multi-Stage_Aggregated_Transformer_Network_for_Temporal_Language_Localization_in_Videos_CVPR_2021_paper.html)]
     * **GTR**: "On Pursuit of Designing Multi-modal Transformer for Video Grounding", EMNLP, 2021 (*Peking*). [[Paper](https://arxiv.org/abs/2109.06085)]
@@ -1281,6 +1283,7 @@ If you find this repository useful, please consider citing this list:
     * **ShapeGPT**: "ShapeGPT: 3D Shape Generation with A Unified Multi-modal Language Model", arXiv, 2023 (*Tencent*). [[Paper](https://arxiv.org/abs/2311.17618)][[Website](https://shapegpt.github.io/)][[Website](https://github.com/OpenShapeLab/ShapeGPT)]
     * **LEGaussain**: "Language Embedded 3D Gaussians for Open-Vocabulary Scene Understanding", arXiv, 2023 (*Beihang*). [[Paper](https://arxiv.org/abs/2311.18482)]
     * **Gaussian-Grouping**: "Gaussian Grouping: Segment and Edit Anything in 3D Scenes", arXiv, 2023 (*ETHZ*). [[Paper](https://arxiv.org/abs/2312.00732)][[Code (in construction)](https://github.com/lkeab/gaussian-grouping)]
+    * **GPT4Point**: "GPT4Point: A Unified Framework for Point-Language Understanding and Generation", arXiv, 2023 (*HKU*). [[Paper](https://arxiv.org/abs/2312.02980)][[PyTorch](https://github.com/Pointcept/PointBLIP)][[Website](https://gpt4point.github.io/)]
     * **Open-NeRF**: "Open-NeRF: Towards Open Vocabulary NeRF Decomposition", WACV, 2024 (*UIUC*). [[Paper](https://arxiv.org/abs/2310.16383)]
 * 3D Scene Understanding:
     * **OpenScene**: "OpenScene: 3D Scene Understanding with Open Vocabularies", CVPR, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2211.15654)][[PyTorch](https://github.com/pengsongyou/openscene)][[Website](https://pengsongyou.github.io/openscene)]
