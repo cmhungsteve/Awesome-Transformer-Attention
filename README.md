@@ -1909,6 +1909,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **DiffTAD**: "DiffTAD: Temporal Action Detection with Proposal Denoising Diffusion", arXiv, 2023 (*University of Surrey, UK*). [[Paper](https://arxiv.org/abs/2303.14863)][[PyTorch (in construction)](https://github.com/sauradip/DiffusionTAD)]
 * **MNA-ZBD**: "No-frills Temporal Video Grounding: Multi-Scale Neighboring Attention and Zoom-in Boundary Detection", arXiv, 2023 (*Renmin University of China*). [[Paper](https://arxiv.org/abs/2307.10567)]
 * **PAT**: "PAT: Position-Aware Transformer for Dense Multi-Label Action Detection", arXiv, 2023 (*University of Surrey, UK*). [[Paper](https://arxiv.org/abs/2308.05051)]
+* **ViT-TAD**: "Adapting Short-Term Transformers for Action Detection in Untrimmed Videos", arXiv, 2023 (*Nanjing University (NJU)*). [[Paper](https://arxiv.org/abs/2312.01897)]
 
 [[Back to Overview](#overview)]
 
