@@ -478,6 +478,7 @@ If you find this repository useful, please consider citing this list:
 * **Mobile-V-MoEs**: "Mobile V-MoEs: Scaling Down Vision Transformers via Sparse Mixture-of-Experts", arXiv, 2023 (*Apple*). [[Paper](https://arxiv.org/abs/2309.04354)]
 * **PPT**: "PPT: Token Pruning and Pooling for Efficient Vision Transformers", arXiv, 2023 (*Huawei*). [[Paper](https://arxiv.org/abs/2310.01812)]
 * **MatFormer**: "MatFormer: Nested Transformer for Elastic Inference", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2310.07707)]
+* **SparseFormer**: "Bootstrapping SparseFormers from Vision Foundation Models", arXiv, 2023 (*NUS*). [[Paper](https://arxiv.org/abs/2312.01987)][[PyTorch](https://github.com/showlab/sparseformer)]
 * **GTP-ViT**: "GTP-ViT: Efficient Vision Transformers via Graph-based Token Propagation", WACV, 2024 (*CSIRO Data61, Australia*). [[Paper](https://arxiv.org/abs/2311.03035)][[PyTorch](https://github.com/Ackesnal/GTP-ViT)]
 * **ToFu**: "Token Fusion: Bridging the Gap between Token Pruning and Token Merging", WACV, 2024 (*Samsung*). [[Paper](https://arxiv.org/abs/2312.01026)]
 #### Conv + Transformer
@@ -1222,6 +1223,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **DITO**: "Detection-Oriented Image-Text Pretraining for Open-Vocabulary Detection", arXiv, 2023 (*DeepMind*). [[Paper](https://arxiv.org/abs/2310.00161)]
     * **RegionSpot**: "Recognize Any Regions", arXiv, 2023 (*University Of Surrey, England*). [[Paper](https://arxiv.org/abs/2311.01373)][[Code (in construction)](https://github.com/Surrey-UPLab/Recognize-Any-Regions)]
     * **DECOLA**: "Language-conditioned Detection Transformer", arXiv, 2023 (*UT Austin*). [[Paper](https://arxiv.org/abs/2311.17902)][[PyTorch](https://github.com/janghyuncho/DECOLA)]
+    * **PLAC**: "Learning Pseudo-Labeler beyond Noun Concepts for Open-Vocabulary Object Detection", arXiv, 2023 (*Kakao*). [[Paper](https://arxiv.org/abs/2312.02103)]
     * **LP-OVOD**: "LP-OVOD: Open-Vocabulary Object Detection by Linear Probing", WACV, 2024 (*VinAI, Vietnam*). [[Paper](https://arxiv.org/abs/2310.17109)]
 * Pedestrian Detection:
     * **PED**: "DETR for Crowd Pedestrian Detection", arXiv, 2020 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2012.06785)][[PyTorch](https://github.com/Hatmm/PED-DETR-for-Pedestrian-Detection)]
