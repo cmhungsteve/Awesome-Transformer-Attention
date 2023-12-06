@@ -660,6 +660,7 @@ If you find this repository useful, please consider citing this list:
     * **SuS-X**: "SuS-X: Training-Free Name-Only Transfer of Vision-Language Models", ICCV, 2022 (*Cambridge*). [[Paper](https://arxiv.org/abs/2211.16198)][[PyTorch](https://github.com/vishaal27/SuS-X)]
     * **?**: "Text-to-Image Diffusion Models are Zero-Shot Classifiers", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2303.15233)]
     * **AutoCLIP**: "AutoCLIP: Auto-tuning Zero-Shot Classifiers for Vision-Language Models", arXiv, 2023 (*Bosch*). [[Paper](https://arxiv.org/abs/2309.16414)]
+    * **MMPT**: "Prompt Tuning for Zero-shot Compositional Learning", arXiv, 2023 (*Samsung*). [[Paper](https://arxiv.org/abs/2312.02191)]
 * X-Shot:
     * **CrossTransformer**: "CrossTransformers: spatially-aware few-shot transfer", NeurIPS, 2020 (*DeepMind*). [[Paper](https://arxiv.org/abs/2007.11498)][[Tensorflow](https://github.com/google-research/meta-dataset)]
     * **URT**: "A Universal Representation Transformer Layer for Few-Shot Image Classification", ICLR, 2021 (*Mila*). [[Paper](https://openreview.net/forum?id=04cII6MumYV)][[PyTorch](https://github.com/liulu112601/URT)]
@@ -787,6 +788,7 @@ If you find this repository useful, please consider citing this list:
     * **C2F-DFT**: "Learning A Coarse-to-Fine Diffusion Transformer for Image Restoration", arXiv, 2023 (*Dalian University of Technology*). [[Paper](https://arxiv.org/abs/2308.08730)][[PyTorch (in construction)](https://github.com/wlydlut/C2F-DFT)]
     * **DA-CLIP**: "Controlling Vision-Language Models for Universal Image Restoration", arXiv, 2023 (*Uppsala University, Sweden*). [[Paper](https://arxiv.org/abs/2310.01018)][[PyTorch](https://github.com/Algolzw/daclip-uir)][[Website](https://algolzw.github.io/daclip-uir/index.html)]
     * **AutoDIR**: "AutoDIR: Automatic All-in-One Image Restoration with Latent Diffusion", arXiv, 2023 (*CUHK*). [[Paper](https://arxiv.org/abs/2310.10123)]
+    * **MPerceiver**: "Multimodal Prompt Perceiver: Empower Adaptiveness, Generalizability and Fidelity for All-in-One Image Restoration", arXiv, 2023 (*CAS*). [[Paper](https://arxiv.org/abs/2312.02918)]
 * Super-Resolution:
     * **SAN**: "Second-Order Attention Network for Single Image Super-Resolution", CVPR, 2019 (*Tsinghua*). [[Paper](https://openaccess.thecvf.com/content_CVPR_2019/html/Dai_Second-Order_Attention_Network_for_Single_Image_Super-Resolution_CVPR_2019_paper.html)][[PyTorch](https://github.com/daitao/SAN)]
     * **CS-NL**: "Image Super-Resolution with Cross-Scale Non-Local Attention and Exhaustive Self-Exemplars Mining", CVPR, 2020 (*UIUC*). [[Paper](https://arxiv.org/abs/2006.01424)][[PyTorch](https://github.com/SHI-Labs/Cross-Scale-Non-Local-Attention)]
