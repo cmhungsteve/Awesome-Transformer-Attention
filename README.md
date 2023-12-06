@@ -898,6 +898,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **?**: "A Multidimensional Analysis of Social Biases in Vision Transformers", ICCV, 2023 (*University of Mannheim, Germany*). [[Paper](https://arxiv.org/abs/2308.01948)][[PyTorch](https://github.com/jannik-brinkmann/social-biases-in-vision-transformers)]
 * **?**: "Analyzing Vision Transformers for Image Classification in Class Embedding Space", NeurIPS, 2023 (*Goethe University Frankfurt, Germany*). [[Paper](https://arxiv.org/abs/2310.18969)]
 * **BoB**: "Battle of the Backbones: A Large-Scale Comparison of Pretrained Models across Computer Vision Tasks", NeurIPS, 2023 (*NYU*). [[Paper](https://arxiv.org/abs/2310.19909)][[PyTorch](https://github.com/hsouri/Battle-of-the-Backbones)]
+* **ViT-CoT**: "Are Vision Transformers More Data Hungry Than Newborn Visual Systems?", NeurIPS, 2023 (*Indiana University Bloomington, Indiana*). [[Paper](https://arxiv.org/abs/2312.02843)]
 * **AttentionViz**: "AttentionViz: A Global View of Transformer Attention", arXiv, 2023 (*Harvard*). [[Paper](https://arxiv.org/abs/2305.03210)][[Website](http://attentionviz.com/)]
 * **?**: "Understanding Gaussian Attention Bias of Vision Transformers Using Effective Receptive Fields", arXiv, 2023 (*POSTECH*). [[Paper](https://arxiv.org/abs/2305.04722)]
 * **?**: "Reviving Shift Equivariance in Vision Transformers", arXiv, 2023 (*Maryland*). [[Paper](https://arxiv.org/abs/2306.07470)]
@@ -1913,6 +1914,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **MNA-ZBD**: "No-frills Temporal Video Grounding: Multi-Scale Neighboring Attention and Zoom-in Boundary Detection", arXiv, 2023 (*Renmin University of China*). [[Paper](https://arxiv.org/abs/2307.10567)]
 * **PAT**: "PAT: Position-Aware Transformer for Dense Multi-Label Action Detection", arXiv, 2023 (*University of Surrey, UK*). [[Paper](https://arxiv.org/abs/2308.05051)]
 * **ViT-TAD**: "Adapting Short-Term Transformers for Action Detection in Untrimmed Videos", arXiv, 2023 (*Nanjing University (NJU)*). [[Paper](https://arxiv.org/abs/2312.01897)]
+* **Cafe**: "Towards More Practical Group Activity Detection: A New Benchmark and Model", arXiv, 2023 (*POSTECH*). [[Paper](https://arxiv.org/abs/2312.02878)][[PyTorch](https://github.com/dk-kim/CAFE_codebase)][[Website](https://dk-kim.github.io/CAFE/)]
 
 [[Back to Overview](#overview)]
 
