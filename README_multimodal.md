@@ -1308,6 +1308,8 @@ If you find this repository useful, please consider citing this list:
     * **OmniSeg3D**: "OmniSeg3D: Omniversal 3D Segmentation via Hierarchical Contrastive Learning", arXiv, 2023 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2311.11666)][[Website](https://oceanying.github.io/OmniSeg3D/)]
     * **SAMPro3D**: "SAMPro3D: Locating SAM Prompts in 3D for Zero-Shot Scene Segmentation", arXiv, 2023 (*CUHK*). [[Paper](https://arxiv.org/abs/2311.17707)][[Code (in construction)](https://github.com/GAP-LAB-CUHK-SZ/SAMPro3D)][[Website](https://mutianxu.github.io/sampro3d/)]
     * **LL3DA**: "LL3DA: Visual Interactive Instruction Tuning for Omni-3D Understanding, Reasoning, and Planning", arXiv, 2023 (*Fudan*). [[Paper](https://arxiv.org/abs/2311.18651)][[Code (in construction)](https://github.com/Open3DA/LL3DA)][[Website](https://ll3da.github.io/https://tianweiy.github.io/dmd/)]
+    * **PartSLIP++**: "PartSLIP++: Enhancing Low-Shot 3D Part Segmentation via Multi-View Instance Segmentation and Maximum Likelihood Estimation", arXiv, 2023 (*UCSD*). [[Paper](https://arxiv.org/abs/2312.03015)][[PyTorch](https://github.com/zyc00/PartSLIP2)]
+    * **Uni3DL**: "Uni3DL: Unified Model for 3D and Language Understanding", arXiv, 2023 (*KAUST*). [[Paper](https://arxiv.org/abs/2312.03026)][[Website](https://uni3dl.github.io/)]
 * Speech Recognition:
     * **AV-HuBERT**: "Robust Self-Supervised Audio-Visual Speech Recognition", arXiv, 2022 (*Meta*). [[Paper](https://arxiv.org/abs/2201.01763)][[PyTorch](https://github.com/facebookresearch/av_hubert)]
     * **?**: "Transformer-Based Video Front-Ends for Audio-Visual Speech Recognition", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2201.10439)]
@@ -1419,7 +1421,6 @@ If you find this repository useful, please consider citing this list:
     * **?**: "An Empirical Study of Scaling Instruct-Tuned Large Multimodal Models", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2309.09958)][[GitHub](https://github.com/haotian-liu/LLaVA/blob/main/docs/MODEL_ZOO.md)]
     * **InternLM-XComposer**: "InternLM-XComposer: A Vision-Language Large Model for Advanced Text-image Comprehension and Composition", arXiv, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2309.15112)][[PyTorch](https://github.com/InternLM/InternLM-XComposer)]
     * **LLaVA-RLHF**: "Aligning Large Multimodal Models with Factually Augmented RLHF", arXiv, 2023 (*Berkeley + CMU + UIUC*). [[Paper](https://arxiv.org/abs/2309.14525)][[Code (in construction)](https://github.com/llava-rlhf/LLaVA-RLHF)][[Website](https://llava-rlhf.github.io/)]
-    * **AnyMAL**: "AnyMAL: An Efficient and Scalable Any-Modality Augmented Language Model", arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2309.16058)]
     * **Muffin**: "Reformulating Vision-Language Foundation Models and Datasets Towards Universal Multimodal Assistants", arXiv, 2023 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2310.00653)]
     * **Pink**: "Pink: Unveiling the Power of Referential Comprehension for Multi-modal LLMs", arXiv, 2023 (*Ant*). [[Paper](https://arxiv.org/abs/2310.00582)][[Code (in construction)](https://github.com/SY-Xuan/Pink)]
     * **LLaVA-1.5**: "Improved Baselines with Visual Instruction Tuning", arXiv, 2023 (*UW Madison*). [[Paper](https://arxiv.org/abs/2310.03744)][[PyTorch](https://github.com/haotian-liu/LLaVA)][[Website](https://llava-vl.github.io/)]
@@ -1462,6 +1463,9 @@ If you find this repository useful, please consider citing this list:
 * Conversation (3D):
     * **3D-LLM**: "3D-LLM: Injecting the 3D World into Large Language Models", arXiv, 2023 (*UCLA*). [[Paper](https://arxiv.org/abs/2307.12981)][[PyTorch (in construction)](https://github.com/UMass-Foundation-Model/3D-LLM)][[Website](https://vis-www.cs.umass.edu/3dllm/)]
     * **Chat-3D**: "Chat-3D: Data-efficiently Tuning Large Language Model for Universal Dialogue of 3D Scenes", arXiv, 2023 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2308.08769)][[PyTorch](https://github.com/Chat-3D/Chat-3D)][[Website](https://chat-3d.github.io/)]
+* Conversation (Multi):
+    * **AnyMAL**: "AnyMAL: An Efficient and Scalable Any-Modality Augmented Language Model", arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2309.16058)]
+    * **OneLLM**: "OneLLM: One Framework to Align All Modalities with Language", arXiv, 2023 (*CUHK + Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2312.03700)][[PyTorch](https://github.com/csuhan/OneLLM)]
 * Visual Reasoning:
     * **BDC-Adapter**: "BDC-Adapter: Brownian Distance Covariance for Better Vision-Language Reasoning", BMVC, 2023 (*SUSTech*). [[Paper](https://arxiv.org/abs/2309.01256)]
     * **RPT**: "Fine-Grained Regional Prompt Tuning for Visual Abductive Reasoning", arXiv, 2023 (*A\*STAR*). [[Paper](https://arxiv.org/abs/2303.10428)]
