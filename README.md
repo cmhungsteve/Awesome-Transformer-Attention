@@ -1525,6 +1525,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **PnP-OVSS**: "Plug-and-Play, Dense-Label-Free Extraction of Open-Vocabulary Semantic Segmentation from Vision-Language Models", arXiv, 2023 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2311.17095)]
     * **SCLIP**: "SCLIP: Rethinking Self-Attention for Dense Vision-Language Inference", arXiv, 2023 (*JHU*). [[Paper](https://arxiv.org/abs/2312.01597)]
     * **GranSAM**: "Towards Granularity-adjusted Pixel-level Semantic Annotation", arXiv, 2023 (*UC Riverside*). [[Paper](https://arxiv.org/abs/2312.02420)]
+    * **Sambor**: "Boosting Segment Anything Model Towards Open-Vocabulary Learning", arXiv, 2023 (*Huawei*). [[Paper](https://arxiv.org/abs/2312.03628)][[Code (in construction)](https://github.com/ucas-vg/Sambor)]
 * Universal Segmentation:
     * **K-Net**: "K-Net: Towards Unified Image Segmentation", NeurIPS, 2021 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2106.14855)][[PyTorch](https://github.com/ZwwWayne/K-Net/)]
     * **Mask2Former**: "Masked-attention Mask Transformer for Universal Image Segmentation", CVPR, 2022 (*Meta*). [[Paper](https://arxiv.org/abs/2112.01527)][[PyTorch](https://github.com/facebookresearch/Mask2Former)][[Website](https://bowenc0221.github.io/mask2former/)]
@@ -1641,6 +1642,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **?**: "Weakly-Supervised Semantic Segmentation with Image-Level Labels: from Traditional Models to Foundation Models", arXiv, 2023 (*Singapore Management University*). [[Paper](https://arxiv.org/abs/2310.13026)]
     * **MCC**: "Masked Collaborative Contrast for Weakly Supervised Semantic Segmentation", arXiv, 2023 (*Zhejiang Lab, China*). [[Paper](https://arxiv.org/abs/2305.08491)][[PyTorch](https://github.com/fwu11/MCC)]
     * **CRATE**: "White-Box Transformers via Sparse Rate Reduction: Compression Is All There Is?", arXiv, 2023 (*Berkeley*). [[Paper](https://arxiv.org/abs/2311.13110)][[PyTorch](https://github.com/Ma-Lab-Berkeley/CRATE)][[Website](https://ma-lab-berkeley.github.io/CRATE/)]
+    * **SAMS**: "Foundation Model Assisted Weakly Supervised Semantic Segmentation", arXiv, 2023 (*Zhejiang*). [[Paper](https://arxiv.org/abs/2312.03585)]
 * Cross-Domain:
     * **DAFormer**: "DAFormer: Improving Network Architectures and Training Strategies for Domain-Adaptive Semantic Segmentation", CVPR, 2022 (*ETHZ*). [[Paper](https://arxiv.org/abs/2111.14887)][[PyTorch](https://github.com/lhoyer/DAFormer)]
     * **HGFormer**: "HGFormer: Hierarchical Grouping Transformer for Domain Generalized Semantic Segmentation", CVPR, 2023 (*Wuhan University*). [[Paper](https://arxiv.org/abs/2305.13031)][[Code (in construction)](https://github.com/dingjiansw101/HGFormer)]
