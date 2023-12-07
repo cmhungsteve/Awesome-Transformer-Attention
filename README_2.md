@@ -1008,6 +1008,7 @@ If you find this repository useful, please consider citing this list:
 * **RALF**: "Retrieval-Augmented Layout Transformer for Content-Aware Layout Generation", arXiv, 2023 (*The University of Tokyo*). [[Paper](https://arxiv.org/abs/2311.13602)][[Website](https://udonda.github.io/RALF/)]
 * **GIVT**: "GIVT: Generative Infinite-Vocabulary Transformers", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2312.02116)]
 * **DiffiT**: "DiffiT: Diffusion Vision Transformers for Image Generation", arXiv, 2023 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2312.02139)][[Code (in construction)](https://github.com/NVlabs/DiffiT)]
+* **RCG**: "Self-conditioned Image Generation via Generating Representations", arXiv, 2023 (*MIT*). [[Paper](https://arxiv.org/abs/2312.03701)][[PyTorch](https://github.com/LTH14/rcg)]
 
 [[Back to Overview](#overview)]
 
@@ -1394,6 +1395,7 @@ If you find this repository useful, please consider citing this list:
 * **ILRA-MIL**: "Exploring Low-Rank Property in Multiple Instance Learning for Whole Slide Image Classification", ICLR, 2023 (*Tencent*). [[Paper](https://openreview.net/forum?id=01KmhBsEPFO)]
 * **BolT**: "BolT: Fused window transformers for fMRI time series analysis", Medical Image Analysis, 2023 (*Bilkent University*). [[Paper](https://www.sciencedirect.com/science/article/pii/S1361841523001019)][[PyTorch](https://github.com/icon-lab/BolT)]
 * **DreaMR**: "DreaMR: Diffusion-driven Counterfactual Explanation for Functional MRI", arXiv, 2023 (*Bilkent University*). [[Paper](https://arxiv.org/abs/2307.09547)][[PyTorch](https://github.com/icon-lab/DreaMR)]
+* **LongViT**: "When an Image is Worth 1,024 x 1,024 Words: A Case Study in Computational Pathology", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2312.03558)][[PyTorch](https://github.com/microsoft/torchscale)]
 
 [[Back to Overview](#overview)]
 
@@ -1982,6 +1984,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **DDT**: "DDT: A Diffusion-Driven Transformer-based Framework for Human Mesh Recovery from a Video", arXiv, 2023 (*OPPO*). [[Paper](https://arxiv.org/abs/2303.13397)]
     * **MotionGPT**: "MotionGPT: Finetuned LLMs are General-Purpose Motion Generators", arXiv, 2023 (*USTC*). [[Paper](https://arxiv.org/abs/2306.10900)][[PyTorch (in construction)](https://github.com/qiqiApink/MotionGPT)][[Website](https://qiqiapink.github.io/MotionGPT/)]
     * **UNIMASK-M**: "A Unified Masked Autoencoder with Patchified Skeletons for Motion Synthesis", arXiv, 2023 (*Technische Universitat Wien (TUWien), Austria*). [[Paper](https://arxiv.org/abs/2308.07301)][[Website](https://sites.google.com/view/estevevallsmascaro/publications/unimask-m)]
+    * **MMM**: "MMM: Generative Masked Motion Model", arXiv, 2023 (*UNC*). [[Paper](https://arxiv.org/abs/2312.03596)][[Code (in construction)](https://github.com/exitudio/MMM/)][[Website](https://exitudio.github.io/MMM-page/)]
 * 3D Object Recognition:
     * **MVT**: "MVT: Multi-view Vision Transformer for 3D Object Recognition", BMVC, 2021 (*Baidu*). [[Paper](https://arxiv.org/abs/2110.13083)]
 * 3D Reconstruction:
