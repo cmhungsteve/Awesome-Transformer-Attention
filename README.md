@@ -640,6 +640,7 @@ If you find this repository useful, please consider citing this list:
 * **CountBench**: "Teaching CLIP to Count to Ten", ICCV, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2302.12066)]
 * **CLIPpy**: "Perceptual Grouping in Vision-Language Models", ICCV, 2023 (*Apple*). [[Paper](https://arxiv.org/abs/2210.09996)]
 * **CiT**: "CiT: Curation in Training for Effective Vision-Language Data", ICCV, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2301.02241)][[PyTorch](https://github.com/facebookresearch/CiT)]
+* **StableRep**: "StableRep: Synthetic Images from Text-to-Image Models Make Strong Visual Representation Learners", NeurIPS, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2306.00984)][[PyTorch](https://github.com/google-research/syn-rep-learn)]
 * **CCViT**: "Centroid-centered Modeling for Efficient Vision Transformer Pre-training", arXiv, 2023 (*Wuhan University*). [[Paper](https://arxiv.org/abs/2303.04664)]
 * **SoftCLIP**: "SoftCLIP: Softer Cross-modal Alignment Makes CLIP Stronger", arXiv, 2023 (*Tencent*). [[Paper](https://arxiv.org/abs/2303.17561)]
 * **RECLIP**: "RECLIP: Resource-efficient CLIP by Training with Small Images", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2304.06028)]
@@ -651,7 +652,6 @@ If you find this repository useful, please consider citing this list:
 * **?**: "Improved baselines for vision-language pre-training", arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2305.08675)]
 * **3T**: "Three Towers: Flexible Contrastive Learning with Pretrained Image Models", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2305.16999)]
 * **LaCLIP**: "Improving CLIP Training with Language Rewrites", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2305.20088)][[PyTorch](https://github.com/LijieFan/LaCLIP)]
-* **StableRep**: "StableRep: Synthetic Images from Text-to-Image Models Make Strong Visual Representation Learners", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2306.00984)]
 * **ADDP**: "ADDP: Learning General Representations for Image Recognition and Generation with Alternating Denoising Diffusion Process", arXiv, 2023 (*CUHK + Tsinghua*). [[Paper](https://arxiv.org/abs/2306.05423)]
 * **MOFI**: "MOFI: Learning Image Representations from Noisy Entity Annotated Images", arXiv, 2023 (*Apple*). [[Paper](https://arxiv.org/abs/2306.07952)]
 * **CapPa**: "Image Captioners Are Scalable Vision Learners Too", arXiv, 2023 (*DeepMind*). [[Paper](https://arxiv.org/abs/2306.07915)]
@@ -674,6 +674,7 @@ If you find this repository useful, please consider citing this list:
 * **SILC**: "SILC: Improving Vision Language Pretraining with Self-Distillation", arXiv, 2023 (*ETHZ*). [[Paper](https://arxiv.org/abs/2310.13355)]
 * **CLIPTex**: "CLIP meets Model Zoo Experts: Pseudo-Supervision for Visual Enhancement", arXiv, 2023 (*Apple*). [[Paper](https://arxiv.org/abs/2310.14108)]
 * **NxTP**: "Object Recognition as Next Token Prediction", arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2312.02142)][[PyTorch](https://github.com/kaiyuyue/nxtp)]
+* **?**: "Scaling Laws of Synthetic Images for Model Training ... for Now", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2312.04567)][[PyTorch](https://github.com/google-research/syn-rep-learn)]
 * **SSAT**: "Limited Data, Unlimited Potential: A Study on ViTs Augmented by Masked Autoencoders", WACV, 2024 (*UNC Charlotte*). [[Paper](https://arxiv.org/abs/2310.20704)][[Code (in construction)](https://github.com/dominickrei/Limited-data-vits)]
 #### Robustness + Transformer
 * **ViT-Robustness**: "Understanding Robustness of Transformers for Image Classification", ICCV, 2021 (*Google*). [[Paper](https://arxiv.org/abs/2103.14586)]
@@ -988,6 +989,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **Box-DETR**: "Box-DETR: Understanding and Boxing Conditional Spatial Queries", arXiv, 2023 (*Huazhong University of Science and Technology*). [[Paper](https://arxiv.org/abs/2307.08353)][[PyTorch (in construction)](https://github.com/tiny-smart/box-detr)]
     * **RefineBox**: "Enhancing Your Trained DETRs with Box Refinement", arXiv, 2023 (*CAS*). [[Paper](https://arxiv.org/abs/2307.11828)][[Code (in construction)](https://github.com/YiqunChen1999/RefineBox)]
     * **?**: "Revisiting DETR Pre-training for Object Detection", arXiv, 2023 (*Toronto*). [[Paper](https://arxiv.org/abs/2308.01300)]
+    * **Gen2Det**: "Gen2Det: Generate to Detect", arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2312.04566)]
 * Transformer-based backbone:
     * **ViT-FRCNN**: "Toward Transformer-Based Object Detection", arXiv, 2020 (*Pinterest*). [[Paper](https://arxiv.org/abs/2012.09958)]
     * **WB-DETR**: "WB-DETR: Transformer-Based Detector Without Backbone", ICCV, 2021 (*CAS*). [[Paper](https://openaccess.thecvf.com/content/ICCV2021/html/Liu_WB-DETR_Transformer-Based_Detector_Without_Backbone_ICCV_2021_paper.html)]
@@ -1945,8 +1947,8 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **MVP**: "Multiscale Video Pretraining for Long-Term Activity Forecasting", arXiv, 2023 (*Boston*). [[Paper](https://arxiv.org/abs/2307.12854)]
 * **DiffAnt**: "DiffAnt: Diffusion Models for Action Anticipation", arXiv, 2023 (*Karlsruhe Institute of Technology (KIT), Germany*). [[Paper](https://arxiv.org/abs/2311.15991)]
 * **LALM**: "LALM: Long-Term Action Anticipation with Language Models", arXiv, 2023 (*ETHZ*). [[Paper](https://arxiv.org/abs/2311.17944)]
-* **ObjectPrompt**: "Object-centric Video Representation for Long-term Action Anticipation", WACV, 2024 (*Honda*). [[Paper](https://arxiv.org/abs/2311.00180)][[Code (in construction)](https://github.com/brown-palm/ObjectPrompt)]
 * **?**: "Learning from One Continuous Video Stream", arXiv, 2023 (*DeepMind*). [[Paper](https://arxiv.org/abs/2312.00598)]
+* **ObjectPrompt**: "Object-centric Video Representation for Long-term Action Anticipation", WACV, 2024 (*Honda*). [[Paper](https://arxiv.org/abs/2311.00180)][[Code (in construction)](https://github.com/brown-palm/ObjectPrompt)]
 
 [[Back to Overview](#overview)]
 
