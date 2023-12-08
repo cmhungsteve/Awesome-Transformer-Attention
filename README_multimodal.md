@@ -899,6 +899,7 @@ If you find this repository useful, please consider citing this list:
     * **PixelDance**: "Make Pixels Dance: High-Dynamic Video Generation", arXiv, 2023 (*ByteDance*). [[Paper](https://arxiv.org/abs/2311.10982)][[Website](https://makepixelsdance.github.io/)]
     * **VideoBooth**: "VideoBooth: Diffusion-based Video Generation with Image Prompts", arXiv, 2023 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2312.00777)][[Code (in construction)](https://github.com/Vchitect/VideoBooth)][[Website](https://vchitect.github.io/VideoBooth-project/)]
     * **VideoSwap**: "VideoSwap: Customized Video Subject Swapping with Interactive Semantic Point Correspondence", arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2312.02087)][[Code (in construction)](https://github.com/showlab/VideoSwap)][[Website](https://videoswap.github.io/)]
+    * **LEGO**: "LEGO: Learning EGOcentric Action Frame Generation via Visual Instruction Tuning", arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2312.03849)]
 * 3D:
     * **Magic3D**: "Magic3D: High-Resolution Text-to-3D Content Creation", CVPR, 2023 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2211.10440)][[Website](https://research.nvidia.com/labs/dir/magic3d/)]
     * **CLIP-Sculptor**: "CLIP-Sculptor: Zero-Shot Generation of High-Fidelity and Diverse Shapes from Natural Language", CVPR, 2023 (*Autodesk*). [[Paper](https://arxiv.org/abs/2211.01427)][[Website](https://ivl.cs.brown.edu/#/projects/clip-sculptor)]
@@ -1220,6 +1221,7 @@ If you find this repository useful, please consider citing this list:
     * **SPHINX**: "SPHINX: The Joint Mixing of Weights, Tasks, and Visual Embeddings for Multi-modal Large Language Models", arXiv, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2311.07575)][[PyTorch](https://github.com/Alpha-VLLM/LLaMA2-Accessory/tree/main/SPHINX)]
     * **UniLSeg**: "Universal Segmentation at Arbitrary Granularity with Language Instruction", arXiv, 2023 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2312.01623)]
     * **APE**: "Aligning and Prompting Everything All at Once for Universal Visual Perception", arXiv, 2023 (*Tencent*). [[Paper](https://arxiv.org/abs/2312.02153)][[PyTorch](https://github.com/shenyunhang/APE)]
+    * **Alpha-CLIP**: "Alpha-CLIP: A CLIP Model Focusing on Wherever You Want", arXiv, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2312.03818)][[PyTorch](https://github.com/SunzeY/AlphaCLIP)][[Website](https://aleafy.github.io/alpha-clip/)]
 * Language-based Video Editing:
     * **M<sup>3</sup>L**: "Language-based Video Editing via Multi-Modal Multi-Level Transformer", CVPR, 2022 (*UCSB*). [[Paper](https://arxiv.org/abs/2104.01122)]
     * **Video-P2P**: "Video-P2P: Video Editing with Cross-attention Control", arXiv, 2023 (*CUHK*). [[Paper](https://arxiv.org/abs/2303.04761)][[Website](https://video-p2p.github.io/)]
@@ -1288,7 +1290,7 @@ If you find this repository useful, please consider citing this list:
     * **Gaussian-Grouping**: "Gaussian Grouping: Segment and Edit Anything in 3D Scenes", arXiv, 2023 (*ETHZ*). [[Paper](https://arxiv.org/abs/2312.00732)][[Code (in construction)](https://github.com/lkeab/gaussian-grouping)]
     * **GPT4Point**: "GPT4Point: A Unified Framework for Point-Language Understanding and Generation", arXiv, 2023 (*HKU*). [[Paper](https://arxiv.org/abs/2312.02980)][[PyTorch](https://github.com/Pointcept/PointBLIP)][[Website](https://gpt4point.github.io/)]
     * **Open-NeRF**: "Open-NeRF: Towards Open Vocabulary NeRF Decomposition", WACV, 2024 (*UIUC*). [[Paper](https://arxiv.org/abs/2310.16383)]
-* 3D Scene Understanding:
+* 3D Segmentation:
     * **OpenScene**: "OpenScene: 3D Scene Understanding with Open Vocabularies", CVPR, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2211.15654)][[PyTorch](https://github.com/pengsongyou/openscene)][[Website](https://pengsongyou.github.io/openscene)]
     * **PartSLIP**: "PartSLIP: Low-Shot Part Segmentation for 3D Point Clouds via Pretrained Image-Language Models", CVPR, 2023 (*Qualcomm*). [[Paper](https://arxiv.org/abs/2212.01558)]
     * **CLIP2Scene**: "CLIP2Scene: Towards Label-efficient 3D Scene Understanding by CLIP", CVPR, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2301.04926)][[PyTorch](https://github.com/runnanchen/CLIP2Scene)]
@@ -1310,6 +1312,7 @@ If you find this repository useful, please consider citing this list:
     * **LL3DA**: "LL3DA: Visual Interactive Instruction Tuning for Omni-3D Understanding, Reasoning, and Planning", arXiv, 2023 (*Fudan*). [[Paper](https://arxiv.org/abs/2311.18651)][[Code (in construction)](https://github.com/Open3DA/LL3DA)][[Website](https://ll3da.github.io/https://tianweiy.github.io/dmd/)]
     * **PartSLIP++**: "PartSLIP++: Enhancing Low-Shot 3D Part Segmentation via Multi-View Instance Segmentation and Maximum Likelihood Estimation", arXiv, 2023 (*UCSD*). [[Paper](https://arxiv.org/abs/2312.03015)][[PyTorch](https://github.com/zyc00/PartSLIP2)]
     * **Uni3DL**: "Uni3DL: Unified Model for 3D and Language Understanding", arXiv, 2023 (*KAUST*). [[Paper](https://arxiv.org/abs/2312.03026)][[Website](https://uni3dl.github.io/)]
+    * **PartDistill**: "PartDistill: 3D Shape Part Segmentation by Vision-Language Model Distillation", arXiv, 2023 (*NYCU*). [[Paper](https://arxiv.org/abs/2312.04016)]
 * Speech Recognition:
     * **AV-HuBERT**: "Robust Self-Supervised Audio-Visual Speech Recognition", arXiv, 2022 (*Meta*). [[Paper](https://arxiv.org/abs/2201.01763)][[PyTorch](https://github.com/facebookresearch/av_hubert)]
     * **?**: "Transformer-Based Video Front-Ends for Audio-Visual Speech Recognition", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2201.10439)]
@@ -1444,6 +1447,7 @@ If you find this repository useful, please consider citing this list:
     * **CG-VLM**: "Contrastive Vision-Language Alignment Makes Efficient Instruction Learner", arXiv, 2023 (*South China University of Technology*). [[Paper](https://arxiv.org/abs/2311.17945)][[Code (in construction)](https://github.com/lizhaoliu-Lec/CG-VLM)]
     * **X-InstructBLIP**: "X-InstructBLIP: A Framework for aligning X-Modal instruction-aware representations to LLMs and Emergent Cross-modal Reasoning", arXiv, 2023 (*Salesforce*). [[Paper](https://arxiv.org/abs/2311.18799)]
     * **ViP-LLaVA**: "Making Large Multimodal Models Understand Arbitrary Visual Prompts", arXiv, 2023 (*Cruise*). [[Paper](https://arxiv.org/abs/2312.00784)][[PyTorch](https://github.com/mu-cai/vip-llava)][[Website](https://vip-llava.github.io/)]
+    * **Prompt-Highlighter**: "Prompt Highlighter: Interactive Control for Multi-Modal LLMs", arXiv, 2023 (*CUHK*). [[Paper](https://arxiv.org/abs/2312.04302)][[PyTorch](https://github.com/dvlab-research/Prompt-Highlighter/)][[Website](https://julianjuaner.github.io/projects/PromptHighlighter/)]
 * Conversation (Video):
     * **Video-ChatCaptioner**: "Video ChatCaptioner: Towards the Enriched Spatiotemporal Descriptions", arXiv, 2023 (*KAUST*). [[Paper](https://arxiv.org/abs/2304.04227)][[PyTorch](https://github.com/Vision-CAIR/ChatCaptioner)]
     * **ChatVideo**: "ChatVideo: A Tracklet-centric Multimodal and Versatile Video Understanding System", arXiv, 2023 (*Fudan*). [[Paper](https://arxiv.org/abs/2304.14407)][[Website](https://www.wangjunke.info/ChatVideo/)]
