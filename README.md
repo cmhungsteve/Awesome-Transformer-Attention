@@ -1526,6 +1526,8 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **SCLIP**: "SCLIP: Rethinking Self-Attention for Dense Vision-Language Inference", arXiv, 2023 (*JHU*). [[Paper](https://arxiv.org/abs/2312.01597)]
     * **GranSAM**: "Towards Granularity-adjusted Pixel-level Semantic Annotation", arXiv, 2023 (*UC Riverside*). [[Paper](https://arxiv.org/abs/2312.02420)]
     * **Sambor**: "Boosting Segment Anything Model Towards Open-Vocabulary Learning", arXiv, 2023 (*Huawei*). [[Paper](https://arxiv.org/abs/2312.03628)][[Code (in construction)](https://github.com/ucas-vg/Sambor)]
+    * **SCAN**: "Open-Vocabulary Segmentation with Semantic-Assisted Calibration", arXiv, 2023 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2312.04089)][[Code (in construction)](https://github.com/workforai/SCAN)]
+    * **Self-Seg**: "Self-Guided Open-Vocabulary Semantic Segmentation", arXiv, 2023 (*UvA*). [[Paper](https://arxiv.org/abs/2312.04539)]
 * Universal Segmentation:
     * **K-Net**: "K-Net: Towards Unified Image Segmentation", NeurIPS, 2021 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2106.14855)][[PyTorch](https://github.com/ZwwWayne/K-Net/)]
     * **Mask2Former**: "Masked-attention Mask Transformer for Universal Image Segmentation", CVPR, 2022 (*Meta*). [[Paper](https://arxiv.org/abs/2112.01527)][[PyTorch](https://github.com/facebookresearch/Mask2Former)][[Website](https://bowenc0221.github.io/mask2former/)]
@@ -1651,6 +1653,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **CDAC**: "CDAC: Cross-domain Attention Consistency in Transformer for Domain Adaptive Semantic Segmentation", ICCV, 2023 (*Boston*). [[Paper](https://openaccess.thecvf.com/content/ICCV2023/html/Wang_CDAC_Cross-domain_Attention_Consistency_in_Transformer_for_Domain_Adaptive_Semantic_ICCV_2023_paper.html)][[PyTorch](https://github.com/wangkaihong/CDAC)]
     * **EDAPS**: "EDAPS: Enhanced Domain-Adaptive Panoptic Segmentation", ICCV, 2023 (*ETHZ*). [[Paper](https://arxiv.org/abs/2304.14291)][[PyTorch](https://github.com/susaha/edaps)]
     * **PTDiffSeg**: "Prompting Diffusion Representations for Cross-Domain Semantic Segmentation", arXiv, 2023 (*ETHZ*). [[Paper](https://arxiv.org/abs/2307.02138)][[Code (in construction)](https://github.com/ETHRuiGong/PTDiffSeg)]
+    * **Rein**: "Stronger, Fewer, & Superior: Harnessing Vision Foundation Models for Domain Generalized Semantic Segmentation", arXiv, 2023 (*USTC*). [[Paper](https://arxiv.org/abs/2312.04265)]
 * Continual Learning:
     * **TISS**: "Delving into Transformer for Incremental Semantic Segmentation", arXiv, 2022 (*Tencent*). [[Paper](https://arxiv.org/abs/2211.10253)]
     * **Incrementer**: "Incrementer: Transformer for Class-Incremental Semantic Segmentation With Knowledge Distillation Focusing on Old Class", CVPR, 2023 (*University of Electronic Science and Technology of China*). [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Shang_Incrementer_Transformer_for_Class-Incremental_Semantic_Segmentation_With_Knowledge_Distillation_Focusing_CVPR_2023_paper.html)]
