@@ -2192,7 +2192,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **StepFormer**: "StepFormer: Self-supervised Step Discovery and Localization in Instructional Videos", CVPR, 2023 (*Samsung*). [[Paper](https://arxiv.org/abs/2304.13265)]
     * **E3P**: "Event-Guided Procedure Planning from Instructional Videos with Text Supervision", ICCV, 2023 (*Sun Yat-sen University*). [[Paper](https://arxiv.org/abs/2308.08885)]
     * **VLaMP**: "Pretrained Language Models as Visual Planners for Human Assistance", ICCV, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2304.09179)]
-    * **VINA**: "Learning to Ground Instructional Articles in Videos through Narrations", arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2306.03802)][[Website](https://eval.ai/web/challenges/challenge-page/2082/overview)]
+    * **VINA**: "Learning to Ground Instructional Articles in Videos through Narrations", ICCV, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2306.03802)][[Website](https://eval.ai/web/challenges/challenge-page/2082/overview)]
 * Continual Learning:
     * **PIVOT**: "PIVOT: Prompting for Video Continual Learning", CVPR, 2023 (*KAUST*). [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Villa_PIVOT_Prompting_for_Video_Continual_Learning_CVPR_2023_paper.html)]
 * 3D:
