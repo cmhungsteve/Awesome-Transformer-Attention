@@ -1327,6 +1327,7 @@ If you find this repository useful, please consider citing this list:
     * **AVFormer**: "AVFormer: Injecting Vision into Frozen Speech Models for Zero-Shot AV-ASR", CVPR, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2303.16501)]
     * **AV-RelScore**: "Watch or Listen: Robust Audio-Visual Speech Recognition with Visual Corruption Modeling and Reliability Scoring", CVPR, 2023 (*KAIST*). [[Paper](https://arxiv.org/abs/2303.08536)][[PyTorch](https://github.com/joannahong/AV-RelScore)]
     * **SynthVSR**: "SynthVSR: Scaling Up Visual Speech Recognition With Synthetic Supervision", CVPR, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2303.17200)]
+    * **Lip2Vec**: "Lip2Vec: Efficient and Robust Visual Speech Recognition via Latent-to-Latent Visual to Audio Representation Mapping", ICCV, 2023 (*Technology Innovation Institute (TII), UAE*). [[Paper](https://arxiv.org/abs/2308.06112)]
 * Emotion Recognition:
     * **?**: "A Pre-trained Audio-Visual Transformer for Emotion Recognition", ICASSP, 2022 (*USC*). [[Paper](https://arxiv.org/abs/2201.09165)]
     * **MDAN**: "MDAN: Multi-level Dependent Attention Network for Visual Emotion Analysis", CVPR, 2022 (*Tencent*). [[Paper](https://arxiv.org/abs/2203.13443)]
@@ -1357,7 +1358,8 @@ If you find this repository useful, please consider citing this list:
     * **LAVISH**: "Vision Transformers are Parameter-Efficient Audio-Visual Learners", CVPR, 2023 (*UNC*). [[Paper](https://arxiv.org/abs/2212.07983)][[Pytorch](https://github.com/GenjiB/LAVISH)][[Website](https://yanbo.ml/project_page/LAVISH/)]
     * **OneAVM**: "A Unified Audio-Visual Learning Framework for Localization, Separation, and Recognition", ICML, 2023 (*CMU + UW Madison*). [[Paper](https://arxiv.org/abs/2305.19458)][[Code (in construction)](https://github.com/stoneMo/OneAVM)]
     * **AdVerb**: "AdVerb: Visually Guided Audio Dereverberation", ICCV, 2023 (*Maryland*). [[Paper](https://arxiv.org/abs/2308.12370)][[Website](https://gamma.umd.edu/researchdirections/speech/adverb)]
-    * **CIGN**: "Class-Incremental Grouping Network for Continual Audio-Visual Learning", ICCV, 2023 (*CMU*). [[Paper](https://arxiv.org/abs/2309.05281)][[PyTorch](https://github.com/stoneMo/CIGN)]
+    * **CIGN**: "Class-Incremental Grouping Network for Continual Audio-Visual Learning", ICCV, 2023 (*UT Dallas*). [[Paper](https://arxiv.org/abs/2309.05281)][[PyTorch](https://github.com/stoneMo/CIGN)]
+    * **AV-CIL**: "Audio-Visual Class-Incremental Learning", ICCV, 2023 (*UT Dallas*). [[Paper](https://arxiv.org/abs/2308.11073)][[PyTorch](https://github.com/weiguoPian/AV-CIL_ICCV2023)]
     * **Audiovisual-MAE**: "Audiovisual Masked Autoencoders", ICCV, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2212.05922)]
     * **MAViL**: "MAViL: Masked Audio-Video Learners", NeurIPS, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2212.08071)][[Code (in construction)](https://github.com/facebookresearch/MAViL)]
     * **GestureDiffuCLIP**: "GestureDiffuCLIP: Gesture Diffusion Model with CLIP Latents", arXiv, 2023 (*Peking University*). [[Paper](https://arxiv.org/abs/2303.14613)]
@@ -1365,6 +1367,7 @@ If you find this repository useful, please consider citing this list:
     * **?**: "Learning Spatial Features from Audio-Visual Correspondence in Egocentric Videos" arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2307.04760)]
 * Audio-Visual Localization/Segmentation:
     * **AVSBench**: "Audio-Visual Segmentation", ECCV, 2022 (*SenseTime*). [[Paper](https://arxiv.org/abs/2207.05042)][[PyTorch](https://github.com/OpenNLPLab/AVSBench)][[Website](https://opennlplab.github.io/AVSBench/)]
+    * **ECMVAE**: "Multimodal Variational Auto-encoder based Audio-Visual Segmentation", ICCV, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2310.08303)][[PyTorch](https://github.com/OpenNLPLab/MMVAE-AVS)][[Website](https://npucvr.github.io/MMVAE-AVS/)]
     * **WS-AVS**: "Weakly-Supervised Audio-Visual Segmentation", NeurIPS, 2023 (*CMU + MBZUAI*). [[Paper](https://arxiv.org/abs/2311.15080)]
     * **AV-SAM**: "AV-SAM: Segment Anything Model Meets Audio-Visual Localization and Segmentation", arXiv, 2023 (*CMU + UT Dallas*). [[Paper](https://arxiv.org/abs/2305.01836)]
     * **AUSS**: "Hear to Segment: Unmixing the Audio to Guide the Semantic Segmentation", arXiv, 2023 (*Fudan*). [[Paper](https://arxiv.org/abs/2305.07223)]
@@ -1375,10 +1378,11 @@ If you find this repository useful, please consider citing this list:
     * **AVIS**: "Audio-Visual Instance Segmentation", arXiv, 2023 (*Peking*). [[Paper](https://arxiv.org/abs/2310.18709)]
 * Audio Description:
     * **AutoAD**: "AutoAD: Movie Description in Context", CVPR, 2023 (*Oxford*). [[Paper](https://arxiv.org/abs/2303.16899)][[PyTorch (in construction)](https://github.com/TengdaHan/AutoAD)][[Website](https://www.robots.ox.ac.uk/~vgg/research/autoad/)][[Website](https://www.robots.ox.ac.uk/~vgg/research/autoad/)]
-    * **AutoAD-II**: "AutoAD II: The Sequel - Who, When, and What in Movie Audio Description", ICCV, 2023 (*Oxford*). [[Paper](https://arxiv.org/abs/2310.06838)][[PyTorch (in construction)](https://github.com/TengdaHan/AutoAD)]
+    * **AutoAD-II**: "AutoAD II: The Sequel - Who, When, and What in Movie Audio Description", ICCV, 2023 (*Oxford*). [[Paper](https://arxiv.org/abs/2310.06838)][[PyTorch](https://github.com/TengdaHan/AutoAD)][[Website](https://www.robots.ox.ac.uk/~vgg/research/autoad/)]
 * Sound Localization:
     * **TURN**: "Towards Effective Multi-Modal Interchanges in Zero-Resource Sounding Object Localization", NeurIPS, 2022 (*Zhejiang University*). [[Paper](https://openreview.net/forum?id=rQAJmrLmGC6)][[PyTorch (in construction)](https://github.com/AwalkZY/TURN)]
     * **AVGN**: "Audio-Visual Grouping Network for Sound Localization from Mixtures", CVPR, 2023 (*CMU*). [[Paper](https://arxiv.org/abs/2303.17056)][[PyTorch](https://github.com/stoneMo/AVGN)]
+    * **?**: "Sound Source Localization is All about Cross-Modal Alignment", ICCV, 2023 (*KAIST*). [[Paper](https://arxiv.org/abs/2309.10724)]
 * Sentiment Analysis:
     * **CubeMLP**: "CubeMLP: A MLP-based Model for Multimodal Sentiment Analysis and Depression Estimation", ACMMM, 2022 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2207.14087)]
     * **MCMulT**: "Multi-scale Cooperative Multimodal Transformers for Multimodal Sentiment Analysis in Videos", arXiv, 2022 (*Tencent*). [[Paper](https://arxiv.org/abs/2206.07981)]
