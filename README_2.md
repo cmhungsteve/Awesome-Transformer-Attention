@@ -2008,6 +2008,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **Spectral-Graphormer**: "Spectral Graphormer: Spectral Graph-based Transformer for Egocentric Two-Hand Reconstruction using Multi-View Color Images", ICCV, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2308.11015)]
     * **UMIFormer**: "UMIFormer: Mining the Correlations between Similar Tokens for Multi-View 3D Reconstruction", ICCV, 2023 (*Macau University of Science and Technology*). [[Paper](https://arxiv.org/abs/2302.13987)][[PyTorch](https://github.com/GaryZhu1996/UMIFormer)]
     * **PlaneRecTR**: "PlaneRecTR: Unified Query Learning for 3D Plane Recovery from a Single View", ICCV, 2023 (*National University of Defense Technology, China*). [[Paper](https://arxiv.org/abs/2307.13756)][[PyTorch](https://github.com/SJingjia/PlaneRecTR)]
+    * **HaMeR**: "Reconstructing Hands in 3D with Transformers", arXiv, 2023 (*Berkeley*). [[Paper](https://arxiv.org/abs/2312.05251)][[PyTorch](https://github.com/geopavlakos/hamer)][[Website](https://geopavlakos.github.io/hamer/)]
 * 360 Scene:
     * **?**: "Improving 360 Monocular Depth Estimation via Non-local Dense Prediction Transformer and Joint Supervised and Self-supervised Learning", AAAI, 2022 (*Seoul National University*). [[Paper](https://arxiv.org/abs/2109.10563)][[PyTorch](https://github.com/yuniw18/Joint_360depth)]
     * **PAVER**: "Panoramic Vision Transformer for Saliency Detection in 360° Videos", ECCV, 2022 (*Seoul National University*). [[Paper](https://arxiv.org/abs/2209.08956)]
