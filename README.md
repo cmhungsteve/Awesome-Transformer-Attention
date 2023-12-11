@@ -9,6 +9,7 @@ Contributions in any form to make this list more comprehensive are welcome.
 If you find this repository useful, please consider **[citing](#citation)** and **★STARing** this list. <br>
 Feel free to share this list with others! 
 
+**[Update: December, 2023]** Added all the related papers from *ICCV 2023*! <br>
 **[Update: September, 2023]** Split the multi-modal paper list to [README_multimodal.md](README_multimodal.md) <br>
 **[Update: June, 2023]** Added all the related papers from *ICML 2023*! <br>
 **[Update: June, 2023]** Added all the related papers from *CVPR 2023*! <br>
