@@ -271,6 +271,8 @@ If you find this repository useful, please consider citing this list:
     * **SeViLA**: "Self-Chained Image-Language Model for Video Localization and Question Answering", arXiv, 2023 (*UNC*). [[Paper](https://arxiv.org/abs/2305.06988)][[PyTorch](https://github.com/Yui010206/SeViLA)]
     * **FunQA**: "FunQA: Towards Surprising Video Comprehension", arXiv, 2023 (*Beijing University of Posts and Telecommunication*). [[Paper](https://arxiv.org/abs/2306.14899)][[Code (in construction)](https://github.com/Jingkang50/FunQA)][[Website](https://funqa-benchmark.github.io/)]
     * **ProViQ**: "Zero-Shot Video Question Answering with Procedural Programs", arXiv, 2023 (*CMU*). [[Paper](https://arxiv.org/abs/2312.00937)][[Website](https://rccchoudhury.github.io/proviq2023/)]
+    * **R-VLM**: "Retrieval-based Video Language Model for Efficient Long Video Question Answering", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2312.04931)]
+    * **MoVQA**: "MoVQA: A Benchmark of Versatile Question-Answering for Long-Form Movie Understanding", arXiv, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2312.04817)][[Website](https://movqa.github.io/)]
 * 3D:
     * **3D-VQA**: "CLIP-Guided Vision-Language Pre-training for Question Answering in 3D Scenes", CVPRW, 2023 (*ETHZ*). [[Paper](https://arxiv.org/abs/2304.06061)][[Code (in construction)](https://github.com/AlexDelitzas/3D-VQA)]
     * **PO3D-VQA**: "3D-Aware Visual Question Answering about Parts, Poses and Occlusions", NeurIPS, 2023 (*JHU*). [[Paper](https://arxiv.org/abs/2310.17914)][[Code (in construction)](https://github.com/XingruiWang/3D-Aware-VQA)]
@@ -1484,6 +1486,7 @@ If you find this repository useful, please consider citing this list:
     * **OneLLM**: "OneLLM: One Framework to Align All Modalities with Language", arXiv, 2023 (*CUHK + Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2312.03700)][[PyTorch](https://github.com/csuhan/OneLLM)]
 * Visual Reasoning:
     * **BDC-Adapter**: "BDC-Adapter: Brownian Distance Covariance for Better Vision-Language Reasoning", BMVC, 2023 (*SUSTech*). [[Paper](https://arxiv.org/abs/2309.01256)]
+    * **LSKD**: "Localized Symbolic Knowledge Distillation for Visual Commonsense Models", NeurIPS, 2023 (*UW*). [[Paper](https://arxiv.org/abs/2312.04837)][[Code (in construction)](https://github.com/jamespark3922/lskd)]
     * **RPT**: "Fine-Grained Regional Prompt Tuning for Visual Abductive Reasoning", arXiv, 2023 (*A\*STAR*). [[Paper](https://arxiv.org/abs/2303.10428)]
     * **LRR**: "Look, Remember and Reason: Visual Reasoning with Grounded Rationales", arXiv, 2023 (*Qualcomm*). [[Paper](https://arxiv.org/abs/2306.17778)]
     * **SDS-CLIP**: "Augmenting CLIP with Improved Visio-Linguistic Reasoning", arXiv, 2023 (*Maryland*). [[Paper](https://arxiv.org/abs/2307.09233)]
