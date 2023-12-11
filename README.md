@@ -2006,6 +2006,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **RefineVIS**: "RefineVIS: Video Instance Segmentation with Temporal Attention Refinement", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2306.04774)]
 * **VideoCutLER**: "VideoCutLER: Surprisingly Simple Unsupervised Video Instance Segmentation", arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2308.14710)][[PyTorch](https://github.com/facebookresearch/CutLER/tree/main/videocutler)]
 * **NOVIS**: "NOVIS: A Case for End-to-End Near-Online Video Instance Segmentation", arXiv, 2023 (*TUM*). [[Paper](https://arxiv.org/abs/2308.15266)]
+* **VISAGE**: "VISAGE: Video Instance Segmentation with Appearance-Guided Enhancement", arXiv, 2023 (*Yonsei*). [[Paper](https://arxiv.org/abs/2312.04885)][[Code (in construction)](https://github.com/KimHanjung/VISAGE)]
 
 [[Back to Overview](#overview)]
 
