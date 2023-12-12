@@ -273,6 +273,7 @@ If you find this repository useful, please consider citing this list:
     * **ProViQ**: "Zero-Shot Video Question Answering with Procedural Programs", arXiv, 2023 (*CMU*). [[Paper](https://arxiv.org/abs/2312.00937)][[Website](https://rccchoudhury.github.io/proviq2023/)]
     * **R-VLM**: "Retrieval-based Video Language Model for Efficient Long Video Question Answering", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2312.04931)]
     * **MoVQA**: "MoVQA: A Benchmark of Versatile Question-Answering for Long-Form Movie Understanding", arXiv, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2312.04817)][[Website](https://movqa.github.io/)]
+    * **GroundVQA**: "Grounded Question-Answering in Long Egocentric Videos", arXiv, 2023 (*SJTU*). [[Paper](https://arxiv.org/abs/2312.06505)]
 * 3D:
     * **3D-VQA**: "CLIP-Guided Vision-Language Pre-training for Question Answering in 3D Scenes", CVPRW, 2023 (*ETHZ*). [[Paper](https://arxiv.org/abs/2304.06061)][[Code (in construction)](https://github.com/AlexDelitzas/3D-VQA)]
     * **PO3D-VQA**: "3D-Aware Visual Question Answering about Parts, Poses and Occlusions", NeurIPS, 2023 (*JHU*). [[Paper](https://arxiv.org/abs/2310.17914)][[Code (in construction)](https://github.com/XingruiWang/3D-Aware-VQA)]
@@ -531,6 +532,7 @@ If you find this repository useful, please consider citing this list:
     * **SyViC**: "Going Beyond Nouns With Vision & Language Models Using Synthetic Data", ICCV, 2023 (*IBM*). [[Paper](https://arxiv.org/abs/2303.17590)][[PyTorch](https://github.com/uvavision/SyViC)][[Website](https://synthetic-vic.github.io/)]
     * **ViLTA**: "ViLTA: Enhancing Vision-Language Pre-training through Textual Augmentation", ICCV, 2023 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2308.16689)]
     * **OPTIMA**: "Module-wise Adaptive Distillation for Multimodality Foundation Models", NeurIPS, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2310.04550)]
+    * **4M**: "4M: Massively Multimodal Masked Modeling", NeurIPS, 2023 (*EPFL*). [[Paper](https://arxiv.org/abs/2312.06647)][[Website](https://4m.epfl.ch/)]
     * **KOSMOS-1**: "Language Is Not All You Need: Aligning Perception with Language Models", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2302.14045)][[Code](https://github.com/microsoft/unilm)]
     * **Prismer**: "Prismer: A Vision-Language Model with An Ensemble of Experts", arXiv, 2023 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2303.02506)][[PyTorch](https://github.com/NVlabs/prismer)][[Website](https://shikun.io/projects/prismer)]
     * **RVLM**: "Replacement as a Self-supervision for Fine-grained Vision-language Pre-training", arXiv, 2023 (*Harbin Institute of Technology*). [[Paper](https://arxiv.org/abs/2303.05313)]
@@ -588,6 +590,7 @@ If you find this repository useful, please consider citing this list:
     * **?**: "MLLMs-Augmented Visual-Language Representation Learning", arXiv, 2023 (*NUS*). [[Paper](https://arxiv.org/abs/2311.18765)][[Code (in construction)](https://github.com/lyq312318224/MLLMs-Augmented)]
     * **Hulk**: "Hulk: A Universal Knowledge Translator for Human-Centric Tasks", arXiv, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2312.01697)][[PyTorch](https://github.com/OpenGVLab/HumanBench)]
     * **D-iGPT**: "Rejuvenating image-GPT as Strong Visual Representation Learners", arXiv, 2023 (*JHU + UC Santa Cruz*). [[Paper](https://arxiv.org/abs/2312.02147)][[PyTorch](https://github.com/OliverRensu/D-iGPT)]
+    * **Vary**: "Vary: Scaling up the Vision Vocabulary for Large Vision-Language Models", arXiv, 2023 (*Megvii*). [[Paper](https://arxiv.org/abs/2312.06109)][[PyTorch](https://github.com/Ucas-HaoranWei/Vary)][[Website](https://varybase.github.io/)]
 * Video:
     * **COOT**: "COOT: Cooperative Hierarchical Transformer for Video-Text Representation Learning", NeurIPS, 2020 (*University of Freiburg*). [[Paper](https://arxiv.org/abs/2011.00597)][[PyTorch](https://github.com/gingsi/coot-videotext)]
     * **Parameter-Reduction**: "Parameter Efficient Multimodal Transformers for Video Representation Learning", ICLR, 2021 (*Seoul National University*). [[Paper](https://openreview.net/forum?id=6UdQLhqJyFD)]
@@ -1041,6 +1044,7 @@ If you find this repository useful, please consider citing this list:
 * **SWIG**: "Beyond Sole Strength: Customized Ensembles for Generalized Vision-Language Models", arXiv, 2023 (*NUS*). [[Paper](https://arxiv.org/abs/2311.17091)][[Code (in construction)](https://github.com/zhiheLu/Ensemble_VLM)]
 * **IMProv**: "IMProv: Inpainting-based Multimodal Prompting for Computer Vision Tasks", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2312.01771)][[PyTorch](https://github.com/xvjiarui/IMProv)][[Website](https://jerryxu.net/IMProv/)]
 * **CLAMP**: "CLAMP: Contrastive LAnguage Model Prompt-tuning", arXiv, 2023 (*Boston*). [[Paper](https://arxiv.org/abs/2312.01629)]
+* **HPT**: "Learning Hierarchical Prompt with Structured Linguistic Knowledge for Vision-Language Models", AAAI, 2024 (*Tongji University*). [[Paper](https://arxiv.org/abs/2312.06323)]
 
 [[Back to Overview](#overview)]
 
@@ -1378,6 +1382,7 @@ If you find this repository useful, please consider citing this list:
     * **SQD**: "Rethinking Audiovisual Segmentation with Semantic Quantization and Decomposition", arXiv, 2023 (*CMU*). [[Paper](https://arxiv.org/abs/2310.00132)]
     * **DiffMAViL**: "Diffusion Models as Masked Audio-Video Learners", arXiv, 2023 (*Apple*). [[Paper](https://arxiv.org/abs/2310.03937)]
     * **AVIS**: "Audio-Visual Instance Segmentation", arXiv, 2023 (*Peking*). [[Paper](https://arxiv.org/abs/2310.18709)]
+    * **COMBO**: "Cooperation Does Matter: Exploring Multi-Order Bilateral Relations for Audio-Visual Segmentation", arXiv, 2023 (*CAS*). [[Paper](https://arxiv.org/abs/2312.06462)][[Code (in construction)](https://github.com/yannqi/COMBO-AVS)][[Website](https://combo-avs.github.io/)]
 * Audio Description:
     * **AutoAD**: "AutoAD: Movie Description in Context", CVPR, 2023 (*Oxford*). [[Paper](https://arxiv.org/abs/2303.16899)][[PyTorch (in construction)](https://github.com/TengdaHan/AutoAD)][[Website](https://www.robots.ox.ac.uk/~vgg/research/autoad/)][[Website](https://www.robots.ox.ac.uk/~vgg/research/autoad/)]
     * **AutoAD-II**: "AutoAD II: The Sequel - Who, When, and What in Movie Audio Description", ICCV, 2023 (*Oxford*). [[Paper](https://arxiv.org/abs/2310.06838)][[PyTorch](https://github.com/TengdaHan/AutoAD)][[Website](https://www.robots.ox.ac.uk/~vgg/research/autoad/)]
