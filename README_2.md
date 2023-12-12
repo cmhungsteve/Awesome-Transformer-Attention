@@ -355,6 +355,7 @@ If you find this repository useful, please consider citing this list:
     * **Un-Track**: "Single-Model and Any-Modality for Video Object Tracking", arXiv, 2023 (*University of Wurzburg (JMU), Germany*). [[Paper](https://arxiv.org/abs/2311.15851)][[Code (in construction)](https://github.com/Zongwei97/UnTrack)]
     * **SMAT**: "Separable Self and Mixed Attention Transformers for Efficient Object Tracking", WACV, 2024 (*Concordia University, Canada*). [[Paper](https://arxiv.org/abs/2309.03979)][[PyTorch](https://github.com/goutamyg/SMAT)]
     * **ContrasTR**: "Contrastive Learning for Multi-Object Tracking with Transformers", WACV, 2024 (*KU Leuven*). [[Paper](https://arxiv.org/abs/2311.08043)]
+    * **M3SOT**: "M3SOT: Multi-frame, Multi-field, Multi-space 3D Single Object Tracking", AAAI, 2024 (*Xidian University*). [[Paper](https://arxiv.org/abs/2312.06117)]
 * 3D:
     * **PTT**: "PTT: Point-Track-Transformer Module for 3D Single Object Tracking in Point Clouds", IROS, 2021 (*Northeastern University*). [[Paper](https://arxiv.org/abs/2108.06455)][[PyTorch (in construction)](https://github.com/shanjiayao/PTT)]
     * **LTTR**: "3D Object Tracking with Transformer", BMVC, 2021 (*Northeastern University, China*). [[Paper](https://arxiv.org/abs/2110.14921)][[Code (in construction)](https://github.com/3bobo/lttr)]
@@ -1045,6 +1046,7 @@ If you find this repository useful, please consider citing this list:
 * **VDT**: "VDT: An Empirical Study on Video Diffusion with Transformers", arXiv, 2023 (*Renmin University of China*). [[Paper](https://arxiv.org/abs/2305.13311)][[PyTorch](https://github.com/RERV/VDT)]
 * **MAGVIT-v2**: "Language Model Beats Diffusion - Tokenizer is Key to Visual Generation", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2310.05737)][[Website](https://magvit.cs.cmu.edu/v2/)]
 * **UVDv1**: "Sequential Modeling Enables Scalable Learning for Large Vision Models", arXiv, 2023 (*Berkeley*). [[Paper](https://arxiv.org/abs/2312.00785)][[Code (in construction)](https://github.com/ytongbai/LVM)][[Website](https://yutongbai.com/lvm.html)]
+* **W.A.L.T**: "Photorealistic Video Generation with Diffusion Models", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2312.06662)][[Website](https://walt-video-diffusion.github.io/)]
 
 [[Back to Overview](#overview)]
 
@@ -1990,6 +1992,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **MotionGPT**: "MotionGPT: Finetuned LLMs are General-Purpose Motion Generators", arXiv, 2023 (*USTC*). [[Paper](https://arxiv.org/abs/2306.10900)][[PyTorch (in construction)](https://github.com/qiqiApink/MotionGPT)][[Website](https://qiqiapink.github.io/MotionGPT/)]
     * **UNIMASK-M**: "A Unified Masked Autoencoder with Patchified Skeletons for Motion Synthesis", arXiv, 2023 (*Technische Universitat Wien (TUWien), Austria*). [[Paper](https://arxiv.org/abs/2308.07301)][[Website](https://sites.google.com/view/estevevallsmascaro/publications/unimask-m)]
     * **MMM**: "MMM: Generative Masked Motion Model", arXiv, 2023 (*UNC*). [[Paper](https://arxiv.org/abs/2312.03596)][[Code (in construction)](https://github.com/exitudio/MMM/)][[Website](https://exitudio.github.io/MMM-page/)]
+    * **HOI-Diff**: "HOI-Diff: Text-Driven Synthesis of 3D Human-Object Interactions using Diffusion Models", arXiv, 2023 (*Northeastern*). [[Paper](https://arxiv.org/abs/2312.06553)][[Website](https://neu-vi.github.io/HOI-Diff/)]
 * 3D Object Recognition:
     * **MVT**: "MVT: Multi-view Vision Transformer for 3D Object Recognition", BMVC, 2021 (*Baidu*). [[Paper](https://arxiv.org/abs/2110.13083)]
 * 3D Reconstruction:
