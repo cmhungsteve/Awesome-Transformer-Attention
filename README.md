@@ -1229,6 +1229,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **RegionSpot**: "Recognize Any Regions", arXiv, 2023 (*University Of Surrey, England*). [[Paper](https://arxiv.org/abs/2311.01373)][[Code (in construction)](https://github.com/Surrey-UPLab/Recognize-Any-Regions)]
     * **DECOLA**: "Language-conditioned Detection Transformer", arXiv, 2023 (*UT Austin*). [[Paper](https://arxiv.org/abs/2311.17902)][[PyTorch](https://github.com/janghyuncho/DECOLA)]
     * **PLAC**: "Learning Pseudo-Labeler beyond Noun Concepts for Open-Vocabulary Object Detection", arXiv, 2023 (*Kakao*). [[Paper](https://arxiv.org/abs/2312.02103)]
+    * **FOMO**: "Open World Object Detection in the Era of Foundation Models", arXiv, 2023 (*Stanford*). [[Paper](https://arxiv.org/abs/2312.05745)][[Website](https://orrzohar.github.io/projects/fomo/)]
     * **LP-OVOD**: "LP-OVOD: Open-Vocabulary Object Detection by Linear Probing", WACV, 2024 (*VinAI, Vietnam*). [[Paper](https://arxiv.org/abs/2310.17109)]
 * Pedestrian Detection:
     * **PED**: "DETR for Crowd Pedestrian Detection", arXiv, 2020 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2012.06785)][[PyTorch](https://github.com/Hatmm/PED-DETR-for-Pedestrian-Detection)]
@@ -1453,6 +1454,9 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **DINOv**: "Visual In-Context Prompting", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2311.13601)][[Code (in construction)](https://github.com/UX-Decoder/DINOv)]
     * **Stable-SAM**: "Stable Segment Anything Model", arXiv, 2023 (*Kuaishou*). [[Paper](https://arxiv.org/abs/2311.15776)][[Code (in construction)](https://github.com/fanq15/Stable-SAM)]
     * **EfficientSAM**: "EfficientSAM: Leveraged Masked Image Pretraining for Efficient Segment Anything", arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2312.00863)]
+    * **EdgeSAM**: "EdgeSAM: Prompt-In-the-Loop Distillation for On-Device Deployment of SAM", arXiv, 2023 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2312.06660)][[PyTorch](https://github.com/chongzhou96/EdgeSAM)][[Website](https://mmlab-ntu.github.io/project/edgesam/)]
+    * **RepViT-SAM**: "RepViT-SAM: Towards Real-Time Segmenting Anything", arXiv, 2023 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2312.05760)][[PyTorch](https://github.com/THU-MIG/RepViT)]
+    * **SlimSAM**: "0.1% Data Makes Segment Anything Slim", arXiv, 2023 (*NUS*). [[Paper](https://arxiv.org/abs/2312.05284)][[PyTorch](https://github.com/czg1225/SlimSAM)]
 * Vision-Language:
     * **LSeg**: "Language-driven Semantic Segmentation", ICLR, 2022 (*Cornell*). [[Paper](https://arxiv.org/abs/2201.03546)][[PyTorch](https://github.com/isl-org/lang-seg)]
     * **ZegFormer**: "Decoupling Zero-Shot Semantic Segmentation", CVPR, 2022 (*Wuhan University*). [[Paper](https://arxiv.org/abs/2112.07910)][[PyTorch](https://github.com/dingjiansw101/ZegFormer)]
@@ -1842,6 +1846,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **ZeroI2V**: "ZeroI2V: Zero-Cost Adaptation of Pre-trained Transformers from Image to Video", arXiv, 2023 (*Nanjing University*). [[Paper](https://arxiv.org/abs/2310.01324)]
     * **MV-Former**: "Multi-entity Video Transformers for Fine-Grained Video Representation Learning", arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2311.10873)][[PyTorch](https://github.com/facebookresearch/video_rep_learning)]
     * **GeoDeformer**: "GeoDeformer: Geometric Deformable Transformer for Action Recognition", arXiv, 2023 (*HKUST*). [[Paper](https://arxiv.org/abs/2311.17975)]
+    * **Early-ViT**: "Early Action Recognition with Action Prototypes", arXiv, 2023 (*Amazon*). [[Paper](https://arxiv.org/abs/2312.06598)]
 * Depth:
     * **Trear**: "Trear: Transformer-based RGB-D Egocentric Action Recognition",  IEEE Transactions on Cognitive and Developmental Systems, 2021 (*Tianjing University*). [[Paper](https://ieeexplore.ieee.org/document/9312201)]
 * Pose/Skeleton:
@@ -2000,6 +2005,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **CTVIS**: "CTVIS: Consistent Training for Online Video Instance Segmentation", ICCV, 2023 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2307.12616)][[PyTorch](https://github.com/KainingYing/CTVIS)]
 * **TCOVIS**: "TCOVIS: Temporally Consistent Online Video Instance Segmentation", ICCV, 2023 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2309.11857)][[Code (in construction)](https://github.com/jun-long-li/TCOVIS)]
 * **DVIS**: "DVIS: Decoupled Video Instance Segmentation Framework", ICCV, 2023 (*Wuhan University*). [[Paper](https://arxiv.org/abs/2306.03413)][[PyTorch](https://github.com/zhang-tao-whu/DVIS)]
+* **TMT-VIS**: "TMT-VIS: Taxonomy-aware Multi-dataset Joint Training for Video Instance Segmentation", NeurIPS, 2023 (*HKU*). [[Paper](https://arxiv.org/abs/2312.06630)][[Code (in construction)](https://github.com/rkzheng99/TMT-VIS)]
 * **BoxVIS**: "BoxVIS: Video Instance Segmentation with Box Annotations", arXiv, 2023 (*Hong Kong Polytechnic University*). [[Paper](https://arxiv.org/abs/2303.14618)][[Code (in construction)](https://github.com/MinghanLi/BoxVIS)]
 * **OW-VISFormer**: "Video Instance Segmentation in an Open-World", arXiv, 2023 (*MBZUAI*). [[Paper](https://arxiv.org/abs/2304.01200)][[Code (in construction)](https://github.com/OmkarThawakar/OWVISFormer)]
 * **GRAtt-VIS**: "GRAtt-VIS: Gated Residual Attention for Auto Rectifying Video Instance Segmentation", arXiv, 2023 (*LMU Munich*). [[Paper](https://arxiv.org/abs/2305.17096)][[Code (in construction)](https://github.com/Tanveer81/GRAttVIS)]
