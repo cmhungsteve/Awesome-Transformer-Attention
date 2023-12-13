@@ -1231,6 +1231,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **PLAC**: "Learning Pseudo-Labeler beyond Noun Concepts for Open-Vocabulary Object Detection", arXiv, 2023 (*Kakao*). [[Paper](https://arxiv.org/abs/2312.02103)]
     * **FOMO**: "Open World Object Detection in the Era of Foundation Models", arXiv, 2023 (*Stanford*). [[Paper](https://arxiv.org/abs/2312.05745)][[Website](https://orrzohar.github.io/projects/fomo/)]
     * **LP-OVOD**: "LP-OVOD: Open-Vocabulary Object Detection by Linear Probing", WACV, 2024 (*VinAI, Vietnam*). [[Paper](https://arxiv.org/abs/2310.17109)]
+    * **ProxyDet**: "ProxyDet: Synthesizing Proxy Novel Classes via Classwise Mixup for Open Vocabulary Object Detection", WACV, 2024 (*NAVER*). [[Paper](https://arxiv.org/abs/2312.07266)]
 * Pedestrian Detection:
     * **PED**: "DETR for Crowd Pedestrian Detection", arXiv, 2020 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2012.06785)][[PyTorch](https://github.com/Hatmm/PED-DETR-for-Pedestrian-Detection)]
     * **?**: "Effectiveness of Vision Transformer for Fast and Accurate Single-Stage Pedestrian Detection", NeurIPS, 2022 (*ICL*). [[Paper](https://openreview.net/forum?id=eow_ZGaw24j)]
@@ -1457,6 +1458,8 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **EdgeSAM**: "EdgeSAM: Prompt-In-the-Loop Distillation for On-Device Deployment of SAM", arXiv, 2023 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2312.06660)][[PyTorch](https://github.com/chongzhou96/EdgeSAM)][[Website](https://mmlab-ntu.github.io/project/edgesam/)]
     * **RepViT-SAM**: "RepViT-SAM: Towards Real-Time Segmenting Anything", arXiv, 2023 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2312.05760)][[PyTorch](https://github.com/THU-MIG/RepViT)]
     * **SlimSAM**: "0.1% Data Makes Segment Anything Slim", arXiv, 2023 (*NUS*). [[Paper](https://arxiv.org/abs/2312.05284)][[PyTorch](https://github.com/czg1225/SlimSAM)]
+    * **FIND**: "Interfacing Foundation Models' Embeddings", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2312.07532)][[PyTorch (in construction)](https://github.com/UX-Decoder/FIND)][[Website](https://x-decoder-vl.github.io/)]
+    * **SqueezeSAM**: "SqueezeSAM: User-friendly mobile interactive segmentation", arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2312.06736)]
 * Vision-Language:
     * **LSeg**: "Language-driven Semantic Segmentation", ICLR, 2022 (*Cornell*). [[Paper](https://arxiv.org/abs/2201.03546)][[PyTorch](https://github.com/isl-org/lang-seg)]
     * **ZegFormer**: "Decoupling Zero-Shot Semantic Segmentation", CVPR, 2022 (*Wuhan University*). [[Paper](https://arxiv.org/abs/2112.07910)][[PyTorch](https://github.com/dingjiansw101/ZegFormer)]
@@ -1536,6 +1539,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **Sambor**: "Boosting Segment Anything Model Towards Open-Vocabulary Learning", arXiv, 2023 (*Huawei*). [[Paper](https://arxiv.org/abs/2312.03628)][[Code (in construction)](https://github.com/ucas-vg/Sambor)]
     * **SCAN**: "Open-Vocabulary Segmentation with Semantic-Assisted Calibration", arXiv, 2023 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2312.04089)][[Code (in construction)](https://github.com/workforai/SCAN)]
     * **Self-Seg**: "Self-Guided Open-Vocabulary Semantic Segmentation", arXiv, 2023 (*UvA*). [[Paper](https://arxiv.org/abs/2312.04539)]
+    * **OpenSD**: "OpenSD: Unified Open-Vocabulary Segmentation and Detection", arXiv, 2023 (*OPPO*). [[Paper](https://arxiv.org/abs/2312.06703)]
 * Universal Segmentation:
     * **K-Net**: "K-Net: Towards Unified Image Segmentation", NeurIPS, 2021 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2106.14855)][[PyTorch](https://github.com/ZwwWayne/K-Net/)]
     * **Mask2Former**: "Masked-attention Mask Transformer for Universal Image Segmentation", CVPR, 2022 (*Meta*). [[Paper](https://arxiv.org/abs/2112.01527)][[PyTorch](https://github.com/facebookresearch/Mask2Former)][[Website](https://bowenc0221.github.io/mask2former/)]
