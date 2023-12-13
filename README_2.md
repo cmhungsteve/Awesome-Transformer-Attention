@@ -639,6 +639,7 @@ If you find this repository useful, please consider citing this list:
     * **ReCLIP**: "ReCLIP: Refine Contrastive Language Image Pre-Training with Source Free Domain Adaptation", arXiv, 2023 (*Amazon*). [[Paper](https://arxiv.org/abs/2308.03793)]
     * **VPA**: "VPA: Fully Test-Time Visual Prompt Adaptation", arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2309.15251)]
     * **FedTPG**: "Text-driven Prompt Generation for Vision-Language Models in Federated Learning", arXiv, 2023 (*Bosch*). [[Paper](https://arxiv.org/abs/2310.06123)]
+    * **FedLGT**: "Language-Guided Transformer for Federated Multi-Label Classification", AAAI, 2024 (*NTU*). [[Paper](https://arxiv.org/abs/2312.07165)][[Code (in construction)](https://github.com/Jack24658735/FedLGT)]
 * X-Supervised:
     * **Semiformer**: "Semi-Supervised Vision Transformers", ECCV, 2022 (*Fudan University*). [[Paper](https://arxiv.org/abs/2111.11067)][[PyTorch](https://github.com/wengzejia1/Semiformer)]
     * **SVL-Adapter**: "SVL-Adapter: Self-Supervised Adapter for Vision-Language Pretrained Models", BMVC, 2022 (*UCL*). [[Paper](https://arxiv.org/abs/2210.03794)][[Code (in construction)](https://github.com/omipan/svl_adapter)]
@@ -750,6 +751,7 @@ If you find this repository useful, please consider citing this list:
     * **TinyCLIP**: "TinyCLIP: CLIP Distillation via Affinity Mimicking and Weight Inheritance", ICCV, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2309.12314)][[PyTorch](https://github.com/microsoft/Cream/tree/main/TinyCLIP)]
     * **DIME-FM**: "DIME-FM: DIstilling Multimodal and Efficient Foundation Models", ICCV, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2303.18232)]
     * **MaskedKD**: "MaskedKD: Efficient Distillation of Vision Transformers with Masked Images", arXiv, 2023 (*POSTECH*). [[Paper](https://arxiv.org/abs/2302.10494)]
+    * **AM-RADIO**: "AM-RADIO: Agglomerative Model -- Reduce All Domains Into One", arXiv, 2023 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2312.06709)]
 * Clustering:
     * **VTCC**: "Vision Transformer for Contrastive Clustering", arXiv, 2022 (*Sun Yat-sen University, China*). [[Paper](https://arxiv.org/abs/2206.12925)]
 * Novel Category Discovery:
@@ -1894,6 +1896,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **ADriver-I**: "ADriver-I: A General World Model for Autonomous Driving", arXiv, 2023 (*Megvii*). [[Paper](https://arxiv.org/abs/2311.13549)]
     * **OccWorld**: "OccWorld: Learning a 3D Occupancy World Model for Autonomous Driving", arXiv, 2023 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2311.16038)][[PyTorch](https://github.com/wzzheng/OccWorld)][[Website](https://wzzheng.net/OccWorld/)]
     * **Dolphins**: "Dolphins: Multimodal Language Model for Driving", arXiv, 2023 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2312.00438)][[Code (in construction)](https://github.com/vlm-driver/Dolphins)][[Website](https://vlm-driver.github.io/)]
+    * **LMDrive**: "LMDrive: Closed-Loop End-to-End Driving with Large Language Models", arXiv, 2023 (*CUHK*). [[Paper](https://arxiv.org/abs/2312.07488)]
 * Trajectory Prediction:
     * **mmTransformer**: "Multimodal Motion Prediction with Stacked Transformers", CVPR, 2021 (*CUHK + SenseTime*). [[Paper](https://arxiv.org/abs/2103.11624)][[Code (in construction)](https://github.com/decisionforce/mmTransformer)][[Website](https://decisionforce.github.io/mmTransformer/)]
     * **AgentFormer**: "AgentFormer: Agent-Aware Transformers for Socio-Temporal Multi-Agent Forecasting", ICCV, 2021 (*CMU*). [[Paper](https://arxiv.org/abs/2103.14023)][[PyTorch](https://github.com/Khrylx/AgentFormer)][[Website](https://www.ye-yuan.com/agentformer/)]
