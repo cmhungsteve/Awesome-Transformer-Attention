@@ -592,6 +592,7 @@ If you find this repository useful, please consider citing this list:
     * **Hulk**: "Hulk: A Universal Knowledge Translator for Human-Centric Tasks", arXiv, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2312.01697)][[PyTorch](https://github.com/OpenGVLab/HumanBench)]
     * **D-iGPT**: "Rejuvenating image-GPT as Strong Visual Representation Learners", arXiv, 2023 (*JHU + UC Santa Cruz*). [[Paper](https://arxiv.org/abs/2312.02147)][[PyTorch](https://github.com/OliverRensu/D-iGPT)]
     * **Vary**: "Vary: Scaling up the Vision Vocabulary for Large Vision-Language Models", arXiv, 2023 (*Megvii*). [[Paper](https://arxiv.org/abs/2312.06109)][[PyTorch](https://github.com/Ucas-HaoranWei/Vary)][[Website](https://varybase.github.io/)]
+    * **VILA**: "VILA: On Pre-training for Visual Language Models", arXiv, 2023 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2312.07533)]
 * Video:
     * **COOT**: "COOT: Cooperative Hierarchical Transformer for Video-Text Representation Learning", NeurIPS, 2020 (*University of Freiburg*). [[Paper](https://arxiv.org/abs/2011.00597)][[PyTorch](https://github.com/gingsi/coot-videotext)]
     * **Parameter-Reduction**: "Parameter Efficient Multimodal Transformers for Video Representation Learning", ICLR, 2021 (*Seoul National University*). [[Paper](https://openreview.net/forum?id=6UdQLhqJyFD)]
@@ -653,6 +654,8 @@ If you find this repository useful, please consider citing this list:
     * **Vamos**: "Vamos: Versatile Action Models for Video Understanding", arXiv, 2023 (*Brown*). [[Paper](https://arxiv.org/abs/2311.13627)][[Website](https://brown-palm.github.io/Vamos/)]
     * **EILEV**: "Efficient In-Context Learning in Vision-Language Models for Egocentric Videos", arXiv, 2023 (*UMich*). [[Paper](https://arxiv.org/abs/2311.17041)]
     * **E-ViLM**: "E-ViLM: Efficient Video-Language Model via Masked Video Modeling with Semantic Vector-Quantized Tokenizer", arXiv, 2023 (*Amazon*). [[Paper](https://arxiv.org/abs/2311.17267)]
+    * **?**: "A Simple Recipe for Contrastively Pre-training Video-First Encoders Beyond 16 Frames", arXiv, 2023 (*DeepMind*). [[Paper](https://arxiv.org/abs/2312.07395)]
+    * **READ-PVLA**: "READ-PVLA: Recurrent Adapter with Partial Video-Language Alignment for Parameter-Efficient Transfer Learning in Low-Resource Video-Language Modeling", AAAI, 2024 (*NUS*). [[Paper](https://arxiv.org/abs/2312.06950)]
 * 3D:
     * **CLIP<sup>2</sup>**: "CLIP<sup>2</sup>: Contrastive Language-Image-Point Pretraining from Real-World Point Cloud Data", CVPR, 2023 (*Huawei*). [[Paper](https://arxiv.org/abs/2303.12417)]
     * **3D-VLP**: "Context-aware Alignment and Mutual Masking for 3D-Language Pre-training", CVPR, 2023 (*Sichuan University*). [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Jin_Context-Aware_Alignment_and_Mutual_Masking_for_3D-Language_Pre-Training_CVPR_2023_paper.html)][[PyTorch](https://github.com/leolyj/3D-VLP)]
@@ -914,6 +917,7 @@ If you find this repository useful, please consider citing this list:
     * **VideoBooth**: "VideoBooth: Diffusion-based Video Generation with Image Prompts", arXiv, 2023 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2312.00777)][[Code (in construction)](https://github.com/Vchitect/VideoBooth)][[Website](https://vchitect.github.io/VideoBooth-project/)]
     * **VideoSwap**: "VideoSwap: Customized Video Subject Swapping with Interactive Semantic Point Correspondence", arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2312.02087)][[Code (in construction)](https://github.com/showlab/VideoSwap)][[Website](https://videoswap.github.io/)]
     * **LEGO**: "LEGO: Learning EGOcentric Action Frame Generation via Visual Instruction Tuning", arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2312.03849)]
+    * **GenHowTo**: "GenHowTo: Learning to Generate Actions and State Transformations from Instructional Videos", arXiv, 2023 (*Czech Technical University*). [[Paper](https://arxiv.org/abs/2312.07322)][[Website](https://soczech.github.io/genhowto/)]
 * 3D:
     * **Magic3D**: "Magic3D: High-Resolution Text-to-3D Content Creation", CVPR, 2023 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2211.10440)][[Website](https://research.nvidia.com/labs/dir/magic3d/)]
     * **CLIP-Sculptor**: "CLIP-Sculptor: Zero-Shot Generation of High-Fidelity and Diverse Shapes from Natural Language", CVPR, 2023 (*Autodesk*). [[Paper](https://arxiv.org/abs/2211.01427)][[Website](https://ivl.cs.brown.edu/#/projects/clip-sculptor)]
@@ -1468,6 +1472,7 @@ If you find this repository useful, please consider citing this list:
     * **X-InstructBLIP**: "X-InstructBLIP: A Framework for aligning X-Modal instruction-aware representations to LLMs and Emergent Cross-modal Reasoning", arXiv, 2023 (*Salesforce*). [[Paper](https://arxiv.org/abs/2311.18799)]
     * **ViP-LLaVA**: "Making Large Multimodal Models Understand Arbitrary Visual Prompts", arXiv, 2023 (*Cruise*). [[Paper](https://arxiv.org/abs/2312.00784)][[PyTorch](https://github.com/mu-cai/vip-llava)][[Website](https://vip-llava.github.io/)]
     * **Prompt-Highlighter**: "Prompt Highlighter: Interactive Control for Multi-Modal LLMs", arXiv, 2023 (*CUHK*). [[Paper](https://arxiv.org/abs/2312.04302)][[PyTorch](https://github.com/dvlab-research/Prompt-Highlighter/)][[Website](https://julianjuaner.github.io/projects/PromptHighlighter/)]
+    * **Honeybee**: "Honeybee: Locality-enhanced Projector for Multimodal LLM", arXiv, 2023 (*Kakao*). [[Paper](https://arxiv.org/abs/2312.06742)][[Code (in construction)](https://github.com/kakaobrain/honeybee)]
 * Conversation (Video):
     * **Video-ChatCaptioner**: "Video ChatCaptioner: Towards the Enriched Spatiotemporal Descriptions", arXiv, 2023 (*KAUST*). [[Paper](https://arxiv.org/abs/2304.04227)][[PyTorch](https://github.com/Vision-CAIR/ChatCaptioner)]
     * **ChatVideo**: "ChatVideo: A Tracklet-centric Multimodal and Versatile Video Understanding System", arXiv, 2023 (*Fudan*). [[Paper](https://arxiv.org/abs/2304.14407)][[Website](https://www.wangjunke.info/ChatVideo/)]
@@ -1484,6 +1489,7 @@ If you find this repository useful, please consider citing this list:
     * **Merlin**: "Merlin: Empowering Multimodal LLMs with Foresight Minds", arXiv, 2023 (*Huazhong University of Science and Technology*). [[Paper](https://arxiv.org/abs/2312.00589)]
     * **TimeChat**: "TimeChat: A Time-sensitive Multimodal Large Language Model for Long Video Understanding", arXiv, 2023 (*Peking*). [[Paper](https://arxiv.org/abs/2312.02051)][[Code (in construction)](https://github.com/RenShuhuai-Andy/TimeChat)]
     * **VaQuitA**: "VaQuitA: Enhancing Alignment in LLM-Assisted Video Understanding", arXiv, 2023 (*Adobe*). [[Paper](https://arxiv.org/abs/2312.02310)]
+    * **?**: "Audio-Visual LLM for Video Understanding", arXiv, 2023 (*Alibaba*). [[Paper](https://arxiv.org/abs/2312.06720)]
 * Conversation (3D):
     * **3D-LLM**: "3D-LLM: Injecting the 3D World into Large Language Models", arXiv, 2023 (*UCLA*). [[Paper](https://arxiv.org/abs/2307.12981)][[PyTorch (in construction)](https://github.com/UMass-Foundation-Model/3D-LLM)][[Website](https://vis-www.cs.umass.edu/3dllm/)]
     * **Chat-3D**: "Chat-3D: Data-efficiently Tuning Large Language Model for Universal Dialogue of 3D Scenes", arXiv, 2023 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2308.08769)][[PyTorch](https://github.com/Chat-3D/Chat-3D)][[Website](https://chat-3d.github.io/)]
