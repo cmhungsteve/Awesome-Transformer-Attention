@@ -274,6 +274,7 @@ If you find this repository useful, please consider citing this list:
     * **R-VLM**: "Retrieval-based Video Language Model for Efficient Long Video Question Answering", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2312.04931)]
     * **MoVQA**: "MoVQA: A Benchmark of Versatile Question-Answering for Long-Form Movie Understanding", arXiv, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2312.04817)][[Website](https://movqa.github.io/)]
     * **GroundVQA**: "Grounded Question-Answering in Long Egocentric Videos", arXiv, 2023 (*SJTU*). [[Paper](https://arxiv.org/abs/2312.06505)]
+    * **VLAP**: "VLAP: Efficient Video-Language Alignment via Frame Prompting and Distilling for Video Question Answering", arXiv, 2023 (*Amazon*). [[Paper](https://arxiv.org/abs/2312.08367)]
 * 3D:
     * **3D-VQA**: "CLIP-Guided Vision-Language Pre-training for Question Answering in 3D Scenes", CVPRW, 2023 (*ETHZ*). [[Paper](https://arxiv.org/abs/2304.06061)][[Code (in construction)](https://github.com/AlexDelitzas/3D-VQA)]
     * **PO3D-VQA**: "3D-Aware Visual Question Answering about Parts, Poses and Occlusions", NeurIPS, 2023 (*JHU*). [[Paper](https://arxiv.org/abs/2310.17914)][[Code (in construction)](https://github.com/XingruiWang/3D-Aware-VQA)]
@@ -1050,6 +1051,7 @@ If you find this repository useful, please consider citing this list:
 * **IMProv**: "IMProv: Inpainting-based Multimodal Prompting for Computer Vision Tasks", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2312.01771)][[PyTorch](https://github.com/xvjiarui/IMProv)][[Website](https://jerryxu.net/IMProv/)]
 * **CLAMP**: "CLAMP: Contrastive LAnguage Model Prompt-tuning", arXiv, 2023 (*Boston*). [[Paper](https://arxiv.org/abs/2312.01629)]
 * **HPT**: "Learning Hierarchical Prompt with Structured Linguistic Knowledge for Vision-Language Models", AAAI, 2024 (*Tongji University*). [[Paper](https://arxiv.org/abs/2312.06323)]
+* **LAMM**: "LAMM: Label Alignment for Multi-Modal Prompt Learning", AAAI, 2024 (*SJTU*). [[Paper](https://arxiv.org/abs/2312.08212)][[Code (in construction)](https://github.com/gaojingsheng/LAMM)]
 
 [[Back to Overview](#overview)]
 
@@ -1171,6 +1173,8 @@ If you find this repository useful, please consider citing this list:
     * **SSC**: "Segment, Select, Correct: A Framework for Weakly-Supervised Referring Segmentation", arXiv, 2023 (*Five AI, UK*). [[Paper](https://arxiv.org/abs/2310.13479)]
     * **Omni-RES**: "Towards Omni-supervised Referring Expression Segmentation", arXiv, 2023 (*Xiamen University*). [[Paper](https://arxiv.org/abs/2311.00397)]
     * **BTMAE**: "Synchronizing Vision and Language: Bidirectional Token-Masking AutoEncoder for Referring Image Segmentation", arXiv, 2023 (*Yonsei*). [[Paper](https://arxiv.org/abs/2311.17952)]
+    * **SESAME**: "See, Say, and Segment: Teaching LMMs to Overcome False Premises", arXiv, 2023 (*Berkeley*). [[Paper](https://arxiv.org/abs/2312.08366)][[Code (in construction)](https://github.com/see-say-segment/sesame)][[Website](https://see-say-segment.github.io/)]
+    * **MRES**: "Unveiling Parts Beyond Objects: Towards Finer-Granularity Referring Expression Segmentation", arXiv, 2023 (*CAS*). [[Paper](https://arxiv.org/abs/2312.08007)][[Code (in construction)](https://github.com/Rubics-Xuan/MRES)]
 * Referring Video Segmentation:
     * **ReferFormer**: "Language as Queries for Referring Video Object Segmentation", CVPR, 2022 (*HKU*). [[Paper](https://arxiv.org/abs/2201.00487)][[PyTorch](https://github.com/wjn922/ReferFormer)]
     * **MTTR**: "End-to-End Referring Video Object Segmentation with Multimodal Transformers", CVPR, 2022 (*Technion - Israel Institute of Technology*). [[Paper](https://arxiv.org/abs/2111.14821)][[PyTorch](https://github.com/mttr2021/MTTR)]
@@ -1493,6 +1497,7 @@ If you find this repository useful, please consider citing this list:
 * Conversation (3D):
     * **3D-LLM**: "3D-LLM: Injecting the 3D World into Large Language Models", arXiv, 2023 (*UCLA*). [[Paper](https://arxiv.org/abs/2307.12981)][[PyTorch (in construction)](https://github.com/UMass-Foundation-Model/3D-LLM)][[Website](https://vis-www.cs.umass.edu/3dllm/)]
     * **Chat-3D**: "Chat-3D: Data-efficiently Tuning Large Language Model for Universal Dialogue of 3D Scenes", arXiv, 2023 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2308.08769)][[PyTorch](https://github.com/Chat-3D/Chat-3D)][[Website](https://chat-3d.github.io/)]
+    * **Chat-3D-v2**: "Chat-3D v2: Bridging 3D Scene and Large Language Models with Object Identifiers", arXiv, 2023 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2312.08168)][[Code (in construction)](https://github.com/Chat-3D/Chat-3D-v2)]
 * Conversation (Multi):
     * **AnyMAL**: "AnyMAL: An Efficient and Scalable Any-Modality Augmented Language Model", arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2309.16058)]
     * **OneLLM**: "OneLLM: One Framework to Align All Modalities with Language", arXiv, 2023 (*CUHK + Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2312.03700)][[PyTorch](https://github.com/csuhan/OneLLM)]
