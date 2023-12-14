@@ -1069,6 +1069,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **STEMD**: "Spatial-Temporal Enhanced Transformer Towards Multi-Frame 3D Object Detection", arXiv, 2023 (*CUHK*). [[Paper](https://arxiv.org/abs/2307.00347)][[Code (in construction)(https://github.com/Eaphan/STEMD)]]
 * **V-DETR**: "V-DETR: DETR with Vertex Relative Position Encoding for 3D Object Detection", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2308.04409)][[Code (in construction)](https://github.com/yichaoshen-MS/V-DETR)]
 * **3DiffTection**: "3DiffTection: 3D Object Detection with Geometry-Aware Diffusion Features", arXiv, 2023 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2311.04391)][[Code (in construction)](https://github.com/nv-tlabs/3DiffTection)][[Website](https://research.nvidia.com/labs/toronto-ai/3difftection/)]
+* **PTT**: "PTT: Point-Trajectory Transformer for Efficient Temporal 3D Object Detection", arXiv, 2023 (*UC Merced*). [[Paper](https://arxiv.org/abs/2312.08371)][[Code (in construction)](https://github.com/kuanchihhuang/PTT)]
 
 [[Back to Overview](#overview)]
 
@@ -1491,6 +1492,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **SAM-CLIP**: "SAM-CLIP: Merging Vision Foundation Models towards Semantic and Spatial Understanding", arXiv, 2023 (*Apple*). [[Paper](https://arxiv.org/abs/2310.15308)]
     * **GEM**: "Grounding Everything: Emerging Localization Properties in Vision-Language Transformers", arXiv, 2023 (*University of Bonn, Germany*). [[Paper](https://arxiv.org/abs/2312.00878)][[PyTorch](https://github.com/WalBouss/GEM)]
     * **PixelLM**: "PixelLM: Pixel Reasoning with Large Multimodal Model", arXiv, 2023 (*ByteDance*). [[Paper](https://arxiv.org/abs/2312.02228)][[Code (in construction)](https://github.com/MaverickRen/PixelLM)][[Website](https://pixellm.github.io/)]
+    * **CaR**: "CLIP as RNN: Segment Countless Visual Concepts without Training Endeavor", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2312.07661)][[Code (in construction)](https://github.com/kevin-ssy/CLIP_as_RNN)][[Website](https://torrvision.com/clip_as_rnn/)]
 * Open-World/Vocabulary:
     * **ViL-Seg**: "Open-world Semantic Segmentation via Contrasting and Clustering Vision-Language Embedding", ECCV, 2022 (*CUHK*). [[Paper](https://arxiv.org/abs/2207.08455)]
     * **OVSS**: "A Simple Baseline for Open Vocabulary Semantic Segmentation with Pre-trained Vision-language Model", ECCV, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2112.14757)][[PyTorch](https://github.com/MendelXu/zsseg.baseline)]
@@ -1718,6 +1720,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **OneFormer3D**: "OneFormer3D: One Transformer for Unified Point Cloud Segmentation", arXiv, 2023 (*Samsung*). [[Paper](https://arxiv.org/abs/2311.14405)]
     * **SAGA**: "Segment Any 3D Gaussians", arXiv, 2023 (*SJTU*). [[Paper](https://arxiv.org/abs/2312.00860)][[Code (in construction)](https://github.com/Jumpat/SegAnyGAussians)][[Website](https://jumpat.github.io/SAGA/)]
     * **SANeRF-HQ**: "SANeRF-HQ: Segment Anything for NeRF in High Quality", arXiv, 2023 (*HKUST*). [[Paper](https://arxiv.org/abs/2312.01531)][[Code (in construction)](https://github.com/lyclyc52/SANeRF-HQ)][[Website](https://lyclyc52.github.io/SANeRF-HQ/)]
+    * **SAM-Graph**: "SAM-guided Graph Cut for 3D Instance Segmentation", arXiv, 2023 (*Zhejiang*). [[Paper](https://arxiv.org/abs/2312.08372)][[Code (in construction)](https://github.com/zju3dv/SAM-Graph)][[Website](https://zju3dv.github.io/sam_graph/)]
 * Multi-Task:
     * **InvPT**: "Inverted Pyramid Multi-task Transformer for Dense Scene Understanding", ECCV, 2022 (*HKUST*). [[Paper](https://arxiv.org/abs/2203.07997)][[PyTorch](https://github.com/prismformore/Multi-Task-Transformer)]
     * **MTFormer**: "MTFormer: Multi-task Learning via Transformer and Cross-Task Reasoning", ECCV, 2022 (*CUHK*). [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/1353_ECCV_2022_paper.php)]
@@ -2123,6 +2126,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **Spacewalk-18**: "Spacewalk-18: A Benchmark for Multimodal and Long-form Procedural Video Understanding in Novel Domains", arXiv, 2023 (*Brown*). [[Paper](https://arxiv.org/abs/2311.18773)][[Website](https://brown-palm.github.io/Spacewalk-18/)]
     * **OST**: "OST: Refining Text Knowledge with Optimal Spatio-Temporal Descriptor for General Video Recognition", arXiv, 2023 (*Hunan University (HNU)*). [[Paper](https://arxiv.org/abs/2312.00096)][[Code (in construction)](https://github.com/tomchen-ctj/OST)][[Website](https://tomchen-ctj.github.io/OST/)]
     * **AP-CLIP**: "Generating Action-conditioned Prompts for Open-vocabulary Video Action Recognition", arXiv, 2023 (*Xi'an Jiaotong*). [[Paper](https://arxiv.org/abs/2312.02226)]
+    * **EZ-CLIP**: "EZ-CLIP: Efficient Zeroshot Video Action Recognition", arXiv, 2023 (*Østfold University College, Norway*). [[Paper](https://arxiv.org/abs/2312.08010)][[PyTorch (in construction)](https://github.com/Shahzadnit/EZ-CLIP)]
 * X-supervised Learning:
     * **LSTCL**: "Long-Short Temporal Contrastive Learning of Video Transformers", CVPR, 2022 (*Facebook*). [[Paper](https://arxiv.org/abs/2106.09212)]
     * **SVT**: "Self-supervised Video Transformer", CVPR, 2022 (*Stony Brook*). [[Paper](https://arxiv.org/abs/2112.01514)][[PyTorch](https://github.com/kahnchana/svt)][[Website](https://kahnchana.github.io/svt/)]
@@ -2149,8 +2153,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **LSTA**: "Efficient Long-Short Temporal Attention Network for Unsupervised Video Object Segmentation", arXiv, 2023 (*Hangzhou Dianzi University*). [[Paper](https://arxiv.org/abs/2309.11707)]
     * **DoRA**: "Is ImageNet worth 1 video? Learning strong image encoders from 1 long unlabelled video", arXiv, 2023 (*INRIA*). [[Paper](https://arxiv.org/abs/2310.08584)]
     * **AMD**: "Asymmetric Masked Distillation for Pre-Training Small Foundation Models", arXiv, 2023 (*Nanjing University*). [[Paper](https://arxiv.org/abs/2311.03149)]
-    * **SSL-UVOS**: "Betrayed by Attention: A Simple yet Effective Approach for Self-supervised Video Object Segmentation", arXiv, 2023 (*CUHK*). [[Paper](https://arxiv.org/abs/2311.17893)] 
-
+    * **SSL-UVOS**: "Betrayed by Attention: A Simple yet Effective Approach for Self-supervised Video Object Segmentation", arXiv, 2023 (*CUHK*). [[Paper](https://arxiv.org/abs/2311.17893)]
 * X-shot:
     * **ResT**: "Cross-modal Representation Learning for Zero-shot Action Recognition", CVPR, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2205.01657)]
     * **ViSET**: "Zero-Shot Action Recognition with Transformer-based Video Semantic Embedding", arXiv, 2022 (*University of South FLorida*). [[Paper](https://arxiv.org/abs/2203.05156)]
