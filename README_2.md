@@ -286,6 +286,7 @@ If you find this repository useful, please consider citing this list:
     * **UniPose**: "UniPose: Detecting Any Keypoints", arXiv, 2023 (*IDEA*). [[Paper](https://arxiv.org/abs/2310.08530)][[Code (in construction)](https://github.com/IDEA-Research/UniPose)][[Website](https://yangjie-cv.github.io/UniPose/)]
     * **SAM-6D**: "SAM-6D: Segment Anything Model Meets Zero-Shot 6D Object Pose Estimation", arXiv, 2023 (*CUHK*). [[Paper](https://arxiv.org/abs/2311.15707)][[PyTorch (in construction)](https://github.com/JiehongLin/SAM-6D)]
     * **?**: "Open-vocabulary object 6D pose estimation", arXiv, 2023 (*Fondazione Bruno Kessler (FBK), Italy*). [[Paper](https://arxiv.org/abs/2312.00690)]
+    * **FoundationPose**: "FoundationPose: Unified 6D Pose Estimation and Tracking of Novel Objects", arXiv, 2023 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2312.08344)][[Code (in construction)](https://github.com/NVlabs/FoundationPose)][[Website](https://nvlabs.github.io/FoundationPose/)]
 
 [[Back to Overview](#overview)]
 
