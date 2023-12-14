@@ -1231,7 +1231,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **PLAC**: "Learning Pseudo-Labeler beyond Noun Concepts for Open-Vocabulary Object Detection", arXiv, 2023 (*Kakao*). [[Paper](https://arxiv.org/abs/2312.02103)]
     * **FOMO**: "Open World Object Detection in the Era of Foundation Models", arXiv, 2023 (*Stanford*). [[Paper](https://arxiv.org/abs/2312.05745)][[Website](https://orrzohar.github.io/projects/fomo/)]
     * **LP-OVOD**: "LP-OVOD: Open-Vocabulary Object Detection by Linear Probing", WACV, 2024 (*VinAI, Vietnam*). [[Paper](https://arxiv.org/abs/2310.17109)]
-    * **ProxyDet**: "ProxyDet: Synthesizing Proxy Novel Classes via Classwise Mixup for Open Vocabulary Object Detection", WACV, 2024 (*NAVER*). [[Paper](https://arxiv.org/abs/2312.07266)]
+    * **ProxyDet**: "ProxyDet: Synthesizing Proxy Novel Classes via Classwise Mixup for Open Vocabulary Object Detection", AAAI, 2024 (*NAVER*). [[Paper](https://arxiv.org/abs/2312.07266)]
 * Pedestrian Detection:
     * **PED**: "DETR for Crowd Pedestrian Detection", arXiv, 2020 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2012.06785)][[PyTorch](https://github.com/Hatmm/PED-DETR-for-Pedestrian-Detection)]
     * **?**: "Effectiveness of Vision Transformer for Fast and Accurate Single-Stage Pedestrian Detection", NeurIPS, 2022 (*ICL*). [[Paper](https://openreview.net/forum?id=eow_ZGaw24j)]
