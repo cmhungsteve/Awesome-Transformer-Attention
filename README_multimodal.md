@@ -894,6 +894,7 @@ If you find this repository useful, please consider citing this list:
     * **UniGS**: "UniGS: Unified Representation for Image Generation and Segmentation", arXiv, 2023 (*UC Merced*). [[Paper](https://arxiv.org/abs/2312.01985)][[PyTorch (in construction)](https://github.com/qqlu/Entity)]
     * **StoryGPT-V**: "Large Language Models as Consistent Story Visualizers", arXiv, 2023 (*KAUST*). [[Paper](https://arxiv.org/abs/2312.02252)][[PyTorch](https://anonymous.4open.science/r/story/README.md)][[Website](https://storygpt-v.s3.amazonaws.com/index.html)]
     * **StackedDiffusion**: "Generating Illustrated Instructions", arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2312.04552)][[Website](https://facebookresearch.github.io/IllustratedInstructions/)]
+    * **VL-GPT**: "VL-GPT: A Generative Pre-trained Transformer for Vision and Language Understanding and Generation", arXiv, 2023 (*Tencent*). [[Paper](https://arxiv.org/abs/2312.09251)][[Code (in construction)](https://github.com/AILab-CVC/VL-GPT)]
 * Video:
     * **Imagen-Video**: "Imagen Video: High Definition Video Generation with Diffusion Models", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2210.02303)][[Website](https://imagen.research.google/video/)]
     * **Phenaki**: "Phenaki: Variable Length Video Generation From Open Domain Textual Description", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2210.02399)][[PyTorch (LAION-AI, in construction)](https://github.com/LAION-AI/phenaki)][[Website](https://phenaki.video/)]
