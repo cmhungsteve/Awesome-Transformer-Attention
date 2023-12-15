@@ -1493,6 +1493,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **GEM**: "Grounding Everything: Emerging Localization Properties in Vision-Language Transformers", arXiv, 2023 (*University of Bonn, Germany*). [[Paper](https://arxiv.org/abs/2312.00878)][[PyTorch](https://github.com/WalBouss/GEM)]
     * **PixelLM**: "PixelLM: Pixel Reasoning with Large Multimodal Model", arXiv, 2023 (*ByteDance*). [[Paper](https://arxiv.org/abs/2312.02228)][[Code (in construction)](https://github.com/MaverickRen/PixelLM)][[Website](https://pixellm.github.io/)]
     * **CaR**: "CLIP as RNN: Segment Countless Visual Concepts without Training Endeavor", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2312.07661)][[Code (in construction)](https://github.com/kevin-ssy/CLIP_as_RNN)][[Website](https://torrvision.com/clip_as_rnn/)]
+    * **PixelLLM**: "Pixel Aligned Language Models", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2312.09237)][[Website](https://jerryxu.net/PixelLLM/)]
 * Open-World/Vocabulary:
     * **ViL-Seg**: "Open-world Semantic Segmentation via Contrasting and Clustering Vision-Language Embedding", ECCV, 2022 (*CUHK*). [[Paper](https://arxiv.org/abs/2207.08455)]
     * **OVSS**: "A Simple Baseline for Open Vocabulary Semantic Segmentation with Pre-trained Vision-language Model", ECCV, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2112.14757)][[PyTorch](https://github.com/MendelXu/zsseg.baseline)]
