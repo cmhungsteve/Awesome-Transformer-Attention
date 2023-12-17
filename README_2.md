@@ -557,6 +557,7 @@ If you find this repository useful, please consider citing this list:
 * **AutoST**: "AutoST: Training-free Neural Architecture Search for Spiking Transformers", arXiv, 2023 (*NC State*). [[Paper](https://arxiv.org/abs/2307.00293)]
 * **TurboViT**: "TurboViT: Generating Fast Vision Transformers via Generative Architecture Search", arXiv, 2023 (*University of Waterloo*). [[Paper](https://arxiv.org/abs/2308.11421)]
 * **FLORA**: "FLORA: Fine-grained Low-Rank Architecture Search for Vision Transformer", WACV, 2024 (*NYCU*). [[Paper](https://arxiv.org/abs/2311.03912)][[PyTorch](https://github.com/shadowpa0327/FLORA)]
+* **Auto-Prox**: "Auto-Prox: Training-Free Vision Transformer Architecture Search via Automatic Proxy Discovery", AAAI, 2024 (*National University of Defense Technology, China*). [[Paper](https://arxiv.org/abs/2312.09059)][[Code (in construction)](https://github.com/lilujunai/Auto-Prox-AAAI24)]
 
 [[Back to Overview](#overview)]
 
@@ -602,6 +603,7 @@ If you find this repository useful, please consider citing this list:
     * **Mona**: "Adapter is All You Need for Tuning Visual Tasks", arXiv, 2023 (*CAS*). [[Paper](https://arxiv.org/abs/2311.15010)][[PyTorch](https://github.com/Leiyi-Hu/mona)]
     * **?**: "Label-efficient Training of Small Task-specific Models by Leveraging Vision Foundation Models", arXiv, 2023 (*Apple*). [[Paper](https://arxiv.org/abs/2311.18237)]
     * **GIFT**: "GIFT: Generative Interpretable Fine-Tuning Transformers", arXiv, 2023 (*NC State*). [[Paper](https://arxiv.org/abs/2312.00700)][[Code (in construction)](https://github.com/savadikarc/gift)]
+    * **VMT-Adapter**: "VMT-Adapter: Parameter-Efficient Transfer Learning for Multi-Task Dense", AAAI, 2024 (*Tencent*). [[Paper](https://arxiv.org/abs/2312.08733)]
 * Domain Adaptation/Domain Generalization/Federated Learning:
     * **TransDA**: "Transformer-Based Source-Free Domain Adaptation", arXiv, 2021 (*Haerbin Institute of Technology*). [[Paper](https://arxiv.org/abs/2105.14138)][[PyTorch](https://github.com/ygjwd12345/TransDA)]
     * **TVT**: "TVT: Transferable Vision Transformer for Unsupervised Domain Adaptation", arXiv, 2021 (*UT Arlington + Kuaishou*). [[Paper](https://arxiv.org/abs/2108.05988)]
@@ -1652,6 +1654,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **2D3D-MATR**: "2D3D-MATR: 2D-3D Matching Transformer for Detection-free Registration between Images and Point Clouds", ICCV, 2023 (*National University of Defense Technology, China*). [[Paper](https://arxiv.org/abs/2308.05667)][[PyTorch (in construction)](https://github.com/minhaolee/2D3DMATR)]
     * **CasMTR**: "Improving Transformer-based Image Matching by Cascaded Capturing Spatially Informative Keypoints", ICCV, 2023 (*Fudan*). [[Paper](https://arxiv.org/abs/2303.02885)][[PyTorch](https://github.com/ewrfcas/CasMTR)]
     * **Fuse-ViT**: "A Tale of Two Features: Stable Diffusion Complements DINO for Zero-Shot Semantic Correspondence", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2305.15347)][[Website](https://sd-complements-dino.github.io/)]
+    * **VSFormer**: "VSFormer: Visual-Spatial Fusion Transformer for Correspondence Pruning", AAAI, 2024 (*Wenzhou University*). [[Paper](https://arxiv.org/abs/2312.08774)][[Code (in construction)](https://github.com/sugar-fly/VSFormer)]
 * Fine-grained:
     * **ViT-FGVC**: "Exploring Vision Transformers for Fine-grained Classification", CVPRW, 2021 (*Universidad de Valladolid*). [[Paper](https://arxiv.org/abs/2106.10587)]
     * **FFVT**: "Feature Fusion Vision Transformer for Fine-Grained Visual Categorization", BMVC, 2021 (*Griffith University, Australia*). [[Paper](https://arxiv.org/abs/2107.02341)][[PyTorch](https://github.com/Markin-Wang/FFVT)]
@@ -1999,6 +2002,8 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **UNIMASK-M**: "A Unified Masked Autoencoder with Patchified Skeletons for Motion Synthesis", arXiv, 2023 (*Technische Universitat Wien (TUWien), Austria*). [[Paper](https://arxiv.org/abs/2308.07301)][[Website](https://sites.google.com/view/estevevallsmascaro/publications/unimask-m)]
     * **MMM**: "MMM: Generative Masked Motion Model", arXiv, 2023 (*UNC*). [[Paper](https://arxiv.org/abs/2312.03596)][[Code (in construction)](https://github.com/exitudio/MMM/)][[Website](https://exitudio.github.io/MMM-page/)]
     * **HOI-Diff**: "HOI-Diff: Text-Driven Synthesis of 3D Human-Object Interactions using Diffusion Models", arXiv, 2023 (*Northeastern*). [[Paper](https://arxiv.org/abs/2312.06553)][[Website](https://neu-vi.github.io/HOI-Diff/)]
+    * **OMG**: "OMG: Towards Open-vocabulary Motion Generation via Mixture of Controllers", arXiv, 2023 (*ShanghaiTech*). [[Paper](https://arxiv.org/abs/2312.08985)]
+    * **LEMON**: "LEMON: Learning 3D Human-Object Interaction Relation from 2D Images", arXiv, 2023 (*USTC*). [[Paper](https://arxiv.org/abs/2312.08963)][[Code (in construction)](https://github.com/yyvhang/lemon_3d)][[Website](https://yyvhang.github.io/LEMON/)]
 * 3D Object Recognition:
     * **MVT**: "MVT: Multi-view Vision Transformer for 3D Object Recognition", BMVC, 2021 (*Baidu*). [[Paper](https://arxiv.org/abs/2110.13083)]
 * 3D Reconstruction:
