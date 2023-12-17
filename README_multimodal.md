@@ -117,6 +117,7 @@ If you find this repository useful, please consider citing this list:
     * **?**: "Visually-Aware Context Modeling for News Image Captioning", arXiv, 2023 (*KU Leuven*). [[Paper](https://arxiv.org/abs/2308.08325)]
     * **EVCap**: "EVCap: Retrieval-Augmented Image Captioning with External Visual-Name Memory for Open-World Comprehension", arXiv, 2023 (*The University of Tokyo*). [[Paper](https://arxiv.org/abs/2311.15879)][[Website](https://jiaxuan-li.github.io/EVCap/)]
     * **SCA**: "Segment and Caption Anything", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2312.00869)][[PyTorch](https://github.com/xk-huang/segment-caption-anything)][[Website](https://xk-huang.github.io/segment-caption-anything/)]
+    * **sDCI**: "A Picture is Worth More Than 77 Text Tokens: Evaluating CLIP-Style Models on Dense Captions", arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2312.08578)][[PyTorch](https://github.com/facebookresearch/DCI)]
 * Video:
     * **Masked Transformers**: "End-to-End Dense Video Captioning with Masked Transformer", CVPR, 2018 (*UMich + Salesforce*). [[Paper](https://openaccess.thecvf.com/content_cvpr_2018/html/Zhou_End-to-End_Dense_Video_CVPR_2018_paper.html)][[PyTorch](https://github.com/salesforce/densecap)]
     * **BMT**: "A Better Use of Audio-Visual Cues: Dense Video Captioning with Bi-modal Transformer", BMVC, 2020 (*Tampere University, Finland*). [[Paper](https://arxiv.org/abs/2005.08271)][[PyTorch](https://github.com/v-iashin/bmt)][[Website](https://iashin.ai/bmt)]
@@ -275,6 +276,7 @@ If you find this repository useful, please consider citing this list:
     * **MoVQA**: "MoVQA: A Benchmark of Versatile Question-Answering for Long-Form Movie Understanding", arXiv, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2312.04817)][[Website](https://movqa.github.io/)]
     * **GroundVQA**: "Grounded Question-Answering in Long Egocentric Videos", arXiv, 2023 (*SJTU*). [[Paper](https://arxiv.org/abs/2312.06505)]
     * **VLAP**: "VLAP: Efficient Video-Language Alignment via Frame Prompting and Distilling for Video Question Answering", arXiv, 2023 (*Amazon*). [[Paper](https://arxiv.org/abs/2312.08367)]
+    * **Vista-LLaMA**: "Vista-LLaMA: Reliable Video Narrator via Equal Distance to Visual Tokens", arXiv, 2023 (*Zhejiang*). [[Paper](https://arxiv.org/abs/2312.08870)][[Website](https://jinxxian.github.io/Vista-LLaMA/)]
 * 3D:
     * **3D-VQA**: "CLIP-Guided Vision-Language Pre-training for Question Answering in 3D Scenes", CVPRW, 2023 (*ETHZ*). [[Paper](https://arxiv.org/abs/2304.06061)][[Code (in construction)](https://github.com/AlexDelitzas/3D-VQA)]
     * **PO3D-VQA**: "3D-Aware Visual Question Answering about Parts, Poses and Occlusions", NeurIPS, 2023 (*JHU*). [[Paper](https://arxiv.org/abs/2310.17914)][[Code (in construction)](https://github.com/XingruiWang/3D-Aware-VQA)]
@@ -594,6 +596,7 @@ If you find this repository useful, please consider citing this list:
     * **D-iGPT**: "Rejuvenating image-GPT as Strong Visual Representation Learners", arXiv, 2023 (*JHU + UC Santa Cruz*). [[Paper](https://arxiv.org/abs/2312.02147)][[PyTorch](https://github.com/OliverRensu/D-iGPT)]
     * **Vary**: "Vary: Scaling up the Vision Vocabulary for Large Vision-Language Models", arXiv, 2023 (*Megvii*). [[Paper](https://arxiv.org/abs/2312.06109)][[PyTorch](https://github.com/Ucas-HaoranWei/Vary)][[Website](https://varybase.github.io/)]
     * **VILA**: "VILA: On Pre-training for Visual Language Models", arXiv, 2023 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2312.07533)]
+    * **TiMix**: "TiMix: Text-aware Image Mixing for Effective Vision-Language Pre-training", AAAI, 2024 (*Peking*). [[Paper](https://arxiv.org/abs/2312.08846)]
 * Video:
     * **COOT**: "COOT: Cooperative Hierarchical Transformer for Video-Text Representation Learning", NeurIPS, 2020 (*University of Freiburg*). [[Paper](https://arxiv.org/abs/2011.00597)][[PyTorch](https://github.com/gingsi/coot-videotext)]
     * **Parameter-Reduction**: "Parameter Efficient Multimodal Transformers for Video Representation Learning", ICLR, 2021 (*Seoul National University*). [[Paper](https://openreview.net/forum?id=6UdQLhqJyFD)]
@@ -920,6 +923,7 @@ If you find this repository useful, please consider citing this list:
     * **VideoSwap**: "VideoSwap: Customized Video Subject Swapping with Interactive Semantic Point Correspondence", arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2312.02087)][[Code (in construction)](https://github.com/showlab/VideoSwap)][[Website](https://videoswap.github.io/)]
     * **LEGO**: "LEGO: Learning EGOcentric Action Frame Generation via Visual Instruction Tuning", arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2312.03849)]
     * **GenHowTo**: "GenHowTo: Learning to Generate Actions and State Transformations from Instructional Videos", arXiv, 2023 (*Czech Technical University*). [[Paper](https://arxiv.org/abs/2312.07322)][[Website](https://soczech.github.io/genhowto/)]
+    * **VideoLCM**: "VideoLCM: Video Latent Consistency Model", arXiv, 2023 (*Alibaba*). [[Paper](https://arxiv.org/abs/2312.09109)]
 * 3D:
     * **Magic3D**: "Magic3D: High-Resolution Text-to-3D Content Creation", CVPR, 2023 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2211.10440)][[Website](https://research.nvidia.com/labs/dir/magic3d/)]
     * **CLIP-Sculptor**: "CLIP-Sculptor: Zero-Shot Generation of High-Fidelity and Diverse Shapes from Natural Language", CVPR, 2023 (*Autodesk*). [[Paper](https://arxiv.org/abs/2211.01427)][[Website](https://ivl.cs.brown.edu/#/projects/clip-sculptor)]
@@ -1246,6 +1250,7 @@ If you find this repository useful, please consider citing this list:
     * **UniLSeg**: "Universal Segmentation at Arbitrary Granularity with Language Instruction", arXiv, 2023 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2312.01623)]
     * **APE**: "Aligning and Prompting Everything All at Once for Universal Visual Perception", arXiv, 2023 (*Tencent*). [[Paper](https://arxiv.org/abs/2312.02153)][[PyTorch](https://github.com/shenyunhang/APE)]
     * **Alpha-CLIP**: "Alpha-CLIP: A CLIP Model Focusing on Wherever You Want", arXiv, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2312.03818)][[PyTorch](https://github.com/SunzeY/AlphaCLIP)][[Website](https://aleafy.github.io/alpha-clip/)]
+    * **GLEE**: "General Object Foundation Model for Images and Videos at Scale", arXiv, 2023 (*Huazhong University of Science and Technology*). [[Paper](https://arxiv.org/abs/2312.09158)]
 * Language-based Video Editing:
     * **M<sup>3</sup>L**: "Language-based Video Editing via Multi-Modal Multi-Level Transformer", CVPR, 2022 (*UCSB*). [[Paper](https://arxiv.org/abs/2104.01122)]
     * **Video-P2P**: "Video-P2P: Video Editing with Cross-attention Control", arXiv, 2023 (*CUHK*). [[Paper](https://arxiv.org/abs/2303.04761)][[Website](https://video-p2p.github.io/)]
