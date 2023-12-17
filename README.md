@@ -1461,6 +1461,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **SlimSAM**: "0.1% Data Makes Segment Anything Slim", arXiv, 2023 (*NUS*). [[Paper](https://arxiv.org/abs/2312.05284)][[PyTorch](https://github.com/czg1225/SlimSAM)]
     * **FIND**: "Interfacing Foundation Models' Embeddings", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2312.07532)][[PyTorch (in construction)](https://github.com/UX-Decoder/FIND)][[Website](https://x-decoder-vl.github.io/)]
     * **SqueezeSAM**: "SqueezeSAM: User-friendly mobile interactive segmentation", arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2312.06736)]
+    * **TAP**: "Tokenize Anything via Prompting", arXiv, 2023 (*BAAI*). [[Paper](https://arxiv.org/abs/2312.09128)][[PyTorch](https://github.com/baaivision/tokenize-anything)]
 * Vision-Language:
     * **LSeg**: "Language-driven Semantic Segmentation", ICLR, 2022 (*Cornell*). [[Paper](https://arxiv.org/abs/2201.03546)][[PyTorch](https://github.com/isl-org/lang-seg)]
     * **ZegFormer**: "Decoupling Zero-Shot Semantic Segmentation", CVPR, 2022 (*Wuhan University*). [[Paper](https://arxiv.org/abs/2112.07910)][[PyTorch](https://github.com/dingjiansw101/ZegFormer)]
@@ -1660,6 +1661,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **MCC**: "Masked Collaborative Contrast for Weakly Supervised Semantic Segmentation", arXiv, 2023 (*Zhejiang Lab, China*). [[Paper](https://arxiv.org/abs/2305.08491)][[PyTorch](https://github.com/fwu11/MCC)]
     * **CRATE**: "White-Box Transformers via Sparse Rate Reduction: Compression Is All There Is?", arXiv, 2023 (*Berkeley*). [[Paper](https://arxiv.org/abs/2311.13110)][[PyTorch](https://github.com/Ma-Lab-Berkeley/CRATE)][[Website](https://ma-lab-berkeley.github.io/CRATE/)]
     * **SAMS**: "Foundation Model Assisted Weakly Supervised Semantic Segmentation", arXiv, 2023 (*Zhejiang*). [[Paper](https://arxiv.org/abs/2312.03585)]
+    * **Self-reinforcement**: "Progressive Uncertain Feature Self-reinforcement for Weakly Supervised Semantic Segmentation", AAAI, 2024 (**). [[Paper](https://arxiv.org/abs/2312.08916)][[PyTorch](https://github.com/Jessie459/feature-self-reinforcement)]
 * Cross-Domain:
     * **DAFormer**: "DAFormer: Improving Network Architectures and Training Strategies for Domain-Adaptive Semantic Segmentation", CVPR, 2022 (*ETHZ*). [[Paper](https://arxiv.org/abs/2111.14887)][[PyTorch](https://github.com/lhoyer/DAFormer)]
     * **HGFormer**: "HGFormer: Hierarchical Grouping Transformer for Domain Generalized Semantic Segmentation", CVPR, 2023 (*Wuhan University*). [[Paper](https://arxiv.org/abs/2305.13031)][[Code (in construction)](https://github.com/dingjiansw101/HGFormer)]
@@ -1990,6 +1992,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **JointFormer**: "Joint Modeling of Feature, Correspondence, and a Compressed Memory for Video Object Segmentation", arXiv, 2023 (*Nanjing University*). [[Paper](https://arxiv.org/abs/2308.13505)]
 * **PanoVOS**: "PanoVOS: Bridging Non-panoramic and Panoramic Views with Transformer for Video Segmentation", arXiv, 2023 (*Fudan*). [[Paper](https://arxiv.org/abs/2309.12303)][[Code (in construction)](https://github.com/shilinyan99/PanoVOS)][[Website](https://shilinyan99.github.io/PanoVOS/index_pano.html)]
 * **Cutie**: "Putting the Object Back into Video Object Segmentation", arXiv, 2023 (*UIUC*). [[Paper](https://arxiv.org/abs/2310.12982)][[PyTorch](https://github.com/hkchengrex/Cutie)][[Website](https://hkchengrex.com/Cutie/)]
+* **M<sup>3</sup>T**: "M<sup>3</sup>T: Multi-Scale Memory Matching for Video Object Segmentation and Tracking", arXiv, 2023 (*UBC*). [[Paper](https://arxiv.org/abs/2312.08514)]
 
 [[Back to Overview](#overview)]
 
