@@ -1483,6 +1483,7 @@ If you find this repository useful, please consider citing this list:
     * **ViP-LLaVA**: "Making Large Multimodal Models Understand Arbitrary Visual Prompts", arXiv, 2023 (*Cruise*). [[Paper](https://arxiv.org/abs/2312.00784)][[PyTorch](https://github.com/mu-cai/vip-llava)][[Website](https://vip-llava.github.io/)]
     * **Prompt-Highlighter**: "Prompt Highlighter: Interactive Control for Multi-Modal LLMs", arXiv, 2023 (*CUHK*). [[Paper](https://arxiv.org/abs/2312.04302)][[PyTorch](https://github.com/dvlab-research/Prompt-Highlighter/)][[Website](https://julianjuaner.github.io/projects/PromptHighlighter/)]
     * **Honeybee**: "Honeybee: Locality-enhanced Projector for Multimodal LLM", arXiv, 2023 (*Kakao*). [[Paper](https://arxiv.org/abs/2312.06742)][[Code (in construction)](https://github.com/kakaobrain/honeybee)]
+    * **Osprey**: "Osprey: Pixel Understanding with Visual Instruction Tuning", arXiv, 2023 (*Zhejiang*). [[Paper](https://arxiv.org/abs/2312.10032)][[PyTorch](https://github.com/CircleRadon/Osprey)]
 * Conversation (Video):
     * **Video-ChatCaptioner**: "Video ChatCaptioner: Towards the Enriched Spatiotemporal Descriptions", arXiv, 2023 (*KAUST*). [[Paper](https://arxiv.org/abs/2304.04227)][[PyTorch](https://github.com/Vision-CAIR/ChatCaptioner)]
     * **ChatVideo**: "ChatVideo: A Tracklet-centric Multimodal and Versatile Video Understanding System", arXiv, 2023 (*Fudan*). [[Paper](https://arxiv.org/abs/2304.14407)][[Website](https://www.wangjunke.info/ChatVideo/)]
