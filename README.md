@@ -1462,6 +1462,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **FIND**: "Interfacing Foundation Models' Embeddings", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2312.07532)][[PyTorch (in construction)](https://github.com/UX-Decoder/FIND)][[Website](https://x-decoder-vl.github.io/)]
     * **SqueezeSAM**: "SqueezeSAM: User-friendly mobile interactive segmentation", arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2312.06736)]
     * **TAP**: "Tokenize Anything via Prompting", arXiv, 2023 (*BAAI*). [[Paper](https://arxiv.org/abs/2312.09128)][[PyTorch](https://github.com/baaivision/tokenize-anything)]
+    * **MobileSAMv2**: "MobileSAMv2: Faster Segment Anything to Everything", arXiv, 2023 (*Kyung Hee University*). [[Paper](https://arxiv.org/abs/2312.09579)][[PyTorch](https://github.com/ChaoningZhang/MobileSAM)]
 * Vision-Language:
     * **LSeg**: "Language-driven Semantic Segmentation", ICLR, 2022 (*Cornell*). [[Paper](https://arxiv.org/abs/2201.03546)][[PyTorch](https://github.com/isl-org/lang-seg)]
     * **ZegFormer**: "Decoupling Zero-Shot Semantic Segmentation", CVPR, 2022 (*Wuhan University*). [[Paper](https://arxiv.org/abs/2112.07910)][[PyTorch](https://github.com/dingjiansw101/ZegFormer)]
