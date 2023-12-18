@@ -170,6 +170,7 @@ If you find this repository useful, please consider citing this list:
 * **JM3D**: "JM3D & JM3D-LLM: Elevating 3D Representation with Joint Multi-modal Cues", arXiv, 2023 (*Xiamen University*). [[Paper](https://arxiv.org/abs/2310.09503)][[PyTorch](https://github.com/Mr-Neko/JM3D)]
 * **PonderV2**: "PonderV2: Pave the Way for 3D Foundation Model with A Universal Pre-training Paradigm", arXiv, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2310.08586)][[Code (in construction)](https://github.com/OpenGVLab/PonderV2)]
 * **MeshGPT**: "MeshGPT: Generating Triangle Meshes with Decoder-Only Transformers", arXiv, 2023 (*TUM*). [[Paper](https://arxiv.org/abs/2311.15475)][[Website](https://nihalsid.github.io/mesh-gpt/)]
+* **PTv3**: "Point Transformer V3: Simpler, Faster, Stronger", arXiv, 2023 (*HKU*). [[Paper](https://arxiv.org/abs/2312.10035)][[Code (in construction)](https://github.com/Pointcept/PointTransformerV3)]
 
 [[Back to Overview](#overview)]
 
