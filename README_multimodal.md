@@ -1057,6 +1057,7 @@ If you find this repository useful, please consider citing this list:
 * **CLAMP**: "CLAMP: Contrastive LAnguage Model Prompt-tuning", arXiv, 2023 (*Boston*). [[Paper](https://arxiv.org/abs/2312.01629)]
 * **HPT**: "Learning Hierarchical Prompt with Structured Linguistic Knowledge for Vision-Language Models", AAAI, 2024 (*Tongji University*). [[Paper](https://arxiv.org/abs/2312.06323)]
 * **LAMM**: "LAMM: Label Alignment for Multi-Modal Prompt Learning", AAAI, 2024 (*SJTU*). [[Paper](https://arxiv.org/abs/2312.08212)][[Code (in construction)](https://github.com/gaojingsheng/LAMM)]
+* **APEX**: "Improving Adaptability and Generalizability of Efficient Transfer Learning for Vision-Language Models", arXiv, 2023 (*KAIST AI*) [[Paper](https://arxiv.org/abs/2311.15569)]
 
 [[Back to Overview](#overview)]
 
