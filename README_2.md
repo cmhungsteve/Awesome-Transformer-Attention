@@ -421,6 +421,8 @@ If you find this repository useful, please consider citing this list:
 * **PI-VL**: "Exploring Part-Informed Visual-Language Learning for Person Re-Identification", arXiv, 2023 (*iFLYTEK, China*). [[Paper](https://arxiv.org/abs/2308.02738)]
 * **TBPS-CLIP**: "An Empirical Study of CLIP for Text-based Person Search", arXiv, 2023 (*Soochow University, China*). [[Paper](https://arxiv.org/abs/2308.10045)][[PyTorch](https://github.com/Flame-Chasers/TBPS-CLIP)]
 * **PersonMAE**: "PersonMAE: Person Re-Identification Pre-Training with Masked AutoEncoders", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2311.04496)]
+* **TF-CLIP**: "TF-CLIP: Learning Text-free CLIP for Video-based Person Re-Identification", AAAI, 2024 (*Dalian University of Technology*). [[Paper](https://arxiv.org/abs/2312.09627)]
+* **TOP-ReID**: "TOP-ReID: Multi-spectral Object Re-Identification with Token Permutation", AAAI, 2024 (*Dalian University of Technology*). [[Paper](https://arxiv.org/abs/2312.09612)][[PyTorch](https://github.com/924973292/TOP-ReID)]
 
 [[Back to Overview](#overview)]
 
@@ -1894,6 +1896,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **HiLM-D**: "HiLM-D: Towards High-Resolution Understanding in Multimodal Large Language Models for Autonomous Driving", arXiv, 2023 (*Huawei*). [[Paper](https://arxiv.org/abs/2309.05186)]
     * **DiffPrompter**: "DiffPrompter: Differentiable Implicit Visual Prompts for Semantic-Segmentation in Adverse Conditions", arXiv, 2023 (*IIIT Hyderabad*). [[Paper](https://arxiv.org/abs/2310.04181)][[PyTorch](https://github.com/DiffPrompter/diff-prompter)][[Website](https://diffprompter.github.io/)]
     * **OccWorld**: "OccWorld: Learning a 3D Occupancy World Model for Autonomous Driving", arXiv, 2023 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2311.16038)][[PyTorch](https://github.com/wzzheng/OccWorld)][[Website](https://wzzheng.net/OccWorld/)]
+    * **VehicleMAE**: "Structural Information Guided Multimodal Pre-training for Vehicle-centric Perception", AAAI, 2024 (*Anhui University*). [[Paper](https://arxiv.org/abs/2312.09812)]
 * LLM-based Traffic:
     * **AVIS**: "AVIS: Autonomous Visual Information Seeking with Large Language Models", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2306.08129)]
     * **DriveGPT4**: "DriveGPT4: Interpretable End-to-end Autonomous Driving via Large Language Model", arXiv, 2023 (*HKU*). [[Paper](https://arxiv.org/abs/2310.01412)][[Website](https://tonyxuqaq.github.io/projects/DriveGPT4/)]
