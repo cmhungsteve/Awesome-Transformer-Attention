@@ -133,6 +133,8 @@ If you find this repository useful, please consider citing this list:
 * "Vision + Language Applications: A Survey", CVPRW, 2023 (*Ritsumeikan University, Japan*). [[Paper](https://arxiv.org/abs/2305.14598)][[GitHub](https://github.com/Yutong-Zhou-cv/Awesome-Text-to-Image)]
 * "Multimodal Learning With Transformers: A Survey", TPAMI, 2023 (*Tsinghua & Oxford*). [[Paper](https://arxiv.org/abs/2206.06488)]
 * "A Survey of Visual Transformers", TNNLS, 2023 (*CAS*). [[Paper](https://arxiv.org/abs/2111.06091)][[GitHub](https://github.com/arekavandi/Transformer-SOD)]
+* "A Survey of Reasoning with Foundation Models: Concepts, Methodologies, and Outlook", arXiv, 2023 (*Huawei*). [[Paper](https://arxiv.org/abs/2312.11562)][[GitHub](https://github.com/reasoning-survey/Awesome-Reasoning-Foundation-Models)]
+* "A Challenger to GPT-4V? Early Explorations of Gemini in Visual Expertise", arXiv, 2023 (*Tencent*). [[Paper](https://arxiv.org/abs/2312.12436)][GitHub](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)]
 * "Towards the Unification of Generative and Discriminative Visual Foundation Model: A Survey", arXiv, 2023 (*JHU*). [[Paper](https://arxiv.org/abs/2312.10163)]
 * "Explainability of Vision Transformers: A Comprehensive Review and New Perspectives", arXiv, 2023 (*Institute for Research in Fundamental Sciences (IPM), Iran*). [[Paper](https://arxiv.org/abs/2311.06786)]
 * "Vision-Language Instruction Tuning: A Review and Analysis", arXiv, 2023 (*Tencent*). [[Paper](https://arxiv.org/abs/2311.08172)][[GitHub (in construction)](https://github.com/palchenli/VL-Instruction-Tuning)]
@@ -1234,6 +1236,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **FOMO**: "Open World Object Detection in the Era of Foundation Models", arXiv, 2023 (*Stanford*). [[Paper](https://arxiv.org/abs/2312.05745)][[Website](https://orrzohar.github.io/projects/fomo/)]
     * **LP-OVOD**: "LP-OVOD: Open-Vocabulary Object Detection by Linear Probing", WACV, 2024 (*VinAI, Vietnam*). [[Paper](https://arxiv.org/abs/2310.17109)]
     * **ProxyDet**: "ProxyDet: Synthesizing Proxy Novel Classes via Classwise Mixup for Open Vocabulary Object Detection", WACV, 2024 (*NAVER*). [[Paper](https://arxiv.org/abs/2312.07266)]
+    * **WSOVOD**: "Weakly Supervised Open-Vocabulary Object Detection", AAAI, 2024 (*Xiamen University*). [[Paper](https://arxiv.org/abs/2312.12437)][[Code (i construction)](https://github.com/HunterJ-Lin/WSOVOD)]
 * Pedestrian Detection:
     * **PED**: "DETR for Crowd Pedestrian Detection", arXiv, 2020 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2012.06785)][[PyTorch](https://github.com/Hatmm/PED-DETR-for-Pedestrian-Detection)]
     * **?**: "Effectiveness of Vision Transformer for Fast and Accurate Single-Stage Pedestrian Detection", NeurIPS, 2022 (*ICL*). [[Paper](https://openreview.net/forum?id=eow_ZGaw24j)]
@@ -1547,6 +1550,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **SCAN**: "Open-Vocabulary Segmentation with Semantic-Assisted Calibration", arXiv, 2023 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2312.04089)][[Code (in construction)](https://github.com/workforai/SCAN)]
     * **Self-Seg**: "Self-Guided Open-Vocabulary Semantic Segmentation", arXiv, 2023 (*UvA*). [[Paper](https://arxiv.org/abs/2312.04539)]
     * **OpenSD**: "OpenSD: Unified Open-Vocabulary Segmentation and Detection", arXiv, 2023 (*OPPO*). [[Paper](https://arxiv.org/abs/2312.06703)]
+    * **CLIP-DINOiser**: "CLIP-DINOiser: Teaching CLIP a few DINO tricks", arXiv, 2023 (*Warsaw University of Technology, Poland*). [[Paper](https://arxiv.org/abs/2312.12359)][[PyTorch](https://github.com/wysoczanska/clip_dinoiser)]
 * Universal Segmentation:
     * **K-Net**: "K-Net: Towards Unified Image Segmentation", NeurIPS, 2021 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2106.14855)][[PyTorch](https://github.com/ZwwWayne/K-Net/)]
     * **Mask2Former**: "Masked-attention Mask Transformer for Universal Image Segmentation", CVPR, 2022 (*Meta*). [[Paper](https://arxiv.org/abs/2112.01527)][[PyTorch](https://github.com/facebookresearch/Mask2Former)][[Website](https://bowenc0221.github.io/mask2former/)]
@@ -1727,6 +1731,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **SAGA**: "Segment Any 3D Gaussians", arXiv, 2023 (*SJTU*). [[Paper](https://arxiv.org/abs/2312.00860)][[Code (in construction)](https://github.com/Jumpat/SegAnyGAussians)][[Website](https://jumpat.github.io/SAGA/)]
     * **SANeRF-HQ**: "SANeRF-HQ: Segment Anything for NeRF in High Quality", arXiv, 2023 (*HKUST*). [[Paper](https://arxiv.org/abs/2312.01531)][[Code (in construction)](https://github.com/lyclyc52/SANeRF-HQ)][[Website](https://lyclyc52.github.io/SANeRF-HQ/)]
     * **SAM-Graph**: "SAM-guided Graph Cut for 3D Instance Segmentation", arXiv, 2023 (*Zhejiang*). [[Paper](https://arxiv.org/abs/2312.08372)][[Code (in construction)](https://github.com/zju3dv/SAM-Graph)][[Website](https://zju3dv.github.io/sam_graph/)]
+    * **SAI3D**: "SAI3D: Segment Any Instance in 3D Scenes", arXiv, 2023 (*Peking*). [[Paper](https://arxiv.org/abs/2312.11557)]
 * Multi-Task:
     * **InvPT**: "Inverted Pyramid Multi-task Transformer for Dense Scene Understanding", ECCV, 2022 (*HKUST*). [[Paper](https://arxiv.org/abs/2203.07997)][[PyTorch](https://github.com/prismformore/Multi-Task-Transformer)]
     * **MTFormer**: "MTFormer: Multi-task Learning via Transformer and Cross-Task Reasoning", ECCV, 2022 (*CUHK*). [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/1353_ECCV_2022_paper.php)]
@@ -1758,6 +1763,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * Diffusion:
     * **VPD**: "Unleashing Text-to-Image Diffusion Models for Visual Perception", ICCV, 2023 (*Tsinghua University*). [[Paper](https://arxiv.org/abs/2303.02153)][[PyTorch](https://github.com/wl-zhao/VPD)][[Website](https://vpd.ivg-research.xyz/)]
     * **Dataset-Diffusion**: "Dataset Diffusion: Diffusion-based Synthetic Dataset Generation for Pixel-Level Semantic Segmentation", NeurIPS, 2023 (*VinAI, Vietnam*). [[Paper](https://arxiv.org/abs/2309.14303)]
+    * **SegRefiner**: "SegRefiner: Towards Model-Agnostic Segmentation Refinement with Discrete Diffusion Process", NeurIPS, 2023 (*ByteDance*). [[Paper](https://arxiv.org/abs/2312.12425)][[Code (in construction)](https://github.com/MengyuWang826/SegRefiner)]
     * **DiffSeg**: "Diffuse, Attend, and Segment: Unsupervised Zero-Shot Segmentation using Stable Diffusion", arXiv, 2023 (*Georgia Tech*). [[Paper](https://arxiv.org/abs/2308.12469)]
     * **DiffSegmenter**: "Diffusion Model is Secretly a Training-free Open Vocabulary Semantic Segmenter", arXiv, 2023 (*Beihang University*). [[Paper](https://arxiv.org/abs/2309.02773)]
     * **?**: "From Text to Mask: Localizing Entities Using the Attention of Text-to-Image Diffusion Models", arXiv, 2023 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2309.04109)]
@@ -2229,6 +2235,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **EventTransAct**: "EventTransAct: A video transformer-based framework for Event-camera based action recognition", IROS, 2023 (*UCF*). [[Paper](https://arxiv.org/abs/2308.13711)][[PyTorch](https://github.com/tristandb8/EventTransAct)][[Website](https://tristandb8.github.io/EventTransAct_webpage/)]
 * Long Video:
     * **KTS**: "Revisiting Kernel Temporal Segmentation as an Adaptive Tokenizer for Long-form Video Understanding", arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2309.11569)]
+    * **TCR**: "Text-Conditioned Resampler For Long Form Video Understanding", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2312.11897)]
 * Video Story:
     * **YouTube-News-Timeline**: "Video Timeline Modeling For News Story Understanding", NeurIPS (Datasets and Benchmarks), 2023 (*Google*). [[Paper](https://arxiv.org/abs/2309.13446)][[GotHub](https://github.com/google-research/google-research/tree/master/video_timeline_modeling)]
 
