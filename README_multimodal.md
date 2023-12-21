@@ -1209,7 +1209,7 @@ If you find this repository useful, please consider citing this list:
     * **LGCFS**: "Learning Referring Video Object Segmentation from Weak Annotation", arXiv, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2308.02162)]
     * **EPCFormer**: "EPCFormer: Expression Prompt Collaboration Transformer for Universal Referring Video Object Segmentation", arXiv, 2023 (*Hunan University*). [[Paper](https://arxiv.org/abs/2308.04162)][[Code (in construction)](https://github.com/lab206/EPCFormer)]
     * **FTEA**: "Fully Transformer-Equipped Architecture for End-to-End Referring Video Object Segmentation", arXiv, 2023 (*Hangzhou Dianzi University*). [[Paper](https://arxiv.org/abs/2309.11933)]
-    * **MUTR**: "Referred by Multi-Modality: A Unified Temporal Transformer for Video Object Segmentation", arXiv, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2305.16318)][[PyTorch](https://github.com/OpenGVLab/MUTR)]
+    * **MUTR**: "Referred by Multi-Modality: A Unified Temporal Transformer for Video Object Segmentation", AAAI, 2024 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2305.16318)][[PyTorch](https://github.com/OpenGVLab/MUTR)]
 * Referring 3D Segmentation:
     * **3D-STMN**: "3D-STMN: Dependency-Driven Superpoint-Text Matching Network for End-to-End 3D Referring Expression Segmentation", arXiv, 2023 (*Xiamen University*). [[Paper](https://arxiv.org/abs/2308.16632)][[PyTorch](https://github.com/sosppxo/3D-STMN)]
 * Tracking:
