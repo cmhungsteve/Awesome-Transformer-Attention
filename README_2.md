@@ -1745,6 +1745,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **MlTr**: "MlTr: Multi-label Classification with Transformer", arXiv, 2021 (*KuaiShou*). [[Paper](https://arxiv.org/abs/2106.06195)]
     * **GATN**: "Graph Attention Transformer Network for Multi-Label Image Classification", arXiv, 2022 (*Southeast University, China*). [[Paper](https://arxiv.org/abs/2203.04049)]
     * **CDUL**: "CDUL: CLIP-Driven Unsupervised Learning for Multi-Label Image Classification", ICCV, 2023 (*University of Southern Mississippi, Mississippi*). [[Paper](https://arxiv.org/abs/2307.16634)]
+    * **TagCLIP**: "TagCLIP: A Local-to-Global Framework to Enhance Open-Vocabulary Multi-Label Classification of CLIP Without Training", AAAI, 2024 (*Zhejiang*). [[Paper](https://arxiv.org/abs/2312.12828)][[PyTorch](https://github.com/linyq2117/TagCLIP)]
 * Multi-task:
     * **MulT**: "MulT: An End-to-End Multitask Learning Transformer", CVPR, 2022 (*EPFL*). [[Paper](https://arxiv.org/abs/2205.08303)]
     * **UFO**: "UFO: Unified Feature Optimization", ECCV, 2022 (*Baidu*). [[Paper](https://arxiv.org/abs/2207.10341)][[PaddlePaddle](https://github.com/PaddlePaddle/VIMER/tree/main/UFO)]
