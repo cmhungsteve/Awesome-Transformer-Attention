@@ -1055,8 +1055,11 @@ If you find this repository useful, please consider citing this list:
 * **SWIG**: "Beyond Sole Strength: Customized Ensembles for Generalized Vision-Language Models", arXiv, 2023 (*NUS*). [[Paper](https://arxiv.org/abs/2311.17091)][[Code (in construction)](https://github.com/zhiheLu/Ensemble_VLM)]
 * **IMProv**: "IMProv: Inpainting-based Multimodal Prompting for Computer Vision Tasks", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2312.01771)][[PyTorch](https://github.com/xvjiarui/IMProv)][[Website](https://jerryxu.net/IMProv/)]
 * **CLAMP**: "CLAMP: Contrastive LAnguage Model Prompt-tuning", arXiv, 2023 (*Boston*). [[Paper](https://arxiv.org/abs/2312.01629)]
+* **RLP**: "Re-parameterized Low-rank Prompt: Generalize a Vision-Language Model within 0.5K Parameters", arXiv, 2023 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2312.10813)]
 * **HPT**: "Learning Hierarchical Prompt with Structured Linguistic Knowledge for Vision-Language Models", AAAI, 2024 (*Tongji University*). [[Paper](https://arxiv.org/abs/2312.06323)]
 * **LAMM**: "LAMM: Label Alignment for Multi-Modal Prompt Learning", AAAI, 2024 (*SJTU*). [[Paper](https://arxiv.org/abs/2312.08212)][[Code (in construction)](https://github.com/gaojingsheng/LAMM)]
+* **LaViP**: "LaViP: Language-Grounded Visual Prompts", AAAI, 2024 (*Monash University*). [[Paper](https://arxiv.org/abs/2312.10945)]
+* **SA<sup>2</sup>VP**: "SA<sup>2</sup>VP: Spatially Aligned-and-Adapted Visual Prompt", AAAI, 2024 (*Harbin Institute of Technology*). [[Paper](https://arxiv.org/abs/2312.10376)][[PyTorch](https://github.com/tommy-xq/SA2VP)]
 
 [[Back to Overview](#overview)]
 
@@ -1342,6 +1345,7 @@ If you find this repository useful, please consider citing this list:
     * **PartSLIP++**: "PartSLIP++: Enhancing Low-Shot 3D Part Segmentation via Multi-View Instance Segmentation and Maximum Likelihood Estimation", arXiv, 2023 (*UCSD*). [[Paper](https://arxiv.org/abs/2312.03015)][[PyTorch](https://github.com/zyc00/PartSLIP2)]
     * **Uni3DL**: "Uni3DL: Unified Model for 3D and Language Understanding", arXiv, 2023 (*KAUST*). [[Paper](https://arxiv.org/abs/2312.03026)][[Website](https://uni3dl.github.io/)]
     * **PartDistill**: "PartDistill: 3D Shape Part Segmentation by Vision-Language Model Distillation", arXiv, 2023 (*NYCU*). [[Paper](https://arxiv.org/abs/2312.04016)]
+    * **Open3DIS**: "Open3DIS: Open-vocabulary 3D Instance Segmentation with 2D Mask Guidance", arXiv, 2023 (*VinAI*). [[Paper](https://arxiv.org/abs/2312.10671)][[Website](https://open3dis.github.io/)]
 * Speech Recognition:
     * **AV-HuBERT**: "Robust Self-Supervised Audio-Visual Speech Recognition", arXiv, 2022 (*Meta*). [[Paper](https://arxiv.org/abs/2201.01763)][[PyTorch](https://github.com/facebookresearch/av_hubert)]
     * **?**: "Transformer-Based Video Front-Ends for Audio-Visual Speech Recognition", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2201.10439)]
@@ -1570,6 +1574,7 @@ If you find this repository useful, please consider citing this list:
     * **VBench**: "VBench: Comprehensive Benchmark Suite for Video Generative Models", arXiv, 2023 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2311.17982)][[PyTorch](https://github.com/Vchitect/VBench)][[Website](https://vchitect.github.io/VBench-project/)]
     * **MERLIM**: "Behind the Magic, MERLIM: Multi-modal Evaluation Benchmark for Large Image-Language Models", arXiv, 2023 (*KAUST*). [[Paper](https://arxiv.org/abs/2312.02219)]
     * **BenchLMM**: "BenchLMM: Benchmarking Cross-style Visual Capability of Large Multimodal Models", arXiv, 2023 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2312.02896)][[PyTorch](https://github.com/AIFEG/BenchLMM)]
+    * **M3DBench**: "M3DBench: Let's Instruct Large Models with Multi-modal 3D Prompts", arXiv, 2023 (*Fudan*). [[Paper](https://arxiv.org/abs/2312.10763)][[Code (in construction)](https://github.com/OpenM3D/M3DBench/)][[Website](https://m3dbench.github.io/)]
 * Robustness:
     * **Hierarchy-CLIP**: "Improving Zero-shot Generalization and Robustness of Multi-modal Models", CVPR, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2212.01758)][[JAX](https://github.com/gyhandy/Hierarchy-CLIP)][[Website](https://sites.google.com/usc.edu/hierarchy-clip/)]
     * **?**: "Mitigating Spurious Correlations in Multi-modal Models during Fine-tuning", ICML, 2023 (*UCLA*). [[Paper](https://arxiv.org/abs/2304.03916)]
