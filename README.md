@@ -485,6 +485,7 @@ If you find this repository useful, please consider citing this list:
 * **SparseFormer**: "Bootstrapping SparseFormers from Vision Foundation Models", arXiv, 2023 (*NUS*). [[Paper](https://arxiv.org/abs/2312.01987)][[PyTorch](https://github.com/showlab/sparseformer)]
 * **GTP-ViT**: "GTP-ViT: Efficient Vision Transformers via Graph-based Token Propagation", WACV, 2024 (*CSIRO Data61, Australia*). [[Paper](https://arxiv.org/abs/2311.03035)][[PyTorch](https://github.com/Ackesnal/GTP-ViT)]
 * **ToFu**: "Token Fusion: Bridging the Gap between Token Pruning and Token Merging", WACV, 2024 (*Samsung*). [[Paper](https://arxiv.org/abs/2312.01026)]
+* **Cached-Transformer**: "Cached Transformers: Improving Transformers with Differentiable Memory Cache", AAAI, 2024 (*CUHK*). [[Paper](https://arxiv.org/abs/2312.12742)]
 #### Conv + Transformer
 * **LeViT**: "LeViT: a Vision Transformer in ConvNet's Clothing for Faster Inference", ICCV, 2021 (*Facebook*). [[Paper](https://arxiv.org/abs/2104.01136)][[PyTorch](https://github.com/facebookresearch/LeViT)]
 * **CeiT**: "Incorporating Convolution Designs into Visual Transformers", ICCV, 2021 (*SenseTime*). [[Paper](https://arxiv.org/abs/2103.11816)][[PyTorch (rishikksh20)](https://github.com/rishikksh20/CeiT)]
@@ -1501,6 +1502,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **CaR**: "CLIP as RNN: Segment Countless Visual Concepts without Training Endeavor", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2312.07661)][[Code (in construction)](https://github.com/kevin-ssy/CLIP_as_RNN)][[Website](https://torrvision.com/clip_as_rnn/)]
     * **PixelLLM**: "Pixel Aligned Language Models", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2312.09237)][[Website](https://jerryxu.net/PixelLLM/)]
     * **GSVA**: "GSVA: Generalized Segmentation via Multimodal Large Language Models", arXiv, 2023 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2312.10103)]
+    * **SPT**: "Spectral Prompt Tuning: Unveiling Unseen Classes for Zero-Shot Semantic Segmentation", AAAI, 2024 (*Beijing University of Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2312.12754)][[PyTorch (in construction)](https://github.com/clearxu/SPT)]
 * Open-World/Vocabulary:
     * **ViL-Seg**: "Open-world Semantic Segmentation via Contrasting and Clustering Vision-Language Embedding", ECCV, 2022 (*CUHK*). [[Paper](https://arxiv.org/abs/2207.08455)]
     * **OVSS**: "A Simple Baseline for Open Vocabulary Semantic Segmentation with Pre-trained Vision-language Model", ECCV, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2112.14757)][[PyTorch](https://github.com/MendelXu/zsseg.baseline)]
@@ -2168,6 +2170,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **DoRA**: "Is ImageNet worth 1 video? Learning strong image encoders from 1 long unlabelled video", arXiv, 2023 (*INRIA*). [[Paper](https://arxiv.org/abs/2310.08584)]
     * **AMD**: "Asymmetric Masked Distillation for Pre-Training Small Foundation Models", arXiv, 2023 (*Nanjing University*). [[Paper](https://arxiv.org/abs/2311.03149)]
     * **SSL-UVOS**: "Betrayed by Attention: A Simple yet Effective Approach for Self-supervised Video Object Segmentation", arXiv, 2023 (*CUHK*). [[Paper](https://arxiv.org/abs/2311.17893)]
+    * **NMS**: "No More Shortcuts: Realizing the Potential of Temporal Self-Supervision", AAAI, 2024 (*Adobe*). [[Paper](https://arxiv.org/abs/2312.13008)][[Website](https://daveishan.github.io/nms-webpage/)]
 * X-shot:
     * **ResT**: "Cross-modal Representation Learning for Zero-shot Action Recognition", CVPR, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2205.01657)]
     * **ViSET**: "Zero-Shot Action Recognition with Transformer-based Video Semantic Embedding", arXiv, 2022 (*University of South FLorida*). [[Paper](https://arxiv.org/abs/2203.05156)]
