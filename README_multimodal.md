@@ -535,6 +535,7 @@ If you find this repository useful, please consider citing this list:
     * **CLOSE**: "I Can't Believe There's No Images! Learning Visual Tasks Using only Language Data", ICCV, 2023 (*AI2*). [[Paper](https://arxiv.org/abs/2211.09778)][[PyTorch](https://github.com/allenai/close)][[Website](https://prior.allenai.org/projects/close)]
     * **SyViC**: "Going Beyond Nouns With Vision & Language Models Using Synthetic Data", ICCV, 2023 (*IBM*). [[Paper](https://arxiv.org/abs/2303.17590)][[PyTorch](https://github.com/uvavision/SyViC)][[Website](https://synthetic-vic.github.io/)]
     * **ViLTA**: "ViLTA: Enhancing Vision-Language Pre-training through Textual Augmentation", ICCV, 2023 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2308.16689)]
+    * **MCD**: "Misalign, Contrast then Distill: Rethinking Misalignments in Language-Image Pretraining", ICCV, 2023 (*LG*). [[Paper](https://arxiv.org/abs/2312.12661)]
     * **OPTIMA**: "Module-wise Adaptive Distillation for Multimodality Foundation Models", NeurIPS, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2310.04550)]
     * **4M**: "4M: Massively Multimodal Masked Modeling", NeurIPS, 2023 (*EPFL*). [[Paper](https://arxiv.org/abs/2312.06647)][[Website](https://4m.epfl.ch/)]
     * **KOSMOS-1**: "Language Is Not All You Need: Aligning Perception with Language Models", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2302.14045)][[Code](https://github.com/microsoft/unilm)]
@@ -596,7 +597,9 @@ If you find this repository useful, please consider citing this list:
     * **D-iGPT**: "Rejuvenating image-GPT as Strong Visual Representation Learners", arXiv, 2023 (*JHU + UC Santa Cruz*). [[Paper](https://arxiv.org/abs/2312.02147)][[PyTorch](https://github.com/OliverRensu/D-iGPT)]
     * **Vary**: "Vary: Scaling up the Vision Vocabulary for Large Vision-Language Models", arXiv, 2023 (*Megvii*). [[Paper](https://arxiv.org/abs/2312.06109)][[PyTorch](https://github.com/Ucas-HaoranWei/Vary)][[Website](https://varybase.github.io/)]
     * **VILA**: "VILA: On Pre-training for Visual Language Models", arXiv, 2023 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2312.07533)]
+    * **Emu2**: "Generative Multimodal Models are In-Context Learners", arXiv, 2023 (*BAAI*). [[Paper](https://arxiv.org/abs/2312.13286)][[PyTorch](https://baaivision.github.io/emu2/)][[Website](https://baaivision.github.io/emu2/)]
     * **TiMix**: "TiMix: Text-aware Image Mixing for Effective Vision-Language Pre-training", AAAI, 2024 (*Peking*). [[Paper](https://arxiv.org/abs/2312.08846)]
+    * **ECLIPSE**: "Expediting Contrastive Language-Image Pretraining via Self-distilled Encoders", AAAI, 2024 (*LG*). [[Paper](https://arxiv.org/abs/2312.12659)]
 * Video:
     * **COOT**: "COOT: Cooperative Hierarchical Transformer for Video-Text Representation Learning", NeurIPS, 2020 (*University of Freiburg*). [[Paper](https://arxiv.org/abs/2011.00597)][[PyTorch](https://github.com/gingsi/coot-videotext)]
     * **Parameter-Reduction**: "Parameter Efficient Multimodal Transformers for Video Representation Learning", ICLR, 2021 (*Seoul National University*). [[Paper](https://openreview.net/forum?id=6UdQLhqJyFD)]
