@@ -151,6 +151,7 @@ If you find this repository useful, please consider citing this list:
 * **IDPT**: "Instance-aware Dynamic Prompt Tuning for Pre-trained Point Cloud Models", ICCV, 2023 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2304.07221)][[PyTorch](https://github.com/zyh16143998882/IDPT)]
 * **JM3D**: "Beyond First Impressions: Integrating Joint Multi-modal Cues for Comprehensive 3D Representation", ACMMM, 2023 (*NetEase, China*). [[Paper](https://arxiv.org/abs/2308.02982)][[PyTorch](https://github.com/Mr-Neko/JM3D)]
 * **Bridge3D**: "Bridging the Domain Gap: Self-Supervised 3D Scene Understanding with Foundation Models", NeurIPS, 2023 (*Clemson*). [[Paper](https://arxiv.org/abs/2305.08776)][[Code (in construction)](https://github.com/Zhimin-C/Bridge3D)]
+* **ConDaFormer**: "ConDaFormer: Disassembled Transformer with Local Structure Enhancement for 3D Point Cloud Understanding", NeurIPS, 2023 (*JD*). [[Paper](https://arxiv.org/abs/2312.11112)][[PyTorch](https://github.com/LHDuan/ConDaFormer)]
 * **GeoTransformer**: "GeoTransformer: Fast and Robust Point Cloud Registration with Geometric Transformer", TPAMI, 2023 (*National University of Defense Technology, China*). [[Paper](https://arxiv.org/abs/2308.03768)][[PyTorch](https://github.com/qinzheng93/GeoTransformer)]
 * **Text4Point**: "Joint Representation Learning for Text and 3D Point Cloud", arXiv, 2023 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2301.07584)][[Code (in construction)](https://github.com/LeapLabTHU/Text4Point)]
 * **FullFormer**: "FullFormer: Generating Shapes Inside Shapes", arXiv, 2023 (*University of Siegen, Germany*). [[Paper](https://arxiv.org/abs/2303.11235)]
@@ -171,6 +172,7 @@ If you find this repository useful, please consider citing this list:
 * **PonderV2**: "PonderV2: Pave the Way for 3D Foundation Model with A Universal Pre-training Paradigm", arXiv, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2310.08586)][[Code (in construction)](https://github.com/OpenGVLab/PonderV2)]
 * **MeshGPT**: "MeshGPT: Generating Triangle Meshes with Decoder-Only Transformers", arXiv, 2023 (*TUM*). [[Paper](https://arxiv.org/abs/2311.15475)][[Website](https://nihalsid.github.io/mesh-gpt/)]
 * **PTv3**: "Point Transformer V3: Simpler, Faster, Stronger", arXiv, 2023 (*HKU*). [[Paper](https://arxiv.org/abs/2312.10035)][[Code (in construction)](https://github.com/Pointcept/PointTransformerV3)]
+* **LAST-PCL**: "Language-Assisted 3D Scene Understanding", AAAI, 2024 (*Peking*). [[Paper](https://arxiv.org/abs/2312.11451)][[Code (in construction)](https://github.com/yanmin-wu/LAST-PCL)]
 
 [[Back to Overview](#overview)]
 
