@@ -172,6 +172,7 @@ If you find this repository useful, please consider citing this list:
 * **PonderV2**: "PonderV2: Pave the Way for 3D Foundation Model with A Universal Pre-training Paradigm", arXiv, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2310.08586)][[Code (in construction)](https://github.com/OpenGVLab/PonderV2)]
 * **MeshGPT**: "MeshGPT: Generating Triangle Meshes with Decoder-Only Transformers", arXiv, 2023 (*TUM*). [[Paper](https://arxiv.org/abs/2311.15475)][[Website](https://nihalsid.github.io/mesh-gpt/)]
 * **PTv3**: "Point Transformer V3: Simpler, Faster, Stronger", arXiv, 2023 (*HKU*). [[Paper](https://arxiv.org/abs/2312.10035)][[Code (in construction)](https://github.com/Pointcept/PointTransformerV3)]
+* **3D-LFM**: "3D-LFM: Lifting Foundation Model", arXiv, 2023 (*CMU*). [[Paper](https://arxiv.org/abs/2312.11894)][[Code](https://github.com/mosamdabhi/3dlfm)][[Webite](https://3dlfm.github.io/)]
 * **LAST-PCL**: "Language-Assisted 3D Scene Understanding", AAAI, 2024 (*Peking*). [[Paper](https://arxiv.org/abs/2312.11451)][[Code (in construction)](https://github.com/yanmin-wu/LAST-PCL)]
 
 [[Back to Overview](#overview)]
@@ -360,6 +361,7 @@ If you find this repository useful, please consider citing this list:
     * **SMAT**: "Separable Self and Mixed Attention Transformers for Efficient Object Tracking", WACV, 2024 (*Concordia University, Canada*). [[Paper](https://arxiv.org/abs/2309.03979)][[PyTorch](https://github.com/goutamyg/SMAT)]
     * **ContrasTR**: "Contrastive Learning for Multi-Object Tracking with Transformers", WACV, 2024 (*KU Leuven*). [[Paper](https://arxiv.org/abs/2311.08043)]
     * **M3SOT**: "M3SOT: Multi-frame, Multi-field, Multi-space 3D Single Object Tracking", AAAI, 2024 (*Xidian University*). [[Paper](https://arxiv.org/abs/2312.06117)]
+    * **TAO-Amodal**: "Tracking Any Object Amodally", arXiv, 2023 (*CMU*). [[Paper](https://arxiv.org/abs/2312.12433)][[Code (in construction)](https://github.com/WesleyHsieh0806/TAO-Amodal)][[Website](https://tao-amodal.github.io/)]
 * 3D:
     * **PTT**: "PTT: Point-Track-Transformer Module for 3D Single Object Tracking in Point Clouds", IROS, 2021 (*Northeastern University*). [[Paper](https://arxiv.org/abs/2108.06455)][[PyTorch (in construction)](https://github.com/shanjiayao/PTT)]
     * **LTTR**: "3D Object Tracking with Transformer", BMVC, 2021 (*Northeastern University, China*). [[Paper](https://arxiv.org/abs/2110.14921)][[Code (in construction)](https://github.com/3bobo/lttr)]
@@ -801,6 +803,7 @@ If you find this repository useful, please consider citing this list:
     * **DA-CLIP**: "Controlling Vision-Language Models for Universal Image Restoration", arXiv, 2023 (*Uppsala University, Sweden*). [[Paper](https://arxiv.org/abs/2310.01018)][[PyTorch](https://github.com/Algolzw/daclip-uir)][[Website](https://algolzw.github.io/daclip-uir/index.html)]
     * **AutoDIR**: "AutoDIR: Automatic All-in-One Image Restoration with Latent Diffusion", arXiv, 2023 (*CUHK*). [[Paper](https://arxiv.org/abs/2310.10123)]
     * **MPerceiver**: "Multimodal Prompt Perceiver: Empower Adaptiveness, Generalizability and Fidelity for All-in-One Image Restoration", arXiv, 2023 (*CAS*). [[Paper](https://arxiv.org/abs/2312.02918)]
+    * **TIP**: "TIP: Text-Driven Image Processing with Semantic and Restoration Instructions", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2312.11595)][[Website](https://chenyangqiqi.github.io/tip/)]
 * Super-Resolution:
     * **SAN**: "Second-Order Attention Network for Single Image Super-Resolution", CVPR, 2019 (*Tsinghua*). [[Paper](https://openaccess.thecvf.com/content_CVPR_2019/html/Dai_Second-Order_Attention_Network_for_Single_Image_Super-Resolution_CVPR_2019_paper.html)][[PyTorch](https://github.com/daitao/SAN)]
     * **CS-NL**: "Image Super-Resolution with Cross-Scale Non-Local Attention and Exhaustive Self-Exemplars Mining", CVPR, 2020 (*UIUC*). [[Paper](https://arxiv.org/abs/2006.01424)][[PyTorch](https://github.com/SHI-Labs/Cross-Scale-Non-Local-Attention)]
