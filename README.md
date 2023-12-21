@@ -133,6 +133,7 @@ If you find this repository useful, please consider citing this list:
 * "Vision + Language Applications: A Survey", CVPRW, 2023 (*Ritsumeikan University, Japan*). [[Paper](https://arxiv.org/abs/2305.14598)][[GitHub](https://github.com/Yutong-Zhou-cv/Awesome-Text-to-Image)]
 * "Multimodal Learning With Transformers: A Survey", TPAMI, 2023 (*Tsinghua & Oxford*). [[Paper](https://arxiv.org/abs/2206.06488)]
 * "A Survey of Visual Transformers", TNNLS, 2023 (*CAS*). [[Paper](https://arxiv.org/abs/2111.06091)][[GitHub](https://github.com/arekavandi/Transformer-SOD)]
+* "Towards the Unification of Generative and Discriminative Visual Foundation Model: A Survey", arXiv, 2023 (*JHU*). [[Paper](https://arxiv.org/abs/2312.10163)]
 * "Explainability of Vision Transformers: A Comprehensive Review and New Perspectives", arXiv, 2023 (*Institute for Research in Fundamental Sciences (IPM), Iran*). [[Paper](https://arxiv.org/abs/2311.06786)]
 * "Vision-Language Instruction Tuning: A Review and Analysis", arXiv, 2023 (*Tencent*). [[Paper](https://arxiv.org/abs/2311.08172)][[GitHub (in construction)](https://github.com/palchenli/VL-Instruction-Tuning)]
 * "Understanding Video Transformers for Segmentation: A Survey of Application and Interpretability", arXiv, 2023 (*York University*). [[Paper](https://arxiv.org/abs/2310.12296)]
@@ -1496,6 +1497,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **PixelLM**: "PixelLM: Pixel Reasoning with Large Multimodal Model", arXiv, 2023 (*ByteDance*). [[Paper](https://arxiv.org/abs/2312.02228)][[Code (in construction)](https://github.com/MaverickRen/PixelLM)][[Website](https://pixellm.github.io/)]
     * **CaR**: "CLIP as RNN: Segment Countless Visual Concepts without Training Endeavor", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2312.07661)][[Code (in construction)](https://github.com/kevin-ssy/CLIP_as_RNN)][[Website](https://torrvision.com/clip_as_rnn/)]
     * **PixelLLM**: "Pixel Aligned Language Models", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2312.09237)][[Website](https://jerryxu.net/PixelLLM/)]
+    * **GSVA**: "GSVA: Generalized Segmentation via Multimodal Large Language Models", arXiv, 2023 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2312.10103)]
 * Open-World/Vocabulary:
     * **ViL-Seg**: "Open-world Semantic Segmentation via Contrasting and Clustering Vision-Language Embedding", ECCV, 2022 (*CUHK*). [[Paper](https://arxiv.org/abs/2207.08455)]
     * **OVSS**: "A Simple Baseline for Open Vocabulary Semantic Segmentation with Pre-trained Vision-language Model", ECCV, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2112.14757)][[PyTorch](https://github.com/MendelXu/zsseg.baseline)]
@@ -1994,6 +1996,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **PanoVOS**: "PanoVOS: Bridging Non-panoramic and Panoramic Views with Transformer for Video Segmentation", arXiv, 2023 (*Fudan*). [[Paper](https://arxiv.org/abs/2309.12303)][[Code (in construction)](https://github.com/shilinyan99/PanoVOS)][[Website](https://shilinyan99.github.io/PanoVOS/index_pano.html)]
 * **Cutie**: "Putting the Object Back into Video Object Segmentation", arXiv, 2023 (*UIUC*). [[Paper](https://arxiv.org/abs/2310.12982)][[PyTorch](https://github.com/hkchengrex/Cutie)][[Website](https://hkchengrex.com/Cutie/)]
 * **M<sup>3</sup>T**: "M<sup>3</sup>T: Multi-Scale Memory Matching for Video Object Segmentation and Tracking", arXiv, 2023 (*UBC*). [[Paper](https://arxiv.org/abs/2312.08514)]
+* **?**: "Appearance-based Refinement for Object-Centric Motion Segmentation", arXiv, 2023 (*Oxford*). [[Paper](https://arxiv.org/abs/2312.11463)]
 
 [[Back to Overview](#overview)]
 
