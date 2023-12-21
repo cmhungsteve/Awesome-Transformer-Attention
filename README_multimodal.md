@@ -1183,6 +1183,7 @@ If you find this repository useful, please consider citing this list:
     * **BTMAE**: "Synchronizing Vision and Language: Bidirectional Token-Masking AutoEncoder for Referring Image Segmentation", arXiv, 2023 (*Yonsei*). [[Paper](https://arxiv.org/abs/2311.17952)]
     * **SESAME**: "See, Say, and Segment: Teaching LMMs to Overcome False Premises", arXiv, 2023 (*Berkeley*). [[Paper](https://arxiv.org/abs/2312.08366)][[Code (in construction)](https://github.com/see-say-segment/sesame)][[Website](https://see-say-segment.github.io/)]
     * **MRES**: "Unveiling Parts Beyond Objects: Towards Finer-Granularity Referring Expression Segmentation", arXiv, 2023 (*CAS*). [[Paper](https://arxiv.org/abs/2312.08007)][[Code (in construction)](https://github.com/Rubics-Xuan/MRES)]
+    * **MagNet**: "Mask Grounding for Referring Image Segmentation", arXiv, 2023 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2312.12198)]
 * Referring Video Segmentation:
     * **ReferFormer**: "Language as Queries for Referring Video Object Segmentation", CVPR, 2022 (*HKU*). [[Paper](https://arxiv.org/abs/2201.00487)][[PyTorch](https://github.com/wjn922/ReferFormer)]
     * **MTTR**: "End-to-End Referring Video Object Segmentation with Multimodal Transformers", CVPR, 2022 (*Technion - Israel Institute of Technology*). [[Paper](https://arxiv.org/abs/2111.14821)][[PyTorch](https://github.com/mttr2021/MTTR)]
@@ -1254,6 +1255,7 @@ If you find this repository useful, please consider citing this list:
     * **APE**: "Aligning and Prompting Everything All at Once for Universal Visual Perception", arXiv, 2023 (*Tencent*). [[Paper](https://arxiv.org/abs/2312.02153)][[PyTorch](https://github.com/shenyunhang/APE)]
     * **Alpha-CLIP**: "Alpha-CLIP: A CLIP Model Focusing on Wherever You Want", arXiv, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2312.03818)][[PyTorch](https://github.com/SunzeY/AlphaCLIP)][[Website](https://aleafy.github.io/alpha-clip/)]
     * **GLEE**: "General Object Foundation Model for Images and Videos at Scale", arXiv, 2023 (*Huazhong University of Science and Technology*). [[Paper](https://arxiv.org/abs/2312.09158)]
+    * **VistaLLM**: "Jack of All Tasks, Master of Many: Designing General-purpose Coarse-to-Fine Vision-Language Model", arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2312.12423)][[Website](https://shramanpramanick.github.io/VistaLLM/)]
 * Language-based Video Editing:
     * **M<sup>3</sup>L**: "Language-based Video Editing via Multi-Modal Multi-Level Transformer", CVPR, 2022 (*UCSB*). [[Paper](https://arxiv.org/abs/2104.01122)]
     * **Video-P2P**: "Video-P2P: Video Editing with Cross-attention Control", arXiv, 2023 (*CUHK*). [[Paper](https://arxiv.org/abs/2303.04761)][[Website](https://video-p2p.github.io/)]
@@ -1488,6 +1490,7 @@ If you find this repository useful, please consider citing this list:
     * **Prompt-Highlighter**: "Prompt Highlighter: Interactive Control for Multi-Modal LLMs", arXiv, 2023 (*CUHK*). [[Paper](https://arxiv.org/abs/2312.04302)][[PyTorch](https://github.com/dvlab-research/Prompt-Highlighter/)][[Website](https://julianjuaner.github.io/projects/PromptHighlighter/)]
     * **Honeybee**: "Honeybee: Locality-enhanced Projector for Multimodal LLM", arXiv, 2023 (*Kakao*). [[Paper](https://arxiv.org/abs/2312.06742)][[Code (in construction)](https://github.com/kakaobrain/honeybee)]
     * **Osprey**: "Osprey: Pixel Understanding with Visual Instruction Tuning", arXiv, 2023 (*Zhejiang*). [[Paper](https://arxiv.org/abs/2312.10032)][[PyTorch](https://github.com/CircleRadon/Osprey)]
+    * **Gemini**: "Gemini: A Family of Highly Capable Multimodal Models", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2312.11805)]
 * Conversation (Video):
     * **Video-ChatCaptioner**: "Video ChatCaptioner: Towards the Enriched Spatiotemporal Descriptions", arXiv, 2023 (*KAUST*). [[Paper](https://arxiv.org/abs/2304.04227)][[PyTorch](https://github.com/Vision-CAIR/ChatCaptioner)]
     * **ChatVideo**: "ChatVideo: A Tracklet-centric Multimodal and Versatile Video Understanding System", arXiv, 2023 (*Fudan*). [[Paper](https://arxiv.org/abs/2304.14407)][[Website](https://www.wangjunke.info/ChatVideo/)]
