@@ -663,6 +663,8 @@ If you find this repository useful, please consider citing this list:
     * **E-ViLM**: "E-ViLM: Efficient Video-Language Model via Masked Video Modeling with Semantic Vector-Quantized Tokenizer", arXiv, 2023 (*Amazon*). [[Paper](https://arxiv.org/abs/2311.17267)]
     * **?**: "A Simple Recipe for Contrastively Pre-training Video-First Encoders Beyond 16 Frames", arXiv, 2023 (*DeepMind*). [[Paper](https://arxiv.org/abs/2312.07395)]
     * **READ-PVLA**: "READ-PVLA: Recurrent Adapter with Partial Video-Language Alignment for Parameter-Efficient Transfer Learning in Low-Resource Video-Language Modeling", AAAI, 2024 (*NUS*). [[Paper](https://arxiv.org/abs/2312.06950)]
+    * **NSVA**: "A Strong Baseline for Temporal Video-Text Alignment", arXiv, 2023 (*SJTU*). [[Paper](https://arxiv.org/abs/2312.14055)][[Website](https://lzq5.github.io/Video-Text-Alignment/)]
+    * **debias-VL**: "Debiasing Vision-Language Models via Biased Prompts", arXiv, 2023 (*MIT*). [[Paper](https://arxiv.org/abs/2302.00070)][[PyTorch](https://github.com/chingyaoc/debias_vl)]
 * 3D:
     * **CLIP<sup>2</sup>**: "CLIP<sup>2</sup>: Contrastive Language-Image-Point Pretraining from Real-World Point Cloud Data", CVPR, 2023 (*Huawei*). [[Paper](https://arxiv.org/abs/2303.12417)]
     * **3D-VLP**: "Context-aware Alignment and Mutual Masking for 3D-Language Pre-training", CVPR, 2023 (*Sichuan University*). [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Jin_Context-Aware_Alignment_and_Mutual_Masking_for_3D-Language_Pre-Training_CVPR_2023_paper.html)][[PyTorch](https://github.com/leolyj/3D-VLP)]
@@ -1495,6 +1497,7 @@ If you find this repository useful, please consider citing this list:
     * **Honeybee**: "Honeybee: Locality-enhanced Projector for Multimodal LLM", arXiv, 2023 (*Kakao*). [[Paper](https://arxiv.org/abs/2312.06742)][[Code (in construction)](https://github.com/kakaobrain/honeybee)]
     * **Osprey**: "Osprey: Pixel Understanding with Visual Instruction Tuning", arXiv, 2023 (*Zhejiang*). [[Paper](https://arxiv.org/abs/2312.10032)][[PyTorch](https://github.com/CircleRadon/Osprey)]
     * **Gemini**: "Gemini: A Family of Highly Capable Multimodal Models", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2312.11805)]
+    * **V<sup>\*</sup>**: "V<sup>\*</sup>: Guided Visual Search as a Core Mechanism in Multimodal LLMs", arXiv, 2023 (*NYU*). [[Paper](https://arxiv.org/abs/2312.14135)][[PyTorch](https://github.com/penghao-wu/vstar)][[Website](https://vstar-seal.github.io/)]
 * Conversation (Video):
     * **Video-ChatCaptioner**: "Video ChatCaptioner: Towards the Enriched Spatiotemporal Descriptions", arXiv, 2023 (*KAUST*). [[Paper](https://arxiv.org/abs/2304.04227)][[PyTorch](https://github.com/Vision-CAIR/ChatCaptioner)]
     * **ChatVideo**: "ChatVideo: A Tracklet-centric Multimodal and Versatile Video Understanding System", arXiv, 2023 (*Fudan*). [[Paper](https://arxiv.org/abs/2304.14407)][[Website](https://www.wangjunke.info/ChatVideo/)]
