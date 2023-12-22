@@ -927,6 +927,7 @@ If you find this repository useful, please consider citing this list:
     * **LEGO**: "LEGO: Learning EGOcentric Action Frame Generation via Visual Instruction Tuning", arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2312.03849)]
     * **GenHowTo**: "GenHowTo: Learning to Generate Actions and State Transformations from Instructional Videos", arXiv, 2023 (*Czech Technical University*). [[Paper](https://arxiv.org/abs/2312.07322)][[Website](https://soczech.github.io/genhowto/)]
     * **VideoLCM**: "VideoLCM: Video Latent Consistency Model", arXiv, 2023 (*Alibaba*). [[Paper](https://arxiv.org/abs/2312.09109)]
+    * **VideoPoet**: "VideoPoet: A Large Language Model for Zero-Shot Video Generation", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2312.14125)][[Website](https://sites.research.google/videopoet/)]
 * 3D:
     * **Magic3D**: "Magic3D: High-Resolution Text-to-3D Content Creation", CVPR, 2023 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2211.10440)][[Website](https://research.nvidia.com/labs/dir/magic3d/)]
     * **CLIP-Sculptor**: "CLIP-Sculptor: Zero-Shot Generation of High-Fidelity and Diverse Shapes from Natural Language", CVPR, 2023 (*Autodesk*). [[Paper](https://arxiv.org/abs/2211.01427)][[Website](https://ivl.cs.brown.edu/#/projects/clip-sculptor)]
@@ -1515,6 +1516,7 @@ If you find this repository useful, please consider citing this list:
     * **3D-LLM**: "3D-LLM: Injecting the 3D World into Large Language Models", arXiv, 2023 (*UCLA*). [[Paper](https://arxiv.org/abs/2307.12981)][[PyTorch (in construction)](https://github.com/UMass-Foundation-Model/3D-LLM)][[Website](https://vis-www.cs.umass.edu/3dllm/)]
     * **Chat-3D**: "Chat-3D: Data-efficiently Tuning Large Language Model for Universal Dialogue of 3D Scenes", arXiv, 2023 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2308.08769)][[PyTorch](https://github.com/Chat-3D/Chat-3D)][[Website](https://chat-3d.github.io/)]
     * **Chat-3D-v2**: "Chat-3D v2: Bridging 3D Scene and Large Language Models with Object Identifiers", arXiv, 2023 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2312.08168)][[Code (in construction)](https://github.com/Chat-3D/Chat-3D-v2)]
+    * **LiDAR-LLM**: "LiDAR-LLM: Exploring the Potential of Large Language Models for 3D LiDAR Understanding", arXiv, 2023 (*Peking*). [[Paper](https://arxiv.org/abs/2312.14074)][[Code (in construction)](https://github.com/Yangsenqiao/LiDAR-LLM)][[Website](https://sites.google.com/view/lidar-llm)]
 * Conversation (Multi):
     * **AnyMAL**: "AnyMAL: An Efficient and Scalable Any-Modality Augmented Language Model", arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2309.16058)]
     * **OneLLM**: "OneLLM: One Framework to Align All Modalities with Language", arXiv, 2023 (*CUHK + Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2312.03700)][[PyTorch](https://github.com/csuhan/OneLLM)]
