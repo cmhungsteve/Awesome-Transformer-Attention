@@ -1553,6 +1553,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **Self-Seg**: "Self-Guided Open-Vocabulary Semantic Segmentation", arXiv, 2023 (*UvA*). [[Paper](https://arxiv.org/abs/2312.04539)]
     * **OpenSD**: "OpenSD: Unified Open-Vocabulary Segmentation and Detection", arXiv, 2023 (*OPPO*). [[Paper](https://arxiv.org/abs/2312.06703)]
     * **CLIP-DINOiser**: "CLIP-DINOiser: Teaching CLIP a few DINO tricks", arXiv, 2023 (*Warsaw University of Technology, Poland*). [[Paper](https://arxiv.org/abs/2312.12359)][[PyTorch](https://github.com/wysoczanska/clip_dinoiser)]
+    * **TagAlign**: "TagAlign: Improving Vision-Language Alignment with Multi-Tag Classification", arXiv, 2023 (*Ant Group*). [[Paper](https://arxiv.org/abs/2312.14149)][[PyTorch](https://github.com/Qinying-Liu/TagAlign)][[Website](https://qinying-liu.github.io/Tag-Align/)]
 * Universal Segmentation:
     * **K-Net**: "K-Net: Towards Unified Image Segmentation", NeurIPS, 2021 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2106.14855)][[PyTorch](https://github.com/ZwwWayne/K-Net/)]
     * **Mask2Former**: "Masked-attention Mask Transformer for Universal Image Segmentation", CVPR, 2022 (*Meta*). [[Paper](https://arxiv.org/abs/2112.01527)][[PyTorch](https://github.com/facebookresearch/Mask2Former)][[Website](https://bowenc0221.github.io/mask2former/)]
