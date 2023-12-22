@@ -360,6 +360,7 @@ If you find this repository useful, please consider citing this list:
 * **GroupMixFormer**: "Advancing Vision Transformers with Group-Mix Attention", arXiv, 2023 (*HKU*). [[Paper](https://arxiv.org/abs/2311.15157)][[PyTorch](https://github.com/AILab-CVC/GroupMixFormer)]
 * **PGT**: "Perceptual Group Tokenizer: Building Perception with Iterative Grouping", arXiv, 2023 (*DeepMind*). [[Paper](https://arxiv.org/abs/2311.18296)]
 * **SCHEME**: "SCHEME: Scalable Channer Mixer for Vision Transformers", arXiv, 2023 (*UCSD*). [[Paper](https://arxiv.org/abs/2312.00412)]
+* **Agent Attention**: "Agent Attention: On the Integration of Softmax and Linear Attention", arXiv, 2023 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2312.08874)][[PyTorch](https://github.com/LeapLabTHU/Agent-Attention)]
 #### Efficient Vision Transformer
 * **DeiT**: "Training data-efficient image transformers & distillation through attention", ICML, 2021 (*Facebook*). [[Paper](https://arxiv.org/abs/2012.12877)][[PyTorch](https://github.com/facebookresearch/deit)]
 * **ConViT**: "ConViT: Improving Vision Transformers with Soft Convolutional Inductive Biases", ICML, 2021 (*Facebook*). [[Paper](https://arxiv.org/abs/2103.10697)][[Code](https://github.com/facebookresearch/convit)]
