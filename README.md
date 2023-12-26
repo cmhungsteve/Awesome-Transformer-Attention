@@ -1172,6 +1172,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **MOST**: "MOST: Multiple Object localization with Self-supervised Transformers for object discovery", ICCV, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2304.05387)][[PyTorch](https://github.com/rssaketh/MOST/)][[Website](https://rssaketh.github.io/most)]
     * **GenPromp**: "Generative Prompt Model for Weakly Supervised Object Localization", ICCV, 2023 (*CAS*). [[Paper](https://arxiv.org/abs/2307.09756)][[PyTorch](https://github.com/callsys/GenPromp)]
     * **SAT**: "Spatial-Aware Token for Weakly Supervised Object Localization", ICCV, 2023 (*USTC*). [[Paper](https://arxiv.org/abs/2303.10438)][[PyTorch](https://github.com/wpy1999/SAT)]
+    * **ALWOD**: "ALWOD: Active Learning for Weakly-Supervised Object Detection", ICCV, 2023 (*Rutgers*). [[Paper](https://arxiv.org/abs/2309.07914)][[Code (in construction)](https://github.com/seqam-lab/ALWOD)]
     * **SeqCo-DETR**: "SeqCo-DETR: Sequence Consistency Training for Self-Supervised Object Detection with Transformers", arXiv, 2023 (*SenseTime*). [[Paper](https://arxiv.org/abs/2303.08481)]
     * **R-MAE**: "R-MAE: Regions Meet Masked Autoencoders", arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2306.05411)]
     * **SimDETR**: "SimDETR: Simplifying self-supervised pretraining for DETR", arXiv, 2023 (*Samsung*). [[Paper](https://arxiv.org/abs/2307.15697)]
@@ -1186,7 +1187,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **Incremental-DETR**: "Incremental-DETR: Incremental Few-Shot Object Detection via Self-Supervised Learning", arXiv, 2022 (*NUS*). [[Paper](https://arxiv.org/abs/2205.04042)]
     * **FS-DETR**: "FS-DETR: Few-Shot DEtection TRansformer with prompting and without re-training", ICCV, 2023 (*Samsung*). [[Paper](https://arxiv.org/abs/2210.04845)]
     * **Meta-ZSDETR**: "Meta-ZSDETR: Zero-shot DETR with Meta-learning", ICCV, 2023 (*Fudan*). [[Paper](https://arxiv.org/abs/2308.09540)]
-    * **ALWOD**: "ALWOD: Active Learning for Weakly-Supervised Object Detection", ICCV, 2023 (*Rutgers*). [[Paper](https://arxiv.org/abs/2309.07914)][[Code (in construction)](https://github.com/seqam-lab/ALWOD)]
+    * **?**: "Revisiting Few-Shot Object Detection with Vision-Language Models", arXiv, 2023 (*CMU*). [[Paper](https://arxiv.org/abs/2312.14494)]
 * Open-World/Vocabulary:
     * **OW-DETR**: "OW-DETR: Open-world Detection Transformer", CVPR, 2022 (*IIAI*). [[Paper](https://arxiv.org/abs/2112.01513)][[PyTorch](https://github.com/akshitac8/OW-DETR)]
     * **DetPro**: "Learning to Prompt for Open-Vocabulary Object Detection with Vision-Language Model", CVPR, 2022 (*Tsinghua University*). [[Paper](https://arxiv.org/abs/2203.14940)][[PyTorch](https://github.com/dyabel/detpro)]
@@ -1346,7 +1347,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **CoTDet**: "CoTDet: Affordance Knowledge Prompting for Task Driven Object Detection", ICCV, 2023 (*ShanghaiTech*). [[Paper](https://arxiv.org/abs/2309.01093)]
 * Diffusion:
     * **DiffusionEngine**: "DiffusionEngine: Diffusion Model is Scalable Data Engine for Object Detection", arXiv, 2023 (*ByteDance*). [[Paper](https://arxiv.org/abs/2309.03893)][[PyTorch](https://github.com/bytedance/DiffusionEngine)][[Website](https://mettyz.github.io/DiffusionEngine/)]
-    * **TADP**: "Text-image Alignment for Diffusion-based Perception", arXiv, 2023 (*California Institute of Technology (CIT)*). [[Paper](https://arxiv.org/abs/2310.00031)]
+    * **TADP**: "Text-image Alignment for Diffusion-based Perception", arXiv, 2023 (*CalTech*). [[Paper](https://arxiv.org/abs/2310.00031)][[Website](https://www.vision.caltech.edu/tadp/)]
 
 [[Back to Overview](#overview)]
 
@@ -1673,6 +1674,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **MCC**: "Masked Collaborative Contrast for Weakly Supervised Semantic Segmentation", arXiv, 2023 (*Zhejiang Lab, China*). [[Paper](https://arxiv.org/abs/2305.08491)][[PyTorch](https://github.com/fwu11/MCC)]
     * **CRATE**: "White-Box Transformers via Sparse Rate Reduction: Compression Is All There Is?", arXiv, 2023 (*Berkeley*). [[Paper](https://arxiv.org/abs/2311.13110)][[PyTorch](https://github.com/Ma-Lab-Berkeley/CRATE)][[Website](https://ma-lab-berkeley.github.io/CRATE/)]
     * **SAMS**: "Foundation Model Assisted Weakly Supervised Semantic Segmentation", arXiv, 2023 (*Zhejiang*). [[Paper](https://arxiv.org/abs/2312.03585)]
+    * **SemiVL**: "SemiVL: Semi-Supervised Semantic Segmentation with Vision-Language Guidance", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2311.16241)][[PyTorch](https://github.com/google-research/semivl)]
     * **Self-reinforcement**: "Progressive Uncertain Feature Self-reinforcement for Weakly Supervised Semantic Segmentation", AAAI, 2024 (**). [[Paper](https://arxiv.org/abs/2312.08916)][[PyTorch](https://github.com/Jessie459/feature-self-reinforcement)]
 * Cross-Domain:
     * **DAFormer**: "DAFormer: Improving Network Architectures and Training Strategies for Domain-Adaptive Semantic Segmentation", CVPR, 2022 (*ETHZ*). [[Paper](https://arxiv.org/abs/2111.14887)][[PyTorch](https://github.com/lhoyer/DAFormer)]
@@ -2084,6 +2086,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **?**: "Learning Future Object Prediction with a Spatiotemporal Detection Transformer", arXiv, 2022 (*Zenseact, Sweden*). [[Paper](https://arxiv.org/abs/2204.10321)]
     * **ClipVID**: "Identity-Consistent Aggregation for Video Object Detection", ICCV, 2023 (*University of Adelaide, Australia*). [[Paper](https://arxiv.org/abs/2308.07737)][[Code (in construction)](https://github.com/bladewaltz1/clipvid)]
     * **OCL**: "Unsupervised Open-Vocabulary Object Localization in Videos", ICCV, 2023 (*Amazon*). [[Paper](https://arxiv.org/abs/2309.09858)]
+    * **CETR**: "Context Enhanced Transformer for Single Image Object Detection", AAAI, 2024 (*Korea University*). [[Paper](https://arxiv.org/abs/2312.14492)][[Code (in construction)](https://github.com/KU-CVLAB/CETR)][[Website](https://ku-cvlab.github.io/CETR/)]
 * Dense Video Tasks (Detection + Segmentation):
     * **TDViT**: "TDViT: Temporal Dilated Video Transformer for Dense Video Tasks", ECCV, 2022 (*Queen's University Belfast, UK*). [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/5559_ECCV_2022_paper.php)][[Code (in construction)](https://github.com/guanxiongsun/TDViT)]
     * **FAQ**: "Feature Aggregated Queries for Transformer-Based Video Object Detectors", CVPR, 2023 (*UCF*). [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Cui_Feature_Aggregated_Queries_for_Transformer-Based_Video_Object_Detectors_CVPR_2023_paper.html)][[PyTorch](https://github.com/YimingCuiCuiCui/FAQ)]
