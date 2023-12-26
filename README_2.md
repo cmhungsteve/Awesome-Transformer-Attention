@@ -152,6 +152,7 @@ If you find this repository useful, please consider citing this list:
 * **JM3D**: "Beyond First Impressions: Integrating Joint Multi-modal Cues for Comprehensive 3D Representation", ACMMM, 2023 (*NetEase, China*). [[Paper](https://arxiv.org/abs/2308.02982)][[PyTorch](https://github.com/Mr-Neko/JM3D)]
 * **Bridge3D**: "Bridging the Domain Gap: Self-Supervised 3D Scene Understanding with Foundation Models", NeurIPS, 2023 (*Clemson*). [[Paper](https://arxiv.org/abs/2305.08776)][[Code (in construction)](https://github.com/Zhimin-C/Bridge3D)]
 * **ConDaFormer**: "ConDaFormer: Disassembled Transformer with Local Structure Enhancement for 3D Point Cloud Understanding", NeurIPS, 2023 (*JD*). [[Paper](https://arxiv.org/abs/2312.11112)][[PyTorch](https://github.com/LHDuan/ConDaFormer)]
+* **DiT-3D**: "DiT-3D: Exploring Plain Diffusion Transformers for 3D Shape Generation", NeurIPS, 2023 (*Huawei*). [[Paper](https://arxiv.org/abs/2307.01831)][[PyTorch](https://github.com/DiT-3D/DiT-3D)][[Website](https://dit-3d.github.io/)]
 * **GeoTransformer**: "GeoTransformer: Fast and Robust Point Cloud Registration with Geometric Transformer", TPAMI, 2023 (*National University of Defense Technology, China*). [[Paper](https://arxiv.org/abs/2308.03768)][[PyTorch](https://github.com/qinzheng93/GeoTransformer)]
 * **Text4Point**: "Joint Representation Learning for Text and 3D Point Cloud", arXiv, 2023 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2301.07584)][[Code (in construction)](https://github.com/LeapLabTHU/Text4Point)]
 * **FullFormer**: "FullFormer: Generating Shapes Inside Shapes", arXiv, 2023 (*University of Siegen, Germany*). [[Paper](https://arxiv.org/abs/2303.11235)]
@@ -164,7 +165,6 @@ If you find this repository useful, please consider citing this list:
 * **PointGPT**: "PointGPT: Auto-regressively Generative Pre-training from Point Clouds", arXiv, 2023 (*Beijing Institute of Technology*). [[Paper](https://arxiv.org/abs/2305.11487)]
 * **CDFormer**: "Collect-and-Distribute Transformer for 3D Point Cloud Analysis", arXiv, 2023 (*The University of Sydney*). [[Paper](https://arxiv.org/abs/2306.01257)][[PyTorch](https://github.com/haibo-qiu/CDFormer)]
 * **PIC**: "Explore In-Context Learning for 3D Point Cloud Understanding", arXiv, 2023 (*Sun Yat-sen University*). [[Paper](https://arxiv.org/abs/2306.08659)][[Code (in construction)](https://github.com/fanglaosi/Point-In-Context)]
-* **DiT-3D**: "DiT-3D: Exploring Plain Diffusion Transformers for 3D Shape Generation", arXiv, 2023 (*Huawei*). [[Paper](https://arxiv.org/abs/2307.01831)][[Code (in construction)](https://github.com/DiT-3D/DiT-3D)][[Website](https://dit-3d.github.io/)]
 * **PointCAM**: "Self-supervised adversarial masking for 3D point cloud representation learning", arXiv, 2023 (*Wrocław University of Science and Technology, Poland*). [[Paper](https://arxiv.org/abs/2307.05325)][[PyTorch](https://github.com/szacho/pointcam)]
 * **PPT**: "Towards Large-scale 3D Representation Learning with Multi-dataset Point Prompt Training", arXiv, 2023 (*HKU*). [[Paper](https://arxiv.org/abs/2308.09718)][[PyTorch](https://github.com/Pointcept/Pointcept)]
 * **Uni3D**: "Uni3D: Exploring Unified 3D Representation at Scale", arXiv, 2023 (*BAAI*). [[Paper](https://arxiv.org/abs/2310.06773)][[PyTorch](https://github.com/baaivision/Uni3D)]
@@ -349,8 +349,8 @@ If you find this repository useful, please consider citing this list:
     * **OC-MOT**: "Object-Centric Multiple Object Tracking", ICCV, 2023 (*Amazon*). [[Paper](https://arxiv.org/abs/2309.00233)]
     * **ColTrack**: "Collaborative Tracking Learning for Frame-Rate-Insensitive Multi-Object Tracking", ICCV, 2023 (*ByteDance*). [[Paper](https://arxiv.org/abs/2308.05911)][[PyTorch](https://github.com/bytedance/ColTrack)]
     * **MVT**: "Mobile Vision Transformer-based Visual Object Tracking", BMVC, 2023 (*Concordia University, Canada*). [[Paper](https://arxiv.org/abs/2309.05829)][[PyTorch](https://github.com/goutamyg/MVT)]
+    * **MixFormerV2**: "MixFormerV2: Efficient Fully Transformer Tracking", NeurIPS, 2023 (*Nanjing University*). [[Paper](https://arxiv.org/abs/2305.15896)][[PyTorch](https://github.com/MCG-NJU/MixFormerV2)]
     * **MOTRv3**: "MOTRv3: Release-Fetch Supervision for End-to-End Multi-Object Tracking", arXiv, 2023 (*Megvii*). [[Paper](https://arxiv.org/abs/2305.14298)]
-    * **MixFormerV2**: "MixFormerV2: Efficient Fully Transformer Tracking", arXiv, 2023 (*Nanjing University*). [[Paper](https://arxiv.org/abs/2305.15896)][[PyTorch](https://github.com/MCG-NJU/MixFormerV2)]
     * **OmniMotion**: "Tracking Everything Everywhere All at Once", arXiv, 2023 (*Cornell*). [[Paper](https://arxiv.org/abs/2306.05422)][[PyTorch](https://github.com/qianqianwang68/omnimotion)][[Website](https://omnimotion.github.io/)]
     * **?**: "A Dual-Source Attention Transformer for Multi-Person Pose Tracking", arXiv, 2023 (*University of Bonn, Germany*). [[Paper](https://arxiv.org/abs/2306.05807)]
     * **TAM**: "Track Anything: Segment Anything Meets Videos", arXiv, 2023 (*SUSTech*). [[Paper](https://arxiv.org/abs/2304.11968)][[PyTorch](https://github.com/gaomingqi/Track-Anything)]
@@ -1262,7 +1262,7 @@ If you find this repository useful, please consider citing this list:
 * **MWM**: "Masked World Models for Visual Control", arXiv, 2022 (*Berkeley*). [[Paper](https://arxiv.org/abs/2206.14244)][[Tensorflow](https://github.com/younggyoseo/MWM)][[Website](https://sites.google.com/view/mwm-rl)]
 * **IRIS**: "Transformers are Sample Efficient World Models", arXiv, 2022 (*University of Geneva, Switzerland*). [[Paper](https://arxiv.org/abs/2209.00588)][[PyTorch](https://github.com/eloialonso/iris)]
 * **InstructRL**: "Instruction-Following Agents with Jointly Pre-Trained Vision-Language Models", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2210.13431)]
-* **STG-Transformer**: "Learning from Visual Observation via Offline Pretrained State-to-Go Transformer", arXiv, 2023 (*BAAI*). [[Paper](https://arxiv.org/abs/2306.12860)][[Website](https://sites.google.com/view/stgtransformer)]
+* **STG-Transformer**: "Learning from Visual Observation via Offline Pretrained State-to-Go Transformer", NeurIPS, 2023 (*BAAI*). [[Paper](https://arxiv.org/abs/2306.12860)][[Code (in construction)](https://github.com/zhoubohan0/STG-Transformer)][[Website](https://sites.google.com/view/stgtransformer)]
 
 [[Back to Overview](#overview)]
 
@@ -1485,6 +1485,7 @@ If you find this repository useful, please consider citing this list:
 * **PTUnifier**: "Towards Unifying Medical Vision-and-Language Pre-training via Soft Prompts", ICCV, 2023 (*CUHK*). [[Paper](https://arxiv.org/abs/2302.08958)][[PyTorch](https://github.com/zhjohnchan/PTUnifier)]
 * **?**: "Localized Questions in Medical Visual Question Answering", MICCAI, 2023 (*University of Bern, Switzerland*). [[Paper](https://arxiv.org/abs/2307.01067)]
 * **CXR-CLIP**: "CXR-CLIP: Toward Large Scale Chest X-ray Language-Image Pre-training", MICCAI, 2023 (*Kakao*). [[Paper](https://arxiv.org/abs/2310.13292)]
+* **?**: "Brain encoding models based on multimodal transformers can transfer across language and vision", NeurIPS, 2023 (*UT Austin*). [[Paper](https://arxiv.org/abs/2305.12248)]
 * **RAMM**: "RAMM: Retrieval-augmented Biomedical Visual Question Answering with Multi-modal Pre-training", arXiv, 2023 (*Alibaba*). [[Paper](https://arxiv.org/abs/2303.00534)]
 * **PT**: "Open-Ended Medical Visual Question Answering Through Prefix Tuning of Language Models", arXiv, 2023 (*University of Amsterdam*). [[Paper](https://arxiv.org/abs/2303.05977)]
 * **PMC-CLIP**: "PMC-CLIP: Contrastive Language-Image Pre-training using Biomedical Documents", arXiv, 2023 (*Shanghai Jiao Tong*). [[Paper](https://arxiv.org/abs/2303.07240)]
@@ -1847,6 +1848,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **SignBERT+**: "SignBERT+: Hand-model-aware Self-supervised Pre-training for Sign Language Understanding", TPAMI, 2023 (*USTC*). [[Paper](https://arxiv.org/abs/2305.04868)][[Website](https://signbert-zoo.github.io/)]
 * Spike:
     * **Spikformer**: "Spikformer: When Spiking Neural Network Meets Transformer", arXiv, 2022 (*Peking*). [[Paper](https://arxiv.org/abs/2209.15425)]
+    * **SDSA**: "Spike-driven Transformer", NeurIPS, 2023 (*CAS*). [[Paper](https://arxiv.org/abs/2307.01694)][[PyTorch](https://github.com/BICLab/Spike-Driven-Transformer)]
 * Stereo:
     * **STTR**: "Revisiting Stereo Depth Estimation From a Sequence-to-Sequence Perspective with Transformers", ICCV, 2021 (*Johns Hopkins*). [[Paper](https://arxiv.org/abs/2011.02910)][[PyTorch](https://github.com/mli0603/stereo-transformer)]
     * **PS-Transformer**: "PS-Transformer: Learning Sparse Photometric Stereo Network using Self-Attention Mechanism", BMVC, 2021 (*National Institute of Informatics, JAPAN*). [[Paper](https://arxiv.org/abs/2211.11386)][[PyTorch](https://github.com/satoshi-ikehata/PS-Transformer-BMVC2021)]
@@ -1943,6 +1945,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **Traj-MAE**: "Traj-MAE: Masked Autoencoders for Trajectory Prediction", ICCV, 2023 (*CUHK*). [[Paper](https://arxiv.org/abs/2303.06697)]
     * **R-Pred**: "R-Pred: Two-Stage Motion Prediction Via Tube-Query Attention-Based Trajectory Refinement", ICCV, 2023 (*Hanyang University, Korea*). [[Paper](https://arxiv.org/abs/2211.08609)]
     * **MacFormer**: "MacFormer: Map-Agent Coupled Transformer for Real-time and Robust Trajectory Prediction", RAL, 2023 (*HKUST*). [[Paper](https://arxiv.org/abs/2308.10280)]
+    * **HPTR**: "Real-Time Motion Prediction via Heterogeneous Polyline Transformer with Relative Pose Encoding", NeurIPS, 2023 (*ETHZ*). [[Paper](https://arxiv.org/abs/2310.12970)][[PyTorch](https://github.com/zhejz/HPTR)]
     * **InCrowdFormer**: "InCrowdFormer: On-Ground Pedestrian World Model From Egocentric Views", arXiv, 2023 (*Kyoto University*). [[Paper](https://arxiv.org/abs/2303.09534)]
     * **MTR++**: "MTR++: Multi-Agent Motion Prediction with Symmetric Scene Modeling and Guided Intention Querying", arXiv, 2023 (*MPI*). [[Paper](https://arxiv.org/abs/2306.17770)]
 * Visual Counting:
