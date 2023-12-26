@@ -381,6 +381,7 @@ If you find this repository useful, please consider citing this list:
     * **DiffusionVG**: "Exploring Iterative Refinement with Diffusion Models for Video Grounding", arXiv, 2023 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2310.17189)][[PyTorch](https://github.com/MasterVito/DiffusionVG)]
     * **CG-DETR**: "Correlation-guided Query-Dependency Calibration in Video Representation Learning for Temporal Grounding", arXiv, 2023 (*Sungkyunkwan University, Korea*). [[Paper](https://arxiv.org/abs/2311.08835)][[Code (in construction)](https://github.com/wjun0830/CGDETR)]
     * **?**: "Zero-Shot Video Moment Retrieval from Frozen Vision-Language Models", WACV, 2024 (*Queen Mary University of London*). [[Paper](https://arxiv.org/abs/2309.00661)]
+    * **LLM4VG**: "LLM4VG: Large Language Models Evaluation for Video Grounding", arXiv, 2023 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2312.14206)]
 * 3D:
     * **ViL3DRel**: "Language Conditioned Spatial Relation Reasoning for 3D Object Grounding", NeurIPS, 2022 (*INRIA*). [[Paper](https://arxiv.org/abs/2211.09646)][[Website](https://cshizhe.github.io/projects/vil3dref.html)]
     * **LAR**: "Look Around and Refer: 2D Synthetic Semantics Knowledge Distillation for 3D Visual Grounding", NeurIPS, 2022 (*KAUST*). [[Paper](https://arxiv.org/abs/2211.14241)][[Website](https://eslambakr.github.io/LAR.github.io/)]
@@ -600,6 +601,7 @@ If you find this repository useful, please consider citing this list:
     * **Emu2**: "Generative Multimodal Models are In-Context Learners", arXiv, 2023 (*BAAI*). [[Paper](https://arxiv.org/abs/2312.13286)][[PyTorch](https://baaivision.github.io/emu2/)][[Website](https://baaivision.github.io/emu2/)]
     * **TiMix**: "TiMix: Text-aware Image Mixing for Effective Vision-Language Pre-training", AAAI, 2024 (*Peking*). [[Paper](https://arxiv.org/abs/2312.08846)]
     * **ECLIPSE**: "Expediting Contrastive Language-Image Pretraining via Self-distilled Encoders", AAAI, 2024 (*LG*). [[Paper](https://arxiv.org/abs/2312.12659)]
+    * **InternVL**: "InternVL: Scaling up Vision Foundation Models and Aligning for Generic Visual-Linguistic Tasks", arXiv, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2312.14238)][[PyTorch](https://github.com/OpenGVLab/InternVL)]
 * Video:
     * **COOT**: "COOT: Cooperative Hierarchical Transformer for Video-Text Representation Learning", NeurIPS, 2020 (*University of Freiburg*). [[Paper](https://arxiv.org/abs/2011.00597)][[PyTorch](https://github.com/gingsi/coot-videotext)]
     * **Parameter-Reduction**: "Parameter Efficient Multimodal Transformers for Video Representation Learning", ICLR, 2021 (*Seoul National University*). [[Paper](https://openreview.net/forum?id=6UdQLhqJyFD)]
@@ -1262,6 +1264,7 @@ If you find this repository useful, please consider citing this list:
     * **Alpha-CLIP**: "Alpha-CLIP: A CLIP Model Focusing on Wherever You Want", arXiv, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2312.03818)][[PyTorch](https://github.com/SunzeY/AlphaCLIP)][[Website](https://aleafy.github.io/alpha-clip/)]
     * **GLEE**: "General Object Foundation Model for Images and Videos at Scale", arXiv, 2023 (*Huazhong University of Science and Technology*). [[Paper](https://arxiv.org/abs/2312.09158)]
     * **VistaLLM**: "Jack of All Tasks, Master of Many: Designing General-purpose Coarse-to-Fine Vision-Language Model", arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2312.12423)][[Website](https://shramanpramanick.github.io/VistaLLM/)]
+    * **VCoder**: "VCoder: Versatile Vision Encoders for Multimodal Large Language Models", arXiv, 2023 (*Georgia Tech*). [[Paper](https://arxiv.org/abs/2312.14233)][[PyTorch](https://github.com/SHI-Labs/VCoder)][[Website](https://praeclarumjj3.github.io/vcoder/)]
 * Language-based Video Editing:
     * **M<sup>3</sup>L**: "Language-based Video Editing via Multi-Modal Multi-Level Transformer", CVPR, 2022 (*UCSB*). [[Paper](https://arxiv.org/abs/2104.01122)]
     * **Video-P2P**: "Video-P2P: Video Editing with Cross-attention Control", arXiv, 2023 (*CUHK*). [[Paper](https://arxiv.org/abs/2303.04761)][[Website](https://video-p2p.github.io/)]
