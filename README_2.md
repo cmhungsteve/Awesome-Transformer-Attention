@@ -1113,6 +1113,7 @@ If you find this repository useful, please consider citing this list:
     * **UniColor**: "UniColor: A Unified Framework for Multi-Modal Colorization with Transformer", SIGGRAPH Asia, 2022 (*CUHK*). [[Paper](https://arxiv.org/abs/2209.11223)][[Website](https://luckyhzt.github.io/unicolor/)]
     * **iColoriT**: "iColoriT: Towards Propagating Local Hint to the Right Region in Interactive Colorization by Leveraging Vision Transformer", arXiv, 2022 (*KAIST*). [[Paper](https://arxiv.org/abs/2207.06831)]
     * **L-CoIns**: "L-CoIns: Language-based Colorization with Instance Awareness", CVPR, 2023 (*Beijing University of Posts and Telecommunications*). [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Chang_L-CoIns_Language-Based_Colorization_With_Instance_Awareness_CVPR_2023_paper.html)]
+    * **L-CAD**: "L-CAD: Language-based Colorization with Any-level Descriptions using Diffusion Priors", NeurIPS, 2023 (*Beijing University of Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2305.15217)][[PyTorch](https://github.com/changzheng123/L-CAD)]
 * Enhancement:
     * **PanFormer**: "PanFormer: a Transformer Based Model for Pan-sharpening", ICME, 2022 (*Beihang University*). [[Paper](https://arxiv.org/abs/2203.02916)][[PyTorch](https://github.com/zhysora/PanFormer)]
     * **URSCT-UIE**: "Reinforced Swin-Convs Transformer for Underwater Image Enhancement", arXiv, 2022 (*Ningbo University*). [[Paper](https://arxiv.org/abs/2205.00434)]
@@ -1367,13 +1368,14 @@ If you find this repository useful, please consider citing this list:
 * **Universal-Model**: "CLIP-Driven Universal Model for Organ Segmentation and Tumor Detection", ICCV, 2023 (*JHU*). [[Paper](https://arxiv.org/abs/2301.00785)][[PyTorch](https://github.com/ljwztc/CLIP-Driven-Universal-Model)]
 * **MDViT**: "MDViT: Multi-domain Vision Transformer for Small Medical Image Segmentation Datasets", MICCAI, 2023 (*UBC*). [[Paper](https://arxiv.org/abs/2307.02100)][[PyTorch](https://github.com/siyi-wind/MDViT)]
 * **ConvFormer**: "ConvFormer: Plug-and-Play CNN-Style Transformers for Improving Medical Image Segmentation", MICCAI, 2023 (*Huazhong University of Science and Technology*). [[Paper](https://arxiv.org/abs/2309.05674)][[PyTorch](https://github.com/xianlin7/ConvFormer)]
+* **TP-SIS**: "Text Promptable Surgical Instrument Segmentation with Vision-Language Models", NeurIPS, 2023 (*King's College London*). [[Paper](https://arxiv.org/abs/2306.09244)][[PyTorch](https://github.com/franciszzj/TP-SIS)]
 * **UniSeg**: "UniSeg: A Prompt-driven Universal Segmentation Model as well as A Strong Representation Learner", arXiv, 2023 (*Northwestern Polytechnical University, China*). [[Paper](https://arxiv.org/abs/2304.03493)][[PyTorch (in construction)](https://github.com/yeerwen/UniSeg)]
 * **UniverSeg**: "UniverSeg: Universal Medical Image Segmentation", arXiv, 2023 (*MIT*). [[Paper](https://arxiv.org/abs/2304.06131)][[PyTorch](https://github.com/JJGO/UniverSeg)][[Website](https://universeg.csail.mit.edu/)]
 * **3DSAM-adapter**: "3DSAM-adapter: Holistic Adaptation of SAM from 2D to 3D for Promptable Medical Image Segmentation", arXiv, 2023 (*CUHK*). [[Paper](https://arxiv.org/abs/2306.13465)]
 * **CMCL**: "Disruptive Autoencoders: Leveraging Low-level features for 3D Medical Image Pre-training", arXiv, 2023 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2307.16896)]
 * **AdaptiveSAM**: "AdaptiveSAM: Towards Efficient Tuning of SAM for Surgical Scene Segmentation", arXiv, 2023 (*JHU*). [[Paper](https://arxiv.org/abs/2308.03726)][[PyTorch](https://github.com/JayParanjape/biastuning)]
 * **SAM-Med2D**: "SAM-Med2D", arXiv, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2308.16184)][[Pytorch](https://github.com/OpenGVLab/SAM-Med2D)]
-* **SAM-Med3D**: "SAM-Med3D", arXiv, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2310.15161)][[PyTorch (in construction)](https://github.com/uni-medical/SAM-Med3D)]
+* **SAM-Med3D**: "SAM-Med3D", arXiv, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2310.15161)][[PyTorch](https://github.com/uni-medical/SAM-Med3D)]
 
 [[Back to Overview](#overview)]
 
@@ -1411,6 +1413,7 @@ If you find this repository useful, please consider citing this list:
 * **IPS**: "Iterative Patch Selection for High-Resolution Image Recognition", ICLR, 2023 (*Hasso Plattner Institute, Germany*). [[Paper](https://arxiv.org/abs/2210.13007)]
 * **ILRA-MIL**: "Exploring Low-Rank Property in Multiple Instance Learning for Whole Slide Image Classification", ICLR, 2023 (*Tencent*). [[Paper](https://openreview.net/forum?id=01KmhBsEPFO)]
 * **BolT**: "BolT: Fused window transformers for fMRI time series analysis", Medical Image Analysis, 2023 (*Bilkent University*). [[Paper](https://www.sciencedirect.com/science/article/pii/S1361841523001019)][[PyTorch](https://github.com/icon-lab/BolT)]
+* **TOP**: "The Rise of AI Language Pathologists: Exploring Two-level Prompt Learning for Few-shot Weakly-supervised Whole Slide Image Classification", NeurIPS, 2023 (*Fudan*). [[Paper](https://arxiv.org/abs/2305.17891)][[Code (in construction)](https://github.com/miccaiif/TOP)]
 * **DreaMR**: "DreaMR: Diffusion-driven Counterfactual Explanation for Functional MRI", arXiv, 2023 (*Bilkent University*). [[Paper](https://arxiv.org/abs/2307.09547)][[PyTorch](https://github.com/icon-lab/DreaMR)]
 * **LongViT**: "When an Image is Worth 1,024 x 1,024 Words: A Case Study in Computational Pathology", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2312.03558)][[PyTorch](https://github.com/microsoft/torchscale)]
 
@@ -1490,6 +1493,7 @@ If you find this repository useful, please consider citing this list:
 * **?**: "Localized Questions in Medical Visual Question Answering", MICCAI, 2023 (*University of Bern, Switzerland*). [[Paper](https://arxiv.org/abs/2307.01067)]
 * **CXR-CLIP**: "CXR-CLIP: Toward Large Scale Chest X-ray Language-Image Pre-training", MICCAI, 2023 (*Kakao*). [[Paper](https://arxiv.org/abs/2310.13292)]
 * **LLaVA-Med**: "LLaVA-Med: Training a Large Language-and-Vision Assistant for Biomedicine in One Day", NeurIPS (Datasets and Benchmarks), 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2306.00890)][[PyTorch](https://github.com/microsoft/LLaVA-Med)]
+* **Med-UniC**: "Med-UniC: Unifying Cross-Lingual Medical Vision-Language Pre-Training by Diminishing Bias", NeurIPS, 2023 (*OSU*). [[Paper](https://arxiv.org/abs/2305.19894)][[PyTorch](https://github.com/SUSTechBruce/Med-UniC)]
 * **RAMM**: "RAMM: Retrieval-augmented Biomedical Visual Question Answering with Multi-modal Pre-training", arXiv, 2023 (*Alibaba*). [[Paper](https://arxiv.org/abs/2303.00534)]
 * **PT**: "Open-Ended Medical Visual Question Answering Through Prefix Tuning of Language Models", arXiv, 2023 (*University of Amsterdam*). [[Paper](https://arxiv.org/abs/2303.05977)]
 * **PMC-CLIP**: "PMC-CLIP: Contrastive Language-Image Pre-training using Biomedical Documents", arXiv, 2023 (*Shanghai Jiao Tong*). [[Paper](https://arxiv.org/abs/2303.07240)]
