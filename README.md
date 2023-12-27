@@ -2245,6 +2245,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * Event Camera:
     * **EventTransAct**: "EventTransAct: A video transformer-based framework for Event-camera based action recognition", IROS, 2023 (*UCF*). [[Paper](https://arxiv.org/abs/2308.13711)][[PyTorch](https://github.com/tristandb8/EventTransAct)][[Website](https://tristandb8.github.io/EventTransAct_webpage/)]
 * Long Video:
+    * **EgoSchema**: "EgoSchema: A Diagnostic Benchmark for Very Long-form Video Language Understanding", NeurIPS, 2023 (*Berkeley*). [[Paper](https://arxiv.org/abs/2308.09126)][[PyTorch](https://github.com/egoschema/EgoSchema)][[Website](https://egoschema.github.io/)]
     * **KTS**: "Revisiting Kernel Temporal Segmentation as an Adaptive Tokenizer for Long-form Video Understanding", arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2309.11569)]
     * **TCR**: "Text-Conditioned Resampler For Long Form Video Understanding", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2312.11897)]
 * Video Story:
