@@ -1440,6 +1440,9 @@ If you find this repository useful, please consider citing this list:
 * **McSTRA**: "Multi-head Cascaded Swin Transformers with Attention to k-space Sampling Pattern for Accelerated MRI Reconstruction", arXiv, 2022 (*Monash University, Australia*). [[Paper](https://arxiv.org/abs/2207.08412)]
 * **?**: "Colonoscopy Landmark Detection using Vision Transformers", arXiv, 2022 (*Intuitive Surgical, CA*). [[Paper](https://arxiv.org/abs/2209.11304)]
 * **FedPR**: "Learning Federated Visual Prompt in Null Space for MRI Reconstruction", CVPR, 2023 (*A\*STAR*). [[Paper](https://arxiv.org/abs/2303.16181)][[PyTorch](https://github.com/chunmeifeng/FedPR)]
+* **?**: "Contrast, Attend and Diffuse to Decode High-Resolution Images from Brain Activities", NeurIPS, 2023 (*KU Leuven*). [[Paper](https://arxiv.org/abs/2305.17214)][[PyTorch](https://github.com/soinx0629/vis_dec_neurips/)]
+* **?**: "Brain encoding models based on multimodal transformers can transfer across language and vision", NeurIPS, 2023 (*UT Austin*). [[Paper](https://arxiv.org/abs/2305.12248)]
+* **MinD-Video**: "Cinematic Mindscapes: High-quality Video Reconstruction from Brain Activity", NeurIPS, 2023 (*NUS*). [[Paper](https://arxiv.org/abs/2305.11675)][[PyTorch](https://github.com/jqin4749/MindVideo)][[Website](https://www.mind-video.com/)]
 
 [[Back to Overview](#overview)]
 
@@ -1486,7 +1489,6 @@ If you find this repository useful, please consider citing this list:
 * **PTUnifier**: "Towards Unifying Medical Vision-and-Language Pre-training via Soft Prompts", ICCV, 2023 (*CUHK*). [[Paper](https://arxiv.org/abs/2302.08958)][[PyTorch](https://github.com/zhjohnchan/PTUnifier)]
 * **?**: "Localized Questions in Medical Visual Question Answering", MICCAI, 2023 (*University of Bern, Switzerland*). [[Paper](https://arxiv.org/abs/2307.01067)]
 * **CXR-CLIP**: "CXR-CLIP: Toward Large Scale Chest X-ray Language-Image Pre-training", MICCAI, 2023 (*Kakao*). [[Paper](https://arxiv.org/abs/2310.13292)]
-* **?**: "Brain encoding models based on multimodal transformers can transfer across language and vision", NeurIPS, 2023 (*UT Austin*). [[Paper](https://arxiv.org/abs/2305.12248)]
 * **RAMM**: "RAMM: Retrieval-augmented Biomedical Visual Question Answering with Multi-modal Pre-training", arXiv, 2023 (*Alibaba*). [[Paper](https://arxiv.org/abs/2303.00534)]
 * **PT**: "Open-Ended Medical Visual Question Answering Through Prefix Tuning of Language Models", arXiv, 2023 (*University of Amsterdam*). [[Paper](https://arxiv.org/abs/2303.05977)]
 * **PMC-CLIP**: "PMC-CLIP: Contrastive Language-Image Pre-training using Biomedical Documents", arXiv, 2023 (*Shanghai Jiao Tong*). [[Paper](https://arxiv.org/abs/2303.07240)]
