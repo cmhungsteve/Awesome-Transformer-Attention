@@ -610,6 +610,7 @@ If you find this repository useful, please consider citing this list:
     * **Mona**: "Adapter is All You Need for Tuning Visual Tasks", arXiv, 2023 (*CAS*). [[Paper](https://arxiv.org/abs/2311.15010)][[PyTorch](https://github.com/Leiyi-Hu/mona)]
     * **?**: "Label-efficient Training of Small Task-specific Models by Leveraging Vision Foundation Models", arXiv, 2023 (*Apple*). [[Paper](https://arxiv.org/abs/2311.18237)]
     * **GIFT**: "GIFT: Generative Interpretable Fine-Tuning Transformers", arXiv, 2023 (*NC State*). [[Paper](https://arxiv.org/abs/2312.00700)][[Code (in construction)](https://github.com/savadikarc/gift)]
+    * **FAPFT**: "Partial Fine-Tuning: A Successor to Full Fine-Tuning for Vision Transformers", arXiv, 2023 (*Fudan*). [[Paper](https://arxiv.org/abs/2312.15681)]
     * **VMT-Adapter**: "VMT-Adapter: Parameter-Efficient Transfer Learning for Multi-Task Dense", AAAI, 2024 (*Tencent*). [[Paper](https://arxiv.org/abs/2312.08733)]
 * Domain Adaptation/Domain Generalization/Federated Learning:
     * **TransDA**: "Transformer-Based Source-Free Domain Adaptation", arXiv, 2021 (*Haerbin Institute of Technology*). [[Paper](https://arxiv.org/abs/2105.14138)][[PyTorch](https://github.com/ygjwd12345/TransDA)]
@@ -2011,6 +2012,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **Make-An-Animation**: "Make-An-Animation: Large-Scale Text-conditional 3D Human Motion Generation", ICCV, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2305.09662)]
     * **ATOM**: "Language-guided Human Motion Synthesis with Atomic Actions", ACMMM, 2023 (*University at Buffalo*). [[Paper](https://arxiv.org/abs/2308.09611)][[Code (in construction)](https://github.com/yhZhai/ATOM)]
     * **MotionGPT**: "MotionGPT: Human Motion as a Foreign Language", NeurIPS, 2023 (*Fudan*). [[Paper](https://arxiv.org/abs/2306.14795)][[PyTorch](https://github.com/OpenMotionLab/MotionGPT)][[Website](https://motion-gpt.github.io/)]
+    * **FineMoGen**: "FineMoGen: Fine-Grained Spatio-Temporal Motion Generation and Editing", NeurIPS, 2023 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2312.15004)][[PyTorch](https://github.com/mingyuan-zhang/FineMoGen)][[Website](https://mingyuan-zhang.github.io/projects/FineMoGen.html)]
     * **DDT**: "DDT: A Diffusion-Driven Transformer-based Framework for Human Mesh Recovery from a Video", arXiv, 2023 (*OPPO*). [[Paper](https://arxiv.org/abs/2303.13397)]
     * **MotionGPT**: "MotionGPT: Finetuned LLMs are General-Purpose Motion Generators", arXiv, 2023 (*USTC*). [[Paper](https://arxiv.org/abs/2306.10900)][[PyTorch (in construction)](https://github.com/qiqiApink/MotionGPT)][[Website](https://qiqiapink.github.io/MotionGPT/)]
     * **UNIMASK-M**: "A Unified Masked Autoencoder with Patchified Skeletons for Motion Synthesis", arXiv, 2023 (*Technische Universitat Wien (TUWien), Austria*). [[Paper](https://arxiv.org/abs/2308.07301)][[Website](https://sites.google.com/view/estevevallsmascaro/publications/unimask-m)]
