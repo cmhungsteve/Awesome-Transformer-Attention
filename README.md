@@ -133,6 +133,7 @@ If you find this repository useful, please consider citing this list:
 * "Vision + Language Applications: A Survey", CVPRW, 2023 (*Ritsumeikan University, Japan*). [[Paper](https://arxiv.org/abs/2305.14598)][[GitHub](https://github.com/Yutong-Zhou-cv/Awesome-Text-to-Image)]
 * "Multimodal Learning With Transformers: A Survey", TPAMI, 2023 (*Tsinghua & Oxford*). [[Paper](https://arxiv.org/abs/2206.06488)]
 * "A Survey of Visual Transformers", TNNLS, 2023 (*CAS*). [[Paper](https://arxiv.org/abs/2111.06091)][[GitHub](https://github.com/arekavandi/Transformer-SOD)]
+* "Visual Instruction Tuning towards General-Purpose Multimodal Model: A Survey", arXiv, 2023 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2312.16602)]
 * "A Survey of Reasoning with Foundation Models: Concepts, Methodologies, and Outlook", arXiv, 2023 (*Huawei*). [[Paper](https://arxiv.org/abs/2312.11562)][[GitHub](https://github.com/reasoning-survey/Awesome-Reasoning-Foundation-Models)]
 * "A Challenger to GPT-4V? Early Explorations of Gemini in Visual Expertise", arXiv, 2023 (*Tencent*). [[Paper](https://arxiv.org/abs/2312.12436)][GitHub](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)]
 * "Towards the Unification of Generative and Discriminative Visual Foundation Model: A Survey", arXiv, 2023 (*JHU*). [[Paper](https://arxiv.org/abs/2312.10163)]
@@ -1178,6 +1179,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **SeqCo-DETR**: "SeqCo-DETR: Sequence Consistency Training for Self-Supervised Object Detection with Transformers", arXiv, 2023 (*SenseTime*). [[Paper](https://arxiv.org/abs/2303.08481)]
     * **R-MAE**: "R-MAE: Regions Meet Masked Autoencoders", arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2306.05411)]
     * **SimDETR**: "SimDETR: Simplifying self-supervised pretraining for DETR", arXiv, 2023 (*Samsung*). [[Paper](https://arxiv.org/abs/2307.15697)]
+    * **U2Seg**: "Unsupervised Universal Image Segmentation", arXiv, 2023 (*Berkely*). [[Paper](https://arxiv.org/abs/2312.17243)][[PyTorch](https://github.com/u2seg/U2Seg)]
 * X-Shot Object Detection:
     * **AIT**: "Adaptive Image Transformer for One-Shot Object Detection", CVPR, 2021 (*Academia Sinica*). [[Paper](https://openaccess.thecvf.com/content/CVPR2021/html/Chen_Adaptive_Image_Transformer_for_One-Shot_Object_Detection_CVPR_2021_paper.html)]
     * **Meta-DETR**: "Meta-DETR: Few-Shot Object Detection via Unified Image-Level Meta-Learning", arXiv, 2021 (*NTU Singapore*). [[Paper](https://arxiv.org/abs/2103.11731)][[PyTorch](https://github.com/ZhangGongjie/Meta-DETR)]
@@ -1403,6 +1405,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **ICPC**: "ICPC: Instance-Conditioned Prompting with Contrastive Learning for Semantic Segmentation", arXiv, 2023 (*Alibaba*). [[Paper](https://arxiv.org/abs/2308.07078)]
 * **Superpixel-Association**: "Superpixel Transformers for Efficient Semantic Segmentation", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2309.16889)]
 * **PlainSeg**: "Minimalist and High-Performance Semantic Segmentation with Plain Vision Transformers", arXiv, 2023 (*Harbin Institute of Technology*). [[Paper](https://arxiv.org/abs/2310.12755)][[PyTorch](https://github.com/ydhongHIT/PlainSeg)]
+* **SCTNet**: "SCTNet: Single-Branch CNN with Transformer Semantic Information for Real-Time Segmentation", AAAI, 2024 (*Meituan*). [[Paper](https://arxiv.org/abs/2312.17071)][[Code (in construction)](https://github.com/xzz777/SCTNet)]
 
 [[Back to Overview](#overview)]
 
@@ -1507,6 +1510,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **CaR**: "CLIP as RNN: Segment Countless Visual Concepts without Training Endeavor", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2312.07661)][[Code (in construction)](https://github.com/kevin-ssy/CLIP_as_RNN)][[Website](https://torrvision.com/clip_as_rnn/)]
     * **PixelLLM**: "Pixel Aligned Language Models", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2312.09237)][[Website](https://jerryxu.net/PixelLLM/)]
     * **GSVA**: "GSVA: Generalized Segmentation via Multimodal Large Language Models", arXiv, 2023 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2312.10103)]
+    * **LISA++**: "An Improved Baseline for Reasoning Segmentation with Large Language Model", arXiv, 2023 (*CUHK*). [[Paper](https://arxiv.org/abs/2312.17240)]
     * **SPT**: "Spectral Prompt Tuning: Unveiling Unseen Classes for Zero-Shot Semantic Segmentation", AAAI, 2024 (*Beijing University of Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2312.12754)][[PyTorch (in construction)](https://github.com/clearxu/SPT)]
 * Open-World/Vocabulary:
     * **ViL-Seg**: "Open-world Semantic Segmentation via Contrasting and Clustering Vision-Language Embedding", ECCV, 2022 (*CUHK*). [[Paper](https://arxiv.org/abs/2207.08455)]
@@ -1796,6 +1800,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **AISFormer**: "AISFormer: Amodal Instance Segmentation with Transformer", BMVC, 2022 (*University of Arkansas, Arkansas*). [[Paper](https://arxiv.org/abs/2210.06323)][[PyTorch](https://github.com/UARK-AICV/AISFormer)]
     * **C2F-Seg**: "Coarse-to-Fine Amodal Segmentation with Shape Prior", ICCV, 2023 (*Fudan*). [[Paper](https://arxiv.org/abs/2308.16825)][[Code (in construction)](https://github.com/JianxGao/C2F-Seg)][[Website](https://jianxgao.github.io/C2F-Seg/)]
     * **EoRaS**: "Rethinking Amodal Video Segmentation from Learning Supervised Signals with Object-centric Representation", ICCV, 2023 (*Fudan*). [[Paper](https://arxiv.org/abs/2309.13248)][[Code (in construction)](https://github.com/kfan21/EoRaS)]
+    * **MP3D-Amodal**: "Amodal Ground Truth and Completion in the Wild", arXiv, 2023 (*Oxford*). [[Paper](https://arxiv.org/abs/2312.17247)][[Website (in construction)](https://www.robots.ox.ac.uk/~vgg/research/amodal/)]
 * Amonaly Segmentation:
     * **Mask2Anomaly**: "Unmasking Anomalies in Road-Scene Segmentation", ICCV, 2023 (*Politecnico di Torino, Italy*). [[Paper](https://arxiv.org/abs/2307.13316)][[PyTorch](https://github.com/shyam671/Mask2Anomaly-Unmasking-Anomalies-in-Road-Scene-Segmentation)]
 * In-Context Segmentation:
