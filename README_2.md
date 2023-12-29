@@ -259,6 +259,7 @@ If you find this repository useful, please consider citing this list:
     * **HoT**: "Hourglass Tokenizer for Efficient Transformer-Based 3D Human Pose Estimation", arXiv, 2023 (*Peking*). [[Paper](https://arxiv.org/abs/2311.12028)]
     * **Pose-Anything**: "Pose Anything: A Graph-Based Approach for Category-Agnostic Pose Estimation", arXiv, 2023 (*Tel Aviv*). [[Paper](https://arxiv.org/abs/2311.17891)][[Code (in construction)](https://github.com/orhir/PoseAnything)][[Website](https://orhir.github.io/pose-anything/)]
     * **PoseGPT**: "PoseGPT: Chatting about 3D Human Pose", arXiv, 2023 (*MPI*). [[Paper](https://arxiv.org/abs/2311.18836)][[Code (in construction)](https://github.com/yfeng95/PoseGPT)][[Website](https://yfeng95.github.io/posegpt/)]
+    * **TEMP3D**: "TEMP3D: Temporally Continuous 3D Human Pose Estimation Under Occlusions", arXiv, 2023 (*UC Riverside*). [[Paper](https://arxiv.org/abs/2312.16221)][[Website](https://sites.google.com/ucr.edu/temp3d)]
 * Hands:
     * **Hand-Transformer**: "Hand-Transformer: Non-Autoregressive Structured Modeling for 3D Hand Pose Estimation", ECCV, 2020 (*Kwai*). [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/4836_ECCV_2020_paper.php)]
     * **SCAT**: "SCAT: Stride Consistency With Auto-Regressive Regressor and Transformer for Hand Pose Estimation", ICCVW, 2021 (*Alibaba*). [[Paper](https://openaccess.thecvf.com/content/ICCV2021W/SoMoF/html/Gao_SCAT_Stride_Consistency_With_Auto-Regressive_Regressor_and_Transformer_for_Hand_ICCVW_2021_paper.html)]
@@ -358,10 +359,11 @@ If you find this repository useful, please consider citing this list:
     * **CoTracker**: "CoTracker: It is Better to Track Together", arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2307.07635)][[PyTorch](https://github.com/facebookresearch/co-tracker)]
     * **OVTracktor**: "Zero-Shot Open-Vocabulary Tracking with Large Pre-Trained Models", arXiv, 2023 (*CMU*). [[Paper](https://arxiv.org/abs/2310.06992)][[Website](https://wenhsuanchu.github.io/ovtracktor/)]
     * **Un-Track**: "Single-Model and Any-Modality for Video Object Tracking", arXiv, 2023 (*University of Wurzburg (JMU), Germany*). [[Paper](https://arxiv.org/abs/2311.15851)][[Code (in construction)](https://github.com/Zongwei97/UnTrack)]
+    * **TAO-Amodal**: "Tracking Any Object Amodally", arXiv, 2023 (*CMU*). [[Paper](https://arxiv.org/abs/2312.12433)][[Code (in construction)](https://github.com/WesleyHsieh0806/TAO-Amodal)][[Website](https://tao-amodal.github.io/)]
+    * **ARTrackV2**: "ARTrackV2: Prompting Autoregressive Tracker Where to Look and How to Describe", arXiv, 2023 (*Xi'an Jiaotong University*). [[Paper](https://arxiv.org/abs/2312.17133)][[Website](https://artrackv2.github.io/)]
     * **SMAT**: "Separable Self and Mixed Attention Transformers for Efficient Object Tracking", WACV, 2024 (*Concordia University, Canada*). [[Paper](https://arxiv.org/abs/2309.03979)][[PyTorch](https://github.com/goutamyg/SMAT)]
     * **ContrasTR**: "Contrastive Learning for Multi-Object Tracking with Transformers", WACV, 2024 (*KU Leuven*). [[Paper](https://arxiv.org/abs/2311.08043)]
     * **M3SOT**: "M3SOT: Multi-frame, Multi-field, Multi-space 3D Single Object Tracking", AAAI, 2024 (*Xidian University*). [[Paper](https://arxiv.org/abs/2312.06117)]
-    * **TAO-Amodal**: "Tracking Any Object Amodally", arXiv, 2023 (*CMU*). [[Paper](https://arxiv.org/abs/2312.12433)][[Code (in construction)](https://github.com/WesleyHsieh0806/TAO-Amodal)][[Website](https://tao-amodal.github.io/)]
 * 3D:
     * **PTT**: "PTT: Point-Track-Transformer Module for 3D Single Object Tracking in Point Clouds", IROS, 2021 (*Northeastern University*). [[Paper](https://arxiv.org/abs/2108.06455)][[PyTorch (in construction)](https://github.com/shanjiayao/PTT)]
     * **LTTR**: "3D Object Tracking with Transformer", BMVC, 2021 (*Northeastern University, China*). [[Paper](https://arxiv.org/abs/2110.14921)][[Code (in construction)](https://github.com/3bobo/lttr)]
@@ -427,6 +429,7 @@ If you find this repository useful, please consider citing this list:
 * **PersonMAE**: "PersonMAE: Person Re-Identification Pre-Training with Masked AutoEncoders", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2311.04496)]
 * **TF-CLIP**: "TF-CLIP: Learning Text-free CLIP for Video-based Person Re-Identification", AAAI, 2024 (*Dalian University of Technology*). [[Paper](https://arxiv.org/abs/2312.09627)]
 * **TOP-ReID**: "TOP-ReID: Multi-spectral Object Re-Identification with Token Permutation", AAAI, 2024 (*Dalian University of Technology*). [[Paper](https://arxiv.org/abs/2312.09612)][[PyTorch](https://github.com/924973292/TOP-ReID)]
+* **MP-ReID**: "Multi-Prompts Learning with Cross-Modal Alignment for Attribute-based Person Re-Identification", AAAI, 2024 (*Eastern Institute of Technology, China*). [[Paper](https://arxiv.org/abs/2312.16797)]
 
 [[Back to Overview](#overview)]
 
@@ -1588,6 +1591,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **OCBEV**: "OCBEV: Object-Centric BEV Transformer for Multi-View 3D Object Detection", arXiv, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2306.01738)]
     * **FusionFormer**: "FusionFormer: A Multi-sensory Fusion in Bird's-Eye-View and Temporal Consistent Transformer for 3D Objection", arXiv, 2023 (*Cainiao Network, China*). [[Paper](https://arxiv.org/abs/2309.05257)]
     * **Talk2BEV**: "Talk2BEV: Language-enhanced Bird's-eye View Maps for Autonomous Driving", arXiv, 2023 (*IIIT Hyderabad*). [[Paper](https://arxiv.org/abs/2310.02251)][[Code](https://github.com/llmbev/talk2bev)][[Website](https://llmbev.github.io/talk2bev/)]
+    * **SparseOcc**: "Fully Sparse 3D Panoptic Occupancy Prediction", arXiv, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2312.17118)]
 * Biology:
     * **?**: "A State-of-the-art Survey of Object Detection Techniques in Microorganism Image Analysis: from Traditional Image Processing and Classical Machine Learning to Current Deep Convolutional Neural Networks and Potential Visual Transformers", arXiv, 2021 (*Northeastern University*). [[Paper](https://arxiv.org/abs/2105.03148)]
 * Brain Score:
@@ -1637,6 +1641,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **GET**: "GET: Group Event Transformer for Event-Based Vision", ICCV, 2023 (*USTC*). [[Paper](https://arxiv.org/abs/2310.02642)][[PyTorch](https://github.com/Peterande/GET-Group-Event-Transformer)]
     * **?**: "Cross-modal Orthogonal High-rank Augmentation for RGB-Event Transformer-trackers", ICCV, 2023 (*CUHK*). [[Paper](https://arxiv.org/abs/2307.04129)][[PyTorch](https://github.com/ZHU-Zhiyu/High-Rank_RGB-Event_Tracker)]
     * **SODFormer**: "SODFormer: Streaming Object Detection with Transformer Using Events and Frames", TPAMI, 2023 (*Peking*). [[Paper](https://arxiv.org/abs/2308.04047)][[PyTorch](https://github.com/dianzl/SODFormer)]
+    * **EventSAM**: "Segment Any Events via Weighted Adaptation of Pivotal Tokens", arXiv, 2023 (*Xidian University*). [[Paper](https://arxiv.org/abs/2312.16222)][[PyTorch (in construction)](https://github.com/happychenpipi/EventSAM)]
 * Fashion:
     * **Kaleido-BERT**: "Kaleido-BERT: Vision-Language Pre-training on Fashion Domain", CVPR, 2021 (*Alibaba*). [[Paper](https://arxiv.org/abs/2103.16110)][[Tensorflow](https://github.com/mczhuge/Kaleido-BERT)]
     * **CIT**: "Cloth Interactive Transformer for Virtual Try-On", arXiv, 2021 (*University of Trento*). [[Paper](https://arxiv.org/abs/2104.05519)][[Code (in construction)](https://github.com/Amazingren/CIT)]
@@ -1971,6 +1976,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **CLIP-Count**: "CLIP-Count: Towards Text-Guided Zero-Shot Object Counting", arXiv, 2023 (*The Hong Kong Polytechnic University*). [[Paper](https://arxiv.org/abs/2305.07304)][[Code (in construction)](https://github.com/songrise/CLIP-Count)]
     * **?**: "Training-free Object Counting with Prompts", arXiv, 2023 (*A\⋆STAR*). [[Paper](https://arxiv.org/abs/2307.00038)][[PyTorch](https://github.com/shizenglin/training-free-object-counter)]
     * **T-Rex**: "T-Rex: Counting by Visual Prompting", arXiv, 2023 (*IDEA*). [[Paper](https://arxiv.org/abs/2311.13596)][[Website](https://trex-counting.github.io/)]
+    * **VLCounter**: "VLCounter: Text-aware VIsual Representation for Zero-Shot Object Counting", AAAI, 2024 (*Sungkyunkwan University, Korea*). [[Paper](https://arxiv.org/abs/2312.16580)][[PyTorch](https://github.com/Seunggu0305/VLCounter)]
 * Visual Quality Assessment:
     * **TRIQ**: "Transformer for Image Quality Assessment", arXiv, 2020 (*NORCE*). [[Paper](https://arxiv.org/abs/2101.01097)][[Tensorflow-Keras](https://github.com/junyongyou/triq)]
     * **IQT**: "Perceptual Image Quality Assessment with Transformers", CVPRW, 2021 (*LG*). [[Paper](https://arxiv.org/abs/2104.14730)][[Code (in construction)](https://github.com/manricheon/IQT)]
@@ -1987,6 +1993,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **MRET**: "MRET: Multi-resolution Transformer for Video Quality Assessment", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2303.07489)]
     * **SAM-IQA**: "SAM-IQA: Can Segment Anything Boost Image Quality Assessment?", arXiv, 2023 (*Megvii*). [[Paper](https://arxiv.org/abs/2307.04455)][[Code (in construction)](https://github.com/Hedlen/SAM-IQA)]
     * **LoDa**: "Local Distortion Aware Efficient Transformer Adaptation for Image Quality Assessment", arXiv, 2023 (*Wuhan University*). [[Paper](https://arxiv.org/abs/2308.12001)]
+    * **Q-Align**: "Q-Align: Teaching LMMs for Visual Scoring via Discrete Text-Defined Levels", arXiv, 2023 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2312.17090)][[PyTorch](https://github.com/Q-Future/Q-Align)][[Website](https://q-align.github.io/)]
 * Visual Reasoning:
     * **SAViR-T**: "SAViR-T: Spatially Attentive Visual Reasoning with Transformers", arXiv, 2022 (*Rutgers University*). [[Paper](https://arxiv.org/abs/2206.09265)]
 * Wide-angle lenses:
