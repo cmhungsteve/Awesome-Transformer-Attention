@@ -99,6 +99,7 @@ If you find this repository useful, please consider citing this list:
     * **CgT-GAN**: "CgT-GAN: CLIP-guided Text GAN for Image Captioning", ACMMM, 2023 (*USTC*). [[Paper](https://arxiv.org/abs/2308.12045)][[PyTorch](https://github.com/Lihr747/CgtGAN)]
     * **CLAIR**: "CLAIR: Evaluating Image Captions with Large Language Models", EMNLP, 2023 (*Berkeley*). [[Paper](https://arxiv.org/abs/2310.12971)][[Code](https://github.com/davidmchan/clair)][[Website](https://davidmchan.github.io/clair/)]
     * **SCP-WGCN**: "Improving Image Captioning via Predicting Structured Concepts", EMNLP, 2023 (*USTC*). [[Paper](https://arxiv.org/abs/2311.08223)][[Code (in construction)](https://github.com/wangting0/SCP-WGCN)]
+    * **ExploreCfg**: "Exploring Diverse In-Context Configurations for Image Captioning", NeurIPS, 2023 (*Southeast University, China*). [[Paper](https://arxiv.org/abs/2305.14800)][[PyTorch](https://github.com/yongliang-wu/ExploreCfg)]
     * **Re-ViLM**: "Re-ViLM: Retrieval-Augmented Visual Language Model for Zero and Few-Shot Image Captioning", arXiv, 2023 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2302.04858)]
     * **Knight**: "From Association to Generation: Text-only Captioning by Unsupervised Cross-modal Mapping", arXiv, 2023 (*Alibaba*). [[Paper](https://arxiv.org/abs/2304.13273)][[PyTorch](https://github.com/junyangwang0410/Knight)]
     * **VTT**: "Visual Transformation Telling", arXiv, 2023 (*CAS*). [[Paper](https://arxiv.org/abs/2305.01928)]
@@ -146,7 +147,7 @@ If you find this repository useful, please consider citing this list:
     * **SCG-SP**: "Set Prediction Guided by Semantic Concepts for Diverse Video Captioning", AAAI, 2024 (*CAS*). [[Paper](https://arxiv.org/abs/2312.15720)]
 * 3D:
     * **Vote2Cap-DETR**: "End-to-End 3D Dense Captioning with Vote2Cap-DETR", CVPR, 2023 (*Fudan*). [[Paper](https://arxiv.org/abs/2301.02508)][[PyTorch](https://github.com/ch3cook-fdu/Vote2Cap-DETR)]
-    * **Cap3D**: "Scalable 3D Captioning with Pretrained Models", arXiv, 2023 (*UMich*). [[Paper](https://arxiv.org/abs/2306.07279)][[Dataset](https://huggingface.co/datasets/tiange/Cap3D)]
+    * **Cap3D**: "Scalable 3D Captioning with Pretrained Models", NeurIPS, 2023 (*UMich*). [[Paper](https://arxiv.org/abs/2306.07279)][[Dataset](https://huggingface.co/datasets/tiange/Cap3D)]
     * **Vote2Cap-DETR++**: "Vote2Cap-DETR++: Decoupling Localization and Describing for End-to-End 3D Dense Captioning", arXiv, 2023 (*Fudan*). [[Paper](https://arxiv.org/abs/2309.02999)][[PyTorch](https://github.com/ch3cook-fdu/Vote2Cap-DETR)]
 * Others:
     * **ET-Cap**: "Explore and Tell: Embodied Visual Captioning in 3D Environments", ICCV, 2023 (*Renmin University of China*). [[Paper](https://arxiv.org/abs/2308.10447)][[PyTorch](https://github.com/HAWLYQ/ET-Cap)][[Website](https://aim3-ruc.github.io/ExploreAndTell/)]
@@ -1622,7 +1623,7 @@ If you find this repository useful, please consider citing this list:
     * **?**: "Benchmarking Robustness of Adaptation Methods on Pre-trained Vision-Language Models", NeurIPS (Datasets and Benchmarks), 2023 (*LMU Munich*). [[Paper](https://arxiv.org/abs/2306.02080)][[PyTorch](https://github.com/adarobustness/adaptation_robustness)][[Website](https://adarobustness.github.io/)]
 * Compositional Reasoning:
     * **SugarCrepe**: "SugarCrepe: Fixing Hackable Benchmarks for Vision-Language Compositionality", NeurIPS, 2023 (*AI2*). [[Paper](https://arxiv.org/abs/2306.14610)][[PyTorch](https://github.com/RAIVNLab/sugar-crepe)]
-    * **DAC**: "Dense and Aligned Captions (DAC) Promote Compositional Reasoning in VL Models", arXiv, 2023 (*IBM*). [[Paper](https://arxiv.org/abs/2305.19595)]
+    * **DAC**: "Dense and Aligned Captions (DAC) Promote Compositional Reasoning in VL Models", NeurIPS, 2023 (*IBM*). [[Paper](https://arxiv.org/abs/2305.19595)]
     * **CoVLM**: "CoVLM: Composing Visual Entities and Relationships in Large Language Models Via Communicative Decoding", arXiv, 2023 (*UMass*). [[Paper](https://arxiv.org/abs/2311.03354)][[PyTorch](https://github.com/UMass-Foundation-Model/CoVLM)][[Website](https://vis-www.cs.umass.edu/CoVLM/)]
 * Vocabulary-free Image Classification (VIC):
     * **CaSED**: "Vocabulary-free Image Classification", arXiv, 2023 (*University of Trento, Italy*). [[Paper](https://arxiv.org/abs/2306.00917)][[PyTorch](https://github.com/altndrr/vic)]
