@@ -133,6 +133,7 @@ If you find this repository useful, please consider citing this list:
 * "Vision + Language Applications: A Survey", CVPRW, 2023 (*Ritsumeikan University, Japan*). [[Paper](https://arxiv.org/abs/2305.14598)][[GitHub](https://github.com/Yutong-Zhou-cv/Awesome-Text-to-Image)]
 * "Multimodal Learning With Transformers: A Survey", TPAMI, 2023 (*Tsinghua & Oxford*). [[Paper](https://arxiv.org/abs/2206.06488)]
 * "A Survey of Visual Transformers", TNNLS, 2023 (*CAS*). [[Paper](https://arxiv.org/abs/2111.06091)][[GitHub](https://github.com/arekavandi/Transformer-SOD)]
+* "Video Understanding with Large Language Models: A Survey", arXiv, 2023 (*University of Rochester*). [[Paper](https://arxiv.org/abs/2312.17432)][[GitHub](https://github.com/yunlong10/Awesome-LLMs-for-Video-Understanding)]
 * "Visual Instruction Tuning towards General-Purpose Multimodal Model: A Survey", arXiv, 2023 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2312.16602)]
 * "A Survey of Reasoning with Foundation Models: Concepts, Methodologies, and Outlook", arXiv, 2023 (*Huawei*). [[Paper](https://arxiv.org/abs/2312.11562)][[GitHub](https://github.com/reasoning-survey/Awesome-Reasoning-Foundation-Models)]
 * "A Challenger to GPT-4V? Early Explorations of Gemini in Visual Expertise", arXiv, 2023 (*Tencent*). [[Paper](https://arxiv.org/abs/2312.12436)][GitHub](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)]
@@ -683,6 +684,7 @@ If you find this repository useful, please consider citing this list:
 * **CLIPTex**: "CLIP meets Model Zoo Experts: Pseudo-Supervision for Visual Enhancement", arXiv, 2023 (*Apple*). [[Paper](https://arxiv.org/abs/2310.14108)]
 * **NxTP**: "Object Recognition as Next Token Prediction", arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2312.02142)][[PyTorch](https://github.com/kaiyuyue/nxtp)]
 * **?**: "Scaling Laws of Synthetic Images for Model Training ... for Now", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2312.04567)][[PyTorch](https://github.com/google-research/syn-rep-learn)]
+* **SynCLR**: "Learning Vision from Models Rivals Learning Vision from Data", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2312.17742)][[PyTorch](https://github.com/google-research/syn-rep-learn)]
 * **SSAT**: "Limited Data, Unlimited Potential: A Study on ViTs Augmented by Masked Autoencoders", WACV, 2024 (*UNC Charlotte*). [[Paper](https://arxiv.org/abs/2310.20704)][[Code (in construction)](https://github.com/dominickrei/Limited-data-vits)]
 #### Robustness + Transformer
 * **ViT-Robustness**: "Understanding Robustness of Transformers for Image Classification", ICCV, 2021 (*Google*). [[Paper](https://arxiv.org/abs/2103.14586)]
@@ -1964,6 +1966,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **PAT**: "PAT: Position-Aware Transformer for Dense Multi-Label Action Detection", arXiv, 2023 (*University of Surrey, UK*). [[Paper](https://arxiv.org/abs/2308.05051)]
 * **ViT-TAD**: "Adapting Short-Term Transformers for Action Detection in Untrimmed Videos", arXiv, 2023 (*Nanjing University (NJU)*). [[Paper](https://arxiv.org/abs/2312.01897)]
 * **Cafe**: "Towards More Practical Group Activity Detection: A New Benchmark and Model", arXiv, 2023 (*POSTECH*). [[Paper](https://arxiv.org/abs/2312.02878)][[PyTorch](https://github.com/dk-kim/CAFE_codebase)][[Website](https://dk-kim.github.io/CAFE/)]
+* **?**: "Multiscale Vision Transformers meet Bipartite Matching for efficient single-stage Action Localization", arXiv, 2023 (*Queen Mary, UK*). [[Paper](https://arxiv.org/abs/2312.17686)]
 
 [[Back to Overview](#overview)]
 
