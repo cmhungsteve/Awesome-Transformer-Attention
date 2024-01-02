@@ -763,6 +763,7 @@ If you find this repository useful, please consider citing this list:
 * **TAP-ADL**: "Robustifying Token Attention for Vision Transformers", ICCV, 2023 (*MPI*). [[Paper](https://arxiv.org/abs/2303.11126)][[PyTorch](https://github.com/guoyongcs/TAPADL)]
 * **EWA**: "Experts Weights Averaging: A New General Training Scheme for Vision Transformers", arXiv, 2023 (*Fudan*). [[Paper](https://arxiv.org/abs/2308.06093)]
 * **SlowFormer**: "SlowFormer: Universal Adversarial Patch for Attack on Compute and Energy Efficiency of Inference Efficient Vision Transformers", arXiv, 2023 (*UC Davis*). [[Paper](https://arxiv.org/abs/2310.02544)][[PyTorch](https://github.com/UCDvision/SlowFormer)]
+* **DTM**: "Masked Image Modeling via Dynamic Token Morphing", arXiv, 2023 (*NAVER*). [[Paper](https://arxiv.org/abs/2401.00254)]
 #### Model Compression + Transformer
 * **ViT-quant**: "Post-Training Quantization for Vision Transformer", NeurIPS, 2021 (*Huawei*). [[Paper](https://arxiv.org/abs/2106.14156)]
 * **VTP**: "Visual Transformer Pruning", arXiv, 2021 (*Huawei*). [[Paper](https://arxiv.org/abs/2104.08500)]
