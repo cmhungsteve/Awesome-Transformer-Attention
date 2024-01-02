@@ -1115,7 +1115,7 @@ If you find this repository useful, please consider citing this list:
 * **SeRum**: "Attention Where It Matters: Rethinking Visual Document Understanding with Selective Region Concentration", ICCV, 2023 (*Tencent*). [[Paper](https://arxiv.org/abs/2309.01131)]
 * **DocTr**: "DocTr: Document Transformer for Structured Information Extraction in Documents", ICCV, 2023 (*Amazon*). [[Paper](https://arxiv.org/abs/2307.07929)]
 * **FormNetV2**: "FormNetV2: Multimodal Graph Contrastive Learning for Form Document Information Extraction", ACL, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2305.02549)]
-* **mmc4**: "Multimodal C4: An Open, Billion-scale Corpus of Images Interleaved With Text", arXiv, 2023 (*AI2*). [[Paper](https://arxiv.org/abs/2304.06939)][[GitHub (in construction)](https://github.com/allenai/mmc4)]
+* **mmc4**: "Multimodal C4: An Open, Billion-scale Corpus of Images Interleaved With Text", NeurIPS, 2023 (*AI2*). [[Paper](https://arxiv.org/abs/2304.06939)][[GitHub](https://github.com/allenai/mmc4)]
 * **DUBLIN**: "DUBLIN - Document Understanding By Language-Image Network", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2305.14218)]
 * **DocFormerv2**: "DocFormerv2: Local Features for Document Understanding", arXiv, 2023 (*Amazon*). [[Paper](https://arxiv.org/abs/2306.01733)]
 * **DocumentCLIP**: "DocumentCLIP: Linking Figures and Main Body Text in Reflowed Documents", arXiv, 2023 (*Adobe*). [[Paper](https://arxiv.org/abs/2306.06306)][[PyTorch](https://github.com/FuxiaoLiu/DocumentCLIP)]
@@ -1189,6 +1189,7 @@ If you find this repository useful, please consider citing this list:
     * **GRSer**: "Advancing Referring Expression Segmentation Beyond Single Image", ICCV, 2023 (*SenseTime*). [[Paper](https://arxiv.org/abs/2305.12452)][[Code (in construction)](https://github.com/yixuan730/group-res)]
     * **APE**: "Not All Features Matter: Enhancing Few-shot CLIP with Adaptive Prior Refinement", ICCV, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2304.01195)][[PyTorch](https://github.com/yangyangyang127/APE)]
     * **TAS**: "Text Augmented Spatial-aware Zero-shot Referring Image Segmentation", EMNLP, 2023 (*Zhejiang*). [[Paper](https://arxiv.org/abs/2310.18049)]
+    * **RIO**: "RIO: A Benchmark for Reasoning Intention-Oriented Objects in Open Environments", NeurIPS, 2023 (*Beijing Jiaotong University*). [[Paper](https://arxiv.org/abs/2310.17290)][[PyTorch](https://github.com/qumengxue/RIO)][[Website](https://reasonio.github.io/)]
     * **VLT**: "VLT: Vision-Language Transformer and Query Generation for Referring Segmentation", TPAMI, 2023 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2210.15871)]
     * **IREG**: "Whether you can locate or not? Interactive Referring Expression Generation", arXiv, 2023 (*Beijing University of Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2308.09977)][[Code (in construction)](https://github.com/superhero-7/IREG)]
     * **R-RIS**: "Towards Robust Referring Image Segmentation", arXiv, 2023 (*Peking*). [[Paper](https://arxiv.org/abs/2209.09554)][[Code (in construction)](https://github.com/jzwu48033552/robust-ref-seg)][[Website](https://lxtgh.github.io/project/robust_ref_seg/)]
@@ -1628,7 +1629,7 @@ If you find this repository useful, please consider citing this list:
     * **DAC**: "Dense and Aligned Captions (DAC) Promote Compositional Reasoning in VL Models", NeurIPS, 2023 (*IBM*). [[Paper](https://arxiv.org/abs/2305.19595)]
     * **CoVLM**: "CoVLM: Composing Visual Entities and Relationships in Large Language Models Via Communicative Decoding", arXiv, 2023 (*UMass*). [[Paper](https://arxiv.org/abs/2311.03354)][[PyTorch](https://github.com/UMass-Foundation-Model/CoVLM)][[Website](https://vis-www.cs.umass.edu/CoVLM/)]
 * Vocabulary-free Image Classification (VIC):
-    * **CaSED**: "Vocabulary-free Image Classification", arXiv, 2023 (*University of Trento, Italy*). [[Paper](https://arxiv.org/abs/2306.00917)][[PyTorch](https://github.com/altndrr/vic)]
+    * **CaSED**: "Vocabulary-free Image Classification", NeurIPS, 2023 (*University of Trento, Italy*). [[Paper](https://arxiv.org/abs/2306.00917)][[PyTorch](https://github.com/altndrr/vic)]
 * Retrieval Augmentated Methods:
     * **?**: "Improving Image Recognition by Retrieving from Web-Scale Image-Text Data", CVPR, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2304.05173)]
 * NeRF:
