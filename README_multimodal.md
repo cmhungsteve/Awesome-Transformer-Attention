@@ -1373,9 +1373,9 @@ If you find this repository useful, please consider citing this list:
     * **OVIR-3D**: "OVIR-3D: Open-Vocabulary 3D Instance Retrieval Without Training on 3D Data", CoRL, 2023 (*Rutgers*). [[Paper](https://arxiv.org/abs/2311.02873)][[PyTorch](https://github.com/shiyoung77/OVIR-3D)]
     * **3D-OVS**: "3D Open-vocabulary Segmentation with Foundation Models", NeurIPS, 2023 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2305.14093)][[PyTorch](https://github.com/Kunhao-Liu/3D-OVS)]
     * **OpenMask3D**: "OpenMask3D: Open-Vocabulary 3D Instance Segmentation", NeurIPS, 2023 (*ETHZ*). [[Paper](https://arxiv.org/abs/2306.13631)][[PyTorch](https://github.com/OpenMask3D/openmask3d)][[Website](https://openmask3d.github.io/)]
+    * **Seal**: "Segment Any Point Cloud Sequences by Distilling Vision Foundation Models", NeurIPS, 2023 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2306.09347)][[PyTorch](https://github.com/youquanl/Segment-Any-Point-Cloud)]
     * **OVO**: "OVO: Open-Vocabulary Occupancy", arXiv, 2023 (*Fudan*). [[Paper](https://arxiv.org/abs/2305.16133)]
     * **SAM3D**: "SAM3D: Segment Anything in 3D Scenes", arXiv, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2306.03908)][[PyTorch](https://github.com/Pointcept/SegmentAnything3D)]
-    * **Seal**: "Segment Any Point Cloud Sequences by Distilling Vision Foundation Models", arXiv, 2023 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2306.09347)][[PyTorch (in construction)](https://github.com/youquanl/Segment-Any-Point-Cloud)]
     * **Lowis3D**: "Lowis3D: Language-Driven Open-World Instance-Level 3D Scene Understanding", arXiv, 2023 (*HKU*). [[Paper](https://arxiv.org/abs/2308.00353)]
     * **OpenIns3D**: "OpenIns3D: Snap and Lookup for 3D Open-vocabulary Instance Segmentation", arXiv, 2023 (*Cambridge*). [[Paper](https://arxiv.org/abs/2309.00616)][[Website](https://zheninghuang.github.io/OpenIns3D/)]
     * **ConceptGraphs**: "ConceptGraphs: Open-Vocabulary 3D Scene Graphs for Perception and Planning", arXiv, 2023 (*University of Toronto + Universite de Montreal*). [[Paper](https://arxiv.org/abs/2309.16650)][[PyTorch](https://github.com/concept-graphs/concept-graphs)][[Website](https://concept-graphs.github.io/)]
@@ -1582,8 +1582,8 @@ If you find this repository useful, please consider citing this list:
     * **TM2D**: "TM2D: Bimodality Driven 3D Dance Generation via Music-Text Integration", arXiv, 2023 (*NUS*). [[Paper](https://arxiv.org/abs/2304.02419)][[Code (in construction)](https://github.com/Garfield-kh/TM2D)][[Website](https://garfield-kh.github.io/TM2D/)]
 * Conceptual Understanding:
     * **?**: "Text-To-Concept (and Back) via Cross-Model Alignment", ICML, 2023 (*Maryland*). [[Paper](https://arxiv.org/abs/2305.06386)]
+    * **EAC**: "Explain Any Concept: Segment Anything Meets Concept-Based Explanation", NeurIPS, 2023 (*HKUST*). [[Paper](https://arxiv.org/abs/2305.10289)]
     * **?**: "Probing Conceptual Understanding of Large Visual-Language Models", arXiv, 2023 (*UCF + SRI*). [[Paper](https://arxiv.org/abs/2304.03659)]
-    * **EAC**: "Explain Any Concept: Segment Anything Meets Concept-Based Explanation", arXiv, 2023 (*HKUST*). [[Paper](https://arxiv.org/abs/2305.10289)]
 * Model Merging:
     * **VL-merging**: "An Empirical Study of Multimodal Model Merging", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2304.14933)][[PyTorch](https://github.com/ylsung/vl-merging)]
 * Visual Word Sense Disambiguation (VWSD):
