@@ -130,6 +130,7 @@ If you find this repository useful, please consider citing this list:
 ---
 
 ## Survey
+* "Masked Modeling for Self-supervised Representation Learning on Vision and Beyond", arXiv, 2024 (*Westlake University, China*). [[Paper](https://arxiv.org/abs/2401.00897)][[GitHub](https://github.com/Lupin1998/Awesome-MIM)]
 * "Vision + Language Applications: A Survey", CVPRW, 2023 (*Ritsumeikan University, Japan*). [[Paper](https://arxiv.org/abs/2305.14598)][[GitHub](https://github.com/Yutong-Zhou-cv/Awesome-Text-to-Image)]
 * "Multimodal Learning With Transformers: A Survey", TPAMI, 2023 (*Tsinghua & Oxford*). [[Paper](https://arxiv.org/abs/2206.06488)]
 * "A Survey of Visual Transformers", TNNLS, 2023 (*CAS*). [[Paper](https://arxiv.org/abs/2111.06091)][[GitHub](https://github.com/arekavandi/Transformer-SOD)]
@@ -1082,6 +1083,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **V-DETR**: "V-DETR: DETR with Vertex Relative Position Encoding for 3D Object Detection", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2308.04409)][[Code (in construction)](https://github.com/yichaoshen-MS/V-DETR)]
 * **3DiffTection**: "3DiffTection: 3D Object Detection with Geometry-Aware Diffusion Features", arXiv, 2023 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2311.04391)][[Code (in construction)](https://github.com/nv-tlabs/3DiffTection)][[Website](https://research.nvidia.com/labs/toronto-ai/3difftection/)]
 * **PTT**: "PTT: Point-Trajectory Transformer for Efficient Temporal 3D Object Detection", arXiv, 2023 (*UC Merced*). [[Paper](https://arxiv.org/abs/2312.08371)][[Code (in construction)](https://github.com/kuanchihhuang/PTT)]
+* **ScatterFormer**: "ScatterFormer: Efficient Voxel Transformer with Scattered Linear Attention", arXiv, 2024 (*The Hong Kong Polytechnic University*). [[Paper](https://arxiv.org/abs/2401.00912)][[Code (in construction)](https://github.com/skyhehe123/ScatterFormer)]
 
 [[Back to Overview](#overview)]
 
