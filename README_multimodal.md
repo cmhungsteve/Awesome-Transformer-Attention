@@ -390,6 +390,7 @@ If you find this repository useful, please consider citing this list:
     * **?**: "Zero-Shot Video Moment Retrieval from Frozen Vision-Language Models", WACV, 2024 (*Queen Mary University of London*). [[Paper](https://arxiv.org/abs/2309.00661)]
     * **LLM4VG**: "LLM4VG: Large Language Models Evaluation for Video Grounding", arXiv, 2023 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2312.14206)]
     * **Grounding-Prompter**: "Grounding-Prompter: Prompting LLM with Multimodal Information for Temporal Sentence Grounding in Long Videos", arXiv, 2023 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2312.17117)]
+    * **Video-GroundingDINO**: "Video-GroundingDINO: Towards Open-Vocabulary Spatio-Temporal Video Grounding", arXiv, 2024 (*MBZUAI*). [[Paper](https://arxiv.org/abs/2401.00901)][[Code (in construction)](https://github.com/TalalWasim/Video-GroundingDINO)]
 * 3D:
     * **ViL3DRel**: "Language Conditioned Spatial Relation Reasoning for 3D Object Grounding", NeurIPS, 2022 (*INRIA*). [[Paper](https://arxiv.org/abs/2211.09646)][[Website](https://cshizhe.github.io/projects/vil3dref.html)]
     * **LAR**: "Look Around and Refer: 2D Synthetic Semantics Knowledge Distillation for 3D Visual Grounding", NeurIPS, 2022 (*KAUST*). [[Paper](https://arxiv.org/abs/2211.14241)][[Website](https://eslambakr.github.io/LAR.github.io/)]
