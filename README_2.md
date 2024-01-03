@@ -1820,6 +1820,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **MethaneMapper**: "MethaneMapper: Spectral Absorption aware Hyperspectral Transformer for Methane Detection", CVPR, 2023 (*UCSB*). [[Paper](https://arxiv.org/abs/2304.02767)]
     * **GFM**: "Towards Geospatial Foundation Models via Continual Pretraining", ICCV, 2023 (*Amazon*). [[Paper](https://arxiv.org/abs/2302.04476)][[PyTorch (in construction)](https://github.com/mmendiet/GFM)]
     * **Scale-MAE**: "Scale-MAE: A Scale-Aware Masked Autoencoder for Multiscale Geospatial Representation Learning", ICCV, 2023 (*Berkeley*). [[Paper](https://arxiv.org/abs/2212.14532)]
+    * **SAMRS**: "SAMRS: Scaling-up Remote Sensing Segmentation Dataset with Segment Anything Model", NeurIPS (Datasets and Benchmarks), 2023 (*iFlytek, China*). [[Paper](https://arxiv.org/abs/2305.02034)][[PyTorch](https://github.com/ViTAE-Transformer/SAMRS)]
     * **RS5M**: "RS5M: A Large Scale Vision-Language Dataset for Remote Sensing Vision-Language Foundation Model", arXiv, 2023 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2306.11300)][[Code (in construction)](https://github.com/om-ai-lab/RS5M)]
     * **RSGPT**: "RSGPT: A Remote Sensing Vision Language Model and Benchmark", arXiv, 2023 (*Alibaba*). [[Paper](https://arxiv.org/abs/2307.15266)][[Code (in construction)](https://github.com/Lavender105/RSGPT)]
 * Robotics:
