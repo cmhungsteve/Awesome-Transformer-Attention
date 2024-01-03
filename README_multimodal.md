@@ -701,6 +701,9 @@ If you find this repository useful, please consider citing this list:
     * **UnIVAL**: "Unified Model for Image, Video, Audio and Language Tasks", arXiv, 2023 (*Sorbonne University, France*). [[Paper](https://arxiv.org/abs/2307.16184)][[PyTorch](https://github.com/mshukor/UnIVAL)][[Website](https://unival-model.github.io/)]
     * **ViT-Lens**: "ViT-Lens: Towards Omni-modal Representations", arXiv, 2023 (*Tencent*). [[Paper](https://arxiv.org/abs/2308.10185)][[PyTorch](https://github.com/TencentARC/ViT-Lens)]
     * **ViT-Lens-2**: "ViT-Lens-2: Gateway to Omni-modal Intelligence", arXiv, 2023 (*Tencent*). [[Paper](https://arxiv.org/abs/2311.16081)][[PyTorch](https://github.com/TencentARC/ViT-Lens)]
+* Others:
+    * **C-MCR**: "Connecting Multi-modal Contrastive Representations", NeurIPS, 2023 (*Zhejiang*). [[Paper](https://arxiv.org/abs/2305.14381)][[PyTorch](https://github.com/MCR-PEFT/C-MCR)][[Website](https://c-mcr.github.io/C-MCR/)]
+    * **UMI**: "Learning Unseen Modality Interaction", NeurIPS, 2023 (*UvA*). [[Paper](https://arxiv.org/abs/2306.12795)][[Code (in construction)](https://github.com/xiaobai1217/Unseen-Modality-Interaction)][[Website](https://xiaobai1217.github.io/Unseen-Modality-Interaction/)]
 
 [[Back to Overview](#overview)]
 
@@ -1138,6 +1141,7 @@ If you find this repository useful, please consider citing this list:
     * **Aurora**: "Parameter-efficient Tuning of Large-scale Multimodal Foundation Model", NeurIPS, 2023 (*Peking*). [[Paper](https://arxiv.org/abs/2305.08381)][[PyTorch](https://github.com/WillDreamer/Aurora)]
     * **DAS**: "Parameter and Computation Efficient Transfer Learning for Vision-Language Pre-trained Models", NeurIPS, 2023 (*Xiamen University*). [[Paper](https://arxiv.org/abs/2309.01479)][[PyTorch](https://github.com/DoubtedSteam/DAS)]
     * **Paxion**: "Paxion: Patching Action Knowledge in Video-Language Foundation Models", NeurIPS, 2023 (*UIUC*). [[Paper](https://arxiv.org/abs/2305.10683)][[PyTorch](https://github.com/MikeWangWZHL/Paxion)]
+    * **m<sup>2</sup>-Mix**: "Geodesic Multi-Modal Mixup for Robust Fine-Tuning", NeurIPS, 2023 (*University of Seoul*). [[Paper](https://arxiv.org/abs/2203.03897)][[PyTorch (in construction)](https://github.com/changdaeoh/multimodal-mixup)]
     * **RLCF**: "Test-Time Adaptation with CLIP Reward for Zero-Shot Generalization in Vision-Language Models", arXiv, 2023 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2305.18010)][[Code (in construction)](https://github.com/mzhaoshuai/RLCF)]
     * **LMAT**: "Can Large Pre-trained Models Help Vision Models on Perception Tasks?", arXiv, 2023 (*Huawei*). [[Paper](https://arxiv.org/abs/2306.00693)][[Website (in construction)](https://dingning97.github.io/imagenet-descriptions/)]
     * **TaCA**: "TaCA: Upgrading Your Visual Foundation Model with Task-agnostic Compatible Adapter", arXiv, 2023 (*Tencent*). [[Paper](https://arxiv.org/abs/2306.12642)][[Code (in construction)](https://github.com/TencentARC/TaCA)]
@@ -1426,6 +1430,7 @@ If you find this repository useful, please consider citing this list:
     * **MAViL**: "MAViL: Masked Audio-Video Learners", NeurIPS, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2212.08071)][[Code (in construction)](https://github.com/facebookresearch/MAViL)]
     * **LSLD**: "Revisit Weakly-Supervised Audio-Visual Video Parsing from the Language Perspective", NeurIPS, 2023 (*Wuhan University*). [[Paper](https://arxiv.org/abs/2306.00595)][[PyTorch](https://github.com/fyyCS/LSLD)]
     * **DG-SCT**: "Cross-modal Prompts: Adapting Large Pre-trained Models for Audio-Visual Downstream Tasks", NeurIPS, 2023 (*Zhejiang*). [[Paper](https://arxiv.org/abs/2311.05152)][[PyTorch](https://github.com/haoyi-duan/DG-SCThttps://arxiv.org/abs/2311.05152)]
+    * **VALOR**: "Modality-Independent Teachers Meet Weakly-Supervised Audio-Visual Event Parser", NeurIPS, 2023 (*NTU*). [[Paper](https://arxiv.org/abs/2305.17343)][[PyTorch](https://github.com/Franklin905/VALOR)]
     * **GestureDiffuCLIP**: "GestureDiffuCLIP: Gesture Diffusion Model with CLIP Latents", arXiv, 2023 (*Peking University*). [[Paper](https://arxiv.org/abs/2303.14613)]
     * **MMViT**: "MMViT: Multiscale Multiview Vision Transformers", arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2305.00104)]
     * **?**: "Learning Spatial Features from Audio-Visual Correspondence in Egocentric Videos" arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2307.04760)]
@@ -1586,11 +1591,11 @@ If you find this repository useful, please consider citing this list:
 * Object Hallucination:
     * **POPE**: "Evaluating Object Hallucination in Large Vision-Language Models", arXiv, 2023 (*Renmin University of China*). [[Paper](https://arxiv.org/abs/2305.10355)][[Code (in construction)](https://github.com/RUCAIBox/POPE)]
 * Social Interaction:
-    * **HIINT**: "HIINT: Historical, Intra- and Inter- personal Dynamics Modeling with Cross-person Memory Transformer", arXiv, 2023 (*MIT*). [[Paper](https://arxiv.org/abs/2305.12369)]
+    * **HIINT**: "HIINT: Historical, Intra- and Inter-personal Dynamics Modeling with Cross-person Memory Transformer", arXiv, 2023 (*MIT*). [[Paper](https://arxiv.org/abs/2305.12369)]
 * Evaluation:
     * **HELM**: "Holistic Evaluation of Text-To-Image Models", NeurIPS (Datasets and Benchmarks), 2023 (*Stanford*). [[Paper](https://arxiv.org/abs/2311.04287)][[PyTorch](https://github.com/stanford-crfm/helm)][[Website](https://crfm.stanford.edu/heim/)]
     * **VisIT-Bench**: "VisIT-Bench: A Benchmark for Vision-Language Instruction Following Inspired by Real-World Use", NeurIPS (Datasets and Benchmarks), 2023 (*UW*). [[Paper](https://arxiv.org/abs/2308.06595)][[PyTorch](https://github.com/mlfoundations/VisIT-Bench/)][[Website](https://visit-bench.github.io/)]
-    * **Perception-Test**: "Perception Test: A Diagnostic Benchmark for Multimodal Video Models", arXiv, 2023 (*DeepMind*). [[Paper](https://arxiv.org/abs/2305.13786)][[GitHub](https://github.com/deepmind/perception_test)]
+    * **Perception-Test**: "Perception Test: A Diagnostic Benchmark for Multimodal Video Models", NeurIPS (Datasets and Benchmarks), 2023 (*DeepMind*). [[Paper](https://arxiv.org/abs/2305.13786)][[GitHub](https://github.com/deepmind/perception_test)]
     * **VLM-Probing**: "Scalable Performance Analysis for Vision-Language Models", Joint Conference on Lexical and Computational Semantics (\*SEM), 2023 (*UMich*). [[Paper](https://arxiv.org/abs/2305.18786)][[PyTorch](https://github.com/MichiganNLP/Scalable-VLM-Probing)]
     * **VisualGPTScore**: "VisualGPTScore: Visio-Linguistic Reasoning with Multimodal Generative Pre-Training Scores", arXiv, 2023 (*CMU*). [[Paper](https://arxiv.org/abs/2306.01879)][[Code (in construction)](https://github.com/linzhiqiu/visual_gpt_score/)][[Website](https://linzhiqiu.github.io/papers/visual_gpt_score/)]
     * **LVLM-eHub**: "LVLM-eHub: A Comprehensive Evaluation Benchmark for Large Vision-Language Models", arXiv, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2306.09265)][[PyTorch (in construction)](https://github.com/OpenGVLab/Multi-Modality-Arena)]
@@ -1639,7 +1644,8 @@ If you find this repository useful, please consider citing this list:
 * NeRF:
     * **NeRDi**: "NeRDi: Single-View NeRF Synthesis with Language-Guided Diffusion as General Image Priors", CVPR, 2023 (*Waymo*). [[Paper](https://arxiv.org/abs/2212.03267)]
 * Model Selection:
-    * **LOVM**: "LOVM: Language-Only Vision Model Selection", NeurIPS, 2023 (*Stanford*). [[Paper](https://arxiv.org/abs/2306.08893)] 
+    * **LOVM**: "LOVM: Language-Only Vision Model Selection", NeurIPS, 2023 (*Stanford*). [[Paper](https://arxiv.org/abs/2306.08893)]
+    * **EMMS**: "Foundation Model is Efficient Multimodal Multitask Model Selector", NeurIPS, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2308.06262)][[PyTorch](https://github.com/OpenGVLab/Multitask-Model-Selector)]
 * Multimodal Interaction:
     * **?**: "Learning Unseen Modality Interaction", arXiv, 2023 (*University of Amsterdam*). [[Paper](https://arxiv.org/abs/2306.12795)]
 * Multimodal Translation:
@@ -1653,5 +1659,8 @@ If you find this repository useful, please consider citing this list:
 * Applications:
     * **MM-Navigator**: "GPT-4V in Wonderland: Large Multimodal Models for Zero-Shot Smartphone GUI Navigation", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2311.07562)][[Code (in construction)](https://github.com/zzxslp/MM-Navigator)]
     * **?**: "GPT-4V(ision) as A Social Media Analysis Engine", arXiv, 2023 (*University of Rochester*). [[Paper](https://arxiv.org/abs/2311.07547)][[GitHub](https://github.com/VIStA-H/GPT-4V_Social_Media)]
+* X-Supervised:
+    * **CAPro**: "CAPro: Webly Supervised Learning with Cross-Modality Aligned Prototypes", NeurIPS, 2023 (*Tencent*). [[Paper](https://arxiv.org/abs/2310.09761)][[PyTorch](https://github.com/yuleiqin/capro)]
+    * **MetaMAE**: "Modality-Agnostic Self-Supervised Learning with Meta-Learned Masked Auto-Encoder", NeurIPS, 2023 (*KAIST*). [[Paper](https://arxiv.org/abs/2310.16318)][[PyTorch](https://github.com/alinlab/MetaMAE)]
 
 [[Back to Overview](#overview)]
