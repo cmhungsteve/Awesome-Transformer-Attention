@@ -657,6 +657,7 @@ If you find this repository useful, please consider citing this list:
 * **CapPa**: "Image Captioners Are Scalable Vision Learners Too", NeurIPS, 2023 (*DeepMind*). [[Paper](https://arxiv.org/abs/2306.07915)][[JAX](https://github.com/google-research/big_vision)]
 * **IV-CL**: "Does Visual Pretraining Help End-to-End Reasoning?", NeurIPS, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2307.08506)]
 * **CLIPA**: "An Inverse Scaling Law for CLIP Training", NeurIPS, 2023 (*UC Santa Cruz*). [[Paper](https://arxiv.org/abs/2305.07017)][[PyTorch](https://github.com/UCSC-VLAA/CLIPA)]
+* **Hummingbird**: "Towards In-context Scene Understanding", NeurIPS, 2023 (*DeepMind*). [[Paper](https://arxiv.org/abs/2306.01667)]
 * **?**: "Improving Multimodal Datasets with Image Captioning", NeurIPS (Datasets and Benchmarks), 2023 (*UW*). [[Paper](https://arxiv.org/abs/2307.10350)]
 * **CCViT**: "Centroid-centered Modeling for Efficient Vision Transformer Pre-training", arXiv, 2023 (*Wuhan University*). [[Paper](https://arxiv.org/abs/2303.04664)]
 * **SoftCLIP**: "SoftCLIP: Softer Cross-modal Alignment Makes CLIP Stronger", arXiv, 2023 (*Tencent*). [[Paper](https://arxiv.org/abs/2303.17561)]
