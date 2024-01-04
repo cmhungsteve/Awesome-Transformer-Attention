@@ -275,6 +275,7 @@ If you find this repository useful, please consider citing this list:
     * **LSS**: "Long Story Short: a Summarize-then-Search Method for Long Video Question Answering", BMVC, 2023 (*Yonsei University*). [[Paper](https://arxiv.org/abs/2311.01233)]
     * **Flipped-VQA**: "Large Language Models are Temporal and Causal Reasoners for Video Question Answering", EMNLP, 2023 (*Korea University*). [[Paper](https://arxiv.org/abs/2310.15747)][[Code (in construction)](https://github.com/mlvlab/Flipped-VQA)]
     * **SeViLA**: "Self-Chained Image-Language Model for Video Localization and Question Answering", NeurIPS, 2023 (*UNC*). [[Paper](https://arxiv.org/abs/2305.06988)][[PyTorch](https://github.com/Yui010206/SeViLA)]
+    * **Glance-Focus**: "Glance and Focus: Memory Prompting for Multi-Event Video Question Answering", NeurIPS, 2023 (*CAS*). [[Paper](https://arxiv.org/abs/2401.01529)][[PyTorch](https://github.com/ByZ0e/Glance-Focus)]
     * **FunQA**: "FunQA: Towards Surprising Video Comprehension", arXiv, 2023 (*Beijing University of Posts and Telecommunication*). [[Paper](https://arxiv.org/abs/2306.14899)][[Code (in construction)](https://github.com/Jingkang50/FunQA)][[Website](https://funqa-benchmark.github.io/)]
     * **ProViQ**: "Zero-Shot Video Question Answering with Procedural Programs", arXiv, 2023 (*CMU*). [[Paper](https://arxiv.org/abs/2312.00937)][[Website](https://rccchoudhury.github.io/proviq2023/)]
     * **R-VLM**: "Retrieval-based Video Language Model for Efficient Long Video Question Answering", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2312.04931)]
@@ -283,6 +284,7 @@ If you find this repository useful, please consider citing this list:
     * **VLAP**: "VLAP: Efficient Video-Language Alignment via Frame Prompting and Distilling for Video Question Answering", arXiv, 2023 (*Amazon*). [[Paper](https://arxiv.org/abs/2312.08367)]
     * **Vista-LLaMA**: "Vista-LLaMA: Reliable Video Narrator via Equal Distance to Visual Tokens", arXiv, 2023 (*Zhejiang*). [[Paper](https://arxiv.org/abs/2312.08870)][[Website](https://jinxxian.github.io/Vista-LLaMA/)]
     * **LLoVi**: "An Improved Baseline for Reasoning Segmentation with Large Language Model", arXiv, 2023 (*UNC*). [[Paper](https://arxiv.org/abs/2312.17240)][[Code (in construction)](https://github.com/CeeZh/LLoVi)]
+    * **Sports-QA**: "Sports-QA: A Large-Scale Video Question Answering Benchmark for Complex and Professional Sports", arXiv, 2024 (*University of Melbourne*). [[Paper](https://arxiv.org/abs/2401.01505)]
 * 3D:
     * **3D-VQA**: "CLIP-Guided Vision-Language Pre-training for Question Answering in 3D Scenes", CVPRW, 2023 (*ETHZ*). [[Paper](https://arxiv.org/abs/2304.06061)][[Code (in construction)](https://github.com/AlexDelitzas/3D-VQA)]
     * **PO3D-VQA**: "3D-Aware Visual Question Answering about Parts, Poses and Occlusions", NeurIPS, 2023 (*JHU*). [[Paper](https://arxiv.org/abs/2310.17914)][[Code (in construction)](https://github.com/XingruiWang/3D-Aware-VQA)]
@@ -391,6 +393,7 @@ If you find this repository useful, please consider citing this list:
     * **LLM4VG**: "LLM4VG: Large Language Models Evaluation for Video Grounding", arXiv, 2023 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2312.14206)]
     * **Grounding-Prompter**: "Grounding-Prompter: Prompting LLM with Multimodal Information for Temporal Sentence Grounding in Long Videos", arXiv, 2023 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2312.17117)]
     * **Video-GroundingDINO**: "Video-GroundingDINO: Towards Open-Vocabulary Spatio-Temporal Video Grounding", arXiv, 2024 (*MBZUAI*). [[Paper](https://arxiv.org/abs/2401.00901)][[Code (in construction)](https://github.com/TalalWasim/Video-GroundingDINO)]
+    * **CG-STVG**: "Context-Guided Spatio-Temporal Video Grounding", arXiv, 2024 (*CAS*). [[Paper](https://arxiv.org/abs/2401.01578)][[Code (in construction)](https://github.com/HengLan/CGSTVG)]
 * 3D:
     * **ViL3DRel**: "Language Conditioned Spatial Relation Reasoning for 3D Object Grounding", NeurIPS, 2022 (*INRIA*). [[Paper](https://arxiv.org/abs/2211.09646)][[Website](https://cshizhe.github.io/projects/vil3dref.html)]
     * **LAR**: "Look Around and Refer: 2D Synthetic Semantics Knowledge Distillation for 3D Visual Grounding", NeurIPS, 2022 (*KAUST*). [[Paper](https://arxiv.org/abs/2211.14241)][[Website](https://eslambakr.github.io/LAR.github.io/)]
@@ -801,6 +804,7 @@ If you find this repository useful, please consider citing this list:
     * **CoVR**: "CoVR: Learning Composed Video Retrieval from Web Video Captions", arXiv, 2023 (*Ecole des Ponts ParisTech (ENPC), France*). [[Paper](https://arxiv.org/abs/2308.14746)][[PyTorch](https://github.com/lucas-ventura/CoVR/)][[Website](https://imagine.enpc.fr/~ventural/covr/)]
     * **LanguageBind**: "LanguageBind: Extending Video-Language Pretraining to N-modality by Language-based Semantic Alignment", arXiv, 2023 (*Peking*). [[Paper](https://arxiv.org/abs/2310.01852)][[PyTorch](https://github.com/PKU-YuanGroup/LanguageBind)]
     * **10k-Words**: "A Video is Worth 10,000 Words: Training and Benchmarking with Diverse Captions for Better Long Video Retrieval", arXiv, 2023 (*SRI*). [[Paper](https://arxiv.org/abs/2312.00115)][[Website](https://mgwillia.github.io/10k-words/)]
+    * **?**: "Detours for Navigating Instructional Videos", arXiv, 2024 (*Meta*). [[Paper](https://arxiv.org/abs/2401.01823)]
 * Vision-Audio-Text:
     * **Multi-SK**: "Preserving Modality Structure Improves Multi-Modal Learning", ICCV, 2023 (*UCF*). [[Paper](https://arxiv.org/abs/2308.13077)][[Code (in construction)](https://github.com/Swetha5/Multi_Sinkhorn_Knopp)]
 * Others:
@@ -920,6 +924,7 @@ If you find this repository useful, please consider citing this list:
     * **StoryGPT-V**: "Large Language Models as Consistent Story Visualizers", arXiv, 2023 (*KAUST*). [[Paper](https://arxiv.org/abs/2312.02252)][[PyTorch](https://anonymous.4open.science/r/story/README.md)][[Website](https://storygpt-v.s3.amazonaws.com/index.html)]
     * **StackedDiffusion**: "Generating Illustrated Instructions", arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2312.04552)][[Website](https://facebookresearch.github.io/IllustratedInstructions/)]
     * **VL-GPT**: "VL-GPT: A Generative Pre-trained Transformer for Vision and Language Understanding and Generation", arXiv, 2023 (*Tencent*). [[Paper](https://arxiv.org/abs/2312.09251)][[Code (in construction)](https://github.com/AILab-CVC/VL-GPT)]
+    * **aMUSEd**: "aMUSEd: An Open MUSE Reproduction", arXiv, 2024 (*Hugging Face*). [[Paper](https://arxiv.org/abs/2401.01808)]
 * Video:
     * **Imagen-Video**: "Imagen Video: High Definition Video Generation with Diffusion Models", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2210.02303)][[Website](https://imagen.research.google/video/)]
     * **Phenaki**: "Phenaki: Variable Length Video Generation From Open Domain Textual Description", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2210.02399)][[PyTorch (LAION-AI, in construction)](https://github.com/LAION-AI/phenaki)][[Website](https://phenaki.video/)]
