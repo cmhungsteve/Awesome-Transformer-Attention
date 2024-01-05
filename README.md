@@ -1251,6 +1251,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **LP-OVOD**: "LP-OVOD: Open-Vocabulary Object Detection by Linear Probing", WACV, 2024 (*VinAI, Vietnam*). [[Paper](https://arxiv.org/abs/2310.17109)]
     * **ProxyDet**: "ProxyDet: Synthesizing Proxy Novel Classes via Classwise Mixup for Open Vocabulary Object Detection", WACV, 2024 (*NAVER*). [[Paper](https://arxiv.org/abs/2312.07266)]
     * **WSOVOD**: "Weakly Supervised Open-Vocabulary Object Detection", AAAI, 2024 (*Xiamen University*). [[Paper](https://arxiv.org/abs/2312.12437)][[Code (i construction)](https://github.com/HunterJ-Lin/WSOVOD)]
+    * **MM-Grounding-DINO**: "An Open and Comprehensive Pipeline for Unified Object Grounding and Detection", arXiv, 2024 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2401.02361)][[PyTorch](https://github.com/open-mmlab/mmdetection/tree/main/configs/grounding_dino)]
 * Pedestrian Detection:
     * **PED**: "DETR for Crowd Pedestrian Detection", arXiv, 2020 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2012.06785)][[PyTorch](https://github.com/Hatmm/PED-DETR-for-Pedestrian-Detection)]
     * **?**: "Effectiveness of Vision Transformer for Fast and Accurate Single-Stage Pedestrian Detection", NeurIPS, 2022 (*ICL*). [[Paper](https://openreview.net/forum?id=eow_ZGaw24j)]
@@ -1483,6 +1484,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **TAP**: "Tokenize Anything via Prompting", arXiv, 2023 (*BAAI*). [[Paper](https://arxiv.org/abs/2312.09128)][[PyTorch](https://github.com/baaivision/tokenize-anything)]
     * **MobileSAMv2**: "MobileSAMv2: Faster Segment Anything to Everything", arXiv, 2023 (*Kyung Hee University*). [[Paper](https://arxiv.org/abs/2312.09579)][[PyTorch](https://github.com/ChaoningZhang/MobileSAM)]
     * **TinySAM**: "TinySAM: Pushing the Envelope for Efficient Segment Anything Model", arXiv, 2023 (*Huawei*). [[Paper](https://arxiv.org/abs/2312.13789)][[PyTorch](https://github.com/xinghaochen/TinySAM)]
+    * **BA-SAM**: "BA-SAM: Scalable Bias-Mode Attention Mask for Segment Anything Model", arXiv, 2024 (*Shanghai Jiao Tong*). [[Paper](https://arxiv.org/abs/2401.02317)]
 * Vision-Language:
     * **LSeg**: "Language-driven Semantic Segmentation", ICLR, 2022 (*Cornell*). [[Paper](https://arxiv.org/abs/2201.03546)][[PyTorch](https://github.com/isl-org/lang-seg)]
     * **ZegFormer**: "Decoupling Zero-Shot Semantic Segmentation", CVPR, 2022 (*Wuhan University*). [[Paper](https://arxiv.org/abs/2112.07910)][[PyTorch](https://github.com/dingjiansw101/ZegFormer)]
@@ -1764,6 +1766,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **InvPT++**: "InvPT++: Inverted Pyramid Multi-Task Transformer for Visual Scene Understanding", arXiv, 2023 (*HKUST*). [[Paper](https://arxiv.org/abs/2306.04842)]
     * **DeMTG**: "Deformable Mixer Transformer with Gating for Multi-Task Learning of Dense Prediction", arXiv, 2023 (*Wuhan University*). [[Paper](https://arxiv.org/abs/2308.05721)][[PyTorch](https://github.com/yangyangxu0/DeMTG)]
     * **SRT**: "Sub-token ViT Embedding via Stochastic Resonance Transformers", arXiv, 2023 (*UCLA*). [[Paper](https://arxiv.org/abs/2310.03967)]
+    * **ODIN**: "ODIN: A Single Model for 2D and 3D Perception", arXiv, 2024 (*CMU*). [[Paper](https://arxiv.org/abs/2401.02416)][[Code (in construction)](https://github.com/ayushjain1144/odin)][[Website](https://odin-seg.github.io/)]
 * Forecasting:
     * **DiffAttn**: "Joint Forecasting of Panoptic Segmentations with Difference Attention", CVPR, 2022 (*UIUC*). [[Paper](https://arxiv.org/abs/2204.07157)][[Code (in construction)](https://github.com/cgraber/psf-diffattn)]
 * LiDAR:
