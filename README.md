@@ -9,6 +9,7 @@ Contributions in any form to make this list more comprehensive are welcome.
 If you find this repository useful, please consider **[citing](#citation)** and **★STARing** this list. <br>
 Feel free to share this list with others! 
 
+**[Update: January, 2024]** Added all the related papers from *NeurIPS 2023*! <br>
 **[Update: December, 2023]** Added all the related papers from *ICCV 2023*! <br>
 **[Update: September, 2023]** Split the multi-modal paper list to [README_multimodal.md](README_multimodal.md) <br>
 **[Update: June, 2023]** Added all the related papers from *ICML 2023*! <br>
@@ -659,6 +660,7 @@ If you find this repository useful, please consider citing this list:
 * **CLIPA**: "An Inverse Scaling Law for CLIP Training", NeurIPS, 2023 (*UC Santa Cruz*). [[Paper](https://arxiv.org/abs/2305.07017)][[PyTorch](https://github.com/UCSC-VLAA/CLIPA)]
 * **Hummingbird**: "Towards In-context Scene Understanding", NeurIPS, 2023 (*DeepMind*). [[Paper](https://arxiv.org/abs/2306.01667)]
 * **RevColV2**: "RevColV2: Exploring Disentangled Representations in Masked Image Modeling", NeurIPS, 2023 (*Megvii*). [[Paper](https://arxiv.org/abs/2309.01005)][[PyTorch](https://github.com/megvii-research/RevCol)]
+* **ALIA**: "Diversify Your Vision Datasets with Automatic Diffusion-Based Augmentation", NeurIPS, 2023 (*Berkeley*). [[Paper](https://arxiv.org/abs/2305.16289)][[PyTorch](https://github.com/lisadunlap/ALIA)]
 * **?**: "Improving Multimodal Datasets with Image Captioning", NeurIPS (Datasets and Benchmarks), 2023 (*UW*). [[Paper](https://arxiv.org/abs/2307.10350)]
 * **CCViT**: "Centroid-centered Modeling for Efficient Vision Transformer Pre-training", arXiv, 2023 (*Wuhan University*). [[Paper](https://arxiv.org/abs/2303.04664)]
 * **SoftCLIP**: "SoftCLIP: Softer Cross-modal Alignment Makes CLIP Stronger", arXiv, 2023 (*Tencent*). [[Paper](https://arxiv.org/abs/2303.17561)]
@@ -1080,6 +1082,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **MV2D**: "Object as Query: Lifting any 2D Object Detector to 3D Detection", ICCV, 2023 (*Beihang University*). [[Paper](https://arxiv.org/abs/2301.02364)]
 * **?**: "An Empirical Analysis of Range for 3D Object Detection", ICCVW, 2023 (*CMU*). [[Paper](https://arxiv.org/abs/2308.04054)]
 * **Uni3DETR**: "Uni3DETR: Unified 3D Detection Transformer", NeurIPS, 2023 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2310.05699)][[PyTorch](https://github.com/zhenyuw16/Uni3DETR)]
+* **Diffusion-SS3D**: "Diffusion-SS3D: Diffusion Model for Semi-supervised 3D Object Detection", NeurIPS, 2023 (*NYCU*). [[Paper](https://arxiv.org/abs/2312.02966)][[PyTorch](https://github.com/luluho1208/Diffusion-SS3D)]
 * **STEMD**: "Spatial-Temporal Enhanced Transformer Towards Multi-Frame 3D Object Detection", arXiv, 2023 (*CUHK*). [[Paper](https://arxiv.org/abs/2307.00347)][[Code (in construction)(https://github.com/Eaphan/STEMD)]]
 * **V-DETR**: "V-DETR: DETR with Vertex Relative Position Encoding for 3D Object Detection", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2308.04409)][[Code (in construction)](https://github.com/yichaoshen-MS/V-DETR)]
 * **3DiffTection**: "3DiffTection: 3D Object Detection with Geometry-Aware Diffusion Features", arXiv, 2023 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2311.04391)][[Code (in construction)](https://github.com/nv-tlabs/3DiffTection)][[Website](https://research.nvidia.com/labs/toronto-ai/3difftection/)]
@@ -1789,6 +1792,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **VPD**: "Unleashing Text-to-Image Diffusion Models for Visual Perception", ICCV, 2023 (*Tsinghua University*). [[Paper](https://arxiv.org/abs/2303.02153)][[PyTorch](https://github.com/wl-zhao/VPD)][[Website](https://vpd.ivg-research.xyz/)]
     * **Dataset-Diffusion**: "Dataset Diffusion: Diffusion-based Synthetic Dataset Generation for Pixel-Level Semantic Segmentation", NeurIPS, 2023 (*VinAI, Vietnam*). [[Paper](https://arxiv.org/abs/2309.14303)][[PyTorch](https://github.com/VinAIResearch/Dataset-Diffusion)][[Website](https://dataset-diffusion.github.io/)]
     * **SegRefiner**: "SegRefiner: Towards Model-Agnostic Segmentation Refinement with Discrete Diffusion Process", NeurIPS, 2023 (*ByteDance*). [[Paper](https://arxiv.org/abs/2312.12425)][[PyTorch](https://github.com/MengyuWang826/SegRefiner)]
+    * **DatasetDM**: "DatasetDM: Synthesizing Data with Perception Annotations Using Diffusion Models", NeurIPS, 2023 (*Zhejiang*). [[Paper](https://arxiv.org/abs/2308.06160)][[PyTorch](https://github.com/showlab/DatasetDM)][[Website](https://weijiawu.github.io/DatasetDM_page/)]
     * **DiffSeg**: "Diffuse, Attend, and Segment: Unsupervised Zero-Shot Segmentation using Stable Diffusion", arXiv, 2023 (*Georgia Tech*). [[Paper](https://arxiv.org/abs/2308.12469)]
     * **DiffSegmenter**: "Diffusion Model is Secretly a Training-free Open Vocabulary Semantic Segmenter", arXiv, 2023 (*Beihang University*). [[Paper](https://arxiv.org/abs/2309.02773)]
     * **?**: "From Text to Mask: Localizing Entities Using the Attention of Text-to-Image Diffusion Models", arXiv, 2023 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2309.04109)]
