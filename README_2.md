@@ -1794,6 +1794,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **LoCoOp**: "LoCoOp: Few-Shot Out-of-Distribution Detection via Prompt Learning", NeurIPS, 2023 (*The University of Tokyo*). [[Paper](https://arxiv.org/abs/2306.01293)][[PyTorch](https://github.com/AtsuMiyai/LoCoOp)]
     * **GL-MCM**: "Zero-Shot In-Distribution Detection in Multi-Object Settings Using Vision-Language Foundation Models", arXiv, 2023 (*The University of Tokyo*). [[Paper](https://arxiv.org/abs/2304.04521)]
     * **CLIP-OOD**: "Does CLIP's Generalization Performance Mainly Stem from High Train-Test Similarity?", arXiv, 2023 (*University of Tübingen*). [[Paper](https://arxiv.org/abs/2310.09562)]
+    * **MOODv2**: "MOODv2: Masked Image Modeling for Out-of-Distribution Detection", arXiv, 2024 (*CUHK*). [[Paper](https://arxiv.org/abs/2401.02611)]
 * Pedestrian Intention:
     * **IntFormer**: "IntFormer: Predicting pedestrian intention with the aid of the Transformer architecture", arXiv, 2021 (*Universidad de Alcala*). [[Paper](https://arxiv.org/abs/2105.08647)]
 * Physics Simulation:
@@ -2007,6 +2008,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **SAM-IQA**: "SAM-IQA: Can Segment Anything Boost Image Quality Assessment?", arXiv, 2023 (*Megvii*). [[Paper](https://arxiv.org/abs/2307.04455)][[Code (in construction)](https://github.com/Hedlen/SAM-IQA)]
     * **LoDa**: "Local Distortion Aware Efficient Transformer Adaptation for Image Quality Assessment", arXiv, 2023 (*Wuhan University*). [[Paper](https://arxiv.org/abs/2308.12001)]
     * **Q-Align**: "Q-Align: Teaching LMMs for Visual Scoring via Discrete Text-Defined Levels", arXiv, 2023 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2312.17090)][[PyTorch](https://github.com/Q-Future/Q-Align)][[Website](https://q-align.github.io/)]
+    * **SAMA**: "Scaling and Masking: A New Paradigm of Data Sampling for Image and Video Quality Assessment", AAAI, 2024 (*Xidian University*). [[Paper](https://arxiv.org/abs/2401.02614)][[PyTorch](https://github.com/Sissuire/SAMA)]
 * Visual Reasoning:
     * **SAViR-T**: "SAViR-T: Spatially Attentive Visual Reasoning with Transformers", arXiv, 2022 (*Rutgers University*). [[Paper](https://arxiv.org/abs/2206.09265)]
 * Wide-angle lenses:
