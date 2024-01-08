@@ -364,7 +364,8 @@ If you find this repository useful, please consider citing this list:
 * **GroupMixFormer**: "Advancing Vision Transformers with Group-Mix Attention", arXiv, 2023 (*HKU*). [[Paper](https://arxiv.org/abs/2311.15157)][[PyTorch](https://github.com/AILab-CVC/GroupMixFormer)]
 * **PGT**: "Perceptual Group Tokenizer: Building Perception with Iterative Grouping", arXiv, 2023 (*DeepMind*). [[Paper](https://arxiv.org/abs/2311.18296)]
 * **SCHEME**: "SCHEME: Scalable Channer Mixer for Vision Transformers", arXiv, 2023 (*UCSD*). [[Paper](https://arxiv.org/abs/2312.00412)]
-* **Agent Attention**: "Agent Attention: On the Integration of Softmax and Linear Attention", arXiv, 2023 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2312.08874)][[PyTorch](https://github.com/LeapLabTHU/Agent-Attention)]
+* **Agent-Attention**: "Agent Attention: On the Integration of Softmax and Linear Attention", arXiv, 2023 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2312.08874)][[PyTorch](https://github.com/LeapLabTHU/Agent-Attention)]
+* **SPFormer**: "SPFormer: Enhancing Vision Transformer with Superpixel Representation", arXiv, 2024 (*JHU*). [[Paper](https://arxiv.org/abs/2401.02931)]
 #### Efficient Vision Transformer
 * **DeiT**: "Training data-efficient image transformers & distillation through attention", ICML, 2021 (*Facebook*). [[Paper](https://arxiv.org/abs/2012.12877)][[PyTorch](https://github.com/facebookresearch/deit)]
 * **ConViT**: "ConViT: Improving Vision Transformers with Soft Convolutional Inductive Biases", ICML, 2021 (*Facebook*). [[Paper](https://arxiv.org/abs/2103.10697)][[Code](https://github.com/facebookresearch/convit)]
@@ -691,6 +692,7 @@ If you find this repository useful, please consider citing this list:
 * **?**: "Scaling Laws of Synthetic Images for Model Training ... for Now", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2312.04567)][[PyTorch](https://github.com/google-research/syn-rep-learn)]
 * **SynCLR**: "Learning Vision from Models Rivals Learning Vision from Data", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2312.17742)][[PyTorch](https://github.com/google-research/syn-rep-learn)]
 * **SSAT**: "Limited Data, Unlimited Potential: A Study on ViTs Augmented by Masked Autoencoders", WACV, 2024 (*UNC Charlotte*). [[Paper](https://arxiv.org/abs/2310.20704)][[Code (in construction)](https://github.com/dominickrei/Limited-data-vits)]
+* **DVT**: "Denoising Vision Transformers", arXiv, 2024 (*USC*). [[Paper](https://arxiv.org/abs/2401.02957)][[PyTorch](https://github.com/Jiawei-Yang/Denoising-ViT)][[Website](https://jiawei-yang.github.io/DenoisingViT/)]
 #### Robustness + Transformer
 * **ViT-Robustness**: "Understanding Robustness of Transformers for Image Classification", ICCV, 2021 (*Google*). [[Paper](https://arxiv.org/abs/2103.14586)]
 * **SAGA**: "On the Robustness of Vision Transformers to Adversarial Examples", ICCV, 2021 (*University of Connecticut*). [[Paper](https://arxiv.org/abs/2104.02610)]
@@ -1488,6 +1490,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **MobileSAMv2**: "MobileSAMv2: Faster Segment Anything to Everything", arXiv, 2023 (*Kyung Hee University*). [[Paper](https://arxiv.org/abs/2312.09579)][[PyTorch](https://github.com/ChaoningZhang/MobileSAM)]
     * **TinySAM**: "TinySAM: Pushing the Envelope for Efficient Segment Anything Model", arXiv, 2023 (*Huawei*). [[Paper](https://arxiv.org/abs/2312.13789)][[PyTorch](https://github.com/xinghaochen/TinySAM)]
     * **BA-SAM**: "BA-SAM: Scalable Bias-Mode Attention Mask for Segment Anything Model", arXiv, 2024 (*Shanghai Jiao Tong*). [[Paper](https://arxiv.org/abs/2401.02317)]
+    * **OV-SAM**: "Open-Vocabulary SAM: Segment and Recognize Twenty-thousand Classes Interactively", arXiv, 2024 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2401.02955)][[PyTorch](https://github.com/HarborYuan/ovsam)][[Website](https://www.mmlab-ntu.com/project/ovsam/)]
 * Vision-Language:
     * **LSeg**: "Language-driven Semantic Segmentation", ICLR, 2022 (*Cornell*). [[Paper](https://arxiv.org/abs/2201.03546)][[PyTorch](https://github.com/isl-org/lang-seg)]
     * **ZegFormer**: "Decoupling Zero-Shot Semantic Segmentation", CVPR, 2022 (*Wuhan University*). [[Paper](https://arxiv.org/abs/2112.07910)][[PyTorch](https://github.com/dingjiansw101/ZegFormer)]
