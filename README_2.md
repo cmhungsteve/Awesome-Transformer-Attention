@@ -74,6 +74,7 @@ If you find this repository useful, please consider citing this list:
 * **SCTN**: "SCTN: Sparse Convolution-Transformer Network for Scene Flow Estimation", AAAI, 2022 (*KAUST*). [[Paper](https://arxiv.org/abs/2105.04447)]
 * **AWT-Net**: "Adaptive Wavelet Transformer Network for 3D Shape Representation Learning", ICLR, 2022 (*NYU*). [[Paper](https://openreview.net/forum?id=5MLb3cLCJY)]
 * **?**: "Deep Point Cloud Reconstruction", ICLR, 2022 (*KAIST*). [[Paper](https://arxiv.org/abs/2111.11704)]
+* **PointMLP**: "Rethinking Network Design and Local Geometry in Point Cloud: A Simple Residual MLP Framework", ICLR, 2022 (*Northeastern*). [[Paper](https://arxiv.org/abs/2202.07123)][[PyTorch](https://github.com/ma-xu/pointMLP-pytorch)]
 * **HiTPR**: "HiTPR: Hierarchical Transformer for Place Recognition in Point Cloud", ICRA, 2022 (*Nanjing University of Science and Technology*). [[Paper](https://arxiv.org/abs/2204.05481)]
 * **FastPointTransformer**: "Fast Point Transformer", CVPR, 2022 (*POSTECH*). [[Paper](https://arxiv.org/abs/2112.04702)]
 * **REGTR**: "REGTR: End-to-end Point Cloud Correspondences with Transformers", CVPR, 2022 (*NUS, Singapore*). [[Paper](https://arxiv.org/abs/2203.14517)][[PyTorch](https://github.com/yewzijian/RegTR)]
