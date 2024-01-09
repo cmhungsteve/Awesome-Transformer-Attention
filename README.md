@@ -341,6 +341,7 @@ If you find this repository useful, please consider citing this list:
 * **SimPool**: "Keep It SimPool: Who Said Supervised Transformers Suffer from Attention Deficit?", ICCV, 2023 (*National Technical University of Athens*). [[Paper](https://arxiv.org/abs/2309.06891)]
 * **LaPE**: "LaPE: Layer-adaptive Position Embedding for Vision Transformers with Independent Layer Normalization", ICCV, 2023 (*Peking*). [[Paper](https://openaccess.thecvf.com/content/ICCV2023/html/Yu_LaPE_Layer-adaptive_Position_Embedding_for_Vision_Transformers_with_Independent_Layer_ICCV_2023_paper.html)][[PyTorch](https://github.com/Ingrid725/LaPE)]
 * **CB**: "Scratching Visual Transformer's Back with Uniform Attention", ICCV, 2023 (*NAVER*). [[Paper](https://openaccess.thecvf.com/content/ICCV2023/html/Hyeon-Woo_Scratching_Visual_Transformers_Back_with_Uniform_Attention_ICCV_2023_paper.html)]
+* **STL**: "Fully Attentional Networks with Self-emerging Token Labeling", ICCV, 2023 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2401.03844)][[PyTorch](https://github.com/NVlabs/STL)]
 * **ClusterFormer**: "ClusterFormer: Clustering As A Universal Visual Learner", NeurIPS, 2023 (*Rochester Institute of Technology (RIT)*). [[Paper](https://arxiv.org/abs/2309.13196)]
 * **SVT**: "Scattering Vision Transformer: Spectral Mixing Matters", NeurIPS, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2311.01310)][[PyTorch](https://github.com/badripatro/svt)][[Website](https://badripatro.github.io/svt/)]
 * **CrossFormer++**: "CrossFormer++: A Versatile Vision Transformer Hinging on Cross-scale Attention", arXiv, 2023 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2303.06908)][[PyTorch](https://github.com/cheerss/CrossFormer)]
@@ -1009,6 +1010,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **RefineBox**: "Enhancing Your Trained DETRs with Box Refinement", arXiv, 2023 (*CAS*). [[Paper](https://arxiv.org/abs/2307.11828)][[Code (in construction)](https://github.com/YiqunChen1999/RefineBox)]
     * **?**: "Revisiting DETR Pre-training for Object Detection", arXiv, 2023 (*Toronto*). [[Paper](https://arxiv.org/abs/2308.01300)]
     * **Gen2Det**: "Gen2Det: Generate to Detect", arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2312.04566)]
+    * **MS-DETR**: "MS-DETR: Efficient DETR Training with Mixed Supervision", arXiv, 2024 (*Baidu*). [[Paper](https://arxiv.org/abs/2401.03989)][[Code (in construction)](https://github.com/Atten4Vis/MS-DETR)]
 * Transformer-based backbone:
     * **ViT-FRCNN**: "Toward Transformer-Based Object Detection", arXiv, 2020 (*Pinterest*). [[Paper](https://arxiv.org/abs/2012.09958)]
     * **WB-DETR**: "WB-DETR: Transformer-Based Detector Without Backbone", ICCV, 2021 (*CAS*). [[Paper](https://openaccess.thecvf.com/content/ICCV2021/html/Liu_WB-DETR_Transformer-Based_Detector_Without_Backbone_ICCV_2021_paper.html)]
