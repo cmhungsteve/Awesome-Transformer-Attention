@@ -285,6 +285,7 @@ If you find this repository useful, please consider citing this list:
     * **VLAP**: "VLAP: Efficient Video-Language Alignment via Frame Prompting and Distilling for Video Question Answering", arXiv, 2023 (*Amazon*). [[Paper](https://arxiv.org/abs/2312.08367)]
     * **Vista-LLaMA**: "Vista-LLaMA: Reliable Video Narrator via Equal Distance to Visual Tokens", arXiv, 2023 (*Zhejiang*). [[Paper](https://arxiv.org/abs/2312.08870)][[Website](https://jinxxian.github.io/Vista-LLaMA/)]
     * **LLoVi**: "An Improved Baseline for Reasoning Segmentation with Large Language Model", arXiv, 2023 (*UNC*). [[Paper](https://arxiv.org/abs/2312.17240)][[Code (in construction)](https://github.com/CeeZh/LLoVi)]
+    * **STAIR**: "STAIR: Spatial-Temporal Reasoning with Auditable Intermediate Results for Video Question Answering", AAAI, 2024 (*Peking*). [[Paper](https://arxiv.org/abs/2401.03901)]
     * **Sports-QA**: "Sports-QA: A Large-Scale Video Question Answering Benchmark for Complex and Professional Sports", arXiv, 2024 (*University of Melbourne*). [[Paper](https://arxiv.org/abs/2401.01505)]
 * 3D:
     * **3D-VQA**: "CLIP-Guided Vision-Language Pre-training for Question Answering in 3D Scenes", CVPRW, 2023 (*ETHZ*). [[Paper](https://arxiv.org/abs/2304.06061)][[Code (in construction)](https://github.com/AlexDelitzas/3D-VQA)]
@@ -1551,6 +1552,7 @@ If you find this repository useful, please consider citing this list:
     * **TinyGPT-V**: "TinyGPT-V: Efficient Multimodal Large Language Model via Small Backbones", arXiv, 2023 (*Anhui Polytechnic University*). [[Paper](https://arxiv.org/abs/2312.16862)][[PyTorch](https://github.com/DLYuanGod/TinyGPT-V)]
     * **ChartAssisstant**: "ChartAssisstant: A Universal Chart Multimodal Language Model via Chart-to-Table Pre-training and Multitask Instruction Tuning", arXiv, 2024 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2401.02384)]
     * **LLaVA-ϕ**: "LLaVA-ϕ: Efficient Multi-Modal Assistant with Small Language Model", arXiv, 2024 (*Midea Group, China*). [[Paper](https://arxiv.org/abs/2401.02330)][[Code (in construction)](https://github.com/zhuyiche/llava-phi)]
+    * **CaMML**: "CaMML: Context-Aware Multimodal Learner for Large Models", arXiv, 2024 (*Amazon*). [[Paper](https://arxiv.org/abs/2401.03149)]
 * Conversation (Video):
     * **Video-ChatCaptioner**: "Video ChatCaptioner: Towards the Enriched Spatiotemporal Descriptions", arXiv, 2023 (*KAUST*). [[Paper](https://arxiv.org/abs/2304.04227)][[PyTorch](https://github.com/Vision-CAIR/ChatCaptioner)]
     * **ChatVideo**: "ChatVideo: A Tracklet-centric Multimodal and Versatile Video Understanding System", arXiv, 2023 (*Fudan*). [[Paper](https://arxiv.org/abs/2304.14407)][[Website](https://www.wangjunke.info/ChatVideo/)]
