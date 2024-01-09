@@ -367,6 +367,7 @@ If you find this repository useful, please consider citing this list:
     * **SMAT**: "Separable Self and Mixed Attention Transformers for Efficient Object Tracking", WACV, 2024 (*Concordia University, Canada*). [[Paper](https://arxiv.org/abs/2309.03979)][[PyTorch](https://github.com/goutamyg/SMAT)]
     * **ContrasTR**: "Contrastive Learning for Multi-Object Tracking with Transformers", WACV, 2024 (*KU Leuven*). [[Paper](https://arxiv.org/abs/2311.08043)]
     * **M3SOT**: "M3SOT: Multi-frame, Multi-field, Multi-space 3D Single Object Tracking", AAAI, 2024 (*Xidian University*). [[Paper](https://arxiv.org/abs/2312.06117)]
+    * **EVPTrack**: "Explicit Visual Prompts for Visual Object Tracking", AAAI, 2024 (*Guangxi Normal University*). [[Paper](https://arxiv.org/abs/2401.03142)]
 * 3D:
     * **PTT**: "PTT: Point-Track-Transformer Module for 3D Single Object Tracking in Point Clouds", IROS, 2021 (*Northeastern University*). [[Paper](https://arxiv.org/abs/2108.06455)][[PyTorch (in construction)](https://github.com/shanjiayao/PTT)]
     * **LTTR**: "3D Object Tracking with Transformer", BMVC, 2021 (*Northeastern University, China*). [[Paper](https://arxiv.org/abs/2110.14921)][[Code (in construction)](https://github.com/3bobo/lttr)]
@@ -618,6 +619,7 @@ If you find this repository useful, please consider citing this list:
     * **GIFT**: "GIFT: Generative Interpretable Fine-Tuning Transformers", arXiv, 2023 (*NC State*). [[Paper](https://arxiv.org/abs/2312.00700)][[Code (in construction)](https://github.com/savadikarc/gift)]
     * **FAPFT**: "Partial Fine-Tuning: A Successor to Full Fine-Tuning for Vision Transformers", arXiv, 2023 (*Fudan*). [[Paper](https://arxiv.org/abs/2312.15681)]
     * **VMT-Adapter**: "VMT-Adapter: Parameter-Efficient Transfer Learning for Multi-Task Dense", AAAI, 2024 (*Tencent*). [[Paper](https://arxiv.org/abs/2312.08733)]
+    * **Dr<sup>2</sup>Net**: "Dr<sup>2</sup>Net: Dynamic Reversible Dual-Residual Networks for Memory-Efficient Finetuning", arXiv, 2024 (*KAUST*). [[Paper](https://arxiv.org/abs/2401.04105)]
 * Domain Adaptation/Domain Generalization/Federated Learning:
     * **TransDA**: "Transformer-Based Source-Free Domain Adaptation", arXiv, 2021 (*Haerbin Institute of Technology*). [[Paper](https://arxiv.org/abs/2105.14138)][[PyTorch](https://github.com/ygjwd12345/TransDA)]
     * **TVT**: "TVT: Transferable Vision Transformer for Unsupervised Domain Adaptation", arXiv, 2021 (*UT Arlington + Kuaishou*). [[Paper](https://arxiv.org/abs/2108.05988)]
@@ -657,6 +659,7 @@ If you find this repository useful, please consider citing this list:
     * **VPA**: "VPA: Fully Test-Time Visual Prompt Adaptation", arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2309.15251)]
     * **FedTPG**: "Text-driven Prompt Generation for Vision-Language Models in Federated Learning", arXiv, 2023 (*Bosch*). [[Paper](https://arxiv.org/abs/2310.06123)]
     * **FedLGT**: "Language-Guided Transformer for Federated Multi-Label Classification", AAAI, 2024 (*NTU*). [[Paper](https://arxiv.org/abs/2312.07165)][[Code (in construction)](https://github.com/Jack24658735/FedLGT)]
+    * **LLaVO**: "Large Language Models as Visual Cross-Domain Learners", arXiv, 2024 (*Southern University of Science and Technology*). [[Paper](https://arxiv.org/abs/2401.03253)][[Website](https://ll-a-vo.github.io/)][[PyTorch](https://github.com/LL-a-VO/LLaVO)]
 * X-Supervised:
     * **Semiformer**: "Semi-Supervised Vision Transformers", ECCV, 2022 (*Fudan University*). [[Paper](https://arxiv.org/abs/2111.11067)][[PyTorch](https://github.com/wengzejia1/Semiformer)]
     * **SVL-Adapter**: "SVL-Adapter: Self-Supervised Adapter for Vision-Language Pretrained Models", BMVC, 2022 (*UCL*). [[Paper](https://arxiv.org/abs/2210.03794)][[Code (in construction)](https://github.com/omipan/svl_adapter)]
@@ -1991,6 +1994,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **?**: "Training-free Object Counting with Prompts", arXiv, 2023 (*A\⋆STAR*). [[Paper](https://arxiv.org/abs/2307.00038)][[PyTorch](https://github.com/shizenglin/training-free-object-counter)]
     * **T-Rex**: "T-Rex: Counting by Visual Prompting", arXiv, 2023 (*IDEA*). [[Paper](https://arxiv.org/abs/2311.13596)][[Website](https://trex-counting.github.io/)]
     * **VLCounter**: "VLCounter: Text-aware VIsual Representation for Zero-Shot Object Counting", AAAI, 2024 (*Sungkyunkwan University, Korea*). [[Paper](https://arxiv.org/abs/2312.16580)][[PyTorch](https://github.com/Seunggu0305/VLCounter)]
+    * **Gramformer**: "Gramformer: Learning Crowd Counting via Graph-Modulated Transformer", AAAI, 2024 (*Xi'an Jiaotong*). [[Paper](https://arxiv.org/abs/2401.03870)][[Code (in construction)](https://github.com/LoraLinH/Gramformer)]
 * Visual Quality Assessment:
     * **TRIQ**: "Transformer for Image Quality Assessment", arXiv, 2020 (*NORCE*). [[Paper](https://arxiv.org/abs/2101.01097)][[Tensorflow-Keras](https://github.com/junyongyou/triq)]
     * **IQT**: "Perceptual Image Quality Assessment with Transformers", CVPRW, 2021 (*LG*). [[Paper](https://arxiv.org/abs/2104.14730)][[Code (in construction)](https://github.com/manricheon/IQT)]
@@ -2190,6 +2194,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
 * **EVA**: "Efficient Attention via Control Variates", ICLR, 2023 (*HKU*). [[Paper](https://openreview.net/forum?id=G-uNfHKrj46)]
 * **STTABT**: "Sparse Token Transformer with Attention Back Tracking", ICLR, 2023 (*KAIST*). [[Paper](https://openreview.net/forum?id=VV0hSE8AxCw)]
 * **Mega**: "Mega: Moving Average Equipped Gated Attention", ICLR, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2209.10655)][[PyTorch](https://github.com/facebookresearch/mega)]
+* **SeTformer**: "SeTformer is What You Need for Vision and Language", AAAI, 2024 (*East China Normal University*). [[Paper](https://arxiv.org/abs/2401.03540)]
 
 [[Back to Overview](#overview)]
 
