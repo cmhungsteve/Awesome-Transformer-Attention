@@ -1383,7 +1383,7 @@ If you find this repository useful, please consider citing this list:
     * **CLIP-FO3D**: "CLIP-FO3D: Learning Free Open-world 3D Scene Representations from 2D Dense CLIP", ICCVW, 2023 (*Tsinghua University*). [[Paper](https://arxiv.org/abs/2303.04748)]
     * **OVSG**: "Context-Aware Entity Grounding with Open-Vocabulary 3D Scene Graphs", CoRL, 2023 (*Rutgers*). [[Paper](https://arxiv.org/abs/2309.15940)][[PyTorch](https://github.com/changhaonan/OVSG)]
     * **OVIR-3D**: "OVIR-3D: Open-Vocabulary 3D Instance Retrieval Without Training on 3D Data", CoRL, 2023 (*Rutgers*). [[Paper](https://arxiv.org/abs/2311.02873)][[PyTorch](https://github.com/shiyoung77/OVIR-3D)]
-    * **3D-OVS**: "3D Open-vocabulary Segmentation with Foundation Models", NeurIPS, 2023 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2305.14093)][[PyTorch](https://github.com/Kunhao-Liu/3D-OVS)]
+    * **3D-OVS**: "Weakly Supervised 3D Open-vocabulary Segmentation", NeurIPS, 2023 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2305.14093)][[PyTorch](https://github.com/Kunhao-Liu/3D-OVS)]
     * **OpenMask3D**: "OpenMask3D: Open-Vocabulary 3D Instance Segmentation", NeurIPS, 2023 (*ETHZ*). [[Paper](https://arxiv.org/abs/2306.13631)][[PyTorch](https://github.com/OpenMask3D/openmask3d)][[Website](https://openmask3d.github.io/)]
     * **Seal**: "Segment Any Point Cloud Sequences by Distilling Vision Foundation Models", NeurIPS, 2023 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2306.09347)][[PyTorch](https://github.com/youquanl/Segment-Any-Point-Cloud)]
     * **OVO**: "OVO: Open-Vocabulary Occupancy", arXiv, 2023 (*Fudan*). [[Paper](https://arxiv.org/abs/2305.16133)]
