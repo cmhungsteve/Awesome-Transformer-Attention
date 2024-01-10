@@ -617,6 +617,7 @@ If you find this repository useful, please consider citing this list:
     * **TiMix**: "TiMix: Text-aware Image Mixing for Effective Vision-Language Pre-training", AAAI, 2024 (*Peking*). [[Paper](https://arxiv.org/abs/2312.08846)]
     * **ECLIPSE**: "Expediting Contrastive Language-Image Pretraining via Self-distilled Encoders", AAAI, 2024 (*LG*). [[Paper](https://arxiv.org/abs/2312.12659)]
     * **COSMO**: "COSMO: COntrastive Streamlined MultimOdal Model with Interleaved Pre-Training", arXiv, 2024 (*Microsoft*). [[Paper](https://arxiv.org/abs/2401.00849)][[PyTorch](https://github.com/showlab/cosmo)][[Website](https://fingerrec.github.io/cosmo/)]
+    * **?**: "Low-Resource Vision Challenges for Foundation Models", arXiv, 2024 (*UvA*). [[Paper](https://arxiv.org/abs/2401.04716)][[Code (in construction)](https://github.com/xiaobai1217/Low-Resource-Vision)][[Website](https://xiaobai1217.github.io/Low-Resource-Vision/)]
 * Video:
     * **COOT**: "COOT: Cooperative Hierarchical Transformer for Video-Text Representation Learning", NeurIPS, 2020 (*University of Freiburg*). [[Paper](https://arxiv.org/abs/2011.00597)][[PyTorch](https://github.com/gingsi/coot-videotext)]
     * **Parameter-Reduction**: "Parameter Efficient Multimodal Transformers for Video Representation Learning", ICLR, 2021 (*Seoul National University*). [[Paper](https://openreview.net/forum?id=6UdQLhqJyFD)]
@@ -957,6 +958,7 @@ If you find this repository useful, please consider citing this list:
     * **GenHowTo**: "GenHowTo: Learning to Generate Actions and State Transformations from Instructional Videos", arXiv, 2023 (*Czech Technical University*). [[Paper](https://arxiv.org/abs/2312.07322)][[Website](https://soczech.github.io/genhowto/)]
     * **VideoLCM**: "VideoLCM: Video Latent Consistency Model", arXiv, 2023 (*Alibaba*). [[Paper](https://arxiv.org/abs/2312.09109)]
     * **VideoPoet**: "VideoPoet: A Large Language Model for Zero-Shot Video Generation", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2312.14125)][[Website](https://sites.research.google/videopoet/)]
+    * **MagicVideo-V2**: "MagicVideo-V2: Multi-Stage High-Aesthetic Video Generation", arXiv, 2024 (*ByteDance*). [[Paper](https://arxiv.org/abs/2401.04468)][[Website](https://magicvideov2.github.io/)]
 * 3D:
     * **Magic3D**: "Magic3D: High-Resolution Text-to-3D Content Creation", CVPR, 2023 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2211.10440)][[Website](https://research.nvidia.com/labs/dir/magic3d/)]
     * **CLIP-Sculptor**: "CLIP-Sculptor: Zero-Shot Generation of High-Fidelity and Diverse Shapes from Natural Language", CVPR, 2023 (*Autodesk*). [[Paper](https://arxiv.org/abs/2211.01427)][[Website](https://ivl.cs.brown.edu/#/projects/clip-sculptor)]
