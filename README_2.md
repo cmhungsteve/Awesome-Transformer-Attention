@@ -1945,6 +1945,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **LMDrive**: "LMDrive: Closed-Loop End-to-End Driving with Large Language Models", arXiv, 2023 (*CUHK*). [[Paper](https://arxiv.org/abs/2312.07488)]
     * **DriveMLM**: "DriveMLM: Aligning Multi-Modal Large Language Models with Behavioral Planning States for Autonomous Driving", arXiv, 2023 (*shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2312.09245)][[Code (in construction)](https://github.com/OpenGVLab/DriveMLM)]
     * **DriveLM**: "DriveLM: Driving with Graph Visual Question Answering", arXiv, 2023 (*OpenDriveLab, China*). [[Paper](https://arxiv.org/abs/2312.14150)][[Code](https://github.com/OpenDriveLab/DriveLM)]
+    * **VLP**: "VLP: Vision Language Planning for Autonomous Driving", arXiv, 2024 (*Bosch*). [[Paper](https://arxiv.org/abs/2401.05577)]
 * Trajectory Prediction:
     * **mmTransformer**: "Multimodal Motion Prediction with Stacked Transformers", CVPR, 2021 (*CUHK + SenseTime*). [[Paper](https://arxiv.org/abs/2103.11624)][[Code (in construction)](https://github.com/decisionforce/mmTransformer)][[Website](https://decisionforce.github.io/mmTransformer/)]
     * **AgentFormer**: "AgentFormer: Agent-Aware Transformers for Socio-Temporal Multi-Agent Forecasting", ICCV, 2021 (*CMU*). [[Paper](https://arxiv.org/abs/2103.14023)][[PyTorch](https://github.com/Khrylx/AgentFormer)][[Website](https://www.ye-yuan.com/agentformer/)]
