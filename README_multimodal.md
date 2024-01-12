@@ -413,6 +413,8 @@ If you find this repository useful, please consider citing this list:
     * **3DRefTR**: "A Unified Framework for 3D Point Cloud Visual Grounding", arXiv, 2023 (*Xiamen University*). [[Paper](https://arxiv.org/abs/2308.11887)][[PyTorch](https://github.com/Leon1207/3DRefTR)]
     * **CoT3DRef**: "CoT3DRef: Chain-of-Thoughts Data-Efficient 3D Visual Grounding", arXiv, 2023 (*KAUST*). [[Paper](https://arxiv.org/abs/2310.06214)]
     * **ZSVG3D**: "Visual Programming for Zero-shot Open-Vocabulary 3D Visual Grounding", arXiv, 2023 (*CUHK*). [[Paper](https://arxiv.org/abs/2311.15383)][[Code (in construction)](https://github.com/CurryYuan/ZSVG3D)][[Website](https://curryyuan.github.io/ZSVG3D/)]
+* Video-Audio-Text:
+    * **LEGO**: "LEGO: Language Enhanced Multi-modal Grounding Model", arXiv, 2024 (*ByteDance*). [[Paper](https://arxiv.org/abs/2401.06071)][[Code (in construction)](https://github.com/lzw-lzw/LEGO)][[Website](https://lzw-lzw.github.io/LEGO.github.io/)]
 
 [[Back to Overview](#overview)]
 
@@ -684,6 +686,7 @@ If you find this repository useful, please consider citing this list:
     * **debias-VL**: "Debiasing Vision-Language Models via Biased Prompts", arXiv, 2023 (*MIT*). [[Paper](https://arxiv.org/abs/2302.00070)][[PyTorch](https://github.com/chingyaoc/debias_vl)]
     * **MobileVLM**: "MobileVLM: A Fast, Reproducible and Strong Vision Language Assistant for Mobile Devices", arXiv, 2023 (*Meituan*). [[Paper](https://arxiv.org/abs/2312.16886)][[Code (in construction)](https://github.com/Meituan-AutoML/MobileVLM)]
     * **READ-PVLA**: "READ-PVLA: Recurrent Adapter with Partial Video-Language Alignment for Parameter-Efficient Transfer Learning in Low-Resource Video-Language Modeling", AAAI, 2024 (*NUS*). [[Paper](https://arxiv.org/abs/2312.06950)]
+    * **VIIT**: "Distilling Vision-Language Models on Millions of Videos", arXiv, 2024 (*Google*). [[Paper](https://arxiv.org/abs/2401.06129)][[Website](https://zhaoyue-zephyrus.github.io/video-instruction-tuning/)]
 * 3D:
     * **CLIP<sup>2</sup>**: "CLIP<sup>2</sup>: Contrastive Language-Image-Point Pretraining from Real-World Point Cloud Data", CVPR, 2023 (*Huawei*). [[Paper](https://arxiv.org/abs/2303.12417)]
     * **3D-VLP**: "Context-aware Alignment and Mutual Masking for 3D-Language Pre-training", CVPR, 2023 (*Sichuan University*). [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Jin_Context-Aware_Alignment_and_Mutual_Masking_for_3D-Language_Pre-Training_CVPR_2023_paper.html)][[PyTorch](https://github.com/leolyj/3D-VLP)]
@@ -1403,6 +1406,7 @@ If you find this repository useful, please consider citing this list:
     * **Open3DIS**: "Open3DIS: Open-vocabulary 3D Instance Segmentation with 2D Mask Guidance", arXiv, 2023 (*VinAI*). [[Paper](https://arxiv.org/abs/2312.10671)][[Website](https://open3dis.github.io/)]
     * **Segment3D**: "Segment3D: Learning Fine-Grained Class-Agnostic 3D Segmentation without Manual Labels", arXiv, 2023 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2312.17232)][[Website](https://segment3d.github.io/)]
     * **?**: "3D Open-Vocabulary Panoptic Segmentation with 2D-3D Vision-Language Distillation", arXiv, 2024 (*Waymo*). [[Paper](https://arxiv.org/abs/2401.02402)]
+    * **PartSTAD**: "PartSTAD: 2D-to-3D Part Segmentation Task Adaptation", arXiv, 2024 (*KAIST*). [[Paper](https://arxiv.org/abs/2401.05906)]
 * Speech Recognition:
     * **AV-HuBERT**: "Robust Self-Supervised Audio-Visual Speech Recognition", arXiv, 2022 (*Meta*). [[Paper](https://arxiv.org/abs/2201.01763)][[PyTorch](https://github.com/facebookresearch/av_hubert)]
     * **?**: "Transformer-Based Video Front-Ends for Audio-Visual Speech Recognition", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2201.10439)]
