@@ -620,6 +620,7 @@ If you find this repository useful, please consider citing this list:
     * **ECLIPSE**: "Expediting Contrastive Language-Image Pretraining via Self-distilled Encoders", AAAI, 2024 (*LG*). [[Paper](https://arxiv.org/abs/2312.12659)]
     * **COSMO**: "COSMO: COntrastive Streamlined MultimOdal Model with Interleaved Pre-Training", arXiv, 2024 (*Microsoft*). [[Paper](https://arxiv.org/abs/2401.00849)][[PyTorch](https://github.com/showlab/cosmo)][[Website](https://fingerrec.github.io/cosmo/)]
     * **?**: "Low-Resource Vision Challenges for Foundation Models", arXiv, 2024 (*UvA*). [[Paper](https://arxiv.org/abs/2401.04716)][[Code (in construction)](https://github.com/xiaobai1217/Low-Resource-Vision)][[Website](https://xiaobai1217.github.io/Low-Resource-Vision/)]
+    * **UMG-CLIP**: "UMG-CLIP: A Unified Multi-Granularity Vision Generalist for Open-World Understanding", arXiv, 2024 (*Huawei*). [[Paper](https://arxiv.org/abs/2401.06397)]
 * Video:
     * **COOT**: "COOT: Cooperative Hierarchical Transformer for Video-Text Representation Learning", NeurIPS, 2020 (*University of Freiburg*). [[Paper](https://arxiv.org/abs/2011.00597)][[PyTorch](https://github.com/gingsi/coot-videotext)]
     * **Parameter-Reduction**: "Parameter Efficient Multimodal Transformers for Video Representation Learning", ICLR, 2021 (*Seoul National University*). [[Paper](https://openreview.net/forum?id=6UdQLhqJyFD)]
@@ -710,6 +711,7 @@ If you find this repository useful, please consider citing this list:
     * **UnIVAL**: "Unified Model for Image, Video, Audio and Language Tasks", arXiv, 2023 (*Sorbonne University, France*). [[Paper](https://arxiv.org/abs/2307.16184)][[PyTorch](https://github.com/mshukor/UnIVAL)][[Website](https://unival-model.github.io/)]
     * **ViT-Lens**: "ViT-Lens: Towards Omni-modal Representations", arXiv, 2023 (*Tencent*). [[Paper](https://arxiv.org/abs/2308.10185)][[PyTorch](https://github.com/TencentARC/ViT-Lens)]
     * **ViT-Lens-2**: "ViT-Lens-2: Gateway to Omni-modal Intelligence", arXiv, 2023 (*Tencent*). [[Paper](https://arxiv.org/abs/2311.16081)][[PyTorch](https://github.com/TencentARC/ViT-Lens)]
+    * **ModaVerse**: "ModaVerse: Efficiently Transforming Modalities with LLMs", arXiv, 2024 (*University of Adelaide*). [[Paper](https://arxiv.org/abs/2401.06395)]
 * Others:
     * **C-MCR**: "Connecting Multi-modal Contrastive Representations", NeurIPS, 2023 (*Zhejiang*). [[Paper](https://arxiv.org/abs/2305.14381)][[PyTorch](https://github.com/MCR-PEFT/C-MCR)][[Website](https://c-mcr.github.io/C-MCR/)]
     * **UMI**: "Learning Unseen Modality Interaction", NeurIPS, 2023 (*UvA*). [[Paper](https://arxiv.org/abs/2306.12795)][[Code (in construction)](https://github.com/xiaobai1217/Unseen-Modality-Interaction)][[Website](https://xiaobai1217.github.io/Unseen-Modality-Interaction/)]
@@ -1280,6 +1282,7 @@ If you find this repository useful, please consider citing this list:
     * **M2IB**: "Visual Explanations of Image-Text Representations via Multi-Modal Information Bottleneck Attribution", NeurIPS, 2023 (*NYU*). [[Paper](https://arxiv.org/abs/2312.17174)]
     * **?**: "Interpreting CLIP's Image Representation via Text-Based Decomposition", arXiv, 2023 (*Berkeley*). [[Paper](https://arxiv.org/abs/2310.05916)][[PyTorch](https://github.com/yossigandelsman/clip_prs)][[Website](https://yossigandelsman.github.io/clip_decomposition/)]
     * **vit-interpret**: "Interpreting and Controlling Vision Foundation Models via Text Explanations", arXiv, 2023 (*Columbia*). [[Paper](https://arxiv.org/abs/2310.10591)][[PyTorch](https://github.com/tonychenxyz/vit-interpret)]
+    * **MMVP**: "Eyes Wide Shut? Exploring the Visual Shortcomings of Multimodal LLMs", arXiv, 2024 (*NYU*). [[Paper](https://arxiv.org/abs/2401.06209)][[PyTorch](https://github.com/tsb0601/MMVP)][[Website](https://tsb0601.github.io/mmvp_blog/)]
 * Speaker Localization:
     * **?**: "The Right to Talk: An Audio-Visual Transformer Approach", ICCV, 2021 (*University of Arkansas*). [[Paper](https://arxiv.org/abs/2108.03256)]
 * Multi-task:
@@ -1353,6 +1356,7 @@ If you find this repository useful, please consider citing this list:
     * **VLP**: "Video Language Planning", arXiv, 2023 (*DeepMind*). [[Paper](https://arxiv.org/abs/2310.10625)][[Code (in construction)](https://github.com/video-language-planning/vlp_code)][[Website](https://video-language-planning.github.io/)]
     * **RoboFlamingo**: "Vision-Language Foundation Models as Effective Robot Imitators", arXiv, 2023 (*ByteDance*). [[Paper](https://arxiv.org/abs/2311.01378)][[Website](https://roboflamingo.github.io/)]
     * **?**: "GPT-4V(ision) for Robotics: Multimodal Task Planning from Human Demonstration", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2311.12015)][[Website](https://microsoft.github.io/GPT4Vision-Robot-Manipulation-Prompts/)]
+    * **AffordanceLLM**: "AffordanceLLM: Grounding Affordance from Vision Language Models", arXiv, 2024 (*Amazon*). [[Paper](https://arxiv.org/abs/2401.06341)][[Website](https://jasonqsy.github.io/AffordanceLLM/)]
 * Multi-modal Fusion:
     * **MICA**: "Attention Is Not Enough: Mitigating the Distribution Discrepancy in Asynchronous Multimodal Sequence Fusion", ICCV, 2021 (*Southwest Jiaotong University*). [[Paper](https://openaccess.thecvf.com/content/ICCV2021/html/Liang_Attention_Is_Not_Enough_Mitigating_the_Distribution_Discrepancy_in_Asynchronous_ICCV_2021_paper.html)]
     * **IFT**: "Image Fusion Transformer", arXiv, 2021 (*Johns Hopkins*). [[Paper](https://arxiv.org/abs/2107.09011)][[PyTorch](https://github.com/Vibashan/Image-Fusion-Transformer)]
