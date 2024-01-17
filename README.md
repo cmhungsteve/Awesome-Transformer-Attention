@@ -132,6 +132,7 @@ If you find this repository useful, please consider citing this list:
 
 ## Survey
 * "Masked Modeling for Self-supervised Representation Learning on Vision and Beyond", arXiv, 2024 (*Westlake University, China*). [[Paper](https://arxiv.org/abs/2401.00897)][[GitHub](https://github.com/Lupin1998/Awesome-MIM)]
+* "Transformer for Object Re-Identification: A Survey", arXiv, 2024 (*Wuhan University*). [[Paper](https://arxiv.org/abs/2401.06960)]
 * "Vision + Language Applications: A Survey", CVPRW, 2023 (*Ritsumeikan University, Japan*). [[Paper](https://arxiv.org/abs/2305.14598)][[GitHub](https://github.com/Yutong-Zhou-cv/Awesome-Text-to-Image)]
 * "Multimodal Learning With Transformers: A Survey", TPAMI, 2023 (*Tsinghua & Oxford*). [[Paper](https://arxiv.org/abs/2206.06488)]
 * "A Survey of Visual Transformers", TNNLS, 2023 (*CAS*). [[Paper](https://arxiv.org/abs/2111.06091)][[GitHub](https://github.com/arekavandi/Transformer-SOD)]
@@ -695,6 +696,7 @@ If you find this repository useful, please consider citing this list:
 * **SynCLR**: "Learning Vision from Models Rivals Learning Vision from Data", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2312.17742)][[PyTorch](https://github.com/google-research/syn-rep-learn)]
 * **SSAT**: "Limited Data, Unlimited Potential: A Study on ViTs Augmented by Masked Autoencoders", WACV, 2024 (*UNC Charlotte*). [[Paper](https://arxiv.org/abs/2310.20704)][[Code (in construction)](https://github.com/dominickrei/Limited-data-vits)]
 * **DVT**: "Denoising Vision Transformers", arXiv, 2024 (*USC*). [[Paper](https://arxiv.org/abs/2401.02957)][[PyTorch](https://github.com/Jiawei-Yang/Denoising-ViT)][[Website](https://jiawei-yang.github.io/DenoisingViT/)]
+* **AIM**: "Scalable Pre-training of Large Autoregressive Image Models", arXiv, 2024 (*Apple*). [[Paper](https://arxiv.org/abs/2401.08541)][[PyTorch](https://github.com/apple/ml-aim)]
 #### Robustness + Transformer
 * **ViT-Robustness**: "Understanding Robustness of Transformers for Image Classification", ICCV, 2021 (*Google*). [[Paper](https://arxiv.org/abs/2103.14586)]
 * **SAGA**: "On the Robustness of Vision Transformers to Adversarial Examples", ICCV, 2021 (*University of Connecticut*). [[Paper](https://arxiv.org/abs/2104.02610)]
@@ -1341,6 +1343,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **DeepSolo++**: "DeepSolo++: Let Transformer Decoder with Explicit Points Solo for Text Spotting", arXiv, 2023 (*JD*). [[Paper](https://arxiv.org/abs/2305.19957)][[PyTorch](https://github.com/ViTAE-Transformer/DeepSolo)]
     * **FastTCM**: "Turning a CLIP Model into a Scene Text Spotter", arXiv, 2023 (*Huazhong University of Science and Technology*). [[Paper](https://arxiv.org/abs/2308.10408)][[PyTorch](https://github.com/wenwenyu/TCM)]
     * **SRFormer**: "SRFormer: Empowering Regression-Based Text Detection Transformer with Segmentation", arXiv, 2023 (*Shanghai Jiao Tong*). [[Paper](https://arxiv.org/abs/2308.10531)]
+    * **SwinTextSpotter-v2**: "SwinTextSpotter v2: Towards Better Synergy for Scene Text Spotting", arXiv, 2024 (*South China University of Technology*). [[Paper](https://arxiv.org/abs/2401.07641)]
 * Change Detection:
     * **ChangeFormer**: "A Transformer-Based Siamese Network for Change Detection", arXiv, 2022 (*JHU*). [[Paper](https://arxiv.org/abs/2201.01293)][[PyTorch](https://github.com/wgcban/ChangeFormer)]
     * **IDET**: "IDET: Iterative Difference-Enhanced Transformers for High-Quality Change Detection", arXiv, 2022 (*Civil Aviation University of China*). [[Paper](https://arxiv.org/abs/2207.09240)]
