@@ -1264,6 +1264,7 @@ If you find this repository useful, please consider citing this list:
 * **A<sup>2</sup>Nav**: "A<sup>2</sup>Nav: Action-Aware Zero-Shot Robot Navigation by Exploiting Vision-and-Language Ability of Foundation Models", arXiv, 2023 (*South China University of Technology*). [[Paper](https://arxiv.org/abs/2308.07997)]
 * **LangNav**: "LangNav: Language as a Perceptual Representation for Navigation", arXiv, 2023 (*MIT*). [[Paper](https://arxiv.org/abs/2310.07889)]
 * **?**: "Multimodal Large Language Model for Visual Navigation", arXiv, 2023 (*Apple*). [[Paper](https://arxiv.org/abs/2310.08669)]
+* **MapGPT**: "MapGPT: Map-Guided Prompting for Unified Vision-and-Language Navigation", arXiv, 2024 (*HKU*). [[Paper](https://arxiv.org/abs/2401.07314)]
 
 [[Back to Overview](#overview)]
 
@@ -2053,6 +2054,8 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **HOI-Diff**: "HOI-Diff: Text-Driven Synthesis of 3D Human-Object Interactions using Diffusion Models", arXiv, 2023 (*Northeastern*). [[Paper](https://arxiv.org/abs/2312.06553)][[Website](https://neu-vi.github.io/HOI-Diff/)]
     * **OMG**: "OMG: Towards Open-vocabulary Motion Generation via Mixture of Controllers", arXiv, 2023 (*ShanghaiTech*). [[Paper](https://arxiv.org/abs/2312.08985)]
     * **LEMON**: "LEMON: Learning 3D Human-Object Interaction Relation from 2D Images", arXiv, 2023 (*USTC*). [[Paper](https://arxiv.org/abs/2312.08963)][[Code (in construction)](https://github.com/yyvhang/lemon_3d)][[Website](https://yyvhang.github.io/LEMON/)]
+    * **RoHM**: "RoHM: Robust Human Motion Reconstruction via Diffusion", arXiv, 2024 (*Meta*). [[Paper](https://arxiv.org/abs/2401.08570)][[Code (in construction)](https://github.com/sanweiliti/RoHM)][[Website](https://sanweiliti.github.io/ROHM/ROHM.html)]
+    * **STMC**: "Multi-Track Timeline Control for Text-Driven 3D Human Motion Generation", arXiv, 2024 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2401.08559)][[Website](https://mathis.petrovich.fr/stmc/)]
 * 3D Object Recognition:
     * **MVT**: "MVT: Multi-view Vision Transformer for 3D Object Recognition", BMVC, 2021 (*Baidu*). [[Paper](https://arxiv.org/abs/2110.13083)]
 * 3D Reconstruction:
