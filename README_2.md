@@ -1584,6 +1584,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **MMST-ViT**: "MMST-ViT: Climate Change-aware Crop Yield Prediction via Multi-Modal Spatial-Temporal Vision Transformer", ICCV, 2023 (*University of Delaware, Delaware*). [[Paper](https://arxiv.org/abs/2309.09067)][[PyTorch](https://github.com/fudong03/MMST-ViT)]
 * Aesthetic:
     * **CSKD**: "CLIP Brings Better Features to Visual Aesthetics Learners", arXiv, 2023 (*OPPO*). [[Paper](https://arxiv.org/abs/2307.15640)]
+    * **AesBench**: "AesBench: An Expert Benchmark for Multimodal Large Language Models on Image Aesthetics Perception", arXiv, 2024 (*Xidian University*). [[Paper](https://arxiv.org/abs/2401.08276)][[GitHub](https://github.com/yipoh/AesBench)]
 * Animation-related:
     * **AnT**: "The Animation Transformer: Visual Correspondence via Segment Matching", ICCV, 2021 (*Cadmium*). [[Paper](https://arxiv.org/abs/2109.02614)]
     * **AniFormer**: "AniFormer: Data-driven 3D Animation with Transformer", BMVC, 2021 (*University of Oulu, Finland*). [[Paper](https://arxiv.org/abs/2110.10533)][[PyTorch](https://github.com/mikecheninoulu/AniFormer)]
