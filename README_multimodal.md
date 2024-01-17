@@ -287,6 +287,7 @@ If you find this repository useful, please consider citing this list:
     * **LLoVi**: "An Improved Baseline for Reasoning Segmentation with Large Language Model", arXiv, 2023 (*UNC*). [[Paper](https://arxiv.org/abs/2312.17240)][[Code (in construction)](https://github.com/CeeZh/LLoVi)]
     * **STAIR**: "STAIR: Spatial-Temporal Reasoning with Auditable Intermediate Results for Video Question Answering", AAAI, 2024 (*Peking*). [[Paper](https://arxiv.org/abs/2401.03901)]
     * **Sports-QA**: "Sports-QA: A Large-Scale Video Question Answering Benchmark for Complex and Professional Sports", arXiv, 2024 (*University of Melbourne*). [[Paper](https://arxiv.org/abs/2401.01505)]
+    * **DoraemonGPT**: "DoraemonGPT: Toward Understanding Dynamic Scenes with Large Language Models", arXiv, 2024 (*Zhejiang*). [[Paper](https://arxiv.org/abs/2401.08392)][[Code (in construction)](https://github.com/z-x-yang/DoraemonGPT)]
 * 3D:
     * **3D-VQA**: "CLIP-Guided Vision-Language Pre-training for Question Answering in 3D Scenes", CVPRW, 2023 (*ETHZ*). [[Paper](https://arxiv.org/abs/2304.06061)][[Code (in construction)](https://github.com/AlexDelitzas/3D-VQA)]
     * **PO3D-VQA**: "3D-Aware Visual Question Answering about Parts, Poses and Occlusions", NeurIPS, 2023 (*JHU*). [[Paper](https://arxiv.org/abs/2310.17914)][[Code (in construction)](https://github.com/XingruiWang/3D-Aware-VQA)]
@@ -688,6 +689,7 @@ If you find this repository useful, please consider citing this list:
     * **MobileVLM**: "MobileVLM: A Fast, Reproducible and Strong Vision Language Assistant for Mobile Devices", arXiv, 2023 (*Meituan*). [[Paper](https://arxiv.org/abs/2312.16886)][[Code (in construction)](https://github.com/Meituan-AutoML/MobileVLM)]
     * **READ-PVLA**: "READ-PVLA: Recurrent Adapter with Partial Video-Language Alignment for Parameter-Efficient Transfer Learning in Low-Resource Video-Language Modeling", AAAI, 2024 (*NUS*). [[Paper](https://arxiv.org/abs/2312.06950)]
     * **VIIT**: "Distilling Vision-Language Models on Millions of Videos", arXiv, 2024 (*Google*). [[Paper](https://arxiv.org/abs/2401.06129)][[Website](https://zhaoyue-zephyrus.github.io/video-instruction-tuning/)]
+    * **FiGCLIP**: "FiGCLIP: Fine-Grained CLIP Adaptation via Densely Annotated Videos", arXiv, 2024 (*IIIT Hyderabad*). [[Paper](https://arxiv.org/abs/2401.07669)][[Code (in construction)](https://github.com/Darshansingh11/FiGCLIP)]
 * 3D:
     * **CLIP<sup>2</sup>**: "CLIP<sup>2</sup>: Contrastive Language-Image-Point Pretraining from Real-World Point Cloud Data", CVPR, 2023 (*Huawei*). [[Paper](https://arxiv.org/abs/2303.12417)]
     * **3D-VLP**: "Context-aware Alignment and Mutual Masking for 3D-Language Pre-training", CVPR, 2023 (*Sichuan University*). [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Jin_Context-Aware_Alignment_and_Mutual_Masking_for_3D-Language_Pre-Training_CVPR_2023_paper.html)][[PyTorch](https://github.com/leolyj/3D-VLP)]
@@ -1101,6 +1103,7 @@ If you find this repository useful, please consider citing this list:
 * **LAMM**: "LAMM: Label Alignment for Multi-Modal Prompt Learning", AAAI, 2024 (*SJTU*). [[Paper](https://arxiv.org/abs/2312.08212)][[Code (in construction)](https://github.com/gaojingsheng/LAMM)]
 * **LaViP**: "LaViP: Language-Grounded Visual Prompts", AAAI, 2024 (*Monash University*). [[Paper](https://arxiv.org/abs/2312.10945)]
 * **SA<sup>2</sup>VP**: "SA<sup>2</sup>VP: Spatially Aligned-and-Adapted Visual Prompt", AAAI, 2024 (*Harbin Institute of Technology*). [[Paper](https://arxiv.org/abs/2312.10376)][[PyTorch](https://github.com/tommy-xq/SA2VP)]
+* **CPL**: "Concept-Guided Prompt Learning for Generalization in Vision-Language Models", AAAI, 2024 (*Harbin Institute of Technology*). [[Paper](https://arxiv.org/abs/2401.07457)]
 * **ProText**: "Learning to Prompt with Text Only Supervision for Vision-Language Models", arXiv, 2024 (*MBZUAI*). [[Paper](https://arxiv.org/abs/2401.02418)][[PyTorch](https://github.com/muzairkhattak/ProText)][[Website](https://muzairkhattak.github.io/ProText/)]
 
 [[Back to Overview](#overview)]
@@ -1357,6 +1360,7 @@ If you find this repository useful, please consider citing this list:
     * **RoboFlamingo**: "Vision-Language Foundation Models as Effective Robot Imitators", arXiv, 2023 (*ByteDance*). [[Paper](https://arxiv.org/abs/2311.01378)][[Website](https://roboflamingo.github.io/)]
     * **?**: "GPT-4V(ision) for Robotics: Multimodal Task Planning from Human Demonstration", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2311.12015)][[Website](https://microsoft.github.io/GPT4Vision-Robot-Manipulation-Prompts/)]
     * **AffordanceLLM**: "AffordanceLLM: Grounding Affordance from Vision Language Models", arXiv, 2024 (*Amazon*). [[Paper](https://arxiv.org/abs/2401.06341)][[Website](https://jasonqsy.github.io/AffordanceLLM/)]
+    * **MultiPLY**: "MultiPLY: A Multisensory Object-Centric Embodied Large Language Model in 3D World", arXiv, 2024 (*UMass*). [[Paper](https://arxiv.org/abs/2401.08577)][[Code (in construction)](https://github.com/UMass-Foundation-Model/MultiPLY)][[Website](https://vis-www.cs.umass.edu/multiply/)]
 * Multi-modal Fusion:
     * **MICA**: "Attention Is Not Enough: Mitigating the Distribution Discrepancy in Asynchronous Multimodal Sequence Fusion", ICCV, 2021 (*Southwest Jiaotong University*). [[Paper](https://openaccess.thecvf.com/content/ICCV2021/html/Liang_Attention_Is_Not_Enough_Mitigating_the_Distribution_Discrepancy_in_Asynchronous_ICCV_2021_paper.html)]
     * **IFT**: "Image Fusion Transformer", arXiv, 2021 (*Johns Hopkins*). [[Paper](https://arxiv.org/abs/2107.09011)][[PyTorch](https://github.com/Vibashan/Image-Fusion-Transformer)]
@@ -1651,6 +1655,7 @@ If you find this repository useful, please consider citing this list:
     * **MERLIM**: "Behind the Magic, MERLIM: Multi-modal Evaluation Benchmark for Large Image-Language Models", arXiv, 2023 (*KAUST*). [[Paper](https://arxiv.org/abs/2312.02219)]
     * **BenchLMM**: "BenchLMM: Benchmarking Cross-style Visual Capability of Large Multimodal Models", arXiv, 2023 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2312.02896)][[PyTorch](https://github.com/AIFEG/BenchLMM)]
     * **M3DBench**: "M3DBench: Let's Instruct Large Models with Multi-modal 3D Prompts", arXiv, 2023 (*Fudan*). [[Paper](https://arxiv.org/abs/2312.10763)][[Code (in construction)](https://github.com/OpenM3D/M3DBench/)][[Website](https://m3dbench.github.io/)]
+    * **MM-SAP**: "MM-SAP: A Comprehensive Benchmark for Assessing Self-Awareness of Multimodal Large Language Models in Perception", arXiv, 2024 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2401.07529)][[Code (in construction)](https://github.com/YHWmz/MM-SAP)]
 * Robustness:
     * **Hierarchy-CLIP**: "Improving Zero-shot Generalization and Robustness of Multi-modal Models", CVPR, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2212.01758)][[JAX](https://github.com/gyhandy/Hierarchy-CLIP)][[Website](https://sites.google.com/usc.edu/hierarchy-clip/)]
     * **?**: "Mitigating Spurious Correlations in Multi-modal Models during Fine-tuning", ICML, 2023 (*UCLA*). [[Paper](https://arxiv.org/abs/2304.03916)]
