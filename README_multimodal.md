@@ -1361,6 +1361,7 @@ If you find this repository useful, please consider citing this list:
     * **?**: "GPT-4V(ision) for Robotics: Multimodal Task Planning from Human Demonstration", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2311.12015)][[Website](https://microsoft.github.io/GPT4Vision-Robot-Manipulation-Prompts/)]
     * **AffordanceLLM**: "AffordanceLLM: Grounding Affordance from Vision Language Models", arXiv, 2024 (*Amazon*). [[Paper](https://arxiv.org/abs/2401.06341)][[Website](https://jasonqsy.github.io/AffordanceLLM/)]
     * **MultiPLY**: "MultiPLY: A Multisensory Object-Centric Embodied Large Language Model in 3D World", arXiv, 2024 (*UMass*). [[Paper](https://arxiv.org/abs/2401.08577)][[Code (in construction)](https://github.com/UMass-Foundation-Model/MultiPLY)][[Website](https://vis-www.cs.umass.edu/multiply/)]
+    * **seeing-unseen**: "Seeing the Unseen: Visual Common Sense for Semantic Placement", arXiv, 2024 (*AI2*). [[Paper](https://arxiv.org/abs/2401.07770)][[Website](https://ram81.github.io/projects/seeing-unseen.html)]
 * Multi-modal Fusion:
     * **MICA**: "Attention Is Not Enough: Mitigating the Distribution Discrepancy in Asynchronous Multimodal Sequence Fusion", ICCV, 2021 (*Southwest Jiaotong University*). [[Paper](https://openaccess.thecvf.com/content/ICCV2021/html/Liang_Attention_Is_Not_Enough_Mitigating_the_Distribution_Discrepancy_in_Asynchronous_ICCV_2021_paper.html)]
     * **IFT**: "Image Fusion Transformer", arXiv, 2021 (*Johns Hopkins*). [[Paper](https://arxiv.org/abs/2107.09011)][[PyTorch](https://github.com/Vibashan/Image-Fusion-Transformer)]
@@ -1415,6 +1416,7 @@ If you find this repository useful, please consider citing this list:
     * **Segment3D**: "Segment3D: Learning Fine-Grained Class-Agnostic 3D Segmentation without Manual Labels", arXiv, 2023 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2312.17232)][[Website](https://segment3d.github.io/)]
     * **?**: "3D Open-Vocabulary Panoptic Segmentation with 2D-3D Vision-Language Distillation", arXiv, 2024 (*Waymo*). [[Paper](https://arxiv.org/abs/2401.02402)]
     * **PartSTAD**: "PartSTAD: 2D-to-3D Part Segmentation Task Adaptation", arXiv, 2024 (*KAIST*). [[Paper](https://arxiv.org/abs/2401.05906)]
+    * **MaskClustering**: "MaskClustering: View Consensus based Mask Graph Clustering for Open-Vocabulary 3D Instance Segmentation", arXiv, 2024 (*Peking*). [[Paper](https://arxiv.org/abs/2401.07745)][[Website](https://pku-epic.github.io/MaskClustering/)]
 * Speech Recognition:
     * **AV-HuBERT**: "Robust Self-Supervised Audio-Visual Speech Recognition", arXiv, 2022 (*Meta*). [[Paper](https://arxiv.org/abs/2201.01763)][[PyTorch](https://github.com/facebookresearch/av_hubert)]
     * **?**: "Transformer-Based Video Front-Ends for Audio-Visual Speech Recognition", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2201.10439)]
