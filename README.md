@@ -1599,6 +1599,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **Mask2Anomaly**: "Mask2Anomaly: Mask Transformer for Universal Open-set Segmentation", arXiv, 2023 (*Politecnico di Torino, Italy*). [[Paper](https://arxiv.org/abs/2309.04573)]
     * **SegGen**: "SegGen: Supercharging Segmentation Models with Text2Mask and Mask2Img Synthesis", arXiv, 2023 (*Adobe*). [[Paper](https://arxiv.org/abs/2311.03355)][[Code (in construction)](https://github.com/prismformore/seggen)][[Website](https://seggenerator.github.io/)]
     * **PolyMaX**: "PolyMaX: General Dense Prediction with Mask Transformer", WACV, 2024 (*Google*). [[Paper](https://arxiv.org/abs/2311.05770)][[Tensorflow](https://github.com/google-research/deeplab2)]
+    * **OMG-Seg**: "OMG-Seg: Is One Model Good Enough For All Segmentation?", arXiv, 2024 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2401.10229)][[PyTorch](https://github.com/lxtGH/OMG-Seg)][[Website](https://lxtgh.github.io/project/omg_seg/)]
 * Multi-Modal:
     * **UCTNet**: "UCTNet: Uncertainty-Aware Cross-Modal Transformer Network for Indoor RGB-D Semantic Segmentation", ECCV, 2022 (*Lehigh University, Pennsylvania*). [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/7082_ECCV_2022_paper.php)]
     * **CMX**: "CMX: Cross-Modal Fusion for RGB-X Semantic Segmentation with Transformers", arXiv, 2022 (*Karlsruhe Institute of Technology, Germany*). [[Paper](https://arxiv.org/abs/2203.04838)][[PyTorch](https://github.com/huaaaliu/RGBX_Semantic_Segmentation)]
