@@ -1499,6 +1499,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **BA-SAM**: "BA-SAM: Scalable Bias-Mode Attention Mask for Segment Anything Model", arXiv, 2024 (*Shanghai Jiao Tong*). [[Paper](https://arxiv.org/abs/2401.02317)]
     * **OV-SAM**: "Open-Vocabulary SAM: Segment and Recognize Twenty-thousand Classes Interactively", arXiv, 2024 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2401.02955)][[PyTorch](https://github.com/HarborYuan/ovsam)][[Website](https://www.mmlab-ntu.com/project/ovsam/)]
     * **SSPrompt**: "Learning to Prompt Segment Anything Models", arXiv, 2024 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2401.04651)]
+    * **RAP-SAM**: "RAP-SAM: Towards Real-Time All-Purpose Segment Anything", arXiv, 2024 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2401.10228)][[PyTorch](https://github.com/xushilin1/RAP-SAM/)][[Website](https://xushilin1.github.io/rap_sam/)]
 * Vision-Language:
     * **LSeg**: "Language-driven Semantic Segmentation", ICLR, 2022 (*Cornell*). [[Paper](https://arxiv.org/abs/2201.03546)][[PyTorch](https://github.com/isl-org/lang-seg)]
     * **ZegFormer**: "Decoupling Zero-Shot Semantic Segmentation", CVPR, 2022 (*Wuhan University*). [[Paper](https://arxiv.org/abs/2112.07910)][[PyTorch](https://github.com/dingjiansw101/ZegFormer)]
@@ -1808,6 +1809,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **DiffSeg**: "Diffuse, Attend, and Segment: Unsupervised Zero-Shot Segmentation using Stable Diffusion", arXiv, 2023 (*Georgia Tech*). [[Paper](https://arxiv.org/abs/2308.12469)]
     * **DiffSegmenter**: "Diffusion Model is Secretly a Training-free Open Vocabulary Semantic Segmenter", arXiv, 2023 (*Beihang University*). [[Paper](https://arxiv.org/abs/2309.02773)]
     * **?**: "From Text to Mask: Localizing Entities Using the Attention of Text-to-Image Diffusion Models", arXiv, 2023 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2309.04109)]
+    * **LDMSeg**: "A Simple Latent Diffusion Approach for Panoptic Segmentation and Mask Inpainting", arXiv, 2024 (*Segments.ai, Belgium*). [[Paper](https://arxiv.org/abs/2401.10227)][[PyTorch](https://github.com/segments-ai/latent-diffusion-segmentation)]
 * Low-Level Structure Segmentation:
     * **EVP**: "Explicit Visual Prompting for Low-Level Structure Segmentations", CVPR, 2023. (*Tencent*). [[Paper](https://arxiv.org/abs/2303.10883)][[PyTorch](https://github.com/NiFangBaAGe/Explict-Visual-Prompt)]
     * **EVP**: "Explicit Visual Prompting for Universal Foreground Segmentations", arXiv, 2023 (*Tencent*). [[Paper](https://arxiv.org/abs/2305.18476)][[PyTorch](https://github.com/NiFangBaAGe/Explict-Visual-Prompt)]
