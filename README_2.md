@@ -620,6 +620,7 @@ If you find this repository useful, please consider citing this list:
     * **FAPFT**: "Partial Fine-Tuning: A Successor to Full Fine-Tuning for Vision Transformers", arXiv, 2023 (*Fudan*). [[Paper](https://arxiv.org/abs/2312.15681)]
     * **VMT-Adapter**: "VMT-Adapter: Parameter-Efficient Transfer Learning for Multi-Task Dense", AAAI, 2024 (*Tencent*). [[Paper](https://arxiv.org/abs/2312.08733)]
     * **Dr<sup>2</sup>Net**: "Dr<sup>2</sup>Net: Dynamic Reversible Dual-Residual Networks for Memory-Efficient Finetuning", arXiv, 2024 (*KAUST*). [[Paper](https://arxiv.org/abs/2401.04105)]
+    * **ViSFT**: "Supervised Fine-tuning in turn Improves Visual Foundation Models", arXiv, 2024 (*Tencent*). [[Paper](https://arxiv.org/abs/2401.10222)][[PyTorch](https://github.com/TencentARC/ViSFT)]
 * Domain Adaptation/Domain Generalization/Federated Learning:
     * **TransDA**: "Transformer-Based Source-Free Domain Adaptation", arXiv, 2021 (*Haerbin Institute of Technology*). [[Paper](https://arxiv.org/abs/2105.14138)][[PyTorch](https://github.com/ygjwd12345/TransDA)]
     * **TVT**: "TVT: Transferable Vision Transformer for Unsupervised Domain Adaptation", arXiv, 2021 (*UT Arlington + Kuaishou*). [[Paper](https://arxiv.org/abs/2108.05988)]
@@ -958,6 +959,7 @@ If you find this repository useful, please consider citing this list:
 * **TransRef**: "TransRef: Multi-Scale Reference Embedding Transformer for Reference-Guided Image Inpainting", arXiv, 2023 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2306.11528)][[PyTorch](https://github.com/Cameltr/TransRef)]
 * **DMT**: "Deficiency-Aware Masked Transformer for Video Inpainting", arXiv, 2023 (*CAS*). [[Paper](https://arxiv.org/abs/2307.08629)][[Code (in construction)](https://github.com/yeates/DMT)]
 * **Magicremover**: "Magicremover: Tuning-free Text-guided Image inpainting with Diffusion Models", arXiv, 2023 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2310.02848)][[Code (in construction)](https://github.com/exisas/Magicremover)]
+* **LGVI**: "Towards Language-Driven Video Inpainting via Multimodal Large Language Models", arXiv, 2024 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2401.10226)][[Code (in construction)](https://github.com/jianzongwu/Language-Driven-Video-Inpainting)][[Website](https://jianzongwu.github.io/projects/rovi/)]
 
 [[Back to Overview](#overview)]
 
@@ -1800,6 +1802,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **GL-MCM**: "Zero-Shot In-Distribution Detection in Multi-Object Settings Using Vision-Language Foundation Models", arXiv, 2023 (*The University of Tokyo*). [[Paper](https://arxiv.org/abs/2304.04521)]
     * **CLIP-OOD**: "Does CLIP's Generalization Performance Mainly Stem from High Train-Test Similarity?", arXiv, 2023 (*University of Tübingen*). [[Paper](https://arxiv.org/abs/2310.09562)]
     * **MOODv2**: "MOODv2: Masked Image Modeling for Out-of-Distribution Detection", arXiv, 2024 (*CUHK*). [[Paper](https://arxiv.org/abs/2401.02611)]
+    * **AutoFT**: "AutoFT: Robust Fine-Tuning by Optimizing Hyperparameters on OOD Data", arXiv, 2024 (*Stanford*). [[Paper](https://arxiv.org/abs/2401.10220)]
 * Pedestrian Intention:
     * **IntFormer**: "IntFormer: Predicting pedestrian intention with the aid of the Transformer architecture", arXiv, 2021 (*Universidad de Alcala*). [[Paper](https://arxiv.org/abs/2105.08647)]
 * Physics Simulation:
