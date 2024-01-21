@@ -864,6 +864,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **RepLKNet**: "Scaling Up Your Kernels to 31x31: Revisiting Large Kernel Design in CNNs", CVPR, 2022 (*Megvii*). [[Paper](https://arxiv.org/abs/2203.06717)][[MegEngine](https://github.com/MegEngine/RepLKNet)][[PyTorch](https://github.com/DingXiaoH/RepLKNet-pytorch)]
 * **FocalNet**: "Focal Modulation Networks", NeurIPS, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2203.11926)][[PyTorch](https://github.com/microsoft/FocalNet)]
 * **HorNet**: "HorNet: Efficient High-Order Spatial Interactions with Recursive Gated Convolutions", NeurIPS, 2022 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2207.14284)][[PyTorch](https://github.com/raoyongming/HorNet)][[Website](https://hornet.ivg-research.xyz/)]
+* **S4ND**: "S4ND: Modeling Images and Videos as Multidimensional Signals Using State Spaces", NeurIPS, 2022 (*Stanford*). [[Paper](https://arxiv.org/abs/2210.06583)]
 * **Sequencer**: "Sequencer: Deep LSTM for Image Classification", arXiv, 2022 (*Rikkyo University, Japan*). [[Paper](https://arxiv.org/abs/2205.01972)]
 * **MogaNet**: "Efficient Multi-order Gated Aggregation Network", arXiv, 2022 (*Westlake University, China*). [[Paper](https://arxiv.org/abs/2211.03295)]
 * **Conv2Former**: "Conv2Former: A Simple Transformer-Style ConvNet for Visual Recognition", arXiv, 2022 (*ByteDance*). [[Paper](https://arxiv.org/abs/2211.11943)]
@@ -874,6 +875,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **DFFormer**: "FFT-based Dynamic Token Mixer for Vision", arXiv, 2023 (*Rikkyo University, Japan*). [[Paper](https://arxiv.org/abs/2303.03932)][[Code (in construction)](https://github.com/okojoalg/dfformer)]
 * **?**: "ConvNets Match Vision Transformers at Scale", arXiv, 2023 (*DeepMind*). [[Paper](https://arxiv.org/abs/2310.16764)]
 * **VMamba**: "VMamba: Visual State Space Model", arXiv, 2024 (*CAS*). [[Paper](https://arxiv.org/abs/2401.10166)][[PyTorch](https://github.com/MzeroMiko/VMamba)]
+* **Vim**: "Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model", arXiv, 2024 (*Huazhong University of Science and Technology*). [[Paper](https://arxiv.org/abs/2401.09417)][[PyTorch](https://github.com/hustvl/Vim)]
 
 [[Back to Overview](#overview)]
 
