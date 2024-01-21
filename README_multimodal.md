@@ -252,6 +252,8 @@ If you find this repository useful, please consider citing this list:
     * **RVP**: "Recursive Visual Programming", arXiv, 2023 (*Berkeley*). [[Paper](https://arxiv.org/abs/2312.02249)]
     * **SAB**: "Sentence Attention Blocks for Answer Grounding", arXiv, 2023 (*University of Delaware, Delaware*). [[Paper](https://arxiv.org/abs/2309.11593)]
     * **DIS**: "Detection-based Intermediate Supervision for Visual Question Answering", AAAI, 2024 (*Huazhong University of Science and Technology (HUST)*). [[Paper](https://arxiv.org/abs/2312.16012)]
+    * **OAM-VQA**: "Object Attribute Matters in Visual Question Answering", AAAI, 2024 (*Jilin University*). [[Paper](https://arxiv.org/abs/2401.09442)]
+    * **?**: "Advancing Large Multi-modal Models with Explicit Chain-of-Reasoning and Visual Question Generation", arXiv, 2024 (*University of Tokyo*). [[Paper](https://arxiv.org/abs/2401.10005)]
 * Video:
     * **?**: "Mounting Video Metadata on Transformer-based Language Model for Open-ended Video Question Answering", arXiv, 2021 (*Seoul National University*). [[Paper](https://arxiv.org/abs/2108.05158)]
     * **TPT**: "Temporal Pyramid Transformer with Multimodal Interaction for Video Question Answering", arXiv, 2021 (*CAS*). [[Paper](https://arxiv.org/abs/2109.04735)]
@@ -623,6 +625,7 @@ If you find this repository useful, please consider citing this list:
     * **?**: "Low-Resource Vision Challenges for Foundation Models", arXiv, 2024 (*UvA*). [[Paper](https://arxiv.org/abs/2401.04716)][[Code (in construction)](https://github.com/xiaobai1217/Low-Resource-Vision)][[Website](https://xiaobai1217.github.io/Low-Resource-Vision/)]
     * **UMG-CLIP**: "UMG-CLIP: A Unified Multi-Granularity Vision Generalist for Open-World Understanding", arXiv, 2024 (*Huawei*). [[Paper](https://arxiv.org/abs/2401.06397)]
     * **MM-Interleaved**: "MM-Interleaved: Interleaved Image-Text Generative Modeling via Multi-modal Feature Synchronizer", arXiv, 2024 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2401.10208)][[PyTorch](https://github.com/OpenGVLab/MM-Interleaved)]
+    * **SPARC**: "Improving fine-grained understanding in image-text pre-training", arXiv, 2024 (*DeepMind*). [[Paper](https://arxiv.org/abs/2401.09865)]
 * Video:
     * **COOT**: "COOT: Cooperative Hierarchical Transformer for Video-Text Representation Learning", NeurIPS, 2020 (*University of Freiburg*). [[Paper](https://arxiv.org/abs/2011.00597)][[PyTorch](https://github.com/gingsi/coot-videotext)]
     * **Parameter-Reduction**: "Parameter Efficient Multimodal Transformers for Video Representation Learning", ICLR, 2021 (*Seoul National University*). [[Paper](https://openreview.net/forum?id=6UdQLhqJyFD)]
@@ -939,6 +942,7 @@ If you find this repository useful, please consider citing this list:
     * **VL-GPT**: "VL-GPT: A Generative Pre-trained Transformer for Vision and Language Understanding and Generation", arXiv, 2023 (*Tencent*). [[Paper](https://arxiv.org/abs/2312.09251)][[Code (in construction)](https://github.com/AILab-CVC/VL-GPT)]
     * **aMUSEd**: "aMUSEd: An Open MUSE Reproduction", arXiv, 2024 (*Hugging Face*). [[Paper](https://arxiv.org/abs/2401.01808)]
     * **Instruct-Imagen**: "Instruct-Imagen: Image Generation with Multi-modal Instruction", arXiv, 2024 (*Google*). [[Paper](https://arxiv.org/abs/2401.01952)]
+    * **DiffusionGPT**: "DiffusionGPT: LLM-Driven Text-to-Image Generation System", arXiv, 2024 (*ByteDance*). [[Paper](https://arxiv.org/abs/2401.10061)][[PyTorch](https://github.com/DiffusionGPT/DiffusionGPT)][[Website](https://diffusiongpt.github.io/)]
 * Video:
     * **Imagen-Video**: "Imagen Video: High Definition Video Generation with Diffusion Models", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2210.02303)][[Website](https://imagen.research.google/video/)]
     * **Phenaki**: "Phenaki: Variable Length Video Generation From Open Domain Textual Description", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2210.02399)][[PyTorch (LAION-AI, in construction)](https://github.com/LAION-AI/phenaki)][[Website](https://phenaki.video/)]
@@ -967,6 +971,7 @@ If you find this repository useful, please consider citing this list:
     * **VideoLCM**: "VideoLCM: Video Latent Consistency Model", arXiv, 2023 (*Alibaba*). [[Paper](https://arxiv.org/abs/2312.09109)]
     * **VideoPoet**: "VideoPoet: A Large Language Model for Zero-Shot Video Generation", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2312.14125)][[Website](https://sites.research.google/videopoet/)]
     * **MagicVideo-V2**: "MagicVideo-V2: Multi-Stage High-Aesthetic Video Generation", arXiv, 2024 (*ByteDance*). [[Paper](https://arxiv.org/abs/2401.04468)][[Website](https://magicvideov2.github.io/)]
+    * **WorldDreamer**: "WorldDreamer: Towards General World Models for Video Generation via Predicting Masked Tokens", arXiv, 2024 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2401.09985)][[Code (in construction)](https://github.com/JeffWang987/WorldDreamer)][[Website](https://world-dreamer.github.io/)]
 * 3D:
     * **Magic3D**: "Magic3D: High-Resolution Text-to-3D Content Creation", CVPR, 2023 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2211.10440)][[Website](https://research.nvidia.com/labs/dir/magic3d/)]
     * **CLIP-Sculptor**: "CLIP-Sculptor: Zero-Shot Generation of High-Fidelity and Diverse Shapes from Natural Language", CVPR, 2023 (*Autodesk*). [[Paper](https://arxiv.org/abs/2211.01427)][[Website](https://ivl.cs.brown.edu/#/projects/clip-sculptor)]
