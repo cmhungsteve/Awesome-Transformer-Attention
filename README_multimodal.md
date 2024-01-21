@@ -416,6 +416,7 @@ If you find this repository useful, please consider citing this list:
     * **3DRefTR**: "A Unified Framework for 3D Point Cloud Visual Grounding", arXiv, 2023 (*Xiamen University*). [[Paper](https://arxiv.org/abs/2308.11887)][[PyTorch](https://github.com/Leon1207/3DRefTR)]
     * **CoT3DRef**: "CoT3DRef: Chain-of-Thoughts Data-Efficient 3D Visual Grounding", arXiv, 2023 (*KAUST*). [[Paper](https://arxiv.org/abs/2310.06214)]
     * **ZSVG3D**: "Visual Programming for Zero-shot Open-Vocabulary 3D Visual Grounding", arXiv, 2023 (*CUHK*). [[Paper](https://arxiv.org/abs/2311.15383)][[Code (in construction)](https://github.com/CurryYuan/ZSVG3D)][[Website](https://curryyuan.github.io/ZSVG3D/)]
+    * **SceneVerse**: "SceneVerse: Scaling 3D Vision-Language Learning for Grounded Scene Understanding", arXiv, 2024 (*BIGAI*). [[Paper](https://arxiv.org/abs/2401.09340)][[Code (in construction)](https://github.com/scene-verse/sceneverse)][[Website](https://scene-verse.github.io/)]
 * Video-Audio-Text:
     * **LEGO**: "LEGO: Language Enhanced Multi-modal Grounding Model", arXiv, 2024 (*ByteDance*). [[Paper](https://arxiv.org/abs/2401.06071)][[Code (in construction)](https://github.com/lzw-lzw/LEGO)][[Website](https://lzw-lzw.github.io/LEGO.github.io/)]
 
@@ -943,6 +944,7 @@ If you find this repository useful, please consider citing this list:
     * **aMUSEd**: "aMUSEd: An Open MUSE Reproduction", arXiv, 2024 (*Hugging Face*). [[Paper](https://arxiv.org/abs/2401.01808)]
     * **Instruct-Imagen**: "Instruct-Imagen: Image Generation with Multi-modal Instruction", arXiv, 2024 (*Google*). [[Paper](https://arxiv.org/abs/2401.01952)]
     * **DiffusionGPT**: "DiffusionGPT: LLM-Driven Text-to-Image Generation System", arXiv, 2024 (*ByteDance*). [[Paper](https://arxiv.org/abs/2401.10061)][[PyTorch](https://github.com/DiffusionGPT/DiffusionGPT)][[Website](https://diffusiongpt.github.io/)]
+    * **SiT**: "SiT: Exploring Flow and Diffusion-based Generative Models with Scalable Interpolant Transformers", arXiv, 2024 (*NYU*). [[Paper](https://arxiv.org/abs/2401.08740)][[PyTorch](https://github.com/willisma/SiT)][[Website](https://scalable-interpolant.github.io/)]
 * Video:
     * **Imagen-Video**: "Imagen Video: High Definition Video Generation with Diffusion Models", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2210.02303)][[Website](https://imagen.research.google/video/)]
     * **Phenaki**: "Phenaki: Variable Length Video Generation From Open Domain Textual Description", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2210.02399)][[PyTorch (LAION-AI, in construction)](https://github.com/LAION-AI/phenaki)][[Website](https://phenaki.video/)]
@@ -972,6 +974,8 @@ If you find this repository useful, please consider citing this list:
     * **VideoPoet**: "VideoPoet: A Large Language Model for Zero-Shot Video Generation", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2312.14125)][[Website](https://sites.research.google/videopoet/)]
     * **MagicVideo-V2**: "MagicVideo-V2: Multi-Stage High-Aesthetic Video Generation", arXiv, 2024 (*ByteDance*). [[Paper](https://arxiv.org/abs/2401.04468)][[Website](https://magicvideov2.github.io/)]
     * **WorldDreamer**: "WorldDreamer: Towards General World Models for Video Generation via Predicting Masked Tokens", arXiv, 2024 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2401.09985)][[Code (in construction)](https://github.com/JeffWang987/WorldDreamer)][[Website](https://world-dreamer.github.io/)]
+    * **Vlogger**: "Vlogger: Make Your Dream A Vlog", arXiv, 2024 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2401.09414)][[PyTorch](https://github.com/zhuangshaobin/Vlogger)]
+    * **VideoCrafter2**: "VideoCrafter2: Overcoming Data Limitations for High-Quality Video Diffusion Models", arXiv, 2024 (*Tencent*). [[Paper](https://arxiv.org/abs/2401.09047)][[PyTorch](https://github.com/AILab-CVC/VideoCrafter)][[Website](https://ailab-cvc.github.io/videocrafter2/)]
 * 3D:
     * **Magic3D**: "Magic3D: High-Resolution Text-to-3D Content Creation", CVPR, 2023 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2211.10440)][[Website](https://research.nvidia.com/labs/dir/magic3d/)]
     * **CLIP-Sculptor**: "CLIP-Sculptor: Zero-Shot Generation of High-Fidelity and Diverse Shapes from Natural Language", CVPR, 2023 (*Autodesk*). [[Paper](https://arxiv.org/abs/2211.01427)][[Website](https://ivl.cs.brown.edu/#/projects/clip-sculptor)]
@@ -1407,6 +1411,7 @@ If you find this repository useful, please consider citing this list:
     * **3D-OVS**: "Weakly Supervised 3D Open-vocabulary Segmentation", NeurIPS, 2023 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2305.14093)][[PyTorch](https://github.com/Kunhao-Liu/3D-OVS)]
     * **OpenMask3D**: "OpenMask3D: Open-Vocabulary 3D Instance Segmentation", NeurIPS, 2023 (*ETHZ*). [[Paper](https://arxiv.org/abs/2306.13631)][[PyTorch](https://github.com/OpenMask3D/openmask3d)][[Website](https://openmask3d.github.io/)]
     * **Seal**: "Segment Any Point Cloud Sequences by Distilling Vision Foundation Models", NeurIPS, 2023 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2306.09347)][[PyTorch](https://github.com/youquanl/Segment-Any-Point-Cloud)]
+    * **POP-3D**: "POP-3D: Open-Vocabulary 3D Occupancy Prediction from Images", NeurIPS, 2023 (*valeo.ai, France*). [[Paper](https://arxiv.org/abs/2401.09413)][[PyTorch](https://github.com/vobecant/POP3D)][[Website](https://vobecant.github.io/POP3D/)]
     * **OVO**: "OVO: Open-Vocabulary Occupancy", arXiv, 2023 (*Fudan*). [[Paper](https://arxiv.org/abs/2305.16133)]
     * **SAM3D**: "SAM3D: Segment Anything in 3D Scenes", arXiv, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2306.03908)][[PyTorch](https://github.com/Pointcept/SegmentAnything3D)]
     * **Lowis3D**: "Lowis3D: Language-Driven Open-World Instance-Level 3D Scene Understanding", arXiv, 2023 (*HKU*). [[Paper](https://arxiv.org/abs/2308.00353)]
@@ -1423,6 +1428,7 @@ If you find this repository useful, please consider citing this list:
     * **?**: "3D Open-Vocabulary Panoptic Segmentation with 2D-3D Vision-Language Distillation", arXiv, 2024 (*Waymo*). [[Paper](https://arxiv.org/abs/2401.02402)]
     * **PartSTAD**: "PartSTAD: 2D-to-3D Part Segmentation Task Adaptation", arXiv, 2024 (*KAIST*). [[Paper](https://arxiv.org/abs/2401.05906)]
     * **MaskClustering**: "MaskClustering: View Consensus based Mask Graph Clustering for Open-Vocabulary 3D Instance Segmentation", arXiv, 2024 (*Peking*). [[Paper](https://arxiv.org/abs/2401.07745)][[Website](https://pku-epic.github.io/MaskClustering/)]
+    * **GARField**: "GARField: Group Anything with Radiance Fields", arXiv, 2024 (*Berkeley*). [[Paper](https://arxiv.org/abs/2401.09419)][[PyTorch](https://github.com/chungmin99/garfield)][[Website](https://www.garfield.studio/)]
 * Speech Recognition:
     * **AV-HuBERT**: "Robust Self-Supervised Audio-Visual Speech Recognition", arXiv, 2022 (*Meta*). [[Paper](https://arxiv.org/abs/2201.01763)][[PyTorch](https://github.com/facebookresearch/av_hubert)]
     * **?**: "Transformer-Based Video Front-Ends for Audio-Visual Speech Recognition", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2201.10439)]
