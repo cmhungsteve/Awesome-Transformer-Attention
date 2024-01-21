@@ -873,6 +873,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **SPANet**: "SPANet: Frequency-balancing Token Mixer using Spectral Pooling Aggregation Modulation", ICCV, 2023 (*Korea Institute of Science and Technology*). [[Paper](https://arxiv.org/abs/2308.11568)][[Code (in construction)](https://github.com/DoranLyong/SPANet-official)][[Website](https://doranlyong.github.io/projects/spanet/)]
 * **DFFormer**: "FFT-based Dynamic Token Mixer for Vision", arXiv, 2023 (*Rikkyo University, Japan*). [[Paper](https://arxiv.org/abs/2303.03932)][[Code (in construction)](https://github.com/okojoalg/dfformer)]
 * **?**: "ConvNets Match Vision Transformers at Scale", arXiv, 2023 (*DeepMind*). [[Paper](https://arxiv.org/abs/2310.16764)]
+* **VMamba**: "VMamba: Visual State Space Model", arXiv, 2024 (*CAS*). [[Paper](https://arxiv.org/abs/2401.10166)][[PyTorch](https://github.com/MzeroMiko/VMamba)]
 
 [[Back to Overview](#overview)]
 
@@ -1686,6 +1687,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **AttentionShift**: "AttentionShift: Iteratively Estimated Part-based Attention Map for Pointly Supervised Instance Segmentation", CVPR, 2023 (*CAS*). [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Liao_AttentionShift_Iteratively_Estimated_Part-Based_Attention_Map_for_Pointly_Supervised_Instance_CVPR_2023_paper.html)]
     * **Point2Mask**: "Point2Mask: Point-supervised Panoptic Segmentation via Optimal Transport", ICCV, 2023 (*Zhejiang*). [[Paper](https://arxiv.org/abs/2308.01779)][[PyTorch](https://github.com/LiWentomng/Point2Mask)]
     * **BoxSnake**: "BoxSnake: Polygonal Instance Segmentation with Box Supervision", ICCV, 2023 (*Tencent*). [[Paper](https://arxiv.org/abs/2303.11630)]
+    * **QA-CLIMS**: "Question-Answer Cross Language Image Matching for Weakly Supervised Semantic Segmentation", ACMMM, 2023 (*Shenzhen University*). [[Paper](https://arxiv.org/abs/2401.09883)][[Code (in construction)](https://github.com/CVI-SZU/QA-CLIMS)]
     * **CoCu**: "Bridging Semantic Gaps for Language-Supervised Semantic Segmentation", NeurIPS, 2023 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2309.13505)][[PyTorch](https://github.com/xing0047/CoCu)]
     * **APro**: "Label-efficient Segmentation via Affinity Propagation", NeurIPS, 2023 (*Zhejiang*). [[Paper](https://arxiv.org/abs/2310.10533)][[PyTorch](https://github.com/CircleRadon/APro)][[Website](https://liwentomng.github.io/apro/)]
     * **PaintSeg**: "PaintSeg: Training-free Segmentation via Painting", NeurIPS, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2305.19406)]
@@ -2187,6 +2189,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **OST**: "OST: Refining Text Knowledge with Optimal Spatio-Temporal Descriptor for General Video Recognition", arXiv, 2023 (*Hunan University (HNU)*). [[Paper](https://arxiv.org/abs/2312.00096)][[Code (in construction)](https://github.com/tomchen-ctj/OST)][[Website](https://tomchen-ctj.github.io/OST/)]
     * **AP-CLIP**: "Generating Action-conditioned Prompts for Open-vocabulary Video Action Recognition", arXiv, 2023 (*Xi'an Jiaotong*). [[Paper](https://arxiv.org/abs/2312.02226)]
     * **EZ-CLIP**: "EZ-CLIP: Efficient Zeroshot Video Action Recognition", arXiv, 2023 (*Østfold University College, Norway*). [[Paper](https://arxiv.org/abs/2312.08010)][[PyTorch (in construction)](https://github.com/Shahzadnit/EZ-CLIP)]
+    * **BriVIS**: "Instance Brownian Bridge as Texts for Open-vocabulary Video Instance Segmentation", arXiv, 2024 (**). [[Paper](https://arxiv.org/abs/2401.09732)][[PyTorch (in construction)](https://github.com/sennnnn/OpenVIS)]
 * X-supervised Learning:
     * **LSTCL**: "Long-Short Temporal Contrastive Learning of Video Transformers", CVPR, 2022 (*Facebook*). [[Paper](https://arxiv.org/abs/2106.09212)]
     * **SVT**: "Self-supervised Video Transformer", CVPR, 2022 (*Stony Brook*). [[Paper](https://arxiv.org/abs/2112.01514)][[PyTorch](https://github.com/kahnchana/svt)][[Website](https://kahnchana.github.io/svt/)]
