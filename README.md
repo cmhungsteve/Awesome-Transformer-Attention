@@ -1449,7 +1449,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **BinsFormer**: "BinsFormer: Revisiting Adaptive Bins for Monocular Depth Estimation", arXiv, 2022 (*Harbin Institute of Technology*). [[Paper](https://arxiv.org/abs/2204.00987)][[PyTorch](https://github.com/zhyever/Monocular-Depth-Estimation-Toolbox)]
 * **SideRT**: "SideRT: A Real-time Pure Transformer Architecture for Single Image Depth Estimation", arXiv, 2022 (*Meituan*). [[Paper](https://arxiv.org/abs/2204.13892)]
 * **MonoFormer**: "MonoFormer: Towards Generalization of self-supervised monocular depth estimation with Transformers", arXiv, 2022 (*DGIST, Korea*). [[Paper](https://arxiv.org/abs/2205.11083)]
-* **Depthformer**: "Depthformer : Multiscale Vision Transformer For Monocular Depth Estimation With Local Global Information Fusion", arXiv, 2022 (*Indian Institute of Technology Delhi*). [[Paper](https://arxiv.org/abs/2207.04535)]
+* **Depthformer**: "Depthformer: Multiscale Vision Transformer For Monocular Depth Estimation With Local Global Information Fusion", arXiv, 2022 (*Indian Institute of Technology Delhi*). [[Paper](https://arxiv.org/abs/2207.04535)]
 * **TODE-Trans**: "TODE-Trans: Transparent Object Depth Estimation with Transformer", arXiv, 2022 (*USTC*). [[Paper](https://arxiv.org/abs/2209.08455)][[Code (in construction)](https://github.com/yuchendoudou/TODE)]
 * **ObjCAViT**: "ObjCAViT: Improving Monocular Depth Estimation Using Natural Language Models And Image-Object Cross-Attention", arXiv, 2022 (*ICL*). [[Paper](https://arxiv.org/abs/2211.17232)]
 * **ROIFormer**: "ROIFormer: Semantic-Aware Region of Interest Transformer for Efficient Self-Supervised Monocular Depth Estimation", AAAI, 2023 (*OPPO*). [[Paper](https://arxiv.org/abs/2212.05729)]
@@ -1460,6 +1460,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **ZeroDepth**: "Towards Zero-Shot Scale-Aware Monocular Depth Estimation", ICCV, 2023 (*Toyota*). [[Paper](https://arxiv.org/abs/2306.17253)][[PyTorch](https://github.com/tri-ml/vidar)][[Website](https://sites.google.com/view/tri-zerodepth)]
 * **Win-Win**: "Win-Win: Training High-Resolution Vision Transformers from Two Windows", arXiv, 2023 (*NAVER*). [[Paper](https://arxiv.org/abs/2310.00632)]
 * **?**: "Learning to Adapt CLIP for Few-Shot Monocular Depth Estimation", WACV, 2024 (*Southern University of Science and Technology*). [[Paper](https://arxiv.org/abs/2311.01034)]
+* **Depth-Anything**: "Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data", arXiv, 2024 (*TikTok*). [[Paper](https://arxiv.org/abs/2401.10891)][[PyTorch](https://github.com/LiheYoung/Depth-Anything)][[Website](https://depth-anything.github.io/)]
 
 [[Back to Overview](#overview)]
 
@@ -2292,6 +2293,8 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **TCR**: "Text-Conditioned Resampler For Long Form Video Understanding", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2312.11897)]
 * Video Story:
     * **YouTube-News-Timeline**: "Video Timeline Modeling For News Story Understanding", NeurIPS (Datasets and Benchmarks), 2023 (*Google*). [[Paper](https://arxiv.org/abs/2309.13446)][[GotHub](https://github.com/google-research/google-research/tree/master/video_timeline_modeling)]
+* Analysis:
+    * **VTCD**: "Understanding Video Transformers via Universal Concept Discovery", arXiv, 2024 (*Toyota*). [[Paper](https://arxiv.org/abs/2401.10831)][[Website](https://yorkucvil.github.io/VTCD/)]
 
 [[Back to Overview](#overview)]
 
