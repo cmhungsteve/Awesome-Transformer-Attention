@@ -819,6 +819,7 @@ If you find this repository useful, please consider citing this list:
     * **CoVR**: "CoVR: Learning Composed Video Retrieval from Web Video Captions", arXiv, 2023 (*Ecole des Ponts ParisTech (ENPC), France*). [[Paper](https://arxiv.org/abs/2308.14746)][[PyTorch](https://github.com/lucas-ventura/CoVR/)][[Website](https://imagine.enpc.fr/~ventural/covr/)]
     * **LanguageBind**: "LanguageBind: Extending Video-Language Pretraining to N-modality by Language-based Semantic Alignment", arXiv, 2023 (*Peking*). [[Paper](https://arxiv.org/abs/2310.01852)][[PyTorch](https://github.com/PKU-YuanGroup/LanguageBind)]
     * **10k-Words**: "A Video is Worth 10,000 Words: Training and Benchmarking with Diverse Captions for Better Long Video Retrieval", arXiv, 2023 (*SRI*). [[Paper](https://arxiv.org/abs/2312.00115)][[Website](https://mgwillia.github.io/10k-words/)]
+    * **DGL**: "DGL: Dynamic Global-Local Prompt Tuning for Text-Video Retrieval", AAAI, 2024 (*University of Technology Sydney*). [[Paper](https://arxiv.org/abs/2401.10588)]
     * **?**: "Detours for Navigating Instructional Videos", arXiv, 2024 (*Meta*). [[Paper](https://arxiv.org/abs/2401.01823)]
 * Vision-Audio-Text:
     * **Multi-SK**: "Preserving Modality Structure Improves Multi-Modal Learning", ICCV, 2023 (*UCF*). [[Paper](https://arxiv.org/abs/2308.13077)][[Code (in construction)](https://github.com/Swetha5/Multi_Sinkhorn_Knopp)]
@@ -976,6 +977,7 @@ If you find this repository useful, please consider citing this list:
     * **WorldDreamer**: "WorldDreamer: Towards General World Models for Video Generation via Predicting Masked Tokens", arXiv, 2024 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2401.09985)][[Code (in construction)](https://github.com/JeffWang987/WorldDreamer)][[Website](https://world-dreamer.github.io/)]
     * **Vlogger**: "Vlogger: Make Your Dream A Vlog", arXiv, 2024 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2401.09414)][[PyTorch](https://github.com/zhuangshaobin/Vlogger)]
     * **VideoCrafter2**: "VideoCrafter2: Overcoming Data Limitations for High-Quality Video Diffusion Models", arXiv, 2024 (*Tencent*). [[Paper](https://arxiv.org/abs/2401.09047)][[PyTorch](https://github.com/AILab-CVC/VideoCrafter)][[Website](https://ailab-cvc.github.io/videocrafter2/)]
+    * **ActAnywhere**: "ActAnywhere: Subject-Aware Video Background Generation", arXiv, 2024 (*Adobe*). [[Paper](https://arxiv.org/abs/2401.10822)][[Website](https://actanywhere.github.io/)]
 * 3D:
     * **Magic3D**: "Magic3D: High-Resolution Text-to-3D Content Creation", CVPR, 2023 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2211.10440)][[Website](https://research.nvidia.com/labs/dir/magic3d/)]
     * **CLIP-Sculptor**: "CLIP-Sculptor: Zero-Shot Generation of High-Fidelity and Diverse Shapes from Natural Language", CVPR, 2023 (*Autodesk*). [[Paper](https://arxiv.org/abs/2211.01427)][[Website](https://ivl.cs.brown.edu/#/projects/clip-sculptor)]
@@ -1598,6 +1600,7 @@ If you find this repository useful, please consider citing this list:
     * **TimeChat**: "TimeChat: A Time-sensitive Multimodal Large Language Model for Long Video Understanding", arXiv, 2023 (*Peking*). [[Paper](https://arxiv.org/abs/2312.02051)][[Code (in construction)](https://github.com/RenShuhuai-Andy/TimeChat)]
     * **VaQuitA**: "VaQuitA: Enhancing Alignment in LLM-Assisted Video Understanding", arXiv, 2023 (*Adobe*). [[Paper](https://arxiv.org/abs/2312.02310)]
     * **?**: "Audio-Visual LLM for Video Understanding", arXiv, 2023 (*Alibaba*). [[Paper](https://arxiv.org/abs/2312.06720)]
+    * **Mementos**: "Mementos: A Comprehensive Benchmark for Multimodal Large Language Model Reasoning over Image Sequences", arXiv, 2024 (*Maryland*). [[Paper](https://arxiv.org/abs/2401.10529)][[GitHub](https://github.com/umd-huang-lab/Mementos)]
 * Conversation (3D):
     * **3D-LLM**: "3D-LLM: Injecting the 3D World into Large Language Models", NeurIPS, 2023 (*UCLA*). [[Paper](https://arxiv.org/abs/2307.12981)][[PyTorch](https://github.com/UMass-Foundation-Model/3D-LLM)][[Website](https://vis-www.cs.umass.edu/3dllm/)]
     * **Chat-3D**: "Chat-3D: Data-efficiently Tuning Large Language Model for Universal Dialogue of 3D Scenes", arXiv, 2023 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2308.08769)][[PyTorch](https://github.com/Chat-3D/Chat-3D)][[Website](https://chat-3d.github.io/)]
