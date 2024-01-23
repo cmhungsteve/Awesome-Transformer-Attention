@@ -364,6 +364,7 @@ If you find this repository useful, please consider citing this list:
     * **Un-Track**: "Single-Model and Any-Modality for Video Object Tracking", arXiv, 2023 (*University of Wurzburg (JMU), Germany*). [[Paper](https://arxiv.org/abs/2311.15851)][[Code (in construction)](https://github.com/Zongwei97/UnTrack)]
     * **TAO-Amodal**: "Tracking Any Object Amodally", arXiv, 2023 (*CMU*). [[Paper](https://arxiv.org/abs/2312.12433)][[Code (in construction)](https://github.com/WesleyHsieh0806/TAO-Amodal)][[Website](https://tao-amodal.github.io/)]
     * **ARTrackV2**: "ARTrackV2: Prompting Autoregressive Tracker Where to Look and How to Describe", arXiv, 2023 (*Xi'an Jiaotong University*). [[Paper](https://arxiv.org/abs/2312.17133)][[Website](https://artrackv2.github.io/)]
+    * **TrackGPT**: "Tracking with Human-Intent Reasoning", arXiv, 2024 (*Alibaba*). [[Paper](https://arxiv.org/abs/2312.17448)][[Code (in construction)](https://github.com/jiawen-zhu/TrackGPT)]
     * **SMAT**: "Separable Self and Mixed Attention Transformers for Efficient Object Tracking", WACV, 2024 (*Concordia University, Canada*). [[Paper](https://arxiv.org/abs/2309.03979)][[PyTorch](https://github.com/goutamyg/SMAT)]
     * **ContrasTR**: "Contrastive Learning for Multi-Object Tracking with Transformers", WACV, 2024 (*KU Leuven*). [[Paper](https://arxiv.org/abs/2311.08043)]
     * **M3SOT**: "M3SOT: Multi-frame, Multi-field, Multi-space 3D Single Object Tracking", AAAI, 2024 (*Xidian University*). [[Paper](https://arxiv.org/abs/2312.06117)]
@@ -1041,6 +1042,7 @@ If you find this repository useful, please consider citing this list:
 * **GIVT**: "GIVT: Generative Infinite-Vocabulary Transformers", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2312.02116)]
 * **DiffiT**: "DiffiT: Diffusion Vision Transformers for Image Generation", arXiv, 2023 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2312.02139)][[Code (in construction)](https://github.com/NVlabs/DiffiT)]
 * **RCG**: "Self-conditioned Image Generation via Generating Representations", arXiv, 2023 (*MIT*). [[Paper](https://arxiv.org/abs/2312.03701)][[PyTorch](https://github.com/LTH14/rcg)]
+* **HDiT**: "Scalable High-Resolution Pixel-Space Image Synthesis with Hourglass Diffusion Transformers", arXiv, 2024 (*Stability AI*). [[Paper](https://arxiv.org/abs/2401.11605)][[Website](https://crowsonkb.github.io/hourglass-diffusion-transformers/)]
 
 [[Back to Overview](#overview)]
 
@@ -1893,6 +1895,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **CEST**: "Context-Enhanced Stereo Transformer", ECCV, 2022 (*CAS*). [[Paper](Context-Enhanced Stereo Transformer)][[PyTorch](https://github.com/guoweiyu/Context-Enhanced-Stereo-Transformer)]
     * **WT-MVSNet**: "WT-MVSNet: Window-based Transformers for Multi-view Stereo", NeurIPS, 2022 (*Tsinghua University*). [[Paper](https://arxiv.org/abs/2205.14319)]
     * **MVSFormer**: "MVSFormer: Learning Robust Image Representations via Transformers and Temperature-based Depth for Multi-View Stereo", arXiv, 2022 (*Fudan University*). [[Paper](https://arxiv.org/abs/2208.02541)]
+    * **MVSFormer++**: "MVSFormer++: Revealing the Devil in Transformer's Details for Multi-View Stereo", ICLR, 2024 (*Fudan*). [[Paper](https://arxiv.org/abs/2401.11673)][[Code (in construction)](https://github.com/maybeLx/MVSFormerPlusPlus)]
 * Time Series:
     * **MissFormer**: "MissFormer: (In-)attention-based handling of missing observations for trajectory filtering and prediction", arXiv, 2021 (*Fraunhofer IOSB, Germany*). [[Paper](https://arxiv.org/abs/2106.16009)]
 * Traffic:
