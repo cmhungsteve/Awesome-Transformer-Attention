@@ -1063,7 +1063,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **SWFormer**: "SWFormer: Sparse Window Transformer for 3D Object Detection in Point Clouds", ECCV, 2022 (*Waymo*). [[Paper](https://arxiv.org/abs/2210.07372)]
 * **EMMF-Det**: "Enhancing Multi-modal Features Using Local Self-Attention for 3D Object Detection", ECCV, 2022 (*Hikvision*). [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/6955_ECCV_2022_paper.php)]
 * **UVTR**: "Unifying Voxel-based Representation with Transformer for 3D Object Detection", NeurIPS, 2022 (*CUHK*). [[Paper](https://arxiv.org/abs/2206.00630)][[PyTorch](https://github.com/dvlab-research/UVTR)]
-* **MsSVT**: "MsSVT: Mixed-scale Sparse Voxel Transformer for 3D Object Detection on Point Clouds", NeurIPS, 2022 (*Beijing Institute of Technology*). [[Paper](https://openreview.net/forum?id=hOVEBHpHrMu)]
+* **MsSVT**: "MsSVT: Mixed-scale Sparse Voxel Transformer for 3D Object Detection on Point Clouds", NeurIPS, 2022 (*Beijing Institute of Technology*). [[Paper](https://openreview.net/forum?id=hOVEBHpHrMu)][[PyTorch](https://github.com/dscdyc/MsSVT)]
 * **DeepInteraction**: "DeepInteraction: 3D Object Detection via Modality Interaction", NeurIPS, 2022 (*Fudan*). [[Paper](https://arxiv.org/abs/2208.11112)][[PyTorch](https://github.com/fudan-zvg/DeepInteraction)]
 * **PETR**: "PETR: Position Embedding Transformation for Multi-View 3D Object Detection", arXiv, 2022 (*Megvii*). [[Paper](https://arxiv.org/abs/2203.05625)]
 * **Graph-DETR3D**: "Graph-DETR3D: Rethinking Overlapping Regions for Multi-View 3D Object Detection", arXiv, 2022 (*University of Science and Technology of China*). [[Paper](https://arxiv.org/abs/2204.11582)]
@@ -1099,6 +1099,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **3DiffTection**: "3DiffTection: 3D Object Detection with Geometry-Aware Diffusion Features", arXiv, 2023 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2311.04391)][[Code (in construction)](https://github.com/nv-tlabs/3DiffTection)][[Website](https://research.nvidia.com/labs/toronto-ai/3difftection/)]
 * **PTT**: "PTT: Point-Trajectory Transformer for Efficient Temporal 3D Object Detection", arXiv, 2023 (*UC Merced*). [[Paper](https://arxiv.org/abs/2312.08371)][[Code (in construction)](https://github.com/kuanchihhuang/PTT)]
 * **ScatterFormer**: "ScatterFormer: Efficient Voxel Transformer with Scattered Linear Attention", arXiv, 2024 (*The Hong Kong Polytechnic University*). [[Paper](https://arxiv.org/abs/2401.00912)][[Code (in construction)](https://github.com/skyhehe123/ScatterFormer)]
+* **MsSVT++**: "MsSVT++: Mixed-scale Sparse Voxel Transformer with Center Voting for 3D Object Detection", arXiv, 2024 (*Beijing Institute of Technology*). [[Paper](https://arxiv.org/abs/2401.11718)][[PyTorch](https://github.com/dscdyc/MsSVT)]
 
 [[Back to Overview](#overview)]
 
@@ -1591,6 +1592,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **OpenSD**: "OpenSD: Unified Open-Vocabulary Segmentation and Detection", arXiv, 2023 (*OPPO*). [[Paper](https://arxiv.org/abs/2312.06703)]
     * **CLIP-DINOiser**: "CLIP-DINOiser: Teaching CLIP a few DINO tricks", arXiv, 2023 (*Warsaw University of Technology, Poland*). [[Paper](https://arxiv.org/abs/2312.12359)][[PyTorch](https://github.com/wysoczanska/clip_dinoiser)]
     * **TagAlign**: "TagAlign: Improving Vision-Language Alignment with Multi-Tag Classification", arXiv, 2023 (*Ant Group*). [[Paper](https://arxiv.org/abs/2312.14149)][[PyTorch](https://github.com/Qinying-Liu/TagAlign)][[Website](https://qinying-liu.github.io/Tag-Align/)]
+    * **S-Seg**: "Exploring Simple Open-Vocabulary Semantic Segmentation", arXiv, 2024 (*Oxford*). [[Paper](https://arxiv.org/abs/2401.12217)][[Code (in construction)](https://github.com/zlai0/S-Seg)]
 * Universal Segmentation:
     * **K-Net**: "K-Net: Towards Unified Image Segmentation", NeurIPS, 2021 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2106.14855)][[PyTorch](https://github.com/ZwwWayne/K-Net/)]
     * **Mask2Former**: "Masked-attention Mask Transformer for Universal Image Segmentation", CVPR, 2022 (*Meta*). [[Paper](https://arxiv.org/abs/2112.01527)][[PyTorch](https://github.com/facebookresearch/Mask2Former)][[Website](https://bowenc0221.github.io/mask2former/)]
@@ -1714,6 +1716,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **SAMS**: "Foundation Model Assisted Weakly Supervised Semantic Segmentation", arXiv, 2023 (*Zhejiang*). [[Paper](https://arxiv.org/abs/2312.03585)]
     * **SemiVL**: "SemiVL: Semi-Supervised Semantic Segmentation with Vision-Language Guidance", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2311.16241)][[PyTorch](https://github.com/google-research/semivl)]
     * **Self-reinforcement**: "Progressive Uncertain Feature Self-reinforcement for Weakly Supervised Semantic Segmentation", AAAI, 2024 (**). [[Paper](https://arxiv.org/abs/2312.08916)][[PyTorch](https://github.com/Jessie459/feature-self-reinforcement)]
+    * **SemPLeS**: "SemPLeS: Semantic Prompt Learning for Weakly-Supervised Semantic Segmentation", arXiv, 2024 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2401.11791)]
 * Cross-Domain:
     * **DAFormer**: "DAFormer: Improving Network Architectures and Training Strategies for Domain-Adaptive Semantic Segmentation", CVPR, 2022 (*ETHZ*). [[Paper](https://arxiv.org/abs/2111.14887)][[PyTorch](https://github.com/lhoyer/DAFormer)]
     * **HGFormer**: "HGFormer: Hierarchical Grouping Transformer for Domain Generalized Semantic Segmentation", CVPR, 2023 (*Wuhan University*). [[Paper](https://arxiv.org/abs/2305.13031)][[Code (in construction)](https://github.com/dingjiansw101/HGFormer)]
@@ -1818,6 +1821,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * Low-Level Structure Segmentation:
     * **EVP**: "Explicit Visual Prompting for Low-Level Structure Segmentations", CVPR, 2023. (*Tencent*). [[Paper](https://arxiv.org/abs/2303.10883)][[PyTorch](https://github.com/NiFangBaAGe/Explict-Visual-Prompt)]
     * **EVP**: "Explicit Visual Prompting for Universal Foreground Segmentations", arXiv, 2023 (*Tencent*). [[Paper](https://arxiv.org/abs/2305.18476)][[PyTorch](https://github.com/NiFangBaAGe/Explict-Visual-Prompt)]
+    * **EmerDiff**: "EmerDiff: Emerging Pixel-level Semantic Knowledge in Diffusion Models", arXiv, 2024 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2401.11739)][[Website](https://kmcode1.github.io/Projects/EmerDiff/)]
 * Zero-Guidance Segmentation:
     * **zero-guide-seg**: "Zero-guidance Segmentation Using Zero Segment Labels", arXiv, 2023 (*VISTEC, Thailand*). [[Paper](https://arxiv.org/abs/2303.13396)][[Website](https://zero-guide-seg.github.io/)]
 * Part Segmentation:
@@ -2192,7 +2196,9 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **OST**: "OST: Refining Text Knowledge with Optimal Spatio-Temporal Descriptor for General Video Recognition", arXiv, 2023 (*Hunan University (HNU)*). [[Paper](https://arxiv.org/abs/2312.00096)][[Code (in construction)](https://github.com/tomchen-ctj/OST)][[Website](https://tomchen-ctj.github.io/OST/)]
     * **AP-CLIP**: "Generating Action-conditioned Prompts for Open-vocabulary Video Action Recognition", arXiv, 2023 (*Xi'an Jiaotong*). [[Paper](https://arxiv.org/abs/2312.02226)]
     * **EZ-CLIP**: "EZ-CLIP: Efficient Zeroshot Video Action Recognition", arXiv, 2023 (*Østfold University College, Norway*). [[Paper](https://arxiv.org/abs/2312.08010)][[PyTorch (in construction)](https://github.com/Shahzadnit/EZ-CLIP)]
-    * **BriVIS**: "Instance Brownian Bridge as Texts for Open-vocabulary Video Instance Segmentation", arXiv, 2024 (**). [[Paper](https://arxiv.org/abs/2401.09732)][[PyTorch (in construction)](https://github.com/sennnnn/OpenVIS)]
+    * **M<sup>2</sup>-CLIP**: "M<sup>2</sup>-CLIP: A Multimodal, Multi-task Adapting Framework for Video Action Recognition", AAAI, 2024 (*Zhejiang*). [[Paper](https://arxiv.org/abs/2401.11649)]
+    * **BriVIS**: "Instance Brownian Bridge as Texts for Open-vocabulary Video Instance Segmentation", arXiv, 2024 (*Peking*). [[Paper](https://arxiv.org/abs/2401.09732)][[PyTorch (in construction)](https://github.com/sennnnn/OpenVIS)]
+    * **ActionHub**: "ActionHub: A Large-scale Action Video Description Dataset for Zero-shot Action Recognition", arXiv, 2024 (*Sun Yat-sen University*). [[Paper](https://arxiv.org/abs/2401.11654)]
 * X-supervised Learning:
     * **LSTCL**: "Long-Short Temporal Contrastive Learning of Video Transformers", CVPR, 2022 (*Facebook*). [[Paper](https://arxiv.org/abs/2106.09212)]
     * **SVT**: "Self-supervised Video Transformer", CVPR, 2022 (*Stony Brook*). [[Paper](https://arxiv.org/abs/2112.01514)][[PyTorch](https://github.com/kahnchana/svt)][[Website](https://kahnchana.github.io/svt/)]
