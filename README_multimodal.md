@@ -1618,6 +1618,7 @@ If you find this repository useful, please consider citing this list:
     * **?**: "Towards Grounded Visual Spatial Reasoning in Multi-Modal Vision Language Models", arXiv, 2023 (*George Mason University*). [[Paper](https://arxiv.org/abs/2308.09778)]
     * **ViCor**: "ViCor: Bridging Visual Understanding and Commonsense Reasoning with Large Language Models", arXiv, 2023 (*UC Santa Cruz*). [[Paper](https://arxiv.org/abs/2310.05872)]
     * **GENOME**: "GENOME: GenerativE Neuro-symbOlic visual reasoning by growing and reusing ModulEs", arXiv, 2023 (*IBM*). [[Paper](https://arxiv.org/abs/2311.04901)][[PyTorch](https://github.com/UMass-Foundation-Model/genome)][[Website](https://vis-www.cs.umass.edu/genome/)]
+    * **SpatialVLM**: "SpatialVLM: Endowing Vision-Language Models with Spatial Reasoning Capabilities", arXiv, 2024 (*DeepMind*). [[Paper](https://arxiv.org/abs/2401.12168)][[Website](https://spatial-vlm.github.io/)]
 * Tracking:
     * **JointNLT**: "Joint Visual Grounding and Tracking with Natural Language Specification", CVPR, 2023 (*Harbin Institute of Technology*). [[Paper](https://arxiv.org/abs/2303.12027)][[PyTorch](https://github.com/lizhou-cs/JointNLT)]
     * **MMTrack**: "Towards Unified Token Learning for Vision-Language Tracking", arXiv, 2023 (*Guangxi Normal University*). [[Paper](https://arxiv.org/pdf/2308.14103.pdf)]
