@@ -2199,6 +2199,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **M<sup>2</sup>-CLIP**: "M<sup>2</sup>-CLIP: A Multimodal, Multi-task Adapting Framework for Video Action Recognition", AAAI, 2024 (*Zhejiang*). [[Paper](https://arxiv.org/abs/2401.11649)]
     * **BriVIS**: "Instance Brownian Bridge as Texts for Open-vocabulary Video Instance Segmentation", arXiv, 2024 (*Peking*). [[Paper](https://arxiv.org/abs/2401.09732)][[PyTorch (in construction)](https://github.com/sennnnn/OpenVIS)]
     * **ActionHub**: "ActionHub: A Large-scale Action Video Description Dataset for Zero-shot Action Recognition", arXiv, 2024 (*Sun Yat-sen University*). [[Paper](https://arxiv.org/abs/2401.11654)]
+    * **ZERO**: "Zero Shot Open-ended Video Inference", arXiv, 2024 (*A\*STAR*). [[Paper](https://arxiv.org/abs/2401.12471)]
 * X-supervised Learning:
     * **LSTCL**: "Long-Short Temporal Contrastive Learning of Video Transformers", CVPR, 2022 (*Facebook*). [[Paper](https://arxiv.org/abs/2106.09212)]
     * **SVT**: "Self-supervised Video Transformer", CVPR, 2022 (*Stony Brook*). [[Paper](https://arxiv.org/abs/2112.01514)][[PyTorch](https://github.com/kahnchana/svt)][[Website](https://kahnchana.github.io/svt/)]
