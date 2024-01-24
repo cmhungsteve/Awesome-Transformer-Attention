@@ -978,6 +978,7 @@ If you find this repository useful, please consider citing this list:
     * **Vlogger**: "Vlogger: Make Your Dream A Vlog", arXiv, 2024 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2401.09414)][[PyTorch](https://github.com/zhuangshaobin/Vlogger)]
     * **VideoCrafter2**: "VideoCrafter2: Overcoming Data Limitations for High-Quality Video Diffusion Models", arXiv, 2024 (*Tencent*). [[Paper](https://arxiv.org/abs/2401.09047)][[PyTorch](https://github.com/AILab-CVC/VideoCrafter)][[Website](https://ailab-cvc.github.io/videocrafter2/)]
     * **ActAnywhere**: "ActAnywhere: Subject-Aware Video Background Generation", arXiv, 2024 (*Adobe*). [[Paper](https://arxiv.org/abs/2401.10822)][[Website](https://actanywhere.github.io/)]
+    * **Lumiere**: "Lumiere: A Space-Time Diffusion Model for Video Generation", arXiv, 2024 (*Google*). [[Paper](https://arxiv.org/abs/2401.12945)][[Website](https://lumiere-video.github.io/)]
 * 3D:
     * **Magic3D**: "Magic3D: High-Resolution Text-to-3D Content Creation", CVPR, 2023 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2211.10440)][[Website](https://research.nvidia.com/labs/dir/magic3d/)]
     * **CLIP-Sculptor**: "CLIP-Sculptor: Zero-Shot Generation of High-Fidelity and Diverse Shapes from Natural Language", CVPR, 2023 (*Autodesk*). [[Paper](https://arxiv.org/abs/2211.01427)][[Website](https://ivl.cs.brown.edu/#/projects/clip-sculptor)]
@@ -1116,6 +1117,7 @@ If you find this repository useful, please consider citing this list:
 * **LaViP**: "LaViP: Language-Grounded Visual Prompts", AAAI, 2024 (*Monash University*). [[Paper](https://arxiv.org/abs/2312.10945)]
 * **SA<sup>2</sup>VP**: "SA<sup>2</sup>VP: Spatially Aligned-and-Adapted Visual Prompt", AAAI, 2024 (*Harbin Institute of Technology*). [[Paper](https://arxiv.org/abs/2312.10376)][[PyTorch](https://github.com/tommy-xq/SA2VP)]
 * **CPL**: "Concept-Guided Prompt Learning for Generalization in Vision-Language Models", AAAI, 2024 (*Harbin Institute of Technology*). [[Paper](https://arxiv.org/abs/2401.07457)]
+* **?**: "Facing the Elephant in the Room: Visual Prompt Tuning or Full Finetuning?", ICLR, 2024 (*Rochester Institute of Technology*). [[Paper](https://arxiv.org/abs/2401.12902)]
 * **ProText**: "Learning to Prompt with Text Only Supervision for Vision-Language Models", arXiv, 2024 (*MBZUAI*). [[Paper](https://arxiv.org/abs/2401.02418)][[PyTorch](https://github.com/muzairkhattak/ProText)][[Website](https://muzairkhattak.github.io/ProText/)]
 
 [[Back to Overview](#overview)]
@@ -1194,6 +1196,7 @@ If you find this repository useful, please consider citing this list:
     * **UniFine**: "UniFine: A Unified and Fine-grained Approach for Zero-shot Vision-Language Understanding", arXiv, 2023 (*Columbia*). [[Paper](https://arxiv.org/abs/2307.00862)][[Code (in construction)](https://github.com/ThreeSR/UniFine)]
     * **Cheetah**: "Empowering Vision-Language Models to Follow Interleaved Vision-Language Instructions", arXiv, 2023 (*Zhejiang*). [[Paper](https://arxiv.org/abs/2308.04152)]
     * **?**: "LLMs as Visual Explainers: Advancing Image Classification with Evolving Visual Descriptions", arXiv, 2023 (*Beihang*). [[Paper](https://arxiv.org/abs/2311.11904)]
+    * **REAL**: "The Neglected Tails of Vision-Language Models", arXiv, 2024 (*TAMU*). [[Paper](https://arxiv.org/abs/2401.12425)][[Code (in construction)](https://github.com/shubhamprshr27/NeglectedTailsVLM)][[Website](https://shubhamprshr27.github.io/neglected-tails-of-vlms/)]
 * X-Shot:
     * **Tip-Adapter**: "Tip-Adapter: Training-free Adaption of CLIP for Few-shot Classification", ECCV, 2022 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2207.09519)][[PyTorch](https://github.com/gaopengcuhk/Tip-Adapter)]
     * **VidIL**: "Language Models with Image Descriptors are Strong Few-Shot Video-Language Learners", NeurIPS, 2022 (*UIUC*). [[Paper](https://arxiv.org/abs/2205.10747)][[PyTorch](https://github.com/MikeWangWZHL/VidIL)]
