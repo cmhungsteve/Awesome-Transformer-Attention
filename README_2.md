@@ -320,6 +320,7 @@ If you find this repository useful, please consider citing this list:
     * **CSwinTT**: "Transformer Tracking with Cyclic Shifting Window Attention", CVPR, 2022 (*Huazhong University of Science and Technology*). [[Paper](https://arxiv.org/abs/2205.03806)][[PyTorch](https://github.com/SkyeSong38/CSWinTT)]
     * **STNet**: "Spiking Transformers for Event-Based Single Object Tracking", CVPR, 2022 (*Dalian University of Technology*). [[Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Zhang_Spiking_Transformers_for_Event-Based_Single_Object_Tracking_CVPR_2022_paper.html)]
     * **TrackFormer**: "TrackFormer: Multi-Object Tracking with Transformers", CVPR, 2022 (*Facebook*). [[Paper](https://arxiv.org/abs/2101.02702)][[PyTorch](https://github.com/timmeinhardt/trackformer)]
+    * **SBT**: "Correlation-Aware Deep Tracking", CVPR, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2203.01666)][[PyTorch](https://github.com/phiphiphi31/SBT)]
     * **SparseTT**: "SparseTT: Visual Tracking with Sparse Transformers", IJCAI, 2022 (*Beihang University*). [[Paper](https://arxiv.org/abs/2205.03776)][[Code (in construction)](https://github.com/fzh0917/SparseTT)]
     * **AiATrack**: "AiATrack: Attention in Attention for Transformer Visual Tracking", ECCV, 2022 (*Huazhong University of Science and Technology*). [[Paper](https://arxiv.org/abs/2207.09603)][[PyTorch](https://github.com/Little-Podi/AiATrack)]
     * **MOTR**: "MOTR: End-to-End Multiple-Object Tracking with TRansformer", ECCV, 2022 (*Megvii*). [[Paper](https://arxiv.org/abs/2105.03247)][[PyTorch](https://github.com/megvii-model/MOTR)]
@@ -369,6 +370,7 @@ If you find this repository useful, please consider citing this list:
     * **ContrasTR**: "Contrastive Learning for Multi-Object Tracking with Transformers", WACV, 2024 (*KU Leuven*). [[Paper](https://arxiv.org/abs/2311.08043)]
     * **M3SOT**: "M3SOT: Multi-frame, Multi-field, Multi-space 3D Single Object Tracking", AAAI, 2024 (*Xidian University*). [[Paper](https://arxiv.org/abs/2312.06117)]
     * **EVPTrack**: "Explicit Visual Prompts for Visual Object Tracking", AAAI, 2024 (*Guangxi Normal University*). [[Paper](https://arxiv.org/abs/2401.03142)]
+    * **SBT**: "Correlation-Embedded Transformer Tracking: A Single-Branch Framework", arXiv, 2024 (*SJTU*). [[Paper](https://arxiv.org/abs/2401.12743)][[PyTorch](https://github.com/phiphiphi31/SBT)]
 * 3D:
     * **PTT**: "PTT: Point-Track-Transformer Module for 3D Single Object Tracking in Point Clouds", IROS, 2021 (*Northeastern University*). [[Paper](https://arxiv.org/abs/2108.06455)][[PyTorch (in construction)](https://github.com/shanjiayao/PTT)]
     * **LTTR**: "3D Object Tracking with Transformer", BMVC, 2021 (*Northeastern University, China*). [[Paper](https://arxiv.org/abs/2110.14921)][[Code (in construction)](https://github.com/3bobo/lttr)]
@@ -596,6 +598,7 @@ If you find this repository useful, please consider citing this list:
 * **VETO-MEET**: "Vision Relation Transformer for Unbiased Scene Graph Generation", ICCV, 2023 (*Technical University of Darmstadt, Germany*). [[Paper](https://arxiv.org/abs/2308.09472)][[PyTorch](https://github.com/visinf/veto)]
 * **TextPSG**: "TextPSG: Panoptic Scene Graph Generation from Textual Descriptions", ICCV, 2023 (*IBM*). [[Paper](https://arxiv.org/abs/2310.07056)][[Code (in construction)](https://github.com/chengyzhao/TextPSG)][[Website](https://vis-www.cs.umass.edu/TextPSG/)]
 * **HiLo**: "HiLo: Exploiting High Low Frequency Relations for Unbiased Panoptic Scene Graph Generation", ICCV, 2023 (*King's College London*). [[Paper](https://arxiv.org/abs/2303.15994)][[PyTorch](https://github.com/franciszzj/HiLo)]
+* **SGTR+**: "SGTR+: End-to-end Scene Graph Generation with Transformer", TPAMI, 2023 (*ShanghaiTech*). [[Paper](https://arxiv.org/abs/2401.12835)][[PyTorch](https://github.com/Scarecrow0/SGTR)]
 * **SGT**: "Revisiting Transformer for Point Cloud-based 3D Scene Graph Generation", arXiv, 2023 (*Beijing University of Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2303.11048)]
 
 [[Back to Overview](#overview)]
