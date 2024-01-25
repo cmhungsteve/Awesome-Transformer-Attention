@@ -1505,6 +1505,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **OV-SAM**: "Open-Vocabulary SAM: Segment and Recognize Twenty-thousand Classes Interactively", arXiv, 2024 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2401.02955)][[PyTorch](https://github.com/HarborYuan/ovsam)][[Website](https://www.mmlab-ntu.com/project/ovsam/)]
     * **SSPrompt**: "Learning to Prompt Segment Anything Models", arXiv, 2024 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2401.04651)]
     * **RAP-SAM**: "RAP-SAM: Towards Real-Time All-Purpose Segment Anything", arXiv, 2024 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2401.10228)][[PyTorch](https://github.com/xushilin1/RAP-SAM/)][[Website](https://xushilin1.github.io/rap_sam/)]
+    * **PA-SAM**: "PA-SAM: Prompt Adapter SAM for High-Quality Image Segmentation", arXiv, 2024 (*OPPO*). [[Paper](https://arxiv.org/abs/2401.13051)][[PyTorch](https://github.com/xzz2/pa-sam)]
 * Vision-Language:
     * **LSeg**: "Language-driven Semantic Segmentation", ICLR, 2022 (*Cornell*). [[Paper](https://arxiv.org/abs/2201.03546)][[PyTorch](https://github.com/isl-org/lang-seg)]
     * **ZegFormer**: "Decoupling Zero-Shot Semantic Segmentation", CVPR, 2022 (*Wuhan University*). [[Paper](https://arxiv.org/abs/2112.07910)][[PyTorch](https://github.com/dingjiansw101/ZegFormer)]
