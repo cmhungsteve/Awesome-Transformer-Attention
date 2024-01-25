@@ -360,6 +360,7 @@ If you find this repository useful, please consider citing this list:
     * **OV-VG**: "OV-VG: A Benchmark for Open-Vocabulary Visual Grounding", arXiv, 2023 (*Beihang*). [[Paper](https://arxiv.org/abs/2310.14374)][[Code (in construction)](https://github.com/cv516Buaa/OV-VG)]
     * **?**: "Augment the Pairs: Semantics-Preserving Image-Caption Pair Augmentation for Grounding-Based Vision and Language Models", WACV, 2024 (*Amazon*). [[Paper](https://arxiv.org/abs/2311.02536)][[PyTorch](https://github.com/amzn/augment-the-pairs-wacv2024)]
     * **CyCo**: "Cycle-Consistency Learning for Captioning and Grounding", AAAI, 2024 (*Huawei*). [[Paper](https://arxiv.org/abs/2312.15162)]
+    * **ChatterBox**: "ChatterBox: Multi-round Multimodal Referring and Grounding", arXiv, 2024 (*CAS*). [[Paper](https://arxiv.org/abs/2401.13307)][[PyTorch](https://github.com/sunsmarterjie/ChatterBox)]
 * Video:
     * **Multi-Stage-Transformer**: "Multi-Stage Aggregated Transformer Network for Temporal Language Localization in Videos", CVPR, 2021 (*University of Electronic Science and Technology of China*). [[Paper](https://openaccess.thecvf.com/content/CVPR2021/html/Zhang_Multi-Stage_Aggregated_Transformer_Network_for_Temporal_Language_Localization_in_Videos_CVPR_2021_paper.html)]
     * **GTR**: "On Pursuit of Designing Multi-modal Transformer for Video Grounding", EMNLP, 2021 (*Peking*). [[Paper](https://arxiv.org/abs/2109.06085)]
