@@ -134,6 +134,7 @@ If you find this repository useful, please consider citing this list:
 * "Masked Modeling for Self-supervised Representation Learning on Vision and Beyond", arXiv, 2024 (*Westlake University, China*). [[Paper](https://arxiv.org/abs/2401.00897)][[GitHub](https://github.com/Lupin1998/Awesome-MIM)]
 * "Transformer for Object Re-Identification: A Survey", arXiv, 2024 (*Wuhan University*). [[Paper](https://arxiv.org/abs/2401.06960)]
 * "Forging Vision Foundation Models for Autonomous Driving: Challenges, Methodologies, and Opportunities", arXiv, 2024 (*Huawei*). [[Paper](https://arxiv.org/abs/2401.08045)][[GtiHub](https://github.com/zhanghm1995/Forge_VFM4AD)]
+* "MM-LLMs: Recent Advances in MultiModal Large Language Models", arXiv, 2024 (*Tencent*). [[Paper](https://arxiv.org/abs/2401.13601)]
 * "Vision + Language Applications: A Survey", CVPRW, 2023 (*Ritsumeikan University, Japan*). [[Paper](https://arxiv.org/abs/2305.14598)][[GitHub](https://github.com/Yutong-Zhou-cv/Awesome-Text-to-Image)]
 * "Multimodal Learning With Transformers: A Survey", TPAMI, 2023 (*Tsinghua & Oxford*). [[Paper](https://arxiv.org/abs/2206.06488)]
 * "A Survey of Visual Transformers", TNNLS, 2023 (*CAS*). [[Paper](https://arxiv.org/abs/2111.06091)][[GitHub](https://github.com/arekavandi/Transformer-SOD)]
@@ -695,9 +696,13 @@ If you find this repository useful, please consider citing this list:
 * **NxTP**: "Object Recognition as Next Token Prediction", arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2312.02142)][[PyTorch](https://github.com/kaiyuyue/nxtp)]
 * **?**: "Scaling Laws of Synthetic Images for Model Training ... for Now", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2312.04567)][[PyTorch](https://github.com/google-research/syn-rep-learn)]
 * **SynCLR**: "Learning Vision from Models Rivals Learning Vision from Data", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2312.17742)][[PyTorch](https://github.com/google-research/syn-rep-learn)]
+* **EWA**: "Experts Weights Averaging: A New General Training Scheme for Vision Transformers", arXiv, 2023 (*Fudan*). [[Paper](https://arxiv.org/abs/2308.06093)]
+* **DTM**: "Masked Image Modeling via Dynamic Token Morphing", arXiv, 2023 (*NAVER*). [[Paper](https://arxiv.org/abs/2401.00254)]
 * **SSAT**: "Limited Data, Unlimited Potential: A Study on ViTs Augmented by Masked Autoencoders", WACV, 2024 (*UNC Charlotte*). [[Paper](https://arxiv.org/abs/2310.20704)][[Code (in construction)](https://github.com/dominickrei/Limited-data-vits)]
 * **DVT**: "Denoising Vision Transformers", arXiv, 2024 (*USC*). [[Paper](https://arxiv.org/abs/2401.02957)][[PyTorch](https://github.com/Jiawei-Yang/Denoising-ViT)][[Website](https://jiawei-yang.github.io/DenoisingViT/)]
 * **AIM**: "Scalable Pre-training of Large Autoregressive Image Models", arXiv, 2024 (*Apple*). [[Paper](https://arxiv.org/abs/2401.08541)][[PyTorch](https://github.com/apple/ml-aim)]
+* **DDM**: "Deconstructing Denoising Diffusion Models for Self-Supervised Learning", arXiv, 2024 (*Meta*). [[Paper](https://arxiv.org/abs/2401.14404)]
+* **CrossMAE**: "Rethinking Patch Dependence for Masked Autoencoders", arXiv, 2024 (*Berkeley*). [[Paper](https://arxiv.org/abs/2401.14391)][[PyTorch](https://github.com/TonyLianLong/CrossMAE)][[Website](https://crossmae.github.io/)]
 #### Robustness + Transformer
 * **ViT-Robustness**: "Understanding Robustness of Transformers for Image Classification", ICCV, 2021 (*Google*). [[Paper](https://arxiv.org/abs/2103.14586)]
 * **SAGA**: "On the Robustness of Vision Transformers to Adversarial Examples", ICCV, 2021 (*University of Connecticut*). [[Paper](https://arxiv.org/abs/2104.02610)]
@@ -1506,6 +1511,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **SSPrompt**: "Learning to Prompt Segment Anything Models", arXiv, 2024 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2401.04651)]
     * **RAP-SAM**: "RAP-SAM: Towards Real-Time All-Purpose Segment Anything", arXiv, 2024 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2401.10228)][[PyTorch](https://github.com/xushilin1/RAP-SAM/)][[Website](https://xushilin1.github.io/rap_sam/)]
     * **PA-SAM**: "PA-SAM: Prompt Adapter SAM for High-Quality Image Segmentation", arXiv, 2024 (*OPPO*). [[Paper](https://arxiv.org/abs/2401.13051)][[PyTorch](https://github.com/xzz2/pa-sam)]
+    * **Grounded-SAM**: "Grounded SAM: Assembling Open-World Models for Diverse Visual Tasks", arXiv, 2024 (*IDEA*). [[Paper](https://arxiv.org/abs/2401.14159)][[PyTorch](https://github.com/IDEA-Research/Grounded-Segment-Anything)]
 * Vision-Language:
     * **LSeg**: "Language-driven Semantic Segmentation", ICLR, 2022 (*Cornell*). [[Paper](https://arxiv.org/abs/2201.03546)][[PyTorch](https://github.com/isl-org/lang-seg)]
     * **ZegFormer**: "Decoupling Zero-Shot Semantic Segmentation", CVPR, 2022 (*Wuhan University*). [[Paper](https://arxiv.org/abs/2112.07910)][[PyTorch](https://github.com/dingjiansw101/ZegFormer)]
@@ -2230,6 +2236,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **AMD**: "Asymmetric Masked Distillation for Pre-Training Small Foundation Models", arXiv, 2023 (*Nanjing University*). [[Paper](https://arxiv.org/abs/2311.03149)]
     * **SSL-UVOS**: "Betrayed by Attention: A Simple yet Effective Approach for Self-supervised Video Object Segmentation", arXiv, 2023 (*CUHK*). [[Paper](https://arxiv.org/abs/2311.17893)]
     * **NMS**: "No More Shortcuts: Realizing the Potential of Temporal Self-Supervision", AAAI, 2024 (*Adobe*). [[Paper](https://arxiv.org/abs/2312.13008)][[Website](https://daveishan.github.io/nms-webpage/)]
+    * **GPM**: "Self-supervised Video Object Segmentation with Distillation Learning of Deformable Attention", arXiv, 2024 (*HKUST*). [[Paper](https://arxiv.org/abs/2401.13937)]
 * X-shot:
     * **ResT**: "Cross-modal Representation Learning for Zero-shot Action Recognition", CVPR, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2205.01657)]
     * **ViSET**: "Zero-Shot Action Recognition with Transformer-based Video Semantic Embedding", arXiv, 2022 (*University of South FLorida*). [[Paper](https://arxiv.org/abs/2203.05156)]
