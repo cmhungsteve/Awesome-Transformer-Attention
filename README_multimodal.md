@@ -720,6 +720,7 @@ If you find this repository useful, please consider citing this list:
     * **ViT-Lens**: "ViT-Lens: Towards Omni-modal Representations", arXiv, 2023 (*Tencent*). [[Paper](https://arxiv.org/abs/2308.10185)][[PyTorch](https://github.com/TencentARC/ViT-Lens)]
     * **ViT-Lens-2**: "ViT-Lens-2: Gateway to Omni-modal Intelligence", arXiv, 2023 (*Tencent*). [[Paper](https://arxiv.org/abs/2311.16081)][[PyTorch](https://github.com/TencentARC/ViT-Lens)]
     * **ModaVerse**: "ModaVerse: Efficiently Transforming Modalities with LLMs", arXiv, 2024 (*University of Adelaide*). [[Paper](https://arxiv.org/abs/2401.06395)]
+    * **M2PT**: "Multimodal Pathway: Improve Transformers with Irrelevant Data from Other Modalities", arXiv, 2024 (*CUHK*). [[Paper](https://arxiv.org/abs/2401.14405)][[PyTorch](https://github.com/AILab-CVC/M2PT)][[Website](https://ailab-cvc.github.io/M2PT/)]
 * Others:
     * **C-MCR**: "Connecting Multi-modal Contrastive Representations", NeurIPS, 2023 (*Zhejiang*). [[Paper](https://arxiv.org/abs/2305.14381)][[PyTorch](https://github.com/MCR-PEFT/C-MCR)][[Website](https://c-mcr.github.io/C-MCR/)]
     * **UMI**: "Learning Unseen Modality Interaction", NeurIPS, 2023 (*UvA*). [[Paper](https://arxiv.org/abs/2306.12795)][[Code (in construction)](https://github.com/xiaobai1217/Unseen-Modality-Interaction)][[Website](https://xiaobai1217.github.io/Unseen-Modality-Interaction/)]
