@@ -1716,6 +1716,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **M2Former**: "M2Former: Multi-Scale Patch Selection for Fine-Grained Visual Recognition", arXiv, 2023 (*Dongguk University, Korea*). [[Paper](https://arxiv.org/abs/2308.02161)]
     * **MP-FGVC**: "Delving into Multimodal Prompting for Fine-grained Visual Classification", arXiv, 2023 (*Nanjing University of Science and Technology*). [[Paper](https://arxiv.org/abs/2309.08912)]
     * **HGCLIP**: "HGCLIP: Exploring Vision-Language Models with Graph Representations for Hierarchical Understanding", arXiv, 2023 (*Monash*). [[Paper](https://arxiv.org/abs/2311.14064)][[PyTorch](https://github.com/richard-peng-xia/HGCLIP)]
+    * **FineR**: "Democratizing Fine-grained Visual Recognition with Large Language Models", ICLR, 2024 (*University of Trento*). [[Paper](https://arxiv.org/abs/2401.13837)][[Code (in construction)](https://github.com/OatmealLiu/FineR)][[Website](https://projfiner.github.io/)]
 * Gait:
     * **Gait-TR**: "Spatial Transformer Network on Skeleton-based Gait Recognition", arXiv, 2022 (*South China University of Technology*). [[Paper](https://arxiv.org/abs/2204.03873)]
     * **MMGaitFormer**: "Multi-Modal Gait Recognition via Effective Spatial-Temporal Feature Fusion", CVPR, 2023 (*Beihang University*). [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Cui_Multi-Modal_Gait_Recognition_via_Effective_Spatial-Temporal_Feature_Fusion_CVPR_2023_paper.html)]
