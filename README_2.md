@@ -99,6 +99,7 @@ If you find this repository useful, please consider citing this list:
 * **3DTRL**: "Learning Viewpoint-Agnostic Visual Representations by Recovering Tokens in 3D Space", NeurIPS, 2022 (*Stony Brook*). [[Paper](https://arxiv.org/abs/2206.11895?context=cs.LG)][[PyTorch](https://github.com/elicassion/3DTRL)][[Website](https://elicassion.github.io/3dtrl/3dtrl.html)]
 * **ShapeCrafter**: "ShapeCrafter: A Recursive Text-Conditioned 3D Shape Generation Model", NeurIPS, 2022 (*Brown*). [[Paper](https://arxiv.org/abs/2207.09446)]
 * **XMFnet**: "Cross-modal Learning for Image-Guided Point Cloud Shape Completion", NeurIPS, 2022 (*Politecnico di Torino, Italy*). [[Paper](https://arxiv.org/abs/2209.09552)]
+* **Point-M2AE**: "Point-M2AE: Multi-scale Masked Autoencoders for Hierarchical Point Cloud Pre-training", NeurIPS, 2022 (*CUHK*). [[Paper](https://arxiv.org/abs/2205.14401)][[PyTorch](https://github.com/ZrrSkywalker/Point-M2AE)]
 * **LighTN**: "LighTN: Light-weight Transformer Network for Performance-overhead Tradeoff in Point Cloud Downsampling", arXiv, 2022 (*Beijing Jiaotong University*). [[Paper](https://arxiv.org/abs/2202.06263)]
 * **PMP-Net++**: "PMP-Net++: Point Cloud Completion by Transformer-Enhanced Multi-step Point Moving Paths", arXiv, 2022 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2202.09507)]
 * **SnowflakeNet**: "Snowflake Point Deconvolution for Point Cloud Completion and Generation with Skip-Transformer", arXiv, 2022 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2202.09367)][[PyTorch](https://github.com/AllenXiangX/SnowflakeNet)]
