@@ -1104,6 +1104,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **V-DETR**: "V-DETR: DETR with Vertex Relative Position Encoding for 3D Object Detection", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2308.04409)][[Code (in construction)](https://github.com/yichaoshen-MS/V-DETR)]
 * **3DiffTection**: "3DiffTection: 3D Object Detection with Geometry-Aware Diffusion Features", arXiv, 2023 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2311.04391)][[Code (in construction)](https://github.com/nv-tlabs/3DiffTection)][[Website](https://research.nvidia.com/labs/toronto-ai/3difftection/)]
 * **PTT**: "PTT: Point-Trajectory Transformer for Efficient Temporal 3D Object Detection", arXiv, 2023 (*UC Merced*). [[Paper](https://arxiv.org/abs/2312.08371)][[Code (in construction)](https://github.com/kuanchihhuang/PTT)]
+* **MixSup**: "MixSup: Mixed-grained Supervision for Label-efficient LiDAR-based 3D Object Detection", ICLR, 2024 (*CAS*). [[Paper](https://arxiv.org/abs/2401.16305)][[PyTorch](https://github.com/BraveGroup/PointSAM-for-MixSup)]
 * **ScatterFormer**: "ScatterFormer: Efficient Voxel Transformer with Scattered Linear Attention", arXiv, 2024 (*The Hong Kong Polytechnic University*). [[Paper](https://arxiv.org/abs/2401.00912)][[Code (in construction)](https://github.com/skyhehe123/ScatterFormer)]
 * **MsSVT++**: "MsSVT++: Mixed-scale Sparse Voxel Transformer with Center Voting for 3D Object Detection", arXiv, 2024 (*Beijing Institute of Technology*). [[Paper](https://arxiv.org/abs/2401.11718)][[PyTorch](https://github.com/dscdyc/MsSVT)]
 
@@ -2238,6 +2239,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **SSL-UVOS**: "Betrayed by Attention: A Simple yet Effective Approach for Self-supervised Video Object Segmentation", arXiv, 2023 (*CUHK*). [[Paper](https://arxiv.org/abs/2311.17893)]
     * **NMS**: "No More Shortcuts: Realizing the Potential of Temporal Self-Supervision", AAAI, 2024 (*Adobe*). [[Paper](https://arxiv.org/abs/2312.13008)][[Website](https://daveishan.github.io/nms-webpage/)]
     * **GPM**: "Self-supervised Video Object Segmentation with Distillation Learning of Deformable Attention", arXiv, 2024 (*HKUST*). [[Paper](https://arxiv.org/abs/2401.13937)]
+    * **MV2MAE**: "MV2MAE: Multi-View Video Masked Autoencoders", arXiv, 2024 (*Amazon*). [[Paper](https://arxiv.org/abs/2401.15900)]
 * X-shot:
     * **ResT**: "Cross-modal Representation Learning for Zero-shot Action Recognition", CVPR, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2205.01657)]
     * **ViSET**: "Zero-Shot Action Recognition with Transformer-based Video Semantic Embedding", arXiv, 2022 (*University of South FLorida*). [[Paper](https://arxiv.org/abs/2203.05156)]
