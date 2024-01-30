@@ -254,6 +254,7 @@ If you find this repository useful, please consider citing this list:
     * **DIS**: "Detection-based Intermediate Supervision for Visual Question Answering", AAAI, 2024 (*Huazhong University of Science and Technology (HUST)*). [[Paper](https://arxiv.org/abs/2312.16012)]
     * **OAM-VQA**: "Object Attribute Matters in Visual Question Answering", AAAI, 2024 (*Jilin University*). [[Paper](https://arxiv.org/abs/2401.09442)]
     * **?**: "Advancing Large Multi-modal Models with Explicit Chain-of-Reasoning and Visual Question Generation", arXiv, 2024 (*University of Tokyo*). [[Paper](https://arxiv.org/abs/2401.10005)]
+    * **MultipanelVQA**: "Muffin or Chihuahua? Challenging Large Vision-Language Models with Multipanel VQA", arXiv, 2024 (*eBay*). [[Paper](https://arxiv.org/abs/2401.15847)][[Website](https://sites.google.com/view/multipanelvqa/home)]
 * Video:
     * **?**: "Mounting Video Metadata on Transformer-based Language Model for Open-ended Video Question Answering", arXiv, 2021 (*Seoul National University*). [[Paper](https://arxiv.org/abs/2108.05158)]
     * **TPT**: "Temporal Pyramid Transformer with Multimodal Interaction for Video Question Answering", arXiv, 2021 (*CAS*). [[Paper](https://arxiv.org/abs/2109.04735)]
@@ -1185,6 +1186,9 @@ If you find this repository useful, please consider citing this list:
     * **AdaLink**: "Non-Intrusive Adaptation: Input-Centric Parameter-efficient Fine-Tuning for Versatile Multimodal Modeling", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2310.12100)]
     * **LM4Visual**: "Frozen Transformers in Language Models Are Effective Visual Encoder Layers", arXiv, 2023 (*UIUC*). [[Paper](https://arxiv.org/abs/2310.12973)][[PyTorch (in construction)](https://github.com/ziqipang/LM4VisualEncoding)]
     * **Octavius**: "Octavius: Mitigating Task Interference in MLLMs via MoE", arXiv, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2311.02684)]
+    * **LLaVA-MoLE**: "LLaVA-MoLE: Sparse Mixture of LoRA Experts for Mitigating Data Conflicts in Instruction Finetuning MLLMs", arXiv, 2024 (*Meituan*). [[Paper](https://arxiv.org/abs/2401.16160)]
+    * **?**: "Routers in Vision Mixture of Experts: An Empirical Study", arXiv, 2024 (*DeepMind*). [[Paper](https://arxiv.org/abs/2401.15969)]
+    * **MoE-LLaVA**: "MoE-LLaVA: Mixture of Experts for Large Vision-Language Models", arXiv, 2024 (*Peking*). [[Paper](https://arxiv.org/abs/2401.15947)][[PyTorch](https://github.com/PKU-YuanGroup/MoE-LLaVA)]
 * Zero-Shot:
     * **SMs**: "Socratic Models: Composing Zero-Shot Multimodal Reasoning with Language", ICLR, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2204.00598)][[GitHub](https://github.com/google-research/google-research/tree/master/socraticmodels)][[Website](https://socraticmodels.github.io/)]
     * **iCLIP**: "iCLIP: Bridging Image Classification and Contrastive Language-Image Pre-Training for Visual Recognition", CVPR, 2023 (*Microsoft*). [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Wei_iCLIP_Bridging_Image_Classification_and_Contrastive_Language-Image_Pre-Training_for_Visual_CVPR_2023_paper.html)]
@@ -1588,6 +1592,7 @@ If you find this repository useful, please consider citing this list:
     * **ChartAssisstant**: "ChartAssisstant: A Universal Chart Multimodal Language Model via Chart-to-Table Pre-training and Multitask Instruction Tuning", arXiv, 2024 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2401.02384)]
     * **LLaVA-ϕ**: "LLaVA-ϕ: Efficient Multi-Modal Assistant with Small Language Model", arXiv, 2024 (*Midea Group, China*). [[Paper](https://arxiv.org/abs/2401.02330)][[Code (in construction)](https://github.com/zhuyiche/llava-phi)]
     * **CaMML**: "CaMML: Context-Aware Multimodal Learner for Large Models", arXiv, 2024 (*Amazon*). [[Paper](https://arxiv.org/abs/2401.03149)]
+    * **InternLM-XComposer2**: "InternLM-XComposer2: Mastering Free-form Text-Image Composition and Comprehension in Vision-Language Large Model", arXiv, 2024 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2401.16420)][[PyTorch](https://github.com/InternLM/InternLM-XComposer)]
 * Conversation (Video):
     * **Video-ChatCaptioner**: "Video ChatCaptioner: Towards the Enriched Spatiotemporal Descriptions", arXiv, 2023 (*KAUST*). [[Paper](https://arxiv.org/abs/2304.04227)][[PyTorch](https://github.com/Vision-CAIR/ChatCaptioner)]
     * **ChatVideo**: "ChatVideo: A Tracklet-centric Multimodal and Versatile Video Understanding System", arXiv, 2023 (*Fudan*). [[Paper](https://arxiv.org/abs/2304.14407)][[Website](https://www.wangjunke.info/ChatVideo/)]
@@ -1688,6 +1693,7 @@ If you find this repository useful, please consider citing this list:
     * **AttackVLM**: "On Evaluating Adversarial Robustness of Large Vision-Language Models", NeurIPS, 2023 (*Singapore University of Technology and Design (SUTD)*). [[Paper](https://arxiv.org/abs/2305.16934)][[PyTorch](https://github.com/yunqing-me/AttackVLM)]
     * **RoCLIP**: "Robust Contrastive Language-Image Pre-training against Data Poisoning and Backdoor Attacks", NeurIPS, 2023 (*UCLA*). [[Paper](https://arxiv.org/abs/2303.06854)][[PyTorch](https://github.com/BigML-CS-UCLA/RoCLIP)]
     * **?**: "Benchmarking Robustness of Adaptation Methods on Pre-trained Vision-Language Models", NeurIPS (Datasets and Benchmarks), 2023 (*LMU Munich*). [[Paper](https://arxiv.org/abs/2306.02080)][[PyTorch](https://github.com/adarobustness/adaptation_robustness)][[Website](https://adarobustness.github.io/)]
+    * **OGEN**: "Overcoming the Pitfalls of Vision-Language Model Finetuning for OOD Generalization", ICLR, 2024 (*Apple*). [[Paper](https://arxiv.org/abs/2401.15914)]
 * Compositional Reasoning:
     * **SugarCrepe**: "SugarCrepe: Fixing Hackable Benchmarks for Vision-Language Compositionality", NeurIPS, 2023 (*AI2*). [[Paper](https://arxiv.org/abs/2306.14610)][[PyTorch](https://github.com/RAIVNLab/sugar-crepe)]
     * **DAC**: "Dense and Aligned Captions (DAC) Promote Compositional Reasoning in VL Models", NeurIPS, 2023 (*IBM*). [[Paper](https://arxiv.org/abs/2305.19595)]
