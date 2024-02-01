@@ -629,6 +629,7 @@ If you find this repository useful, please consider citing this list:
     * **UMG-CLIP**: "UMG-CLIP: A Unified Multi-Granularity Vision Generalist for Open-World Understanding", arXiv, 2024 (*Huawei*). [[Paper](https://arxiv.org/abs/2401.06397)]
     * **MM-Interleaved**: "MM-Interleaved: Interleaved Image-Text Generative Modeling via Multi-modal Feature Synchronizer", arXiv, 2024 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2401.10208)][[PyTorch](https://github.com/OpenGVLab/MM-Interleaved)]
     * **SPARC**: "Improving fine-grained understanding in image-text pre-training", arXiv, 2024 (*DeepMind*). [[Paper](https://arxiv.org/abs/2401.09865)]
+    * **MouSi**: "MouSi: Poly-Visual-Expert Vision-Language Models", arXiv, 2024 (*Fudan*). [[Paper](https://arxiv.org/abs/2401.17221)][[Code (in construction)](https://github.com/FudanNLPLAB/MouSi)]
 * Video:
     * **COOT**: "COOT: Cooperative Hierarchical Transformer for Video-Text Representation Learning", NeurIPS, 2020 (*University of Freiburg*). [[Paper](https://arxiv.org/abs/2011.00597)][[PyTorch](https://github.com/gingsi/coot-videotext)]
     * **Parameter-Reduction**: "Parameter Efficient Multimodal Transformers for Video Representation Learning", ICLR, 2021 (*Seoul National University*). [[Paper](https://openreview.net/forum?id=6UdQLhqJyFD)]
