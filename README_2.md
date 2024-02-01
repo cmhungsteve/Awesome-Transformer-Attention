@@ -758,6 +758,7 @@ If you find this repository useful, please consider citing this list:
     * **?**: "Continual Learning in Open-vocabulary Classification with Complementary Memory Systems", arXiv, 2023 (*UIUC*). [[Paper](https://arxiv.org/abs/2307.01430)]
     * **MoP-CLIP**: "MoP-CLIP: A Mixture of Prompt-Tuned CLIP Models for Domain Incremental Learning", arXiv, 2023 (*ETS Montreal, Canada*). [[Paper](https://arxiv.org/abs/2307.05707)]
     * **TiC-CLIP**: "TiC-CLIP: Continual Training of CLIP Models", arXiv, 2023 (*Apple*). [[Paper](https://arxiv.org/abs/2310.16226)]
+    * **TIER**: "Embracing Language Inclusivity and Diversity in CLIP through Continual Language Learning", AAAI, 2024 (**). [[Paper](https://arxiv.org/abs/2401.17186)]
 * Long-tail/Imbalanced:
     * **BatchFormer**: "BatchFormer: Learning to Explore Sample Relationships for Robust Representation Learning", CVPR, 2022 (*The University of Sydney*). [[Paper](https://arxiv.org/abs/2203.01522)][[PyTorch](https://github.com/zhihou7/BatchFormer)]
     * **BatchFormerV2**: "BatchFormerV2: Exploring Sample Relationships for Dense Representation Learning", arXiv, 2022 (*The University of Sydney*). [[Paper](https://arxiv.org/abs/2204.01254)]
@@ -1848,6 +1849,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **SAMRS**: "SAMRS: Scaling-up Remote Sensing Segmentation Dataset with Segment Anything Model", NeurIPS (Datasets and Benchmarks), 2023 (*iFlytek, China*). [[Paper](https://arxiv.org/abs/2305.02034)][[PyTorch](https://github.com/ViTAE-Transformer/SAMRS)]
     * **RS5M**: "RS5M: A Large Scale Vision-Language Dataset for Remote Sensing Vision-Language Foundation Model", arXiv, 2023 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2306.11300)][[Code (in construction)](https://github.com/om-ai-lab/RS5M)]
     * **RSGPT**: "RSGPT: A Remote Sensing Vision Language Model and Benchmark", arXiv, 2023 (*Alibaba*). [[Paper](https://arxiv.org/abs/2307.15266)][[Code (in construction)](https://github.com/Lavender105/RSGPT)]
+    * **EarthGPT**: "EarthGPT: A Universal Multi-modal Large Language Model for Multi-sensor Image Comprehension in Remote Sensing Domain", arXiv, 2024 (*Beijing Institute of Technology*). [[Paper](https://arxiv.org/abs/2401.16822)]
 * Robotics:
     * **TF-Grasp**: "When Transformer Meets Robotic Grasping: Exploits Context for Efficient Grasp Detection", arXiv, 2022 (*University of Science and Technology of China*). [[Paper](https://arxiv.org/abs/2202.11911)][[Code (in construction)](https://github.com/WangShaoSUN/grasp-transformer)]
     * **BeT**: "Behavior Transformers: Cloning k modes with one stone", arXiv, 2022 (*NYU*). [[Paper](https://arxiv.org/abs/2206.11251)][[PyTorch](https://github.com/notmahi/bet)]
