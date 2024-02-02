@@ -136,6 +136,7 @@ If you find this repository useful, please consider citing this list:
 * "Forging Vision Foundation Models for Autonomous Driving: Challenges, Methodologies, and Opportunities", arXiv, 2024 (*Huawei*). [[Paper](https://arxiv.org/abs/2401.08045)][[GtiHub](https://github.com/zhanghm1995/Forge_VFM4AD)]
 * "MM-LLMs: Recent Advances in MultiModal Large Language Models", arXiv, 2024 (*Tencent*). [[Paper](https://arxiv.org/abs/2401.13601)]
 * "From GPT-4 to Gemini and Beyond: Assessing the Landscape of MLLMs on Generalizability, Trustworthiness and Causality through Four Modalities", arXiv, 2024 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2401.15071)]
+* "A Survey on Hallucination in Large Vision-Language Models", arXiv, 2024 (*Huawei*). [[Paper](https://arxiv.org/abs/2402.00253)]
 * "Vision + Language Applications: A Survey", CVPRW, 2023 (*Ritsumeikan University, Japan*). [[Paper](https://arxiv.org/abs/2305.14598)][[GitHub](https://github.com/Yutong-Zhou-cv/Awesome-Text-to-Image)]
 * "Multimodal Learning With Transformers: A Survey", TPAMI, 2023 (*Tsinghua & Oxford*). [[Paper](https://arxiv.org/abs/2206.06488)]
 * "A Survey of Visual Transformers", TNNLS, 2023 (*CAS*). [[Paper](https://arxiv.org/abs/2111.06091)][[GitHub](https://github.com/arekavandi/Transformer-SOD)]
@@ -371,6 +372,7 @@ If you find this repository useful, please consider citing this list:
 * **SCHEME**: "SCHEME: Scalable Channer Mixer for Vision Transformers", arXiv, 2023 (*UCSD*). [[Paper](https://arxiv.org/abs/2312.00412)]
 * **Agent-Attention**: "Agent Attention: On the Integration of Softmax and Linear Attention", arXiv, 2023 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2312.08874)][[PyTorch](https://github.com/LeapLabTHU/Agent-Attention)]
 * **SPFormer**: "SPFormer: Enhancing Vision Transformer with Superpixel Representation", arXiv, 2024 (*JHU*). [[Paper](https://arxiv.org/abs/2401.02931)]
+* **manifold-K**: "A Manifold Representation of the Key in Vision Transformers", arXiv, 2024 (*University of Oslo, Norway*). [[Paper](https://arxiv.org/abs/2402.00534)]
 #### Efficient Vision Transformer
 * **DeiT**: "Training data-efficient image transformers & distillation through attention", ICML, 2021 (*Facebook*). [[Paper](https://arxiv.org/abs/2012.12877)][[PyTorch](https://github.com/facebookresearch/deit)]
 * **ConViT**: "ConViT: Improving Vision Transformers with Soft Convolutional Inductive Biases", ICML, 2021 (*Facebook*). [[Paper](https://arxiv.org/abs/2103.10697)][[Code](https://github.com/facebookresearch/convit)]
@@ -498,6 +500,7 @@ If you find this repository useful, please consider citing this list:
 * **GTP-ViT**: "GTP-ViT: Efficient Vision Transformers via Graph-based Token Propagation", WACV, 2024 (*CSIRO Data61, Australia*). [[Paper](https://arxiv.org/abs/2311.03035)][[PyTorch](https://github.com/Ackesnal/GTP-ViT)]
 * **ToFu**: "Token Fusion: Bridging the Gap between Token Pruning and Token Merging", WACV, 2024 (*Samsung*). [[Paper](https://arxiv.org/abs/2312.01026)]
 * **Cached-Transformer**: "Cached Transformers: Improving Transformers with Differentiable Memory Cache", AAAI, 2024 (*CUHK*). [[Paper](https://arxiv.org/abs/2312.12742)]
+* **LF-ViT**: "LF-ViT: Reducing Spatial Redundancy in Vision Transformer for Efficient Image Recognition", AAAI, 2024 (*Harbin Institute of Technology*). [[Paper](https://arxiv.org/abs/2402.00033)][[PyTorch](https://github.com/edgeai1/LF-ViT)]
 #### Conv + Transformer
 * **LeViT**: "LeViT: a Vision Transformer in ConvNet's Clothing for Faster Inference", ICCV, 2021 (*Facebook*). [[Paper](https://arxiv.org/abs/2104.01136)][[PyTorch](https://github.com/facebookresearch/LeViT)]
 * **CeiT**: "Incorporating Convolution Designs into Visual Transformers", ICCV, 2021 (*SenseTime*). [[Paper](https://arxiv.org/abs/2103.11816)][[PyTorch (rishikksh20)](https://github.com/rishikksh20/CeiT)]
@@ -781,6 +784,7 @@ If you find this repository useful, please consider citing this list:
 * **EWA**: "Experts Weights Averaging: A New General Training Scheme for Vision Transformers", arXiv, 2023 (*Fudan*). [[Paper](https://arxiv.org/abs/2308.06093)]
 * **SlowFormer**: "SlowFormer: Universal Adversarial Patch for Attack on Compute and Energy Efficiency of Inference Efficient Vision Transformers", arXiv, 2023 (*UC Davis*). [[Paper](https://arxiv.org/abs/2310.02544)][[PyTorch](https://github.com/UCDvision/SlowFormer)]
 * **DTM**: "Masked Image Modeling via Dynamic Token Morphing", arXiv, 2023 (*NAVER*). [[Paper](https://arxiv.org/abs/2401.00254)]
+* **?**: "Safety of Multimodal Large Language Models on Images and Text", arXiv, 2024 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2402.00357)]
 #### Model Compression + Transformer
 * **ViT-quant**: "Post-Training Quantization for Vision Transformer", NeurIPS, 2021 (*Huawei*). [[Paper](https://arxiv.org/abs/2106.14156)]
 * **VTP**: "Visual Transformer Pruning", arXiv, 2021 (*Huawei*). [[Paper](https://arxiv.org/abs/2104.08500)]
@@ -1509,6 +1513,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **TAP**: "Tokenize Anything via Prompting", arXiv, 2023 (*BAAI*). [[Paper](https://arxiv.org/abs/2312.09128)][[PyTorch](https://github.com/baaivision/tokenize-anything)]
     * **MobileSAMv2**: "MobileSAMv2: Faster Segment Anything to Everything", arXiv, 2023 (*Kyung Hee University*). [[Paper](https://arxiv.org/abs/2312.09579)][[PyTorch](https://github.com/ChaoningZhang/MobileSAM)]
     * **TinySAM**: "TinySAM: Pushing the Envelope for Efficient Segment Anything Model", arXiv, 2023 (*Huawei*). [[Paper](https://arxiv.org/abs/2312.13789)][[PyTorch](https://github.com/xinghaochen/TinySAM)]
+    * **Conv-LoRA**: "Convolution Meets LoRA: Parameter Efficient Finetuning for Segment Anything Model", ICLR, 2024 (*Amazon*). [[Paper](https://arxiv.org/abs/2401.17868)][[PyTorch](https://github.com/autogluon/autogluon)]
     * **BA-SAM**: "BA-SAM: Scalable Bias-Mode Attention Mask for Segment Anything Model", arXiv, 2024 (*Shanghai Jiao Tong*). [[Paper](https://arxiv.org/abs/2401.02317)]
     * **OV-SAM**: "Open-Vocabulary SAM: Segment and Recognize Twenty-thousand Classes Interactively", arXiv, 2024 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2401.02955)][[PyTorch](https://github.com/HarborYuan/ovsam)][[Website](https://www.mmlab-ntu.com/project/ovsam/)]
     * **SSPrompt**: "Learning to Prompt Segment Anything Models", arXiv, 2024 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2401.04651)]
