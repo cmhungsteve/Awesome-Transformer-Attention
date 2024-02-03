@@ -497,6 +497,7 @@ If you find this repository useful, please consider citing this list:
 * **PPT**: "PPT: Token Pruning and Pooling for Efficient Vision Transformers", arXiv, 2023 (*Huawei*). [[Paper](https://arxiv.org/abs/2310.01812)]
 * **MatFormer**: "MatFormer: Nested Transformer for Elastic Inference", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2310.07707)]
 * **SparseFormer**: "Bootstrapping SparseFormers from Vision Foundation Models", arXiv, 2023 (*NUS*). [[Paper](https://arxiv.org/abs/2312.01987)][[PyTorch](https://github.com/showlab/sparseformer)]
+* **GFSA**: "Graph Convolutions Enrich the Self-Attention in Transformers!", arXiv, 2023 (*Yonsi University + ASU + UPenn*). [[Paper](https://arxiv.org/abs/2312.04234)]
 * **GTP-ViT**: "GTP-ViT: Efficient Vision Transformers via Graph-based Token Propagation", WACV, 2024 (*CSIRO Data61, Australia*). [[Paper](https://arxiv.org/abs/2311.03035)][[PyTorch](https://github.com/Ackesnal/GTP-ViT)]
 * **ToFu**: "Token Fusion: Bridging the Gap between Token Pruning and Token Merging", WACV, 2024 (*Samsung*). [[Paper](https://arxiv.org/abs/2312.01026)]
 * **Cached-Transformer**: "Cached Transformers: Improving Transformers with Differentiable Memory Cache", AAAI, 2024 (*CUHK*). [[Paper](https://arxiv.org/abs/2312.12742)]
