@@ -1047,6 +1047,7 @@ If you find this repository useful, please consider citing this list:
 * **GIVT**: "GIVT: Generative Infinite-Vocabulary Transformers", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2312.02116)]
 * **DiffiT**: "DiffiT: Diffusion Vision Transformers for Image Generation", arXiv, 2023 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2312.02139)][[Code (in construction)](https://github.com/NVlabs/DiffiT)]
 * **RCG**: "Self-conditioned Image Generation via Generating Representations", arXiv, 2023 (*MIT*). [[Paper](https://arxiv.org/abs/2312.03701)][[PyTorch](https://github.com/LTH14/rcg)]
+* **MVDiffusion**: "Enabling Holistic Multi-view Image Generation with Correspondence-Aware Diffusion", NeurIPS 2023 spotlight (SFU, Bytedance), [[Paper](https://arxiv.org/abs/2307.01097)][[Website](https://mvdiffusion.github.io/)][[PyTorch](https://github.com/Tangshitao/MVDiffusion)]
 * **HDiT**: "Scalable High-Resolution Pixel-Space Image Synthesis with Hourglass Diffusion Transformers", arXiv, 2024 (*Stability AI*). [[Paper](https://arxiv.org/abs/2401.11605)][[Website](https://crowsonkb.github.io/hourglass-diffusion-transformers/)]
 
 [[Back to Overview](#overview)]
