@@ -255,6 +255,7 @@ If you find this repository useful, please consider citing this list:
     * **OAM-VQA**: "Object Attribute Matters in Visual Question Answering", AAAI, 2024 (*Jilin University*). [[Paper](https://arxiv.org/abs/2401.09442)]
     * **?**: "Advancing Large Multi-modal Models with Explicit Chain-of-Reasoning and Visual Question Generation", arXiv, 2024 (*University of Tokyo*). [[Paper](https://arxiv.org/abs/2401.10005)]
     * **MultipanelVQA**: "Muffin or Chihuahua? Challenging Large Vision-Language Models with Multipanel VQA", arXiv, 2024 (*eBay*). [[Paper](https://arxiv.org/abs/2401.15847)][[Website](https://sites.google.com/view/multipanelvqa/home)]
+    * **Proximity-QA**: "Proximity QA: Unleashing the Power of Multi-Modal Large Language Models for Spatial Proximity Analysis", arXiv, 2024 (*Peking*). [[Paper](https://arxiv.org/abs/2401.17862)][[Code (in construction)](https://github.com/NorthSummer/ProximityQA)]
 * Video:
     * **?**: "Mounting Video Metadata on Transformer-based Language Model for Open-ended Video Question Answering", arXiv, 2021 (*Seoul National University*). [[Paper](https://arxiv.org/abs/2108.05158)]
     * **TPT**: "Temporal Pyramid Transformer with Multimodal Interaction for Video Question Answering", arXiv, 2021 (*CAS*). [[Paper](https://arxiv.org/abs/2109.04735)]
@@ -289,6 +290,7 @@ If you find this repository useful, please consider citing this list:
     * **Vista-LLaMA**: "Vista-LLaMA: Reliable Video Narrator via Equal Distance to Visual Tokens", arXiv, 2023 (*Zhejiang*). [[Paper](https://arxiv.org/abs/2312.08870)][[Website](https://jinxxian.github.io/Vista-LLaMA/)]
     * **LLoVi**: "An Improved Baseline for Reasoning Segmentation with Large Language Model", arXiv, 2023 (*UNC*). [[Paper](https://arxiv.org/abs/2312.17240)][[Code (in construction)](https://github.com/CeeZh/LLoVi)]
     * **STAIR**: "STAIR: Spatial-Temporal Reasoning with Auditable Intermediate Results for Video Question Answering", AAAI, 2024 (*Peking*). [[Paper](https://arxiv.org/abs/2401.03901)]
+    * **YTCommentQA**: "YTCommentQA: Video Question Answerability in Instructional Videos", AAAI, 2024 (*LG*). [[Paper](https://arxiv.org/abs/2401.17343)][[Code (in construction)](https://github.com/lgresearch/YTCommentQA)]
     * **Sports-QA**: "Sports-QA: A Large-Scale Video Question Answering Benchmark for Complex and Professional Sports", arXiv, 2024 (*University of Melbourne*). [[Paper](https://arxiv.org/abs/2401.01505)]
     * **DoraemonGPT**: "DoraemonGPT: Toward Understanding Dynamic Scenes with Large Language Models", arXiv, 2024 (*Zhejiang*). [[Paper](https://arxiv.org/abs/2401.08392)][[Code (in construction)](https://github.com/z-x-yang/DoraemonGPT)]
 * 3D:
@@ -630,6 +632,7 @@ If you find this repository useful, please consider citing this list:
     * **MM-Interleaved**: "MM-Interleaved: Interleaved Image-Text Generative Modeling via Multi-modal Feature Synchronizer", arXiv, 2024 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2401.10208)][[PyTorch](https://github.com/OpenGVLab/MM-Interleaved)]
     * **SPARC**: "Improving fine-grained understanding in image-text pre-training", arXiv, 2024 (*DeepMind*). [[Paper](https://arxiv.org/abs/2401.09865)]
     * **MouSi**: "MouSi: Poly-Visual-Expert Vision-Language Models", arXiv, 2024 (*Fudan*). [[Paper](https://arxiv.org/abs/2401.17221)][[Code (in construction)](https://github.com/FudanNLPLAB/MouSi)]
+    * **?**: "Enhancing Multimodal Large Language Models with Vision Detection Models: An Empirical Study", arXiv, 2024 (*Alibaba*). [[Paper](https://arxiv.org/abs/2401.17981)]
 * Video:
     * **COOT**: "COOT: Cooperative Hierarchical Transformer for Video-Text Representation Learning", NeurIPS, 2020 (*University of Freiburg*). [[Paper](https://arxiv.org/abs/2011.00597)][[PyTorch](https://github.com/gingsi/coot-videotext)]
     * **Parameter-Reduction**: "Parameter Efficient Multimodal Transformers for Video Representation Learning", ICLR, 2021 (*Seoul National University*). [[Paper](https://openreview.net/forum?id=6UdQLhqJyFD)]
