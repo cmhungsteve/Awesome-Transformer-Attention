@@ -1441,6 +1441,7 @@ If you find this repository useful, please consider citing this list:
     * **PartSTAD**: "PartSTAD: 2D-to-3D Part Segmentation Task Adaptation", arXiv, 2024 (*KAIST*). [[Paper](https://arxiv.org/abs/2401.05906)]
     * **MaskClustering**: "MaskClustering: View Consensus based Mask Graph Clustering for Open-Vocabulary 3D Instance Segmentation", arXiv, 2024 (*Peking*). [[Paper](https://arxiv.org/abs/2401.07745)][[Website](https://pku-epic.github.io/MaskClustering/)]
     * **GARField**: "GARField: Group Anything with Radiance Fields", arXiv, 2024 (*Berkeley*). [[Paper](https://arxiv.org/abs/2401.09419)][[PyTorch](https://github.com/chungmin99/garfield)][[Website](https://www.garfield.studio/)]
+    * **SA-GS**: "Segment Anything in 3D Gaussians", arXiv, 2024 (*The Hong Kong Polytechnic University*). [[Paper](https://arxiv.org/abs/2401.17857)]
 * Speech Recognition:
     * **AV-HuBERT**: "Robust Self-Supervised Audio-Visual Speech Recognition", arXiv, 2022 (*Meta*). [[Paper](https://arxiv.org/abs/2201.01763)][[PyTorch](https://github.com/facebookresearch/av_hubert)]
     * **?**: "Transformer-Based Video Front-Ends for Audio-Visual Speech Recognition", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2201.10439)]
