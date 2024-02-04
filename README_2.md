@@ -1903,6 +1903,8 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **WT-MVSNet**: "WT-MVSNet: Window-based Transformers for Multi-view Stereo", NeurIPS, 2022 (*Tsinghua University*). [[Paper](https://arxiv.org/abs/2205.14319)]
     * **MVSFormer**: "MVSFormer: Learning Robust Image Representations via Transformers and Temperature-based Depth for Multi-View Stereo", arXiv, 2022 (*Fudan University*). [[Paper](https://arxiv.org/abs/2208.02541)]
     * **MVSFormer++**: "MVSFormer++: Revealing the Devil in Transformer's Details for Multi-View Stereo", ICLR, 2024 (*Fudan*). [[Paper](https://arxiv.org/abs/2401.11673)][[Code (in construction)](https://github.com/maybeLx/MVSFormerPlusPlus)]
+* Tactile:
+    * **UniTouch**: "Binding Touch to Everything: Learning Unified Multimodal Tactile Representations", arXiv, 2024 (*Yale*). [[Paper](https://arxiv.org/abs/2401.18084)][[Code (in construction)](https://github.com/cfeng16/UniTouch)][[Website](https://cfeng16.github.io/UniTouch/)]
 * Time Series:
     * **MissFormer**: "MissFormer: (In-)attention-based handling of missing observations for trajectory filtering and prediction", arXiv, 2021 (*Fraunhofer IOSB, Germany*). [[Paper](https://arxiv.org/abs/2106.16009)]
 * Traffic:
@@ -1950,7 +1952,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **DiffPrompter**: "DiffPrompter: Differentiable Implicit Visual Prompts for Semantic-Segmentation in Adverse Conditions", arXiv, 2023 (*IIIT Hyderabad*). [[Paper](https://arxiv.org/abs/2310.04181)][[PyTorch](https://github.com/DiffPrompter/diff-prompter)][[Website](https://diffprompter.github.io/)]
     * **OccWorld**: "OccWorld: Learning a 3D Occupancy World Model for Autonomous Driving", arXiv, 2023 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2311.16038)][[PyTorch](https://github.com/wzzheng/OccWorld)][[Website](https://wzzheng.net/OccWorld/)]
     * **VehicleMAE**: "Structural Information Guided Multimodal Pre-training for Vehicle-centric Perception", AAAI, 2024 (*Anhui University*). [[Paper](https://arxiv.org/abs/2312.09812)]
-* LLM-based Traffic:
+* Traffic (LLM-based):
     * **AVIS**: "AVIS: Autonomous Visual Information Seeking with Large Language Models", NeurIPS, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2306.08129)]
     * **DriveGPT4**: "DriveGPT4: Interpretable End-to-end Autonomous Driving via Large Language Model", arXiv, 2023 (*HKU*). [[Paper](https://arxiv.org/abs/2310.01412)][[Website](https://tonyxuqaq.github.io/projects/DriveGPT4/)]
     * **?**: "Driving with LLMs: Fusing Object-Level Vector Modality for Explainable Autonomous Driving", arXiv, 2023 (*Wayve*). [[Paper](https://arxiv.org/abs/2310.01957)][[PyTorch](https://github.com/wayveai/Driving-with-LLMs)]
