@@ -1850,6 +1850,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **RS5M**: "RS5M: A Large Scale Vision-Language Dataset for Remote Sensing Vision-Language Foundation Model", arXiv, 2023 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2306.11300)][[Code (in construction)](https://github.com/om-ai-lab/RS5M)]
     * **RSGPT**: "RSGPT: A Remote Sensing Vision Language Model and Benchmark", arXiv, 2023 (*Alibaba*). [[Paper](https://arxiv.org/abs/2307.15266)][[Code (in construction)](https://github.com/Lavender105/RSGPT)]
     * **EarthGPT**: "EarthGPT: A Universal Multi-modal Large Language Model for Multi-sensor Image Comprehension in Remote Sensing Domain", arXiv, 2024 (*Beijing Institute of Technology*). [[Paper](https://arxiv.org/abs/2401.16822)]
+    * **AnyChange**: "Segment Any Change", arXiv, 2024 (*Stanford*). [[Paper](https://arxiv.org/abs/2402.01188)]
 * Robotics:
     * **TF-Grasp**: "When Transformer Meets Robotic Grasping: Exploits Context for Efficient Grasp Detection", arXiv, 2022 (*University of Science and Technology of China*). [[Paper](https://arxiv.org/abs/2202.11911)][[Code (in construction)](https://github.com/WangShaoSUN/grasp-transformer)]
     * **BeT**: "Behavior Transformers: Cloning k modes with one stone", arXiv, 2022 (*NYU*). [[Paper](https://arxiv.org/abs/2206.11251)][[PyTorch](https://github.com/notmahi/bet)]
