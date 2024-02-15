@@ -1809,6 +1809,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **?**: "Distilling Large Vision-Language Model with Out-of-Distribution Generalizability", ICCV, 2023 (*UCSD*). [[Paper](https://arxiv.org/abs/2307.03135)][[PyTorch](https://github.com/xuanlinli17/large_vlm_distillation_ood)]
     * **DREAM-OOD**: "Dream the Impossible: Outlier Imagination with Diffusion Models", NeurIPS, 2023 (*UW Madison*). [[Paper](https://arxiv.org/abs/2309.13415)]
     * **LoCoOp**: "LoCoOp: Few-Shot Out-of-Distribution Detection via Prompt Learning", NeurIPS, 2023 (*The University of Tokyo*). [[Paper](https://arxiv.org/abs/2306.01293)][[PyTorch](https://github.com/AtsuMiyai/LoCoOp)]
+    * **?**: "A Closer Look at the Robustness of Contrastive Language-Image Pre-Training (CLIP)", NeurIPS, 2023 (*ANU*). [[Paper](https://arxiv.org/abs/2402.07410)]
     * **GL-MCM**: "Zero-Shot In-Distribution Detection in Multi-Object Settings Using Vision-Language Foundation Models", arXiv, 2023 (*The University of Tokyo*). [[Paper](https://arxiv.org/abs/2304.04521)]
     * **CLIP-OOD**: "Does CLIP's Generalization Performance Mainly Stem from High Train-Test Similarity?", arXiv, 2023 (*University of Tübingen*). [[Paper](https://arxiv.org/abs/2310.09562)]
     * **MOODv2**: "MOODv2: Masked Image Modeling for Out-of-Distribution Detection", arXiv, 2024 (*CUHK*). [[Paper](https://arxiv.org/abs/2401.02611)]
