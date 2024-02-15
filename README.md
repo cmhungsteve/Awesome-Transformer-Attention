@@ -1390,6 +1390,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * Diffusion:
     * **DiffusionEngine**: "DiffusionEngine: Diffusion Model is Scalable Data Engine for Object Detection", arXiv, 2023 (*ByteDance*). [[Paper](https://arxiv.org/abs/2309.03893)][[PyTorch](https://github.com/bytedance/DiffusionEngine)][[Website](https://mettyz.github.io/DiffusionEngine/)]
     * **TADP**: "Text-image Alignment for Diffusion-based Perception", arXiv, 2023 (*CalTech*). [[Paper](https://arxiv.org/abs/2310.00031)][[Website](https://www.vision.caltech.edu/tadp/)]
+    * **InstaGen**: "InstaGen: Enhancing Object Detection by Training on Synthetic Dataset", arXiv, 2024 (*Meituan*). [[Paper](https://arxiv.org/abs/2402.05937)][[Code (in construction)](https://github.com/fcjian/InstaGen)][[Website](https://fcjian.github.io/InstaGen/)]
 
 [[Back to Overview](#overview)]
 
@@ -2074,6 +2075,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **Cutie**: "Putting the Object Back into Video Object Segmentation", arXiv, 2023 (*UIUC*). [[Paper](https://arxiv.org/abs/2310.12982)][[PyTorch](https://github.com/hkchengrex/Cutie)][[Website](https://hkchengrex.com/Cutie/)]
 * **M<sup>3</sup>T**: "M<sup>3</sup>T: Multi-Scale Memory Matching for Video Object Segmentation and Tracking", arXiv, 2023 (*UBC*). [[Paper](https://arxiv.org/abs/2312.08514)]
 * **?**: "Appearance-based Refinement for Object-Centric Motion Segmentation", arXiv, 2023 (*Oxford*). [[Paper](https://arxiv.org/abs/2312.11463)]
+* **Point-VOS**: "Point-VOS: Pointing Up Video Object Segmentation", arXiv, 2024 (*RWTH Aachen University, Germany*). [[Paper](https://arxiv.org/abs/2402.05917)][[Website](https://pointvos.github.io/)]
 
 [[Back to Overview](#overview)]
 
@@ -2317,6 +2319,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **EgoSchema**: "EgoSchema: A Diagnostic Benchmark for Very Long-form Video Language Understanding", NeurIPS, 2023 (*Berkeley*). [[Paper](https://arxiv.org/abs/2308.09126)][[PyTorch](https://github.com/egoschema/EgoSchema)][[Website](https://egoschema.github.io/)]
     * **KTS**: "Revisiting Kernel Temporal Segmentation as an Adaptive Tokenizer for Long-form Video Understanding", arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2309.11569)]
     * **TCR**: "Text-Conditioned Resampler For Long Form Video Understanding", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2312.11897)]
+    * **MC-ViT**: "Memory Consolidation Enables Long-Context Video Understanding", arXiv, 2024 (*DeepMind*). [[Paper](https://arxiv.org/abs/2402.05861)]
 * Video Story:
     * **YouTube-News-Timeline**: "Video Timeline Modeling For News Story Understanding", NeurIPS (Datasets and Benchmarks), 2023 (*Google*). [[Paper](https://arxiv.org/abs/2309.13446)][[GotHub](https://github.com/google-research/google-research/tree/master/video_timeline_modeling)]
 * Analysis:
