@@ -366,6 +366,7 @@ If you find this repository useful, please consider citing this list:
     * **CyCo**: "Cycle-Consistency Learning for Captioning and Grounding", AAAI, 2024 (*Huawei*). [[Paper](https://arxiv.org/abs/2312.15162)]
     * **ChatterBox**: "ChatterBox: Multi-round Multimodal Referring and Grounding", arXiv, 2024 (*CAS*). [[Paper](https://arxiv.org/abs/2401.13307)][[PyTorch](https://github.com/sunsmarterjie/ChatterBox)]
     * **PIN**: "PIN: Positional Insert Unlocks Object Localisation Abilities in VLMs", arXiv, 2024 (*UvA*). [[Paper](https://arxiv.org/abs/2402.08657)][[Code (in construction)](https://github.com/QUVA-Lab/PIN/)][[Website](https://quva-lab.github.io/PIN/)]
+    * **ViGoR**: "ViGoR: Improving Visual Grounding of Large Vision Language Models with Fine-Grained Reward Modeling", arXiv, 2024 (*Amazon*). [[Paper](https://arxiv.org/abs/2402.06118)]
 * Video:
     * **Multi-Stage-Transformer**: "Multi-Stage Aggregated Transformer Network for Temporal Language Localization in Videos", CVPR, 2021 (*University of Electronic Science and Technology of China*). [[Paper](https://openaccess.thecvf.com/content/CVPR2021/html/Zhang_Multi-Stage_Aggregated_Transformer_Network_for_Temporal_Language_Localization_in_Videos_CVPR_2021_paper.html)]
     * **GTR**: "On Pursuit of Designing Multi-modal Transformer for Video Grounding", EMNLP, 2021 (*Peking*). [[Paper](https://arxiv.org/abs/2109.06085)]
