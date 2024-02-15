@@ -636,6 +636,7 @@ If you find this repository useful, please consider citing this list:
     * **SPARC**: "Improving fine-grained understanding in image-text pre-training", arXiv, 2024 (*DeepMind*). [[Paper](https://arxiv.org/abs/2401.09865)]
     * **MouSi**: "MouSi: Poly-Visual-Expert Vision-Language Models", arXiv, 2024 (*Fudan*). [[Paper](https://arxiv.org/abs/2401.17221)][[Code (in construction)](https://github.com/FudanNLPLAB/MouSi)]
     * **?**: "Enhancing Multimodal Large Language Models with Vision Detection Models: An Empirical Study", arXiv, 2024 (*Alibaba*). [[Paper](https://arxiv.org/abs/2401.17981)]
+    * **QA-ViT**: "Question Aware Vision Transformer for Multimodal Reasoning", arXiv, 2024 (*Amazon*). [[Paper](https://arxiv.org/abs/2402.05472)]
 * Video:
     * **COOT**: "COOT: Cooperative Hierarchical Transformer for Video-Text Representation Learning", NeurIPS, 2020 (*University of Freiburg*). [[Paper](https://arxiv.org/abs/2011.00597)][[PyTorch](https://github.com/gingsi/coot-videotext)]
     * **Parameter-Reduction**: "Parameter Efficient Multimodal Transformers for Video Representation Learning", ICLR, 2021 (*Seoul National University*). [[Paper](https://openreview.net/forum?id=6UdQLhqJyFD)]
@@ -957,6 +958,7 @@ If you find this repository useful, please consider citing this list:
     * **Instruct-Imagen**: "Instruct-Imagen: Image Generation with Multi-modal Instruction", arXiv, 2024 (*Google*). [[Paper](https://arxiv.org/abs/2401.01952)]
     * **DiffusionGPT**: "DiffusionGPT: LLM-Driven Text-to-Image Generation System", arXiv, 2024 (*ByteDance*). [[Paper](https://arxiv.org/abs/2401.10061)][[PyTorch](https://github.com/DiffusionGPT/DiffusionGPT)][[Website](https://diffusiongpt.github.io/)]
     * **SiT**: "SiT: Exploring Flow and Diffusion-based Generative Models with Scalable Interpolant Transformers", arXiv, 2024 (*NYU*). [[Paper](https://arxiv.org/abs/2401.08740)][[PyTorch](https://github.com/willisma/SiT)][[Website](https://scalable-interpolant.github.io/)]
+    * **λ-ECLIPSE**: "λ-ECLIPSE: Multi-Concept Personalized Text-to-Image Diffusion Models by Leveraging CLIP Latent Space", arXiv, 2024 (*Arizona State University*). [[Paper](https://arxiv.org/abs/2402.05195)][[PyTorch](https://github.com/eclipse-t2i/lambda-eclipse-inference)][[Website](https://eclipse-t2i.github.io/Lambda-ECLIPSE/)]
 * Video:
     * **Imagen-Video**: "Imagen Video: High Definition Video Generation with Diffusion Models", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2210.02303)][[Website](https://imagen.research.google/video/)]
     * **Phenaki**: "Phenaki: Variable Length Video Generation From Open Domain Textual Description", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2210.02399)][[PyTorch (LAION-AI, in construction)](https://github.com/LAION-AI/phenaki)][[Website](https://phenaki.video/)]
@@ -1607,6 +1609,7 @@ If you find this repository useful, please consider citing this list:
     * **InternLM-XComposer2**: "InternLM-XComposer2: Mastering Free-form Text-Image Composition and Comprehension in Vision-Language Large Model", arXiv, 2024 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2401.16420)][[PyTorch](https://github.com/InternLM/InternLM-XComposer)]
     * **MARINE**: "Mitigating Object Hallucination in Large Vision-Language Models via Classifier-Free Guidance", arXiv, 2024 (*UCLA*). [[Paper](https://arxiv.org/abs/2402.08680)]
     * **Prismatic-VLM**: "Prismatic VLMs: Investigating the Design Space of Visually-Conditioned Language Models", arXiv, 2024 (*Toyota*). [[Paper](https://arxiv.org/abs/2402.07865)][[PyTorch](https://github.com/TRI-ML/prismatic-vlms)]
+    * **SPHINX-X**: "SPHINX-X: Scaling Data and Parameters for a Family of Multi-modal Large Language Models", arXiv, 2024 (*shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2402.05935)][[PyTorch](https://github.com/Alpha-VLLM/LLaMA2-Accessory)]
 * Conversation (Video):
     * **Video-ChatCaptioner**: "Video ChatCaptioner: Towards the Enriched Spatiotemporal Descriptions", arXiv, 2023 (*KAUST*). [[Paper](https://arxiv.org/abs/2304.04227)][[PyTorch](https://github.com/Vision-CAIR/ChatCaptioner)]
     * **ChatVideo**: "ChatVideo: A Tracklet-centric Multimodal and Versatile Video Understanding System", arXiv, 2023 (*Fudan*). [[Paper](https://arxiv.org/abs/2304.14407)][[Website](https://www.wangjunke.info/ChatVideo/)]
@@ -1633,6 +1636,7 @@ If you find this repository useful, please consider citing this list:
 * Conversation (Multi):
     * **AnyMAL**: "AnyMAL: An Efficient and Scalable Any-Modality Augmented Language Model", arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2309.16058)]
     * **OneLLM**: "OneLLM: One Framework to Align All Modalities with Language", arXiv, 2023 (*CUHK + Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2312.03700)][[PyTorch](https://github.com/csuhan/OneLLM)]
+    * **CREMA**: "CREMA: Multimodal Compositional Video Reasoning via Efficient Modular Adaptation and Fusion", arXiv, 2024 (*UNC*). [[Paper](https://arxiv.org/abs/2402.05889)][[PyTorch](https://github.com/Yui010206/CREMA)][[Website](https://crema-videollm.github.io/)]
 * Visual Reasoning:
     * **BDC-Adapter**: "BDC-Adapter: Brownian Distance Covariance for Better Vision-Language Reasoning", BMVC, 2023 (*SUSTech*). [[Paper](https://arxiv.org/abs/2309.01256)]
     * **LSKD**: "Localized Symbolic Knowledge Distillation for Visual Commonsense Models", NeurIPS, 2023 (*UW*). [[Paper](https://arxiv.org/abs/2312.04837)][[Code (in construction)](https://github.com/jamespark3922/lskd)]
