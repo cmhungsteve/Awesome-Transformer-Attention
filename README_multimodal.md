@@ -1193,6 +1193,7 @@ If you find this repository useful, please consider citing this list:
     * **LLaVA-MoLE**: "LLaVA-MoLE: Sparse Mixture of LoRA Experts for Mitigating Data Conflicts in Instruction Finetuning MLLMs", arXiv, 2024 (*Meituan*). [[Paper](https://arxiv.org/abs/2401.16160)]
     * **?**: "Routers in Vision Mixture of Experts: An Empirical Study", arXiv, 2024 (*DeepMind*). [[Paper](https://arxiv.org/abs/2401.15969)]
     * **MoE-LLaVA**: "MoE-LLaVA: Mixture of Experts for Large Vision-Language Models", arXiv, 2024 (*Peking*). [[Paper](https://arxiv.org/abs/2401.15947)][[PyTorch](https://github.com/PKU-YuanGroup/MoE-LLaVA)]
+    * **DoRA**: "DoRA: Weight-Decomposed Low-Rank Adaptation", arXiv, 2024 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2402.09353)]
 * Zero-Shot:
     * **SMs**: "Socratic Models: Composing Zero-Shot Multimodal Reasoning with Language", ICLR, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2204.00598)][[GitHub](https://github.com/google-research/google-research/tree/master/socraticmodels)][[Website](https://socraticmodels.github.io/)]
     * **iCLIP**: "iCLIP: Bridging Image Classification and Contrastive Language-Image Pre-Training for Visual Recognition", CVPR, 2023 (*Microsoft*). [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Wei_iCLIP_Bridging_Image_Classification_and_Contrastive_Language-Image_Pre-Training_for_Visual_CVPR_2023_paper.html)]
