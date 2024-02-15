@@ -1531,6 +1531,7 @@ If you find this repository useful, please consider citing this list:
 * **CONCH**: "Towards a Visual-Language Foundation Model for Computational Pathology", arXiv, 2023 (*Harvard*). [[Paper](https://arxiv.org/abs/2307.12914)]
 * **Med-Flamingo**: "Med-Flamingo: a Multimodal Medical Few-shot Learner", arXiv, 2023 (*Stanford*). [[Paper](https://arxiv.org/abs/2307.15189)][[PyTorch](https://github.com/snap-stanford/med-flamingo)]
 * **?**: "Can GPT-4V(ision) Serve Medical Applications? Case Studies on GPT-4V for Multimodal Medical Diagnosis", arXiv, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2310.09909)][[GitHub](https://github.com/chaoyi-wu/GPT-4V_Medical_Evaluation)]
+* **CLIP-MUSED**: "CLIP-MUSED: CLIP-Guided Multi-Subject Visual Neural Information Semantic Decoding", ICLR, 2024 (*CAS*). [[Paper](https://arxiv.org/abs/2402.08994)][[PyTorch](https://github.com/CLIP-MUSED/CLIP-MUSED)]
 * **RAD-DINO**: "RAD-DINO: Exploring Scalable Medical Image Encoders Beyond Text Supervision", arXiv, 2024 (*Microsoft*). [[Paper](https://arxiv.org/abs/2401.10815)]
 
 [[Back to Overview](#overview)]
