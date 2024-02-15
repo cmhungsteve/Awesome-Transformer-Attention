@@ -253,6 +253,7 @@ If you find this repository useful, please consider citing this list:
     * **SAB**: "Sentence Attention Blocks for Answer Grounding", arXiv, 2023 (*University of Delaware, Delaware*). [[Paper](https://arxiv.org/abs/2309.11593)]
     * **DIS**: "Detection-based Intermediate Supervision for Visual Question Answering", AAAI, 2024 (*Huazhong University of Science and Technology (HUST)*). [[Paper](https://arxiv.org/abs/2312.16012)]
     * **OAM-VQA**: "Object Attribute Matters in Visual Question Answering", AAAI, 2024 (*Jilin University*). [[Paper](https://arxiv.org/abs/2401.09442)]
+    * **oVQA**: "Open-ended VQA benchmarking of Vision-Language models by exploiting Classification datasets and their semantic hierarchy", ICLR, 2024 (*University of Freiburg, Germany*). [[Paper](https://arxiv.org/abs/2402.07270)][[PyTorch](https://github.com/lmb-freiburg/ovqa)]
     * **?**: "Advancing Large Multi-modal Models with Explicit Chain-of-Reasoning and Visual Question Generation", arXiv, 2024 (*University of Tokyo*). [[Paper](https://arxiv.org/abs/2401.10005)]
     * **MultipanelVQA**: "Muffin or Chihuahua? Challenging Large Vision-Language Models with Multipanel VQA", arXiv, 2024 (*eBay*). [[Paper](https://arxiv.org/abs/2401.15847)][[Website](https://sites.google.com/view/multipanelvqa/home)]
     * **Proximity-QA**: "Proximity QA: Unleashing the Power of Multi-Modal Large Language Models for Spatial Proximity Analysis", arXiv, 2024 (*Peking*). [[Paper](https://arxiv.org/abs/2401.17862)][[Code (in construction)](https://github.com/NorthSummer/ProximityQA)]
@@ -364,6 +365,7 @@ If you find this repository useful, please consider citing this list:
     * **?**: "Augment the Pairs: Semantics-Preserving Image-Caption Pair Augmentation for Grounding-Based Vision and Language Models", WACV, 2024 (*Amazon*). [[Paper](https://arxiv.org/abs/2311.02536)][[PyTorch](https://github.com/amzn/augment-the-pairs-wacv2024)]
     * **CyCo**: "Cycle-Consistency Learning for Captioning and Grounding", AAAI, 2024 (*Huawei*). [[Paper](https://arxiv.org/abs/2312.15162)]
     * **ChatterBox**: "ChatterBox: Multi-round Multimodal Referring and Grounding", arXiv, 2024 (*CAS*). [[Paper](https://arxiv.org/abs/2401.13307)][[PyTorch](https://github.com/sunsmarterjie/ChatterBox)]
+    * **PIN**: "PIN: Positional Insert Unlocks Object Localisation Abilities in VLMs", arXiv, 2024 (*UvA*). [[Paper](https://arxiv.org/abs/2402.08657)][[Code (in construction)](https://github.com/QUVA-Lab/PIN/)][[Website](https://quva-lab.github.io/PIN/)]
 * Video:
     * **Multi-Stage-Transformer**: "Multi-Stage Aggregated Transformer Network for Temporal Language Localization in Videos", CVPR, 2021 (*University of Electronic Science and Technology of China*). [[Paper](https://openaccess.thecvf.com/content/CVPR2021/html/Zhang_Multi-Stage_Aggregated_Transformer_Network_for_Temporal_Language_Localization_in_Videos_CVPR_2021_paper.html)]
     * **GTR**: "On Pursuit of Designing Multi-modal Transformer for Video Grounding", EMNLP, 2021 (*Peking*). [[Paper](https://arxiv.org/abs/2109.06085)]
@@ -701,6 +703,7 @@ If you find this repository useful, please consider citing this list:
     * **READ-PVLA**: "READ-PVLA: Recurrent Adapter with Partial Video-Language Alignment for Parameter-Efficient Transfer Learning in Low-Resource Video-Language Modeling", AAAI, 2024 (*NUS*). [[Paper](https://arxiv.org/abs/2312.06950)]
     * **VIIT**: "Distilling Vision-Language Models on Millions of Videos", arXiv, 2024 (*Google*). [[Paper](https://arxiv.org/abs/2401.06129)][[Website](https://zhaoyue-zephyrus.github.io/video-instruction-tuning/)]
     * **FiGCLIP**: "FiGCLIP: Fine-Grained CLIP Adaptation via Densely Annotated Videos", arXiv, 2024 (*IIIT Hyderabad*). [[Paper](https://arxiv.org/abs/2401.07669)][[Code (in construction)](https://github.com/Darshansingh11/FiGCLIP)]
+    * **LWM**: "World Model on Million-Length Video And Language With RingAttention", arXiv, 2024 (*Berkeley*). [[Paper](https://arxiv.org/abs/2402.08268)][[JAX](https://github.com/LargeWorldModel/LWM)][[Website](https://largeworldmodel.github.io/)]
 * 3D:
     * **CLIP<sup>2</sup>**: "CLIP<sup>2</sup>: Contrastive Language-Image-Point Pretraining from Real-World Point Cloud Data", CVPR, 2023 (*Huawei*). [[Paper](https://arxiv.org/abs/2303.12417)]
     * **3D-VLP**: "Context-aware Alignment and Mutual Masking for 3D-Language Pre-training", CVPR, 2023 (*Sichuan University*). [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Jin_Context-Aware_Alignment_and_Mutual_Masking_for_3D-Language_Pre-Training_CVPR_2023_paper.html)][[PyTorch](https://github.com/leolyj/3D-VLP)]
@@ -1312,6 +1315,7 @@ If you find this repository useful, please consider citing this list:
     * **?**: "Interpreting CLIP's Image Representation via Text-Based Decomposition", arXiv, 2023 (*Berkeley*). [[Paper](https://arxiv.org/abs/2310.05916)][[PyTorch](https://github.com/yossigandelsman/clip_prs)][[Website](https://yossigandelsman.github.io/clip_decomposition/)]
     * **vit-interpret**: "Interpreting and Controlling Vision Foundation Models via Text Explanations", arXiv, 2023 (*Columbia*). [[Paper](https://arxiv.org/abs/2310.10591)][[PyTorch](https://github.com/tonychenxyz/vit-interpret)]
     * **MMVP**: "Eyes Wide Shut? Exploring the Visual Shortcomings of Multimodal LLMs", arXiv, 2024 (*NYU*). [[Paper](https://arxiv.org/abs/2401.06209)][[PyTorch](https://github.com/tsb0601/MMVP)][[Website](https://tsb0601.github.io/mmvp_blog/)]
+    * **?**: "Exploring Perceptual Limitation of Multimodal Large Language Models", arXiv, 2024 (*USC*). [[Paper](https://arxiv.org/abs/2402.07384)][[PyTorch](https://github.com/saccharomycetes/mllm-perceptual-limitation)]
 * Speaker Localization:
     * **?**: "The Right to Talk: An Audio-Visual Transformer Approach", ICCV, 2021 (*University of Arkansas*). [[Paper](https://arxiv.org/abs/2108.03256)]
 * Multi-task:
@@ -1388,6 +1392,7 @@ If you find this repository useful, please consider citing this list:
     * **AffordanceLLM**: "AffordanceLLM: Grounding Affordance from Vision Language Models", arXiv, 2024 (*Amazon*). [[Paper](https://arxiv.org/abs/2401.06341)][[Website](https://jasonqsy.github.io/AffordanceLLM/)]
     * **MultiPLY**: "MultiPLY: A Multisensory Object-Centric Embodied Large Language Model in 3D World", arXiv, 2024 (*UMass*). [[Paper](https://arxiv.org/abs/2401.08577)][[Code (in construction)](https://github.com/UMass-Foundation-Model/MultiPLY)][[Website](https://vis-www.cs.umass.edu/multiply/)]
     * **seeing-unseen**: "Seeing the Unseen: Visual Common Sense for Semantic Placement", arXiv, 2024 (*AI2*). [[Paper](https://arxiv.org/abs/2401.07770)][[Website](https://ram81.github.io/projects/seeing-unseen.html)]
+    * **PIVOT**: "PIVOT: Iterative Visual Prompting Elicits Actionable Knowledge for VLMs", arXiv, 2024 (*DeepMind*). [[Paper](https://arxiv.org/abs/2402.07872)][[Website](https://pivot-prompt.github.io/)]
 * Multi-modal Fusion:
     * **MICA**: "Attention Is Not Enough: Mitigating the Distribution Discrepancy in Asynchronous Multimodal Sequence Fusion", ICCV, 2021 (*Southwest Jiaotong University*). [[Paper](https://openaccess.thecvf.com/content/ICCV2021/html/Liang_Attention_Is_Not_Enough_Mitigating_the_Distribution_Discrepancy_in_Asynchronous_ICCV_2021_paper.html)]
     * **IFT**: "Image Fusion Transformer", arXiv, 2021 (*Johns Hopkins*). [[Paper](https://arxiv.org/abs/2107.09011)][[PyTorch](https://github.com/Vibashan/Image-Fusion-Transformer)]
@@ -1599,6 +1604,8 @@ If you find this repository useful, please consider citing this list:
     * **LLaVA-ϕ**: "LLaVA-ϕ: Efficient Multi-Modal Assistant with Small Language Model", arXiv, 2024 (*Midea Group, China*). [[Paper](https://arxiv.org/abs/2401.02330)][[Code (in construction)](https://github.com/zhuyiche/llava-phi)]
     * **CaMML**: "CaMML: Context-Aware Multimodal Learner for Large Models", arXiv, 2024 (*Amazon*). [[Paper](https://arxiv.org/abs/2401.03149)]
     * **InternLM-XComposer2**: "InternLM-XComposer2: Mastering Free-form Text-Image Composition and Comprehension in Vision-Language Large Model", arXiv, 2024 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2401.16420)][[PyTorch](https://github.com/InternLM/InternLM-XComposer)]
+    * **MARINE**: "Mitigating Object Hallucination in Large Vision-Language Models via Classifier-Free Guidance", arXiv, 2024 (*UCLA*). [[Paper](https://arxiv.org/abs/2402.08680)]
+    * **Prismatic-VLM**: "Prismatic VLMs: Investigating the Design Space of Visually-Conditioned Language Models", arXiv, 2024 (*Toyota*). [[Paper](https://arxiv.org/abs/2402.07865)][[PyTorch](https://github.com/TRI-ML/prismatic-vlms)]
 * Conversation (Video):
     * **Video-ChatCaptioner**: "Video ChatCaptioner: Towards the Enriched Spatiotemporal Descriptions", arXiv, 2023 (*KAUST*). [[Paper](https://arxiv.org/abs/2304.04227)][[PyTorch](https://github.com/Vision-CAIR/ChatCaptioner)]
     * **ChatVideo**: "ChatVideo: A Tracklet-centric Multimodal and Versatile Video Understanding System", arXiv, 2023 (*Fudan*). [[Paper](https://arxiv.org/abs/2304.14407)][[Website](https://www.wangjunke.info/ChatVideo/)]
