@@ -1132,6 +1132,7 @@ If you find this repository useful, please consider citing this list:
 * **CPL**: "Concept-Guided Prompt Learning for Generalization in Vision-Language Models", AAAI, 2024 (*Harbin Institute of Technology*). [[Paper](https://arxiv.org/abs/2401.07457)]
 * **?**: "Facing the Elephant in the Room: Visual Prompt Tuning or Full Finetuning?", ICLR, 2024 (*Rochester Institute of Technology*). [[Paper](https://arxiv.org/abs/2401.12902)]
 * **ProText**: "Learning to Prompt with Text Only Supervision for Vision-Language Models", arXiv, 2024 (*MBZUAI*). [[Paper](https://arxiv.org/abs/2401.02418)][[PyTorch](https://github.com/muzairkhattak/ProText)][[Website](https://muzairkhattak.github.io/ProText/)]
+* **Any-shift**: "Any-Shift Prompting for Generalization over Distributions", arXiv, 2024 (*UvA*). [[Paper](https://arxiv.org/abs/2402.10099)]
 
 [[Back to Overview](#overview)]
 
