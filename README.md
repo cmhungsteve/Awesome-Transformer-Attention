@@ -1280,6 +1280,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **LP-OVOD**: "LP-OVOD: Open-Vocabulary Object Detection by Linear Probing", WACV, 2024 (*VinAI, Vietnam*). [[Paper](https://arxiv.org/abs/2310.17109)]
     * **ProxyDet**: "ProxyDet: Synthesizing Proxy Novel Classes via Classwise Mixup for Open Vocabulary Object Detection", WACV, 2024 (*NAVER*). [[Paper](https://arxiv.org/abs/2312.07266)]
     * **WSOVOD**: "Weakly Supervised Open-Vocabulary Object Detection", AAAI, 2024 (*Xiamen University*). [[Paper](https://arxiv.org/abs/2312.12437)][[Code (i construction)](https://github.com/HunterJ-Lin/WSOVOD)]
+    * **CLIM**: "CLIM: Contrastive Language-Image Mosaic for Region Representation", AAAI, 2024 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2312.11376)][[PyTorch](https://github.com/wusize/CLIM)]
     * **DVDet**: "LLMs Meet VLMs: Boost Open Vocabulary Object Detection with Fine-grained Descriptors", ICLR, 2024 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2402.04630)]
     * **MM-Grounding-DINO**: "An Open and Comprehensive Pipeline for Unified Object Grounding and Detection", arXiv, 2024 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2401.02361)][[PyTorch](https://github.com/open-mmlab/mmdetection/tree/main/configs/grounding_dino)]
     * **YOLO-World**: "YOLO-World: Real-Time Open-Vocabulary Object Detection", arXiv, 2024 (*Tencent*). [[Paper](https://arxiv.org/abs/2401.17270)][[Code (in construction)](https://github.com/AILab-CVC/YOLO-World)]
