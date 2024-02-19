@@ -945,6 +945,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **ViT-ReciproCAM**: "ViT-ReciproCAM: Gradient and Attention-Free Visual Explanations for Vision Transformer", arXiv, 2023 (*Intel*). [[Paper](https://arxiv.org/abs/2310.02588)]
 * **Eureka-moment**: "Eureka-Moments in Transformers: Multi-Step Tasks Reveal Softmax Induced Optimization Problems", arXiv, 2023 (*Bosch*). [[Paper](https://arxiv.org/abs/2310.12956)]
 * **INTR**: "A Simple Interpretable Transformer for Fine-Grained Image Classification and Analysis", arXiv, 2023 (*OSU*). [[Paper](https://arxiv.org/abs/2311.04157)][[PyTorch](https://github.com/Imageomics/INTR)]
+* **?**: "Attention Guided CAM: Visual Explanations of Vision Transformer Guided by Self-Attention", AAAI, 2024 (*Korea Institute of Science and Technology (KIST)*). [[Paper](https://arxiv.org/abs/2402.04563)][[PyTorch](https://github.com/LeemSaebom/Attention-Guided-CAM-Visual-Explanations-of-Vision-Transformer-Guided-by-Self-Attention)]
 
 [[Back to Overview](#overview)]
 
@@ -1279,6 +1280,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **LP-OVOD**: "LP-OVOD: Open-Vocabulary Object Detection by Linear Probing", WACV, 2024 (*VinAI, Vietnam*). [[Paper](https://arxiv.org/abs/2310.17109)]
     * **ProxyDet**: "ProxyDet: Synthesizing Proxy Novel Classes via Classwise Mixup for Open Vocabulary Object Detection", WACV, 2024 (*NAVER*). [[Paper](https://arxiv.org/abs/2312.07266)]
     * **WSOVOD**: "Weakly Supervised Open-Vocabulary Object Detection", AAAI, 2024 (*Xiamen University*). [[Paper](https://arxiv.org/abs/2312.12437)][[Code (i construction)](https://github.com/HunterJ-Lin/WSOVOD)]
+    * **DVDet**: "LLMs Meet VLMs: Boost Open Vocabulary Object Detection with Fine-grained Descriptors", ICLR, 2024 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2402.04630)]
     * **MM-Grounding-DINO**: "An Open and Comprehensive Pipeline for Unified Object Grounding and Detection", arXiv, 2024 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2401.02361)][[PyTorch](https://github.com/open-mmlab/mmdetection/tree/main/configs/grounding_dino)]
     * **YOLO-World**: "YOLO-World: Real-Time Open-Vocabulary Object Detection", arXiv, 2024 (*Tencent*). [[Paper](https://arxiv.org/abs/2401.17270)][[Code (in construction)](https://github.com/AILab-CVC/YOLO-World)]
 * Pedestrian Detection:
@@ -1523,6 +1525,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **RAP-SAM**: "RAP-SAM: Towards Real-Time All-Purpose Segment Anything", arXiv, 2024 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2401.10228)][[PyTorch](https://github.com/xushilin1/RAP-SAM/)][[Website](https://xushilin1.github.io/rap_sam/)]
     * **PA-SAM**: "PA-SAM: Prompt Adapter SAM for High-Quality Image Segmentation", arXiv, 2024 (*OPPO*). [[Paper](https://arxiv.org/abs/2401.13051)][[PyTorch](https://github.com/xzz2/pa-sam)]
     * **Grounded-SAM**: "Grounded SAM: Assembling Open-World Models for Diverse Visual Tasks", arXiv, 2024 (*IDEA*). [[Paper](https://arxiv.org/abs/2401.14159)][[PyTorch](https://github.com/IDEA-Research/Grounded-Segment-Anything)]
+    * **EfficientViT-SAM**: "EfficientViT-SAM: Accelerated Segment Anything Model Without Performance Loss", arXiv, 2024 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2402.05008)][[PyTorch](https://github.com/mit-han-lab/efficientvit)]
 * Vision-Language:
     * **LSeg**: "Language-driven Semantic Segmentation", ICLR, 2022 (*Cornell*). [[Paper](https://arxiv.org/abs/2201.03546)][[PyTorch](https://github.com/isl-org/lang-seg)]
     * **ZegFormer**: "Decoupling Zero-Shot Semantic Segmentation", CVPR, 2022 (*Wuhan University*). [[Paper](https://arxiv.org/abs/2112.07910)][[PyTorch](https://github.com/dingjiansw101/ZegFormer)]
