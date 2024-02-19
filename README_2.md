@@ -2188,6 +2188,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
 * **MGK**: "Improving Transformers with Probabilistic Attention Keys", ICML, 2022 (*UCLA*). [[Paper](https://arxiv.org/abs/2110.08678)]
 * **FNet**: "FNet: Mixing Tokens with Fourier Transforms", NAACL, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2105.03824)]
 * **RetNet**: "Retentive Network: A Successor to Transformer for Large Language Models", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2307.08621)][[PyTorch (in construction)](https://github.com/microsoft/unilm/tree/master/retnet)]
+* **ReBased**: "Linear Transformers with Learnable Kernel Functions are Better In-Context Models", arXiv, 2024 (*Tinkoff*). [[Paper](https://arxiv.org/abs/2402.10644)]
 
 [[Back to Overview](#overview)]
 
@@ -2223,6 +2224,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
 * **STTABT**: "Sparse Token Transformer with Attention Back Tracking", ICLR, 2023 (*KAIST*). [[Paper](https://openreview.net/forum?id=VV0hSE8AxCw)]
 * **Mega**: "Mega: Moving Average Equipped Gated Attention", ICLR, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2209.10655)][[PyTorch](https://github.com/facebookresearch/mega)]
 * **SeTformer**: "SeTformer is What You Need for Vision and Language", AAAI, 2024 (*East China Normal University*). [[Paper](https://arxiv.org/abs/2401.03540)]
+* **Hedgehog**: "The Hedgehog & the Porcupine: Expressive Linear Attentions with Softmax Mimicry", arXiv, 2024 (*Stanford University*). [[Paper](https://arxiv.org/abs/2402.04347)]
 
 [[Back to Overview](#overview)]
 
