@@ -294,6 +294,7 @@ If you find this repository useful, please consider citing this list:
     * **YTCommentQA**: "YTCommentQA: Video Question Answerability in Instructional Videos", AAAI, 2024 (*LG*). [[Paper](https://arxiv.org/abs/2401.17343)][[Code (in construction)](https://github.com/lgresearch/YTCommentQA)]
     * **Sports-QA**: "Sports-QA: A Large-Scale Video Question Answering Benchmark for Complex and Professional Sports", arXiv, 2024 (*University of Melbourne*). [[Paper](https://arxiv.org/abs/2401.01505)]
     * **DoraemonGPT**: "DoraemonGPT: Toward Understanding Dynamic Scenes with Large Language Models", arXiv, 2024 (*Zhejiang*). [[Paper](https://arxiv.org/abs/2401.08392)][[Code (in construction)](https://github.com/z-x-yang/DoraemonGPT)]
+    * **Q-ViD**: "Question-Instructed Visual Descriptions for Zero-Shot Video Question Answering", arXiv, 2024 (*MBZUAI*). [[Paper](https://arxiv.org/abs/2402.10698)]
 * 3D:
     * **3D-VQA**: "CLIP-Guided Vision-Language Pre-training for Question Answering in 3D Scenes", CVPRW, 2023 (*ETHZ*). [[Paper](https://arxiv.org/abs/2304.06061)][[Code (in construction)](https://github.com/AlexDelitzas/3D-VQA)]
     * **PO3D-VQA**: "3D-Aware Visual Question Answering about Parts, Poses and Occlusions", NeurIPS, 2023 (*JHU*). [[Paper](https://arxiv.org/abs/2310.17914)][[Code (in construction)](https://github.com/XingruiWang/3D-Aware-VQA)]
@@ -637,6 +638,7 @@ If you find this repository useful, please consider citing this list:
     * **MouSi**: "MouSi: Poly-Visual-Expert Vision-Language Models", arXiv, 2024 (*Fudan*). [[Paper](https://arxiv.org/abs/2401.17221)][[Code (in construction)](https://github.com/FudanNLPLAB/MouSi)]
     * **?**: "Enhancing Multimodal Large Language Models with Vision Detection Models: An Empirical Study", arXiv, 2024 (*Alibaba*). [[Paper](https://arxiv.org/abs/2401.17981)]
     * **QA-ViT**: "Question Aware Vision Transformer for Multimodal Reasoning", arXiv, 2024 (*Amazon*). [[Paper](https://arxiv.org/abs/2402.05472)]
+    * **PaLM2-VAdapter**: "PaLM2-VAdapter: Progressively Aligned Language Model Makes a Strong Vision-language Adapter", arXiv, 2024 (*Google*). [[Paper](https://arxiv.org/abs/2402.10896)]
 * Video:
     * **COOT**: "COOT: Cooperative Hierarchical Transformer for Video-Text Representation Learning", NeurIPS, 2020 (*University of Freiburg*). [[Paper](https://arxiv.org/abs/2011.00597)][[PyTorch](https://github.com/gingsi/coot-videotext)]
     * **Parameter-Reduction**: "Parameter Efficient Multimodal Transformers for Video Representation Learning", ICLR, 2021 (*Seoul National University*). [[Paper](https://openreview.net/forum?id=6UdQLhqJyFD)]
@@ -1347,6 +1349,7 @@ If you find this repository useful, please consider citing this list:
     * **VistaLLM**: "Jack of All Tasks, Master of Many: Designing General-purpose Coarse-to-Fine Vision-Language Model", arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2312.12423)][[Website](https://shramanpramanick.github.io/VistaLLM/)]
     * **VCoder**: "VCoder: Versatile Vision Encoders for Multimodal Large Language Models", arXiv, 2023 (*Georgia Tech*). [[Paper](https://arxiv.org/abs/2312.14233)][[PyTorch](https://github.com/SHI-Labs/VCoder)][[Website](https://praeclarumjj3.github.io/vcoder/)]
     * **Unified-IO-2**: "Unified-IO 2: Scaling Autoregressive Multimodal Models with Vision, Language, Audio, and Action", arXiv, 2023 (*AI2*). [[Paper](https://arxiv.org/abs/2312.17172)][[JAX](https://github.com/allenai/unified-io-2)][[Website](https://unified-io-2.allenai.org/)]
+    * **VLP**: "Using Left and Right Brains Together: Towards Vision and Language Planning", arXiv, 2024 (*Microsoft*). [[Paper](https://arxiv.org/abs/2402.10534)]
 * Language-based Video Editing:
     * **M<sup>3</sup>L**: "Language-based Video Editing via Multi-Modal Multi-Level Transformer", CVPR, 2022 (*UCSB*). [[Paper](https://arxiv.org/abs/2104.01122)]
     * **Video-P2P**: "Video-P2P: Video Editing with Cross-attention Control", arXiv, 2023 (*CUHK*). [[Paper](https://arxiv.org/abs/2303.04761)][[Website](https://video-p2p.github.io/)]
