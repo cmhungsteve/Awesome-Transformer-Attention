@@ -1178,6 +1178,7 @@ If you find this repository useful, please consider citing this list:
 * **Kosmos-2.5**: "Kosmos-2.5: A Multimodal Literate Model", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2309.11419)]
 * **UReader**: "UReader: Universal OCR-free Visually-situated Language Understanding with Multimodal Large Language Model", arXiv, 2023 (*Alibaba*). [[Paper](https://arxiv.org/abs/2310.05126)]
 * **RD**: "Efficient End-to-End Visual Document Understanding with Rationale Distillation", arXiv, 2023 (*DeepMind*). [[Paper](https://arxiv.org/abs/2311.09612)]
+* **ScreenAI**: "ScreenAI: A Vision-Language Model for UI and Infographics Understanding", arXiv, 2024 (*Google*). [[Paper](https://arxiv.org/abs/2402.04615)]
 
 [[Back to Overview](#overview)]
 
@@ -1203,6 +1204,7 @@ If you find this repository useful, please consider citing this list:
     * **?**: "Routers in Vision Mixture of Experts: An Empirical Study", arXiv, 2024 (*DeepMind*). [[Paper](https://arxiv.org/abs/2401.15969)]
     * **MoE-LLaVA**: "MoE-LLaVA: Mixture of Experts for Large Vision-Language Models", arXiv, 2024 (*Peking*). [[Paper](https://arxiv.org/abs/2401.15947)][[PyTorch](https://github.com/PKU-YuanGroup/MoE-LLaVA)]
     * **DoRA**: "DoRA: Weight-Decomposed Low-Rank Adaptation", arXiv, 2024 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2402.09353)]
+    * **DeLVM**: "Data-efficient Large Vision Models through Sequential Autoregression", arXiv, 2024 (*University of Sydney*). [[Paper](https://arxiv.org/abs/2402.04841)][[PyTorch (in construction)](https://github.com/ggjy/DeLVM)]
 * Zero-Shot:
     * **SMs**: "Socratic Models: Composing Zero-Shot Multimodal Reasoning with Language", ICLR, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2204.00598)][[GitHub](https://github.com/google-research/google-research/tree/master/socraticmodels)][[Website](https://socraticmodels.github.io/)]
     * **iCLIP**: "iCLIP: Bridging Image Classification and Contrastive Language-Image Pre-Training for Visual Recognition", CVPR, 2023 (*Microsoft*). [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Wei_iCLIP_Bridging_Image_Classification_and_Contrastive_Language-Image_Pre-Training_for_Visual_CVPR_2023_paper.html)]
@@ -1458,6 +1460,7 @@ If you find this repository useful, please consider citing this list:
     * **MaskClustering**: "MaskClustering: View Consensus based Mask Graph Clustering for Open-Vocabulary 3D Instance Segmentation", arXiv, 2024 (*Peking*). [[Paper](https://arxiv.org/abs/2401.07745)][[Website](https://pku-epic.github.io/MaskClustering/)]
     * **GARField**: "GARField: Group Anything with Radiance Fields", arXiv, 2024 (*Berkeley*). [[Paper](https://arxiv.org/abs/2401.09419)][[PyTorch](https://github.com/chungmin99/garfield)][[Website](https://www.garfield.studio/)]
     * **SA-GS**: "Segment Anything in 3D Gaussians", arXiv, 2024 (*The Hong Kong Polytechnic University*). [[Paper](https://arxiv.org/abs/2401.17857)]
+    * **OV-NeRF**: "OV-NeRF: Open-vocabulary Neural Radiance Fields with Vision and Language Foundation Models for 3D Semantic Understanding", arXiv, 2024 (*Peking*). [[Paper](https://arxiv.org/abs/2402.04648)]
 * Speech Recognition:
     * **AV-HuBERT**: "Robust Self-Supervised Audio-Visual Speech Recognition", arXiv, 2022 (*Meta*). [[Paper](https://arxiv.org/abs/2201.01763)][[PyTorch](https://github.com/facebookresearch/av_hubert)]
     * **?**: "Transformer-Based Video Front-Ends for Audio-Visual Speech Recognition", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2201.10439)]
@@ -1706,6 +1709,7 @@ If you find this repository useful, please consider citing this list:
     * **BenchLMM**: "BenchLMM: Benchmarking Cross-style Visual Capability of Large Multimodal Models", arXiv, 2023 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2312.02896)][[PyTorch](https://github.com/AIFEG/BenchLMM)]
     * **M3DBench**: "M3DBench: Let's Instruct Large Models with Multi-modal 3D Prompts", arXiv, 2023 (*Fudan*). [[Paper](https://arxiv.org/abs/2312.10763)][[Code (in construction)](https://github.com/OpenM3D/M3DBench/)][[Website](https://m3dbench.github.io/)]
     * **MM-SAP**: "MM-SAP: A Comprehensive Benchmark for Assessing Self-Awareness of Multimodal Large Language Models in Perception", arXiv, 2024 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2401.07529)][[Code (in construction)](https://github.com/YHWmz/MM-SAP)]
+    * **MLLM-as-a-Judge**: "MLLM-as-a-Judge: Assessing Multimodal LLM-as-a-Judge with Vision-Language Benchmark", arXiv, 2024 (*Lehigh University, Pennsylvania*). [[Paper](https://arxiv.org/abs/2402.04788)][[GitHub](https://github.com/Dongping-Chen/MLLM-as-a-Judge)]
 * Robustness:
     * **Hierarchy-CLIP**: "Improving Zero-shot Generalization and Robustness of Multi-modal Models", CVPR, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2212.01758)][[JAX](https://github.com/gyhandy/Hierarchy-CLIP)][[Website](https://sites.google.com/usc.edu/hierarchy-clip/)]
     * **?**: "Mitigating Spurious Correlations in Multi-modal Models during Fine-tuning", ICML, 2023 (*UCLA*). [[Paper](https://arxiv.org/abs/2304.03916)]
