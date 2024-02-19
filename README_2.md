@@ -178,6 +178,7 @@ If you find this repository useful, please consider citing this list:
 * **3D-LFM**: "3D-LFM: Lifting Foundation Model", arXiv, 2023 (*CMU*). [[Paper](https://arxiv.org/abs/2312.11894)][[Code](https://github.com/mosamdabhi/3dlfm)][[Webite](https://3dlfm.github.io/)]
 * **LAST-PCL**: "Language-Assisted 3D Scene Understanding", AAAI, 2024 (*Peking*). [[Paper](https://arxiv.org/abs/2312.11451)][[Code (in construction)](https://github.com/yanmin-wu/LAST-PCL)]
 * **MM-Point**: "MM-Point: Multi-View Information-Enhanced Multi-Modal Self-Supervised 3D Point Cloud Understanding", AAAI, 2024 (*Southeast University, China*). [[Paper](https://arxiv.org/abs/2402.10002)]
+* **PointMamba**: "PointMamba: A Simple State Space Model for Point Cloud Analysis", arXiv, 2024 (*Huazhong University of Science and Technology*). [[Paper](https://arxiv.org/abs/2402.10739)][[PyTorch](https://github.com/LMD0311/PointMamba)]
 
 [[Back to Overview](#overview)]
 
