@@ -131,6 +131,7 @@ If you find this repository useful, please consider citing this list:
 ---
 
 ## Survey
+* "A Survey on Multimodal Large Language Models for Autonomous Driving", WACVW, 2024 (*Purdue*). [[Paper](https://arxiv.org/abs/2311.12320)][[GitHub](https://github.com/IrohXu/Awesome-Multimodal-LLM-Autonomous-Driving)]
 * "Masked Modeling for Self-supervised Representation Learning on Vision and Beyond", arXiv, 2024 (*Westlake University, China*). [[Paper](https://arxiv.org/abs/2401.00897)][[GitHub](https://github.com/Lupin1998/Awesome-MIM)]
 * "Transformer for Object Re-Identification: A Survey", arXiv, 2024 (*Wuhan University*). [[Paper](https://arxiv.org/abs/2401.06960)]
 * "Forging Vision Foundation Models for Autonomous Driving: Challenges, Methodologies, and Opportunities", arXiv, 2024 (*Huawei*). [[Paper](https://arxiv.org/abs/2401.08045)][[GtiHub](https://github.com/zhanghm1995/Forge_VFM4AD)]
@@ -375,6 +376,7 @@ If you find this repository useful, please consider citing this list:
 * **Agent-Attention**: "Agent Attention: On the Integration of Softmax and Linear Attention", arXiv, 2023 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2312.08874)][[PyTorch](https://github.com/LeapLabTHU/Agent-Attention)]
 * **SPFormer**: "SPFormer: Enhancing Vision Transformer with Superpixel Representation", arXiv, 2024 (*JHU*). [[Paper](https://arxiv.org/abs/2401.02931)]
 * **manifold-K**: "A Manifold Representation of the Key in Vision Transformers", arXiv, 2024 (*University of Oslo, Norway*). [[Paper](https://arxiv.org/abs/2402.00534)]
+* **BiXT**: "Perceiving Longer Sequences With Bi-Directional Cross-Attention Transformers", arXiv, 2024 (*University of Melbourne*). [[Paper](https://arxiv.org/abs/2402.12138)]
 #### Efficient Vision Transformer
 * **DeiT**: "Training data-efficient image transformers & distillation through attention", ICML, 2021 (*Facebook*). [[Paper](https://arxiv.org/abs/2012.12877)][[PyTorch](https://github.com/facebookresearch/deit)]
 * **ConViT**: "ConViT: Improving Vision Transformers with Soft Convolutional Inductive Biases", ICML, 2021 (*Facebook*). [[Paper](https://arxiv.org/abs/2103.10697)][[Code](https://github.com/facebookresearch/convit)]
