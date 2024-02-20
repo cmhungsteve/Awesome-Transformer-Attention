@@ -1621,6 +1621,8 @@ If you find this repository useful, please consider citing this list:
     * **Prismatic-VLM**: "Prismatic VLMs: Investigating the Design Space of Visually-Conditioned Language Models", arXiv, 2024 (*Toyota*). [[Paper](https://arxiv.org/abs/2402.07865)][[PyTorch](https://github.com/TRI-ML/prismatic-vlms)]
     * **SPHINX-X**: "SPHINX-X: Scaling Data and Parameters for a Family of Multi-modal Large Language Models", arXiv, 2024 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2402.05935)][[PyTorch](https://github.com/Alpha-VLLM/LLaMA2-Accessory)]
     * **ChartVLM**: "ChartX & ChartVLM: A Versatile Benchmark and Foundation Model for Complicated Chart Reasoning", arXiv, 2024 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2402.12185)][[PyTorch](https://github.com/UniModal4Reasoning/ChartVLM)]
+    * **Vision-Flan**: "Vision-Flan: Scaling Human-Labeled Tasks in Visual Instruction Tuning", arXiv, 2024 (*Virginia Tech*). [[Paper](https://arxiv.org/abs/2402.11690)]
+    * **CoLLaVO**: "CoLLaVO: Crayon Large Language and Vision mOdel", arXiv, 2024 (*KAIST*). [[Paper](https://arxiv.org/abs/2402.11248)]
 * Conversation (Video):
     * **Video-ChatCaptioner**: "Video ChatCaptioner: Towards the Enriched Spatiotemporal Descriptions", arXiv, 2023 (*KAUST*). [[Paper](https://arxiv.org/abs/2304.04227)][[PyTorch](https://github.com/Vision-CAIR/ChatCaptioner)]
     * **ChatVideo**: "ChatVideo: A Tracklet-centric Multimodal and Versatile Video Understanding System", arXiv, 2023 (*Fudan*). [[Paper](https://arxiv.org/abs/2304.14407)][[Website](https://www.wangjunke.info/ChatVideo/)]
