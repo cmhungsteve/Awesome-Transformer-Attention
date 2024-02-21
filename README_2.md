@@ -1027,7 +1027,7 @@ If you find this repository useful, please consider citing this list:
 * **DPC**: "Discrete Predictor-Corrector Diffusion Models for Image Synthesis", ICLR, 2023 (*Google*). [[Paper](https://openreview.net/forum?id=VM8batVBWvg)]
 * **LayoutDM**: "LayoutDM: Discrete Diffusion Model for Controllable Layout Generation", CVPR, 2023 (*CyberAgent, Japan*). [[Paper](https://arxiv.org/abs/2303.08137)][[PyTorch](https://github.com/CyberAgentAILab/layout-dm)][[Website](https://cyberagentailab.github.io/layout-dm/)]
 * **GTGAN**: "Graph Transformer GANs for Graph-Constrained House Generation", CVPR, 2023 (*ETHZ*). [[Paper](https://arxiv.org/abs/2303.08225)]
-* **U-ViT**: "All are Worth Words: A ViT Backbone for Diffusion Models", CVPR, 2023 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2209.12152)]
+* **U-ViT**: "All are Worth Words: A ViT Backbone for Diffusion Models", CVPR, 2023 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2209.12152)][[PyTorch](https://github.com/baofff/U-ViT)]
 * **MQ-VAE**: "Not All Image Regions Matter: Masked Vector Quantization for Autoregressive Image Generation", CVPR, 2023 (*USTC*). [[Paper](https://arxiv.org/abs/2305.13607)][[PyTorch](https://github.com/CrossmodalGroup/MaskedVectorQuantization)]
 * **MaskSketch**: "MaskSketch: Unpaired Structure-guided Masked Image Generation", CVPR, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2302.05496)][[JAX](https://github.com/google-research/masksketch)][[Website](https://masksketch.github.io/)]
 * **GAN-MAE**: "Masked Auto-Encoders Meet Generative Adversarial Networks and Beyond", CVPR, 2023 (*Meituan*). [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Fei_Masked_Auto-Encoders_Meet_Generative_Adversarial_Networks_and_Beyond_CVPR_2023_paper.html)]
