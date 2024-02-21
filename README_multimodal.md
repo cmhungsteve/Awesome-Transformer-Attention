@@ -147,6 +147,7 @@ If you find this repository useful, please consider citing this list:
     * **Video-CSR**: "Video-CSR: Complex Video Digest Creation for Visual-Language Models", arXiv, 2023 (*ByteDance*). [[Paper](https://arxiv.org/abs/2310.05060)]
     * **SCG-SP**: "Set Prediction Guided by Semantic Concepts for Diverse Video Captioning", AAAI, 2024 (*CAS*). [[Paper](https://arxiv.org/abs/2312.15720)]
     * **EgoExoNCE**: "Retrieval-Augmented Egocentric Video Captioning", arXiv, 2024 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2401.00789)]
+    * **Video-ReCap**: "Video ReCap: Recursive Captioning of Hour-Long Videos", arXiv, 2024 (*UNC*). [[Paper](https://arxiv.org/abs/2402.13250)][[PyTorch](https://github.com/md-mohaiminul/VideoRecap)][[Website](https://sites.google.com/view/vidrecap)]
 * 3D:
     * **Vote2Cap-DETR**: "End-to-End 3D Dense Captioning with Vote2Cap-DETR", CVPR, 2023 (*Fudan*). [[Paper](https://arxiv.org/abs/2301.02508)][[PyTorch](https://github.com/ch3cook-fdu/Vote2Cap-DETR)]
     * **Cap3D**: "Scalable 3D Captioning with Pretrained Models", NeurIPS, 2023 (*UMich*). [[Paper](https://arxiv.org/abs/2306.07279)][[Dataset](https://huggingface.co/datasets/tiange/Cap3D)]
@@ -708,6 +709,8 @@ If you find this repository useful, please consider citing this list:
     * **VIIT**: "Distilling Vision-Language Models on Millions of Videos", arXiv, 2024 (*Google*). [[Paper](https://arxiv.org/abs/2401.06129)][[Website](https://zhaoyue-zephyrus.github.io/video-instruction-tuning/)]
     * **FiGCLIP**: "FiGCLIP: Fine-Grained CLIP Adaptation via Densely Annotated Videos", arXiv, 2024 (*IIIT Hyderabad*). [[Paper](https://arxiv.org/abs/2401.07669)][[Code (in construction)](https://github.com/Darshansingh11/FiGCLIP)]
     * **LWM**: "World Model on Million-Length Video And Language With RingAttention", arXiv, 2024 (*Berkeley*). [[Paper](https://arxiv.org/abs/2402.08268)][[JAX](https://github.com/LargeWorldModel/LWM)][[Website](https://largeworldmodel.github.io/)]
+    * **VideoPrism**: "VideoPrism: A Foundational Visual Encoder for Video Understanding", arXiv, 2024 (*Google*). [[Paper](https://arxiv.org/abs/2402.13217)]
+    * **Slot-VLM**: "Slot-VLM: SlowFast Slots for Video-Language Modeling", arXiv, 2024 (*Microsoft*). [[Paper](https://arxiv.org/abs/2402.13088)]
 * 3D:
     * **CLIP<sup>2</sup>**: "CLIP<sup>2</sup>: Contrastive Language-Image-Point Pretraining from Real-World Point Cloud Data", CVPR, 2023 (*Huawei*). [[Paper](https://arxiv.org/abs/2303.12417)]
     * **3D-VLP**: "Context-aware Alignment and Mutual Masking for 3D-Language Pre-training", CVPR, 2023 (*Sichuan University*). [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Jin_Context-Aware_Alignment_and_Mutual_Masking_for_3D-Language_Pre-Training_CVPR_2023_paper.html)][[PyTorch](https://github.com/leolyj/3D-VLP)]
@@ -733,9 +736,11 @@ If you find this repository useful, please consider citing this list:
     * **ViT-Lens-2**: "ViT-Lens-2: Gateway to Omni-modal Intelligence", arXiv, 2023 (*Tencent*). [[Paper](https://arxiv.org/abs/2311.16081)][[PyTorch](https://github.com/TencentARC/ViT-Lens)]
     * **ModaVerse**: "ModaVerse: Efficiently Transforming Modalities with LLMs", arXiv, 2024 (*University of Adelaide*). [[Paper](https://arxiv.org/abs/2401.06395)]
     * **M2PT**: "Multimodal Pathway: Improve Transformers with Irrelevant Data from Other Modalities", arXiv, 2024 (*CUHK*). [[Paper](https://arxiv.org/abs/2401.14405)][[PyTorch](https://github.com/AILab-CVC/M2PT)][[Website](https://ailab-cvc.github.io/M2PT/)]
+    * **DAMC**: "Model Composition for Multimodal Large Language Models", arXiv, 2024 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2402.12750)]
 * Others:
     * **C-MCR**: "Connecting Multi-modal Contrastive Representations", NeurIPS, 2023 (*Zhejiang*). [[Paper](https://arxiv.org/abs/2305.14381)][[PyTorch](https://github.com/MCR-PEFT/C-MCR)][[Website](https://c-mcr.github.io/C-MCR/)]
     * **UMI**: "Learning Unseen Modality Interaction", NeurIPS, 2023 (*UvA*). [[Paper](https://arxiv.org/abs/2306.12795)][[Code (in construction)](https://github.com/xiaobai1217/Unseen-Modality-Interaction)][[Website](https://xiaobai1217.github.io/Unseen-Modality-Interaction/)]
+    * **TVL**: "A Touch, Vision, and Language Dataset for Multimodal Alignment", arXiv, 2024 (*Berkeley*). [[Paper](https://arxiv.org/abs/2402.13232)][[PyTorch](https://github.com/Max-Fu/tvl)][[Website](https://tactile-vlm.github.io/)]
 
 [[Back to Overview](#overview)]
 
