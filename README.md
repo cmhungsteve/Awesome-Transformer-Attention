@@ -132,6 +132,7 @@ If you find this repository useful, please consider citing this list:
 
 ## Survey
 * "A Survey on Multimodal Large Language Models for Autonomous Driving", WACVW, 2024 (*Purdue*). [[Paper](https://arxiv.org/abs/2311.12320)][[GitHub](https://github.com/IrohXu/Awesome-Multimodal-LLM-Autonomous-Driving)]
+* "The (R)Evolution of Multimodal Large Language Models: A Survey", arXiv, 2024 (*University of Modena and Reggio Emilia (UniMoRE), Italy*). [[Paper](https://arxiv.org/abs/2402.12451)]
 * "Masked Modeling for Self-supervised Representation Learning on Vision and Beyond", arXiv, 2024 (*Westlake University, China*). [[Paper](https://arxiv.org/abs/2401.00897)][[GitHub](https://github.com/Lupin1998/Awesome-MIM)]
 * "Transformer for Object Re-Identification: A Survey", arXiv, 2024 (*Wuhan University*). [[Paper](https://arxiv.org/abs/2401.06960)]
 * "Forging Vision Foundation Models for Autonomous Driving: Challenges, Methodologies, and Opportunities", arXiv, 2024 (*Huawei*). [[Paper](https://arxiv.org/abs/2401.08045)][[GtiHub](https://github.com/zhanghm1995/Forge_VFM4AD)]
