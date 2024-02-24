@@ -968,6 +968,8 @@ If you find this repository useful, please consider citing this list:
     * **SiT**: "SiT: Exploring Flow and Diffusion-based Generative Models with Scalable Interpolant Transformers", arXiv, 2024 (*NYU*). [[Paper](https://arxiv.org/abs/2401.08740)][[PyTorch](https://github.com/willisma/SiT)][[Website](https://scalable-interpolant.github.io/)]
     * **λ-ECLIPSE**: "λ-ECLIPSE: Multi-Concept Personalized Text-to-Image Diffusion Models by Leveraging CLIP Latent Space", arXiv, 2024 (*Arizona State University*). [[Paper](https://arxiv.org/abs/2402.05195)][[PyTorch](https://github.com/eclipse-t2i/lambda-eclipse-inference)][[Website](https://eclipse-t2i.github.io/Lambda-ECLIPSE/)]
     * **FiT**: "FiT: Flexible Vision Transformer for Diffusion Model", arXiv, 2024 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2402.12376)][[PyTorch (in construction)](https://github.com/whlzy/FiT)]
+    * **SDXL-Lightning**: "SDXL-Lightning: Progressive Adversarial Diffusion Distillation", arXiv, 2024 (*ByteDance*). [[Paper](https://arxiv.org/abs/2402.13929)]
+    * **CG**: "Contrastive Prompts Improve Disentanglement in Text-to-Image Diffusion Models", arXiv, 2024 (*CMU*). [[Paper](https://arxiv.org/abs/2402.13490)]
 * Video:
     * **Imagen-Video**: "Imagen Video: High Definition Video Generation with Diffusion Models", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2210.02303)][[Website](https://imagen.research.google/video/)]
     * **Phenaki**: "Phenaki: Variable Length Video Generation From Open Domain Textual Description", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2210.02399)][[PyTorch (LAION-AI, in construction)](https://github.com/LAION-AI/phenaki)][[Website](https://phenaki.video/)]
@@ -1651,6 +1653,7 @@ If you find this repository useful, please consider citing this list:
     * **Mementos**: "Mementos: A Comprehensive Benchmark for Multimodal Large Language Model Reasoning over Image Sequences", arXiv, 2024 (*Maryland*). [[Paper](https://arxiv.org/abs/2401.10529)][[GitHub](https://github.com/umd-huang-lab/Mementos)]
     * **LVChat**: "LVCHAT: Facilitating Long Video Comprehension", arXiv, 2024 (*UCSD*). [[Paper](https://arxiv.org/abs/2402.12079)][[PyTorch](https://github.com/wangyu-ustc/LVChat)]
     * **Momentor**: "Momentor: Advancing Video Large Language Model with Fine-Grained Temporal Reasoning", arXiv, 2024 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2402.11435)][[Code (in construction)](https://github.com/DCDmllm/Momentor)]
+    * **IVA**: "LLMs Meet Long Video: Advancing Long Video Comprehension with An Interactive Visual Adapter in LLMs", arXiv, 2024 (*Harbin Institute of Technology*). [[Paper](https://arxiv.org/abs/2402.13546)]
 * Conversation (3D):
     * **3D-LLM**: "3D-LLM: Injecting the 3D World into Large Language Models", NeurIPS, 2023 (*UCLA*). [[Paper](https://arxiv.org/abs/2307.12981)][[PyTorch](https://github.com/UMass-Foundation-Model/3D-LLM)][[Website](https://vis-www.cs.umass.edu/3dllm/)]
     * **Chat-3D**: "Chat-3D: Data-efficiently Tuning Large Language Model for Universal Dialogue of 3D Scenes", arXiv, 2023 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2308.08769)][[PyTorch](https://github.com/Chat-3D/Chat-3D)][[Website](https://chat-3d.github.io/)]
