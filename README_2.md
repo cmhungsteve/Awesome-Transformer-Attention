@@ -164,7 +164,7 @@ If you find this repository useful, please consider citing this list:
 * **Joint-MAE**: "Joint-MAE: 2D-3D Joint Masked Autoencoders for 3D Point Cloud Pre-training", arXiv, 2023 (*CUHK*). [[Paper](https://arxiv.org/abs/2302.14007)]
 * **PointCAT**: "PointCAT: Cross-Attention Transformer for point cloud", arXiv, 2023 (*Nanjing University of Science and Technology*). [[Paper](https://arxiv.org/abs/2304.03012)][[PyTorch](https://github.com/xincheng-yang/PointCAT)]
 * **MGT**: "Multi-scale Geometry-aware Transformer for 3D Point Cloud Classification", arXiv, 2023 (*TUM*). [[Paper](https://arxiv.org/abs/2304.05694)]
-* **Swin3D**: "Swin3D: A Pretrained Transformer Backbone for 3D Indoor Scene Understanding", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2304.06906)]
+* **Swin3D**: "Swin3D: A Pretrained Transformer Backbone for 3D Indoor Scene Understanding", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2304.06906)][[PyTorch](https://github.com/microsoft/Swin3D)][[Website](https://yukichiii.github.io/project/swin3D/swin3D.html)]
 * **ViewFormer**: "ViewFormer: View Set Attention for Multi-view 3D Shape Understanding", arXiv, 2023 (*Renmin University of China*). [[Paper](https://arxiv.org/abs/2305.00161)]
 * **ULIP-2**: "ULIP-2: Towards Scalable Multimodal Pre-training For 3D Understanding", arXiv, 2023 (*Salesforce*). [[Paper](https://arxiv.org/abs/2305.08275)]
 * **CDFormer**: "Collect-and-Distribute Transformer for 3D Point Cloud Analysis", arXiv, 2023 (*The University of Sydney*). [[Paper](https://arxiv.org/abs/2306.01257)][[PyTorch](https://github.com/haibo-qiu/CDFormer)]
@@ -179,6 +179,7 @@ If you find this repository useful, please consider citing this list:
 * **LAST-PCL**: "Language-Assisted 3D Scene Understanding", AAAI, 2024 (*Peking*). [[Paper](https://arxiv.org/abs/2312.11451)][[Code (in construction)](https://github.com/yanmin-wu/LAST-PCL)]
 * **MM-Point**: "MM-Point: Multi-View Information-Enhanced Multi-Modal Self-Supervised 3D Point Cloud Understanding", AAAI, 2024 (*Southeast University, China*). [[Paper](https://arxiv.org/abs/2402.10002)]
 * **PointMamba**: "PointMamba: A Simple State Space Model for Point Cloud Analysis", arXiv, 2024 (*Huazhong University of Science and Technology*). [[Paper](https://arxiv.org/abs/2402.10739)][[PyTorch](https://github.com/LMD0311/PointMamba)]
+* **Swin3D++**: "Swin3D++: Effective Multi-Source Pretraining for 3D Indoor Scene Understanding", arXiv, 2024 (*Microsoft*). [[Paper](https://arxiv.org/abs/2402.14215)]
 
 [[Back to Overview](#overview)]
 
@@ -265,6 +266,7 @@ If you find this repository useful, please consider citing this list:
     * **Pose-Anything**: "Pose Anything: A Graph-Based Approach for Category-Agnostic Pose Estimation", arXiv, 2023 (*Tel Aviv*). [[Paper](https://arxiv.org/abs/2311.17891)][[Code (in construction)](https://github.com/orhir/PoseAnything)][[Website](https://orhir.github.io/pose-anything/)]
     * **PoseGPT**: "PoseGPT: Chatting about 3D Human Pose", arXiv, 2023 (*MPI*). [[Paper](https://arxiv.org/abs/2311.18836)][[Code (in construction)](https://github.com/yfeng95/PoseGPT)][[Website](https://yfeng95.github.io/posegpt/)]
     * **TEMP3D**: "TEMP3D: Temporally Continuous 3D Human Pose Estimation Under Occlusions", arXiv, 2023 (*UC Riverside*). [[Paper](https://arxiv.org/abs/2312.16221)][[Website](https://sites.google.com/ucr.edu/temp3d)]
+    * **VLPose**: "VLPose: Bridging the Domain Gap in Pose Estimation with Language-Vision Tuning", arXiv, 2024 (*CUHK*). [[Paper](https://arxiv.org/abs/2402.14456)]
 * Hands:
     * **Hand-Transformer**: "Hand-Transformer: Non-Autoregressive Structured Modeling for 3D Hand Pose Estimation", ECCV, 2020 (*Kwai*). [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/4836_ECCV_2020_paper.php)]
     * **SCAT**: "SCAT: Stride Consistency With Auto-Regressive Regressor and Transformer for Hand Pose Estimation", ICCVW, 2021 (*Alibaba*). [[Paper](https://openaccess.thecvf.com/content/ICCV2021W/SoMoF/html/Gao_SCAT_Stride_Consistency_With_Auto-Regressive_Regressor_and_Transformer_for_Hand_ICCVW_2021_paper.html)]
