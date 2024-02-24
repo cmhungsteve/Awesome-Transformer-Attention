@@ -640,6 +640,7 @@ If you find this repository useful, please consider citing this list:
     * **?**: "Enhancing Multimodal Large Language Models with Vision Detection Models: An Empirical Study", arXiv, 2024 (*Alibaba*). [[Paper](https://arxiv.org/abs/2401.17981)]
     * **QA-ViT**: "Question Aware Vision Transformer for Multimodal Reasoning", arXiv, 2024 (*Amazon*). [[Paper](https://arxiv.org/abs/2402.05472)]
     * **PaLM2-VAdapter**: "PaLM2-VAdapter: Progressively Aligned Language Model Makes a Strong Vision-language Adapter", arXiv, 2024 (*Google*). [[Paper](https://arxiv.org/abs/2402.10896)]
+    * **PALO**: "PALO: A Polyglot Large Multimodal Model for 5B People", arXiv, 2024 (*MBZUAI*). [[Paper](https://arxiv.org/abs/2402.14818)][[Code (in construction)](https://github.com/mbzuai-oryx/PALO)]
 * Video:
     * **COOT**: "COOT: Cooperative Hierarchical Transformer for Video-Text Representation Learning", NeurIPS, 2020 (*University of Freiburg*). [[Paper](https://arxiv.org/abs/2011.00597)][[PyTorch](https://github.com/gingsi/coot-videotext)]
     * **Parameter-Reduction**: "Parameter Efficient Multimodal Transformers for Video Representation Learning", ICLR, 2021 (*Seoul National University*). [[Paper](https://openreview.net/forum?id=6UdQLhqJyFD)]
@@ -1000,6 +1001,7 @@ If you find this repository useful, please consider citing this list:
     * **VideoCrafter2**: "VideoCrafter2: Overcoming Data Limitations for High-Quality Video Diffusion Models", arXiv, 2024 (*Tencent*). [[Paper](https://arxiv.org/abs/2401.09047)][[PyTorch](https://github.com/AILab-CVC/VideoCrafter)][[Website](https://ailab-cvc.github.io/videocrafter2/)]
     * **ActAnywhere**: "ActAnywhere: Subject-Aware Video Background Generation", arXiv, 2024 (*Adobe*). [[Paper](https://arxiv.org/abs/2401.10822)][[Website](https://actanywhere.github.io/)]
     * **Lumiere**: "Lumiere: A Space-Time Diffusion Model for Video Generation", arXiv, 2024 (*Google*). [[Paper](https://arxiv.org/abs/2401.12945)][[Website](https://lumiere-video.github.io/)]
+    * **Snap-Video**: "Snap Video: Scaled Spatiotemporal Transformers for Text-to-Video Synthesis", arXiv, 2024 (*Snap*). [[Paper](https://arxiv.org/abs/2402.14797)][[Website](https://snap-research.github.io/snapvideo/)]
 * 3D:
     * **Magic3D**: "Magic3D: High-Resolution Text-to-3D Content Creation", CVPR, 2023 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2211.10440)][[Website](https://research.nvidia.com/labs/dir/magic3d/)]
     * **CLIP-Sculptor**: "CLIP-Sculptor: Zero-Shot Generation of High-Fidelity and Diverse Shapes from Natural Language", CVPR, 2023 (*Autodesk*). [[Paper](https://arxiv.org/abs/2211.01427)][[Website](https://ivl.cs.brown.edu/#/projects/clip-sculptor)]
@@ -1409,6 +1411,7 @@ If you find this repository useful, please consider citing this list:
     * **MultiPLY**: "MultiPLY: A Multisensory Object-Centric Embodied Large Language Model in 3D World", arXiv, 2024 (*UMass*). [[Paper](https://arxiv.org/abs/2401.08577)][[Code (in construction)](https://github.com/UMass-Foundation-Model/MultiPLY)][[Website](https://vis-www.cs.umass.edu/multiply/)]
     * **seeing-unseen**: "Seeing the Unseen: Visual Common Sense for Semantic Placement", arXiv, 2024 (*AI2*). [[Paper](https://arxiv.org/abs/2401.07770)][[Website](https://ram81.github.io/projects/seeing-unseen.html)]
     * **PIVOT**: "PIVOT: Iterative Visual Prompting Elicits Actionable Knowledge for VLMs", arXiv, 2024 (*DeepMind*). [[Paper](https://arxiv.org/abs/2402.07872)][[Website](https://pivot-prompt.github.io/)]
+    * **VPDD**: "Large-Scale Actionless Video Pre-Training via Discrete Diffusion for Efficient Policy Learning", arXiv, 2024 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2402.14407)][[Website](https://video-diff.github.io/)]
 * Multi-modal Fusion:
     * **MICA**: "Attention Is Not Enough: Mitigating the Distribution Discrepancy in Asynchronous Multimodal Sequence Fusion", ICCV, 2021 (*Southwest Jiaotong University*). [[Paper](https://openaccess.thecvf.com/content/ICCV2021/html/Liang_Attention_Is_Not_Enough_Mitigating_the_Distribution_Discrepancy_in_Asynchronous_ICCV_2021_paper.html)]
     * **IFT**: "Image Fusion Transformer", arXiv, 2021 (*Johns Hopkins*). [[Paper](https://arxiv.org/abs/2107.09011)][[PyTorch](https://github.com/Vibashan/Image-Fusion-Transformer)]
