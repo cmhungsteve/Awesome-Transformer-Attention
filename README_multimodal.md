@@ -641,6 +641,8 @@ If you find this repository useful, please consider citing this list:
     * **QA-ViT**: "Question Aware Vision Transformer for Multimodal Reasoning", arXiv, 2024 (*Amazon*). [[Paper](https://arxiv.org/abs/2402.05472)]
     * **PaLM2-VAdapter**: "PaLM2-VAdapter: Progressively Aligned Language Model Makes a Strong Vision-language Adapter", arXiv, 2024 (*Google*). [[Paper](https://arxiv.org/abs/2402.10896)]
     * **PALO**: "PALO: A Polyglot Large Multimodal Model for 5B People", arXiv, 2024 (*MBZUAI*). [[Paper](https://arxiv.org/abs/2402.14818)][[Code (in construction)](https://github.com/mbzuai-oryx/PALO)]
+    * **CogCoM**: "CogCoM: Train Large Vision-Language Models Diving into Details through Chain of Manipulations", arXiv, 2024 (*Zhipu AI, China*). [[Paper](https://arxiv.org/abs/2402.04236)][[PyTorch](https://github.com/THUDM/CogCoM)]
+    * **EVA-CLIP-18B**: "EVA-CLIP-18B: Scaling CLIP to 18 Billion Parameters", arXiv, 2024 (*BAAI*). [[Paper](https://arxiv.org/abs/2402.04252)][[PyTorch](https://github.com/baaivision/EVA/tree/master/EVA-CLIP-18B)]
 * Video:
     * **COOT**: "COOT: Cooperative Hierarchical Transformer for Video-Text Representation Learning", NeurIPS, 2020 (*University of Freiburg*). [[Paper](https://arxiv.org/abs/2011.00597)][[PyTorch](https://github.com/gingsi/coot-videotext)]
     * **Parameter-Reduction**: "Parameter Efficient Multimodal Transformers for Video Representation Learning", ICLR, 2021 (*Seoul National University*). [[Paper](https://openreview.net/forum?id=6UdQLhqJyFD)]
@@ -712,6 +714,7 @@ If you find this repository useful, please consider citing this list:
     * **LWM**: "World Model on Million-Length Video And Language With RingAttention", arXiv, 2024 (*Berkeley*). [[Paper](https://arxiv.org/abs/2402.08268)][[JAX](https://github.com/LargeWorldModel/LWM)][[Website](https://largeworldmodel.github.io/)]
     * **VideoPrism**: "VideoPrism: A Foundational Visual Encoder for Video Understanding", arXiv, 2024 (*Google*). [[Paper](https://arxiv.org/abs/2402.13217)]
     * **Slot-VLM**: "Slot-VLM: SlowFast Slots for Video-Language Modeling", arXiv, 2024 (*Microsoft*). [[Paper](https://arxiv.org/abs/2402.13088)]
+    * **MobileVLM-V2**: "MobileVLM V2: Faster and Stronger Baseline for Vision Language Model", arXiv, 2024 (*Meituan*). [[Paper](https://arxiv.org/abs/2402.03766)][[PyTorch](https://github.com/Meituan-AutoML/MobileVLM)]
 * 3D:
     * **CLIP<sup>2</sup>**: "CLIP<sup>2</sup>: Contrastive Language-Image-Point Pretraining from Real-World Point Cloud Data", CVPR, 2023 (*Huawei*). [[Paper](https://arxiv.org/abs/2303.12417)]
     * **3D-VLP**: "Context-aware Alignment and Mutual Masking for 3D-Language Pre-training", CVPR, 2023 (*Sichuan University*). [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Jin_Context-Aware_Alignment_and_Mutual_Masking_for_3D-Language_Pre-Training_CVPR_2023_paper.html)][[PyTorch](https://github.com/leolyj/3D-VLP)]
@@ -1210,6 +1213,7 @@ If you find this repository useful, please consider citing this list:
     * **AdaLink**: "Non-Intrusive Adaptation: Input-Centric Parameter-efficient Fine-Tuning for Versatile Multimodal Modeling", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2310.12100)]
     * **LM4Visual**: "Frozen Transformers in Language Models Are Effective Visual Encoder Layers", arXiv, 2023 (*UIUC*). [[Paper](https://arxiv.org/abs/2310.12973)][[PyTorch (in construction)](https://github.com/ziqipang/LM4VisualEncoding)]
     * **Octavius**: "Octavius: Mitigating Task Interference in MLLMs via MoE", arXiv, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2311.02684)]
+    * **GDA**: "A Hard-to-Beat Baseline for Training-free CLIP-based Adaptation", ICLR, 2024 (*CAS*). [[Paper](https://arxiv.org/abs/2402.04087)][[PyTorch](https://github.com/mrflogs/ICLR24)]
     * **LLaVA-MoLE**: "LLaVA-MoLE: Sparse Mixture of LoRA Experts for Mitigating Data Conflicts in Instruction Finetuning MLLMs", arXiv, 2024 (*Meituan*). [[Paper](https://arxiv.org/abs/2401.16160)]
     * **?**: "Routers in Vision Mixture of Experts: An Empirical Study", arXiv, 2024 (*DeepMind*). [[Paper](https://arxiv.org/abs/2401.15969)]
     * **MoE-LLaVA**: "MoE-LLaVA: Mixture of Experts for Large Vision-Language Models", arXiv, 2024 (*Peking*). [[Paper](https://arxiv.org/abs/2401.15947)][[PyTorch](https://github.com/PKU-YuanGroup/MoE-LLaVA)]
@@ -1654,11 +1658,13 @@ If you find this repository useful, please consider citing this list:
     * **LVChat**: "LVCHAT: Facilitating Long Video Comprehension", arXiv, 2024 (*UCSD*). [[Paper](https://arxiv.org/abs/2402.12079)][[PyTorch](https://github.com/wangyu-ustc/LVChat)]
     * **Momentor**: "Momentor: Advancing Video Large Language Model with Fine-Grained Temporal Reasoning", arXiv, 2024 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2402.11435)][[Code (in construction)](https://github.com/DCDmllm/Momentor)]
     * **IVA**: "LLMs Meet Long Video: Advancing Long Video Comprehension with An Interactive Visual Adapter in LLMs", arXiv, 2024 (*Harbin Institute of Technology*). [[Paper](https://arxiv.org/abs/2402.13546)]
+    * **VLM-RLAIF**: "Tuning Large Multimodal Models for Videos using Reinforcement Learning from AI Feedback", arXiv, 2024 (*Yonsei*). [[Paper](https://arxiv.org/abs/2402.03746)]
 * Conversation (3D):
     * **3D-LLM**: "3D-LLM: Injecting the 3D World into Large Language Models", NeurIPS, 2023 (*UCLA*). [[Paper](https://arxiv.org/abs/2307.12981)][[PyTorch](https://github.com/UMass-Foundation-Model/3D-LLM)][[Website](https://vis-www.cs.umass.edu/3dllm/)]
     * **Chat-3D**: "Chat-3D: Data-efficiently Tuning Large Language Model for Universal Dialogue of 3D Scenes", arXiv, 2023 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2308.08769)][[PyTorch](https://github.com/Chat-3D/Chat-3D)][[Website](https://chat-3d.github.io/)]
     * **Chat-3D-v2**: "Chat-3D v2: Bridging 3D Scene and Large Language Models with Object Identifiers", arXiv, 2023 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2312.08168)][[Code (in construction)](https://github.com/Chat-3D/Chat-3D-v2)]
     * **LiDAR-LLM**: "LiDAR-LLM: Exploring the Potential of Large Language Models for 3D LiDAR Understanding", arXiv, 2023 (*Peking*). [[Paper](https://arxiv.org/abs/2312.14074)][[Code (in construction)](https://github.com/Yangsenqiao/LiDAR-LLM)][[Website](https://sites.google.com/view/lidar-llm)]
+    * **Uni3D-LLM**: "Uni3D-LLM: Unifying Point Cloud Perception, Generation and Editing with Large Language Models", arXiv, 2024 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2402.03327)]
 * Conversation (Multi):
     * **AnyMAL**: "AnyMAL: An Efficient and Scalable Any-Modality Augmented Language Model", arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2309.16058)]
     * **OneLLM**: "OneLLM: One Framework to Align All Modalities with Language", arXiv, 2023 (*CUHK + Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2312.03700)][[PyTorch](https://github.com/csuhan/OneLLM)]
