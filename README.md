@@ -1532,6 +1532,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **Grounded-SAM**: "Grounded SAM: Assembling Open-World Models for Diverse Visual Tasks", arXiv, 2024 (*IDEA*). [[Paper](https://arxiv.org/abs/2401.14159)][[PyTorch](https://github.com/IDEA-Research/Grounded-Segment-Anything)]
     * **EfficientViT-SAM**: "EfficientViT-SAM: Accelerated Segment Anything Model Without Performance Loss", arXiv, 2024 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2402.05008)][[PyTorch](https://github.com/mit-han-lab/efficientvit)]
     * **DeiSAM**: "DeiSAM: Segment Anything with Deictic Prompting", arXiv, 2024 (*TU Darmstadt, Germany*). [[Paper](https://arxiv.org/abs/2402.14123)]
+    * **CAT-SAM**: "CAT-SAM: Conditional Tuning Network for Few-Shot Adaptation of Segmentation Anything Model", arXiv, 2024 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2402.03631)][[PyTorch (in construction)](https://github.com/weihao1115/cat-sam)][[Website](https://xiaoaoran.github.io/projects/CAT-SAM)]
 * Vision-Language:
     * **LSeg**: "Language-driven Semantic Segmentation", ICLR, 2022 (*Cornell*). [[Paper](https://arxiv.org/abs/2201.03546)][[PyTorch](https://github.com/isl-org/lang-seg)]
     * **ZegFormer**: "Decoupling Zero-Shot Semantic Segmentation", CVPR, 2022 (*Wuhan University*). [[Paper](https://arxiv.org/abs/2112.07910)][[PyTorch](https://github.com/dingjiansw101/ZegFormer)]
