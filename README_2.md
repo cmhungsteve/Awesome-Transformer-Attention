@@ -1736,6 +1736,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **GLC**: "In the Eye of Transformer: Global-Local Correlation for Egocentric Gaze Estimation", arXiv, 2022 (*Georgia Tech*). [[Paper](https://arxiv.org/abs/2208.04464)][[Website](https://bolinlai.github.io/GLC-EgoGazeEst/)]
     * **Gazeformer**: "Gazeformer: Scalable, Effective and Fast Prediction of Goal-Directed Human Attention", CVPR, 2023 (*Stony Brook*). [[Paper](https://arxiv.org/abs/2303.15274)][[PyTorch](https://github.com/cvlab-stonybrook/Gazeformer)]
     * **Sharingan**: "Sharingan: A Transformer-based Architecture for Gaze Following", arXiv, 2023 (*EPFL*). [[Paper](https://arxiv.org/abs/2310.00816)]
+    * **TransGOP**: "TransGOP: Transformer-Based Gaze Object Prediction", AAAI, 2024 (*Xi'an University of Architecture and Technology*). [[Paper](https://arxiv.org/abs/2402.13578)]
 * Geo-Localization:
     * **EgoTR**: "Cross-view Geo-localization with Evolving Transformer", arXiv, 2021 (*Shenzhen University*). [[Paper](https://arxiv.org/abs/2107.00842)]
     * **TransGeo**: "TransGeo: Transformer Is All You Need for Cross-view Image Geo-localization", CVPR, 2022 (*UCF*). [[Paper](https://arxiv.org/abs/2204.00097)][[PyTorch](https://github.com/Jeff-Zilence/TransGeo2022)]
