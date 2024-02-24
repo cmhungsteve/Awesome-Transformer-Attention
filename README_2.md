@@ -630,6 +630,7 @@ If you find this repository useful, please consider citing this list:
     * **VMT-Adapter**: "VMT-Adapter: Parameter-Efficient Transfer Learning for Multi-Task Dense", AAAI, 2024 (*Tencent*). [[Paper](https://arxiv.org/abs/2312.08733)]
     * **Dr<sup>2</sup>Net**: "Dr<sup>2</sup>Net: Dynamic Reversible Dual-Residual Networks for Memory-Efficient Finetuning", arXiv, 2024 (*KAUST*). [[Paper](https://arxiv.org/abs/2401.04105)]
     * **ViSFT**: "Supervised Fine-tuning in turn Improves Visual Foundation Models", arXiv, 2024 (*Tencent*). [[Paper](https://arxiv.org/abs/2401.10222)][[PyTorch](https://github.com/TencentARC/ViSFT)]
+    * **LAST**: "Low-rank Attention Side-Tuning for Parameter-Efficient Fine-Tuning", arXiv, 2024 (*Nanjing University*). [[Paper](https://arxiv.org/abs/2402.04009)]
 * Domain Adaptation/Domain Generalization/Federated Learning:
     * **TransDA**: "Transformer-Based Source-Free Domain Adaptation", arXiv, 2021 (*Haerbin Institute of Technology*). [[Paper](https://arxiv.org/abs/2105.14138)][[PyTorch](https://github.com/ygjwd12345/TransDA)]
     * **TVT**: "TVT: Transferable Vision Transformer for Unsupervised Domain Adaptation", arXiv, 2021 (*UT Arlington + Kuaishou*). [[Paper](https://arxiv.org/abs/2108.05988)]
@@ -762,7 +763,8 @@ If you find this repository useful, please consider citing this list:
     * **?**: "Continual Learning in Open-vocabulary Classification with Complementary Memory Systems", arXiv, 2023 (*UIUC*). [[Paper](https://arxiv.org/abs/2307.01430)]
     * **MoP-CLIP**: "MoP-CLIP: A Mixture of Prompt-Tuned CLIP Models for Domain Incremental Learning", arXiv, 2023 (*ETS Montreal, Canada*). [[Paper](https://arxiv.org/abs/2307.05707)]
     * **TiC-CLIP**: "TiC-CLIP: Continual Training of CLIP Models", arXiv, 2023 (*Apple*). [[Paper](https://arxiv.org/abs/2310.16226)]
-    * **TIER**: "Embracing Language Inclusivity and Diversity in CLIP through Continual Language Learning", AAAI, 2024 (**). [[Paper](https://arxiv.org/abs/2401.17186)]
+    * **TIER**: "Embracing Language Inclusivity and Diversity in CLIP through Continual Language Learning", AAAI, 2024 (*Peking*). [[Paper](https://arxiv.org/abs/2401.17186)][[Code (in construction)](https://github.com/yangbang18/CLFM)]
+    * **OVOR**: "OVOR: OnePrompt with Virtual Outlier Regularization for Rehearsal-Free Class-Incremental Learning", ICLR, 2024 (*JPMorgan Chase*). [[Paper](https://arxiv.org/abs/2402.04129)]
 * Long-tail/Imbalanced:
     * **BatchFormer**: "BatchFormer: Learning to Explore Sample Relationships for Robust Representation Learning", CVPR, 2022 (*The University of Sydney*). [[Paper](https://arxiv.org/abs/2203.01522)][[PyTorch](https://github.com/zhihou7/BatchFormer)]
     * **BatchFormerV2**: "BatchFormerV2: Exploring Sample Relationships for Dense Representation Learning", arXiv, 2022 (*The University of Sydney*). [[Paper](https://arxiv.org/abs/2204.01254)]
@@ -1279,6 +1281,7 @@ If you find this repository useful, please consider citing this list:
 * **A<sup>2</sup>Nav**: "A<sup>2</sup>Nav: Action-Aware Zero-Shot Robot Navigation by Exploiting Vision-and-Language Ability of Foundation Models", arXiv, 2023 (*South China University of Technology*). [[Paper](https://arxiv.org/abs/2308.07997)]
 * **LangNav**: "LangNav: Language as a Perceptual Representation for Navigation", arXiv, 2023 (*MIT*). [[Paper](https://arxiv.org/abs/2310.07889)]
 * **?**: "Multimodal Large Language Model for Visual Navigation", arXiv, 2023 (*Apple*). [[Paper](https://arxiv.org/abs/2310.08669)]
+* **VLN-Video**: "VLN-Video: Utilizing Driving Videos for Outdoor Vision-and-Language Navigation", AAAI, 2024 (*Amazon*). [[Paper](https://arxiv.org/abs/2402.03561)]
 * **MapGPT**: "MapGPT: Map-Guided Prompting for Unified Vision-and-Language Navigation", arXiv, 2024 (*HKU*). [[Paper](https://arxiv.org/abs/2401.07314)]
 
 [[Back to Overview](#overview)]
