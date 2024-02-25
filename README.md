@@ -132,6 +132,7 @@ If you find this repository useful, please consider citing this list:
 
 ## Survey
 * "A Survey on Multimodal Large Language Models for Autonomous Driving", WACVW, 2024 (*Purdue*). [[Paper](https://arxiv.org/abs/2311.12320)][[GitHub](https://github.com/IrohXu/Awesome-Multimodal-LLM-Autonomous-Driving)]
+* "Parameter-Efficient Fine-Tuning for Pre-Trained Vision Models: A Survey", arXiv, 2024 (*BIGAI*). [[Paper](https://arxiv.org/abs/2402.02242)][[GitHub](https://github.com/synbol/Awesome-Parameter-Efficient-Transfer-Learning)]
 * "Vision-Language Navigation with Embodied Intelligence: A Survey", arXiv, 2024 (*Qufu Normal University, China*). [[Paper](https://arxiv.org/abs/2402.14304)]
 * "The (R)Evolution of Multimodal Large Language Models: A Survey", arXiv, 2024 (*University of Modena and Reggio Emilia (UniMoRE), Italy*). [[Paper](https://arxiv.org/abs/2402.12451)]
 * "Masked Modeling for Self-supervised Representation Learning on Vision and Beyond", arXiv, 2024 (*Westlake University, China*). [[Paper](https://arxiv.org/abs/2401.00897)][[GitHub](https://github.com/Lupin1998/Awesome-MIM)]
@@ -1216,6 +1217,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **GenPromp**: "Generative Prompt Model for Weakly Supervised Object Localization", ICCV, 2023 (*CAS*). [[Paper](https://arxiv.org/abs/2307.09756)][[PyTorch](https://github.com/callsys/GenPromp)]
     * **SAT**: "Spatial-Aware Token for Weakly Supervised Object Localization", ICCV, 2023 (*USTC*). [[Paper](https://arxiv.org/abs/2303.10438)][[PyTorch](https://github.com/wpy1999/SAT)]
     * **ALWOD**: "ALWOD: Active Learning for Weakly-Supervised Object Detection", ICCV, 2023 (*Rutgers*). [[Paper](https://arxiv.org/abs/2309.07914)][[Code (in construction)](https://github.com/seqam-lab/ALWOD)]
+    * **HASSOD**: "HASSOD: Hierarchical Adaptive Self-Supervised Object Detection", NeurIPS, 2023 (*UIUC*). [[Paper](https://github.com/Shengcao-Cao/HASSOD)][[PyTorch](https://github.com/Shengcao-Cao/HASSOD)][[Website](https://hassod-neurips23.github.io/)]
     * **SeqCo-DETR**: "SeqCo-DETR: Sequence Consistency Training for Self-Supervised Object Detection with Transformers", arXiv, 2023 (*SenseTime*). [[Paper](https://arxiv.org/abs/2303.08481)]
     * **R-MAE**: "R-MAE: Regions Meet Masked Autoencoders", arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2306.05411)]
     * **SimDETR**: "SimDETR: Simplifying self-supervised pretraining for DETR", arXiv, 2023 (*Samsung*). [[Paper](https://arxiv.org/abs/2307.15697)]
@@ -1452,6 +1454,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **Superpixel-Association**: "Superpixel Transformers for Efficient Semantic Segmentation", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2309.16889)]
 * **PlainSeg**: "Minimalist and High-Performance Semantic Segmentation with Plain Vision Transformers", arXiv, 2023 (*Harbin Institute of Technology*). [[Paper](https://arxiv.org/abs/2310.12755)][[PyTorch](https://github.com/ydhongHIT/PlainSeg)]
 * **SCTNet**: "SCTNet: Single-Branch CNN with Transformer Semantic Information for Real-Time Segmentation", AAAI, 2024 (*Meituan*). [[Paper](https://arxiv.org/abs/2312.17071)][[Code (in construction)](https://github.com/xzz777/SCTNet)]
+* **?**: "Region-Based Representations Revisited", arXiv, 2024 (*UIUC*). [[Paper](https://arxiv.org/abs/2402.02352)]
 
 [[Back to Overview](#overview)]
 
@@ -2227,6 +2230,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **AP-CLIP**: "Generating Action-conditioned Prompts for Open-vocabulary Video Action Recognition", arXiv, 2023 (*Xi'an Jiaotong*). [[Paper](https://arxiv.org/abs/2312.02226)]
     * **EZ-CLIP**: "EZ-CLIP: Efficient Zeroshot Video Action Recognition", arXiv, 2023 (*Østfold University College, Norway*). [[Paper](https://arxiv.org/abs/2312.08010)][[PyTorch (in construction)](https://github.com/Shahzadnit/EZ-CLIP)]
     * **M<sup>2</sup>-CLIP**: "M<sup>2</sup>-CLIP: A Multimodal, Multi-task Adapting Framework for Video Action Recognition", AAAI, 2024 (*Zhejiang*). [[Paper](https://arxiv.org/abs/2401.11649)]
+    * **FROSTER**: "FROSTER: Frozen CLIP Is A Strong Teacher for Open-Vocabulary Action Recognition", ICLR, 2024 (*Baidu*). [[Paper](https://arxiv.org/abs/2402.03241)][[PyTorch](https://github.com/Visual-AI/FROSTER)][[Website](https://visual-ai.github.io/froster/)]
     * **BriVIS**: "Instance Brownian Bridge as Texts for Open-vocabulary Video Instance Segmentation", arXiv, 2024 (*Peking*). [[Paper](https://arxiv.org/abs/2401.09732)][[PyTorch (in construction)](https://github.com/sennnnn/OpenVIS)]
     * **ActionHub**: "ActionHub: A Large-scale Action Video Description Dataset for Zero-shot Action Recognition", arXiv, 2024 (*Sun Yat-sen University*). [[Paper](https://arxiv.org/abs/2401.11654)]
     * **ZERO**: "Zero Shot Open-ended Video Inference", arXiv, 2024 (*A\*STAR*). [[Paper](https://arxiv.org/abs/2401.12471)]
