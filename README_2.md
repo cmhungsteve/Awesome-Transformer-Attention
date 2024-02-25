@@ -628,9 +628,11 @@ If you find this repository useful, please consider citing this list:
     * **GIFT**: "GIFT: Generative Interpretable Fine-Tuning Transformers", arXiv, 2023 (*NC State*). [[Paper](https://arxiv.org/abs/2312.00700)][[Code (in construction)](https://github.com/savadikarc/gift)]
     * **FAPFT**: "Partial Fine-Tuning: A Successor to Full Fine-Tuning for Vision Transformers", arXiv, 2023 (*Fudan*). [[Paper](https://arxiv.org/abs/2312.15681)]
     * **VMT-Adapter**: "VMT-Adapter: Parameter-Efficient Transfer Learning for Multi-Task Dense", AAAI, 2024 (*Tencent*). [[Paper](https://arxiv.org/abs/2312.08733)]
+    * **VPTSP**: "Learning Semantic Proxies from Visual Prompts for Parameter-Efficient Fine-Tuning in Deep Metric Learning", ICLR, 2024 (*UCF*). [[Paper](https://arxiv.org/abs/2402.02340)][[Code (in construction)](https://github.com/Noahsark/ParameterEfficient-DML)]
     * **Dr<sup>2</sup>Net**: "Dr<sup>2</sup>Net: Dynamic Reversible Dual-Residual Networks for Memory-Efficient Finetuning", arXiv, 2024 (*KAUST*). [[Paper](https://arxiv.org/abs/2401.04105)]
     * **ViSFT**: "Supervised Fine-tuning in turn Improves Visual Foundation Models", arXiv, 2024 (*Tencent*). [[Paper](https://arxiv.org/abs/2401.10222)][[PyTorch](https://github.com/TencentARC/ViSFT)]
     * **LAST**: "Low-rank Attention Side-Tuning for Parameter-Efficient Fine-Tuning", arXiv, 2024 (*Nanjing University*). [[Paper](https://arxiv.org/abs/2402.04009)]
+    * **LoSA**: "Time-, Memory- and Parameter-Efficient Visual Adaptation", arXiv, 2024 (*Google*). [[Paper](https://arxiv.org/abs/2402.02887)]
 * Domain Adaptation/Domain Generalization/Federated Learning:
     * **TransDA**: "Transformer-Based Source-Free Domain Adaptation", arXiv, 2021 (*Haerbin Institute of Technology*). [[Paper](https://arxiv.org/abs/2105.14138)][[PyTorch](https://github.com/ygjwd12345/TransDA)]
     * **TVT**: "TVT: Transferable Vision Transformer for Unsupervised Domain Adaptation", arXiv, 2021 (*UT Arlington + Kuaishou*). [[Paper](https://arxiv.org/abs/2108.05988)]
@@ -1217,6 +1219,7 @@ If you find this repository useful, please consider citing this list:
     * **M2T**: "M2T: Masking Transformers Twice for Faster Decoding", ICCV, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2304.07313)]
     * **CTM**: "Unfolding Framework with Prior of Convolution-Transformer Mixture and Uncertainty Estimation for Video Snapshot Compressive Imaging", ICCV, 2023 (*CAS*). [[Paper](https://arxiv.org/abs/2306.11316)]
     * **PromptGIP**: "Unifying Image Processing as Visual Prompting Question Answering", arXiv, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2310.10513)]
+    * **FILM**: "Image Fusion via Vision-Language Model", arXiv, 2024 (*Xi'an Jiaotong University*). [[Paper](https://arxiv.org/abs/2402.02235)]
 
 [[Back to Overview](#overview)]
 
@@ -1283,6 +1286,7 @@ If you find this repository useful, please consider citing this list:
 * **?**: "Multimodal Large Language Model for Visual Navigation", arXiv, 2023 (*Apple*). [[Paper](https://arxiv.org/abs/2310.08669)]
 * **VLN-Video**: "VLN-Video: Utilizing Driving Videos for Outdoor Vision-and-Language Navigation", AAAI, 2024 (*Amazon*). [[Paper](https://arxiv.org/abs/2402.03561)]
 * **MapGPT**: "MapGPT: Map-Guided Prompting for Unified Vision-and-Language Navigation", arXiv, 2024 (*HKU*). [[Paper](https://arxiv.org/abs/2401.07314)]
+* **V-IRL**: "V-IRL: Grounding Virtual Intelligence in Real Life", arXiv, 2024 (*NYU*). [[Paper](https://arxiv.org/abs/2402.03310)][[PyTorch (in construction)](https://github.com/VIRL-Platform/VIRL)][[Website](https://virl-platform.github.io/)]
 
 [[Back to Overview](#overview)]
 
