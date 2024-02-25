@@ -643,6 +643,7 @@ If you find this repository useful, please consider citing this list:
     * **PALO**: "PALO: A Polyglot Large Multimodal Model for 5B People", arXiv, 2024 (*MBZUAI*). [[Paper](https://arxiv.org/abs/2402.14818)][[Code (in construction)](https://github.com/mbzuai-oryx/PALO)]
     * **CogCoM**: "CogCoM: Train Large Vision-Language Models Diving into Details through Chain of Manipulations", arXiv, 2024 (*Zhipu AI, China*). [[Paper](https://arxiv.org/abs/2402.04236)][[PyTorch](https://github.com/THUDM/CogCoM)]
     * **EVA-CLIP-18B**: "EVA-CLIP-18B: Scaling CLIP to 18 Billion Parameters", arXiv, 2024 (*BAAI*). [[Paper](https://arxiv.org/abs/2402.04252)][[PyTorch](https://github.com/baaivision/EVA/tree/master/EVA-CLIP-18B)]
+    * **SynthCLIP**: "SynthCLIP: Are We Ready for a Fully Synthetic CLIP Training?", arXiv, 2024 (*KAUST*). [[Paper](https://arxiv.org/abs/2402.01832)][[PyTorch](https://github.com/hammoudhasan/SynthCLIP)]
 * Video:
     * **COOT**: "COOT: Cooperative Hierarchical Transformer for Video-Text Representation Learning", NeurIPS, 2020 (*University of Freiburg*). [[Paper](https://arxiv.org/abs/2011.00597)][[PyTorch](https://github.com/gingsi/coot-videotext)]
     * **Parameter-Reduction**: "Parameter Efficient Multimodal Transformers for Video Representation Learning", ICLR, 2021 (*Seoul National University*). [[Paper](https://openreview.net/forum?id=6UdQLhqJyFD)]
@@ -1148,6 +1149,7 @@ If you find this repository useful, please consider citing this list:
 * **?**: "Facing the Elephant in the Room: Visual Prompt Tuning or Full Finetuning?", ICLR, 2024 (*Rochester Institute of Technology*). [[Paper](https://arxiv.org/abs/2401.12902)]
 * **ProText**: "Learning to Prompt with Text Only Supervision for Vision-Language Models", arXiv, 2024 (*MBZUAI*). [[Paper](https://arxiv.org/abs/2401.02418)][[PyTorch](https://github.com/muzairkhattak/ProText)][[Website](https://muzairkhattak.github.io/ProText/)]
 * **Any-shift**: "Any-Shift Prompting for Generalization over Distributions", arXiv, 2024 (*UvA*). [[Paper](https://arxiv.org/abs/2402.10099)]
+* **SPT**: "Revisiting the Power of Prompt for Visual Tuning", arXiv, 2024 (*Hefei University of Technology*). [[Paper](https://arxiv.org/abs/2402.02382)][[PyTorch](https://github.com/WangYZ1608/Self-Prompt-Tuning)]
 
 [[Back to Overview](#overview)]
 
@@ -1312,6 +1314,8 @@ If you find this repository useful, please consider citing this list:
     * **MUTR**: "Referred by Multi-Modality: A Unified Temporal Transformer for Video Object Segmentation", AAAI, 2024 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2305.16318)][[PyTorch](https://github.com/OpenGVLab/MUTR)]
 * Referring 3D Segmentation:
     * **3D-STMN**: "3D-STMN: Dependency-Driven Superpoint-Text Matching Network for End-to-End 3D Referring Expression Segmentation", arXiv, 2023 (*Xiamen University*). [[Paper](https://arxiv.org/abs/2308.16632)][[PyTorch](https://github.com/sosppxo/3D-STMN)]
+* Narrative Grounding:
+    * **GELLA**: "Generalizable Entity Grounding via Assistance of Large Language Model", arXiv, 2024 (*UC Merced*). [[Paper](https://arxiv.org/abs/2402.02555)] 
 * Tracking:
     * **ModaMixer**: "Divert More Attention to Vision-Language Tracking", NeurIPS, 2022 (*Beijing Jiaotong University*). [[Paper](https://arxiv.org/abs/2207.01076)][[PyTorch](https://github.com/JudasDie/SOTS)]
     * **TransRMOT**: "Referring Multi-Object Tracking", CVPR, 2023 (*Megvii*). [[Paper](https://arxiv.org/abs/2303.03366)][[PyTorch](https://github.com/wudongming97/RMOT)][[Website](https://referringmot.github.io/)]
@@ -1339,6 +1343,7 @@ If you find this repository useful, please consider citing this list:
     * **vit-interpret**: "Interpreting and Controlling Vision Foundation Models via Text Explanations", arXiv, 2023 (*Columbia*). [[Paper](https://arxiv.org/abs/2310.10591)][[PyTorch](https://github.com/tonychenxyz/vit-interpret)]
     * **MMVP**: "Eyes Wide Shut? Exploring the Visual Shortcomings of Multimodal LLMs", arXiv, 2024 (*NYU*). [[Paper](https://arxiv.org/abs/2401.06209)][[PyTorch](https://github.com/tsb0601/MMVP)][[Website](https://tsb0601.github.io/mmvp_blog/)]
     * **?**: "Exploring Perceptual Limitation of Multimodal Large Language Models", arXiv, 2024 (*USC*). [[Paper](https://arxiv.org/abs/2402.07384)][[PyTorch](https://github.com/saccharomycetes/mllm-perceptual-limitation)]
+    * **DejaVu-Momerization**: "Déjà Vu Memorization in Vision-Language Models", arXiv, 2024 (*Meta*). [[Paper](https://arxiv.org/abs/2402.02103)]
 * Speaker Localization:
     * **?**: "The Right to Talk: An Audio-Visual Transformer Approach", ICCV, 2021 (*University of Arkansas*). [[Paper](https://arxiv.org/abs/2108.03256)]
 * Multi-task:
@@ -1659,6 +1664,7 @@ If you find this repository useful, please consider citing this list:
     * **Momentor**: "Momentor: Advancing Video Large Language Model with Fine-Grained Temporal Reasoning", arXiv, 2024 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2402.11435)][[Code (in construction)](https://github.com/DCDmllm/Momentor)]
     * **IVA**: "LLMs Meet Long Video: Advancing Long Video Comprehension with An Interactive Visual Adapter in LLMs", arXiv, 2024 (*Harbin Institute of Technology*). [[Paper](https://arxiv.org/abs/2402.13546)]
     * **VLM-RLAIF**: "Tuning Large Multimodal Models for Videos using Reinforcement Learning from AI Feedback", arXiv, 2024 (*Yonsei*). [[Paper](https://arxiv.org/abs/2402.03746)]
+    * **Video-LaVIT**: "Video-LaVIT: Unified Video-Language Pre-training with Decoupled Visual-Motional Tokenization", arXiv, 2024 (*Kuaishou*). [[Paper](https://arxiv.org/abs/2402.03161)][[PyTorch](https://github.com/jy0205/LaVIT)][[Website](https://video-lavit.github.io/)]
 * Conversation (3D):
     * **3D-LLM**: "3D-LLM: Injecting the 3D World into Large Language Models", NeurIPS, 2023 (*UCLA*). [[Paper](https://arxiv.org/abs/2307.12981)][[PyTorch](https://github.com/UMass-Foundation-Model/3D-LLM)][[Website](https://vis-www.cs.umass.edu/3dllm/)]
     * **Chat-3D**: "Chat-3D: Data-efficiently Tuning Large Language Model for Universal Dialogue of 3D Scenes", arXiv, 2023 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2308.08769)][[PyTorch](https://github.com/Chat-3D/Chat-3D)][[Website](https://chat-3d.github.io/)]
