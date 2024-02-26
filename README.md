@@ -132,6 +132,7 @@ If you find this repository useful, please consider citing this list:
 
 ## Survey
 * "A Survey on Multimodal Large Language Models for Autonomous Driving", WACVW, 2024 (*Purdue*). [[Paper](https://arxiv.org/abs/2311.12320)][[GitHub](https://github.com/IrohXu/Awesome-Multimodal-LLM-Autonomous-Driving)]
+* "Large Multimodal Agents: A Survey", arXiv, 2024 (*CUHK*). [[Paper](https://arxiv.org/abs/2402.15116)][[GitHub](https://github.com/jun0wanan/awesome-large-multimodal-agents)]
 * "Parameter-Efficient Fine-Tuning for Pre-Trained Vision Models: A Survey", arXiv, 2024 (*BIGAI*). [[Paper](https://arxiv.org/abs/2402.02242)][[GitHub](https://github.com/synbol/Awesome-Parameter-Efficient-Transfer-Learning)]
 * "Vision-Language Navigation with Embodied Intelligence: A Survey", arXiv, 2024 (*Qufu Normal University, China*). [[Paper](https://arxiv.org/abs/2402.14304)]
 * "The (R)Evolution of Multimodal Large Language Models: A Survey", arXiv, 2024 (*University of Modena and Reggio Emilia (UniMoRE), Italy*). [[Paper](https://arxiv.org/abs/2402.12451)]
