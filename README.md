@@ -2157,6 +2157,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **Video-kMaX**: "Video-kMaX: A Simple Unified Approach for Online and Near-Online Video Panoptic Segmentation", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2304.04694)]
     * **SAM-PT**: "Segment Anything Meets Point Tracking", arXiv, 2023 (*ETHZ*). [[Paper](https://arxiv.org/abs/2307.01197)][[Code (in construction)](https://github.com/SysCV/sam-pt)]
     * **TTT-MAE**: "Test-Time Training on Video Streams", arXiv, 2023 (*Berkeley*). [[Paper](https://arxiv.org/abs/2307.05014)][[Website](https://video-ttt.github.io/)]
+    * **DVIS++**: "DVIS++: Improved Decoupled Framework for Universal Video Segmentation", arXiv, 2024 (*Wuhan University*). [[Paper](https://arxiv.org/abs/2312.13305)][[PyTorch](https://github.com/zhang-tao-whu/DVIS_Plus)]
 * Video Object Detection:
     * **TransVOD**: "End-to-End Video Object Detection with Spatial-Temporal Transformers", arXiv, 2021 (*Shanghai Jiao Tong + SenseTime*). [[Paper](https://arxiv.org/abs/2105.10920)][[Code (in construction)](https://github.com/SJTU-LuHe/TransVOD)]
     * **MODETR**: "MODETR: Moving Object Detection with Transformers", arXiv, 2021 (*Valeo, Egypt*). [[Paper](https://arxiv.org/abs/2106.11422)]
