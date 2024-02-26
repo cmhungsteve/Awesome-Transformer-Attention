@@ -644,6 +644,7 @@ If you find this repository useful, please consider citing this list:
     * **CogCoM**: "CogCoM: Train Large Vision-Language Models Diving into Details through Chain of Manipulations", arXiv, 2024 (*Zhipu AI, China*). [[Paper](https://arxiv.org/abs/2402.04236)][[PyTorch](https://github.com/THUDM/CogCoM)]
     * **EVA-CLIP-18B**: "EVA-CLIP-18B: Scaling CLIP to 18 Billion Parameters", arXiv, 2024 (*BAAI*). [[Paper](https://arxiv.org/abs/2402.04252)][[PyTorch](https://github.com/baaivision/EVA/tree/master/EVA-CLIP-18B)]
     * **SynthCLIP**: "SynthCLIP: Are We Ready for a Fully Synthetic CLIP Training?", arXiv, 2024 (*KAUST*). [[Paper](https://arxiv.org/abs/2402.01832)][[PyTorch](https://github.com/hammoudhasan/SynthCLIP)]
+    * **CloVe**: "CLoVe: Encoding Compositional Language in Contrastive Vision-Language Models", arXiv, 2024 (*Netflix*). [[Paper](https://arxiv.org/abs/2402.15021)]
 * Video:
     * **COOT**: "COOT: Cooperative Hierarchical Transformer for Video-Text Representation Learning", NeurIPS, 2020 (*University of Freiburg*). [[Paper](https://arxiv.org/abs/2011.00597)][[PyTorch](https://github.com/gingsi/coot-videotext)]
     * **Parameter-Reduction**: "Parameter Efficient Multimodal Transformers for Video Representation Learning", ICLR, 2021 (*Seoul National University*). [[Paper](https://openreview.net/forum?id=6UdQLhqJyFD)]
@@ -974,6 +975,7 @@ If you find this repository useful, please consider citing this list:
     * **FiT**: "FiT: Flexible Vision Transformer for Diffusion Model", arXiv, 2024 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2402.12376)][[PyTorch (in construction)](https://github.com/whlzy/FiT)]
     * **SDXL-Lightning**: "SDXL-Lightning: Progressive Adversarial Diffusion Distillation", arXiv, 2024 (*ByteDance*). [[Paper](https://arxiv.org/abs/2402.13929)]
     * **CG**: "Contrastive Prompts Improve Disentanglement in Text-to-Image Diffusion Models", arXiv, 2024 (*CMU*). [[Paper](https://arxiv.org/abs/2402.13490)]
+    * **Gen4Gen**: "Gen4Gen: Generative Data Pipeline for Generative Multi-Concept Composition", arXiv, 2024 (*Berkeley*). [[Paper](https://arxiv.org/abs/2402.15504)][[Code (in construction)](https://github.com/louisYen/Gen4Gen)][[Website](https://danielchyeh.github.io/Gen4Gen/)]
 * Video:
     * **Imagen-Video**: "Imagen Video: High Definition Video Generation with Diffusion Models", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2210.02303)][[Website](https://imagen.research.google/video/)]
     * **Phenaki**: "Phenaki: Variable Length Video Generation From Open Domain Textual Description", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2210.02399)][[PyTorch (LAION-AI, in construction)](https://github.com/LAION-AI/phenaki)][[Website](https://phenaki.video/)]
@@ -1457,6 +1459,7 @@ If you find this repository useful, please consider citing this list:
     * **PLA**: "Language-driven Open-Vocabulary 3D Scene Understanding", CVPR, 2023 (*ByteDance*). [[Paper](https://arxiv.org/abs/2211.16312)][[PyTorch](https://github.com/CVMI-Lab/PLA)][[Website](https://dingry.github.io/projects/PLA)]
     * **3D-Highlighter**: "3D Highlighter: Localizing Regions on 3D Shapes via Text Descriptions", CVPR, 2023 (*University of Chicago*). [[Paper](https://arxiv.org/abs/2212.11263)][[PyTorch](https://github.com/threedle/3DHighlighter)][[Website](https://threedle.github.io/3DHighlighter/)]
     * **CLIP-FO3D**: "CLIP-FO3D: Learning Free Open-world 3D Scene Representations from 2D Dense CLIP", ICCVW, 2023 (*Tsinghua University*). [[Paper](https://arxiv.org/abs/2303.04748)]
+    * **OpenSUN3D**: "OpenSUN3D: 1st Workshop Challenge on Open-Vocabulary 3D Scene Understanding", ICCVW, 2023 (*ETHZ*). [[Paper](https://arxiv.org/abs/2402.15321)][[Website](https://opensun3d.github.io/index_iccv23.html)]
     * **OVSG**: "Context-Aware Entity Grounding with Open-Vocabulary 3D Scene Graphs", CoRL, 2023 (*Rutgers*). [[Paper](https://arxiv.org/abs/2309.15940)][[PyTorch](https://github.com/changhaonan/OVSG)]
     * **OVIR-3D**: "OVIR-3D: Open-Vocabulary 3D Instance Retrieval Without Training on 3D Data", CoRL, 2023 (*Rutgers*). [[Paper](https://arxiv.org/abs/2311.02873)][[PyTorch](https://github.com/shiyoung77/OVIR-3D)]
     * **3D-OVS**: "Weakly Supervised 3D Open-vocabulary Segmentation", NeurIPS, 2023 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2305.14093)][[PyTorch](https://github.com/Kunhao-Liu/3D-OVS)]
