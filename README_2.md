@@ -267,6 +267,7 @@ If you find this repository useful, please consider citing this list:
     * **PoseGPT**: "PoseGPT: Chatting about 3D Human Pose", arXiv, 2023 (*MPI*). [[Paper](https://arxiv.org/abs/2311.18836)][[Code (in construction)](https://github.com/yfeng95/PoseGPT)][[Website](https://yfeng95.github.io/posegpt/)]
     * **TEMP3D**: "TEMP3D: Temporally Continuous 3D Human Pose Estimation Under Occlusions", arXiv, 2023 (*UC Riverside*). [[Paper](https://arxiv.org/abs/2312.16221)][[Website](https://sites.google.com/ucr.edu/temp3d)]
     * **VLPose**: "VLPose: Bridging the Domain Gap in Pose Estimation with Language-Vision Tuning", arXiv, 2024 (*CUHK*). [[Paper](https://arxiv.org/abs/2402.14456)]
+    * **?**: "Multi-Human Mesh Recovery with Transformers", arXiv, 2024 (*Stanford*). [[Paper](https://arxiv.org/abs/2402.16806)]
 * Hands:
     * **Hand-Transformer**: "Hand-Transformer: Non-Autoregressive Structured Modeling for 3D Hand Pose Estimation", ECCV, 2020 (*Kwai*). [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/4836_ECCV_2020_paper.php)]
     * **SCAT**: "SCAT: Stride Consistency With Auto-Regressive Regressor and Transformer for Hand Pose Estimation", ICCVW, 2021 (*Alibaba*). [[Paper](https://openaccess.thecvf.com/content/ICCV2021W/SoMoF/html/Gao_SCAT_Stride_Consistency_With_Auto-Regressive_Regressor_and_Transformer_for_Hand_ICCVW_2021_paper.html)]
@@ -1733,6 +1734,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **MP-FGVC**: "Delving into Multimodal Prompting for Fine-grained Visual Classification", arXiv, 2023 (*Nanjing University of Science and Technology*). [[Paper](https://arxiv.org/abs/2309.08912)]
     * **HGCLIP**: "HGCLIP: Exploring Vision-Language Models with Graph Representations for Hierarchical Understanding", arXiv, 2023 (*Monash*). [[Paper](https://arxiv.org/abs/2311.14064)][[PyTorch](https://github.com/richard-peng-xia/HGCLIP)]
     * **FineR**: "Democratizing Fine-grained Visual Recognition with Large Language Models", ICLR, 2024 (*University of Trento*). [[Paper](https://arxiv.org/abs/2401.13837)][[Code (in construction)](https://github.com/OatmealLiu/FineR)][[Website](https://projfiner.github.io/)]
+    * **Finer**: "Finer: Investigating and Enhancing Fine-Grained Visual Concept Recognition in Large Vision Language Models", arXiv, 2024 (*UIUC*). [[Paper](https://arxiv.org/abs/2402.16315)]
 * Gait:
     * **Gait-TR**: "Spatial Transformer Network on Skeleton-based Gait Recognition", arXiv, 2022 (*South China University of Technology*). [[Paper](https://arxiv.org/abs/2204.03873)]
     * **MMGaitFormer**: "Multi-Modal Gait Recognition via Effective Spatial-Temporal Feature Fusion", CVPR, 2023 (*Beihang University*). [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Cui_Multi-Modal_Gait_Recognition_via_Effective_Spatial-Temporal_Feature_Fusion_CVPR_2023_paper.html)]
@@ -2050,6 +2052,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **LoDa**: "Local Distortion Aware Efficient Transformer Adaptation for Image Quality Assessment", arXiv, 2023 (*Wuhan University*). [[Paper](https://arxiv.org/abs/2308.12001)]
     * **Q-Align**: "Q-Align: Teaching LMMs for Visual Scoring via Discrete Text-Defined Levels", arXiv, 2023 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2312.17090)][[PyTorch](https://github.com/Q-Future/Q-Align)][[Website](https://q-align.github.io/)]
     * **SAMA**: "Scaling and Masking: A New Paradigm of Data Sampling for Image and Video Quality Assessment", AAAI, 2024 (*Xidian University*). [[Paper](https://arxiv.org/abs/2401.02614)][[PyTorch](https://github.com/Sissuire/SAMA)]
+    * **Co-Instruct**: "Towards Open-ended Visual Quality Comparison", arXiv, 2024 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2402.16641)][[Model](https://huggingface.co/q-future/co-instruct)]
 * Visual Reasoning:
     * **SAViR-T**: "SAViR-T: Spatially Attentive Visual Reasoning with Transformers", arXiv, 2022 (*Rutgers University*). [[Paper](https://arxiv.org/abs/2206.09265)]
 * Wide-angle lenses:
