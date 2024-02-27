@@ -296,11 +296,13 @@ If you find this repository useful, please consider citing this list:
     * **Sports-QA**: "Sports-QA: A Large-Scale Video Question Answering Benchmark for Complex and Professional Sports", arXiv, 2024 (*University of Melbourne*). [[Paper](https://arxiv.org/abs/2401.01505)]
     * **DoraemonGPT**: "DoraemonGPT: Toward Understanding Dynamic Scenes with Large Language Models", arXiv, 2024 (*Zhejiang*). [[Paper](https://arxiv.org/abs/2401.08392)][[Code (in construction)](https://github.com/z-x-yang/DoraemonGPT)]
     * **Q-ViD**: "Question-Instructed Visual Descriptions for Zero-Shot Video Question Answering", arXiv, 2024 (*MBZUAI*). [[Paper](https://arxiv.org/abs/2402.10698)]
+    * **LSTP**: "LSTP: Language-guided Spatial-Temporal Prompt Learning for Long-form Video-Text Understanding", arXiv, 2024 (*BIGAI*). [[Paper](https://arxiv.org/abs/2402.16050)][[PyTorch](https://github.com/bigai-nlco/LSTP-Chat)]
 * 3D:
     * **3D-VQA**: "CLIP-Guided Vision-Language Pre-training for Question Answering in 3D Scenes", CVPRW, 2023 (*ETHZ*). [[Paper](https://arxiv.org/abs/2304.06061)][[Code (in construction)](https://github.com/AlexDelitzas/3D-VQA)]
     * **PO3D-VQA**: "3D-Aware Visual Question Answering about Parts, Poses and Occlusions", NeurIPS, 2023 (*JHU*). [[Paper](https://arxiv.org/abs/2310.17914)][[Code (in construction)](https://github.com/XingruiWang/3D-Aware-VQA)]
     * **Multi-CLIP**: "Multi-CLIP: Contrastive Vision-Language Pre-training for Question Answering tasks in 3D Scenes", arXiv, 2023 (*ETHZ*). [[Paper](https://arxiv.org/abs/2306.02329)]
     * **Gen3DQA**: "Generating Context-Aware Natural Answers for Questions in 3D Scenes", arXiv, 2023 (*TUM*). [[Paper](https://arxiv.org/abs/2310.19516)][[Code (in construction)](https://github.com/MunzerDw/Gen3DQA)]
+    * **BridgeQA**: "Bridging the Gap between 2D and 3D Visual Question Answering: A Fusion Approach for 3D VQA", AAAI, 2024 (*Peking*). [[Paper](https://arxiv.org/abs/2402.15933)][[PyTorch](https://github.com/matthewdm0816/BridgeQA)]
 * Audio-Visual:
     * **PSTP-Net**: "Progressive Spatio-temporal Perception for Audio-Visual Question Answering", ACMMM, 2023 (*Renmin University of China*). [[Paper](https://arxiv.org/abs/2308.05421)][[PyTorch](https://github.com/GeWu-Lab/PSTP-Net)]
 
@@ -1451,6 +1453,7 @@ If you find this repository useful, please consider citing this list:
     * **GPT4Point**: "GPT4Point: A Unified Framework for Point-Language Understanding and Generation", arXiv, 2023 (*HKU*). [[Paper](https://arxiv.org/abs/2312.02980)][[PyTorch](https://github.com/Pointcept/PointBLIP)][[Website](https://gpt4point.github.io/)]
     * **LangSplat**: "LangSplat: 3D Language Gaussian Splatting", arXiv, 2023 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2312.16084)][[PyTorch](https://github.com/minghanqin/LangSplat)][[Website](https://langsplat.github.io/)]
     * **Open-NeRF**: "Open-NeRF: Towards Open Vocabulary NeRF Decomposition", WACV, 2024 (*UIUC*). [[Paper](https://arxiv.org/abs/2310.16383)]
+    * **PPT**: "Parameter-efficient Prompt Learning for 3D Point Cloud Understanding", ICRA, 2024 (*Renmin University of China*). [[Paper](https://arxiv.org/abs/2402.15823)][[PyTorch](https://github.com/auniquesun/PPT)]
     * **FMGS**: "FMGS: Foundation Model Embedded 3D Gaussian Splatting for Holistic 3D Scene Understanding", arXiv, 2024 (*Google*). [[Paper](https://arxiv.org/abs/2401.01970)]
 * 3D Segmentation:
     * **OpenScene**: "OpenScene: 3D Scene Understanding with Open Vocabularies", CVPR, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2211.15654)][[PyTorch](https://github.com/pengsongyou/openscene)][[Website](https://pengsongyou.github.io/openscene)]
