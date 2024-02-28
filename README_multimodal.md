@@ -1079,7 +1079,7 @@ If you find this repository useful, please consider citing this list:
 * **TaskRes**: "Task Residual for Tuning Vision-Language Models", CVPR, 2023 (*NUS*). [[Paper](https://arxiv.org/abs/2211.10277)][[PyTorch](https://github.com/geekyutao/TaskRes)]
 * **LASP**: "Language-Aware Soft Prompting for Vision & Language Foundation Models", CVPR, 2023 (*Samsung*). [[Paper](https://arxiv.org/abs/2210.01115)][[Website](https://www.adrianbulat.com/lasp)]
 * **POUF**: "POUF: Prompt-oriented unsupervised fine-tuning for large pre-trained models", ICML, 2023 (*UT Austin*). [[Paper](https://arxiv.org/abs/2305.00350)][[PyTorch](https://github.com/korawat-tanwisuth/POUF)]
-* **?**: "Improving Visual Prompt Tuning for Self-supervised Vision Transformers", ICML, 2023 (*SNU*). [[Paper](https://arxiv.org/abs/2306.05067)][[PyTorch](https://github.com/ryongithub/GatedPromptTuning)]
+* **GaPT**: "Improving Visual Prompt Tuning for Self-supervised Vision Transformers", ICML, 2023 (*SNU*). [[Paper](https://arxiv.org/abs/2306.05067)][[PyTorch](https://github.com/ryongithub/GatedPromptTuning)]
 * **ZPE**: "A Simple Zero-shot Prompt Weighting Technique to Improve Prompt Ensembling in Text-Image Models", ICML, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2302.06235)]
 * **CMPA**: "Deeply Coupled Cross-Modal Prompt Learning", ACL Findings, 2023 (*SenseTime*). [[Paper](https://arxiv.org/abs/2305.17903)]
 * **PromptSRC**: "Self-regulating Prompts: Foundational Model Adaptation without Forgetting", ICCV, 2023 (*MBZUAI*). [[Paper](https://arxiv.org/abs/2307.06948)][[PyTorch](https://github.com/muzairkhattak/PromptSRC)][[Website](https://muzairkhattak.github.io/PromptSRC/)]
@@ -1154,6 +1154,7 @@ If you find this repository useful, please consider citing this list:
 * **ProText**: "Learning to Prompt with Text Only Supervision for Vision-Language Models", arXiv, 2024 (*MBZUAI*). [[Paper](https://arxiv.org/abs/2401.02418)][[PyTorch](https://github.com/muzairkhattak/ProText)][[Website](https://muzairkhattak.github.io/ProText/)]
 * **Any-shift**: "Any-Shift Prompting for Generalization over Distributions", arXiv, 2024 (*UvA*). [[Paper](https://arxiv.org/abs/2402.10099)]
 * **SPT**: "Revisiting the Power of Prompt for Visual Tuning", arXiv, 2024 (*Hefei University of Technology*). [[Paper](https://arxiv.org/abs/2402.02382)][[PyTorch](https://github.com/WangYZ1608/Self-Prompt-Tuning)]
+* **LSPT**: "LSPT: Long-term Spatial Prompt Tuning for Visual Representation Learning", arXiv, 2024 (*Microsoft*). [[Paper](https://arxiv.org/abs/2402.17406)]
 
 [[Back to Overview](#overview)]
 
