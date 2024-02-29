@@ -1755,9 +1755,11 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **CRATE**: "White-Box Transformers via Sparse Rate Reduction: Compression Is All There Is?", arXiv, 2023 (*Berkeley*). [[Paper](https://arxiv.org/abs/2311.13110)][[PyTorch](https://github.com/Ma-Lab-Berkeley/CRATE)][[Website](https://ma-lab-berkeley.github.io/CRATE/)]
     * **SAMS**: "Foundation Model Assisted Weakly Supervised Semantic Segmentation", arXiv, 2023 (*Zhejiang*). [[Paper](https://arxiv.org/abs/2312.03585)]
     * **SemiVL**: "SemiVL: Semi-Supervised Semantic Segmentation with Vision-Language Guidance", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2311.16241)][[PyTorch](https://github.com/google-research/semivl)]
-    * **Self-reinforcement**: "Progressive Uncertain Feature Self-reinforcement for Weakly Supervised Semantic Segmentation", AAAI, 2024 (**). [[Paper](https://arxiv.org/abs/2312.08916)][[PyTorch](https://github.com/Jessie459/feature-self-reinforcement)]
+    * **Self-reinforcement**: "Progressive Uncertain Feature Self-reinforcement for Weakly Supervised Semantic Segmentation", AAAI, 2024 (*Zhejiang Lab*). [[Paper](https://arxiv.org/abs/2312.08916)][[PyTorch](https://github.com/Jessie459/feature-self-reinforcement)]
+    * **SeCo**: "Separate and Conquer: Decoupling Co-occurrence via Decomposition and Representation for Weakly Supervised Semantic Segmentation", CVPR, 2024 (*Fudan*). [[Paper](https://arxiv.org/abs/2402.18467)][[Code (in construction)](https://github.com/zwyang6/SeCo)]
     * **SemPLeS**: "SemPLeS: Semantic Prompt Learning for Weakly-Supervised Semantic Segmentation", arXiv, 2024 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2401.11791)]
     * **WeakSAM**: "WeakSAM: Segment Anything Meets Weakly-supervised Instance-level Recognition", arXiv, 2024 (*Huazhong University of Science & Technology (HUST)*). [[Paper](https://arxiv.org/abs/2402.14812)][[PyTorch](https://github.com/hustvl/WeakSAM)]
+    * **CoSA**: "Weakly Supervised Co-training with Swapping Assignments for Semantic Segmentation", arXiv, 2024 (*Lancaster University, UK*). [[Paper](https://arxiv.org/abs/2402.17891)][[Code (in construction)](https://github.com/youshyee/CoSA)]
 * Cross-Domain:
     * **DAFormer**: "DAFormer: Improving Network Architectures and Training Strategies for Domain-Adaptive Semantic Segmentation", CVPR, 2022 (*ETHZ*). [[Paper](https://arxiv.org/abs/2111.14887)][[PyTorch](https://github.com/lhoyer/DAFormer)]
     * **HGFormer**: "HGFormer: Hierarchical Grouping Transformer for Domain Generalized Semantic Segmentation", CVPR, 2023 (*Wuhan University*). [[Paper](https://arxiv.org/abs/2305.13031)][[Code (in construction)](https://github.com/dingjiansw101/HGFormer)]
@@ -2164,6 +2166,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **Video-kMaX**: "Video-kMaX: A Simple Unified Approach for Online and Near-Online Video Panoptic Segmentation", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2304.04694)]
     * **SAM-PT**: "Segment Anything Meets Point Tracking", arXiv, 2023 (*ETHZ*). [[Paper](https://arxiv.org/abs/2307.01197)][[Code (in construction)](https://github.com/SysCV/sam-pt)]
     * **TTT-MAE**: "Test-Time Training on Video Streams", arXiv, 2023 (*Berkeley*). [[Paper](https://arxiv.org/abs/2307.05014)][[Website](https://video-ttt.github.io/)]
+    * **UniVS**: "UniVS: Unified and Universal Video Segmentation with Prompts as Queries", CVPR, 2024 (*OPPO*). [[Paper](https://arxiv.org/abs/2402.18115)][[PyTorch](https://github.com/MinghanLi/UniVS)][[Website](https://sites.google.com/view/unified-video-seg-univs)]
     * **DVIS++**: "DVIS++: Improved Decoupled Framework for Universal Video Segmentation", arXiv, 2024 (*Wuhan University*). [[Paper](https://arxiv.org/abs/2312.13305)][[PyTorch](https://github.com/zhang-tao-whu/DVIS_Plus)]
 * Video Object Detection:
     * **TransVOD**: "End-to-End Video Object Detection with Spatial-Temporal Transformers", arXiv, 2021 (*Shanghai Jiao Tong + SenseTime*). [[Paper](https://arxiv.org/abs/2105.10920)][[Code (in construction)](https://github.com/SJTU-LuHe/TransVOD)]
