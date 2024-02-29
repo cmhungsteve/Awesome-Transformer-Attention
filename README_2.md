@@ -1095,6 +1095,7 @@ If you find this repository useful, please consider citing this list:
 * **MAGVIT-v2**: "Language Model Beats Diffusion - Tokenizer is Key to Visual Generation", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2310.05737)][[Website](https://magvit.cs.cmu.edu/v2/)]
 * **UVDv1**: "Sequential Modeling Enables Scalable Learning for Large Vision Models", arXiv, 2023 (*Berkeley*). [[Paper](https://arxiv.org/abs/2312.00785)][[Code (in construction)](https://github.com/ytongbai/LVM)][[Website](https://yutongbai.com/lvm.html)]
 * **W.A.L.T**: "Photorealistic Video Generation with Diffusion Models", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2312.06662)][[Website](https://walt-video-diffusion.github.io/)]
+* **?**: "Video as the New Language for Real-World Decision Making", arXiv, 2024 (*DeepMind*). [[Paper](https://arxiv.org/abs/2402.17139)]
 
 [[Back to Overview](#overview)]
 
