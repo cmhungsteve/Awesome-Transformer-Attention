@@ -1678,6 +1678,7 @@ If you find this repository useful, please consider citing this list:
     * **Chat-3D-v2**: "Chat-3D v2: Bridging 3D Scene and Large Language Models with Object Identifiers", arXiv, 2023 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2312.08168)][[Code (in construction)](https://github.com/Chat-3D/Chat-3D-v2)]
     * **LiDAR-LLM**: "LiDAR-LLM: Exploring the Potential of Large Language Models for 3D LiDAR Understanding", arXiv, 2023 (*Peking*). [[Paper](https://arxiv.org/abs/2312.14074)][[Code (in construction)](https://github.com/Yangsenqiao/LiDAR-LLM)][[Website](https://sites.google.com/view/lidar-llm)]
     * **Uni3D-LLM**: "Uni3D-LLM: Unifying Point Cloud Perception, Generation and Editing with Large Language Models", arXiv, 2024 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2402.03327)]
+    * **ShapeLLM**: "ShapeLLM: Universal 3D Object Understanding for Embodied Interaction", arXiv, 2024 (*Megvii*). [[Paper](https://arxiv.org/abs/2402.17766)][[Code (in construction)](https://github.com/qizekun/ShapeLLM)][[Website](https://qizekun.github.io/shapellm/)]
 * Conversation (Multi):
     * **AnyMAL**: "AnyMAL: An Efficient and Scalable Any-Modality Augmented Language Model", arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2309.16058)]
     * **OneLLM**: "OneLLM: One Framework to Align All Modalities with Language", arXiv, 2023 (*CUHK + Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2312.03700)][[PyTorch](https://github.com/csuhan/OneLLM)]
