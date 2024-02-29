@@ -132,6 +132,7 @@ If you find this repository useful, please consider citing this list:
 
 ## Survey
 * "A Survey on Multimodal Large Language Models for Autonomous Driving", WACVW, 2024 (*Purdue*). [[Paper](https://arxiv.org/abs/2311.12320)][[GitHub](https://github.com/IrohXu/Awesome-Multimodal-LLM-Autonomous-Driving)]
+* "Sora: A Review on Background, Technology, Limitations, and Opportunities of Large Vision Models", arXiv, 2024 (*Lehigh University, Pennsylvania*). [[Paper](https://arxiv.org/abs/2402.17177)][[GitHub](https://github.com/lichao-sun/SoraReview)]
 * "Large Multimodal Agents: A Survey", arXiv, 2024 (*CUHK*). [[Paper](https://arxiv.org/abs/2402.15116)][[GitHub](https://github.com/jun0wanan/awesome-large-multimodal-agents)]
 * "Parameter-Efficient Fine-Tuning for Pre-Trained Vision Models: A Survey", arXiv, 2024 (*BIGAI*). [[Paper](https://arxiv.org/abs/2402.02242)][[GitHub](https://github.com/synbol/Awesome-Parameter-Efficient-Transfer-Learning)]
 * "Vision-Language Navigation with Embodied Intelligence: A Survey", arXiv, 2024 (*Qufu Normal University, China*). [[Paper](https://arxiv.org/abs/2402.14304)]
@@ -1308,6 +1309,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **CurveFormer**: "CurveFormer: 3D Lane Detection by Curve Propagation with Curve Queries and Attention", arXiv, 2022 (*NullMax, China*). [[Paper](https://arxiv.org/abs/2209.07989)]
     * **LATR**: "LATR: 3D Lane Detection from Monocular Images with Transformer", ICCV, 2023 (*CUHK*). [[Paper](https://arxiv.org/abs/2308.04583)][[PyTorch](https://github.com/JMoonr/LATR)]
     * **O2SFormer**: "End to End Lane detection with One-to-Several Transformer", arXiv, 2023 (*Southeast University, China*). [[Paper](https://arxiv.org/abs/2305.00675)][[PyTorch](https://github.com/zkyseu/O2SFormer)]
+    * **Lane2Seq**: "Lane2Seq: Towards Unified Lane Detection via Sequence Generation", CVPR, 2024 (*Southeast University, China*). [[Paper](https://arxiv.org/abs/2402.17172)]
 * Object Localization:
     * **TS-CAM**: "TS-CAM: Token Semantic Coupled Attention Map for Weakly Supervised Object Localization", arXiv, 2021 (*CAS*). [[Paper](https://arxiv.org/abs/2103.14862)]
     * **LCTR**: "LCTR: On Awakening the Local Continuity of Transformer for Weakly Supervised Object Localization", AAAI, 2022 (*Xiamen University*). [[Paper](https://arxiv.org/abs/2112.05291)]
@@ -1529,6 +1531,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **MobileSAMv2**: "MobileSAMv2: Faster Segment Anything to Everything", arXiv, 2023 (*Kyung Hee University*). [[Paper](https://arxiv.org/abs/2312.09579)][[PyTorch](https://github.com/ChaoningZhang/MobileSAM)]
     * **TinySAM**: "TinySAM: Pushing the Envelope for Efficient Segment Anything Model", arXiv, 2023 (*Huawei*). [[Paper](https://arxiv.org/abs/2312.13789)][[PyTorch](https://github.com/xinghaochen/TinySAM)]
     * **Conv-LoRA**: "Convolution Meets LoRA: Parameter Efficient Finetuning for Segment Anything Model", ICLR, 2024 (*Amazon*). [[Paper](https://arxiv.org/abs/2401.17868)][[PyTorch](https://github.com/autogluon/autogluon)]
+    * **VRP-SAM**: "VRP-SAM: SAM with Visual Reference Prompt", CVPR, 2024 (*Baidu*). [[Paper](https://arxiv.org/abs/2402.17726)]
     * **BA-SAM**: "BA-SAM: Scalable Bias-Mode Attention Mask for Segment Anything Model", arXiv, 2024 (*Shanghai Jiao Tong*). [[Paper](https://arxiv.org/abs/2401.02317)]
     * **OV-SAM**: "Open-Vocabulary SAM: Segment and Recognize Twenty-thousand Classes Interactively", arXiv, 2024 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2401.02955)][[PyTorch](https://github.com/HarborYuan/ovsam)][[Website](https://www.mmlab-ntu.com/project/ovsam/)]
     * **SSPrompt**: "Learning to Prompt Segment Anything Models", arXiv, 2024 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2401.04651)]
