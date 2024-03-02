@@ -1275,7 +1275,6 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **Prompt-OVD**: "Prompt-Guided Transformers for End-to-End Open-Vocabulary Object Detection", arXiv, 2023 (*NAVER*). [[Paper](https://arxiv.org/abs/2303.14386)]
     * **LOWA**: "LOWA: Localize Objects in the Wild with Attributes", arXiv, 2023 (*Mineral, California*). [[Paper](https://arxiv.org/abs/2305.20047)]
     * **SGDN**: "Open-Vocabulary Object Detection via Scene Graph Discovery", arXiv, 2023 (*Monash University*). [[Paper](https://arxiv.org/abs/2307.03339)]
-    * **ASM**: "The All-Seeing Project: Towards Panoptic Visual Recognition and Understanding of the Open World", arXiv, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2308.01907)][[Code (in construction)](https://github.com/OpenGVLab/All-Seeing)][[Demo](https://huggingface.co/spaces/OpenGVLab/all-seeing)]
     * **SAS-Det**: "Improving Pseudo Labels for Open-Vocabulary Object Detection", arXiv, 2023 (*NEC*). [[Paper](https://arxiv.org/abs/2308.06412)]
     * **DE-ViT**: "Detect Every Thing with Few Examples", arXiv, 2023 (*Rutgers*). [[Paper](https://arxiv.org/abs/2309.12969)][[PyTorch](https://github.com/mlzxy/devit)]
     * **CLIPSelf**: "CLIPSelf: Vision Transformer Distills Itself for Open-Vocabulary Dense Prediction", arXiv, 2023 (*NTU, Singapore*). [[Papewr](https://arxiv.org/abs/2310.01403)][[PyTorch](https://github.com/wusize/CLIPSelf)]
@@ -1645,6 +1644,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **Mask2Anomaly**: "Mask2Anomaly: Mask Transformer for Universal Open-set Segmentation", arXiv, 2023 (*Politecnico di Torino, Italy*). [[Paper](https://arxiv.org/abs/2309.04573)]
     * **SegGen**: "SegGen: Supercharging Segmentation Models with Text2Mask and Mask2Img Synthesis", arXiv, 2023 (*Adobe*). [[Paper](https://arxiv.org/abs/2311.03355)][[Code (in construction)](https://github.com/prismformore/seggen)][[Website](https://seggenerator.github.io/)]
     * **PolyMaX**: "PolyMaX: General Dense Prediction with Mask Transformer", WACV, 2024 (*Google*). [[Paper](https://arxiv.org/abs/2311.05770)][[Tensorflow](https://github.com/google-research/deeplab2)]
+    * **PEM**: "PEM: Prototype-based Efficient MaskFormer for Image Segmentation", CVPR, 2024 (*Politecnico di Torino, Italy*). [[Paper](https://arxiv.org/abs/2402.19422)][[Code (in construction)](https://github.com/NiccoloCavagnero/PEM)]
     * **OMG-Seg**: "OMG-Seg: Is One Model Good Enough For All Segmentation?", arXiv, 2024 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2401.10229)][[PyTorch](https://github.com/lxtGH/OMG-Seg)][[Website](https://lxtgh.github.io/project/omg_seg/)]
     * **Uni-OVSeg**: "Open-Vocabulary Segmentation with Unpaired Mask-Text Supervision", arXiv, 2024 (*University of Sydney*). [[Paper](https://arxiv.org/abs/2402.08960)][[PyTorch (in construction)](https://github.com/DerrickWang005/Uni-OVSeg.pytorch)]
 * Multi-Modal:
@@ -2275,8 +2275,9 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **AMD**: "Asymmetric Masked Distillation for Pre-Training Small Foundation Models", arXiv, 2023 (*Nanjing University*). [[Paper](https://arxiv.org/abs/2311.03149)]
     * **SSL-UVOS**: "Betrayed by Attention: A Simple yet Effective Approach for Self-supervised Video Object Segmentation", arXiv, 2023 (*CUHK*). [[Paper](https://arxiv.org/abs/2311.17893)]
     * **NMS**: "No More Shortcuts: Realizing the Potential of Temporal Self-Supervision", AAAI, 2024 (*Adobe*). [[Paper](https://arxiv.org/abs/2312.13008)][[Website](https://daveishan.github.io/nms-webpage/)]
+    * **VideoMAC**: "VideoMAC: Video Masked Autoencoders Meet ConvNets", CVPR, 2024 (*Nanjing University of Science and Technology*). [[Paper](https://arxiv.org/abs/2402.19082)]
     * **GPM**: "Self-supervised Video Object Segmentation with Distillation Learning of Deformable Attention", arXiv, 2024 (*HKUST*). [[Paper](https://arxiv.org/abs/2401.13937)]
-    * **MV2MAE**: "MV2MAE: Multi-View Video Masked Autoencoders", arXiv, 2024 (*Amazon*). [[Paper](https://arxiv.org/abs/2401.15900)]
+    * **MV2MAE**: "MV2MAE: Multi-View Video Masked Autoencoders", arXiv, 2024 (*Amazon*). [[Paper](https://arxiv.org/abs/2401.15900)][[PyTorch](https://github.com/NUST-Machine-Intelligence-Laboratory/VideoMAC)]
 * X-shot:
     * **ResT**: "Cross-modal Representation Learning for Zero-shot Action Recognition", CVPR, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2205.01657)]
     * **ViSET**: "Zero-Shot Action Recognition with Transformer-based Video Semantic Embedding", arXiv, 2022 (*University of South FLorida*). [[Paper](https://arxiv.org/abs/2203.05156)]
