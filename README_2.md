@@ -539,6 +539,7 @@ If you find this repository useful, please consider citing this list:
     * **Face-Transformer**: "Face Transformer: Towards High Fidelity and Accurate Face Swapping", arXiv, 2023 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2304.02530)]
     * **DGM<sup>4</sup>**: "Detecting and Grounding Multi-Modal Media Manipulation and Beyond", arXiv, 2023 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2309.14203)][[PyTorch](https://github.com/rshaojimmy/MultiModal-DeepFake)]
     * **AntifakePrompt**: "AntifakePrompt: Prompt-Tuned Vision-Language Models are Fake Image Detectors", arXiv, 2023 (*NYCU*). [[Paper](https://arxiv.org/abs/2310.17419)]
+    * **MMDG**: "Suppress and Rebalance: Towards Generalized Multi-Modal Face Anti-Spoofing", CVPR, 2024 (*Beihang University*). [[Paper](https://arxiv.org/abs/2402.19298)][[Code (in construction)](https://github.com/OMGGGGG/mmdg)]
 * Fairness:
     * **TADeT**: "Mitigating Bias in Visual Transformers via Targeted Alignment", BMVC, 2021 (*Georgia Tech*). [[Paper](https://arxiv.org/abs/2302.04358)]
 * Generation:
@@ -1287,6 +1288,7 @@ If you find this repository useful, please consider citing this list:
 * **LangNav**: "LangNav: Language as a Perceptual Representation for Navigation", arXiv, 2023 (*MIT*). [[Paper](https://arxiv.org/abs/2310.07889)]
 * **?**: "Multimodal Large Language Model for Visual Navigation", arXiv, 2023 (*Apple*). [[Paper](https://arxiv.org/abs/2310.08669)]
 * **VLN-Video**: "VLN-Video: Utilizing Driving Videos for Outdoor Vision-and-Language Navigation", AAAI, 2024 (*Amazon*). [[Paper](https://arxiv.org/abs/2402.03561)]
+* **MemoNav**: "MemoNav: Working Memory Model for Visual Navigation", CVPR, 2024 (*CAS*). [[Paper](https://arxiv.org/abs/2402.19161)]
 * **MapGPT**: "MapGPT: Map-Guided Prompting for Unified Vision-and-Language Navigation", arXiv, 2024 (*HKU*). [[Paper](https://arxiv.org/abs/2401.07314)]
 * **V-IRL**: "V-IRL: Grounding Virtual Intelligence in Real Life", arXiv, 2024 (*NYU*). [[Paper](https://arxiv.org/abs/2402.03310)][[PyTorch (in construction)](https://github.com/VIRL-Platform/VIRL)][[Website](https://virl-platform.github.io/)]
 
@@ -1455,6 +1457,7 @@ If you find this repository useful, please consider citing this list:
 * **TOP**: "The Rise of AI Language Pathologists: Exploring Two-level Prompt Learning for Few-shot Weakly-supervised Whole Slide Image Classification", NeurIPS, 2023 (*Fudan*). [[Paper](https://arxiv.org/abs/2305.17891)][[Code (in construction)](https://github.com/miccaiif/TOP)]
 * **DreaMR**: "DreaMR: Diffusion-driven Counterfactual Explanation for Functional MRI", arXiv, 2023 (*Bilkent University*). [[Paper](https://arxiv.org/abs/2307.09547)][[PyTorch](https://github.com/icon-lab/DreaMR)]
 * **LongViT**: "When an Image is Worth 1,024 x 1,024 Words: A Case Study in Computational Pathology", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2312.03558)][[PyTorch](https://github.com/microsoft/torchscale)]
+* **FiVE**: "Generalizable Whole Slide Image Classification with Fine-Grained Visual-Semantic Interaction", CVPR, 2024 (*Xiamen University*). [[Paper](https://arxiv.org/abs/2402.19326)]
 
 [[Back to Overview](#overview)]
 
@@ -1887,6 +1890,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **IAG**: "Grounding 3D Object Affordance from 2D Interactions in Images", ICCV, 2023 (*USTC*). [[Paper](https://arxiv.org/abs/2303.10437)][[Website](https://yyvhang.github.io/publications/IAG/index.html)][[PyTorch](https://github.com/yyvhang/IAGNet)]
     * **RVT**: "RVT: Robotic View Transformer for 3D Object Manipulation", CoRL, 2023 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2306.14896)][[PyTorch](https://github.com/nvlabs/rvt)][[Website](https://robotic-view-transformer.github.io/)]
     * **M2T2**: "M2T2: Multi-Task Masked Transformer for Object-centric Pick and Place", CoRL, 2023 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2311.00926)][[PyTorch](https://github.com/NVlabs/M2T2)][[Website](https://m2-t2.github.io/)]
+    * **?**: "Humanoid Locomotion as Next Token Prediction", arXiv, 2024 (*Berkeley*). [[Paper](https://arxiv.org/abs/2402.19469)]
 * Scene Decomposition:
     * **SRT**: "Scene Representation Transformer: Geometry-Free Novel View Synthesis Through Set-Latent Scene Representations", CVPR, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2111.13152)][[PyTorch (stelzner)](https://github.com/stelzner/srt)][[Website](https://srt-paper.github.io/)]
     * **OSRT**: "Object Scene Representation Transformer", NeurIPS, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2206.06922)][[Website](https://osrt-paper.github.io/)]
