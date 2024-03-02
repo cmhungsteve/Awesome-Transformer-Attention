@@ -634,6 +634,7 @@ If you find this repository useful, please consider citing this list:
     * **InternVL**: "InternVL: Scaling up Vision Foundation Models and Aligning for Generic Visual-Linguistic Tasks", arXiv, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2312.14238)][[PyTorch](https://github.com/OpenGVLab/InternVL)]
     * **TiMix**: "TiMix: Text-aware Image Mixing for Effective Vision-Language Pre-training", AAAI, 2024 (*Peking*). [[Paper](https://arxiv.org/abs/2312.08846)]
     * **ECLIPSE**: "Expediting Contrastive Language-Image Pretraining via Self-distilled Encoders", AAAI, 2024 (*LG*). [[Paper](https://arxiv.org/abs/2312.12659)]
+    * **ASM**: "The All-Seeing Project: Towards Panoptic Visual Recognition and Understanding of the Open World", ICLR, 2024 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2308.01907)][[PyTorch](https://github.com/OpenGVLab/All-Seeing)][[Demo](https://huggingface.co/spaces/OpenGVLab/all-seeing)]
     * **COSMO**: "COSMO: COntrastive Streamlined MultimOdal Model with Interleaved Pre-Training", arXiv, 2024 (*Microsoft*). [[Paper](https://arxiv.org/abs/2401.00849)][[PyTorch](https://github.com/showlab/cosmo)][[Website](https://fingerrec.github.io/cosmo/)]
     * **?**: "Low-Resource Vision Challenges for Foundation Models", arXiv, 2024 (*UvA*). [[Paper](https://arxiv.org/abs/2401.04716)][[Code (in construction)](https://github.com/xiaobai1217/Low-Resource-Vision)][[Website](https://xiaobai1217.github.io/Low-Resource-Vision/)]
     * **UMG-CLIP**: "UMG-CLIP: A Unified Multi-Granularity Vision Generalist for Open-World Understanding", arXiv, 2024 (*Huawei*). [[Paper](https://arxiv.org/abs/2401.06397)]
@@ -648,6 +649,7 @@ If you find this repository useful, please consider citing this list:
     * **EVA-CLIP-18B**: "EVA-CLIP-18B: Scaling CLIP to 18 Billion Parameters", arXiv, 2024 (*BAAI*). [[Paper](https://arxiv.org/abs/2402.04252)][[PyTorch](https://github.com/baaivision/EVA/tree/master/EVA-CLIP-18B)]
     * **SynthCLIP**: "SynthCLIP: Are We Ready for a Fully Synthetic CLIP Training?", arXiv, 2024 (*KAUST*). [[Paper](https://arxiv.org/abs/2402.01832)][[PyTorch](https://github.com/hammoudhasan/SynthCLIP)]
     * **CloVe**: "CLoVe: Encoding Compositional Language in Contrastive Vision-Language Models", arXiv, 2024 (*Netflix*). [[Paper](https://arxiv.org/abs/2402.15021)]
+    * **ASMv2**: "The All-Seeing Project V2: Towards General Relation Comprehension of the Open World", arXiv, 2024 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2402.19474)][[PyTorch](https://github.com/OpenGVLab/all-seeing)]
 * Video:
     * **COOT**: "COOT: Cooperative Hierarchical Transformer for Video-Text Representation Learning", NeurIPS, 2020 (*University of Freiburg*). [[Paper](https://arxiv.org/abs/2011.00597)][[PyTorch](https://github.com/gingsi/coot-videotext)]
     * **Parameter-Reduction**: "Parameter Efficient Multimodal Transformers for Video Representation Learning", ICLR, 2021 (*Seoul National University*). [[Paper](https://openreview.net/forum?id=6UdQLhqJyFD)]
@@ -714,6 +716,7 @@ If you find this repository useful, please consider citing this list:
     * **debias-VL**: "Debiasing Vision-Language Models via Biased Prompts", arXiv, 2023 (*MIT*). [[Paper](https://arxiv.org/abs/2302.00070)][[PyTorch](https://github.com/chingyaoc/debias_vl)]
     * **MobileVLM**: "MobileVLM: A Fast, Reproducible and Strong Vision Language Assistant for Mobile Devices", arXiv, 2023 (*Meituan*). [[Paper](https://arxiv.org/abs/2312.16886)][[Code (in construction)](https://github.com/Meituan-AutoML/MobileVLM)]
     * **READ-PVLA**: "READ-PVLA: Recurrent Adapter with Partial Video-Language Alignment for Parameter-Efficient Transfer Learning in Low-Resource Video-Language Modeling", AAAI, 2024 (*NUS*). [[Paper](https://arxiv.org/abs/2312.06950)]
+    * **Panda-70M**: "Panda-70M: Captioning 70M Videos with Multiple Cross-Modality Teachers", CVPR, 2024 (*Snap*). [[Paper](https://arxiv.org/abs/2402.19479)][[PyTorch](https://github.com/snap-research/Panda-70M)][[Website](https://snap-research.github.io/Panda-70M/)]
     * **VIIT**: "Distilling Vision-Language Models on Millions of Videos", arXiv, 2024 (*Google*). [[Paper](https://arxiv.org/abs/2401.06129)][[Website](https://zhaoyue-zephyrus.github.io/video-instruction-tuning/)]
     * **FiGCLIP**: "FiGCLIP: Fine-Grained CLIP Adaptation via Densely Annotated Videos", arXiv, 2024 (*IIIT Hyderabad*). [[Paper](https://arxiv.org/abs/2401.07669)][[Code (in construction)](https://github.com/Darshansingh11/FiGCLIP)]
     * **LWM**: "World Model on Million-Length Video And Language With RingAttention", arXiv, 2024 (*Berkeley*). [[Paper](https://arxiv.org/abs/2402.08268)][[JAX](https://github.com/LargeWorldModel/LWM)][[Website](https://largeworldmodel.github.io/)]
@@ -970,6 +973,7 @@ If you find this repository useful, please consider citing this list:
     * **StoryGPT-V**: "Large Language Models as Consistent Story Visualizers", arXiv, 2023 (*KAUST*). [[Paper](https://arxiv.org/abs/2312.02252)][[PyTorch](https://anonymous.4open.science/r/story/README.md)][[Website](https://storygpt-v.s3.amazonaws.com/index.html)]
     * **StackedDiffusion**: "Generating Illustrated Instructions", arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2312.04552)][[Website](https://facebookresearch.github.io/IllustratedInstructions/)]
     * **VL-GPT**: "VL-GPT: A Generative Pre-trained Transformer for Vision and Language Understanding and Generation", arXiv, 2023 (*Tencent*). [[Paper](https://arxiv.org/abs/2312.09251)][[Code (in construction)](https://github.com/AILab-CVC/VL-GPT)]
+    * **DistriFusion**: "DistriFusion: Distributed Parallel Inference for High-Resolution Diffusion Models", CVPR, 2024 (*MIT*). [[Paper](https://arxiv.org/abs/2402.19481)][[PyTorch](https://github.com/mit-han-lab/distrifuser)][[Website](https://hanlab.mit.edu/projects/distrifusion)]
     * **aMUSEd**: "aMUSEd: An Open MUSE Reproduction", arXiv, 2024 (*Hugging Face*). [[Paper](https://arxiv.org/abs/2401.01808)]
     * **Instruct-Imagen**: "Instruct-Imagen: Image Generation with Multi-modal Instruction", arXiv, 2024 (*Google*). [[Paper](https://arxiv.org/abs/2401.01952)]
     * **DiffusionGPT**: "DiffusionGPT: LLM-Driven Text-to-Image Generation System", arXiv, 2024 (*ByteDance*). [[Paper](https://arxiv.org/abs/2401.10061)][[PyTorch](https://github.com/DiffusionGPT/DiffusionGPT)][[Website](https://diffusiongpt.github.io/)]
@@ -1200,6 +1204,7 @@ If you find this repository useful, please consider citing this list:
 * **UReader**: "UReader: Universal OCR-free Visually-situated Language Understanding with Multimodal Large Language Model", arXiv, 2023 (*Alibaba*). [[Paper](https://arxiv.org/abs/2310.05126)]
 * **RD**: "Efficient End-to-End Visual Document Understanding with Rationale Distillation", arXiv, 2023 (*DeepMind*). [[Paper](https://arxiv.org/abs/2311.09612)]
 * **ScreenAI**: "ScreenAI: A Vision-Language Model for UI and Infographics Understanding", arXiv, 2024 (*Google*). [[Paper](https://arxiv.org/abs/2402.04615)]
+* **DoCo**: "Enhancing Visual Document Understanding with Contrastive Learning in Large Visual-Language Models", arXiv, 2024 (*Tencent*). [[Paper](https://arxiv.org/abs/2402.19014)]
 
 [[Back to Overview](#overview)]
 
