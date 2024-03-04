@@ -650,6 +650,7 @@ If you find this repository useful, please consider citing this list:
     * **SynthCLIP**: "SynthCLIP: Are We Ready for a Fully Synthetic CLIP Training?", arXiv, 2024 (*KAUST*). [[Paper](https://arxiv.org/abs/2402.01832)][[PyTorch](https://github.com/hammoudhasan/SynthCLIP)]
     * **CloVe**: "CLoVe: Encoding Compositional Language in Contrastive Vision-Language Models", arXiv, 2024 (*Netflix*). [[Paper](https://arxiv.org/abs/2402.15021)]
     * **ASMv2**: "The All-Seeing Project V2: Towards General Relation Comprehension of the Open World", arXiv, 2024 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2402.19474)][[PyTorch](https://github.com/OpenGVLab/all-seeing)]
+    * **Multimodal-ArXiv**: "Multimodal ArXiv: A Dataset for Improving Scientific Comprehension of Large Vision-Language Models", arXiv, 2024 (*HKU*). [[Paper](https://arxiv.org/abs/2403.00231)][[Website](https://mm-arxiv.github.io/)]
 * Video:
     * **COOT**: "COOT: Cooperative Hierarchical Transformer for Video-Text Representation Learning", NeurIPS, 2020 (*University of Freiburg*). [[Paper](https://arxiv.org/abs/2011.00597)][[PyTorch](https://github.com/gingsi/coot-videotext)]
     * **Parameter-Reduction**: "Parameter Efficient Multimodal Transformers for Video Representation Learning", ICLR, 2021 (*Seoul National University*). [[Paper](https://openreview.net/forum?id=6UdQLhqJyFD)]
@@ -1758,6 +1759,7 @@ If you find this repository useful, please consider citing this list:
     * **M3DBench**: "M3DBench: Let's Instruct Large Models with Multi-modal 3D Prompts", arXiv, 2023 (*Fudan*). [[Paper](https://arxiv.org/abs/2312.10763)][[Code (in construction)](https://github.com/OpenM3D/M3DBench/)][[Website](https://m3dbench.github.io/)]
     * **MM-SAP**: "MM-SAP: A Comprehensive Benchmark for Assessing Self-Awareness of Multimodal Large Language Models in Perception", arXiv, 2024 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2401.07529)][[Code (in construction)](https://github.com/YHWmz/MM-SAP)]
     * **MLLM-as-a-Judge**: "MLLM-as-a-Judge: Assessing Multimodal LLM-as-a-Judge with Vision-Language Benchmark", arXiv, 2024 (*Lehigh University, Pennsylvania*). [[Paper](https://arxiv.org/abs/2402.04788)][[GitHub](https://github.com/Dongping-Chen/MLLM-as-a-Judge)]
+    * **TempCompass**: "TempCompass: Do Video LLMs Really Understand Videos?", arXiv, 2024 (*Peking*). [[Paper](https://arxiv.org/abs/2403.00476)][[Code (in construction)](https://github.com/llyx97/TempCompass)]
 * Robustness:
     * **Hierarchy-CLIP**: "Improving Zero-shot Generalization and Robustness of Multi-modal Models", CVPR, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2212.01758)][[JAX](https://github.com/gyhandy/Hierarchy-CLIP)][[Website](https://sites.google.com/usc.edu/hierarchy-clip/)]
     * **?**: "Mitigating Spurious Correlations in Multi-modal Models during Fine-tuning", ICML, 2023 (*UCLA*). [[Paper](https://arxiv.org/abs/2304.03916)]
