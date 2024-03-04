@@ -382,6 +382,7 @@ If you find this repository useful, please consider citing this list:
 * **SPFormer**: "SPFormer: Enhancing Vision Transformer with Superpixel Representation", arXiv, 2024 (*JHU*). [[Paper](https://arxiv.org/abs/2401.02931)]
 * **manifold-K**: "A Manifold Representation of the Key in Vision Transformers", arXiv, 2024 (*University of Oslo, Norway*). [[Paper](https://arxiv.org/abs/2402.00534)]
 * **BiXT**: "Perceiving Longer Sequences With Bi-Directional Cross-Attention Transformers", arXiv, 2024 (*University of Melbourne*). [[Paper](https://arxiv.org/abs/2402.12138)]
+* **VisionLLaMA**: "VisionLLaMA: A Unified LLaMA Interface for Vision Tasks", arXiv, 2024 (*Meituan*). [[Paper](https://arxiv.org/abs/2403.00522)][[Code (in construction)](https://github.com/Meituan-AutoML/VisionLLaMA)]
 #### Efficient Vision Transformer
 * **DeiT**: "Training data-efficient image transformers & distillation through attention", ICML, 2021 (*Facebook*). [[Paper](https://arxiv.org/abs/2012.12877)][[PyTorch](https://github.com/facebookresearch/deit)]
 * **ConViT**: "ConViT: Improving Vision Transformers with Soft Convolutional Inductive Biases", ICML, 2021 (*Facebook*). [[Paper](https://arxiv.org/abs/2103.10697)][[Code](https://github.com/facebookresearch/convit)]
@@ -670,6 +671,7 @@ If you find this repository useful, please consider citing this list:
 * **CountBench**: "Teaching CLIP to Count to Ten", ICCV, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2302.12066)]
 * **CLIPpy**: "Perceptual Grouping in Vision-Language Models", ICCV, 2023 (*Apple*). [[Paper](https://arxiv.org/abs/2210.09996)]
 * **CiT**: "CiT: Curation in Training for Effective Vision-Language Data", ICCV, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2301.02241)][[PyTorch](https://github.com/facebookresearch/CiT)]
+* **I-JEPA**: "Self-Supervised Learning from Images with a Joint-Embedding Predictive Architecture", ICCV, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2301.08243)]
 * **StableRep**: "StableRep: Synthetic Images from Text-to-Image Models Make Strong Visual Representation Learners", NeurIPS, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2306.00984)][[PyTorch](https://github.com/google-research/syn-rep-learn)]
 * **LaCLIP**: "Improving CLIP Training with Language Rewrites", NeurIPS, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2305.20088)][[PyTorch](https://github.com/LijieFan/LaCLIP)]
 * **DesCo**: "DesCo: Learning Object Recognition with Rich Language Descriptions", NeurIPS, 2023 (*UCLA*). [[Paper](https://arxiv.org/abs/2306.14060)]
@@ -716,6 +718,7 @@ If you find this repository useful, please consider citing this list:
 * **AIM**: "Scalable Pre-training of Large Autoregressive Image Models", arXiv, 2024 (*Apple*). [[Paper](https://arxiv.org/abs/2401.08541)][[PyTorch](https://github.com/apple/ml-aim)]
 * **DDM**: "Deconstructing Denoising Diffusion Models for Self-Supervised Learning", arXiv, 2024 (*Meta*). [[Paper](https://arxiv.org/abs/2401.14404)]
 * **CrossMAE**: "Rethinking Patch Dependence for Masked Autoencoders", arXiv, 2024 (*Berkeley*). [[Paper](https://arxiv.org/abs/2401.14391)][[PyTorch](https://github.com/TonyLianLong/CrossMAE)][[Website](https://crossmae.github.io/)]
+* **IWM**: "Learning and Leveraging World Models in Visual Representation Learning", arXiv, 2024 (*Meta*). [[Paper](https://arxiv.org/abs/2403.00504)]
 #### Robustness + Transformer
 * **ViT-Robustness**: "Understanding Robustness of Transformers for Image Classification", ICCV, 2021 (*Google*). [[Paper](https://arxiv.org/abs/2103.14586)]
 * **SAGA**: "On the Robustness of Vision Transformers to Adversarial Examples", ICCV, 2021 (*University of Connecticut*). [[Paper](https://arxiv.org/abs/2104.02610)]
@@ -953,6 +956,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **Eureka-moment**: "Eureka-Moments in Transformers: Multi-Step Tasks Reveal Softmax Induced Optimization Problems", arXiv, 2023 (*Bosch*). [[Paper](https://arxiv.org/abs/2310.12956)]
 * **INTR**: "A Simple Interpretable Transformer for Fine-Grained Image Classification and Analysis", arXiv, 2023 (*OSU*). [[Paper](https://arxiv.org/abs/2311.04157)][[PyTorch](https://github.com/Imageomics/INTR)]
 * **?**: "Attention Guided CAM: Visual Explanations of Vision Transformer Guided by Self-Attention", AAAI, 2024 (*Korea Institute of Science and Technology (KIST)*). [[Paper](https://arxiv.org/abs/2402.04563)][[PyTorch](https://github.com/LeemSaebom/Attention-Guided-CAM-Visual-Explanations-of-Vision-Transformer-Guided-by-Self-Attention)]
+* **RelatiViT**: "Can Transformers Capture Spatial Relations between Objects?", ICLR, 2024 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2403.00729)][[Code (in construction)](https://github.com/AlvinWen428/spatial-relation)][[Website](https://sites.google.com/view/spatial-relation)]
 
 [[Back to Overview](#overview)]
 
@@ -1823,6 +1827,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **SANeRF-HQ**: "SANeRF-HQ: Segment Anything for NeRF in High Quality", arXiv, 2023 (*HKUST*). [[Paper](https://arxiv.org/abs/2312.01531)][[Code (in construction)](https://github.com/lyclyc52/SANeRF-HQ)][[Website](https://lyclyc52.github.io/SANeRF-HQ/)]
     * **SAM-Graph**: "SAM-guided Graph Cut for 3D Instance Segmentation", arXiv, 2023 (*Zhejiang*). [[Paper](https://arxiv.org/abs/2312.08372)][[Code (in construction)](https://github.com/zju3dv/SAM-Graph)][[Website](https://zju3dv.github.io/sam_graph/)]
     * **SAI3D**: "SAI3D: Segment Any Instance in 3D Scenes", arXiv, 2023 (*Peking*). [[Paper](https://arxiv.org/abs/2312.11557)]
+    * **COSeg**: "Rethinking Few-shot 3D Point Cloud Semantic Segmentation", CVPR, 2024 (*ETHZ*). [[Paper](https://arxiv.org/abs/2403.00592)][[Code (in construction)](https://github.com/ZhaochongAn/COSeg)]
 * Multi-Task:
     * **InvPT**: "Inverted Pyramid Multi-task Transformer for Dense Scene Understanding", ECCV, 2022 (*HKUST*). [[Paper](https://arxiv.org/abs/2203.07997)][[PyTorch](https://github.com/prismformore/Multi-Task-Transformer)]
     * **MTFormer**: "MTFormer: Multi-task Learning via Transformer and Cross-Task Reasoning", ECCV, 2022 (*CUHK*). [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/1353_ECCV_2022_paper.php)]
@@ -2278,6 +2283,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **VideoMAC**: "VideoMAC: Video Masked Autoencoders Meet ConvNets", CVPR, 2024 (*Nanjing University of Science and Technology*). [[Paper](https://arxiv.org/abs/2402.19082)]
     * **GPM**: "Self-supervised Video Object Segmentation with Distillation Learning of Deformable Attention", arXiv, 2024 (*HKUST*). [[Paper](https://arxiv.org/abs/2401.13937)]
     * **MV2MAE**: "MV2MAE: Multi-View Video Masked Autoencoders", arXiv, 2024 (*Amazon*). [[Paper](https://arxiv.org/abs/2401.15900)][[PyTorch](https://github.com/NUST-Machine-Intelligence-Laboratory/VideoMAC)]
+    * **V-JEPA**: "Revisiting Feature Prediction for Learning Visual Representations from Video", arXiv, 2024 (*Meta*). [[Paper](https://ai.meta.com/blog/v-jepa-yann-lecun-ai-model-video-joint-embedding-predictive-architecture/)][[PyTorch](https://github.com/facebookresearch/jepa)]
 * X-shot:
     * **ResT**: "Cross-modal Representation Learning for Zero-shot Action Recognition", CVPR, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2205.01657)]
     * **ViSET**: "Zero-Shot Action Recognition with Transformer-based Video Semantic Embedding", arXiv, 2022 (*University of South FLorida*). [[Paper](https://arxiv.org/abs/2203.05156)]
