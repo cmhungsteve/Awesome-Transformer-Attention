@@ -180,6 +180,7 @@ If you find this repository useful, please consider citing this list:
 * **MM-Point**: "MM-Point: Multi-View Information-Enhanced Multi-Modal Self-Supervised 3D Point Cloud Understanding", AAAI, 2024 (*Southeast University, China*). [[Paper](https://arxiv.org/abs/2402.10002)]
 * **PointMamba**: "PointMamba: A Simple State Space Model for Point Cloud Analysis", arXiv, 2024 (*Huazhong University of Science and Technology*). [[Paper](https://arxiv.org/abs/2402.10739)][[PyTorch](https://github.com/LMD0311/PointMamba)]
 * **Swin3D++**: "Swin3D++: Effective Multi-Source Pretraining for 3D Indoor Scene Understanding", arXiv, 2024 (*Microsoft*). [[Paper](https://arxiv.org/abs/2402.14215)]
+* **PCM**: "Point Could Mamba: Point Cloud Learning via State Space Model", arXiv, 2024 (*Skywork AI, China*). [[Paper](https://arxiv.org/abs/2403.00762)][[Code (in construction)](https://github.com/zhang-tao-whu/PCM)]
 
 [[Back to Overview](#overview)]
 
@@ -1976,6 +1977,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **DiffPrompter**: "DiffPrompter: Differentiable Implicit Visual Prompts for Semantic-Segmentation in Adverse Conditions", arXiv, 2023 (*IIIT Hyderabad*). [[Paper](https://arxiv.org/abs/2310.04181)][[PyTorch](https://github.com/DiffPrompter/diff-prompter)][[Website](https://diffprompter.github.io/)]
     * **OccWorld**: "OccWorld: Learning a 3D Occupancy World Model for Autonomous Driving", arXiv, 2023 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2311.16038)][[PyTorch](https://github.com/wzzheng/OccWorld)][[Website](https://wzzheng.net/OccWorld/)]
     * **VehicleMAE**: "Structural Information Guided Multimodal Pre-training for Vehicle-centric Perception", AAAI, 2024 (*Anhui University*). [[Paper](https://arxiv.org/abs/2312.09812)]
+    * **MM-AU**: "Abductive Ego-View Accident Video Understanding for Safe Driving Perception", CVPR, 2024 (*Xi'an Jiaotong University*). [[Paper](https://arxiv.org/abs/2403.00436)][[Website](http://www.lotvsmmau.net/)]
 * Traffic (LLM-based):
     * **AVIS**: "AVIS: Autonomous Visual Information Seeking with Large Language Models", NeurIPS, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2306.08129)]
     * **DriveGPT4**: "DriveGPT4: Interpretable End-to-end Autonomous Driving via Large Language Model", arXiv, 2023 (*HKU*). [[Paper](https://arxiv.org/abs/2310.01412)][[Website](https://tonyxuqaq.github.io/projects/DriveGPT4/)]
