@@ -121,6 +121,7 @@ If you find this repository useful, please consider citing this list:
     * **sDCI**: "A Picture is Worth More Than 77 Text Tokens: Evaluating CLIP-Style Models on Dense Captions", arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2312.08578)][[PyTorch](https://github.com/facebookresearch/DCI)]
     * **DisCLIP**: "DisCLIP: Open-Vocabulary Referring Expression Generation", arXiv, 2024 (*Bar-Ilan University, Israel*). [[Paper](https://arxiv.org/abs/2305.19108)]
     * **MacCap**: "Mining Fine-Grained Image-Text Alignment for Zero-Shot Captioning via Text-Only Training", AAAI, 2024 (*ShanghaiTech*). [[Paper](https://arxiv.org/abs/2401.02347)][[Code (in construction)](https://github.com/Artanic30/MacCap)]
+    * **RegionGPT**: "RegionGPT: Towards Region Understanding Vision Language Model", CVPR, 2024 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2403.02330)][[Website](https://guoqiushan.github.io/regiongpt.github.io/)]
 * Video:
     * **Masked Transformers**: "End-to-End Dense Video Captioning with Masked Transformer", CVPR, 2018 (*UMich + Salesforce*). [[Paper](https://openaccess.thecvf.com/content_cvpr_2018/html/Zhou_End-to-End_Dense_Video_CVPR_2018_paper.html)][[PyTorch](https://github.com/salesforce/densecap)]
     * **BMT**: "A Better Use of Audio-Visual Cues: Dense Video Captioning with Bi-modal Transformer", BMVC, 2020 (*Tampere University, Finland*). [[Paper](https://arxiv.org/abs/2005.08271)][[PyTorch](https://github.com/v-iashin/bmt)][[Website](https://iashin.ai/bmt)]
@@ -372,6 +373,7 @@ If you find this repository useful, please consider citing this list:
     * **ChatterBox**: "ChatterBox: Multi-round Multimodal Referring and Grounding", arXiv, 2024 (*CAS*). [[Paper](https://arxiv.org/abs/2401.13307)][[PyTorch](https://github.com/sunsmarterjie/ChatterBox)]
     * **PIN**: "PIN: Positional Insert Unlocks Object Localisation Abilities in VLMs", arXiv, 2024 (*UvA*). [[Paper](https://arxiv.org/abs/2402.08657)][[Code (in construction)](https://github.com/QUVA-Lab/PIN/)][[Website](https://quva-lab.github.io/PIN/)]
     * **ViGoR**: "ViGoR: Improving Visual Grounding of Large Vision Language Models with Fine-Grained Reward Modeling", arXiv, 2024 (*Amazon*). [[Paper](https://arxiv.org/abs/2402.06118)]
+    * **CRG**: "Contrastive Region Guidance: Improving Grounding in Vision-Language Models without Training", arXiv, 2024 (*UNC*). [[Paper](https://arxiv.org/abs/2403.02325)][[PyTorch](https://github.com/meetdavidwan/crg)][[Website](https://contrastive-region-guidance.github.io/)]
 * Video:
     * **Multi-Stage-Transformer**: "Multi-Stage Aggregated Transformer Network for Temporal Language Localization in Videos", CVPR, 2021 (*University of Electronic Science and Technology of China*). [[Paper](https://openaccess.thecvf.com/content/CVPR2021/html/Zhang_Multi-Stage_Aggregated_Transformer_Network_for_Temporal_Language_Localization_in_Videos_CVPR_2021_paper.html)]
     * **GTR**: "On Pursuit of Designing Multi-modal Transformer for Video Grounding", EMNLP, 2021 (*Peking*). [[Paper](https://arxiv.org/abs/2109.06085)]
@@ -635,6 +637,7 @@ If you find this repository useful, please consider citing this list:
     * **TiMix**: "TiMix: Text-aware Image Mixing for Effective Vision-Language Pre-training", AAAI, 2024 (*Peking*). [[Paper](https://arxiv.org/abs/2312.08846)]
     * **ECLIPSE**: "Expediting Contrastive Language-Image Pretraining via Self-distilled Encoders", AAAI, 2024 (*LG*). [[Paper](https://arxiv.org/abs/2312.12659)]
     * **ASM**: "The All-Seeing Project: Towards Panoptic Visual Recognition and Understanding of the Open World", ICLR, 2024 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2308.01907)][[PyTorch](https://github.com/OpenGVLab/All-Seeing)][[Demo](https://huggingface.co/spaces/OpenGVLab/all-seeing)]
+    * **NARVL**: "Non-autoregressive Sequence-to-Sequence Vision-Language Models", CVPR, 2024 (*AWS*). [[Paper](https://arxiv.org/abs/2403.02249)]
     * **COSMO**: "COSMO: COntrastive Streamlined MultimOdal Model with Interleaved Pre-Training", arXiv, 2024 (*Microsoft*). [[Paper](https://arxiv.org/abs/2401.00849)][[PyTorch](https://github.com/showlab/cosmo)][[Website](https://fingerrec.github.io/cosmo/)]
     * **?**: "Low-Resource Vision Challenges for Foundation Models", arXiv, 2024 (*UvA*). [[Paper](https://arxiv.org/abs/2401.04716)][[Code (in construction)](https://github.com/xiaobai1217/Low-Resource-Vision)][[Website](https://xiaobai1217.github.io/Low-Resource-Vision/)]
     * **UMG-CLIP**: "UMG-CLIP: A Unified Multi-Granularity Vision Generalist for Open-World Understanding", arXiv, 2024 (*Huawei*). [[Paper](https://arxiv.org/abs/2401.06397)]
@@ -1681,6 +1684,7 @@ If you find this repository useful, please consider citing this list:
     * **IVA**: "LLMs Meet Long Video: Advancing Long Video Comprehension with An Interactive Visual Adapter in LLMs", arXiv, 2024 (*Harbin Institute of Technology*). [[Paper](https://arxiv.org/abs/2402.13546)]
     * **VLM-RLAIF**: "Tuning Large Multimodal Models for Videos using Reinforcement Learning from AI Feedback", arXiv, 2024 (*Yonsei*). [[Paper](https://arxiv.org/abs/2402.03746)]
     * **Video-LaVIT**: "Video-LaVIT: Unified Video-Language Pre-training with Decoupled Visual-Motional Tokenization", arXiv, 2024 (*Kuaishou*). [[Paper](https://arxiv.org/abs/2402.03161)][[PyTorch](https://github.com/jy0205/LaVIT)][[Website](https://video-lavit.github.io/)]
+    * **MovieLLM**: "MovieLLM: Enhancing Long Video Understanding with AI-Generated Movies", arXiv, 2024 (*Tencent*). [[Paper](https://arxiv.org/abs/2403.01422)][[PyTorch](https://github.com/Deaddawn/MovieLLM-code)][[Website](https://deaddawn.github.io/MovieLLM/)]
 * Conversation (3D):
     * **3D-LLM**: "3D-LLM: Injecting the 3D World into Large Language Models", NeurIPS, 2023 (*UCLA*). [[Paper](https://arxiv.org/abs/2307.12981)][[PyTorch](https://github.com/UMass-Foundation-Model/3D-LLM)][[Website](https://vis-www.cs.umass.edu/3dllm/)]
     * **Chat-3D**: "Chat-3D: Data-efficiently Tuning Large Language Model for Universal Dialogue of 3D Scenes", arXiv, 2023 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2308.08769)][[PyTorch](https://github.com/Chat-3D/Chat-3D)][[Website](https://chat-3d.github.io/)]
@@ -1770,6 +1774,7 @@ If you find this repository useful, please consider citing this list:
     * **RoCLIP**: "Robust Contrastive Language-Image Pre-training against Data Poisoning and Backdoor Attacks", NeurIPS, 2023 (*UCLA*). [[Paper](https://arxiv.org/abs/2303.06854)][[PyTorch](https://github.com/BigML-CS-UCLA/RoCLIP)]
     * **?**: "Benchmarking Robustness of Adaptation Methods on Pre-trained Vision-Language Models", NeurIPS (Datasets and Benchmarks), 2023 (*LMU Munich*). [[Paper](https://arxiv.org/abs/2306.02080)][[PyTorch](https://github.com/adarobustness/adaptation_robustness)][[Website](https://adarobustness.github.io/)]
     * **OGEN**: "Overcoming the Pitfalls of Vision-Language Model Finetuning for OOD Generalization", ICLR, 2024 (*Apple*). [[Paper](https://arxiv.org/abs/2401.15914)]
+    * **APT**: "One Prompt Word is Enough to Boost Adversarial Robustness for Pre-trained Vision-Language Models", CVPR, 2024 (*King's College London*). [[Paper](https://arxiv.org/abs/2403.01849)][[PyTorch](https://github.com/TreeLLi/APT)]
     * **Robust-CLIP**: "Robust CLIP: Unsupervised Adversarial Fine-Tuning of Vision Embeddings for Robust Large Vision-Language Models", arXiv, 2024 (*University of Tubingen, Germany*). [[Paper](https://arxiv.org/abs/2402.12336)][[PyTorch](https://github.com/chs20/RobustVLM)]
 * Compositional Reasoning:
     * **SugarCrepe**: "SugarCrepe: Fixing Hackable Benchmarks for Vision-Language Compositionality", NeurIPS, 2023 (*AI2*). [[Paper](https://arxiv.org/abs/2306.14610)][[PyTorch](https://github.com/RAIVNLab/sugar-crepe)]
