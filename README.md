@@ -383,6 +383,7 @@ If you find this repository useful, please consider citing this list:
 * **manifold-K**: "A Manifold Representation of the Key in Vision Transformers", arXiv, 2024 (*University of Oslo, Norway*). [[Paper](https://arxiv.org/abs/2402.00534)]
 * **BiXT**: "Perceiving Longer Sequences With Bi-Directional Cross-Attention Transformers", arXiv, 2024 (*University of Melbourne*). [[Paper](https://arxiv.org/abs/2402.12138)]
 * **VisionLLaMA**: "VisionLLaMA: A Unified LLaMA Interface for Vision Tasks", arXiv, 2024 (*Meituan*). [[Paper](https://arxiv.org/abs/2403.00522)][[Code (in construction)](https://github.com/Meituan-AutoML/VisionLLaMA)]
+* **xT**: "xT: Nested Tokenization for Larger Context in Large Images", arXiv, 2024 (*Berkeley*). [[Paper](https://arxiv.org/abs/2403.01915)]
 #### Efficient Vision Transformer
 * **DeiT**: "Training data-efficient image transformers & distillation through attention", ICML, 2021 (*Facebook*). [[Paper](https://arxiv.org/abs/2012.12877)][[PyTorch](https://github.com/facebookresearch/deit)]
 * **ConViT**: "ConViT: Improving Vision Transformers with Soft Convolutional Inductive Biases", ICML, 2021 (*Facebook*). [[Paper](https://arxiv.org/abs/2103.10697)][[Code](https://github.com/facebookresearch/convit)]
@@ -897,7 +898,8 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **DFFormer**: "FFT-based Dynamic Token Mixer for Vision", arXiv, 2023 (*Rikkyo University, Japan*). [[Paper](https://arxiv.org/abs/2303.03932)][[Code (in construction)](https://github.com/okojoalg/dfformer)]
 * **?**: "ConvNets Match Vision Transformers at Scale", arXiv, 2023 (*DeepMind*). [[Paper](https://arxiv.org/abs/2310.16764)]
 * **VMamba**: "VMamba: Visual State Space Model", arXiv, 2024 (*CAS*). [[Paper](https://arxiv.org/abs/2401.10166)][[PyTorch](https://github.com/MzeroMiko/VMamba)]
-* **Vim**: "Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model", arXiv, 2024 (*Huazhong University of Science and Technology*). [[Paper](https://arxiv.org/abs/2401.09417)][[PyTorch](https://github.com/hustvl/Vim)]
+* **Vim**: "Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model", arXiv, 2024 (*Huazhong University of Science and Technology*). [[Paper](https://arxiv.org/abs/2401.09417)][[PyTorch](https://github.com/hustvl/Vim
+**VRWKV**: "Vision-RWKV: Efficient and Scalable Visual Perception with RWKV-Like Architectures", arXiv, 2024 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2403.02308)][[PyTorch](https://github.com/OpenGVLab/Vision-RWKV)]
 
 [[Back to Overview](#overview)]
 
@@ -1761,6 +1763,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **SemiVL**: "SemiVL: Semi-Supervised Semantic Segmentation with Vision-Language Guidance", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2311.16241)][[PyTorch](https://github.com/google-research/semivl)]
     * **Self-reinforcement**: "Progressive Uncertain Feature Self-reinforcement for Weakly Supervised Semantic Segmentation", AAAI, 2024 (*Zhejiang Lab*). [[Paper](https://arxiv.org/abs/2312.08916)][[PyTorch](https://github.com/Jessie459/feature-self-reinforcement)]
     * **SeCo**: "Separate and Conquer: Decoupling Co-occurrence via Decomposition and Representation for Weakly Supervised Semantic Segmentation", CVPR, 2024 (*Fudan*). [[Paper](https://arxiv.org/abs/2402.18467)][[Code (in construction)](https://github.com/zwyang6/SeCo)]
+    * **AllSpark**: "AllSpark: Reborn Labeled Features from Unlabeled in Transformer for Semi-Supervised Semantic Segmentation", CVPR, 2024 (*HKUST*). [[Paper](https://arxiv.org/abs/2403.01818)][[PyTorch](https://github.com/xmed-lab/AllSpark)]
     * **SemPLeS**: "SemPLeS: Semantic Prompt Learning for Weakly-Supervised Semantic Segmentation", arXiv, 2024 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2401.11791)]
     * **WeakSAM**: "WeakSAM: Segment Anything Meets Weakly-supervised Instance-level Recognition", arXiv, 2024 (*Huazhong University of Science & Technology (HUST)*). [[Paper](https://arxiv.org/abs/2402.14812)][[PyTorch](https://github.com/hustvl/WeakSAM)]
     * **CoSA**: "Weakly Supervised Co-training with Swapping Assignments for Semantic Segmentation", arXiv, 2024 (*Lancaster University, UK*). [[Paper](https://arxiv.org/abs/2402.17891)][[Code (in construction)](https://github.com/youshyee/CoSA)]
@@ -2251,6 +2254,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **BriVIS**: "Instance Brownian Bridge as Texts for Open-vocabulary Video Instance Segmentation", arXiv, 2024 (*Peking*). [[Paper](https://arxiv.org/abs/2401.09732)][[PyTorch (in construction)](https://github.com/sennnnn/OpenVIS)]
     * **ActionHub**: "ActionHub: A Large-scale Action Video Description Dataset for Zero-shot Action Recognition", arXiv, 2024 (*Sun Yat-sen University*). [[Paper](https://arxiv.org/abs/2401.11654)]
     * **ZERO**: "Zero Shot Open-ended Video Inference", arXiv, 2024 (*A\*STAR*). [[Paper](https://arxiv.org/abs/2401.12471)]
+    * **SATA**: "Rethinking CLIP-based Video Learners in Cross-Domain Open-Vocabulary Action Recognition", arXiv, 2024 (*Sun Yat-sen University*). [[Paper](https://arxiv.org/abs/2403.01560)][[Code (in construction)](https://github.com/KunyuLin/XOV-Action/)]
 * X-supervised Learning:
     * **LSTCL**: "Long-Short Temporal Contrastive Learning of Video Transformers", CVPR, 2022 (*Facebook*). [[Paper](https://arxiv.org/abs/2106.09212)]
     * **SVT**: "Self-supervised Video Transformer", CVPR, 2022 (*Stony Brook*). [[Paper](https://arxiv.org/abs/2112.01514)][[PyTorch](https://github.com/kahnchana/svt)][[Website](https://kahnchana.github.io/svt/)]
