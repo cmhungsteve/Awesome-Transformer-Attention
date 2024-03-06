@@ -843,6 +843,7 @@ If you find this repository useful, please consider citing this list:
 * **Zero-TP**: "Zero-TPrune: Zero-Shot Token Pruning through Leveraging of the Attention Graph in Pre-Trained Transformers", arXiv, 2023 (*Princeton*). [[Paper](https://arxiv.org/abs/2305.17328)]
 * **?**: "Quantizable Transformers: Removing Outliers by Helping Attention Heads Do Nothing", arXiv, 2023 (*Qualcomm*). [[Paper](https://arxiv.org/abs/2306.12929)]
 * **VVTQ**: "Variation-aware Vision Transformer Quantization", arXiv, 2023 (*HKUST*). [[Paper](https://arxiv.org/abs/2307.00331)][[PyTorch](https://github.com/HuangOwen/VVTQ)]
+* **MADTP**: "MADTP: Multimodal Alignment-Guided Dynamic Token Pruning for Accelerating Vision-Language Transformer", CVPR, 2024 (*Fudan*). [[Paper](https://arxiv.org/abs/2403.02991)][[Code (in construction)](https://github.com/double125/MADTP)]
 
 [[Back to Overview](#overview)]
 
@@ -2008,6 +2009,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * Group Activity:
     * **GroupFormer**: "GroupFormer: Group Activity Recognition with Clustered Spatial-Temporal Transformer", ICCV, 2021 (*Sensetime*). [[Paper](https://arxiv.org/abs/2108.12630)]
     * **?**: "Hunting Group Clues with Transformers for Social Group Activity Recognition", ECCV, 2022 (*Hitachi*). [[Paper](https://arxiv.org/abs/2207.05254)]
+    * **GAFL**: "Learning Group Activity Features Through Person Attribute Prediction", CVPR, 2024 (*Toyota Technological Institute, Japan*). [[Paper](https://arxiv.org/abs/2403.02753)]
 
 [[Back to Overview](#overview)]
 
@@ -2296,6 +2298,8 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **MA-CLIP**: "Multimodal Adaptation of CLIP for Few-Shot Action Recognition", arXiv, 2023 (*Zhejiang*). [[Paper](https://arxiv.org/abs/2308.01532)]
     * **SA-CT**: "On the Importance of Spatial Relations for Few-shot Action Recognition", arXiv, 2023 (*Fudan*). [[Paper](https://arxiv.org/abs/2308.07119)]
     * **CapFSAR**: "Few-shot Action Recognition with Captioning Foundation Models", arXiv, 2023 (*Alibaba*). [[Paper](https://arxiv.org/abs/2310.10125)]
+* Multi-Task:
+    * **EgoPack**: "A Backpack Full of Skills: Egocentric Video Understanding with Diverse Task Perspectives", CVPR, 2024 (*Politecnico di Torino, Italy*). [[Paper](https://arxiv.org/abs/2403.03037)][[PyTorch (in construction)](https://github.com/sapeirone/EgoPack)][[Website](https://sapeirone.github.io/EgoPack/)]
 * Anomaly Detection:
     * **CT-D2GAN**: "Convolutional Transformer based Dual Discriminator Generative Adversarial Networks for Video Anomaly Detection", ACMMM, 2021 (*NEC*). [[Paper](https://arxiv.org/abs/2107.13720)]
     * **ADTR**: "ADTR: Anomaly Detection Transformer with Feature Reconstruction", International Conference on Neural Information Processing (ICONIP), 2022 (*Shanghai Jiao Tong University*). [[Paper](https://arxiv.org/abs/2209.01816)]
