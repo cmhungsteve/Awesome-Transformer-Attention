@@ -1160,6 +1160,7 @@ If you find this repository useful, please consider citing this list:
 * **SA<sup>2</sup>VP**: "SA<sup>2</sup>VP: Spatially Aligned-and-Adapted Visual Prompt", AAAI, 2024 (*Harbin Institute of Technology*). [[Paper](https://arxiv.org/abs/2312.10376)][[PyTorch](https://github.com/tommy-xq/SA2VP)]
 * **CPL**: "Concept-Guided Prompt Learning for Generalization in Vision-Language Models", AAAI, 2024 (*Harbin Institute of Technology*). [[Paper](https://arxiv.org/abs/2401.07457)]
 * **?**: "Facing the Elephant in the Room: Visual Prompt Tuning or Full Finetuning?", ICLR, 2024 (*Rochester Institute of Technology*). [[Paper](https://arxiv.org/abs/2401.12902)]
+* **PromptKD**: "PromptKD: Unsupervised Prompt Distillation for Vision-Language Models", CVPR, 2024 (*Nankai University*). [[Paper](https://arxiv.org/abs/2403.02781)][[PyTorch](https://github.com/zhengli97/PromptKD)][[Website](https://zhengli97.github.io/PromptKD/)]
 * **ProText**: "Learning to Prompt with Text Only Supervision for Vision-Language Models", arXiv, 2024 (*MBZUAI*). [[Paper](https://arxiv.org/abs/2401.02418)][[PyTorch](https://github.com/muzairkhattak/ProText)][[Website](https://muzairkhattak.github.io/ProText/)]
 * **Any-shift**: "Any-Shift Prompting for Generalization over Distributions", arXiv, 2024 (*UvA*). [[Paper](https://arxiv.org/abs/2402.10099)]
 * **SPT**: "Revisiting the Power of Prompt for Visual Tuning", arXiv, 2024 (*Hefei University of Technology*). [[Paper](https://arxiv.org/abs/2402.02382)][[PyTorch](https://github.com/WangYZ1608/Self-Prompt-Tuning)]
@@ -1661,6 +1662,7 @@ If you find this repository useful, please consider citing this list:
     * **ChartVLM**: "ChartX & ChartVLM: A Versatile Benchmark and Foundation Model for Complicated Chart Reasoning", arXiv, 2024 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2402.12185)][[PyTorch](https://github.com/UniModal4Reasoning/ChartVLM)]
     * **Vision-Flan**: "Vision-Flan: Scaling Human-Labeled Tasks in Visual Instruction Tuning", arXiv, 2024 (*Virginia Tech*). [[Paper](https://arxiv.org/abs/2402.11690)]
     * **CoLLaVO**: "CoLLaVO: Crayon Large Language and Vision mOdel", arXiv, 2024 (*KAIST*). [[Paper](https://arxiv.org/abs/2402.11248)]
+    * **LLaVA-HR**: "Feast Your Eyes: Mixture-of-Resolution Adaptation for Multimodal Large Language Models", arXiv, 2024 (*Xiamen University*). [[Paper](https://arxiv.org/abs/2403.03003)][[PyTorch](https://github.com/luogen1996/LLaVA-HR)]
 * Conversation (Video):
     * **Video-ChatCaptioner**: "Video ChatCaptioner: Towards the Enriched Spatiotemporal Descriptions", arXiv, 2023 (*KAUST*). [[Paper](https://arxiv.org/abs/2304.04227)][[PyTorch](https://github.com/Vision-CAIR/ChatCaptioner)]
     * **ChatVideo**: "ChatVideo: A Tracklet-centric Multimodal and Versatile Video Understanding System", arXiv, 2023 (*Fudan*). [[Paper](https://arxiv.org/abs/2304.14407)][[Website](https://www.wangjunke.info/ChatVideo/)]
