@@ -122,6 +122,7 @@ If you find this repository useful, please consider citing this list:
     * **DisCLIP**: "DisCLIP: Open-Vocabulary Referring Expression Generation", arXiv, 2024 (*Bar-Ilan University, Israel*). [[Paper](https://arxiv.org/abs/2305.19108)]
     * **MacCap**: "Mining Fine-Grained Image-Text Alignment for Zero-Shot Captioning via Text-Only Training", AAAI, 2024 (*ShanghaiTech*). [[Paper](https://arxiv.org/abs/2401.02347)][[Code (in construction)](https://github.com/Artanic30/MacCap)]
     * **RegionGPT**: "RegionGPT: Towards Region Understanding Vision Language Model", CVPR, 2024 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2403.02330)][[Website](https://guoqiushan.github.io/regiongpt.github.io/)]
+    * **MeaCap**: "MeaCap: Memory-Augmented Zero-shot Image Captioning", CVPR, 2024 (*Xidian University*). [[Paper](https://arxiv.org/abs/2403.03715)][[Code (in construction)](https://github.com/joeyz0z/MeaCap)]
 * Video:
     * **Masked Transformers**: "End-to-End Dense Video Captioning with Masked Transformer", CVPR, 2018 (*UMich + Salesforce*). [[Paper](https://openaccess.thecvf.com/content_cvpr_2018/html/Zhou_End-to-End_Dense_Video_CVPR_2018_paper.html)][[PyTorch](https://github.com/salesforce/densecap)]
     * **BMT**: "A Better Use of Audio-Visual Cues: Dense Video Captioning with Bi-modal Transformer", BMVC, 2020 (*Tampere University, Finland*). [[Paper](https://arxiv.org/abs/2005.08271)][[PyTorch](https://github.com/v-iashin/bmt)][[Website](https://iashin.ai/bmt)]
@@ -260,6 +261,7 @@ If you find this repository useful, please consider citing this list:
     * **?**: "Advancing Large Multi-modal Models with Explicit Chain-of-Reasoning and Visual Question Generation", arXiv, 2024 (*University of Tokyo*). [[Paper](https://arxiv.org/abs/2401.10005)]
     * **MultipanelVQA**: "Muffin or Chihuahua? Challenging Large Vision-Language Models with Multipanel VQA", arXiv, 2024 (*eBay*). [[Paper](https://arxiv.org/abs/2401.15847)][[Website](https://sites.google.com/view/multipanelvqa/home)]
     * **Proximity-QA**: "Proximity QA: Unleashing the Power of Multi-Modal Large Language Models for Spatial Proximity Analysis", arXiv, 2024 (*Peking*). [[Paper](https://arxiv.org/abs/2401.17862)][[Code (in construction)](https://github.com/NorthSummer/ProximityQA)]
+    * **SnapNTell**: "SnapNTell: Enhancing Entity-Centric Visual Question Answering with Retrieval Augmented Multimodal LLM", arXiv, 2024 (*Meta*). [[Paper](https://arxiv.org/abs/2403.04735)]
 * Video:
     * **?**: "Mounting Video Metadata on Transformer-based Language Model for Open-ended Video Question Answering", arXiv, 2021 (*Seoul National University*). [[Paper](https://arxiv.org/abs/2108.05158)]
     * **TPT**: "Temporal Pyramid Transformer with Multimodal Interaction for Video Question Answering", arXiv, 2021 (*CAS*). [[Paper](https://arxiv.org/abs/2109.04735)]
@@ -637,7 +639,8 @@ If you find this repository useful, please consider citing this list:
     * **TiMix**: "TiMix: Text-aware Image Mixing for Effective Vision-Language Pre-training", AAAI, 2024 (*Peking*). [[Paper](https://arxiv.org/abs/2312.08846)]
     * **ECLIPSE**: "Expediting Contrastive Language-Image Pretraining via Self-distilled Encoders", AAAI, 2024 (*LG*). [[Paper](https://arxiv.org/abs/2312.12659)]
     * **ASM**: "The All-Seeing Project: Towards Panoptic Visual Recognition and Understanding of the Open World", ICLR, 2024 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2308.01907)][[PyTorch](https://github.com/OpenGVLab/All-Seeing)][[Demo](https://huggingface.co/spaces/OpenGVLab/all-seeing)]
-    * **NARVL**: "Non-autoregressive Sequence-to-Sequence Vision-Language Models", CVPR, 2024 (*AWS*). [[Paper](https://arxiv.org/abs/2403.02249)]
+    * **NARVL**: "Non-autoregressive Sequence-to-Sequence Vision-Language Models", CVPR, 2024 (*Amazon*). [[Paper](https://arxiv.org/abs/2403.02249)]
+    * **S4**: "Enhancing Vision-Language Pre-training with Rich Supervisions", CVPR, 2024 (*Amazon*). [[Paper](https://arxiv.org/abs/2403.03346)]
     * **COSMO**: "COSMO: COntrastive Streamlined MultimOdal Model with Interleaved Pre-Training", arXiv, 2024 (*Microsoft*). [[Paper](https://arxiv.org/abs/2401.00849)][[PyTorch](https://github.com/showlab/cosmo)][[Website](https://fingerrec.github.io/cosmo/)]
     * **?**: "Low-Resource Vision Challenges for Foundation Models", arXiv, 2024 (*UvA*). [[Paper](https://arxiv.org/abs/2401.04716)][[Code (in construction)](https://github.com/xiaobai1217/Low-Resource-Vision)][[Website](https://xiaobai1217.github.io/Low-Resource-Vision/)]
     * **UMG-CLIP**: "UMG-CLIP: A Unified Multi-Granularity Vision Generalist for Open-World Understanding", arXiv, 2024 (*Huawei*). [[Paper](https://arxiv.org/abs/2401.06397)]
@@ -964,7 +967,6 @@ If you find this repository useful, please consider citing this list:
     * **DreamLLM**: "DreamLLM: Synergistic Multimodal Comprehension and Creation", arXiv, 2023 (*Megvii*). [[Paper](https://arxiv.org/abs/2309.11499)][[Code (in construction)](https://github.com/RunpeiDong/DreamLLM)][[Website](https://dreamllm.github.io/)]
     * **FreeU**: "FreeU: Free Lunch in Diffusion U-Net", arXiv, 2023 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2309.11497)][[Website](https://chenyangsi.top/FreeU/)][[Code (in construction)](https://github.com/ChenyangSi/FreeU)]
     * **Emu**: "Emu: Enhancing Image Generation Models Using Photogenic Needles in a Haystack", arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2309.15807)]
-    * **PixArt-α**: "PixArt-α: Fast Training of Diffusion Transformer for Photorealistic Text-to-Image Synthesis", arXiv, 2023 (*Huawei*). [[Paper](https://arxiv.org/abs/2310.00426)][[Website](https://pixart-alpha.github.io/)]
     * **Kosmos-G**: "Kosmos-G: Generating Images in Context with Multimodal Large Language Models", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2310.02992)][[PyTorch](https://github.com/microsoft/unilm/tree/master/kosmos-g)][[Website](https://xichenpan.com/kosmosg/)]
     * **AlignProp**: "Aligning Text-to-Image Diffusion Models with Reward Backpropagation", arXiv, 2023 (*CMU*). [[Paper](https://arxiv.org/abs/2310.03739)][[PyTorch](https://github.com/mihirp1998/AlignProp/)][[Website](https://align-prop.github.io/)]
     * **Idea2Img**: "Idea2Img: Iterative Self-Refinement with GPT-4V(ision) for Automatic Image Design and Generation", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2310.08541)][[Website](https://idea2img.github.io/)]
@@ -977,6 +979,7 @@ If you find this repository useful, please consider citing this list:
     * **StoryGPT-V**: "Large Language Models as Consistent Story Visualizers", arXiv, 2023 (*KAUST*). [[Paper](https://arxiv.org/abs/2312.02252)][[PyTorch](https://anonymous.4open.science/r/story/README.md)][[Website](https://storygpt-v.s3.amazonaws.com/index.html)]
     * **StackedDiffusion**: "Generating Illustrated Instructions", arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2312.04552)][[Website](https://facebookresearch.github.io/IllustratedInstructions/)]
     * **VL-GPT**: "VL-GPT: A Generative Pre-trained Transformer for Vision and Language Understanding and Generation", arXiv, 2023 (*Tencent*). [[Paper](https://arxiv.org/abs/2312.09251)][[Code (in construction)](https://github.com/AILab-CVC/VL-GPT)]
+    * **PixArt-α**: "PixArt-α: Fast Training of Diffusion Transformer for Photorealistic Text-to-Image Synthesis", ICLR, 2024 (*Huawei*). [[Paper](https://arxiv.org/abs/2310.00426)][[PyTorch](https://github.com/PixArt-alpha/PixArt-alpha)][[Website](https://pixart-alpha.github.io/)]
     * **DistriFusion**: "DistriFusion: Distributed Parallel Inference for High-Resolution Diffusion Models", CVPR, 2024 (*MIT*). [[Paper](https://arxiv.org/abs/2402.19481)][[PyTorch](https://github.com/mit-han-lab/distrifuser)][[Website](https://hanlab.mit.edu/projects/distrifusion)]
     * **aMUSEd**: "aMUSEd: An Open MUSE Reproduction", arXiv, 2024 (*Hugging Face*). [[Paper](https://arxiv.org/abs/2401.01808)]
     * **Instruct-Imagen**: "Instruct-Imagen: Image Generation with Multi-modal Instruction", arXiv, 2024 (*Google*). [[Paper](https://arxiv.org/abs/2401.01952)]
@@ -987,6 +990,7 @@ If you find this repository useful, please consider citing this list:
     * **SDXL-Lightning**: "SDXL-Lightning: Progressive Adversarial Diffusion Distillation", arXiv, 2024 (*ByteDance*). [[Paper](https://arxiv.org/abs/2402.13929)]
     * **CG**: "Contrastive Prompts Improve Disentanglement in Text-to-Image Diffusion Models", arXiv, 2024 (*CMU*). [[Paper](https://arxiv.org/abs/2402.13490)]
     * **Gen4Gen**: "Gen4Gen: Generative Data Pipeline for Generative Multi-Concept Composition", arXiv, 2024 (*Berkeley*). [[Paper](https://arxiv.org/abs/2402.15504)][[Code (in construction)](https://github.com/louisYen/Gen4Gen)][[Website](https://danielchyeh.github.io/Gen4Gen/)]
+    * **PixArt-Σ**: "PixArt-Σ: Weak-to-Strong Training of Diffusion Transformer for 4K Text-to-Image Generation", arXiv, 2024 (*Huawei*). [[Paper](https://arxiv.org/abs/2403.04692)][[Website](https://pixart-alpha.github.io/PixArt-sigma-project/)]
 * Video:
     * **Imagen-Video**: "Imagen Video: High Definition Video Generation with Diffusion Models", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2210.02303)][[Website](https://imagen.research.google/video/)]
     * **Phenaki**: "Phenaki: Variable Length Video Generation From Open Domain Textual Description", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2210.02399)][[PyTorch (LAION-AI, in construction)](https://github.com/LAION-AI/phenaki)][[Website](https://phenaki.video/)]
@@ -1663,6 +1667,7 @@ If you find this repository useful, please consider citing this list:
     * **Vision-Flan**: "Vision-Flan: Scaling Human-Labeled Tasks in Visual Instruction Tuning", arXiv, 2024 (*Virginia Tech*). [[Paper](https://arxiv.org/abs/2402.11690)]
     * **CoLLaVO**: "CoLLaVO: Crayon Large Language and Vision mOdel", arXiv, 2024 (*KAIST*). [[Paper](https://arxiv.org/abs/2402.11248)]
     * **LLaVA-HR**: "Feast Your Eyes: Mixture-of-Resolution Adaptation for Multimodal Large Language Models", arXiv, 2024 (*Xiamen University*). [[Paper](https://arxiv.org/abs/2403.03003)][[PyTorch](https://github.com/luogen1996/LLaVA-HR)]
+    * **InfiMM-HD**: "InfiMM-HD: A Leap Forward in High-Resolution Multimodal Understanding", arXiv, 2024 (*CAS*). [[Paper](https://arxiv.org/abs/2403.01487)][[PyTorch](https://github.com/InfiMM/infimm-hd/)]
 * Conversation (Video):
     * **Video-ChatCaptioner**: "Video ChatCaptioner: Towards the Enriched Spatiotemporal Descriptions", arXiv, 2023 (*KAUST*). [[Paper](https://arxiv.org/abs/2304.04227)][[PyTorch](https://github.com/Vision-CAIR/ChatCaptioner)]
     * **ChatVideo**: "ChatVideo: A Tracklet-centric Multimodal and Versatile Video Understanding System", arXiv, 2023 (*Fudan*). [[Paper](https://arxiv.org/abs/2304.14407)][[Website](https://www.wangjunke.info/ChatVideo/)]
