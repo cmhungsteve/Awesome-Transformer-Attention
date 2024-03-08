@@ -633,6 +633,7 @@ If you find this repository useful, please consider citing this list:
     * **FAPFT**: "Partial Fine-Tuning: A Successor to Full Fine-Tuning for Vision Transformers", arXiv, 2023 (*Fudan*). [[Paper](https://arxiv.org/abs/2312.15681)]
     * **VMT-Adapter**: "VMT-Adapter: Parameter-Efficient Transfer Learning for Multi-Task Dense", AAAI, 2024 (*Tencent*). [[Paper](https://arxiv.org/abs/2312.08733)]
     * **VPTSP**: "Learning Semantic Proxies from Visual Prompts for Parameter-Efficient Fine-Tuning in Deep Metric Learning", ICLR, 2024 (*UCF*). [[Paper](https://arxiv.org/abs/2402.02340)][[Code (in construction)](https://github.com/Noahsark/ParameterEfficient-DML)]
+    * **LORS**: "LORS: Low-rank Residual Structure for Parameter-Efficient Network Stacking", CVPR, 2024 (*Tencent*). [[Paper](https://arxiv.org/abs/2403.04303)]
     * **Dr<sup>2</sup>Net**: "Dr<sup>2</sup>Net: Dynamic Reversible Dual-Residual Networks for Memory-Efficient Finetuning", arXiv, 2024 (*KAUST*). [[Paper](https://arxiv.org/abs/2401.04105)]
     * **ViSFT**: "Supervised Fine-tuning in turn Improves Visual Foundation Models", arXiv, 2024 (*Tencent*). [[Paper](https://arxiv.org/abs/2401.10222)][[PyTorch](https://github.com/TencentARC/ViSFT)]
     * **LAST**: "Low-rank Attention Side-Tuning for Parameter-Efficient Fine-Tuning", arXiv, 2024 (*Nanjing University*). [[Paper](https://arxiv.org/abs/2402.04009)]
@@ -1724,6 +1725,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **Diffusion-Hyperfeature**: "Diffusion Hyperfeatures: Searching Through Time and Space for Semantic Correspondence", NeurIPS, 2023 (*Berkeley*). [[Paper](https://arxiv.org/abs/2305.14334)][[PyTorch](https://github.com/diffusion-hyperfeatures/diffusion_hyperfeatures)][[Website](https://diffusion-hyperfeatures.github.io/)]
     * **LDM-correspondence**: "Unsupervised Semantic Correspondence Using Stable Diffusion", NeurIPS, 2023 (*UBC*). [[Paper](https://arxiv.org/abs/2305.15581)][[PyTorch](https://github.com/ubc-vision/LDM_correspondences)][[Website](https://ubc-vision.github.io/LDM_correspondences/)]
     * **VSFormer**: "VSFormer: Visual-Spatial Fusion Transformer for Correspondence Pruning", AAAI, 2024 (*Wenzhou University*). [[Paper](https://arxiv.org/abs/2312.08774)][[Code (in construction)](https://github.com/sugar-fly/VSFormer)]
+    * **Efficient-LoFTR**: "Efficient LoFTR: Semi-Dense Local Feature Matching with Sparse-Like Speed", CVPR, 2024 (*Zhejiang*). [[Paper](https://arxiv.org/abs/2403.04765)][[Code (in construction)](https://github.com/zju3dv/efficientloftr)][[Website](https://zju3dv.github.io/efficientloftr/)]
 * Fine-grained:
     * **ViT-FGVC**: "Exploring Vision Transformers for Fine-grained Classification", CVPRW, 2021 (*Universidad de Valladolid*). [[Paper](https://arxiv.org/abs/2106.10587)]
     * **FFVT**: "Feature Fusion Vision Transformer for Fine-Grained Visual Categorization", BMVC, 2021 (*Griffith University, Australia*). [[Paper](https://arxiv.org/abs/2107.02341)][[PyTorch](https://github.com/Markin-Wang/FFVT)]
@@ -2184,6 +2186,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
 * **AttendNeXt**: "Faster Attention Is What You Need: A Fast Self-Attention Neural Network Backbone Architecture for the Edge via Double-Condensing Attention Condensers", arXiv, 2022 (*University of Waterloo, Canada*). [[Paper](https://arxiv.org/abs/2208.06980)]
 * **Token-Mixing-Adaptive-FNO**: "Efficient Token Mixing for Transformers via Adaptive Fourier Neural Operators", ICLR, 2022 (*NVIDIA + Caltech + Stanford*). [[Paper](https://openreview.net/forum?id=EXHG-A3jlM)][[PyTorch](https://github.com/NVlabs/AFNO-transformer)]
 * **KV-Transformer**: "Key-Value Transformer", arXiv, 2023 (*Quintic AI*). [[Paper](https://arxiv.org/abs/2305.19129)]
+* **NATTEN**: "Faster Neighborhood Attention: Reducing the O(n^2) Cost of Self Attention at the Threadblock Level", arXiv, 2024 (*UIUC*). [[Paper](https://arxiv.org/abs/2403.04690)][[PyTorch](https://github.com/SHI-Labs/NATTEN)][[Website](https://shi-labs.com/natten/)]
 
 [[Back to Overview](#overview)]
 
