@@ -132,6 +132,7 @@ If you find this repository useful, please consider citing this list:
 
 ## Survey
 * "A Survey on Multimodal Large Language Models for Autonomous Driving", WACVW, 2024 (*Purdue*). [[Paper](https://arxiv.org/abs/2311.12320)][[GitHub](https://github.com/IrohXu/Awesome-Multimodal-LLM-Autonomous-Driving)]
+* "Controllable Generation with Text-to-Image Diffusion Models: A Survey", arXiv, 2024 (*Beijing University of Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2403.04279)][[GitHub](https://github.com/PRIV-Creation/Awesome-Controllable-T2I-Diffusion-Models)]
 * "Sora: A Review on Background, Technology, Limitations, and Opportunities of Large Vision Models", arXiv, 2024 (*Lehigh University, Pennsylvania*). [[Paper](https://arxiv.org/abs/2402.17177)][[GitHub](https://github.com/lichao-sun/SoraReview)]
 * "Large Multimodal Agents: A Survey", arXiv, 2024 (*CUHK*). [[Paper](https://arxiv.org/abs/2402.15116)][[GitHub](https://github.com/jun0wanan/awesome-large-multimodal-agents)]
 * "Parameter-Efficient Fine-Tuning for Pre-Trained Vision Models: A Survey", arXiv, 2024 (*BIGAI*). [[Paper](https://arxiv.org/abs/2402.02242)][[GitHub](https://github.com/synbol/Awesome-Parameter-Efficient-Transfer-Learning)]
@@ -384,6 +385,7 @@ If you find this repository useful, please consider citing this list:
 * **BiXT**: "Perceiving Longer Sequences With Bi-Directional Cross-Attention Transformers", arXiv, 2024 (*University of Melbourne*). [[Paper](https://arxiv.org/abs/2402.12138)]
 * **VisionLLaMA**: "VisionLLaMA: A Unified LLaMA Interface for Vision Tasks", arXiv, 2024 (*Meituan*). [[Paper](https://arxiv.org/abs/2403.00522)][[Code (in construction)](https://github.com/Meituan-AutoML/VisionLLaMA)]
 * **xT**: "xT: Nested Tokenization for Larger Context in Large Images", arXiv, 2024 (*Berkeley*). [[Paper](https://arxiv.org/abs/2403.01915)]
+* **ACC-ViT**: "ACC-ViT: Atrous Convolution's Comeback in Vision Transformers", arXiv, 2024 (*Purdue*). [[Paper](https://arxiv.org/abs/2403.04200)]
 #### Efficient Vision Transformer
 * **DeiT**: "Training data-efficient image transformers & distillation through attention", ICML, 2021 (*Facebook*). [[Paper](https://arxiv.org/abs/2012.12877)][[PyTorch](https://github.com/facebookresearch/deit)]
 * **ConViT**: "ConViT: Improving Vision Transformers with Soft Convolutional Inductive Biases", ICML, 2021 (*Facebook*). [[Paper](https://arxiv.org/abs/2103.10697)][[Code](https://github.com/facebookresearch/convit)]
@@ -1537,6 +1539,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **MobileSAMv2**: "MobileSAMv2: Faster Segment Anything to Everything", arXiv, 2023 (*Kyung Hee University*). [[Paper](https://arxiv.org/abs/2312.09579)][[PyTorch](https://github.com/ChaoningZhang/MobileSAM)]
     * **TinySAM**: "TinySAM: Pushing the Envelope for Efficient Segment Anything Model", arXiv, 2023 (*Huawei*). [[Paper](https://arxiv.org/abs/2312.13789)][[PyTorch](https://github.com/xinghaochen/TinySAM)]
     * **Conv-LoRA**: "Convolution Meets LoRA: Parameter Efficient Finetuning for Segment Anything Model", ICLR, 2024 (*Amazon*). [[Paper](https://arxiv.org/abs/2401.17868)][[PyTorch](https://github.com/autogluon/autogluon)]
+    * **PerSAM**: "Personalize Segment Anything Model with One Shot", ICLR, 2024 (*CUHK*). [[Paper](https://arxiv.org/abs/2305.03048)][[PyTorch](https://github.com/ZrrSkywalker/Personalize-SAM)]
     * **VRP-SAM**: "VRP-SAM: SAM with Visual Reference Prompt", CVPR, 2024 (*Baidu*). [[Paper](https://arxiv.org/abs/2402.17726)]
     * **BA-SAM**: "BA-SAM: Scalable Bias-Mode Attention Mask for Segment Anything Model", arXiv, 2024 (*Shanghai Jiao Tong*). [[Paper](https://arxiv.org/abs/2401.02317)]
     * **OV-SAM**: "Open-Vocabulary SAM: Segment and Recognize Twenty-thousand Classes Interactively", arXiv, 2024 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2401.02955)][[PyTorch](https://github.com/HarborYuan/ovsam)][[Website](https://www.mmlab-ntu.com/project/ovsam/)]
@@ -2109,6 +2112,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **Cutie**: "Putting the Object Back into Video Object Segmentation", arXiv, 2023 (*UIUC*). [[Paper](https://arxiv.org/abs/2310.12982)][[PyTorch](https://github.com/hkchengrex/Cutie)][[Website](https://hkchengrex.com/Cutie/)]
 * **M<sup>3</sup>T**: "M<sup>3</sup>T: Multi-Scale Memory Matching for Video Object Segmentation and Tracking", arXiv, 2023 (*UBC*). [[Paper](https://arxiv.org/abs/2312.08514)]
 * **?**: "Appearance-based Refinement for Object-Centric Motion Segmentation", arXiv, 2023 (*Oxford*). [[Paper](https://arxiv.org/abs/2312.11463)]
+* **DATTT**: "Depth-aware Test-Time Training for Zero-shot Video Object Segmentation", CVPR, 2024 (*University of Macau*). [[Paper](https://arxiv.org/abs/2403.04258)][[PyTorch](https://github.com/NiFangBaAGe/DATTT)][[Website](https://nifangbaage.github.io/DATTT/)]
 * **Point-VOS**: "Point-VOS: Pointing Up Video Object Segmentation", arXiv, 2024 (*RWTH Aachen University, Germany*). [[Paper](https://arxiv.org/abs/2402.05917)][[Website](https://pointvos.github.io/)]
 
 [[Back to Overview](#overview)]
@@ -2178,6 +2182,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **TTT-MAE**: "Test-Time Training on Video Streams", arXiv, 2023 (*Berkeley*). [[Paper](https://arxiv.org/abs/2307.05014)][[Website](https://video-ttt.github.io/)]
     * **UniVS**: "UniVS: Unified and Universal Video Segmentation with Prompts as Queries", CVPR, 2024 (*OPPO*). [[Paper](https://arxiv.org/abs/2402.18115)][[PyTorch](https://github.com/MinghanLi/UniVS)][[Website](https://sites.google.com/view/unified-video-seg-univs)]
     * **DVIS++**: "DVIS++: Improved Decoupled Framework for Universal Video Segmentation", arXiv, 2024 (*Wuhan University*). [[Paper](https://arxiv.org/abs/2312.13305)][[PyTorch](https://github.com/zhang-tao-whu/DVIS_Plus)]
+    * **SAM-PD**: "SAM-PD: How Far Can SAM Take Us in Tracking and Segmenting Anything in Videos by Prompt Denoising", arXiv, 2024 (*Zhejiang*). [[Paper](https://arxiv.org/abs/2403.04194)][[PyTorch (in construction)](https://github.com/infZhou/SAM-PD)]
 * Video Object Detection:
     * **TransVOD**: "End-to-End Video Object Detection with Spatial-Temporal Transformers", arXiv, 2021 (*Shanghai Jiao Tong + SenseTime*). [[Paper](https://arxiv.org/abs/2105.10920)][[Code (in construction)](https://github.com/SJTU-LuHe/TransVOD)]
     * **MODETR**: "MODETR: Moving Object Detection with Transformers", arXiv, 2021 (*Valeo, Egypt*). [[Paper](https://arxiv.org/abs/2106.11422)]
