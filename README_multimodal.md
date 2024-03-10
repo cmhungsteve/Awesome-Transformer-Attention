@@ -981,6 +981,7 @@ If you find this repository useful, please consider citing this list:
     * **VL-GPT**: "VL-GPT: A Generative Pre-trained Transformer for Vision and Language Understanding and Generation", arXiv, 2023 (*Tencent*). [[Paper](https://arxiv.org/abs/2312.09251)][[Code (in construction)](https://github.com/AILab-CVC/VL-GPT)]
     * **PixArt-α**: "PixArt-α: Fast Training of Diffusion Transformer for Photorealistic Text-to-Image Synthesis", ICLR, 2024 (*Huawei*). [[Paper](https://arxiv.org/abs/2310.00426)][[PyTorch](https://github.com/PixArt-alpha/PixArt-alpha)][[Website](https://pixart-alpha.github.io/)]
     * **DistriFusion**: "DistriFusion: Distributed Parallel Inference for High-Resolution Diffusion Models", CVPR, 2024 (*MIT*). [[Paper](https://arxiv.org/abs/2402.19481)][[PyTorch](https://github.com/mit-han-lab/distrifuser)][[Website](https://hanlab.mit.edu/projects/distrifusion)]
+    * **DPT**: "Discriminative Probing and Tuning for Text-to-Image Generation", CVPR, 2024 (*NUS*). [[Paper](https://arxiv.org/abs/2403.04321)][[Code (in construction)](https://github.com/LgQu/DPT-T2I)][[Website](https://dpt-t2i.github.io/)]
     * **aMUSEd**: "aMUSEd: An Open MUSE Reproduction", arXiv, 2024 (*Hugging Face*). [[Paper](https://arxiv.org/abs/2401.01808)]
     * **Instruct-Imagen**: "Instruct-Imagen: Image Generation with Multi-modal Instruction", arXiv, 2024 (*Google*). [[Paper](https://arxiv.org/abs/2401.01952)]
     * **DiffusionGPT**: "DiffusionGPT: LLM-Driven Text-to-Image Generation System", arXiv, 2024 (*ByteDance*). [[Paper](https://arxiv.org/abs/2401.10061)][[PyTorch](https://github.com/DiffusionGPT/DiffusionGPT)][[Website](https://diffusiongpt.github.io/)]
@@ -1025,6 +1026,7 @@ If you find this repository useful, please consider citing this list:
     * **ActAnywhere**: "ActAnywhere: Subject-Aware Video Background Generation", arXiv, 2024 (*Adobe*). [[Paper](https://arxiv.org/abs/2401.10822)][[Website](https://actanywhere.github.io/)]
     * **Lumiere**: "Lumiere: A Space-Time Diffusion Model for Video Generation", arXiv, 2024 (*Google*). [[Paper](https://arxiv.org/abs/2401.12945)][[Website](https://lumiere-video.github.io/)]
     * **Snap-Video**: "Snap Video: Scaled Spatiotemporal Transformers for Text-to-Video Synthesis", arXiv, 2024 (*Snap*). [[Paper](https://arxiv.org/abs/2402.14797)][[Website](https://snap-research.github.io/snapvideo/)]
+    * **Pix2Gif**: "Pix2Gif: Motion-Guided Diffusion for GIF Generation", arXiv, 2024 (*Microsoft*). [[Paper](https://arxiv.org/abs/2403.04634)][[PyTorch](https://github.com/hiteshK03/Pix2Gif)][[Website](https://hiteshk03.github.io/Pix2Gif/)]
 * 3D:
     * **Magic3D**: "Magic3D: High-Resolution Text-to-3D Content Creation", CVPR, 2023 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2211.10440)][[Website](https://research.nvidia.com/labs/dir/magic3d/)]
     * **CLIP-Sculptor**: "CLIP-Sculptor: Zero-Shot Generation of High-Fidelity and Diverse Shapes from Natural Language", CVPR, 2023 (*Autodesk*). [[Paper](https://arxiv.org/abs/2211.01427)][[Website](https://ivl.cs.brown.edu/#/projects/clip-sculptor)]
@@ -1713,6 +1715,7 @@ If you find this repository useful, please consider citing this list:
     * **?**: "Towards Grounded Visual Spatial Reasoning in Multi-Modal Vision Language Models", arXiv, 2023 (*George Mason University*). [[Paper](https://arxiv.org/abs/2308.09778)]
     * **ViCor**: "ViCor: Bridging Visual Understanding and Commonsense Reasoning with Large Language Models", arXiv, 2023 (*UC Santa Cruz*). [[Paper](https://arxiv.org/abs/2310.05872)]
     * **GENOME**: "GENOME: GenerativE Neuro-symbOlic visual reasoning by growing and reusing ModulEs", arXiv, 2023 (*IBM*). [[Paper](https://arxiv.org/abs/2311.04901)][[PyTorch](https://github.com/UMass-Foundation-Model/genome)][[Website](https://vis-www.cs.umass.edu/genome/)]
+    * **?**: "How Far Are We from Intelligent Visual Deductive Reasoning?", ICLRW, 2024 (*Apple*). [[Paper](https://arxiv.org/abs/2403.04732)]
     * **SpatialVLM**: "SpatialVLM: Endowing Vision-Language Models with Spatial Reasoning Capabilities", arXiv, 2024 (*DeepMind*). [[Paper](https://arxiv.org/abs/2401.12168)][[Website](https://spatial-vlm.github.io/)]
 * Tracking:
     * **JointNLT**: "Joint Visual Grounding and Tracking with Natural Language Specification", CVPR, 2023 (*Harbin Institute of Technology*). [[Paper](https://arxiv.org/abs/2303.12027)][[PyTorch](https://github.com/lizhou-cs/JointNLT)]
