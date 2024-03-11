@@ -678,6 +678,7 @@ If you find this repository useful, please consider citing this list:
     * **FedTPG**: "Text-driven Prompt Generation for Vision-Language Models in Federated Learning", arXiv, 2023 (*Bosch*). [[Paper](https://arxiv.org/abs/2310.06123)]
     * **FedLGT**: "Language-Guided Transformer for Federated Multi-Label Classification", AAAI, 2024 (*NTU*). [[Paper](https://arxiv.org/abs/2312.07165)][[Code (in construction)](https://github.com/Jack24658735/FedLGT)]
     * **LLaVO**: "Large Language Models as Visual Cross-Domain Learners", arXiv, 2024 (*Southern University of Science and Technology*). [[Paper](https://arxiv.org/abs/2401.03253)][[Website](https://ll-a-vo.github.io/)][[PyTorch](https://github.com/LL-a-VO/LLaVO)]
+    * **LaGTrAn**: "Tell, Don't Show!: Language Guidance Eases Transfer Across Domains in Images and Videos", arXiv, 2024 (*UCSD*). [[Paper](https://arxiv.org/abs/2403.05535)][[Website](https://tarun005.github.io/lagtran/)]
 * X-Supervised:
     * **Semiformer**: "Semi-Supervised Vision Transformers", ECCV, 2022 (*Fudan University*). [[Paper](https://arxiv.org/abs/2111.11067)][[PyTorch](https://github.com/wengzejia1/Semiformer)]
     * **SVL-Adapter**: "SVL-Adapter: Self-Supervised Adapter for Vision-Language Pretrained Models", BMVC, 2022 (*UCL*). [[Paper](https://arxiv.org/abs/2210.03794)][[Code (in construction)](https://github.com/omipan/svl_adapter)]
@@ -1754,6 +1755,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **Gazeformer**: "Gazeformer: Scalable, Effective and Fast Prediction of Goal-Directed Human Attention", CVPR, 2023 (*Stony Brook*). [[Paper](https://arxiv.org/abs/2303.15274)][[PyTorch](https://github.com/cvlab-stonybrook/Gazeformer)]
     * **Sharingan**: "Sharingan: A Transformer-based Architecture for Gaze Following", arXiv, 2023 (*EPFL*). [[Paper](https://arxiv.org/abs/2310.00816)]
     * **TransGOP**: "TransGOP: Transformer-Based Gaze Object Prediction", AAAI, 2024 (*Xi'an University of Architecture and Technology*). [[Paper](https://arxiv.org/abs/2402.13578)]
+    * **CLIP-Gaze**: "CLIP-Gaze: Towards General Gaze Estimation via Visual-Linguistic Model", AAAI, 2024 (*Hikvision*). [[Paper](https://arxiv.org/abs/2403.05124)]
 * Geo-Localization:
     * **EgoTR**: "Cross-view Geo-localization with Evolving Transformer", arXiv, 2021 (*Shenzhen University*). [[Paper](https://arxiv.org/abs/2107.00842)]
     * **TransGeo**: "TransGeo: Transformer Is All You Need for Cross-view Image Geo-localization", CVPR, 2022 (*UCF*). [[Paper](https://arxiv.org/abs/2204.00097)][[PyTorch](https://github.com/Jeff-Zilence/TransGeo2022)]
