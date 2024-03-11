@@ -132,6 +132,7 @@ If you find this repository useful, please consider citing this list:
 
 ## Survey
 * "A Survey on Multimodal Large Language Models for Autonomous Driving", WACVW, 2024 (*Purdue*). [[Paper](https://arxiv.org/abs/2311.12320)][[GitHub](https://github.com/IrohXu/Awesome-Multimodal-LLM-Autonomous-Driving)]
+* "Sora as an AGI World Model? A Complete Survey on Text-to-Video Generation", arXiv, 2024 (*Kyung Hee University*). [[Paper](https://arxiv.org/abs/2403.05131)]
 * "Controllable Generation with Text-to-Image Diffusion Models: A Survey", arXiv, 2024 (*Beijing University of Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2403.04279)][[GitHub](https://github.com/PRIV-Creation/Awesome-Controllable-T2I-Diffusion-Models)]
 * "Sora: A Review on Background, Technology, Limitations, and Opportunities of Large Vision Models", arXiv, 2024 (*Lehigh University, Pennsylvania*). [[Paper](https://arxiv.org/abs/2402.17177)][[GitHub](https://github.com/lichao-sun/SoraReview)]
 * "Large Multimodal Agents: A Survey", arXiv, 2024 (*CUHK*). [[Paper](https://arxiv.org/abs/2402.15116)][[GitHub](https://github.com/jun0wanan/awesome-large-multimodal-agents)]
@@ -1551,6 +1552,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **DeiSAM**: "DeiSAM: Segment Anything with Deictic Prompting", arXiv, 2024 (*TU Darmstadt, Germany*). [[Paper](https://arxiv.org/abs/2402.14123)]
     * **CAT-SAM**: "CAT-SAM: Conditional Tuning Network for Few-Shot Adaptation of Segmentation Anything Model", arXiv, 2024 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2402.03631)][[PyTorch (in construction)](https://github.com/weihao1115/cat-sam)][[Website](https://xiaoaoran.github.io/projects/CAT-SAM)]
     * **BLO-SAM**: "BLO-SAM: Bi-level Optimization Based Overfitting-Preventing Finetuning of SAM", arXiv, 2024 (*UCSD*). [[Paper](https://arxiv.org/abs/2402.16338)][[PyTorch](https://github.com/importZL/BLO-SAM)]
+    * **P<sup>2</sup>SAM**: "Part-aware Personalized Segment Anything Model for Patient-Specific Segmentation", arXiv, 2024 (*UMich*). [[Paper](https://arxiv.org/abs/2403.05433)]
 * Vision-Language:
     * **LSeg**: "Language-driven Semantic Segmentation", ICLR, 2022 (*Cornell*). [[Paper](https://arxiv.org/abs/2201.03546)][[PyTorch](https://github.com/isl-org/lang-seg)]
     * **ZegFormer**: "Decoupling Zero-Shot Semantic Segmentation", CVPR, 2022 (*Wuhan University*). [[Paper](https://arxiv.org/abs/2112.07910)][[PyTorch](https://github.com/dingjiansw101/ZegFormer)]
