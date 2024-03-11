@@ -1675,6 +1675,7 @@ If you find this repository useful, please consider citing this list:
     * **LLaVA-HR**: "Feast Your Eyes: Mixture-of-Resolution Adaptation for Multimodal Large Language Models", arXiv, 2024 (*Xiamen University*). [[Paper](https://arxiv.org/abs/2403.03003)][[PyTorch](https://github.com/luogen1996/LLaVA-HR)]
     * **InfiMM-HD**: "InfiMM-HD: A Leap Forward in High-Resolution Multimodal Understanding", arXiv, 2024 (*CAS*). [[Paper](https://arxiv.org/abs/2403.01487)][[PyTorch](https://github.com/InfiMM/infimm-hd/)]
     * **DeepSeek-VL**: "DeepSeek-VL: Towards Real-World Vision-Language Understanding", arXiv, 2024 (*DeepSeek, China*). [[Paper](https://arxiv.org/abs/2403.05525)][[PyTorch](https://github.com/deepseek-ai/DeepSeek-VL)]
+    * **Gemini-1.5**: "Gemini 1.5: Unlocking multimodal understanding across millions of tokens of context", arXiv, 2024 (*Google*). [[Paper](https://arxiv.org/abs/2403.05530)]
 * Conversation (Video):
     * **Video-ChatCaptioner**: "Video ChatCaptioner: Towards the Enriched Spatiotemporal Descriptions", arXiv, 2023 (*KAUST*). [[Paper](https://arxiv.org/abs/2304.04227)][[PyTorch](https://github.com/Vision-CAIR/ChatCaptioner)]
     * **ChatVideo**: "ChatVideo: A Tracklet-centric Multimodal and Versatile Video Understanding System", arXiv, 2023 (*Fudan*). [[Paper](https://arxiv.org/abs/2304.14407)][[Website](https://www.wangjunke.info/ChatVideo/)]
