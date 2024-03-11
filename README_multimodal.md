@@ -800,6 +800,8 @@ If you find this repository useful, please consider citing this list:
     * **STAIR**: "STAIR: Learning Sparse Text and Image Representation in Grounded Tokens", arXiv, 2023 (*Apple*). [[Paper](https://arxiv.org/abs/2301.13081)]
     * **ChatIR**: "Chatting Makes Perfect - Chat-based Image Retrieval", arXiv, 2023 (*The Hebrew University of Jerusalem, Israel*). [[Paper](https://arxiv.org/abs/2305.20062)]
     * **TransAgg**: "Zero-shot Composed Text-Image Retrieval", arXiv, 2023 (*Shanghai Jiao Tong*). [[Paper](https://arxiv.org/abs/2306.07272)][[PyTorch](https://github.com/Code-kunkun/ZS-CIR)][[Website](https://code-kunkun.github.io/ZS-CIR/)]
+    * **CUSA**: "Cross-Modal and Uni-Modal Soft-Label Alignment for Image-Text Retrieval", AAAI, 2024 (*Beihang University*). [[Paper](https://arxiv.org/abs/2403.05261)][[PyTorch](https://github.com/lerogo/aaai24_itr_cusa)]
+    * **L2RM**: "Learning to Rematch Mismatched Pairs for Robust Cross-Modal Retrieval", CVPR, 2024 (*Xi'an Jiaotong*). [[Paper](https://arxiv.org/abs/2403.05105)][[Code (in construction)](https://github.com/hhc1997/L2RM)]
 * Video:
     * **MMT**: "Multi-modal Transformer for Video Retrieval", ECCV, 2020 (*INRIA + Google*). [[Paper](https://arxiv.org/abs/2007.10639)][[Website](http://thoth.inrialpes.fr/research/MMT/)]
     * **AYCE**: "All You Can Embed: Natural Language based Vehicle Retrieval with Spatio-Temporal Transformers", CVPRW, 2021 (*University of Modena and Reggio Emilia*). [[Paper](https://arxiv.org/abs/2106.10153)][[PyTorch](https://github.com/cscribano/AYCE_2021)]
@@ -982,6 +984,7 @@ If you find this repository useful, please consider citing this list:
     * **PixArt-α**: "PixArt-α: Fast Training of Diffusion Transformer for Photorealistic Text-to-Image Synthesis", ICLR, 2024 (*Huawei*). [[Paper](https://arxiv.org/abs/2310.00426)][[PyTorch](https://github.com/PixArt-alpha/PixArt-alpha)][[Website](https://pixart-alpha.github.io/)]
     * **DistriFusion**: "DistriFusion: Distributed Parallel Inference for High-Resolution Diffusion Models", CVPR, 2024 (*MIT*). [[Paper](https://arxiv.org/abs/2402.19481)][[PyTorch](https://github.com/mit-han-lab/distrifuser)][[Website](https://hanlab.mit.edu/projects/distrifusion)]
     * **DPT**: "Discriminative Probing and Tuning for Text-to-Image Generation", CVPR, 2024 (*NUS*). [[Paper](https://arxiv.org/abs/2403.04321)][[Code (in construction)](https://github.com/LgQu/DPT-T2I)][[Website](https://dpt-t2i.github.io/)]
+    * **HcP**: "Towards Effective Usage of Human-Centric Priors in Diffusion Models for Text-based Human Image Generation", CVPR, 2024 (*University of New South Wales (UNSW), Australia*). [[Paper](https://arxiv.org/abs/2403.05239)][[Code (in construction)](https://github.com/hcplayercvpr2024/hcplayer)][[Website](https://hcplayercvpr2024.github.io/)]
     * **aMUSEd**: "aMUSEd: An Open MUSE Reproduction", arXiv, 2024 (*Hugging Face*). [[Paper](https://arxiv.org/abs/2401.01808)]
     * **Instruct-Imagen**: "Instruct-Imagen: Image Generation with Multi-modal Instruction", arXiv, 2024 (*Google*). [[Paper](https://arxiv.org/abs/2401.01952)]
     * **DiffusionGPT**: "DiffusionGPT: LLM-Driven Text-to-Image Generation System", arXiv, 2024 (*ByteDance*). [[Paper](https://arxiv.org/abs/2401.10061)][[PyTorch](https://github.com/DiffusionGPT/DiffusionGPT)][[Website](https://diffusiongpt.github.io/)]
@@ -992,6 +995,7 @@ If you find this repository useful, please consider citing this list:
     * **CG**: "Contrastive Prompts Improve Disentanglement in Text-to-Image Diffusion Models", arXiv, 2024 (*CMU*). [[Paper](https://arxiv.org/abs/2402.13490)]
     * **Gen4Gen**: "Gen4Gen: Generative Data Pipeline for Generative Multi-Concept Composition", arXiv, 2024 (*Berkeley*). [[Paper](https://arxiv.org/abs/2402.15504)][[Code (in construction)](https://github.com/louisYen/Gen4Gen)][[Website](https://danielchyeh.github.io/Gen4Gen/)]
     * **PixArt-Σ**: "PixArt-Σ: Weak-to-Strong Training of Diffusion Transformer for 4K Text-to-Image Generation", arXiv, 2024 (*Huawei*). [[Paper](https://arxiv.org/abs/2403.04692)][[Website](https://pixart-alpha.github.io/PixArt-sigma-project/)]
+    * **CogView3**: "CogView3: Finer and Faster Text-to-Image Generation via Relay Diffusion", arXiv, 2024 (*Zhipu AI, China*). [[Paper](https://arxiv.org/abs/2403.05121)]
 * Video:
     * **Imagen-Video**: "Imagen Video: High Definition Video Generation with Diffusion Models", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2210.02303)][[Website](https://imagen.research.google/video/)]
     * **Phenaki**: "Phenaki: Variable Length Video Generation From Open Domain Textual Description", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2210.02399)][[PyTorch (LAION-AI, in construction)](https://github.com/LAION-AI/phenaki)][[Website](https://phenaki.video/)]
@@ -1670,6 +1674,7 @@ If you find this repository useful, please consider citing this list:
     * **CoLLaVO**: "CoLLaVO: Crayon Large Language and Vision mOdel", arXiv, 2024 (*KAIST*). [[Paper](https://arxiv.org/abs/2402.11248)]
     * **LLaVA-HR**: "Feast Your Eyes: Mixture-of-Resolution Adaptation for Multimodal Large Language Models", arXiv, 2024 (*Xiamen University*). [[Paper](https://arxiv.org/abs/2403.03003)][[PyTorch](https://github.com/luogen1996/LLaVA-HR)]
     * **InfiMM-HD**: "InfiMM-HD: A Leap Forward in High-Resolution Multimodal Understanding", arXiv, 2024 (*CAS*). [[Paper](https://arxiv.org/abs/2403.01487)][[PyTorch](https://github.com/InfiMM/infimm-hd/)]
+    * **DeepSeek-VL**: "DeepSeek-VL: Towards Real-World Vision-Language Understanding", arXiv, 2024 (*DeepSeek, China*). [[Paper](https://arxiv.org/abs/2403.05525)][[PyTorch](https://github.com/deepseek-ai/DeepSeek-VL)]
 * Conversation (Video):
     * **Video-ChatCaptioner**: "Video ChatCaptioner: Towards the Enriched Spatiotemporal Descriptions", arXiv, 2023 (*KAUST*). [[Paper](https://arxiv.org/abs/2304.04227)][[PyTorch](https://github.com/Vision-CAIR/ChatCaptioner)]
     * **ChatVideo**: "ChatVideo: A Tracklet-centric Multimodal and Versatile Video Understanding System", arXiv, 2023 (*Fudan*). [[Paper](https://arxiv.org/abs/2304.14407)][[Website](https://www.wangjunke.info/ChatVideo/)]
