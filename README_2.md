@@ -678,6 +678,7 @@ If you find this repository useful, please consider citing this list:
     * **VPA**: "VPA: Fully Test-Time Visual Prompt Adaptation", arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2309.15251)]
     * **FedTPG**: "Text-driven Prompt Generation for Vision-Language Models in Federated Learning", arXiv, 2023 (*Bosch*). [[Paper](https://arxiv.org/abs/2310.06123)]
     * **FedLGT**: "Language-Guided Transformer for Federated Multi-Label Classification", AAAI, 2024 (*NTU*). [[Paper](https://arxiv.org/abs/2312.07165)][[Code (in construction)](https://github.com/Jack24658735/FedLGT)]
+    * **UniMoS**: "Split to Merge: Unifying Separated Modalities for Unsupervised Domain Adaptation", CVPR, 2024 (*University of Electronic Science and Technology of China*). [[Paper](https://arxiv.org/abs/2403.06946)][[PyTorch](https://github.com/TL-UESTC/UniMoS)]
     * **LLaVO**: "Large Language Models as Visual Cross-Domain Learners", arXiv, 2024 (*Southern University of Science and Technology*). [[Paper](https://arxiv.org/abs/2401.03253)][[Website](https://ll-a-vo.github.io/)][[PyTorch](https://github.com/LL-a-VO/LLaVO)]
     * **LaGTrAn**: "Tell, Don't Show!: Language Guidance Eases Transfer Across Domains in Images and Videos", arXiv, 2024 (*UCSD*). [[Paper](https://arxiv.org/abs/2403.05535)][[Website](https://tarun005.github.io/lagtran/)]
 * X-Supervised:
@@ -781,6 +782,7 @@ If you find this repository useful, please consider citing this list:
     * **PDC**: "Rethink Long-tailed Recognition with Vision Transforms", ICASSP, 2023 (*Tsinghua University*). [[Paper](https://arxiv.org/abs/2302.14284)]
     * **?**: "Exploring Vision-Language Models for Imbalanced Learning", arXiv, 2023 (*Peking University*). [[Paper](https://arxiv.org/abs/2304.01457)][[PyTorch](https://github.com/Imbalance-VLM/Imbalance-VLM)]
     * **LMPT**: "LMPT: Prompt Tuning with Class-Specific Embedding Loss for Long-tailed Multi-Label Visual Recognition", arXiv, 2023 (*Monash University, Australia*). [[Paper](https://arxiv.org/abs/2305.04536)][[PyTorch](https://github.com/richard-peng-xia/LMPT)]
+    * **LTGC**: "LTGC: Long-tail Recognition via Leveraging LLMs-driven Generated Content", CVPR, 2024 (*Beijing University of Chemical Technology*). [[Paper](https://arxiv.org/abs/2403.05854)]
 * Knowledge Distillation:
     * **?**: "Knowledge Distillation via the Target-aware Transformer", CVPR, 2022 (*Alibaba*). [[Paper](https://arxiv.org/abs/2205.10793)]
     * **DearKD**: "DearKD: Data-Efficient Early Knowledge Distillation for Vision Transformers", CVPR, 2022 (*JD*). [[Paper](https://arxiv.org/abs/2204.12997)]
