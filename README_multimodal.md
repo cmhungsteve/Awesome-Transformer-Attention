@@ -996,6 +996,7 @@ If you find this repository useful, please consider citing this list:
     * **Gen4Gen**: "Gen4Gen: Generative Data Pipeline for Generative Multi-Concept Composition", arXiv, 2024 (*Berkeley*). [[Paper](https://arxiv.org/abs/2402.15504)][[Code (in construction)](https://github.com/louisYen/Gen4Gen)][[Website](https://danielchyeh.github.io/Gen4Gen/)]
     * **PixArt-Σ**: "PixArt-Σ: Weak-to-Strong Training of Diffusion Transformer for 4K Text-to-Image Generation", arXiv, 2024 (*Huawei*). [[Paper](https://arxiv.org/abs/2403.04692)][[Website](https://pixart-alpha.github.io/PixArt-sigma-project/)]
     * **CogView3**: "CogView3: Finer and Faster Text-to-Image Generation via Relay Diffusion", arXiv, 2024 (*Zhipu AI, China*). [[Paper](https://arxiv.org/abs/2403.05121)]
+    * **SELMA**: "SELMA: Learning and Merging Skill-Specific Text-to-Image Experts with Auto-Generated Data", arXiv, 2024 (*UNC*). [[Paper](https://arxiv.org/abs/2403.06952)][[PyTorch](https://github.com/jialuli-luka/SELMA)][[Website](https://selma-t2i.github.io/)]
 * Video:
     * **Imagen-Video**: "Imagen Video: High Definition Video Generation with Diffusion Models", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2210.02303)][[Website](https://imagen.research.google/video/)]
     * **Phenaki**: "Phenaki: Variable Length Video Generation From Open Domain Textual Description", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2210.02399)][[PyTorch (LAION-AI, in construction)](https://github.com/LAION-AI/phenaki)][[Website](https://phenaki.video/)]
@@ -1513,6 +1514,7 @@ If you find this repository useful, please consider citing this list:
     * **SA-GS**: "Segment Anything in 3D Gaussians", arXiv, 2024 (*The Hong Kong Polytechnic University*). [[Paper](https://arxiv.org/abs/2401.17857)]
     * **OV-NeRF**: "OV-NeRF: Open-vocabulary Neural Radiance Fields with Vision and Language Foundation Models for 3D Semantic Understanding", arXiv, 2024 (*Peking*). [[Paper](https://arxiv.org/abs/2402.04648)]
     * **Open3DSG**: "Open3DSG: Open-Vocabulary 3D Scene Graphs from Point Clouds with Queryable Objects and Open-Set Relationships", arXiv, 2024 (*Bosch*). [[Paper](https://arxiv.org/abs/2402.12259)][[Website](https://kochsebastian.com/open3dsg)]
+    * **PointSeg**: "PointSeg: A Training-Free Paradigm for 3D Scene Segmentation via Foundation Models", arXiv, 2024 (*Tencent*). [[Paper](https://arxiv.org/abs/2403.06403)]
 * Speech Recognition:
     * **AV-HuBERT**: "Robust Self-Supervised Audio-Visual Speech Recognition", arXiv, 2022 (*Meta*). [[Paper](https://arxiv.org/abs/2201.01763)][[PyTorch](https://github.com/facebookresearch/av_hubert)]
     * **?**: "Transformer-Based Video Front-Ends for Audio-Visual Speech Recognition", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2201.10439)]
@@ -1676,6 +1678,7 @@ If you find this repository useful, please consider citing this list:
     * **InfiMM-HD**: "InfiMM-HD: A Leap Forward in High-Resolution Multimodal Understanding", arXiv, 2024 (*CAS*). [[Paper](https://arxiv.org/abs/2403.01487)][[PyTorch](https://github.com/InfiMM/infimm-hd/)]
     * **DeepSeek-VL**: "DeepSeek-VL: Towards Real-World Vision-Language Understanding", arXiv, 2024 (*DeepSeek, China*). [[Paper](https://arxiv.org/abs/2403.05525)][[PyTorch](https://github.com/deepseek-ai/DeepSeek-VL)]
     * **Gemini-1.5**: "Gemini 1.5: Unlocking multimodal understanding across millions of tokens of context", arXiv, 2024 (*Google*). [[Paper](https://arxiv.org/abs/2403.05530)]
+    * **FastV**: "An Image is Worth 1/2 Tokens After Layer 2: Plug-and-Play Inference Acceleration for Large Vision-Language Models", arXiv, 2024 (*Peking*). [[Paper](https://arxiv.org/abs/2403.06764)][[PyTorch (in construction)](https://github.com/pkunlp-icler/FastV)]
 * Conversation (Video):
     * **Video-ChatCaptioner**: "Video ChatCaptioner: Towards the Enriched Spatiotemporal Descriptions", arXiv, 2023 (*KAUST*). [[Paper](https://arxiv.org/abs/2304.04227)][[PyTorch](https://github.com/Vision-CAIR/ChatCaptioner)]
     * **ChatVideo**: "ChatVideo: A Tracklet-centric Multimodal and Versatile Video Understanding System", arXiv, 2023 (*Fudan*). [[Paper](https://arxiv.org/abs/2304.14407)][[Website](https://www.wangjunke.info/ChatVideo/)]
