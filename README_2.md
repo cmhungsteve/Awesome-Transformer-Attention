@@ -182,6 +182,7 @@ If you find this repository useful, please consider citing this list:
 * **PointMamba**: "PointMamba: A Simple State Space Model for Point Cloud Analysis", arXiv, 2024 (*Huazhong University of Science and Technology*). [[Paper](https://arxiv.org/abs/2402.10739)][[PyTorch](https://github.com/LMD0311/PointMamba)]
 * **Swin3D++**: "Swin3D++: Effective Multi-Source Pretraining for 3D Indoor Scene Understanding", arXiv, 2024 (*Microsoft*). [[Paper](https://arxiv.org/abs/2402.14215)]
 * **PCM**: "Point Could Mamba: Point Cloud Learning via State Space Model", arXiv, 2024 (*Skywork AI, China*). [[Paper](https://arxiv.org/abs/2403.00762)][[Code (in construction)](https://github.com/zhang-tao-whu/PCM)]
+* **Point-Mamba**: "Point Mamba: A Novel Point Cloud Backbone Based on State Space Model with Octree-Based Ordering Strategy", arXiv, 2024 (*Shanghai Jiao Tong*). [[Paper](https://arxiv.org/abs/2403.06467)][[PyTorch](https://github.com/IRMVLab/Point-Mamba)]
 
 [[Back to Overview](#overview)]
 
@@ -1101,6 +1102,7 @@ If you find this repository useful, please consider citing this list:
 * **UVDv1**: "Sequential Modeling Enables Scalable Learning for Large Vision Models", arXiv, 2023 (*Berkeley*). [[Paper](https://arxiv.org/abs/2312.00785)][[Code (in construction)](https://github.com/ytongbai/LVM)][[Website](https://yutongbai.com/lvm.html)]
 * **W.A.L.T**: "Photorealistic Video Generation with Diffusion Models", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2312.06662)][[Website](https://walt-video-diffusion.github.io/)]
 * **?**: "Video as the New Language for Real-World Decision Making", arXiv, 2024 (*DeepMind*). [[Paper](https://arxiv.org/abs/2402.17139)]
+* **Exo2Ego**: "Put Myself in Your Shoes: Lifting the Egocentric Perspective from Exocentric Videos", arXiv, 2024 (*Meta*). [[Paper](https://arxiv.org/abs/2403.06351)]
 
 [[Back to Overview](#overview)]
 
@@ -1996,6 +1998,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **DriveLM**: "DriveLM: Driving with Graph Visual Question Answering", arXiv, 2023 (*OpenDriveLab, China*). [[Paper](https://arxiv.org/abs/2312.14150)][[Code](https://github.com/OpenDriveLab/DriveLM)]
     * **VLP**: "VLP: Vision Language Planning for Autonomous Driving", arXiv, 2024 (*Bosch*). [[Paper](https://arxiv.org/abs/2401.05577)]
     * **DriveVLM**: "DriveVLM: The Convergence of Autonomous Driving and Large Vision-Language Models", arXiv, 2024 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2402.12289)][[Website](https://tsinghua-mars-lab.github.io/DriveVLM/)]
+    * **DriveDreamer-2**: "DriveDreamer-2: LLM-Enhanced World Models for Diverse Driving Video Generation", arXiv, 2024 (*CAS*). [[Paper](https://arxiv.org/abs/2403.06845)][[Code (in construction)](https://github.com/f1yfisher/DriveDreamer2)][[Website](https://drivedreamer2.github.io/)]
 * Trajectory Prediction:
     * **mmTransformer**: "Multimodal Motion Prediction with Stacked Transformers", CVPR, 2021 (*CUHK + SenseTime*). [[Paper](https://arxiv.org/abs/2103.11624)][[Code (in construction)](https://github.com/decisionforce/mmTransformer)][[Website](https://decisionforce.github.io/mmTransformer/)]
     * **AgentFormer**: "AgentFormer: Agent-Aware Transformers for Socio-Temporal Multi-Agent Forecasting", ICCV, 2021 (*CMU*). [[Paper](https://arxiv.org/abs/2103.14023)][[PyTorch](https://github.com/Khrylx/AgentFormer)][[Website](https://www.ye-yuan.com/agentformer/)]
@@ -2104,6 +2107,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **HOI-Diff**: "HOI-Diff: Text-Driven Synthesis of 3D Human-Object Interactions using Diffusion Models", arXiv, 2023 (*Northeastern*). [[Paper](https://arxiv.org/abs/2312.06553)][[Website](https://neu-vi.github.io/HOI-Diff/)]
     * **OMG**: "OMG: Towards Open-vocabulary Motion Generation via Mixture of Controllers", arXiv, 2023 (*ShanghaiTech*). [[Paper](https://arxiv.org/abs/2312.08985)]
     * **LEMON**: "LEMON: Learning 3D Human-Object Interaction Relation from 2D Images", arXiv, 2023 (*USTC*). [[Paper](https://arxiv.org/abs/2312.08963)][[Code (in construction)](https://github.com/yyvhang/lemon_3d)][[Website](https://yyvhang.github.io/LEMON/)]
+    * **MoST**: "MoST: Motion Style Transformer between Diverse Action Contents", CVPR, 2024 (*Korea Electronics Technology Institute*). [[Paper](https://arxiv.org/abs/2403.06225)][[Code (in construction)](https://github.com/Boeun-Kim/MoST)]
     * **RoHM**: "RoHM: Robust Human Motion Reconstruction via Diffusion", arXiv, 2024 (*Meta*). [[Paper](https://arxiv.org/abs/2401.08570)][[Code (in construction)](https://github.com/sanweiliti/RoHM)][[Website](https://sanweiliti.github.io/ROHM/ROHM.html)]
     * **STMC**: "Multi-Track Timeline Control for Text-Driven 3D Human Motion Generation", arXiv, 2024 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2401.08559)][[Website](https://mathis.petrovich.fr/stmc/)]
 * 3D Object Recognition:
