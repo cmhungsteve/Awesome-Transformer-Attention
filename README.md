@@ -723,6 +723,7 @@ If you find this repository useful, please consider citing this list:
 * **DDM**: "Deconstructing Denoising Diffusion Models for Self-Supervised Learning", arXiv, 2024 (*Meta*). [[Paper](https://arxiv.org/abs/2401.14404)]
 * **CrossMAE**: "Rethinking Patch Dependence for Masked Autoencoders", arXiv, 2024 (*Berkeley*). [[Paper](https://arxiv.org/abs/2401.14391)][[PyTorch](https://github.com/TonyLianLong/CrossMAE)][[Website](https://crossmae.github.io/)]
 * **IWM**: "Learning and Leveraging World Models in Visual Representation Learning", arXiv, 2024 (*Meta*). [[Paper](https://arxiv.org/abs/2403.00504)]
+* **?**: "Can Generative Models Improve Self-Supervised Representation Learning?", arXiv, 2024 (*Vector Institute*). [[Paper](https://arxiv.org/abs/2403.05966)]
 #### Robustness + Transformer
 * **ViT-Robustness**: "Understanding Robustness of Transformers for Image Classification", ICCV, 2021 (*Google*). [[Paper](https://arxiv.org/abs/2103.14586)]
 * **SAGA**: "On the Robustness of Vision Transformers to Adversarial Examples", ICCV, 2021 (*University of Connecticut*). [[Paper](https://arxiv.org/abs/2104.02610)]
@@ -1129,6 +1130,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **3DiffTection**: "3DiffTection: 3D Object Detection with Geometry-Aware Diffusion Features", arXiv, 2023 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2311.04391)][[Code (in construction)](https://github.com/nv-tlabs/3DiffTection)][[Website](https://research.nvidia.com/labs/toronto-ai/3difftection/)]
 * **PTT**: "PTT: Point-Trajectory Transformer for Efficient Temporal 3D Object Detection", arXiv, 2023 (*UC Merced*). [[Paper](https://arxiv.org/abs/2312.08371)][[Code (in construction)](https://github.com/kuanchihhuang/PTT)]
 * **MixSup**: "MixSup: Mixed-grained Supervision for Label-efficient LiDAR-based 3D Object Detection", ICLR, 2024 (*CAS*). [[Paper](https://arxiv.org/abs/2401.16305)][[PyTorch](https://github.com/BraveGroup/PointSAM-for-MixSup)]
+* **QAF2D**: "Enhancing 3D Object Detection with 2D Detection-Guided Query Anchors", CVPR, 2024 (*Nullmax, China*). [[Paper](https://arxiv.org/abs/2403.06093)]
 * **ScatterFormer**: "ScatterFormer: Efficient Voxel Transformer with Scattered Linear Attention", arXiv, 2024 (*The Hong Kong Polytechnic University*). [[Paper](https://arxiv.org/abs/2401.00912)][[Code (in construction)](https://github.com/skyhehe123/ScatterFormer)]
 * **MsSVT++**: "MsSVT++: Mixed-scale Sparse Voxel Transformer with Center Voting for 3D Object Detection", arXiv, 2024 (*Beijing Institute of Technology*). [[Paper](https://arxiv.org/abs/2401.11718)][[PyTorch](https://github.com/dscdyc/MsSVT)]
 
