@@ -1404,6 +1404,7 @@ If you find this repository useful, please consider citing this list:
     * **Video-P2P**: "Video-P2P: Video Editing with Cross-attention Control", arXiv, 2023 (*CUHK*). [[Paper](https://arxiv.org/abs/2303.04761)][[Website](https://video-p2p.github.io/)]
     * **FateZero**: "FateZero: Fusing Attentions for Zero-shot Text-based Video Editing", arXiv, 2023 (*Tencent*). [[Paper](https://arxiv.org/abs/2303.09535)][[PyTorch](https://github.com/ChenyangQiQi/FateZero)][[Website](https://fate-zero-edit.github.io/)]
     * **Make-A-Protagonist**: "Make-A-Protagonist: Generic Video Editing with An Ensemble of Experts", arXiv, 2023 (*Huawei*). [[Paper](https://arxiv.org/abs/2305.08850)][[PyTorch](https://github.com/Make-A-Protagonist/Make-A-Protagonist)][[Website](https://make-a-protagonist.github.io/)]
+    * **RAVA**: "Reframe Anything: LLM Agent for Open World Video Reframing", arXiv, 2024 (*Opus Research, Minnesota*). [[Paper](https://arxiv.org/abs/2403.06070)]
 * Video Summarization:
     * **GPT2MVS**: "GPT2MVS: Generative Pre-trained Transformer-2 for Multi-modal Video Summarization", ICMR, 2021 (*BBC*). [[Paper](https://arxiv.org/abs/2104.12465)]
     * **QVHighlights**: "QVHighlights: Detecting Moments and Highlights in Videos via Natural Language Queries", NeurIPS, 2021 (*UNC*). [[Paper](https://arxiv.org/abs/2107.09609)][[PyTorch](https://github.com/jayleicn/moment_detr)]
@@ -1664,6 +1665,7 @@ If you find this repository useful, please consider citing this list:
     * **V<sup>\*</sup>**: "V<sup>\*</sup>: Guided Visual Search as a Core Mechanism in Multimodal LLMs", arXiv, 2023 (*NYU*). [[Paper](https://arxiv.org/abs/2312.14135)][[PyTorch](https://github.com/penghao-wu/vstar)][[Website](https://vstar-seal.github.io/)]
     * **?**: "Gemini vs GPT-4V: A Preliminary Comparison and Combination of Vision-Language Models Through Qualitative Cases", arXiv, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2312.15011)][[GitHub](https://github.com/Qi-Zhangyang/Gemini-vs-GPT4V)]
     * **TinyGPT-V**: "TinyGPT-V: Efficient Multimodal Large Language Model via Small Backbones", arXiv, 2023 (*Anhui Polytechnic University*). [[Paper](https://arxiv.org/abs/2312.16862)][[PyTorch](https://github.com/DLYuanGod/TinyGPT-V)]
+    * **SNIFFER**: "SNIFFER: Multimodal Large Language Model for Explainable Out-of-Context Misinformation Detection", CVPR, 2024 (*NUS*). [[Paper](https://arxiv.org/abs/2403.03170)][[Code (in construction)](https://github.com/MischaQI/Sniffer)][[Website](https://pengqi.site/Sniffer/)]
     * **ChartAssisstant**: "ChartAssisstant: A Universal Chart Multimodal Language Model via Chart-to-Table Pre-training and Multitask Instruction Tuning", arXiv, 2024 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2401.02384)]
     * **LLaVA-ϕ**: "LLaVA-ϕ: Efficient Multi-Modal Assistant with Small Language Model", arXiv, 2024 (*Midea Group, China*). [[Paper](https://arxiv.org/abs/2401.02330)][[Code (in construction)](https://github.com/zhuyiche/llava-phi)]
     * **CaMML**: "CaMML: Context-Aware Multimodal Learner for Large Models", arXiv, 2024 (*Amazon*). [[Paper](https://arxiv.org/abs/2401.03149)]
