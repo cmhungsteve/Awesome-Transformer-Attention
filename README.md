@@ -1976,6 +1976,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **MV-Former**: "Multi-entity Video Transformers for Fine-Grained Video Representation Learning", arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2311.10873)][[PyTorch](https://github.com/facebookresearch/video_rep_learning)]
     * **GeoDeformer**: "GeoDeformer: Geometric Deformable Transformer for Action Recognition", arXiv, 2023 (*HKUST*). [[Paper](https://arxiv.org/abs/2311.17975)]
     * **Early-ViT**: "Early Action Recognition with Action Prototypes", arXiv, 2023 (*Amazon*). [[Paper](https://arxiv.org/abs/2312.06598)]
+    * **VideoMamba**: "VideoMamba: State Space Model for Efficient Video Understanding", arXiv, 2024 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2403.06977)][[PyTorch](https://github.com/OpenGVLab/VideoMamba)]
 * Depth:
     * **Trear**: "Trear: Transformer-based RGB-D Egocentric Action Recognition",  IEEE Transactions on Cognitive and Developmental Systems, 2021 (*Tianjing University*). [[Paper](https://ieeexplore.ieee.org/document/9312201)]
 * Pose/Skeleton:
@@ -2297,9 +2298,11 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **GPM**: "Self-supervised Video Object Segmentation with Distillation Learning of Deformable Attention", arXiv, 2024 (*HKUST*). [[Paper](https://arxiv.org/abs/2401.13937)]
     * **MV2MAE**: "MV2MAE: Multi-View Video Masked Autoencoders", arXiv, 2024 (*Amazon*). [[Paper](https://arxiv.org/abs/2401.15900)][[PyTorch](https://github.com/NUST-Machine-Intelligence-Laboratory/VideoMAC)]
     * **V-JEPA**: "Revisiting Feature Prediction for Learning Visual Representations from Video", arXiv, 2024 (*Meta*). [[Paper](https://ai.meta.com/blog/v-jepa-yann-lecun-ai-model-video-joint-embedding-predictive-architecture/)][[PyTorch](https://github.com/facebookresearch/jepa)]
+* Transfer Learning/Adaptation:
+    * **APT**: "Attention Prompt Tuning: Parameter-efficient Adaptation of Pre-trained Models for Spatiotemporal Modeling", FG, 2024 (*JHU*). [[Paper](https://arxiv.org/abs/2403.06978)][[PyTorch](https://github.com/wgcban/apt)]
 * X-shot:
     * **ResT**: "Cross-modal Representation Learning for Zero-shot Action Recognition", CVPR, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2205.01657)]
-    * **ViSET**: "Zero-Shot Action Recognition with Transformer-based Video Semantic Embedding", arXiv, 2022 (*University of South FLorida*). [[Paper](https://arxiv.org/abs/2203.05156)]
+    * **ViSET**: "Zero-Shot Action Recognition with Transformer-based Video Semantic Embedding", arXiv, 2022 (*University of South Florida*). [[Paper](https://arxiv.org/abs/2203.05156)]
     * **REST**: "REST: REtrieve & Self-Train for generative action recognition", arXiv, 2022 (*Samsung*). [[Paper](https://arxiv.org/abs/2209.15000)]
     * **MoLo**: "MoLo: Motion-augmented Long-short Contrastive Learning for Few-shot Action Recognition", CVPR, 2023 (*Alibaba*). [[Paper](https://arxiv.org/abs/2304.00946)][[Code (in construction)](https://github.com/alibaba-mmai-research/MoLo)]
     * **MA-CLIP**: "Multimodal Adaptation of CLIP for Few-Shot Action Recognition", arXiv, 2023 (*Zhejiang*). [[Paper](https://arxiv.org/abs/2308.01532)]
