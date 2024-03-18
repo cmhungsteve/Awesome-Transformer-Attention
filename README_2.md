@@ -2116,6 +2116,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **MoST**: "MoST: Motion Style Transformer between Diverse Action Contents", CVPR, 2024 (*Korea Electronics Technology Institute*). [[Paper](https://arxiv.org/abs/2403.06225)][[Code (in construction)](https://github.com/Boeun-Kim/MoST)]
     * **RoHM**: "RoHM: Robust Human Motion Reconstruction via Diffusion", arXiv, 2024 (*Meta*). [[Paper](https://arxiv.org/abs/2401.08570)][[Code (in construction)](https://github.com/sanweiliti/RoHM)][[Website](https://sanweiliti.github.io/ROHM/ROHM.html)]
     * **STMC**: "Multi-Track Timeline Control for Text-Driven 3D Human Motion Generation", arXiv, 2024 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2401.08559)][[Website](https://mathis.petrovich.fr/stmc/)]
+    * **Motion-Mamba**: "Motion Mamba: Efficient and Long Sequence Motion Generation with Hierarchical and Bidirectional Selective SSM", arXiv, 2024 (*Monash*). [[Paper](https://arxiv.org/abs/2403.07487)][[code (in construction)](https://github.com/steve-zeyu-zhang/MotionMamba/)][[Website](https://steve-zeyu-zhang.github.io/MotionMamba/)]
 * 3D Object Recognition:
     * **MVT**: "MVT: Multi-view Vision Transformer for 3D Object Recognition", BMVC, 2021 (*Baidu*). [[Paper](https://arxiv.org/abs/2110.13083)]
 * 3D Reconstruction:
