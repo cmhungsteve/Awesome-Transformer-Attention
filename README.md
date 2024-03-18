@@ -1236,6 +1236,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **R-MAE**: "R-MAE: Regions Meet Masked Autoencoders", arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2306.05411)]
     * **SimDETR**: "SimDETR: Simplifying self-supervised pretraining for DETR", arXiv, 2023 (*Samsung*). [[Paper](https://arxiv.org/abs/2307.15697)]
     * **U2Seg**: "Unsupervised Universal Image Segmentation", arXiv, 2023 (*Berkely*). [[Paper](https://arxiv.org/abs/2312.17243)][[PyTorch](https://github.com/u2seg/U2Seg)]
+    * **CuVLER**: "CuVLER: Enhanced Unsupervised Object Discoveries through Exhaustive Self-Supervised Transformers", CVPR, 2024 (*Technion - Israel Institute of Technology*). [[Paper](https://arxiv.org/abs/2403.07700)][[PyTorch](https://github.com/shahaf-arica/CuVLER)]
 * X-Shot Object Detection:
     * **AIT**: "Adaptive Image Transformer for One-Shot Object Detection", CVPR, 2021 (*Academia Sinica*). [[Paper](https://openaccess.thecvf.com/content/CVPR2021/html/Chen_Adaptive_Image_Transformer_for_One-Shot_Object_Detection_CVPR_2021_paper.html)]
     * **Meta-DETR**: "Meta-DETR: Few-Shot Object Detection via Unified Image-Level Meta-Learning", arXiv, 2021 (*NTU Singapore*). [[Paper](https://arxiv.org/abs/2103.11731)][[PyTorch](https://github.com/ZhangGongjie/Meta-DETR)]
@@ -1773,6 +1774,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **Self-reinforcement**: "Progressive Uncertain Feature Self-reinforcement for Weakly Supervised Semantic Segmentation", AAAI, 2024 (*Zhejiang Lab*). [[Paper](https://arxiv.org/abs/2312.08916)][[PyTorch](https://github.com/Jessie459/feature-self-reinforcement)]
     * **SeCo**: "Separate and Conquer: Decoupling Co-occurrence via Decomposition and Representation for Weakly Supervised Semantic Segmentation", CVPR, 2024 (*Fudan*). [[Paper](https://arxiv.org/abs/2402.18467)][[Code (in construction)](https://github.com/zwyang6/SeCo)]
     * **AllSpark**: "AllSpark: Reborn Labeled Features from Unlabeled in Transformer for Semi-Supervised Semantic Segmentation", CVPR, 2024 (*HKUST*). [[Paper](https://arxiv.org/abs/2403.01818)][[PyTorch](https://github.com/xmed-lab/AllSpark)]
+    * **CPAL**: "Hunting Attributes: Context Prototype-Aware Learning for Weakly Supervised Semantic Segmentation", CVPR, 2024 (*Monash University*). [[Paper](https://arxiv.org/abs/2403.07630)][[Code (in construction)](https://github.com/Barrett-python/CPAL)]
     * **SemPLeS**: "SemPLeS: Semantic Prompt Learning for Weakly-Supervised Semantic Segmentation", arXiv, 2024 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2401.11791)]
     * **WeakSAM**: "WeakSAM: Segment Anything Meets Weakly-supervised Instance-level Recognition", arXiv, 2024 (*Huazhong University of Science & Technology (HUST)*). [[Paper](https://arxiv.org/abs/2402.14812)][[PyTorch](https://github.com/hustvl/WeakSAM)]
     * **CoSA**: "Weakly Supervised Co-training with Swapping Assignments for Semantic Segmentation", arXiv, 2024 (*Lancaster University, UK*). [[Paper](https://arxiv.org/abs/2402.17891)][[Code (in construction)](https://github.com/youshyee/CoSA)]
