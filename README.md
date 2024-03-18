@@ -2002,6 +2002,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **SkeleTR**: "SkeleTR: Towards Skeleton-based Action Recognition in the Wild", ICCV, 2023 (*Amazon*). [[Paper](https://arxiv.org/abs/2309.11445)]
     * **PCM<sup>3</sup>**: "Prompted Contrast with Masked Motion Modeling: Towards Versatile 3D Action Representation Learning", ACMMM, 2023 (*Peking*). [[Paper](https://arxiv.org/abs/2308.03975)][[Website](https://jhang2020.github.io/Projects/PCM3/PCM3.html)]
     * **PoseAwareVT**: "Seeing the Pose in the Pixels: Learning Pose-Aware Representations in Vision Transformers", arXiv, 2023 (*Amazon*). [[Paper](https://arxiv.org/abs/2306.09331)][[PyTorch](https://github.com/dominickrei/PoseAwareVT)]
+    * **HandFormer**: "On the Utility of 3D Hand Poses for Action Recognition", arXiv, 2024 (*NUS*). [[Paper](https://arxiv.org/abs/2403.09805)][[Code (in construction)](https://github.com/s-shamil/HandFormer)][[Website](https://s-shamil.github.io/HandFormer/)]
 * Multi-modal:
     * **MBT**: "Attention Bottlenecks for Multimodal Fusion", NeurIPS, 2021 (*Google*). [[Paper](https://arxiv.org/abs/2107.00135)]
     * **MM-ViT**: "MM-ViT: Multi-Modal Video Transformer for Compressed Video Action Recognition", WACV, 2022 (*OPPO*). [[Paper](https://arxiv.org/abs/2108.09322)]
