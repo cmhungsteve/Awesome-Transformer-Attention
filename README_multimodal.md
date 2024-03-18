@@ -1226,7 +1226,7 @@ If you find this repository useful, please consider citing this list:
 [[Back to Overview](#overview)]
 
 ### Other Multi-Modal Tasks
-* Transfer Learning/Adaptation/Distillation/PEFT:
+* Transfer Learning/Adaptation/Distillation/PEFT/MoE:
     * **FLYP**: "Finetune like you pretrain: Improved finetuning of zero-shot vision models", CVPR, 2023 (*CMU*). [[Paper](https://arxiv.org/abs/2212.00638)][[PyTorch](https://github.com/locuslab/FLYP)]
     * **Pi-Tuning**: "Pi-Tuning: Transferring Multimodal Foundation Models with Optimal Multi-task Interpolation", ICML, 2023 (*HKU*). [[Paper](https://arxiv.org/abs/2304.14381)][[Code (in construction)](https://github.com/TencentARC/pi-Tuning)]
     * **OCRA**: "Cross-Modal Fine-Tuning: Align then Refine", ICML, 2023 (*CMU + HP*). [[Paper](https://arxiv.org/abs/2302.05738)][[PyTorch](https://github.com/sjunhongshen/ORCA)]
@@ -1250,6 +1250,7 @@ If you find this repository useful, please consider citing this list:
     * **DoRA**: "DoRA: Weight-Decomposed Low-Rank Adaptation", arXiv, 2024 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2402.09353)]
     * **DeLVM**: "Data-efficient Large Vision Models through Sequential Autoregression", arXiv, 2024 (*University of Sydney*). [[Paper](https://arxiv.org/abs/2402.04841)][[PyTorch (in construction)](https://github.com/ggjy/DeLVM)]
     * **POVID**: "Aligning Modalities in Vision Large Language Models via Preference Fine-tuning", arXiv, 2024 (*UNC*). [[Paper](https://arxiv.org/abs/2402.11411)][[PyTorch](https://github.com/YiyangZhou/POVID)]
+    * **MoAI**: "MoAI: Mixture of All Intelligence for Large Language and Vision Models", arXiv, 2024 (*KAIST*). [[Paper](https://arxiv.org/abs/2403.07508)][[PyTorch](https://github.com/ByungKwanLee/MoAI)]
 * Zero-Shot:
     * **SMs**: "Socratic Models: Composing Zero-Shot Multimodal Reasoning with Language", ICLR, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2204.00598)][[GitHub](https://github.com/google-research/google-research/tree/master/socraticmodels)][[Website](https://socraticmodels.github.io/)]
     * **iCLIP**: "iCLIP: Bridging Image Classification and Contrastive Language-Image Pre-Training for Visual Recognition", CVPR, 2023 (*Microsoft*). [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Wei_iCLIP_Bridging_Image_Classification_and_Contrastive_Language-Image_Pre-Training_for_Visual_CVPR_2023_paper.html)]
@@ -1390,7 +1391,6 @@ If you find this repository useful, please consider citing this list:
     * **Tag2Text**: "Tag2Text: Guiding Vision-Language Model via Image Tagging", arXiv, 2023 (*OPPO*). [[Paper](https://arxiv.org/abs/2303.05657)][[PyTorch](https://github.com/xinyu1205/Tag2Text)][[Website](https://tag2text.github.io/)]
     * **RAM**: "Recognize Anything: A Strong Image Tagging Model", arXiv, 2023 (*OPPO*). [[Paper](https://arxiv.org/abs/2306.03514)][[PyTorch](https://github.com/xinyu1205/Tag2Text-Recognize_Anything)][[Website](https://recognize-anything.github.io/)]
     * **InstructDiffusion**: "InstructDiffusion: A Generalist Modeling Interface for Vision Tasks", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2309.03895)][[PyTorch](https://github.com/cientgu/InstructDiffusion)][[Website](https://gengzigang.github.io/instructdiffusion.github.io/)]
-    * **InstructCV**: "InstructCV: Instruction-Tuned Text-to-Image Diffusion Models as Vision Generalists", arXiv, 2023 (*Peking + Berkeley*). [[Paper](https://arxiv.org/abs/2310.00390)][[PyTorch](https://github.com/AlaaLab/InstructCV)]
     * **SPHINX**: "SPHINX: The Joint Mixing of Weights, Tasks, and Visual Embeddings for Multi-modal Large Language Models", arXiv, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2311.07575)][[PyTorch](https://github.com/Alpha-VLLM/LLaMA2-Accessory/tree/main/SPHINX)]
     * **UniLSeg**: "Universal Segmentation at Arbitrary Granularity with Language Instruction", arXiv, 2023 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2312.01623)]
     * **APE**: "Aligning and Prompting Everything All at Once for Universal Visual Perception", arXiv, 2023 (*Tencent*). [[Paper](https://arxiv.org/abs/2312.02153)][[PyTorch](https://github.com/shenyunhang/APE)]
@@ -1399,9 +1399,11 @@ If you find this repository useful, please consider citing this list:
     * **VistaLLM**: "Jack of All Tasks, Master of Many: Designing General-purpose Coarse-to-Fine Vision-Language Model", arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2312.12423)][[Website](https://shramanpramanick.github.io/VistaLLM/)]
     * **VCoder**: "VCoder: Versatile Vision Encoders for Multimodal Large Language Models", arXiv, 2023 (*Georgia Tech*). [[Paper](https://arxiv.org/abs/2312.14233)][[PyTorch](https://github.com/SHI-Labs/VCoder)][[Website](https://praeclarumjj3.github.io/vcoder/)]
     * **Unified-IO-2**: "Unified-IO 2: Scaling Autoregressive Multimodal Models with Vision, Language, Audio, and Action", arXiv, 2023 (*AI2*). [[Paper](https://arxiv.org/abs/2312.17172)][[JAX](https://github.com/allenai/unified-io-2)][[Website](https://unified-io-2.allenai.org/)]
+    * **InstructCV**: "InstructCV: Instruction-Tuned Text-to-Image Diffusion Models as Vision Generalists", ICLR, 2024 (*Peking + Berkeley*). [[Paper](https://arxiv.org/abs/2310.00390)][[PyTorch](https://github.com/AlaaLab/InstructCV)]
     * **MAD**: "Masked AutoDecoder is Effective Multi-Task Vision Generalist", CVPR, 2024 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2403.07692)][[Code (in construction)](https://github.com/hanqiu-hq/MAD)]
     * **VLP**: "Using Left and Right Brains Together: Towards Vision and Language Planning", arXiv, 2024 (*Microsoft*). [[Paper](https://arxiv.org/abs/2402.10534)]
     * **V2T-Tokenizer**: "Beyond Text: Frozen Large Language Models in Visual Signal Comprehension", arXiv, 2024 (*Peking*). [[Paper](https://arxiv.org/abs/2403.07874)][[PyTorch](https://github.com/zh460045050/V2L-Tokenizer)]
+    * **Lumen**: "Lumen: Unleashing Versatile Vision-Centric Capabilities of Large Multimodal Models", arXiv, 2024 (*Meituan*). [[Paper](https://arxiv.org/abs/2403.07304)][[Code (in construction)](https://github.com/SxJyJay/Lumen)]
 * Language-based Video Editing:
     * **M<sup>3</sup>L**: "Language-based Video Editing via Multi-Modal Multi-Level Transformer", CVPR, 2022 (*UCSB*). [[Paper](https://arxiv.org/abs/2104.01122)]
     * **Video-P2P**: "Video-P2P: Video Editing with Cross-attention Control", arXiv, 2023 (*CUHK*). [[Paper](https://arxiv.org/abs/2303.04761)][[Website](https://video-p2p.github.io/)]
