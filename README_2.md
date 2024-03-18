@@ -2034,6 +2034,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **HPTR**: "Real-Time Motion Prediction via Heterogeneous Polyline Transformer with Relative Pose Encoding", NeurIPS, 2023 (*ETHZ*). [[Paper](https://arxiv.org/abs/2310.12970)][[PyTorch](https://github.com/zhejz/HPTR)]
     * **InCrowdFormer**: "InCrowdFormer: On-Ground Pedestrian World Model From Egocentric Views", arXiv, 2023 (*Kyoto University*). [[Paper](https://arxiv.org/abs/2303.09534)]
     * **MTR++**: "MTR++: Multi-Agent Motion Prediction with Symmetric Scene Modeling and Guided Intention Querying", arXiv, 2023 (*MPI*). [[Paper](https://arxiv.org/abs/2306.17770)]
+    * **T4P**: "T4P: Test-Time Training of Trajectory Prediction via Masked Autoencoder and Actor-specific Token Memory", CVPR, 2024 (*KAIST*). [[Paper](https://arxiv.org/abs/2403.10052)][[Code (in construction)](https://github.com/daeheepark/T4P)]
 * Visual Counting:
     * **CC-AV**: "Audio-Visual Transformer Based Crowd Counting", ICCVW, 2021 (*University of Kansas*). [[Paper](https://arxiv.org/abs/2109.01926)]
     * **TransCrowd**: "TransCrowd: Weakly-Supervised Crowd Counting with Transformer", arXiv, 2021 (*Huazhong University of Science and Technology*). [[Paper](https://arxiv.org/abs/2104.09116)][[PyTorch](https://github.com/dk-liang/TransCrowd)]
