@@ -1104,6 +1104,7 @@ If you find this repository useful, please consider citing this list:
 * **MAGVIT-v2**: "Language Model Beats Diffusion - Tokenizer is Key to Visual Generation", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2310.05737)][[Website](https://magvit.cs.cmu.edu/v2/)]
 * **UVDv1**: "Sequential Modeling Enables Scalable Learning for Large Vision Models", arXiv, 2023 (*Berkeley*). [[Paper](https://arxiv.org/abs/2312.00785)][[Code (in construction)](https://github.com/ytongbai/LVM)][[Website](https://yutongbai.com/lvm.html)]
 * **W.A.L.T**: "Photorealistic Video Generation with Diffusion Models", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2312.06662)][[Website](https://walt-video-diffusion.github.io/)]
+* **?**: "SSM Meets Video Diffusion Models: Efficient Video Generation with Structured State Spaces", ICLRW, 2024 (*University of Tokyo*). [[Paper](https://arxiv.org/abs/2403.07711)][[PyTorch](https://github.com/shim0114/SSM-Meets-Video-Diffusion-Models)]
 * **?**: "Video as the New Language for Real-World Decision Making", arXiv, 2024 (*DeepMind*). [[Paper](https://arxiv.org/abs/2402.17139)]
 * **Exo2Ego**: "Put Myself in Your Shoes: Lifting the Egocentric Perspective from Exocentric Videos", arXiv, 2024 (*Meta*). [[Paper](https://arxiv.org/abs/2403.06351)]
 
@@ -1559,6 +1560,7 @@ If you find this repository useful, please consider citing this list:
 * **Med-Flamingo**: "Med-Flamingo: a Multimodal Medical Few-shot Learner", arXiv, 2023 (*Stanford*). [[Paper](https://arxiv.org/abs/2307.15189)][[PyTorch](https://github.com/snap-stanford/med-flamingo)]
 * **?**: "Can GPT-4V(ision) Serve Medical Applications? Case Studies on GPT-4V for Multimodal Medical Diagnosis", arXiv, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2310.09909)][[GitHub](https://github.com/chaoyi-wu/GPT-4V_Medical_Evaluation)]
 * **CLIP-MUSED**: "CLIP-MUSED: CLIP-Guided Multi-Subject Visual Neural Information Semantic Decoding", ICLR, 2024 (*CAS*). [[Paper](https://arxiv.org/abs/2402.08994)][[PyTorch](https://github.com/CLIP-MUSED/CLIP-MUSED)]
+* **MAVL**: "Decomposing Disease Descriptions for Enhanced Pathology Detection: A Multi-Aspect Vision-Language Matching Framework", CVPR, 2024 (*University of Adelaide*). [[Paper](https://arxiv.org/abs/2403.07636)][[PyTorch](https://github.com/HieuPhan33/MAVL)]
 * **RAD-DINO**: "RAD-DINO: Exploring Scalable Medical Image Encoders Beyond Text Supervision", arXiv, 2024 (*Microsoft*). [[Paper](https://arxiv.org/abs/2401.10815)]
 
 [[Back to Overview](#overview)]
