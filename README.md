@@ -1048,6 +1048,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **RefineBox**: "Enhancing Your Trained DETRs with Box Refinement", arXiv, 2023 (*CAS*). [[Paper](https://arxiv.org/abs/2307.11828)][[Code (in construction)](https://github.com/YiqunChen1999/RefineBox)]
     * **?**: "Revisiting DETR Pre-training for Object Detection", arXiv, 2023 (*Toronto*). [[Paper](https://arxiv.org/abs/2308.01300)]
     * **Gen2Det**: "Gen2Det: Generate to Detect", arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2312.04566)]
+    * **ViT-CoMer**: "ViT-CoMer: Vision Transformer with Convolutional Multi-scale Feature Interaction for Dense Predictions", CVPR, 2024 (*Baidu*). [[Paper](https://arxiv.org/abs/2403.07392)][[PyTorch](https://github.com/Traffic-X/ViT-CoMer)]
     * **MS-DETR**: "MS-DETR: Efficient DETR Training with Mixed Supervision", arXiv, 2024 (*Baidu*). [[Paper](https://arxiv.org/abs/2401.03989)][[Code (in construction)](https://github.com/Atten4Vis/MS-DETR)]
 * Transformer-based backbone:
     * **ViT-FRCNN**: "Toward Transformer-Based Object Detection", arXiv, 2020 (*Pinterest*). [[Paper](https://arxiv.org/abs/2012.09958)]
