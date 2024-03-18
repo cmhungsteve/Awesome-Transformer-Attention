@@ -446,6 +446,7 @@ If you find this repository useful, please consider citing this list:
 * **TF-CLIP**: "TF-CLIP: Learning Text-free CLIP for Video-based Person Re-Identification", AAAI, 2024 (*Dalian University of Technology*). [[Paper](https://arxiv.org/abs/2312.09627)]
 * **TOP-ReID**: "TOP-ReID: Multi-spectral Object Re-Identification with Token Permutation", AAAI, 2024 (*Dalian University of Technology*). [[Paper](https://arxiv.org/abs/2312.09612)][[PyTorch](https://github.com/924973292/TOP-ReID)]
 * **MP-ReID**: "Multi-Prompts Learning with Cross-Modal Alignment for Attribute-based Person Re-Identification", AAAI, 2024 (*Eastern Institute of Technology, China*). [[Paper](https://arxiv.org/abs/2312.16797)]
+* **EDITOR**: "Magic Tokens: Select Diverse Tokens for Multi-modal Object Re-Identification", CVPR, 2024 (*Dalian University of Technology*). [[Paper](https://arxiv.org/abs/2403.10254)][[PyTorch](https://github.com/924973292/EDITOR)]
 
 [[Back to Overview](#overview)]
 
