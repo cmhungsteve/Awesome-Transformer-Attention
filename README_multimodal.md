@@ -657,6 +657,7 @@ If you find this repository useful, please consider citing this list:
     * **CloVe**: "CLoVe: Encoding Compositional Language in Contrastive Vision-Language Models", arXiv, 2024 (*Netflix*). [[Paper](https://arxiv.org/abs/2402.15021)]
     * **ASMv2**: "The All-Seeing Project V2: Towards General Relation Comprehension of the Open World", arXiv, 2024 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2402.19474)][[PyTorch](https://github.com/OpenGVLab/all-seeing)]
     * **Multimodal-ArXiv**: "Multimodal ArXiv: A Dataset for Improving Scientific Comprehension of Large Vision-Language Models", arXiv, 2024 (*HKU*). [[Paper](https://arxiv.org/abs/2403.00231)][[Website](https://mm-arxiv.github.io/)]
+    * **Synth<sup>2</sup>**: "Synth<sup>2</sup>: Boosting Visual-Language Models with Synthetic Captions and Image Embeddings", arXiv, 2024 (*DeepMind*). [[Paper](https://arxiv.org/abs/2403.07750)]
 * Video:
     * **COOT**: "COOT: Cooperative Hierarchical Transformer for Video-Text Representation Learning", NeurIPS, 2020 (*University of Freiburg*). [[Paper](https://arxiv.org/abs/2011.00597)][[PyTorch](https://github.com/gingsi/coot-videotext)]
     * **Parameter-Reduction**: "Parameter Efficient Multimodal Transformers for Video Representation Learning", ICLR, 2021 (*Seoul National University*). [[Paper](https://openreview.net/forum?id=6UdQLhqJyFD)]
@@ -1398,7 +1399,9 @@ If you find this repository useful, please consider citing this list:
     * **VistaLLM**: "Jack of All Tasks, Master of Many: Designing General-purpose Coarse-to-Fine Vision-Language Model", arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2312.12423)][[Website](https://shramanpramanick.github.io/VistaLLM/)]
     * **VCoder**: "VCoder: Versatile Vision Encoders for Multimodal Large Language Models", arXiv, 2023 (*Georgia Tech*). [[Paper](https://arxiv.org/abs/2312.14233)][[PyTorch](https://github.com/SHI-Labs/VCoder)][[Website](https://praeclarumjj3.github.io/vcoder/)]
     * **Unified-IO-2**: "Unified-IO 2: Scaling Autoregressive Multimodal Models with Vision, Language, Audio, and Action", arXiv, 2023 (*AI2*). [[Paper](https://arxiv.org/abs/2312.17172)][[JAX](https://github.com/allenai/unified-io-2)][[Website](https://unified-io-2.allenai.org/)]
+    * **MAD**: "Masked AutoDecoder is Effective Multi-Task Vision Generalist", CVPR, 2024 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2403.07692)][[Code (in construction)](https://github.com/hanqiu-hq/MAD)]
     * **VLP**: "Using Left and Right Brains Together: Towards Vision and Language Planning", arXiv, 2024 (*Microsoft*). [[Paper](https://arxiv.org/abs/2402.10534)]
+    * **V2T-Tokenizer**: "Beyond Text: Frozen Large Language Models in Visual Signal Comprehension", arXiv, 2024 (*Peking*). [[Paper](https://arxiv.org/abs/2403.07874)][[PyTorch](https://github.com/zh460045050/V2L-Tokenizer)]
 * Language-based Video Editing:
     * **M<sup>3</sup>L**: "Language-based Video Editing via Multi-Modal Multi-Level Transformer", CVPR, 2022 (*UCSB*). [[Paper](https://arxiv.org/abs/2104.01122)]
     * **Video-P2P**: "Video-P2P: Video Editing with Cross-attention Control", arXiv, 2023 (*CUHK*). [[Paper](https://arxiv.org/abs/2303.04761)][[Website](https://video-p2p.github.io/)]
@@ -1819,6 +1822,7 @@ If you find this repository useful, please consider citing this list:
     * **VDC**: "VDC: Versatile Data Cleanser for Detecting Dirty Samples via Visual-Linguistic Inconsistency", arXiv, 2023 (*CUHK*). [[Paper](https://arxiv.org/abs/2309.16211)]
 * Model Compression:
     * **ECoFLaP**: "ECoFLaP: Efficient Coarse-to-Fine Layer-Wise Pruning for Vision-Language Models", arXiv, 2023 (*UNC*). [[Paper](https://arxiv.org/abs/2310.02998)][[PyTorch](https://github.com/ylsung/ECoFLaP)][[Website](https://ecoflap.github.io/)]
+    * **MoPE-CLIP**: "MoPE-CLIP: Structured Pruning for Efficient Vision-Language Models with Module-wise Pruning Error Metric", CVPR, 2024 (*CAS*). [[Paper](https://arxiv.org/abs/2403.07839)]
 * Relation Extraction:
     * **OVRE**: "Open-Vocabulary Video Relation Extraction", AAAI, 2024 (*Fudan*). [[Paper](https://arxiv.org/abs/2312.15670)][[PyTorch (in construction)](https://github.com/Iriya99/OVRE)]
 * Applications:
