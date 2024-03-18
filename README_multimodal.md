@@ -1795,6 +1795,7 @@ If you find this repository useful, please consider citing this list:
     * **RoCLIP**: "Robust Contrastive Language-Image Pre-training against Data Poisoning and Backdoor Attacks", NeurIPS, 2023 (*UCLA*). [[Paper](https://arxiv.org/abs/2303.06854)][[PyTorch](https://github.com/BigML-CS-UCLA/RoCLIP)]
     * **?**: "Benchmarking Robustness of Adaptation Methods on Pre-trained Vision-Language Models", NeurIPS (Datasets and Benchmarks), 2023 (*LMU Munich*). [[Paper](https://arxiv.org/abs/2306.02080)][[PyTorch](https://github.com/adarobustness/adaptation_robustness)][[Website](https://adarobustness.github.io/)]
     * **OGEN**: "Overcoming the Pitfalls of Vision-Language Model Finetuning for OOD Generalization", ICLR, 2024 (*Apple*). [[Paper](https://arxiv.org/abs/2401.15914)]
+    * **CroPA**: "An Image Is Worth 1000 Lies: Adversarial Transferability across Prompts on Vision-Language Models", ICLR, 2024 (*Oxford*). [[Paper](https://arxiv.org/abs/2403.09766)][[PyTorch](https://github.com/Haochen-Luo/CroPA)]
     * **APT**: "One Prompt Word is Enough to Boost Adversarial Robustness for Pre-trained Vision-Language Models", CVPR, 2024 (*King's College London*). [[Paper](https://arxiv.org/abs/2403.01849)][[PyTorch](https://github.com/TreeLLi/APT)]
     * **Robust-CLIP**: "Robust CLIP: Unsupervised Adversarial Fine-Tuning of Vision Embeddings for Robust Large Vision-Language Models", arXiv, 2024 (*University of Tubingen, Germany*). [[Paper](https://arxiv.org/abs/2402.12336)][[PyTorch](https://github.com/chs20/RobustVLM)]
 * Compositional Reasoning:
