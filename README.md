@@ -1302,6 +1302,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **CLIM**: "CLIM: Contrastive Language-Image Mosaic for Region Representation", AAAI, 2024 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2312.11376)][[PyTorch](https://github.com/wusize/CLIM)]
     * **SS-OWFormer**: "Semi-supervised Open-World Object Detection", AAAI, 2024 (*MBZUAI*). [[Paper](https://arxiv.org/abs/2402.16013)][[PyTorch](https://github.com/sahalshajim/SS-OWFormer)]
     * **DVDet**: "LLMs Meet VLMs: Boost Open Vocabulary Object Detection with Fine-grained Descriptors", ICLR, 2024 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2402.04630)]
+    * **GenerateU**: "Generative Region-Language Pretraining for Open-Ended Object Detection", CVPR, 2024 (*Monash University*). [[Paper](https://arxiv.org/abs/2403.10191)][[PyTorch](https://github.com/FoundationVision/GenerateU)]
     * **MM-Grounding-DINO**: "An Open and Comprehensive Pipeline for Unified Object Grounding and Detection", arXiv, 2024 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2401.02361)][[PyTorch](https://github.com/open-mmlab/mmdetection/tree/main/configs/grounding_dino)]
     * **YOLO-World**: "YOLO-World: Real-Time Open-Vocabulary Object Detection", arXiv, 2024 (*Tencent*). [[Paper](https://arxiv.org/abs/2401.17270)][[Code (in construction)](https://github.com/AILab-CVC/YOLO-World)]
 * Pedestrian Detection:
@@ -2374,6 +2375,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **KTS**: "Revisiting Kernel Temporal Segmentation as an Adaptive Tokenizer for Long-form Video Understanding", arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2309.11569)]
     * **TCR**: "Text-Conditioned Resampler For Long Form Video Understanding", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2312.11897)]
     * **MC-ViT**: "Memory Consolidation Enables Long-Context Video Understanding", arXiv, 2024 (*DeepMind*). [[Paper](https://arxiv.org/abs/2402.05861)]
+    * **VideoAgent**: "VideoAgent: Long-form Video Understanding with Large Language Model as Agent", arXiv, 2024 (*Stanford*). [[Paper](https://arxiv.org/abs/2403.10517)]
 * Video Story:
     * **YouTube-News-Timeline**: "Video Timeline Modeling For News Story Understanding", NeurIPS (Datasets and Benchmarks), 2023 (*Google*). [[Paper](https://arxiv.org/abs/2309.13446)][[GotHub](https://github.com/google-research/google-research/tree/master/video_timeline_modeling)]
 * Analysis:
