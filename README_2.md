@@ -680,6 +680,7 @@ If you find this repository useful, please consider citing this list:
     * **FedTPG**: "Text-driven Prompt Generation for Vision-Language Models in Federated Learning", arXiv, 2023 (*Bosch*). [[Paper](https://arxiv.org/abs/2310.06123)]
     * **FedLGT**: "Language-Guided Transformer for Federated Multi-Label Classification", AAAI, 2024 (*NTU*). [[Paper](https://arxiv.org/abs/2312.07165)][[Code (in construction)](https://github.com/Jack24658735/FedLGT)]
     * **UniMoS**: "Split to Merge: Unifying Separated Modalities for Unsupervised Domain Adaptation", CVPR, 2024 (*University of Electronic Science and Technology of China*). [[Paper](https://arxiv.org/abs/2403.06946)][[PyTorch](https://github.com/TL-UESTC/UniMoS)]
+    * **DiPrompT**: "DiPrompT: Disentangled Prompt Tuning for Multiple Latent Domain Generalization in Federated Learning", CVPR, 2024 (*SenseTime*). [[Paper](https://arxiv.org/abs/2403.08506)]
     * **LLaVO**: "Large Language Models as Visual Cross-Domain Learners", arXiv, 2024 (*Southern University of Science and Technology*). [[Paper](https://arxiv.org/abs/2401.03253)][[Website](https://ll-a-vo.github.io/)][[PyTorch](https://github.com/LL-a-VO/LLaVO)]
     * **LaGTrAn**: "Tell, Don't Show!: Language Guidance Eases Transfer Across Domains in Images and Videos", arXiv, 2024 (*UCSD*). [[Paper](https://arxiv.org/abs/2403.05535)][[Website](https://tarun005.github.io/lagtran/)]
 * X-Supervised:
@@ -776,6 +777,7 @@ If you find this repository useful, please consider citing this list:
     * **TiC-CLIP**: "TiC-CLIP: Continual Training of CLIP Models", arXiv, 2023 (*Apple*). [[Paper](https://arxiv.org/abs/2310.16226)]
     * **TIER**: "Embracing Language Inclusivity and Diversity in CLIP through Continual Language Learning", AAAI, 2024 (*Peking*). [[Paper](https://arxiv.org/abs/2401.17186)][[Code (in construction)](https://github.com/yangbang18/CLFM)]
     * **OVOR**: "OVOR: OnePrompt with Virtual Outlier Regularization for Rehearsal-Free Class-Incremental Learning", ICLR, 2024 (*JPMorgan Chase*). [[Paper](https://arxiv.org/abs/2402.04129)]
+    * **CPrompt**: "Consistent Prompting for Rehearsal-Free Continual Learning", CVPR, 2024 (*Sun Yat-sen University*). [[Paper](https://arxiv.org/abs/2403.08568)][[PyTorch](https://github.com/Zhanxin-Gao/CPrompt)]
 * Long-tail/Imbalanced:
     * **BatchFormer**: "BatchFormer: Learning to Explore Sample Relationships for Robust Representation Learning", CVPR, 2022 (*The University of Sydney*). [[Paper](https://arxiv.org/abs/2203.01522)][[PyTorch](https://github.com/zhihou7/BatchFormer)]
     * **BatchFormerV2**: "BatchFormerV2: Exploring Sample Relationships for Dense Representation Learning", arXiv, 2022 (*The University of Sydney*). [[Paper](https://arxiv.org/abs/2204.01254)]
