@@ -1471,6 +1471,7 @@ If you find this repository useful, please consider citing this list:
 * **DreaMR**: "DreaMR: Diffusion-driven Counterfactual Explanation for Functional MRI", arXiv, 2023 (*Bilkent University*). [[Paper](https://arxiv.org/abs/2307.09547)][[PyTorch](https://github.com/icon-lab/DreaMR)]
 * **LongViT**: "When an Image is Worth 1,024 x 1,024 Words: A Case Study in Computational Pathology", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2312.03558)][[PyTorch](https://github.com/microsoft/torchscale)]
 * **FiVE**: "Generalizable Whole Slide Image Classification with Fine-Grained Visual-Semantic Interaction", CVPR, 2024 (*Xiamen University*). [[Paper](https://arxiv.org/abs/2402.19326)]
+* **FocusMAE**: "FocusMAE: Gallbladder Cancer Detection from Ultrasound Videos with Focused Masked Autoencoders", CVPR, 2024 (*IIT Delhi*). [[Paper](https://arxiv.org/abs/2403.08848)][[Code (in construction)](https://github.com/sbasu276/FocusMAE)]
 
 [[Back to Overview](#overview)]
 
@@ -1650,6 +1651,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **FusionFormer**: "FusionFormer: A Multi-sensory Fusion in Bird's-Eye-View and Temporal Consistent Transformer for 3D Objection", arXiv, 2023 (*Cainiao Network, China*). [[Paper](https://arxiv.org/abs/2309.05257)]
     * **Talk2BEV**: "Talk2BEV: Language-enhanced Bird's-eye View Maps for Autonomous Driving", arXiv, 2023 (*IIIT Hyderabad*). [[Paper](https://arxiv.org/abs/2310.02251)][[Code](https://github.com/llmbev/talk2bev)][[Website](https://llmbev.github.io/talk2bev/)]
     * **SparseOcc**: "Fully Sparse 3D Panoptic Occupancy Prediction", arXiv, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2312.17118)]
+    * **CLIP-BEVFormer**: "CLIP-BEVFormer: Enhancing Multi-View Image-Based BEV Detector with Ground Truth Flow", CVPR, 2024 (*Bosch*). [[Paper](https://arxiv.org/abs/2403.08919)]
 * Biology:
     * **?**: "A State-of-the-art Survey of Object Detection Techniques in Microorganism Image Analysis: from Traditional Image Processing and Classical Machine Learning to Current Deep Convolutional Neural Networks and Potential Visual Transformers", arXiv, 2021 (*Northeastern University*). [[Paper](https://arxiv.org/abs/2105.03148)]
 * Brain Score:
