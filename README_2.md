@@ -379,6 +379,7 @@ If you find this repository useful, please consider citing this list:
     * **ContrasTR**: "Contrastive Learning for Multi-Object Tracking with Transformers", WACV, 2024 (*KU Leuven*). [[Paper](https://arxiv.org/abs/2311.08043)]
     * **M3SOT**: "M3SOT: Multi-frame, Multi-field, Multi-space 3D Single Object Tracking", AAAI, 2024 (*Xidian University*). [[Paper](https://arxiv.org/abs/2312.06117)]
     * **EVPTrack**: "Explicit Visual Prompts for Visual Object Tracking", AAAI, 2024 (*Guangxi Normal University*). [[Paper](https://arxiv.org/abs/2401.03142)]
+    * **OneTracker**: "OneTracker: Unifying Visual Object Tracking with Foundation Models and Efficient Tuning", CVPR, 2024 (*Fudan*). [[Paper](https://arxiv.org/abs/2403.09634)]
     * **SBT**: "Correlation-Embedded Transformer Tracking: A Single-Branch Framework", arXiv, 2024 (*SJTU*). [[Paper](https://arxiv.org/abs/2401.12743)][[PyTorch](https://github.com/phiphiphi31/SBT)]
 * 3D:
     * **PTT**: "PTT: Point-Track-Transformer Module for 3D Single Object Tracking in Point Clouds", IROS, 2021 (*Northeastern University*). [[Paper](https://arxiv.org/abs/2108.06455)][[PyTorch (in construction)](https://github.com/shanjiayao/PTT)]
@@ -1992,6 +1993,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **OccWorld**: "OccWorld: Learning a 3D Occupancy World Model for Autonomous Driving", arXiv, 2023 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2311.16038)][[PyTorch](https://github.com/wzzheng/OccWorld)][[Website](https://wzzheng.net/OccWorld/)]
     * **VehicleMAE**: "Structural Information Guided Multimodal Pre-training for Vehicle-centric Perception", AAAI, 2024 (*Anhui University*). [[Paper](https://arxiv.org/abs/2312.09812)]
     * **MM-AU**: "Abductive Ego-View Accident Video Understanding for Safe Driving Perception", CVPR, 2024 (*Xi'an Jiaotong University*). [[Paper](https://arxiv.org/abs/2403.00436)][[Website](http://www.lotvsmmau.net/)]
+    * **GenAD**: "Generalized Predictive Model for Autonomous Driving", CVPR, 2024 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2403.09630)][[Code (in construction)](https://github.com/OpenDriveLab/DriveAGI)]
 * Traffic (LLM-based):
     * **AVIS**: "AVIS: Autonomous Visual Information Seeking with Large Language Models", NeurIPS, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2306.08129)]
     * **DriveGPT4**: "DriveGPT4: Interpretable End-to-end Autonomous Driving via Large Language Model", arXiv, 2023 (*HKU*). [[Paper](https://arxiv.org/abs/2310.01412)][[Website](https://tonyxuqaq.github.io/projects/DriveGPT4/)]
