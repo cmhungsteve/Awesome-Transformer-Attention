@@ -904,7 +904,8 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **?**: "ConvNets Match Vision Transformers at Scale", arXiv, 2023 (*DeepMind*). [[Paper](https://arxiv.org/abs/2310.16764)]
 * **VMamba**: "VMamba: Visual State Space Model", arXiv, 2024 (*CAS*). [[Paper](https://arxiv.org/abs/2401.10166)][[PyTorch](https://github.com/MzeroMiko/VMamba)]
 * **Vim**: "Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model", arXiv, 2024 (*Huazhong University of Science and Technology*). [[Paper](https://arxiv.org/abs/2401.09417)][[PyTorch](https://github.com/hustvl/Vim
-**VRWKV**: "Vision-RWKV: Efficient and Scalable Visual Perception with RWKV-Like Architectures", arXiv, 2024 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2403.02308)][[PyTorch](https://github.com/OpenGVLab/Vision-RWKV)]
+* **VRWKV**: "Vision-RWKV: Efficient and Scalable Visual Perception with RWKV-Like Architectures", arXiv, 2024 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2403.02308)][[PyTorch](https://github.com/OpenGVLab/Vision-RWKV)]
+* **LocalMamba**: "LocalMamba: Visual State Space Model with Windowed Selective Scan", arXiv, 2024 (*University of Sydney*). [[Paper](https://arxiv.org/abs/2403.09338)][[PyTorch](https://github.com/hunto/LocalMamba)]
 
 [[Back to Overview](#overview)]
 
@@ -1589,6 +1590,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **GEM**: "Grounding Everything: Emerging Localization Properties in Vision-Language Transformers", arXiv, 2023 (*University of Bonn, Germany*). [[Paper](https://arxiv.org/abs/2312.00878)][[PyTorch](https://github.com/WalBouss/GEM)]
     * **CaR**: "CLIP as RNN: Segment Countless Visual Concepts without Training Endeavor", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2312.07661)][[Code (in construction)](https://github.com/kevin-ssy/CLIP_as_RNN)][[Website](https://torrvision.com/clip_as_rnn/)]
     * **SPT**: "Spectral Prompt Tuning: Unveiling Unseen Classes for Zero-Shot Semantic Segmentation", AAAI, 2024 (*Beijing University of Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2312.12754)][[PyTorch (in construction)](https://github.com/clearxu/SPT)]
+    * **FMbSeg**: "Annotation Free Semantic Segmentation with Vision Foundation Models", arXiv, 2024 (*Toyota*). [[Paper](https://arxiv.org/abs/2403.09307)]
 * Open-World/Vocabulary:
     * **ViL-Seg**: "Open-world Semantic Segmentation via Contrasting and Clustering Vision-Language Embedding", ECCV, 2022 (*CUHK*). [[Paper](https://arxiv.org/abs/2207.08455)]
     * **OVSS**: "A Simple Baseline for Open Vocabulary Semantic Segmentation with Pre-trained Vision-language Model", ECCV, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2112.14757)][[PyTorch](https://github.com/MendelXu/zsseg.baseline)]
@@ -1781,6 +1783,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **SemPLeS**: "SemPLeS: Semantic Prompt Learning for Weakly-Supervised Semantic Segmentation", arXiv, 2024 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2401.11791)]
     * **WeakSAM**: "WeakSAM: Segment Anything Meets Weakly-supervised Instance-level Recognition", arXiv, 2024 (*Huazhong University of Science & Technology (HUST)*). [[Paper](https://arxiv.org/abs/2402.14812)][[PyTorch](https://github.com/hustvl/WeakSAM)]
     * **CoSA**: "Weakly Supervised Co-training with Swapping Assignments for Semantic Segmentation", arXiv, 2024 (*Lancaster University, UK*). [[Paper](https://arxiv.org/abs/2402.17891)][[Code (in construction)](https://github.com/youshyee/CoSA)]
+    * **CoBra**: "CoBra: Complementary Branch Fusing Class and Semantic Knowledge for Robust Weakly Supervised Semantic Segmentation", arXiv, 2024 (*Yonsei*). [[Paper](https://arxiv.org/abs/2403.08801)]
 * Cross-Domain:
     * **DAFormer**: "DAFormer: Improving Network Architectures and Training Strategies for Domain-Adaptive Semantic Segmentation", CVPR, 2022 (*ETHZ*). [[Paper](https://arxiv.org/abs/2111.14887)][[PyTorch](https://github.com/lhoyer/DAFormer)]
     * **HGFormer**: "HGFormer: Hierarchical Grouping Transformer for Domain Generalized Semantic Segmentation", CVPR, 2023 (*Wuhan University*). [[Paper](https://arxiv.org/abs/2305.13031)][[Code (in construction)](https://github.com/dingjiansw101/HGFormer)]
@@ -1984,6 +1987,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **MV-Former**: "Multi-entity Video Transformers for Fine-Grained Video Representation Learning", arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2311.10873)][[PyTorch](https://github.com/facebookresearch/video_rep_learning)]
     * **GeoDeformer**: "GeoDeformer: Geometric Deformable Transformer for Action Recognition", arXiv, 2023 (*HKUST*). [[Paper](https://arxiv.org/abs/2311.17975)]
     * **Early-ViT**: "Early Action Recognition with Action Prototypes", arXiv, 2023 (*Amazon*). [[Paper](https://arxiv.org/abs/2312.06598)]
+    * **MCA**: "Don't Judge by the Look: A Motion Coherent Augmentation for Video Recognition", ICLR, 2024 (*Northeastern University*). [[Paper](https://arxiv.org/abs/2403.09506)][[PyTorch](https://github.com/BeSpontaneous/MCA-pytorch)]
     * **VideoMamba**: "VideoMamba: State Space Model for Efficient Video Understanding", arXiv, 2024 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2403.06977)][[PyTorch](https://github.com/OpenGVLab/VideoMamba)]
     * **Video-Mamba-Suite**: "Video Mamba Suite: State Space Model as a Versatile Alternative for Video Understanding", arXiv, 2024 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2403.09626)][[PyTorch](https://github.com/OpenGVLab/video-mamba-suite)]
 * Depth:
@@ -2009,6 +2013,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **PCM<sup>3</sup>**: "Prompted Contrast with Masked Motion Modeling: Towards Versatile 3D Action Representation Learning", ACMMM, 2023 (*Peking*). [[Paper](https://arxiv.org/abs/2308.03975)][[Website](https://jhang2020.github.io/Projects/PCM3/PCM3.html)]
     * **PoseAwareVT**: "Seeing the Pose in the Pixels: Learning Pose-Aware Representations in Vision Transformers", arXiv, 2023 (*Amazon*). [[Paper](https://arxiv.org/abs/2306.09331)][[PyTorch](https://github.com/dominickrei/PoseAwareVT)]
     * **HandFormer**: "On the Utility of 3D Hand Poses for Action Recognition", arXiv, 2024 (*NUS*). [[Paper](https://arxiv.org/abs/2403.09805)][[Code (in construction)](https://github.com/s-shamil/HandFormer)][[Website](https://s-shamil.github.io/HandFormer/)]
+    * **SkateFormer**: "SkateFormer: Skeletal-Temporal Transformer for Human Action Recognition", arXiv, 2024 (*KAIST*). [[Paper](https://arxiv.org/abs/2403.09508)][[Code (in construction)](https://github.com/KAIST-VICLab/SkateFormer)][[Website](https://jeonghyeokdo.github.io/SkateFormer_site/)]
 * Multi-modal:
     * **MBT**: "Attention Bottlenecks for Multimodal Fusion", NeurIPS, 2021 (*Google*). [[Paper](https://arxiv.org/abs/2107.00135)]
     * **MM-ViT**: "MM-ViT: Multi-Modal Video Transformer for Compressed Video Action Recognition", WACV, 2022 (*OPPO*). [[Paper](https://arxiv.org/abs/2108.09322)]
