@@ -301,6 +301,7 @@ If you find this repository useful, please consider citing this list:
     * **DoraemonGPT**: "DoraemonGPT: Toward Understanding Dynamic Scenes with Large Language Models", arXiv, 2024 (*Zhejiang*). [[Paper](https://arxiv.org/abs/2401.08392)][[Code (in construction)](https://github.com/z-x-yang/DoraemonGPT)]
     * **Q-ViD**: "Question-Instructed Visual Descriptions for Zero-Shot Video Question Answering", arXiv, 2024 (*MBZUAI*). [[Paper](https://arxiv.org/abs/2402.10698)]
     * **LSTP**: "LSTP: Language-guided Spatial-Temporal Prompt Learning for Long-form Video-Text Understanding", arXiv, 2024 (*BIGAI*). [[Paper](https://arxiv.org/abs/2402.16050)][[PyTorch](https://github.com/bigai-nlco/LSTP-Chat)]
+    * **DAM**: "DAM: Dynamic Adapter Merging for Continual Video QA Learning", arXiv, 2024 (*UNC*). [[Paper](https://arxiv.org/abs/2403.08755)][[Code (in construction)](https://github.com/klauscc/DAM)]
 * 3D:
     * **3D-VQA**: "CLIP-Guided Vision-Language Pre-training for Question Answering in 3D Scenes", CVPRW, 2023 (*ETHZ*). [[Paper](https://arxiv.org/abs/2304.06061)][[Code (in construction)](https://github.com/AlexDelitzas/3D-VQA)]
     * **PO3D-VQA**: "3D-Aware Visual Question Answering about Parts, Poses and Occlusions", NeurIPS, 2023 (*JHU*). [[Paper](https://arxiv.org/abs/2310.17914)][[Code (in construction)](https://github.com/XingruiWang/3D-Aware-VQA)]
@@ -1033,6 +1034,7 @@ If you find this repository useful, please consider citing this list:
     * **Lumiere**: "Lumiere: A Space-Time Diffusion Model for Video Generation", arXiv, 2024 (*Google*). [[Paper](https://arxiv.org/abs/2401.12945)][[Website](https://lumiere-video.github.io/)]
     * **Snap-Video**: "Snap Video: Scaled Spatiotemporal Transformers for Text-to-Video Synthesis", arXiv, 2024 (*Snap*). [[Paper](https://arxiv.org/abs/2402.14797)][[Website](https://snap-research.github.io/snapvideo/)]
     * **Pix2Gif**: "Pix2Gif: Motion-Guided Diffusion for GIF Generation", arXiv, 2024 (*Microsoft*). [[Paper](https://arxiv.org/abs/2403.04634)][[PyTorch](https://github.com/hiteshK03/Pix2Gif)][[Website](https://hiteshk03.github.io/Pix2Gif/)]
+    * **WorldGPT**: "WorldGPT: A Sora-Inspired Video AI Agent as Rich World Models from Text and Image Inputs", arXiv, 2024 (*Seeking AI, China*). [[Paper](https://arxiv.org/abs/2403.07944)]
 * 3D:
     * **Magic3D**: "Magic3D: High-Resolution Text-to-3D Content Creation", CVPR, 2023 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2211.10440)][[Website](https://research.nvidia.com/labs/dir/magic3d/)]
     * **CLIP-Sculptor**: "CLIP-Sculptor: Zero-Shot Generation of High-Fidelity and Diverse Shapes from Natural Language", CVPR, 2023 (*Autodesk*). [[Paper](https://arxiv.org/abs/2211.01427)][[Website](https://ivl.cs.brown.edu/#/projects/clip-sculptor)]
