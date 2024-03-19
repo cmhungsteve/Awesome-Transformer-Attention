@@ -1459,6 +1459,7 @@ If you find this repository useful, please consider citing this list:
     * **PIVOT**: "PIVOT: Iterative Visual Prompting Elicits Actionable Knowledge for VLMs", arXiv, 2024 (*DeepMind*). [[Paper](https://arxiv.org/abs/2402.07872)][[Website](https://pivot-prompt.github.io/)]
     * **VPDD**: "Large-Scale Actionless Video Pre-Training via Discrete Diffusion for Efficient Policy Learning", arXiv, 2024 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2402.14407)][[Website](https://video-diff.github.io/)]
     * **DecisionNCE**: "DecisionNCE: Embodied Multimodal Representations via Implicit Preference Learning", arXiv, 2024 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2402.18137)][[PyTorch](https://github.com/2toinf/DecisionNCE)][[Website](https://2toinf.github.io/DecisionNCE/)]
+    * **3D-VLA**: "3D-VLA: A 3D Vision-Language-Action Generative World Model", arXiv, 2024 (*UMass*). [[Paper](https://arxiv.org/abs/2403.09631)][[Code (in construction)](https://github.com/UMass-Foundation-Model/3D-VLA)][[Website](https://vis-www.cs.umass.edu/3dvla/)]
 * Multi-modal Fusion:
     * **MICA**: "Attention Is Not Enough: Mitigating the Distribution Discrepancy in Asynchronous Multimodal Sequence Fusion", ICCV, 2021 (*Southwest Jiaotong University*). [[Paper](https://openaccess.thecvf.com/content/ICCV2021/html/Liang_Attention_Is_Not_Enough_Mitigating_the_Distribution_Discrepancy_in_Asynchronous_ICCV_2021_paper.html)]
     * **IFT**: "Image Fusion Transformer", arXiv, 2021 (*Johns Hopkins*). [[Paper](https://arxiv.org/abs/2107.09011)][[PyTorch](https://github.com/Vibashan/Image-Fusion-Transformer)]
@@ -1688,6 +1689,7 @@ If you find this repository useful, please consider citing this list:
     * **DeepSeek-VL**: "DeepSeek-VL: Towards Real-World Vision-Language Understanding", arXiv, 2024 (*DeepSeek, China*). [[Paper](https://arxiv.org/abs/2403.05525)][[PyTorch](https://github.com/deepseek-ai/DeepSeek-VL)]
     * **Gemini-1.5**: "Gemini 1.5: Unlocking multimodal understanding across millions of tokens of context", arXiv, 2024 (*Google*). [[Paper](https://arxiv.org/abs/2403.05530)]
     * **FastV**: "An Image is Worth 1/2 Tokens After Layer 2: Plug-and-Play Inference Acceleration for Large Vision-Language Models", arXiv, 2024 (*Peking*). [[Paper](https://arxiv.org/abs/2403.06764)][[PyTorch (in construction)](https://github.com/pkunlp-icler/FastV)]
+    * **MM1**: "MM1: Methods, Analysis & Insights from Multimodal LLM Pre-training", arXiv, 2024 (*Apple*). [[Paper](https://arxiv.org/abs/2403.09611)]
 * Conversation (Video):
     * **Video-ChatCaptioner**: "Video ChatCaptioner: Towards the Enriched Spatiotemporal Descriptions", arXiv, 2023 (*KAUST*). [[Paper](https://arxiv.org/abs/2304.04227)][[PyTorch](https://github.com/Vision-CAIR/ChatCaptioner)]
     * **ChatVideo**: "ChatVideo: A Tracklet-centric Multimodal and Versatile Video Understanding System", arXiv, 2023 (*Fudan*). [[Paper](https://arxiv.org/abs/2304.14407)][[Website](https://www.wangjunke.info/ChatVideo/)]
