@@ -964,6 +964,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **INTR**: "A Simple Interpretable Transformer for Fine-Grained Image Classification and Analysis", arXiv, 2023 (*OSU*). [[Paper](https://arxiv.org/abs/2311.04157)][[PyTorch](https://github.com/Imageomics/INTR)]
 * **?**: "Attention Guided CAM: Visual Explanations of Vision Transformer Guided by Self-Attention", AAAI, 2024 (*Korea Institute of Science and Technology (KIST)*). [[Paper](https://arxiv.org/abs/2402.04563)][[PyTorch](https://github.com/LeemSaebom/Attention-Guided-CAM-Visual-Explanations-of-Vision-Transformer-Guided-by-Self-Attention)]
 * **RelatiViT**: "Can Transformers Capture Spatial Relations between Objects?", ICLR, 2024 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2403.00729)][[Code (in construction)](https://github.com/AlvinWen428/spatial-relation)][[Website](https://sites.google.com/view/spatial-relation)]
+* **?**: "A Decade's Battle on Dataset Bias: Are We There Yet?", arXiv, 2024 (*Meta*). [[Paper](https://arxiv.org/abs/2403.08632)][[Code (in construction)](https://github.com/liuzhuang13/bias)]
 
 [[Back to Overview](#overview)]
 
@@ -1565,7 +1566,6 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **DenseCLIP**: "DenseCLIP: Language-Guided Dense Prediction with Context-Aware Prompting", CVPR, 2022 (*Tsinghua University*). [[Paper](https://arxiv.org/abs/2112.01518)][[PyTorch](https://github.com/raoyongming/DenseCLIP)][[Website](https://denseclip.ivg-research.xyz/)]
     * **GroupViT**: "GroupViT: Semantic Segmentation Emerges from Text Supervision", CVPR, 2022 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2202.11094)][[Website](https://jerryxu.net/GroupViT/)][[PyTorch](https://github.com/NVlabs/GroupViT)]
     * **MaskCLIP**: "Extract Free Dense Labels from CLIP", ECCV, 2022 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2112.01071)][[PyTorch](https://github.com/chongzhou96/MaskCLIP)][[Website](https://www.mmlab-ntu.com/project/maskclip/)]
-    * **ZegCLIP**: "ZegCLIP: Towards Adapting CLIP for Zero-shot Semantic Segmentation", arXiv, 2022 (*The University of Adelaide, Australia*). [[Paper](https://arxiv.org/abs/2212.03588)][[PyTorch (in construction)](https://github.com/ZiqinZhou66/ZegCLIP)]
     * **ViewCo**: "ViewCo: Discovering Text-Supervised Segmentation Masks via Multi-View Semantic Consistency", ICLR, 2023 (*Sun Yat-sen University*). [[Paper](https://arxiv.org/abs/2302.10307)][[Code (in construction)](https://github.com/pzhren/ViewCo)]
     * **LMSeg**: "LMSeg: Language-guided Multi-dataset Segmentation", ICLR, 2023 (*Alibaba*). [[Paper](https://arxiv.org/abs/2302.13495)]
     * **VL-Fields**: "VL-Fields: Towards Language-Grounded Neural Implicit Spatial Representations", ICRA, 2023 (*University of Edinburgh, UK*). [[Paper](https://arxiv.org/abs/2305.12427)][[Website](https://tsagkas.github.io/vl-fields/)]
@@ -2193,6 +2193,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **UniVS**: "UniVS: Unified and Universal Video Segmentation with Prompts as Queries", CVPR, 2024 (*OPPO*). [[Paper](https://arxiv.org/abs/2402.18115)][[PyTorch](https://github.com/MinghanLi/UniVS)][[Website](https://sites.google.com/view/unified-video-seg-univs)]
     * **DVIS++**: "DVIS++: Improved Decoupled Framework for Universal Video Segmentation", arXiv, 2024 (*Wuhan University*). [[Paper](https://arxiv.org/abs/2312.13305)][[PyTorch](https://github.com/zhang-tao-whu/DVIS_Plus)]
     * **SAM-PD**: "SAM-PD: How Far Can SAM Take Us in Tracking and Segmenting Anything in Videos by Prompt Denoising", arXiv, 2024 (*Zhejiang*). [[Paper](https://arxiv.org/abs/2403.04194)][[PyTorch (in construction)](https://github.com/infZhou/SAM-PD)]
+    * **OneVOS**: "OneVOS: Unifying Video Object Segmentation with All-in-One Transformer Framework", arXiv, 2024 (*Fudan*). [[Paper](https://arxiv.org/abs/2403.08682)]
 * Video Object Detection:
     * **TransVOD**: "End-to-End Video Object Detection with Spatial-Temporal Transformers", arXiv, 2021 (*Shanghai Jiao Tong + SenseTime*). [[Paper](https://arxiv.org/abs/2105.10920)][[Code (in construction)](https://github.com/SJTU-LuHe/TransVOD)]
     * **MODETR**: "MODETR: Moving Object Detection with Transformers", arXiv, 2021 (*Valeo, Egypt*). [[Paper](https://arxiv.org/abs/2106.11422)]
