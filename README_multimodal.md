@@ -365,7 +365,7 @@ If you find this repository useful, please consider citing this list:
     * **GREC**: "GREC: Generalized Referring Expression Comprehension", arXiv, 2023 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2308.16182)][[Website](https://henghuiding.github.io/GRES/)]
     * **SoM**: "Set-of-Mark Prompting Unleashes Extraordinary Visual Grounding in GPT-4V", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2310.11441)][[Code (in construction)](https://github.com/microsoft/SoM)][[Website](https://som-gpt4v.github.io/)]
     * **GLaMM**: "GLaMM: Pixel Grounding Large Multimodal Model", arXiv, 2023 (*MBZUAI*). [[Paper](https://arxiv.org/abs/2311.03356)][[Code (in construction)](https://github.com/mbzuai-oryx/groundingLMM)][[Website](https://mbzuai-oryx.github.io/groundingLMM/)]
-    * **Griffon**: "Griffon: Spelling out All Object Locations at Any Granularity with Large Language Models", arXiv, 2023 (*CAS*). [[Paper](https://arxiv.org/abs/2311.14552)]
+    * **Griffon**: "Griffon: Spelling out All Object Locations at Any Granularity with Large Language Models", arXiv, 2023 (*CAS*). [[Paper](https://arxiv.org/abs/2311.14552)][[PyTorch](https://github.com/jefferyZhan/Griffon)]
     * **RelVLA**: "Zero-shot Referring Expression Comprehension via Structural Similarity Between Images and Captions", arXiv, 2023 (*Northeastern*). [[Paper](https://arxiv.org/abs/2311.17048)]
     * **Lenna**: "Lenna: Language Enhanced Reasoning Detection Assistant", arXiv, 2023 (*Meituan*). [[Paper](https://arxiv.org/abs/2312.02433)][[Code (in construction)](https://github.com/Meituan-AutoML/Lenna)]
     * **LLaVA-Grounding**: "LLaVA-Grounding: Grounded Visual Chat with Large Multimodal Models", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2312.02949)][[PyTorch](https://github.com/UX-Decoder/LLaVA-Grounding)][[Website](https://llava-vl.github.io/llava-grounding/)]
@@ -377,6 +377,7 @@ If you find this repository useful, please consider citing this list:
     * **PIN**: "PIN: Positional Insert Unlocks Object Localisation Abilities in VLMs", arXiv, 2024 (*UvA*). [[Paper](https://arxiv.org/abs/2402.08657)][[Code (in construction)](https://github.com/QUVA-Lab/PIN/)][[Website](https://quva-lab.github.io/PIN/)]
     * **ViGoR**: "ViGoR: Improving Visual Grounding of Large Vision Language Models with Fine-Grained Reward Modeling", arXiv, 2024 (*Amazon*). [[Paper](https://arxiv.org/abs/2402.06118)]
     * **CRG**: "Contrastive Region Guidance: Improving Grounding in Vision-Language Models without Training", arXiv, 2024 (*UNC*). [[Paper](https://arxiv.org/abs/2403.02325)][[PyTorch](https://github.com/meetdavidwan/crg)][[Website](https://contrastive-region-guidance.github.io/)]
+    * **Griffon-v2**: "Griffon v2: Advancing Multimodal Perception with High-Resolution Scaling and Visual-Language Co-Referring", arXiv, 2024 (*CAS*). [[Paper](https://arxiv.org/abs/2403.09333)][[PyTorch](https://github.com/jefferyZhan/Griffon)]
 * Video:
     * **Multi-Stage-Transformer**: "Multi-Stage Aggregated Transformer Network for Temporal Language Localization in Videos", CVPR, 2021 (*University of Electronic Science and Technology of China*). [[Paper](https://openaccess.thecvf.com/content/CVPR2021/html/Zhang_Multi-Stage_Aggregated_Transformer_Network_for_Temporal_Language_Localization_in_Videos_CVPR_2021_paper.html)]
     * **GTR**: "On Pursuit of Designing Multi-modal Transformer for Video Grounding", EMNLP, 2021 (*Peking*). [[Paper](https://arxiv.org/abs/2109.06085)]
@@ -1406,6 +1407,7 @@ If you find this repository useful, please consider citing this list:
     * **VLP**: "Using Left and Right Brains Together: Towards Vision and Language Planning", arXiv, 2024 (*Microsoft*). [[Paper](https://arxiv.org/abs/2402.10534)]
     * **V2T-Tokenizer**: "Beyond Text: Frozen Large Language Models in Visual Signal Comprehension", arXiv, 2024 (*Peking*). [[Paper](https://arxiv.org/abs/2403.07874)][[PyTorch](https://github.com/zh460045050/V2L-Tokenizer)]
     * **Lumen**: "Lumen: Unleashing Versatile Vision-Centric Capabilities of Large Multimodal Models", arXiv, 2024 (*Meituan*). [[Paper](https://arxiv.org/abs/2403.07304)][[Code (in construction)](https://github.com/SxJyJay/Lumen)]
+    * **GiT**: "GiT: Towards Generalist Vision Transformer through Universal Language Interface", arXiv, 2024 (*Peking*). [[Paper](https://arxiv.org/abs/2403.09394)][[PyTorch](https://github.com/Haiyang-W/GiT)]
 * Language-based Video Editing:
     * **M<sup>3</sup>L**: "Language-based Video Editing via Multi-Modal Multi-Level Transformer", CVPR, 2022 (*UCSB*). [[Paper](https://arxiv.org/abs/2104.01122)]
     * **Video-P2P**: "Video-P2P: Video Editing with Cross-attention Control", arXiv, 2023 (*CUHK*). [[Paper](https://arxiv.org/abs/2303.04761)][[Website](https://video-p2p.github.io/)]
@@ -1807,6 +1809,7 @@ If you find this repository useful, please consider citing this list:
     * **CroPA**: "An Image Is Worth 1000 Lies: Adversarial Transferability across Prompts on Vision-Language Models", ICLR, 2024 (*Oxford*). [[Paper](https://arxiv.org/abs/2403.09766)][[PyTorch](https://github.com/Haochen-Luo/CroPA)]
     * **APT**: "One Prompt Word is Enough to Boost Adversarial Robustness for Pre-trained Vision-Language Models", CVPR, 2024 (*King's College London*). [[Paper](https://arxiv.org/abs/2403.01849)][[PyTorch](https://github.com/TreeLLi/APT)]
     * **Robust-CLIP**: "Robust CLIP: Unsupervised Adversarial Fine-Tuning of Vision Embeddings for Robust Large Vision-Language Models", arXiv, 2024 (*University of Tubingen, Germany*). [[Paper](https://arxiv.org/abs/2402.12336)][[PyTorch](https://github.com/chs20/RobustVLM)]
+    * **AVIBench**: "AVIBench: Towards Evaluating the Robustness of Large Vision-Language Model on Adversarial Visual-Instructions", arXiv, 2024 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2403.09346)]
 * Compositional Reasoning:
     * **SugarCrepe**: "SugarCrepe: Fixing Hackable Benchmarks for Vision-Language Compositionality", NeurIPS, 2023 (*AI2*). [[Paper](https://arxiv.org/abs/2306.14610)][[PyTorch](https://github.com/RAIVNLab/sugar-crepe)]
     * **DAC**: "Dense and Aligned Captions (DAC) Promote Compositional Reasoning in VL Models", NeurIPS, 2023 (*IBM*). [[Paper](https://arxiv.org/abs/2305.19595)]
