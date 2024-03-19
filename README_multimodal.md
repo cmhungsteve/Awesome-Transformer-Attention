@@ -32,7 +32,8 @@ If you find this repository useful, please consider citing this list:
 ## Multi-Modality
 ### Visual Captioning
 * General:
-    * **SAT**: "Show, Attend and Tell: Neural Image Caption Generation with Visual Attention", ICML, 2015. [[paper](https://arxiv.org/abs/1502.03044)] 
+    * **SAT**: "Show, Attend and Tell: Neural Image Caption Generation with Visual Attention", ICML, 2015 (*Université de Montréal*). [[Paper](https://arxiv.org/abs/1502.03044)]
+    * **SCA-CNN**: "SCA-CNN: Spatial and Channel-wise Attention in Convolutional Networks for Image Captioning", CVPR, 2017 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/1611.05594v2)][[Code](https://github.com/zjuchenlong/sca-cnn.cvpr17)]
     * **ETA-Transformer**: "Entangled Transformer for Image Captioning", ICCV, 2019 (*UTS*). [[Paper](https://openaccess.thecvf.com/content_ICCV_2019/html/Li_Entangled_Transformer_for_Image_Captioning_ICCV_2019_paper.html)]
     * **M2-Transformer**: "Meshed-Memory Transformer for Image Captioning", CVPR, 2020 (*UniMoRE*). [[Paper](https://arxiv.org/abs/1912.08226)][[PyTorch](https://github.com/aimagelab/meshed-memory-transformer)] 
     * **MCCFormers**: "Describing and Localizing Multiple Changes with Transformers", ICCV, 2021 (*AIST*). [[Paper](https://arxiv.org/abs/2103.14146)][[Website](https://cvpaperchallenge.github.io/Describing-and-Localizing-Multiple-Change-with-Transformers/)]
