@@ -1641,6 +1641,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **CLIP-DINOiser**: "CLIP-DINOiser: Teaching CLIP a few DINO tricks", arXiv, 2023 (*Warsaw University of Technology, Poland*). [[Paper](https://arxiv.org/abs/2312.12359)][[PyTorch](https://github.com/wysoczanska/clip_dinoiser)]
     * **TagAlign**: "TagAlign: Improving Vision-Language Alignment with Multi-Tag Classification", arXiv, 2023 (*Ant Group*). [[Paper](https://arxiv.org/abs/2312.14149)][[PyTorch](https://github.com/Qinying-Liu/TagAlign)][[Website](https://qinying-liu.github.io/Tag-Align/)]
     * **S-Seg**: "Exploring Simple Open-Vocabulary Semantic Segmentation", arXiv, 2024 (*Oxford*). [[Paper](https://arxiv.org/abs/2401.12217)][[Code (in construction)](https://github.com/zlai0/S-Seg)]
+    * **PosSAM**: "PosSAM: Panoptic Open-vocabulary Segment Anything", arXiv, 2024 (*Qualcomm*). [[Paper](https://arxiv.org/abs/2403.09620)]][[Code (in construction)](https://github.com/Vibashan/PosSAM)][[Website](https://vibashan.github.io/possam-web/)]
 * LLM-based:
     * **LISA**: "LISA: Reasoning Segmentation via Large Language Model", arXiv, 2023 (*CUHK*). [[Paper](https://arxiv.org/abs/2308.00692)][[PyTorch](https://github.com/dvlab-research/LISA)]
     * **PixelLM**: "PixelLM: Pixel Reasoning with Large Multimodal Model", arXiv, 2023 (*ByteDance*). [[Paper](https://arxiv.org/abs/2312.02228)][[Code (in construction)](https://github.com/MaverickRen/PixelLM)][[Website](https://pixellm.github.io/)]
@@ -1723,6 +1724,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **RefT**: "Reference Twice: A Simple and Unified Baseline for Few-Shot Instance Segmentation", arXiv, 2023 (*Tencent*). [[Paper](https://arxiv.org/abs/2301.01156)][[Code (in construction)](https://github.com/hanyue1648/RefT)]
     * **?**: "Multi-Modal Prototypes for Open-Set Semantic Segmentation", arXiv, 2023 (*Shanghai Jiao Tong*). [[Paper](https://arxiv.org/abs/2307.02003)]
     * **SPINO**: "Few-Shot Panoptic Segmentation With Foundation Models", arXiv, 2023 (*University of Freiburg, Germany*). [[Paper](https://arxiv.org/abs/2309.10726)][[Website](http://spino.cs.uni-freiburg.de/)]
+    * **RefLDM-Seg**: "Explore In-Context Segmentation via Latent Diffusion Models", arXiv, 2024 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2403.09616)][[Code (in construction)](https://github.com/wang-chaoyang/RefLDMSeg)][[Website](https://wang-chaoyang.github.io/project/refldmseg/)]
 * X-Supervised:
     * **MCTformer**: "Multi-class Token Transformer for Weakly Supervised Semantic Segmentation", CVPR, 2022 (*The University of Western Australia*). [[Paper](https://arxiv.org/abs/2203.02891)][[Code (in construction)](https://github.com/xulianuwa/MCTformer)]
     * **AFA**: "Learning Affinity from Attention: End-to-End Weakly-Supervised Semantic Segmentation with Transformers", CVPR, 2022 (*Wuhan University*). [[Paper](https://arxiv.org/abs/2203.02664)][[PyTorch](https://github.com/rulixiang/afa)]
@@ -1983,6 +1985,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **GeoDeformer**: "GeoDeformer: Geometric Deformable Transformer for Action Recognition", arXiv, 2023 (*HKUST*). [[Paper](https://arxiv.org/abs/2311.17975)]
     * **Early-ViT**: "Early Action Recognition with Action Prototypes", arXiv, 2023 (*Amazon*). [[Paper](https://arxiv.org/abs/2312.06598)]
     * **VideoMamba**: "VideoMamba: State Space Model for Efficient Video Understanding", arXiv, 2024 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2403.06977)][[PyTorch](https://github.com/OpenGVLab/VideoMamba)]
+    * **Video-Mamba-Suite**: "Video Mamba Suite: State Space Model as a Versatile Alternative for Video Understanding", arXiv, 2024 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2403.09626)][[PyTorch](https://github.com/OpenGVLab/video-mamba-suite)]
 * Depth:
     * **Trear**: "Trear: Transformer-based RGB-D Egocentric Action Recognition",  IEEE Transactions on Cognitive and Developmental Systems, 2021 (*Tianjing University*). [[Paper](https://ieeexplore.ieee.org/document/9312201)]
 * Pose/Skeleton:
