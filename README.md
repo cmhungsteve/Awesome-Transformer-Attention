@@ -1506,6 +1506,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **ZeroDepth**: "Towards Zero-Shot Scale-Aware Monocular Depth Estimation", ICCV, 2023 (*Toyota*). [[Paper](https://arxiv.org/abs/2306.17253)][[PyTorch](https://github.com/tri-ml/vidar)][[Website](https://sites.google.com/view/tri-zerodepth)]
 * **Win-Win**: "Win-Win: Training High-Resolution Vision Transformers from Two Windows", arXiv, 2023 (*NAVER*). [[Paper](https://arxiv.org/abs/2310.00632)]
 * **?**: "Learning to Adapt CLIP for Few-Shot Monocular Depth Estimation", WACV, 2024 (*Southern University of Science and Technology*). [[Paper](https://arxiv.org/abs/2311.01034)]
+* **DeCoTR**: "DeCoTR: Enhancing Depth Completion with 2D and 3D Attentions", CVPR, 2024 (*Qualcomm*). [[Paper](https://arxiv.org/abs/2403.12202)]
 * **Depth-Anything**: "Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data", arXiv, 2024 (*TikTok*). [[Paper](https://arxiv.org/abs/2401.10891)][[PyTorch](https://github.com/LiheYoung/Depth-Anything)][[Website](https://depth-anything.github.io/)]
 
 [[Back to Overview](#overview)]
@@ -2281,6 +2282,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **ActionHub**: "ActionHub: A Large-scale Action Video Description Dataset for Zero-shot Action Recognition", arXiv, 2024 (*Sun Yat-sen University*). [[Paper](https://arxiv.org/abs/2401.11654)]
     * **ZERO**: "Zero Shot Open-ended Video Inference", arXiv, 2024 (*A\*STAR*). [[Paper](https://arxiv.org/abs/2401.12471)]
     * **SATA**: "Rethinking CLIP-based Video Learners in Cross-Domain Open-Vocabulary Action Recognition", arXiv, 2024 (*Sun Yat-sen University*). [[Paper](https://arxiv.org/abs/2403.01560)][[Code (in construction)](https://github.com/KunyuLin/XOV-Action/)]
+    * **CLIP-VIS**: "CLIP-VIS: Adapting CLIP for Open-Vocabulary Video Instance Segmentation", arXiv, 2024 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2403.12455)][[PyTorch](https://github.com/zwq456/CLIP-VIS)]
 * X-supervised Learning:
     * **LSTCL**: "Long-Short Temporal Contrastive Learning of Video Transformers", CVPR, 2022 (*Facebook*). [[Paper](https://arxiv.org/abs/2106.09212)]
     * **SVT**: "Self-supervised Video Transformer", CVPR, 2022 (*Stony Brook*). [[Paper](https://arxiv.org/abs/2112.01514)][[PyTorch](https://github.com/kahnchana/svt)][[Website](https://kahnchana.github.io/svt/)]
