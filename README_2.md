@@ -271,6 +271,7 @@ If you find this repository useful, please consider citing this list:
     * **TEMP3D**: "TEMP3D: Temporally Continuous 3D Human Pose Estimation Under Occlusions", arXiv, 2023 (*UC Riverside*). [[Paper](https://arxiv.org/abs/2312.16221)][[Website](https://sites.google.com/ucr.edu/temp3d)]
     * **VLPose**: "VLPose: Bridging the Domain Gap in Pose Estimation with Language-Vision Tuning", arXiv, 2024 (*CUHK*). [[Paper](https://arxiv.org/abs/2402.14456)]
     * **?**: "Multi-Human Mesh Recovery with Transformers", arXiv, 2024 (*Stanford*). [[Paper](https://arxiv.org/abs/2402.16806)]
+    * **WHAC**: "WHAC: World-grounded Humans and Cameras", arXiv, 2024 (*SenseTime*). [[Paper](https://arxiv.org/abs/2403.12959)][[Code (in construction)](https://github.com/wqyin/WHAC)][[Website](https://wqyin.github.io/projects/WHAC/)]
 * Hands:
     * **Hand-Transformer**: "Hand-Transformer: Non-Autoregressive Structured Modeling for 3D Hand Pose Estimation", ECCV, 2020 (*Kwai*). [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/4836_ECCV_2020_paper.php)]
     * **SCAT**: "SCAT: Stride Consistency With Auto-Regressive Regressor and Transformer for Hand Pose Estimation", ICCVW, 2021 (*Alibaba*). [[Paper](https://openaccess.thecvf.com/content/ICCV2021W/SoMoF/html/Gao_SCAT_Stride_Consistency_With_Auto-Regressive_Regressor_and_Transformer_for_Hand_ICCVW_2021_paper.html)]
@@ -471,6 +472,7 @@ If you find this repository useful, please consider citing this list:
     * **VC-TRSF**: "Self-supervised Video-centralised Transformer for Video Face Clustering", arXiv, 2022 (*ICL*). [[Paper](https://arxiv.org/abs/2203.13166)]
     * **MARLIN**: "MARLIN: Masked Autoencoder for facial video Representation LearnINg", CVPR, 2023 (*Monash University, Australia*). [[Paper](https://arxiv.org/abs/2211.06627)][[PyTorch](https://github.com/ControlNet/MARLIN)]
     * **TransFace**: "TransFace: Calibrating Transformer Training for Face Recognition from a Data-Centric Perspective", ICCV, 2023 (*Alibaba*). [[Paper](https://arxiv.org/abs/2308.10133)][[PyTorch](https://github.com/DanJun6737/TransFace)]
+    * **FaceXFormer**: "FaceXFormer: A Unified Transformer for Facial Analysis", arXiv, 2024 (*JHU*). [[Paper](https://arxiv.org/abs/2403.12960)][[PyTorch](https://github.com/Kartik-3004/facexformer)][[Website](https://kartik-3004.github.io/facexformer_web/)]
 * Facial Landmark:
     * **Clusformer**: "Clusformer: A Transformer Based Clustering Approach to Unsupervised Large-Scale Face and Visual Landmark Recognition", CVPR, 2021 (*VinAI Research, Vietnam*). [[Paper](https://openaccess.thecvf.com/content/CVPR2021/html/Nguyen_Clusformer_A_Transformer_Based_Clustering_Approach_to_Unsupervised_Large-Scale_Face_CVPR_2021_paper.html)]
     * **LOTR**: "LOTR: Face Landmark Localization Using Localization Transformer", arXiv, 2021 (*Sertis, Thailand*). [[Paper](https://arxiv.org/abs/2109.10057)]
