@@ -123,6 +123,7 @@ If you find this repository useful, please consider citing this list:
     * **MacCap**: "Mining Fine-Grained Image-Text Alignment for Zero-Shot Captioning via Text-Only Training", AAAI, 2024 (*ShanghaiTech*). [[Paper](https://arxiv.org/abs/2401.02347)][[Code (in construction)](https://github.com/Artanic30/MacCap)]
     * **RegionGPT**: "RegionGPT: Towards Region Understanding Vision Language Model", CVPR, 2024 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2403.02330)][[Website](https://guoqiushan.github.io/regiongpt.github.io/)]
     * **MeaCap**: "MeaCap: Memory-Augmented Zero-shot Image Captioning", CVPR, 2024 (*Xidian University*). [[Paper](https://arxiv.org/abs/2403.03715)][[Code (in construction)](https://github.com/joeyz0z/MeaCap)]
+    * **FlexCap**: "FlexCap: Generating Rich, Localized, and Flexible Captions in Images", arXiv, 2024 (*DeepMind*). [[Paper](https://arxiv.org/abs/2403.12026)][[Website](https://flex-cap.github.io/)]
 * Video:
     * **Masked Transformers**: "End-to-End Dense Video Captioning with Masked Transformer", CVPR, 2018 (*UMich + Salesforce*). [[Paper](https://openaccess.thecvf.com/content_cvpr_2018/html/Zhou_End-to-End_Dense_Video_CVPR_2018_paper.html)][[PyTorch](https://github.com/salesforce/densecap)]
     * **BMT**: "A Better Use of Audio-Visual Cues: Dense Video Captioning with Bi-modal Transformer", BMVC, 2020 (*Tampere University, Finland*). [[Paper](https://arxiv.org/abs/2005.08271)][[PyTorch](https://github.com/v-iashin/bmt)][[Website](https://iashin.ai/bmt)]
@@ -1182,6 +1183,7 @@ If you find this repository useful, please consider citing this list:
 * **Any-shift**: "Any-Shift Prompting for Generalization over Distributions", arXiv, 2024 (*UvA*). [[Paper](https://arxiv.org/abs/2402.10099)]
 * **SPT**: "Revisiting the Power of Prompt for Visual Tuning", arXiv, 2024 (*Hefei University of Technology*). [[Paper](https://arxiv.org/abs/2402.02382)][[PyTorch](https://github.com/WangYZ1608/Self-Prompt-Tuning)]
 * **LSPT**: "LSPT: Long-term Spatial Prompt Tuning for Visual Representation Learning", arXiv, 2024 (*Microsoft*). [[Paper](https://arxiv.org/abs/2402.17406)]
+* **MPVR**: "Meta-Prompting for Automating Zero-shot Visual Recognition with LLMs", arXiv, 2024 (*TU Graz, Austria*). [[Paper](https://arxiv.org/abs/2403.11755)][[PyTorch](https://github.com/jmiemirza/Meta-Prompting)][[Website](https://jmiemirza.github.io/Meta-Prompting/)]
 
 [[Back to Overview](#overview)]
 
@@ -1697,6 +1699,7 @@ If you find this repository useful, please consider citing this list:
     * **Gemini-1.5**: "Gemini 1.5: Unlocking multimodal understanding across millions of tokens of context", arXiv, 2024 (*Google*). [[Paper](https://arxiv.org/abs/2403.05530)]
     * **FastV**: "An Image is Worth 1/2 Tokens After Layer 2: Plug-and-Play Inference Acceleration for Large Vision-Language Models", arXiv, 2024 (*Peking*). [[Paper](https://arxiv.org/abs/2403.06764)][[PyTorch (in construction)](https://github.com/pkunlp-icler/FastV)]
     * **MM1**: "MM1: Methods, Analysis & Insights from Multimodal LLM Pre-training", arXiv, 2024 (*Apple*). [[Paper](https://arxiv.org/abs/2403.09611)]
+    * **LLaVA-UHD**: "LLaVA-UHD: an LMM Perceiving Any Aspect Ratio and High-Resolution Images", arXiv, 2024 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2403.11703)][[PyTorch](https://github.com/thunlp/LLaVA-UHD)]
 * Conversation (Video):
     * **Video-ChatCaptioner**: "Video ChatCaptioner: Towards the Enriched Spatiotemporal Descriptions", arXiv, 2023 (*KAUST*). [[Paper](https://arxiv.org/abs/2304.04227)][[PyTorch](https://github.com/Vision-CAIR/ChatCaptioner)]
     * **ChatVideo**: "ChatVideo: A Tracklet-centric Multimodal and Versatile Video Understanding System", arXiv, 2023 (*Fudan*). [[Paper](https://arxiv.org/abs/2304.14407)][[Website](https://www.wangjunke.info/ChatVideo/)]
@@ -1728,6 +1731,7 @@ If you find this repository useful, please consider citing this list:
     * **LiDAR-LLM**: "LiDAR-LLM: Exploring the Potential of Large Language Models for 3D LiDAR Understanding", arXiv, 2023 (*Peking*). [[Paper](https://arxiv.org/abs/2312.14074)][[Code (in construction)](https://github.com/Yangsenqiao/LiDAR-LLM)][[Website](https://sites.google.com/view/lidar-llm)]
     * **Uni3D-LLM**: "Uni3D-LLM: Unifying Point Cloud Perception, Generation and Editing with Large Language Models", arXiv, 2024 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2402.03327)]
     * **ShapeLLM**: "ShapeLLM: Universal 3D Object Understanding for Embodied Interaction", arXiv, 2024 (*Megvii*). [[Paper](https://arxiv.org/abs/2402.17766)][[Code (in construction)](https://github.com/qizekun/ShapeLLM)][[Website](https://qizekun.github.io/shapellm/)]
+    * **Agent3D-Zero**: "Agent3D-Zero: An Agent for Zero-shot 3D Understanding", arXiv, 2024 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2403.11835)][[Website](https://zhangsha1024.github.io/Agent3D-Zero/)]
 * Conversation (Multi):
     * **AnyMAL**: "AnyMAL: An Efficient and Scalable Any-Modality Augmented Language Model", arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2309.16058)]
     * **OneLLM**: "OneLLM: One Framework to Align All Modalities with Language", arXiv, 2023 (*CUHK + Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2312.03700)][[PyTorch](https://github.com/csuhan/OneLLM)]
