@@ -378,6 +378,7 @@ If you find this repository useful, please consider citing this list:
     * **ViGoR**: "ViGoR: Improving Visual Grounding of Large Vision Language Models with Fine-Grained Reward Modeling", arXiv, 2024 (*Amazon*). [[Paper](https://arxiv.org/abs/2402.06118)]
     * **CRG**: "Contrastive Region Guidance: Improving Grounding in Vision-Language Models without Training", arXiv, 2024 (*UNC*). [[Paper](https://arxiv.org/abs/2403.02325)][[PyTorch](https://github.com/meetdavidwan/crg)][[Website](https://contrastive-region-guidance.github.io/)]
     * **Griffon-v2**: "Griffon v2: Advancing Multimodal Perception with High-Resolution Scaling and Visual-Language Co-Referring", arXiv, 2024 (*CAS*). [[Paper](https://arxiv.org/abs/2403.09333)][[PyTorch](https://github.com/jefferyZhan/Griffon)]
+    * **RelationVLM**: "RelationVLM: Making Large Vision-Language Models Understand Visual Relations", arXiv, 2024 (*Microsoft*). [[Paper](https://arxiv.org/abs/2403.12801)]
 * Video:
     * **Multi-Stage-Transformer**: "Multi-Stage Aggregated Transformer Network for Temporal Language Localization in Videos", CVPR, 2021 (*University of Electronic Science and Technology of China*). [[Paper](https://openaccess.thecvf.com/content/CVPR2021/html/Zhang_Multi-Stage_Aggregated_Transformer_Network_for_Temporal_Language_Localization_in_Videos_CVPR_2021_paper.html)]
     * **GTR**: "On Pursuit of Designing Multi-modal Transformer for Video Grounding", EMNLP, 2021 (*Peking*). [[Paper](https://arxiv.org/abs/2109.06085)]
@@ -660,6 +661,7 @@ If you find this repository useful, please consider citing this list:
     * **ASMv2**: "The All-Seeing Project V2: Towards General Relation Comprehension of the Open World", arXiv, 2024 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2402.19474)][[PyTorch](https://github.com/OpenGVLab/all-seeing)]
     * **Multimodal-ArXiv**: "Multimodal ArXiv: A Dataset for Improving Scientific Comprehension of Large Vision-Language Models", arXiv, 2024 (*HKU*). [[Paper](https://arxiv.org/abs/2403.00231)][[Website](https://mm-arxiv.github.io/)]
     * **Synth<sup>2</sup>**: "Synth<sup>2</sup>: Boosting Visual-Language Models with Synthetic Captions and Image Embeddings", arXiv, 2024 (*DeepMind*). [[Paper](https://arxiv.org/abs/2403.07750)]
+    * **?**: "Towards Multimodal In-Context Learning for Vision & Language Models", arXiv, 2024 (*IBM*). [[Paper](https://arxiv.org/abs/2403.12736)]
 * Video:
     * **COOT**: "COOT: Cooperative Hierarchical Transformer for Video-Text Representation Learning", NeurIPS, 2020 (*University of Freiburg*). [[Paper](https://arxiv.org/abs/2011.00597)][[PyTorch](https://github.com/gingsi/coot-videotext)]
     * **Parameter-Reduction**: "Parameter Efficient Multimodal Transformers for Video Representation Learning", ICLR, 2021 (*Seoul National University*). [[Paper](https://openreview.net/forum?id=6UdQLhqJyFD)]
@@ -1216,15 +1218,17 @@ If you find this repository useful, please consider citing this list:
 * **SeRum**: "Attention Where It Matters: Rethinking Visual Document Understanding with Selective Region Concentration", ICCV, 2023 (*Tencent*). [[Paper](https://arxiv.org/abs/2309.01131)]
 * **DocTr**: "DocTr: Document Transformer for Structured Information Extraction in Documents", ICCV, 2023 (*Amazon*). [[Paper](https://arxiv.org/abs/2307.07929)]
 * **FormNetV2**: "FormNetV2: Multimodal Graph Contrastive Learning for Form Document Information Extraction", ACL, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2305.02549)]
+* **UReader**: "UReader: Universal OCR-free Visually-situated Language Understanding with Multimodal Large Language Model", EMNLP, 2023 (*Alibaba*). [[Paper](https://arxiv.org/abs/2310.05126)]
 * **mmc4**: "Multimodal C4: An Open, Billion-scale Corpus of Images Interleaved With Text", NeurIPS (Datasets and Benchmarks), 2023 (*AI2*). [[Paper](https://arxiv.org/abs/2304.06939)][[GitHub](https://github.com/allenai/mmc4)]
 * **DUBLIN**: "DUBLIN - Document Understanding By Language-Image Network", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2305.14218)]
 * **DocFormerv2**: "DocFormerv2: Local Features for Document Understanding", arXiv, 2023 (*Amazon*). [[Paper](https://arxiv.org/abs/2306.01733)]
 * **DocumentCLIP**: "DocumentCLIP: Linking Figures and Main Body Text in Reflowed Documents", arXiv, 2023 (*Adobe*). [[Paper](https://arxiv.org/abs/2306.06306)][[PyTorch](https://github.com/FuxiaoLiu/DocumentCLIP)]
 * **Kosmos-2.5**: "Kosmos-2.5: A Multimodal Literate Model", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2309.11419)]
-* **UReader**: "UReader: Universal OCR-free Visually-situated Language Understanding with Multimodal Large Language Model", arXiv, 2023 (*Alibaba*). [[Paper](https://arxiv.org/abs/2310.05126)]
+* **mPLUG-DocOwl**: "mPLUG-DocOwl: Modularized Multimodal Large Language Model for Document Understanding", arXiv, 2023 (*Alibaba*). [[Paper](https://arxiv.org/abs/2307.02499)][[Code (in construction)](https://github.com/X-PLUG/mPLUG-DocOwl)]
 * **RD**: "Efficient End-to-End Visual Document Understanding with Rationale Distillation", arXiv, 2023 (*DeepMind*). [[Paper](https://arxiv.org/abs/2311.09612)]
 * **ScreenAI**: "ScreenAI: A Vision-Language Model for UI and Infographics Understanding", arXiv, 2024 (*Google*). [[Paper](https://arxiv.org/abs/2402.04615)]
 * **DoCo**: "Enhancing Visual Document Understanding with Contrastive Learning in Large Visual-Language Models", arXiv, 2024 (*Tencent*). [[Paper](https://arxiv.org/abs/2402.19014)]
+* **mPLUG-DocOwl-1.5**: "mPLUG-DocOwl 1.5: Unified Structure Learning for OCR-free Document Understanding", arXiv, 2024 (*Alibaba*). [[Paper](https://arxiv.org/abs/2403.12895)][[Code (in construction)](https://github.com/X-PLUG/mPLUG-DocOwl/tree/main/DocOwl1.5)]
 
 [[Back to Overview](#overview)]
 
@@ -1404,6 +1408,7 @@ If you find this repository useful, please consider citing this list:
     * **Unified-IO-2**: "Unified-IO 2: Scaling Autoregressive Multimodal Models with Vision, Language, Audio, and Action", arXiv, 2023 (*AI2*). [[Paper](https://arxiv.org/abs/2312.17172)][[JAX](https://github.com/allenai/unified-io-2)][[Website](https://unified-io-2.allenai.org/)]
     * **InstructCV**: "InstructCV: Instruction-Tuned Text-to-Image Diffusion Models as Vision Generalists", ICLR, 2024 (*Peking + Berkeley*). [[Paper](https://arxiv.org/abs/2310.00390)][[PyTorch](https://github.com/AlaaLab/InstructCV)]
     * **MAD**: "Masked AutoDecoder is Effective Multi-Task Vision Generalist", CVPR, 2024 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2403.07692)][[Code (in construction)](https://github.com/hanqiu-hq/MAD)]
+    * **UniBind**: "UniBind: LLM-Augmented Unified and Balanced Representation Space to Bind Them All", CVPR, 2024 (*HKUST*). [[Paper](https://arxiv.org/abs/2403.12532)][[PyTorch](https://github.com/QC-LY/UniBind)][[Website](https://vlislab22.github.io/UniBind/)]
     * **VLP**: "Using Left and Right Brains Together: Towards Vision and Language Planning", arXiv, 2024 (*Microsoft*). [[Paper](https://arxiv.org/abs/2402.10534)]
     * **V2T-Tokenizer**: "Beyond Text: Frozen Large Language Models in Visual Signal Comprehension", arXiv, 2024 (*Peking*). [[Paper](https://arxiv.org/abs/2403.07874)][[PyTorch](https://github.com/zh460045050/V2L-Tokenizer)]
     * **Lumen**: "Lumen: Unleashing Versatile Vision-Centric Capabilities of Large Multimodal Models", arXiv, 2024 (*Meituan*). [[Paper](https://arxiv.org/abs/2403.07304)][[Code (in construction)](https://github.com/SxJyJay/Lumen)]
