@@ -381,6 +381,7 @@ If you find this repository useful, please consider citing this list:
 * **PGT**: "Perceptual Group Tokenizer: Building Perception with Iterative Grouping", arXiv, 2023 (*DeepMind*). [[Paper](https://arxiv.org/abs/2311.18296)]
 * **SCHEME**: "SCHEME: Scalable Channer Mixer for Vision Transformers", arXiv, 2023 (*UCSD*). [[Paper](https://arxiv.org/abs/2312.00412)]
 * **Agent-Attention**: "Agent Attention: On the Integration of Softmax and Linear Attention", arXiv, 2023 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2312.08874)][[PyTorch](https://github.com/LeapLabTHU/Agent-Attention)]
+* **HIRI-ViT**: "HIRI-ViT: Scaling Vision Transformer with High Resolution Inputs", TPAMI, 2024 (*HiDream.ai, China*). [[Paper](https://arxiv.org/abs/2403.11999)]
 * **SPFormer**: "SPFormer: Enhancing Vision Transformer with Superpixel Representation", arXiv, 2024 (*JHU*). [[Paper](https://arxiv.org/abs/2401.02931)]
 * **manifold-K**: "A Manifold Representation of the Key in Vision Transformers", arXiv, 2024 (*University of Oslo, Norway*). [[Paper](https://arxiv.org/abs/2402.00534)]
 * **BiXT**: "Perceiving Longer Sequences With Bi-Directional Cross-Attention Transformers", arXiv, 2024 (*University of Melbourne*). [[Paper](https://arxiv.org/abs/2402.12138)]
