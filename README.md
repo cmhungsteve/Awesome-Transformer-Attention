@@ -516,6 +516,7 @@ If you find this repository useful, please consider citing this list:
 * **ToFu**: "Token Fusion: Bridging the Gap between Token Pruning and Token Merging", WACV, 2024 (*Samsung*). [[Paper](https://arxiv.org/abs/2312.01026)]
 * **Cached-Transformer**: "Cached Transformers: Improving Transformers with Differentiable Memory Cache", AAAI, 2024 (*CUHK*). [[Paper](https://arxiv.org/abs/2312.12742)]
 * **LF-ViT**: "LF-ViT: Reducing Spatial Redundancy in Vision Transformer for Efficient Image Recognition", AAAI, 2024 (*Harbin Institute of Technology*). [[Paper](https://arxiv.org/abs/2402.00033)][[PyTorch](https://github.com/edgeai1/LF-ViT)]
+* **S<sup>2</sup>**: "When Do We Not Need Larger Vision Models?", arXiv, 2024 (*Berkeley*). [[Paper](https://arxiv.org/abs/2403.13043)][[PyTorch](https://github.com/bfshi/scaling_on_scales)]
 #### Conv + Transformer
 * **LeViT**: "LeViT: a Vision Transformer in ConvNet's Clothing for Faster Inference", ICCV, 2021 (*Facebook*). [[Paper](https://arxiv.org/abs/2104.01136)][[PyTorch](https://github.com/facebookresearch/LeViT)]
 * **CeiT**: "Incorporating Convolution Designs into Visual Transformers", ICCV, 2021 (*SenseTime*). [[Paper](https://arxiv.org/abs/2103.11816)][[PyTorch (rishikksh20)](https://github.com/rishikksh20/CeiT)]
