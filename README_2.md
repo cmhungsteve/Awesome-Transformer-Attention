@@ -382,6 +382,7 @@ If you find this repository useful, please consider citing this list:
     * **EVPTrack**: "Explicit Visual Prompts for Visual Object Tracking", AAAI, 2024 (*Guangxi Normal University*). [[Paper](https://arxiv.org/abs/2401.03142)]
     * **OneTracker**: "OneTracker: Unifying Visual Object Tracking with Foundation Models and Efficient Tuning", CVPR, 2024 (*Fudan*). [[Paper](https://arxiv.org/abs/2403.09634)]
     * **SBT**: "Correlation-Embedded Transformer Tracking: A Single-Branch Framework", arXiv, 2024 (*SJTU*). [[Paper](https://arxiv.org/abs/2401.12743)][[PyTorch](https://github.com/phiphiphi31/SBT)]
+    * **TAPTR**: "TAPTR: Tracking Any Point with Transformers as Detection", arXiv, 2024 (*IDEA*). [[Paper](https://arxiv.org/abs/2403.13042)][[Website](https://taptr.github.io/)]
 * 3D:
     * **PTT**: "PTT: Point-Track-Transformer Module for 3D Single Object Tracking in Point Clouds", IROS, 2021 (*Northeastern University*). [[Paper](https://arxiv.org/abs/2108.06455)][[PyTorch (in construction)](https://github.com/shanjiayao/PTT)]
     * **LTTR**: "3D Object Tracking with Transformer", BMVC, 2021 (*Northeastern University, China*). [[Paper](https://arxiv.org/abs/2110.14921)][[Code (in construction)](https://github.com/3bobo/lttr)]
@@ -691,6 +692,7 @@ If you find this repository useful, please consider citing this list:
     * **SVL-Adapter**: "SVL-Adapter: Self-Supervised Adapter for Vision-Language Pretrained Models", BMVC, 2022 (*UCL*). [[Paper](https://arxiv.org/abs/2210.03794)][[Code (in construction)](https://github.com/omipan/svl_adapter)]
     * **Semi-ViT**: "Semi-supervised Vision Transformers at Scale", NeurIPS, 2022 (*Amazon*). [[Paper](https://arxiv.org/abs/2208.05688)]
     * **DPT**: "Diffusion Models and Semi-Supervised Learners Benefit Mutually with Few Labels", NeurIPS, 2023 (*Renmin University of China*). [[Paper](https://arxiv.org/abs/2302.10586)][[PyTorch](https://github.com/ML-GSAI/DPT)]
+    * **DiversitySSL**: "On Pretraining Data Diversity for Self-Supervised Learning", arXiv, 2024 (*KAUST*). [[Paper](https://arxiv.org/abs/2403.13808)][[Code (in construction)](https://github.com/hammoudhasan/DiversitySSL)]
 * Zero-Shot:
     * **ViT-ZSL**: "Multi-Head Self-Attention via Vision Transformer for Zero-Shot Learning", IMVIP, 2021 (*University of Exeter, UK*). [[Paper](https://arxiv.org/abs/2108.00045)]
     * **TransZero**: "TransZero: Attribute-guided Transformer for Zero-Shot Learning", AAAI, 2022 (*Huazhong University of Science and Technology*). [[Paper](https://arxiv.org/abs/2112.01683)][[PyTorch](https://github.com/shiming-chen/TransZero)]
@@ -1072,6 +1074,7 @@ If you find this repository useful, please consider citing this list:
 * **RCG**: "Self-conditioned Image Generation via Generating Representations", arXiv, 2023 (*MIT*). [[Paper](https://arxiv.org/abs/2312.03701)][[PyTorch](https://github.com/LTH14/rcg)]
 * **GSN**: "GSN: Generalisable Segmentation in Neural Radiance Field", AAAI, 2024 (*IIIT Hyderabad*). [[Paper](https://arxiv.org/abs/2402.04632)][[PyTorch](https://github.com/Vinayak-VG/GSN)][[Website](https://vinayak-vg.github.io/GSN/)]
 * **HDiT**: "Scalable High-Resolution Pixel-Space Image Synthesis with Hourglass Diffusion Transformers", arXiv, 2024 (*Stability AI*). [[Paper](https://arxiv.org/abs/2401.11605)][[Website](https://crowsonkb.github.io/hourglass-diffusion-transformers/)]
+* **ZigMa**: "ZigMa: Zigzag Mamba Diffusion Model", arXiv, 2024 (*LMU Munich*). [[Paper](https://arxiv.org/abs/2403.13802)][[Code (in construction)](https://github.com/CompVis/zigma)][[Website](https://taohu.me/zigma/)]
 
 [[Back to Overview](#overview)]
 
