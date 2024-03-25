@@ -732,6 +732,7 @@ If you find this repository useful, please consider citing this list:
     * **S-ViLM**: "Structured Video-Language Modeling with Temporal Grouping and Spatial Grounding", ICLR, 2024 (*Google*). [[Paper](https://arxiv.org/abs/2303.16341)]
     * **Panda-70M**: "Panda-70M: Captioning 70M Videos with Multiple Cross-Modality Teachers", CVPR, 2024 (*Snap*). [[Paper](https://arxiv.org/abs/2402.19479)][[PyTorch](https://github.com/snap-research/Panda-70M)][[Website](https://snap-research.github.io/Panda-70M/)]
     * **vid-TLDR**: "vid-TLDR: Training Free Token merging for Light-weight Video Transformer", CVPR, 2024 (*Korea University*). [[Paper](https://arxiv.org/abs/2403.13347)][[Code (in construction)](https://github.com/mlvlab/vid-TLDR)]
+    * **VidLA**: "VidLA: Video-Language Alignment at Scale", CVPR, 2024 (*Amazon*). [[Paper](https://arxiv.org/abs/2403.14870)]
     * **VIIT**: "Distilling Vision-Language Models on Millions of Videos", arXiv, 2024 (*Google*). [[Paper](https://arxiv.org/abs/2401.06129)][[Website](https://zhaoyue-zephyrus.github.io/video-instruction-tuning/)]
     * **FiGCLIP**: "FiGCLIP: Fine-Grained CLIP Adaptation via Densely Annotated Videos", arXiv, 2024 (*IIIT Hyderabad*). [[Paper](https://arxiv.org/abs/2401.07669)][[Code (in construction)](https://github.com/Darshansingh11/FiGCLIP)]
     * **LWM**: "World Model on Million-Length Video And Language With RingAttention", arXiv, 2024 (*Berkeley*). [[Paper](https://arxiv.org/abs/2402.08268)][[JAX](https://github.com/LargeWorldModel/LWM)][[Website](https://largeworldmodel.github.io/)]
@@ -739,6 +740,7 @@ If you find this repository useful, please consider citing this list:
     * **Slot-VLM**: "Slot-VLM: SlowFast Slots for Video-Language Modeling", arXiv, 2024 (*Microsoft*). [[Paper](https://arxiv.org/abs/2402.13088)]
     * **MobileVLM-V2**: "MobileVLM V2: Faster and Stronger Baseline for Vision Language Model", arXiv, 2024 (*Meituan*). [[Paper](https://arxiv.org/abs/2402.03766)][[PyTorch](https://github.com/Meituan-AutoML/MobileVLM)]
     * **VL-Mamba**: "VL-Mamba: Exploring State Space Models for Multimodal Learning", arXiv, 2024 (*University of Adelaide*). [[Paper](https://arxiv.org/abs/2403.13600)][[Code (in construction)](https://github.com/ZhengYu518/VL-Mamba)][[Website](https://yanyuanqiao.github.io/vl-mamba/)]
+    * **InternVideo2**: "InternVideo2: Scaling Video Foundation Models for Multimodal Video Understanding", arXiv, 2024 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2403.15377)][[Code (in construction)](https://github.com/OpenGVLab/InternVideo2/)]
 * 3D:
     * **CLIP<sup>2</sup>**: "CLIP<sup>2</sup>: Contrastive Language-Image-Point Pretraining from Real-World Point Cloud Data", CVPR, 2023 (*Huawei*). [[Paper](https://arxiv.org/abs/2303.12417)]
     * **3D-VLP**: "Context-aware Alignment and Mutual Masking for 3D-Language Pre-training", CVPR, 2023 (*Sichuan University*). [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Jin_Context-Aware_Alignment_and_Mutual_Masking_for_3D-Language_Pre-Training_CVPR_2023_paper.html)][[PyTorch](https://github.com/leolyj/3D-VLP)]
@@ -811,6 +813,7 @@ If you find this repository useful, please consider citing this list:
     * **TransAgg**: "Zero-shot Composed Text-Image Retrieval", arXiv, 2023 (*Shanghai Jiao Tong*). [[Paper](https://arxiv.org/abs/2306.07272)][[PyTorch](https://github.com/Code-kunkun/ZS-CIR)][[Website](https://code-kunkun.github.io/ZS-CIR/)]
     * **CUSA**: "Cross-Modal and Uni-Modal Soft-Label Alignment for Image-Text Retrieval", AAAI, 2024 (*Beihang University*). [[Paper](https://arxiv.org/abs/2403.05261)][[PyTorch](https://github.com/lerogo/aaai24_itr_cusa)]
     * **L2RM**: "Learning to Rematch Mismatched Pairs for Robust Cross-Modal Retrieval", CVPR, 2024 (*Xi'an Jiaotong*). [[Paper](https://arxiv.org/abs/2403.05105)][[Code (in construction)](https://github.com/hhc1997/L2RM)]
+    * **Long-CLIP**: "Long-CLIP: Unlocking the Long-Text Capability of CLIP", arXiv, 2024 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2403.15378)][[PyTorch (in construction)](https://github.com/beichenzbc/Long-CLIP)]
 * Video:
     * **MMT**: "Multi-modal Transformer for Video Retrieval", ECCV, 2020 (*INRIA + Google*). [[Paper](https://arxiv.org/abs/2007.10639)][[Website](http://thoth.inrialpes.fr/research/MMT/)]
     * **AYCE**: "All You Can Embed: Natural Language based Vehicle Retrieval with Spatio-Temporal Transformers", CVPRW, 2021 (*University of Modena and Reggio Emilia*). [[Paper](https://arxiv.org/abs/2106.10153)][[PyTorch](https://github.com/cscribano/AYCE_2021)]
@@ -1703,6 +1706,7 @@ If you find this repository useful, please consider citing this list:
     * **FastV**: "An Image is Worth 1/2 Tokens After Layer 2: Plug-and-Play Inference Acceleration for Large Vision-Language Models", arXiv, 2024 (*Peking*). [[Paper](https://arxiv.org/abs/2403.06764)][[PyTorch (in construction)](https://github.com/pkunlp-icler/FastV)]
     * **MM1**: "MM1: Methods, Analysis & Insights from Multimodal LLM Pre-training", arXiv, 2024 (*Apple*). [[Paper](https://arxiv.org/abs/2403.09611)]
     * **LLaVA-UHD**: "LLaVA-UHD: an LMM Perceiving Any Aspect Ratio and High-Resolution Images", arXiv, 2024 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2403.11703)][[PyTorch](https://github.com/thunlp/LLaVA-UHD)]
+    * **LLaVA-PruMerge**: "LLaVA-PruMerge: Adaptive Token Reduction for Efficient Large Multimodal Models", arXiv, 2024 (*UW-Madison*). [[Paper](https://arxiv.org/abs/2403.15388)][[Code (in construction)](https://github.com/42Shawn/LLaVA-PruMerge)][[Website](https://llava-prumerge.github.io/)]
 * Conversation (Video):
     * **Video-ChatCaptioner**: "Video ChatCaptioner: Towards the Enriched Spatiotemporal Descriptions", arXiv, 2023 (*KAUST*). [[Paper](https://arxiv.org/abs/2304.04227)][[PyTorch](https://github.com/Vision-CAIR/ChatCaptioner)]
     * **ChatVideo**: "ChatVideo: A Tracklet-centric Multimodal and Versatile Video Understanding System", arXiv, 2023 (*Fudan*). [[Paper](https://arxiv.org/abs/2304.14407)][[Website](https://www.wangjunke.info/ChatVideo/)]
@@ -1727,6 +1731,7 @@ If you find this repository useful, please consider citing this list:
     * **VLM-RLAIF**: "Tuning Large Multimodal Models for Videos using Reinforcement Learning from AI Feedback", arXiv, 2024 (*Yonsei*). [[Paper](https://arxiv.org/abs/2402.03746)]
     * **Video-LaVIT**: "Video-LaVIT: Unified Video-Language Pre-training with Decoupled Visual-Motional Tokenization", arXiv, 2024 (*Kuaishou*). [[Paper](https://arxiv.org/abs/2402.03161)][[PyTorch](https://github.com/jy0205/LaVIT)][[Website](https://video-lavit.github.io/)]
     * **MovieLLM**: "MovieLLM: Enhancing Long Video Understanding with AI-Generated Movies", arXiv, 2024 (*Tencent*). [[Paper](https://arxiv.org/abs/2403.01422)][[PyTorch](https://github.com/Deaddawn/MovieLLM-code)][[Website](https://deaddawn.github.io/MovieLLM/)]
+    * **VURF**: "VURF: A General-purpose Reasoning and Self-refinement Framework for Video Understanding", arXiv, 2024 (*MBZUAI*). [[Paper](https://arxiv.org/abs/2403.14743)]
 * Conversation (3D):
     * **3D-LLM**: "3D-LLM: Injecting the 3D World into Large Language Models", NeurIPS, 2023 (*UCLA*). [[Paper](https://arxiv.org/abs/2307.12981)][[PyTorch](https://github.com/UMass-Foundation-Model/3D-LLM)][[Website](https://vis-www.cs.umass.edu/3dllm/)]
     * **Chat-3D**: "Chat-3D: Data-efficiently Tuning Large Language Model for Universal Dialogue of 3D Scenes", arXiv, 2023 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2308.08769)][[PyTorch](https://github.com/Chat-3D/Chat-3D)][[Website](https://chat-3d.github.io/)]
@@ -1735,6 +1740,7 @@ If you find this repository useful, please consider citing this list:
     * **Uni3D-LLM**: "Uni3D-LLM: Unifying Point Cloud Perception, Generation and Editing with Large Language Models", arXiv, 2024 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2402.03327)]
     * **ShapeLLM**: "ShapeLLM: Universal 3D Object Understanding for Embodied Interaction", arXiv, 2024 (*Megvii*). [[Paper](https://arxiv.org/abs/2402.17766)][[Code (in construction)](https://github.com/qizekun/ShapeLLM)][[Website](https://qizekun.github.io/shapellm/)]
     * **Agent3D-Zero**: "Agent3D-Zero: An Agent for Zero-shot 3D Understanding", arXiv, 2024 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2403.11835)][[Website](https://zhangsha1024.github.io/Agent3D-Zero/)]
+    * **?**: "Can 3D Vision-Language Models Truly Understand Natural Language?", arXiv, 2024 (*HKU*). [[Paper](https://arxiv.org/abs/2403.14760)][[Code (in construction)](https://github.com/VincentDENGP/3D-LR)]
 * Conversation (Multi):
     * **AnyMAL**: "AnyMAL: An Efficient and Scalable Any-Modality Augmented Language Model", arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2309.16058)]
     * **OneLLM**: "OneLLM: One Framework to Align All Modalities with Language", arXiv, 2023 (*CUHK + Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2312.03700)][[PyTorch](https://github.com/csuhan/OneLLM)]
