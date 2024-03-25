@@ -909,6 +909,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **Vim**: "Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model", arXiv, 2024 (*Huazhong University of Science and Technology*). [[Paper](https://arxiv.org/abs/2401.09417)][[PyTorch](https://github.com/hustvl/Vim
 * **VRWKV**: "Vision-RWKV: Efficient and Scalable Visual Perception with RWKV-Like Architectures", arXiv, 2024 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2403.02308)][[PyTorch](https://github.com/OpenGVLab/Vision-RWKV)]
 * **LocalMamba**: "LocalMamba: Visual State Space Model with Windowed Selective Scan", arXiv, 2024 (*University of Sydney*). [[Paper](https://arxiv.org/abs/2403.09338)][[PyTorch](https://github.com/hunto/LocalMamba)]
+* **SiMBA**: "SiMBA: Simplified Mamba-Based Architecture for Vision and Multivariate Time series", arXiv, 2024 (*Microsoft*). [[Paper](https://arxiv.org/abs/2403.15360)][[PyTorch](https://github.com/badripatro/Simba)]
 
 [[Back to Overview](#overview)]
 
