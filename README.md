@@ -132,6 +132,7 @@ If you find this repository useful, please consider citing this list:
 
 ## Survey
 * "A Survey on Multimodal Large Language Models for Autonomous Driving", WACVW, 2024 (*Purdue*). [[Paper](https://arxiv.org/abs/2311.12320)][[GitHub](https://github.com/IrohXu/Awesome-Multimodal-LLM-Autonomous-Driving)]
+* "Parameter-Efficient Fine-Tuning for Large Models: A Comprehensive Survey", arXiv, 2024 (*Northeastern*). [[Paper](https://arxiv.org/abs/2403.14608)]
 * "Sora as an AGI World Model? A Complete Survey on Text-to-Video Generation", arXiv, 2024 (*Kyung Hee University*). [[Paper](https://arxiv.org/abs/2403.05131)]
 * "Controllable Generation with Text-to-Image Diffusion Models: A Survey", arXiv, 2024 (*Beijing University of Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2403.04279)][[GitHub](https://github.com/PRIV-Creation/Awesome-Controllable-T2I-Diffusion-Models)]
 * "Sora: A Review on Background, Technology, Limitations, and Opportunities of Large Vision Models", arXiv, 2024 (*Lehigh University, Pennsylvania*). [[Paper](https://arxiv.org/abs/2402.17177)][[GitHub](https://github.com/lichao-sun/SoraReview)]
@@ -1134,6 +1135,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **V-DETR**: "V-DETR: DETR with Vertex Relative Position Encoding for 3D Object Detection", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2308.04409)][[Code (in construction)](https://github.com/yichaoshen-MS/V-DETR)]
 * **3DiffTection**: "3DiffTection: 3D Object Detection with Geometry-Aware Diffusion Features", arXiv, 2023 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2311.04391)][[Code (in construction)](https://github.com/nv-tlabs/3DiffTection)][[Website](https://research.nvidia.com/labs/toronto-ai/3difftection/)]
 * **PTT**: "PTT: Point-Trajectory Transformer for Efficient Temporal 3D Object Detection", arXiv, 2023 (*UC Merced*). [[Paper](https://arxiv.org/abs/2312.08371)][[Code (in construction)](https://github.com/kuanchihhuang/PTT)]
+* **Point-DETR3D**: "Point-DETR3D: Leveraging Imagery Data with Spatial Point Prior for Weakly Semi-supervised 3D Object Detection", AAAI, 2024 (*USTC*). [[Paper](https://arxiv.org/abs/2403.15317)]
 * **MixSup**: "MixSup: Mixed-grained Supervision for Label-efficient LiDAR-based 3D Object Detection", ICLR, 2024 (*CAS*). [[Paper](https://arxiv.org/abs/2401.16305)][[PyTorch](https://github.com/BraveGroup/PointSAM-for-MixSup)]
 * **QAF2D**: "Enhancing 3D Object Detection with 2D Detection-Guided Query Anchors", CVPR, 2024 (*Nullmax, China*). [[Paper](https://arxiv.org/abs/2403.06093)]
 * **ScatterFormer**: "ScatterFormer: Efficient Voxel Transformer with Scattered Linear Attention", arXiv, 2024 (*The Hong Kong Polytechnic University*). [[Paper](https://arxiv.org/abs/2401.00912)][[Code (in construction)](https://github.com/skyhehe123/ScatterFormer)]
