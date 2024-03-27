@@ -721,6 +721,7 @@ If you find this repository useful, please consider citing this list:
 * **EWA**: "Experts Weights Averaging: A New General Training Scheme for Vision Transformers", arXiv, 2023 (*Fudan*). [[Paper](https://arxiv.org/abs/2308.06093)]
 * **DTM**: "Masked Image Modeling via Dynamic Token Morphing", arXiv, 2023 (*NAVER*). [[Paper](https://arxiv.org/abs/2401.00254)]
 * **SSAT**: "Limited Data, Unlimited Potential: A Study on ViTs Augmented by Masked Autoencoders", WACV, 2024 (*UNC Charlotte*). [[Paper](https://arxiv.org/abs/2310.20704)][[Code (in construction)](https://github.com/dominickrei/Limited-data-vits)]
+* **FEC**: "Neural Clustering based Visual Representation Learning", CVPR, 2024 (*Zhejiang*). [[Paper](https://arxiv.org/abs/2403.17409)]
 * **DVT**: "Denoising Vision Transformers", arXiv, 2024 (*USC*). [[Paper](https://arxiv.org/abs/2401.02957)][[PyTorch](https://github.com/Jiawei-Yang/Denoising-ViT)][[Website](https://jiawei-yang.github.io/DenoisingViT/)]
 * **AIM**: "Scalable Pre-training of Large Autoregressive Image Models", arXiv, 2024 (*Apple*). [[Paper](https://arxiv.org/abs/2401.08541)][[PyTorch](https://github.com/apple/ml-aim)]
 * **DDM**: "Deconstructing Denoising Diffusion Models for Self-Supervised Learning", arXiv, 2024 (*Meta*). [[Paper](https://arxiv.org/abs/2401.14404)]
@@ -910,6 +911,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **VRWKV**: "Vision-RWKV: Efficient and Scalable Visual Perception with RWKV-Like Architectures", arXiv, 2024 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2403.02308)][[PyTorch](https://github.com/OpenGVLab/Vision-RWKV)]
 * **LocalMamba**: "LocalMamba: Visual State Space Model with Windowed Selective Scan", arXiv, 2024 (*University of Sydney*). [[Paper](https://arxiv.org/abs/2403.09338)][[PyTorch](https://github.com/hunto/LocalMamba)]
 * **SiMBA**: "SiMBA: Simplified Mamba-Based Architecture for Vision and Multivariate Time series", arXiv, 2024 (*Microsoft*). [[Paper](https://arxiv.org/abs/2403.15360)][[PyTorch](https://github.com/badripatro/Simba)]
+* **PlainMamba**: "PlainMamba: Improving Non-Hierarchical Mamba in Visual Recognition", arXiv, 2024 (*University of Edinburgh, Scotland*). [[Paper](https://arxiv.org/abs/2403.17695)][[PyTorch](https://github.com/ChenhongyiYang/PlainMamba)]
 
 [[Back to Overview](#overview)]
 
@@ -1864,6 +1866,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **InvPT++**: "InvPT++: Inverted Pyramid Multi-Task Transformer for Visual Scene Understanding", arXiv, 2023 (*HKUST*). [[Paper](https://arxiv.org/abs/2306.04842)]
     * **DeMTG**: "Deformable Mixer Transformer with Gating for Multi-Task Learning of Dense Prediction", arXiv, 2023 (*Wuhan University*). [[Paper](https://arxiv.org/abs/2308.05721)][[PyTorch](https://github.com/yangyangxu0/DeMTG)]
     * **SRT**: "Sub-token ViT Embedding via Stochastic Resonance Transformers", arXiv, 2023 (*UCLA*). [[Paper](https://arxiv.org/abs/2310.03967)]
+    * **MLoRE**: "Multi-Task Dense Prediction via Mixture of Low-Rank Experts", CVPR, 2024 (*vivo*). [[Paper](https://arxiv.org/abs/2403.17749)]
     * **ODIN**: "ODIN: A Single Model for 2D and 3D Perception", arXiv, 2024 (*CMU*). [[Paper](https://arxiv.org/abs/2401.02416)][[Code (in construction)](https://github.com/ayushjain1144/odin)][[Website](https://odin-seg.github.io/)]
 * Forecasting:
     * **DiffAttn**: "Joint Forecasting of Panoptic Segmentations with Difference Attention", CVPR, 2022 (*UIUC*). [[Paper](https://arxiv.org/abs/2204.07157)][[Code (in construction)](https://github.com/cgraber/psf-diffattn)]
@@ -2138,6 +2141,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **?**: "Appearance-based Refinement for Object-Centric Motion Segmentation", arXiv, 2023 (*Oxford*). [[Paper](https://arxiv.org/abs/2312.11463)]
 * **DATTT**: "Depth-aware Test-Time Training for Zero-shot Video Object Segmentation", CVPR, 2024 (*University of Macau*). [[Paper](https://arxiv.org/abs/2403.04258)][[PyTorch](https://github.com/NiFangBaAGe/DATTT)][[Website](https://nifangbaage.github.io/DATTT/)]
 * **Point-VOS**: "Point-VOS: Pointing Up Video Object Segmentation", arXiv, 2024 (*RWTH Aachen University, Germany*). [[Paper](https://arxiv.org/abs/2402.05917)][[Website](https://pointvos.github.io/)]
+* **MAVOS**: "Efficient Video Object Segmentation via Modulated Cross-Attention Memory", arXiv, 2024 (*MBZUAI*). [[Paper](https://arxiv.org/abs/2403.17937)][[Code (in construction)](https://github.com/Amshaker/MAVOS)]
 
 [[Back to Overview](#overview)]
 
