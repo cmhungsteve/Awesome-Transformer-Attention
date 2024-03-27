@@ -733,6 +733,7 @@ If you find this repository useful, please consider citing this list:
     * **Panda-70M**: "Panda-70M: Captioning 70M Videos with Multiple Cross-Modality Teachers", CVPR, 2024 (*Snap*). [[Paper](https://arxiv.org/abs/2402.19479)][[PyTorch](https://github.com/snap-research/Panda-70M)][[Website](https://snap-research.github.io/Panda-70M/)]
     * **vid-TLDR**: "vid-TLDR: Training Free Token merging for Light-weight Video Transformer", CVPR, 2024 (*Korea University*). [[Paper](https://arxiv.org/abs/2403.13347)][[Code (in construction)](https://github.com/mlvlab/vid-TLDR)]
     * **VidLA**: "VidLA: Video-Language Alignment at Scale", CVPR, 2024 (*Amazon*). [[Paper](https://arxiv.org/abs/2403.14870)]
+    * **OmniVid**: "OmniVid: A Generative Framework for Universal Video Understanding", CVPR, 2024 (*Fudan*). [[Paper](https://arxiv.org/abs/2403.17935)][[Code (in construction)](https://github.com/wangjk666/OmniVid)]
     * **VIIT**: "Distilling Vision-Language Models on Millions of Videos", arXiv, 2024 (*Google*). [[Paper](https://arxiv.org/abs/2401.06129)][[Website](https://zhaoyue-zephyrus.github.io/video-instruction-tuning/)]
     * **FiGCLIP**: "FiGCLIP: Fine-Grained CLIP Adaptation via Densely Annotated Videos", arXiv, 2024 (*IIIT Hyderabad*). [[Paper](https://arxiv.org/abs/2401.07669)][[Code (in construction)](https://github.com/Darshansingh11/FiGCLIP)]
     * **LWM**: "World Model on Million-Length Video And Language With RingAttention", arXiv, 2024 (*Berkeley*). [[Paper](https://arxiv.org/abs/2402.08268)][[JAX](https://github.com/LargeWorldModel/LWM)][[Website](https://largeworldmodel.github.io/)]
@@ -1259,6 +1260,7 @@ If you find this repository useful, please consider citing this list:
     * **LM4Visual**: "Frozen Transformers in Language Models Are Effective Visual Encoder Layers", arXiv, 2023 (*UIUC*). [[Paper](https://arxiv.org/abs/2310.12973)][[PyTorch (in construction)](https://github.com/ziqipang/LM4VisualEncoding)]
     * **Octavius**: "Octavius: Mitigating Task Interference in MLLMs via MoE", arXiv, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2311.02684)]
     * **GDA**: "A Hard-to-Beat Baseline for Training-free CLIP-based Adaptation", ICLR, 2024 (*CAS*). [[Paper](https://arxiv.org/abs/2402.04087)][[PyTorch](https://github.com/mrflogs/ICLR24)]
+    * **DMN**: "Dual Memory Networks: A Versatile Adaptation Approach for Vision-Language Models", CVPR, 2024 (*HKPolyU*). [[Paper](https://arxiv.org/abs/2403.17589)][[PyTorch](https://github.com/YBZh/DMN)]
     * **LLaVA-MoLE**: "LLaVA-MoLE: Sparse Mixture of LoRA Experts for Mitigating Data Conflicts in Instruction Finetuning MLLMs", arXiv, 2024 (*Meituan*). [[Paper](https://arxiv.org/abs/2401.16160)]
     * **?**: "Routers in Vision Mixture of Experts: An Empirical Study", arXiv, 2024 (*DeepMind*). [[Paper](https://arxiv.org/abs/2401.15969)]
     * **MoE-LLaVA**: "MoE-LLaVA: Mixture of Experts for Large Vision-Language Models", arXiv, 2024 (*Peking*). [[Paper](https://arxiv.org/abs/2401.15947)][[PyTorch](https://github.com/PKU-YuanGroup/MoE-LLaVA)]
@@ -1331,6 +1333,7 @@ If you find this repository useful, please consider citing this list:
     * **SESAME**: "See, Say, and Segment: Teaching LMMs to Overcome False Premises", arXiv, 2023 (*Berkeley*). [[Paper](https://arxiv.org/abs/2312.08366)][[Code (in construction)](https://github.com/see-say-segment/sesame)][[Website](https://see-say-segment.github.io/)]
     * **MRES**: "Unveiling Parts Beyond Objects: Towards Finer-Granularity Referring Expression Segmentation", arXiv, 2023 (*CAS*). [[Paper](https://arxiv.org/abs/2312.08007)][[Code (in construction)](https://github.com/Rubics-Xuan/MRES)]
     * **MagNet**: "Mask Grounding for Referring Image Segmentation", arXiv, 2023 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2312.12198)]
+    * **ReMamber**: "ReMamber: Referring Image Segmentation with Mamba Twister", arXiv, 2024 (*SJTU*). [[Paper](https://arxiv.org/abs/2403.17839)]
 * Referring Video Segmentation:
     * **ReferFormer**: "Language as Queries for Referring Video Object Segmentation", CVPR, 2022 (*HKU*). [[Paper](https://arxiv.org/abs/2201.00487)][[PyTorch](https://github.com/wjn922/ReferFormer)]
     * **MTTR**: "End-to-End Referring Video Object Segmentation with Multimodal Transformers", CVPR, 2022 (*Technion - Israel Institute of Technology*). [[Paper](https://arxiv.org/abs/2111.14821)][[PyTorch](https://github.com/mttr2021/MTTR)]
@@ -1814,6 +1817,7 @@ If you find this repository useful, please consider citing this list:
     * **MM-SAP**: "MM-SAP: A Comprehensive Benchmark for Assessing Self-Awareness of Multimodal Large Language Models in Perception", arXiv, 2024 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2401.07529)][[Code (in construction)](https://github.com/YHWmz/MM-SAP)]
     * **MLLM-as-a-Judge**: "MLLM-as-a-Judge: Assessing Multimodal LLM-as-a-Judge with Vision-Language Benchmark", arXiv, 2024 (*Lehigh University, Pennsylvania*). [[Paper](https://arxiv.org/abs/2402.04788)][[GitHub](https://github.com/Dongping-Chen/MLLM-as-a-Judge)]
     * **TempCompass**: "TempCompass: Do Video LLMs Really Understand Videos?", arXiv, 2024 (*Peking*). [[Paper](https://arxiv.org/abs/2403.00476)][[Code (in construction)](https://github.com/llyx97/TempCompass)]
+    * **Ch<sup>3</sup>Ef**: "Assessment of Multimodal Large Language Models in Alignment with Human Values", arXiv, 2024 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2403.17830)][[PyTorch](https://github.com/OpenGVLab/LAMM)][[Website](https://openlamm.github.io/ch3ef/)]
 * Robustness:
     * **Hierarchy-CLIP**: "Improving Zero-shot Generalization and Robustness of Multi-modal Models", CVPR, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2212.01758)][[JAX](https://github.com/gyhandy/Hierarchy-CLIP)][[Website](https://sites.google.com/usc.edu/hierarchy-clip/)]
     * **?**: "Mitigating Spurious Correlations in Multi-modal Models during Fine-tuning", ICML, 2023 (*UCLA*). [[Paper](https://arxiv.org/abs/2304.03916)]
