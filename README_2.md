@@ -272,6 +272,7 @@ If you find this repository useful, please consider citing this list:
     * **VLPose**: "VLPose: Bridging the Domain Gap in Pose Estimation with Language-Vision Tuning", arXiv, 2024 (*CUHK*). [[Paper](https://arxiv.org/abs/2402.14456)]
     * **?**: "Multi-Human Mesh Recovery with Transformers", arXiv, 2024 (*Stanford*). [[Paper](https://arxiv.org/abs/2402.16806)]
     * **WHAC**: "WHAC: World-grounded Humans and Cameras", arXiv, 2024 (*SenseTime*). [[Paper](https://arxiv.org/abs/2403.12959)][[Code (in construction)](https://github.com/wqyin/WHAC)][[Website](https://wqyin.github.io/projects/WHAC/)]
+    * **AiOS**: "AiOS: All-in-One-Stage Expressive Human Pose and Shape Estimation", arXiv, 2024 (*SenseTime*). [[Paper](https://arxiv.org/abs/2403.17934)][[Code (in construction)](https://github.com/ttxskk/AiOS)][[Website](https://ttxskk.github.io/AiOS/)]
 * Hands:
     * **Hand-Transformer**: "Hand-Transformer: Non-Autoregressive Structured Modeling for 3D Hand Pose Estimation", ECCV, 2020 (*Kwai*). [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/4836_ECCV_2020_paper.php)]
     * **SCAT**: "SCAT: Stride Consistency With Auto-Regressive Regressor and Transformer for Hand Pose Estimation", ICCVW, 2021 (*Alibaba*). [[Paper](https://openaccess.thecvf.com/content/ICCV2021W/SoMoF/html/Gao_SCAT_Stride_Consistency_With_Auto-Regressive_Regressor_and_Transformer_for_Hand_ICCVW_2021_paper.html)]
@@ -1309,6 +1310,7 @@ If you find this repository useful, please consider citing this list:
 * **?**: "Multimodal Large Language Model for Visual Navigation", arXiv, 2023 (*Apple*). [[Paper](https://arxiv.org/abs/2310.08669)]
 * **VLN-Video**: "VLN-Video: Utilizing Driving Videos for Outdoor Vision-and-Language Navigation", AAAI, 2024 (*Amazon*). [[Paper](https://arxiv.org/abs/2402.03561)]
 * **MemoNav**: "MemoNav: Working Memory Model for Visual Navigation", CVPR, 2024 (*CAS*). [[Paper](https://arxiv.org/abs/2402.19161)]
+* **OVER-NAV**: "OVER-NAV: Elevating Iterative Vision-and-Language Navigation with Open-Vocabulary Detection and StructurEd Representation", CVPR, 2024 (*HKU*). [[Paper](https://arxiv.org/abs/2403.17334)]
 * **MapGPT**: "MapGPT: Map-Guided Prompting for Unified Vision-and-Language Navigation", arXiv, 2024 (*HKU*). [[Paper](https://arxiv.org/abs/2401.07314)]
 * **V-IRL**: "V-IRL: Grounding Virtual Intelligence in Real Life", arXiv, 2024 (*NYU*). [[Paper](https://arxiv.org/abs/2402.03310)][[PyTorch (in construction)](https://github.com/VIRL-Platform/VIRL)][[Website](https://virl-platform.github.io/)]
 
