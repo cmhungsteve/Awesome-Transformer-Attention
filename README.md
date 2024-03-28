@@ -389,6 +389,7 @@ If you find this repository useful, please consider citing this list:
 * **VisionLLaMA**: "VisionLLaMA: A Unified LLaMA Interface for Vision Tasks", arXiv, 2024 (*Meituan*). [[Paper](https://arxiv.org/abs/2403.00522)][[Code (in construction)](https://github.com/Meituan-AutoML/VisionLLaMA)]
 * **xT**: "xT: Nested Tokenization for Larger Context in Large Images", arXiv, 2024 (*Berkeley*). [[Paper](https://arxiv.org/abs/2403.01915)]
 * **ACC-ViT**: "ACC-ViT: Atrous Convolution's Comeback in Vision Transformers", arXiv, 2024 (*Purdue*). [[Paper](https://arxiv.org/abs/2403.04200)]
+* **ViTAR**: "ViTAR: Vision Transformer with Any Resolution", arXiv, 2024 (*CAS*). [[Paper](https://arxiv.org/abs/2403.18361)]
 #### Efficient Vision Transformer
 * **DeiT**: "Training data-efficient image transformers & distillation through attention", ICML, 2021 (*Facebook*). [[Paper](https://arxiv.org/abs/2012.12877)][[PyTorch](https://github.com/facebookresearch/deit)]
 * **ConViT**: "ConViT: Improving Vision Transformers with Soft Convolutional Inductive Biases", ICML, 2021 (*Facebook*). [[Paper](https://arxiv.org/abs/2103.10697)][[Code](https://github.com/facebookresearch/convit)]
@@ -852,6 +853,7 @@ If you find this repository useful, please consider citing this list:
 * **?**: "Quantizable Transformers: Removing Outliers by Helping Attention Heads Do Nothing", arXiv, 2023 (*Qualcomm*). [[Paper](https://arxiv.org/abs/2306.12929)]
 * **VVTQ**: "Variation-aware Vision Transformer Quantization", arXiv, 2023 (*HKUST*). [[Paper](https://arxiv.org/abs/2307.00331)][[PyTorch](https://github.com/HuangOwen/VVTQ)]
 * **MADTP**: "MADTP: Multimodal Alignment-Guided Dynamic Token Pruning for Accelerating Vision-Language Transformer", CVPR, 2024 (*Fudan*). [[Paper](https://arxiv.org/abs/2403.02991)][[Code (in construction)](https://github.com/double125/MADTP)]
+* **DC-ViT**: "Dense Vision Transformer Compression with Few Samples", CVPR, 2024 (*Nanjing University*). [[Paper](https://arxiv.org/abs/2403.18708)]
 
 [[Back to Overview](#overview)]
 
