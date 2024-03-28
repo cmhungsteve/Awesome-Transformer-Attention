@@ -873,6 +873,7 @@ If you find this repository useful, please consider citing this list:
     * **LanguageBind**: "LanguageBind: Extending Video-Language Pretraining to N-modality by Language-based Semantic Alignment", arXiv, 2023 (*Peking*). [[Paper](https://arxiv.org/abs/2310.01852)][[PyTorch](https://github.com/PKU-YuanGroup/LanguageBind)]
     * **10k-Words**: "A Video is Worth 10,000 Words: Training and Benchmarking with Diverse Captions for Better Long Video Retrieval", arXiv, 2023 (*SRI*). [[Paper](https://arxiv.org/abs/2312.00115)][[Website](https://mgwillia.github.io/10k-words/)]
     * **DGL**: "DGL: Dynamic Global-Local Prompt Tuning for Text-Video Retrieval", AAAI, 2024 (*University of Technology Sydney*). [[Paper](https://arxiv.org/abs/2401.10588)]
+    * **T-MASS**: "Text Is MASS: Modeling as Stochastic Embedding for Text-Video Retrieval", CVPR, 2024 (*Rochester Institute of Technology (RIT), NY*). [[Paper](https://arxiv.org/abs/2403.17998)][[PyTorch](https://github.com/Jiamian-Wang/T-MASS-text-video-retrieval)]
     * **?**: "Detours for Navigating Instructional Videos", arXiv, 2024 (*Meta*). [[Paper](https://arxiv.org/abs/2401.01823)]
 * Vision-Audio-Text:
     * **Multi-SK**: "Preserving Modality Structure Improves Multi-Modal Learning", ICCV, 2023 (*UCF*). [[Paper](https://arxiv.org/abs/2308.13077)][[Code (in construction)](https://github.com/Swetha5/Multi_Sinkhorn_Knopp)]
@@ -1186,6 +1187,7 @@ If you find this repository useful, please consider citing this list:
 * **CPL**: "Concept-Guided Prompt Learning for Generalization in Vision-Language Models", AAAI, 2024 (*Harbin Institute of Technology*). [[Paper](https://arxiv.org/abs/2401.07457)]
 * **?**: "Facing the Elephant in the Room: Visual Prompt Tuning or Full Finetuning?", ICLR, 2024 (*Rochester Institute of Technology*). [[Paper](https://arxiv.org/abs/2401.12902)]
 * **PromptKD**: "PromptKD: Unsupervised Prompt Distillation for Vision-Language Models", CVPR, 2024 (*Nankai University*). [[Paper](https://arxiv.org/abs/2403.02781)][[PyTorch](https://github.com/zhengli97/PromptKD)][[Website](https://zhengli97.github.io/PromptKD/)]
+* **TDA**: "Efficient Test-Time Adaptation of Vision-Language Models", CVPR, 2024 (*MBZUAI*). [[Paper](https://arxiv.org/abs/2403.18293)][[PyTorch](https://github.com/kdiAAA/TDA)][[Website](https://kdiaaa.github.io/tda/)]
 * **ProText**: "Learning to Prompt with Text Only Supervision for Vision-Language Models", arXiv, 2024 (*MBZUAI*). [[Paper](https://arxiv.org/abs/2401.02418)][[PyTorch](https://github.com/muzairkhattak/ProText)][[Website](https://muzairkhattak.github.io/ProText/)]
 * **Any-shift**: "Any-Shift Prompting for Generalization over Distributions", arXiv, 2024 (*UvA*). [[Paper](https://arxiv.org/abs/2402.10099)]
 * **SPT**: "Revisiting the Power of Prompt for Visual Tuning", arXiv, 2024 (*Hefei University of Technology*). [[Paper](https://arxiv.org/abs/2402.02382)][[PyTorch](https://github.com/WangYZ1608/Self-Prompt-Tuning)]
@@ -1507,6 +1509,7 @@ If you find this repository useful, please consider citing this list:
     * **PPT**: "Parameter-efficient Prompt Learning for 3D Point Cloud Understanding", ICRA, 2024 (*Renmin University of China*). [[Paper](https://arxiv.org/abs/2402.15823)][[PyTorch](https://github.com/auniquesun/PPT)]
     * **TAMM**: "TAMM: TriAdapter Multi-Modal Learning for 3D Shape Understanding", CVPR, 2024 (*UIUC*). [[Paper](https://arxiv.org/abs/2402.18490)][[PyTorch](https://github.com/alanzhangcs/Tamm_Code)][[Website](https://alanzhangcs.github.io/tamm-page/)]
     * **FMGS**: "FMGS: Foundation Model Embedded 3D Gaussian Splatting for Holistic 3D Scene Understanding", arXiv, 2024 (*Google*). [[Paper](https://arxiv.org/abs/2401.01970)]
+    * **EgoLifter**: "EgoLifter: Open-world 3D Segmentation for Egocentric Perception", arXiv, 2024 (*Meta*). [[Paper](https://arxiv.org/abs/2403.18118)][[Website](https://egolifter.github.io/)]
 * 3D Segmentation:
     * **OpenScene**: "OpenScene: 3D Scene Understanding with Open Vocabularies", CVPR, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2211.15654)][[PyTorch](https://github.com/pengsongyou/openscene)][[Website](https://pengsongyou.github.io/openscene)]
     * **PartSLIP**: "PartSLIP: Low-Shot Part Segmentation for 3D Point Clouds via Pretrained Image-Language Models", CVPR, 2023 (*Qualcomm*). [[Paper](https://arxiv.org/abs/2212.01558)]
@@ -1710,6 +1713,8 @@ If you find this repository useful, please consider citing this list:
     * **MM1**: "MM1: Methods, Analysis & Insights from Multimodal LLM Pre-training", arXiv, 2024 (*Apple*). [[Paper](https://arxiv.org/abs/2403.09611)]
     * **LLaVA-UHD**: "LLaVA-UHD: an LMM Perceiving Any Aspect Ratio and High-Resolution Images", arXiv, 2024 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2403.11703)][[PyTorch](https://github.com/thunlp/LLaVA-UHD)]
     * **LLaVA-PruMerge**: "LLaVA-PruMerge: Adaptive Token Reduction for Efficient Large Multimodal Models", arXiv, 2024 (*UW-Madison*). [[Paper](https://arxiv.org/abs/2403.15388)][[Code (in construction)](https://github.com/42Shawn/LLaVA-PruMerge)][[Website](https://llava-prumerge.github.io/)]
+    * **VT**: "Beyond Embeddings: The Promise of Visual Table in Multi-Modal Models", arXiv, 2024 (*CUHK*). [[Paper](https://arxiv.org/abs/2403.18252)][[Code (in construction)](https://github.com/LaVi-Lab/Visual-Table)]
+    * **Mini-Gemini**: "Mini-Gemini: Mining the Potential of Multi-modality Vision Language Models", arXiv, 2024 (*CUHK*). [[Paper](https://arxiv.org/abs/2403.18814)][[PyTorch](https://github.com/dvlab-research/MiniGemini)]
 * Conversation (Video):
     * **Video-ChatCaptioner**: "Video ChatCaptioner: Towards the Enriched Spatiotemporal Descriptions", arXiv, 2023 (*KAUST*). [[Paper](https://arxiv.org/abs/2304.04227)][[PyTorch](https://github.com/Vision-CAIR/ChatCaptioner)]
     * **ChatVideo**: "ChatVideo: A Tracklet-centric Multimodal and Versatile Video Understanding System", arXiv, 2023 (*Fudan*). [[Paper](https://arxiv.org/abs/2304.14407)][[Website](https://www.wangjunke.info/ChatVideo/)]
