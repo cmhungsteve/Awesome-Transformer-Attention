@@ -273,6 +273,7 @@ If you find this repository useful, please consider citing this list:
     * **?**: "Multi-Human Mesh Recovery with Transformers", arXiv, 2024 (*Stanford*). [[Paper](https://arxiv.org/abs/2402.16806)]
     * **WHAC**: "WHAC: World-grounded Humans and Cameras", arXiv, 2024 (*SenseTime*). [[Paper](https://arxiv.org/abs/2403.12959)][[Code (in construction)](https://github.com/wqyin/WHAC)][[Website](https://wqyin.github.io/projects/WHAC/)]
     * **AiOS**: "AiOS: All-in-One-Stage Expressive Human Pose and Shape Estimation", arXiv, 2024 (*SenseTime*). [[Paper](https://arxiv.org/abs/2403.17934)][[Code (in construction)](https://github.com/ttxskk/AiOS)][[Website](https://ttxskk.github.io/AiOS/)]
+    * **EgoPoseFormer**: "EgoPoseFormer: A Simple Baseline for Egocentric 3D Human Pose Estimation", arXiv, 2024 (*Meta*). [[Paper](https://arxiv.org/abs/2403.18080)]
 * Hands:
     * **Hand-Transformer**: "Hand-Transformer: Non-Autoregressive Structured Modeling for 3D Hand Pose Estimation", ECCV, 2020 (*Kwai*). [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/4836_ECCV_2020_paper.php)]
     * **SCAT**: "SCAT: Stride Consistency With Auto-Regressive Regressor and Transformer for Hand Pose Estimation", ICCVW, 2021 (*Alibaba*). [[Paper](https://openaccess.thecvf.com/content/ICCV2021W/SoMoF/html/Gao_SCAT_Stride_Consistency_With_Auto-Regressive_Regressor_and_Transformer_for_Hand_ICCVW_2021_paper.html)]
@@ -784,6 +785,7 @@ If you find this repository useful, please consider citing this list:
     * **TIER**: "Embracing Language Inclusivity and Diversity in CLIP through Continual Language Learning", AAAI, 2024 (*Peking*). [[Paper](https://arxiv.org/abs/2401.17186)][[Code (in construction)](https://github.com/yangbang18/CLFM)]
     * **OVOR**: "OVOR: OnePrompt with Virtual Outlier Regularization for Rehearsal-Free Class-Incremental Learning", ICLR, 2024 (*JPMorgan Chase*). [[Paper](https://arxiv.org/abs/2402.04129)]
     * **CPrompt**: "Consistent Prompting for Rehearsal-Free Continual Learning", CVPR, 2024 (*Sun Yat-sen University*). [[Paper](https://arxiv.org/abs/2403.08568)][[PyTorch](https://github.com/Zhanxin-Gao/CPrompt)]
+    * **GMM**: "Generative Multi-modal Models are Good Class-Incremental Learners", CVPR, 2024 (*Nankai University*). [[Paper](https://arxiv.org/abs/2403.18383)][[PyTorch](https://github.com/DoubleClass/GMM)]
 * Long-tail/Imbalanced:
     * **BatchFormer**: "BatchFormer: Learning to Explore Sample Relationships for Robust Representation Learning", CVPR, 2022 (*The University of Sydney*). [[Paper](https://arxiv.org/abs/2203.01522)][[PyTorch](https://github.com/zhihou7/BatchFormer)]
     * **BatchFormerV2**: "BatchFormerV2: Exploring Sample Relationships for Dense Representation Learning", arXiv, 2022 (*The University of Sydney*). [[Paper](https://arxiv.org/abs/2204.01254)]
@@ -1439,6 +1441,7 @@ If you find this repository useful, please consider citing this list:
 * **AdaptiveSAM**: "AdaptiveSAM: Towards Efficient Tuning of SAM for Surgical Scene Segmentation", arXiv, 2023 (*JHU*). [[Paper](https://arxiv.org/abs/2308.03726)][[PyTorch](https://github.com/JayParanjape/biastuning)]
 * **SAM-Med2D**: "SAM-Med2D", arXiv, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2308.16184)][[Pytorch](https://github.com/OpenGVLab/SAM-Med2D)]
 * **SAM-Med3D**: "SAM-Med3D", arXiv, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2310.15161)][[PyTorch](https://github.com/uni-medical/SAM-Med3D)]
+* **H-SAM**: "Unleashing the Potential of SAM for Medical Adaptation via Hierarchical Decoding", CVPR, 2024 (*East China Normal University*). [[Paper](https://arxiv.org/abs/2403.18271)][[PyTorch](https://github.com/Cccccczh404/H-SAM)]
 
 [[Back to Overview](#overview)]
 
@@ -2129,6 +2132,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **OMG**: "OMG: Towards Open-vocabulary Motion Generation via Mixture of Controllers", arXiv, 2023 (*ShanghaiTech*). [[Paper](https://arxiv.org/abs/2312.08985)]
     * **LEMON**: "LEMON: Learning 3D Human-Object Interaction Relation from 2D Images", arXiv, 2023 (*USTC*). [[Paper](https://arxiv.org/abs/2312.08963)][[Code (in construction)](https://github.com/yyvhang/lemon_3d)][[Website](https://yyvhang.github.io/LEMON/)]
     * **MoST**: "MoST: Motion Style Transformer between Diverse Action Contents", CVPR, 2024 (*Korea Electronics Technology Institute*). [[Paper](https://arxiv.org/abs/2403.06225)][[Code (in construction)](https://github.com/Boeun-Kim/MoST)]
+    * **AMDM**: "Move as You Say, Interact as You Can: Language-guided Human Motion Generation with Scene Affordance", CVPR, 2024 (*BIGAI*). [[Paper](https://arxiv.org/abs/2403.18036)][[Code (in construction)](https://github.com/afford-motion/afford-motion)][[Website](https://afford-motion.github.io/)]
     * **RoHM**: "RoHM: Robust Human Motion Reconstruction via Diffusion", arXiv, 2024 (*Meta*). [[Paper](https://arxiv.org/abs/2401.08570)][[Code (in construction)](https://github.com/sanweiliti/RoHM)][[Website](https://sanweiliti.github.io/ROHM/ROHM.html)]
     * **STMC**: "Multi-Track Timeline Control for Text-Driven 3D Human Motion Generation", arXiv, 2024 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2401.08559)][[Website](https://mathis.petrovich.fr/stmc/)]
     * **Motion-Mamba**: "Motion Mamba: Efficient and Long Sequence Motion Generation with Hierarchical and Bidirectional Selective SSM", arXiv, 2024 (*Monash*). [[Paper](https://arxiv.org/abs/2403.07487)][[code (in construction)](https://github.com/steve-zeyu-zhang/MotionMamba/)][[Website](https://steve-zeyu-zhang.github.io/MotionMamba/)]
