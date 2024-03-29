@@ -476,6 +476,7 @@ If you find this repository useful, please consider citing this list:
     * **MARLIN**: "MARLIN: Masked Autoencoder for facial video Representation LearnINg", CVPR, 2023 (*Monash University, Australia*). [[Paper](https://arxiv.org/abs/2211.06627)][[PyTorch](https://github.com/ControlNet/MARLIN)]
     * **TransFace**: "TransFace: Calibrating Transformer Training for Face Recognition from a Data-Centric Perspective", ICCV, 2023 (*Alibaba*). [[Paper](https://arxiv.org/abs/2308.10133)][[PyTorch](https://github.com/DanJun6737/TransFace)]
     * **FaceXFormer**: "FaceXFormer: A Unified Transformer for Facial Analysis", arXiv, 2024 (*JHU*). [[Paper](https://arxiv.org/abs/2403.12960)][[PyTorch](https://github.com/Kartik-3004/facexformer)][[Website](https://kartik-3004.github.io/facexformer_web/)]
+    * **Arc2Face**: "Arc2Face: A Foundation Model of Human Faces", arXiv, 2024 (*ICL*). [[Paper](https://arxiv.org/abs/2403.11641)][[PyTorch](https://github.com/foivospar/Arc2Face)][[Website](https://arc2face.github.io/)]
 * Facial Landmark:
     * **Clusformer**: "Clusformer: A Transformer Based Clustering Approach to Unsupervised Large-Scale Face and Visual Landmark Recognition", CVPR, 2021 (*VinAI Research, Vietnam*). [[Paper](https://openaccess.thecvf.com/content/CVPR2021/html/Nguyen_Clusformer_A_Transformer_Based_Clustering_Approach_to_Unsupervised_Large-Scale_Face_CVPR_2021_paper.html)]
     * **LOTR**: "LOTR: Face Landmark Localization Using Localization Transformer", arXiv, 2021 (*Sertis, Thailand*). [[Paper](https://arxiv.org/abs/2109.10057)]
@@ -786,6 +787,8 @@ If you find this repository useful, please consider citing this list:
     * **OVOR**: "OVOR: OnePrompt with Virtual Outlier Regularization for Rehearsal-Free Class-Incremental Learning", ICLR, 2024 (*JPMorgan Chase*). [[Paper](https://arxiv.org/abs/2402.04129)]
     * **CPrompt**: "Consistent Prompting for Rehearsal-Free Continual Learning", CVPR, 2024 (*Sun Yat-sen University*). [[Paper](https://arxiv.org/abs/2403.08568)][[PyTorch](https://github.com/Zhanxin-Gao/CPrompt)]
     * **GMM**: "Generative Multi-modal Models are Good Class-Incremental Learners", CVPR, 2024 (*Nankai University*). [[Paper](https://arxiv.org/abs/2403.18383)][[PyTorch](https://github.com/DoubleClass/GMM)]
+    * **GS-LoRA**: "Continual Forgetting for Pre-trained Vision Models", CVPR, 2024 (*CAS*). [[Paper](https://arxiv.org/abs/2403.11530)][[PyTorch](https://github.com/bjzhb666/GS-LoRA)]
+    * **MoE-Adapters**: "Boosting Continual Learning of Vision-Language Models via Mixture-of-Experts Adapters", CVPR, 2024 (*Dalian University of Technology*). [[Paper](https://arxiv.org/abs/2403.11549)][[PyTorch](https://github.com/JiazuoYu/MoE-Adapters4CL)]
 * Long-tail/Imbalanced:
     * **BatchFormer**: "BatchFormer: Learning to Explore Sample Relationships for Robust Representation Learning", CVPR, 2022 (*The University of Sydney*). [[Paper](https://arxiv.org/abs/2203.01522)][[PyTorch](https://github.com/zhihou7/BatchFormer)]
     * **BatchFormerV2**: "BatchFormerV2: Exploring Sample Relationships for Dense Representation Learning", arXiv, 2022 (*The University of Sydney*). [[Paper](https://arxiv.org/abs/2204.01254)]
@@ -851,6 +854,7 @@ If you find this repository useful, please consider citing this list:
     * **AutoDIR**: "AutoDIR: Automatic All-in-One Image Restoration with Latent Diffusion", arXiv, 2023 (*CUHK*). [[Paper](https://arxiv.org/abs/2310.10123)]
     * **MPerceiver**: "Multimodal Prompt Perceiver: Empower Adaptiveness, Generalizability and Fidelity for All-in-One Image Restoration", arXiv, 2023 (*CAS*). [[Paper](https://arxiv.org/abs/2312.02918)]
     * **TIP**: "TIP: Text-Driven Image Processing with Semantic and Restoration Instructions", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2312.11595)][[Website](https://chenyangqiqi.github.io/tip/)]
+    * **VmambaIR**: "VmambaIR: Visual State Space Model for Image Restoration", arXiv, 2024 (*ByteDance*). [[Paper](https://arxiv.org/abs/2403.11423)][[Code (in construction)](https://github.com/AlphacatPlus/VmambaIR)]
 * Super-Resolution:
     * **SAN**: "Second-Order Attention Network for Single Image Super-Resolution", CVPR, 2019 (*Tsinghua*). [[Paper](https://openaccess.thecvf.com/content_CVPR_2019/html/Dai_Second-Order_Attention_Network_for_Single_Image_Super-Resolution_CVPR_2019_paper.html)][[PyTorch](https://github.com/daitao/SAN)]
     * **CS-NL**: "Image Super-Resolution with Cross-Scale Non-Local Attention and Exhaustive Self-Exemplars Mining", CVPR, 2020 (*UIUC*). [[Paper](https://arxiv.org/abs/2006.01424)][[PyTorch](https://github.com/SHI-Labs/Cross-Scale-Non-Local-Attention)]
@@ -2092,6 +2096,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **Q-Align**: "Q-Align: Teaching LMMs for Visual Scoring via Discrete Text-Defined Levels", arXiv, 2023 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2312.17090)][[PyTorch](https://github.com/Q-Future/Q-Align)][[Website](https://q-align.github.io/)]
     * **SAMA**: "Scaling and Masking: A New Paradigm of Data Sampling for Image and Video Quality Assessment", AAAI, 2024 (*Xidian University*). [[Paper](https://arxiv.org/abs/2401.02614)][[PyTorch](https://github.com/Sissuire/SAMA)]
     * **Co-Instruct**: "Towards Open-ended Visual Quality Comparison", arXiv, 2024 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2402.16641)][[Model](https://huggingface.co/q-future/co-instruct)]
+    * **?**: "A Comprehensive Study of Multimodal Large Language Models for Image Quality Assessment", arXiv, 2024 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2403.10854)][[Code (in construction)](https://github.com/TianheWu/MLLMs-for-IQA)]
 * Visual Reasoning:
     * **SAViR-T**: "SAViR-T: Spatially Attentive Visual Reasoning with Transformers", arXiv, 2022 (*Rutgers University*). [[Paper](https://arxiv.org/abs/2206.09265)]
 * Wide-angle lenses:
