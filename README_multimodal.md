@@ -421,6 +421,7 @@ If you find this repository useful, please consider citing this list:
     * **SiamGTR**: "Siamese Learning with Joint Alignment and Regression for Weakly-Supervised Video Paragraph Grounding", CVPR, 2024 (*Sun Yat-sen University*). [[Paper](https://arxiv.org/abs/2403.11463)]
     * **Video-GroundingDINO**: "Video-GroundingDINO: Towards Open-Vocabulary Spatio-Temporal Video Grounding", arXiv, 2024 (*MBZUAI*). [[Paper](https://arxiv.org/abs/2401.00901)][[Code (in construction)](https://github.com/TalalWasim/Video-GroundingDINO)]
     * **CG-STVG**: "Context-Guided Spatio-Temporal Video Grounding", arXiv, 2024 (*CAS*). [[Paper](https://arxiv.org/abs/2401.01578)][[Code (in construction)](https://github.com/HengLan/CGSTVG)]
+    * **LITA**: "LITA: Language Instructed Temporal-Localization Assistant", arXiv, 2024 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2403.19046)][[PyTorch](https://github.com/NVlabs/LITA)]
 * 3D:
     * **ViL3DRel**: "Language Conditioned Spatial Relation Reasoning for 3D Object Grounding", NeurIPS, 2022 (*INRIA*). [[Paper](https://arxiv.org/abs/2211.09646)][[Website](https://cshizhe.github.io/projects/vil3dref.html)]
     * **LAR**: "Look Around and Refer: 2D Synthetic Semantics Knowledge Distillation for 3D Visual Grounding", NeurIPS, 2022 (*KAUST*). [[Paper](https://arxiv.org/abs/2211.14241)][[Website](https://eslambakr.github.io/LAR.github.io/)]
@@ -665,6 +666,7 @@ If you find this repository useful, please consider citing this list:
     * **Multimodal-ArXiv**: "Multimodal ArXiv: A Dataset for Improving Scientific Comprehension of Large Vision-Language Models", arXiv, 2024 (*HKU*). [[Paper](https://arxiv.org/abs/2403.00231)][[Website](https://mm-arxiv.github.io/)]
     * **Synth<sup>2</sup>**: "Synth<sup>2</sup>: Boosting Visual-Language Models with Synthetic Captions and Image Embeddings", arXiv, 2024 (*DeepMind*). [[Paper](https://arxiv.org/abs/2403.07750)]
     * **?**: "Towards Multimodal In-Context Learning for Vision & Language Models", arXiv, 2024 (*IBM*). [[Paper](https://arxiv.org/abs/2403.12736)]
+    * **LocCa**: "LocCa: Visual Pretraining with Location-aware Captioners", arXiv, 2024 (*DeepMind*). [[Paper](https://arxiv.org/abs/2403.19596)]
 * Video:
     * **COOT**: "COOT: Cooperative Hierarchical Transformer for Video-Text Representation Learning", NeurIPS, 2020 (*University of Freiburg*). [[Paper](https://arxiv.org/abs/2011.00597)][[PyTorch](https://github.com/gingsi/coot-videotext)]
     * **Parameter-Reduction**: "Parameter Efficient Multimodal Transformers for Video Representation Learning", ICLR, 2021 (*Seoul National University*). [[Paper](https://openreview.net/forum?id=6UdQLhqJyFD)]
@@ -1363,6 +1365,7 @@ If you find this repository useful, please consider citing this list:
     * **UniRef++**: "UniRef++: Segment Every Reference Object in Spatial and Temporal Spaces", arXiv, 2023 (*HKU*). [[Paper](https://arxiv.org/abs/2312.15715)][[PyTorch](https://github.com/FoundationVision/UniRef)]
     * **MUTR**: "Referred by Multi-Modality: A Unified Temporal Transformer for Video Object Segmentation", AAAI, 2024 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2305.16318)][[PyTorch](https://github.com/OpenGVLab/MUTR)]
     * **VD-IT**: "Exploring Pre-trained Text-to-Video Diffusion Models for Referring Video Object Segmentation", arXiv, 2024 (*University at Buffalo, NY*). [[Paper](https://arxiv.org/abs/2403.12042)][[Code (in construction)](https://github.com/buxiangzhiren/VD-IT)]
+    * **HTR**: "Towards Temporally Consistent Referring Video Object Segmentation", arXiv, 2024 (*University of Western Australia*). [[Paper](https://arxiv.org/abs/2403.19407)]
 * Referring 3D Segmentation:
     * **3D-STMN**: "3D-STMN: Dependency-Driven Superpoint-Text Matching Network for End-to-End 3D Referring Expression Segmentation", arXiv, 2023 (*Xiamen University*). [[Paper](https://arxiv.org/abs/2308.16632)][[PyTorch](https://github.com/sosppxo/3D-STMN)]
 * Narrative Grounding:
@@ -1594,6 +1597,7 @@ If you find this repository useful, please consider citing this list:
     * **GestureDiffuCLIP**: "GestureDiffuCLIP: Gesture Diffusion Model with CLIP Latents", arXiv, 2023 (*Peking University*). [[Paper](https://arxiv.org/abs/2303.14613)]
     * **MMViT**: "MMViT: Multiscale Multiview Vision Transformers", arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2305.00104)]
     * **?**: "Learning Spatial Features from Audio-Visual Correspondence in Egocentric Videos" arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2307.04760)]
+    * **AVSiam**: "Siamese Vision Transformers are Scalable Audio-visual Learners", arXiv, 2024 (*UNC*). [[Paper](https://arxiv.org/abs/2403.19638)]
 * Audio-Visual Localization/Segmentation:
     * **AVSBench**: "Audio-Visual Segmentation", ECCV, 2022 (*SenseTime*). [[Paper](https://arxiv.org/abs/2207.05042)][[PyTorch](https://github.com/OpenNLPLab/AVSBench)][[Website](https://opennlplab.github.io/AVSBench/)]
     * **ECMVAE**: "Multimodal Variational Auto-encoder based Audio-Visual Segmentation", ICCV, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2310.08303)][[PyTorch](https://github.com/OpenNLPLab/MMVAE-AVS)][[Website](https://npucvr.github.io/MMVAE-AVS/)]
