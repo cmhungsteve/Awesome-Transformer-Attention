@@ -132,6 +132,7 @@ If you find this repository useful, please consider citing this list:
 
 ## Survey
 * "A Survey on Multimodal Large Language Models for Autonomous Driving", WACVW, 2024 (*Purdue*). [[Paper](https://arxiv.org/abs/2311.12320)][[GitHub](https://github.com/IrohXu/Awesome-Multimodal-LLM-Autonomous-Driving)]
+* "From Pixels to Insights: A Survey on Automatic Chart Understanding in the Era of Large Foundation Models", arXiv, 2024 (*UIUC*). [[Paper](https://arxiv.org/abs/2403.12027)][[GitHub](https://github.com/khuangaf/Awesome-Chart-Understanding)]
 * "Parameter-Efficient Fine-Tuning for Large Models: A Comprehensive Survey", arXiv, 2024 (*Northeastern*). [[Paper](https://arxiv.org/abs/2403.14608)]
 * "Sora as an AGI World Model? A Complete Survey on Text-to-Video Generation", arXiv, 2024 (*Kyung Hee University*). [[Paper](https://arxiv.org/abs/2403.05131)]
 * "Controllable Generation with Text-to-Image Diffusion Models: A Survey", arXiv, 2024 (*Beijing University of Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2403.04279)][[GitHub](https://github.com/PRIV-Creation/Awesome-Controllable-T2I-Diffusion-Models)]
@@ -914,6 +915,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **LocalMamba**: "LocalMamba: Visual State Space Model with Windowed Selective Scan", arXiv, 2024 (*University of Sydney*). [[Paper](https://arxiv.org/abs/2403.09338)][[PyTorch](https://github.com/hunto/LocalMamba)]
 * **SiMBA**: "SiMBA: Simplified Mamba-Based Architecture for Vision and Multivariate Time series", arXiv, 2024 (*Microsoft*). [[Paper](https://arxiv.org/abs/2403.15360)][[PyTorch](https://github.com/badripatro/Simba)]
 * **PlainMamba**: "PlainMamba: Improving Non-Hierarchical Mamba in Visual Recognition", arXiv, 2024 (*University of Edinburgh, Scotland*). [[Paper](https://arxiv.org/abs/2403.17695)][[PyTorch](https://github.com/ChenhongyiYang/PlainMamba)]
+* **EfficientVMamba**: "EfficientVMamba: Atrous Selective Scan for Light Weight Visual Mamba", arXiv, 2024 (*The University of Sydney*). [[Paper](https://arxiv.org/abs/2403.09977)][[PyTorch](https://github.com/TerryPei/EfficientVMamba)]
 
 [[Back to Overview](#overview)]
 
@@ -1787,9 +1789,11 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **SAMS**: "Foundation Model Assisted Weakly Supervised Semantic Segmentation", arXiv, 2023 (*Zhejiang*). [[Paper](https://arxiv.org/abs/2312.03585)]
     * **SemiVL**: "SemiVL: Semi-Supervised Semantic Segmentation with Vision-Language Guidance", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2311.16241)][[PyTorch](https://github.com/google-research/semivl)]
     * **Self-reinforcement**: "Progressive Uncertain Feature Self-reinforcement for Weakly Supervised Semantic Segmentation", AAAI, 2024 (*Zhejiang Lab*). [[Paper](https://arxiv.org/abs/2312.08916)][[PyTorch](https://github.com/Jessie459/feature-self-reinforcement)]
+    * **FeatUp**: "FeatUp: A Model-Agnostic Framework for Features at Any Resolution", ICLR, 2024 (*MIT*). [[Paper](https://arxiv.org/abs/2403.10516)]
     * **SeCo**: "Separate and Conquer: Decoupling Co-occurrence via Decomposition and Representation for Weakly Supervised Semantic Segmentation", CVPR, 2024 (*Fudan*). [[Paper](https://arxiv.org/abs/2402.18467)][[Code (in construction)](https://github.com/zwyang6/SeCo)]
     * **AllSpark**: "AllSpark: Reborn Labeled Features from Unlabeled in Transformer for Semi-Supervised Semantic Segmentation", CVPR, 2024 (*HKUST*). [[Paper](https://arxiv.org/abs/2403.01818)][[PyTorch](https://github.com/xmed-lab/AllSpark)]
     * **CPAL**: "Hunting Attributes: Context Prototype-Aware Learning for Weakly Supervised Semantic Segmentation", CVPR, 2024 (*Monash University*). [[Paper](https://arxiv.org/abs/2403.07630)][[Code (in construction)](https://github.com/Barrett-python/CPAL)]
+    * **DuPL**: "DuPL: Dual Student with Trustworthy Progressive Learning for Robust Weakly Supervised Semantic Segmentation", CVPR, 2024 (*Shanghai University*). [[Paper](https://arxiv.org/abs/2403.11184)][[PyTorch](https://github.com/Wu0409/DuPL)]
     * **SemPLeS**: "SemPLeS: Semantic Prompt Learning for Weakly-Supervised Semantic Segmentation", arXiv, 2024 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2401.11791)]
     * **WeakSAM**: "WeakSAM: Segment Anything Meets Weakly-supervised Instance-level Recognition", arXiv, 2024 (*Huazhong University of Science & Technology (HUST)*). [[Paper](https://arxiv.org/abs/2402.14812)][[PyTorch](https://github.com/hustvl/WeakSAM)]
     * **CoSA**: "Weakly Supervised Co-training with Swapping Assignments for Semantic Segmentation", arXiv, 2024 (*Lancaster University, UK*). [[Paper](https://arxiv.org/abs/2402.17891)][[Code (in construction)](https://github.com/youshyee/CoSA)]
