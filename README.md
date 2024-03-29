@@ -916,6 +916,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **SiMBA**: "SiMBA: Simplified Mamba-Based Architecture for Vision and Multivariate Time series", arXiv, 2024 (*Microsoft*). [[Paper](https://arxiv.org/abs/2403.15360)][[PyTorch](https://github.com/badripatro/Simba)]
 * **PlainMamba**: "PlainMamba: Improving Non-Hierarchical Mamba in Visual Recognition", arXiv, 2024 (*University of Edinburgh, Scotland*). [[Paper](https://arxiv.org/abs/2403.17695)][[PyTorch](https://github.com/ChenhongyiYang/PlainMamba)]
 * **EfficientVMamba**: "EfficientVMamba: Atrous Selective Scan for Light Weight Visual Mamba", arXiv, 2024 (*The University of Sydney*). [[Paper](https://arxiv.org/abs/2403.09977)][[PyTorch](https://github.com/TerryPei/EfficientVMamba)]
+* **RDNet**: "DenseNets Reloaded: Paradigm Shift Beyond ResNets and ViTs", arXiv, 2024 (*NAVER*). [[Paper](https://arxiv.org/abs/2403.19588)]
 
 [[Back to Overview](#overview)]
 
