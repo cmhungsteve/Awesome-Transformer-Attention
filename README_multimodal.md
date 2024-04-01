@@ -667,6 +667,7 @@ If you find this repository useful, please consider citing this list:
     * **Synth<sup>2</sup>**: "Synth<sup>2</sup>: Boosting Visual-Language Models with Synthetic Captions and Image Embeddings", arXiv, 2024 (*DeepMind*). [[Paper](https://arxiv.org/abs/2403.07750)]
     * **?**: "Towards Multimodal In-Context Learning for Vision & Language Models", arXiv, 2024 (*IBM*). [[Paper](https://arxiv.org/abs/2403.12736)]
     * **LocCa**: "LocCa: Visual Pretraining with Location-aware Captioners", arXiv, 2024 (*DeepMind*). [[Paper](https://arxiv.org/abs/2403.19596)]
+    * **SPHINX-V**: "Draw-and-Understand: Leveraging Visual Prompts to Enable MLLMs to Comprehend What You Want", arXiv, 2024 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2403.20271)][[PyTorch](https://github.com/AFeng-x/Draw-and-Understand)][[Website](https://draw-and-understand.github.io/)]
 * Video:
     * **COOT**: "COOT: Cooperative Hierarchical Transformer for Video-Text Representation Learning", NeurIPS, 2020 (*University of Freiburg*). [[Paper](https://arxiv.org/abs/2011.00597)][[PyTorch](https://github.com/gingsi/coot-videotext)]
     * **Parameter-Reduction**: "Parameter Efficient Multimodal Transformers for Video Representation Learning", ICLR, 2021 (*Seoul National University*). [[Paper](https://openreview.net/forum?id=6UdQLhqJyFD)]
@@ -1834,6 +1835,8 @@ If you find this repository useful, please consider citing this list:
     * **MLLM-as-a-Judge**: "MLLM-as-a-Judge: Assessing Multimodal LLM-as-a-Judge with Vision-Language Benchmark", arXiv, 2024 (*Lehigh University, Pennsylvania*). [[Paper](https://arxiv.org/abs/2402.04788)][[GitHub](https://github.com/Dongping-Chen/MLLM-as-a-Judge)]
     * **TempCompass**: "TempCompass: Do Video LLMs Really Understand Videos?", arXiv, 2024 (*Peking*). [[Paper](https://arxiv.org/abs/2403.00476)][[Code (in construction)](https://github.com/llyx97/TempCompass)]
     * **Ch<sup>3</sup>Ef**: "Assessment of Multimodal Large Language Models in Alignment with Human Values", arXiv, 2024 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2403.17830)][[PyTorch](https://github.com/OpenGVLab/LAMM)][[Website](https://openlamm.github.io/ch3ef/)]
+    * **UPD**: "Unsolvable Problem Detection: Evaluating Trustworthiness of Vision Language Models", arXiv, 2024 (*University of Tokyo*). [[Paper](https://arxiv.org/abs/2403.20331)][[PyTorch](https://github.com/AtsuMiyai/UPD)]
+    * **MMStar**: "Are We on the Right Way for Evaluating Large Vision-Language Models?", arXiv, 2024 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2403.20330)][[Code (in construction)](https://github.com/MMStar-Benchmark/MMStar)][[Website](https://mmstar-benchmark.github.io/)]
 * Robustness:
     * **Hierarchy-CLIP**: "Improving Zero-shot Generalization and Robustness of Multi-modal Models", CVPR, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2212.01758)][[JAX](https://github.com/gyhandy/Hierarchy-CLIP)][[Website](https://sites.google.com/usc.edu/hierarchy-clip/)]
     * **?**: "Mitigating Spurious Correlations in Multi-modal Models during Fine-tuning", ICML, 2023 (*UCLA*). [[Paper](https://arxiv.org/abs/2304.03916)]
