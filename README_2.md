@@ -386,6 +386,7 @@ If you find this repository useful, please consider citing this list:
     * **OneTracker**: "OneTracker: Unifying Visual Object Tracking with Foundation Models and Efficient Tuning", CVPR, 2024 (*Fudan*). [[Paper](https://arxiv.org/abs/2403.09634)]
     * **SBT**: "Correlation-Embedded Transformer Tracking: A Single-Branch Framework", arXiv, 2024 (*SJTU*). [[Paper](https://arxiv.org/abs/2401.12743)][[PyTorch](https://github.com/phiphiphi31/SBT)]
     * **TAPTR**: "TAPTR: Tracking Any Point with Transformers as Detection", arXiv, 2024 (*IDEA*). [[Paper](https://arxiv.org/abs/2403.13042)][[Website](https://taptr.github.io/)]
+    * **DINO-Tracker**: "DINO-Tracker: Taming DINO for Self-Supervised Point Tracking in a Single Video", arXiv, 2024 (*Weizmann Institute of Science, Israel*). [[Paper](https://arxiv.org/abs/2403.14548)][[Website](https://dino-tracker.github.io/)]
 * 3D:
     * **PTT**: "PTT: Point-Track-Transformer Module for 3D Single Object Tracking in Point Clouds", IROS, 2021 (*Northeastern University*). [[Paper](https://arxiv.org/abs/2108.06455)][[PyTorch (in construction)](https://github.com/shanjiayao/PTT)]
     * **LTTR**: "3D Object Tracking with Transformer", BMVC, 2021 (*Northeastern University, China*). [[Paper](https://arxiv.org/abs/2110.14921)][[Code (in construction)](https://github.com/3bobo/lttr)]
@@ -453,6 +454,7 @@ If you find this repository useful, please consider citing this list:
 * **TOP-ReID**: "TOP-ReID: Multi-spectral Object Re-Identification with Token Permutation", AAAI, 2024 (*Dalian University of Technology*). [[Paper](https://arxiv.org/abs/2312.09612)][[PyTorch](https://github.com/924973292/TOP-ReID)]
 * **MP-ReID**: "Multi-Prompts Learning with Cross-Modal Alignment for Attribute-based Person Re-Identification", AAAI, 2024 (*Eastern Institute of Technology, China*). [[Paper](https://arxiv.org/abs/2312.16797)]
 * **EDITOR**: "Magic Tokens: Select Diverse Tokens for Multi-modal Object Re-Identification", CVPR, 2024 (*Dalian University of Technology*). [[Paper](https://arxiv.org/abs/2403.10254)][[PyTorch](https://github.com/924973292/EDITOR)]
+* **VDT**: "View-decoupled Transformer for Person Re-identification under Aerial-ground Camera Network", CVPR, 2024 (*Sun Yat-Sen University*). [[Paper](https://arxiv.org/abs/2403.14513)][[PyTorch](https://github.com/LinlyAC/VDT-AGPReID)]
 
 [[Back to Overview](#overview)]
 
