@@ -519,6 +519,7 @@ If you find this repository useful, please consider citing this list:
 * **ToFu**: "Token Fusion: Bridging the Gap between Token Pruning and Token Merging", WACV, 2024 (*Samsung*). [[Paper](https://arxiv.org/abs/2312.01026)]
 * **Cached-Transformer**: "Cached Transformers: Improving Transformers with Differentiable Memory Cache", AAAI, 2024 (*CUHK*). [[Paper](https://arxiv.org/abs/2312.12742)]
 * **LF-ViT**: "LF-ViT: Reducing Spatial Redundancy in Vision Transformer for Efficient Image Recognition", AAAI, 2024 (*Harbin Institute of Technology*). [[Paper](https://arxiv.org/abs/2402.00033)][[PyTorch](https://github.com/edgeai1/LF-ViT)]
+* **EfficientMod**: "Efficient Modulation for Vision Networks", ICLR, 2024 (*Microsoft*). [[Paper](https://arxiv.org/abs/2403.19963)][[PyTorch](https://github.com/ma-xu/EfficientMod)]
 * **S<sup>2</sup>**: "When Do We Not Need Larger Vision Models?", arXiv, 2024 (*Berkeley*). [[Paper](https://arxiv.org/abs/2403.13043)][[PyTorch](https://github.com/bfshi/scaling_on_scales)]
 #### Conv + Transformer
 * **LeViT**: "LeViT: a Vision Transformer in ConvNet's Clothing for Faster Inference", ICCV, 2021 (*Facebook*). [[Paper](https://arxiv.org/abs/2104.01136)][[PyTorch](https://github.com/facebookresearch/LeViT)]
@@ -1062,8 +1063,8 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **?**: "Revisiting DETR Pre-training for Object Detection", arXiv, 2023 (*Toronto*). [[Paper](https://arxiv.org/abs/2308.01300)]
     * **Gen2Det**: "Gen2Det: Generate to Detect", arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2312.04566)]
     * **ViT-CoMer**: "ViT-CoMer: Vision Transformer with Convolutional Multi-scale Feature Interaction for Dense Predictions", CVPR, 2024 (*Baidu*). [[Paper](https://arxiv.org/abs/2403.07392)][[PyTorch](https://github.com/Traffic-X/ViT-CoMer)]
-    * **MS-DETR**: "MS-DETR: Efficient DETR Training with Mixed Supervision", arXiv, 2024 (*Baidu*). [[Paper](https://arxiv.org/abs/2401.03989)][[Code (in construction)](https://github.com/Atten4Vis/MS-DETR)]
     * **Salience-DETR**: "Salience-DETR: Enhancing Detection Transformer with Hierarchical Salience Filtering Refinement", CVPR, 2024 (*Xi'an Jiaotong University*). [[Paper](https://arxiv.org/abs/2403.16131)][[PyTorch](https://github.com/xiuqhou/Salience-DETR)]
+    * **MS-DETR**: "MS-DETR: Efficient DETR Training with Mixed Supervision", arXiv, 2024 (*Baidu*). [[Paper](https://arxiv.org/abs/2401.03989)][[Code (in construction)](https://github.com/Atten4Vis/MS-DETR)]
 * Transformer-based backbone:
     * **ViT-FRCNN**: "Toward Transformer-Based Object Detection", arXiv, 2020 (*Pinterest*). [[Paper](https://arxiv.org/abs/2012.09958)]
     * **WB-DETR**: "WB-DETR: Transformer-Based Detector Without Backbone", ICCV, 2021 (*CAS*). [[Paper](https://openaccess.thecvf.com/content/ICCV2021/html/Liu_WB-DETR_Transformer-Based_Detector_Without_Backbone_ICCV_2021_paper.html)]
@@ -1701,6 +1702,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **ReMaX**: "ReMaX: Relaxing for Better Training on Efficient Panoptic Segmentation", NeurIPS, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2306.17319)][[Tensorflow2](https://github.com/google-research/deeplab2)]
     * **PanopticPartFormer++**: "PanopticPartFormer++: A Unified and Decoupled View for Panoptic Part Segmentation", arXiv, 2023 (*Peking*). [[Paper](https://arxiv.org/abs/2204.04655)][[PyTorch](https://github.com/lxtGH/Panoptic-PartFormer)]
     * **MaXTron**: "MaXTron: Mask Transformer with Trajectory Attention for Video Panoptic Segmentation", arXiv, 2023 (*ByteDance*). [[Paper](https://arxiv.org/abs/2311.18537)]
+    * **ECLIPSE**: "ECLIPSE: Efficient Continual Learning in Panoptic Segmentation with Visual Prompt Tuning", CVPR, 2024 (*NAVER*). [[Paper](https://arxiv.org/abs/2403.20126)][[Code (in construction)](https://github.com/clovaai/ECLIPSE)]
 * Instance Segmentation:
     * **ISTR**: "ISTR: End-to-End Instance Segmentation with Transformers", arXiv, 2021 (*Xiamen University*). [[Paper](https://arxiv.org/abs/2105.00637)][[PyTorch](https://github.com/hujiecpp/ISTR)]
     * **Mask-Transfiner**: "Mask Transfiner for High-Quality Instance Segmentation", CVPR, 2022 (*ETHZ*). [[Paper](https://arxiv.org/abs/2111.13673)][[PyTorch](https://github.com/SysCV/transfiner)][[Website](https://www.vis.xyz/pub/transfiner/)]
