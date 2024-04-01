@@ -298,6 +298,7 @@ If you find this repository useful, please consider citing this list:
     * **LLoVi**: "An Improved Baseline for Reasoning Segmentation with Large Language Model", arXiv, 2023 (*UNC*). [[Paper](https://arxiv.org/abs/2312.17240)][[Code (in construction)](https://github.com/CeeZh/LLoVi)]
     * **STAIR**: "STAIR: Spatial-Temporal Reasoning with Auditable Intermediate Results for Video Question Answering", AAAI, 2024 (*Peking*). [[Paper](https://arxiv.org/abs/2401.03901)]
     * **YTCommentQA**: "YTCommentQA: Video Question Answerability in Instructional Videos", AAAI, 2024 (*LG*). [[Paper](https://arxiv.org/abs/2401.17343)][[Code (in construction)](https://github.com/lgresearch/YTCommentQA)]
+    * **RADI**: "Ranking Distillation for Open-Ended Video Question Answering with Insufficient Labels", CVPR, 2024 (*Sun Yat-sen University*). [[Paper](https://arxiv.org/abs/2403.14430)]
     * **Sports-QA**: "Sports-QA: A Large-Scale Video Question Answering Benchmark for Complex and Professional Sports", arXiv, 2024 (*University of Melbourne*). [[Paper](https://arxiv.org/abs/2401.01505)]
     * **DoraemonGPT**: "DoraemonGPT: Toward Understanding Dynamic Scenes with Large Language Models", arXiv, 2024 (*Zhejiang*). [[Paper](https://arxiv.org/abs/2401.08392)][[Code (in construction)](https://github.com/z-x-yang/DoraemonGPT)]
     * **Q-ViD**: "Question-Instructed Visual Descriptions for Zero-Shot Video Question Answering", arXiv, 2024 (*MBZUAI*). [[Paper](https://arxiv.org/abs/2402.10698)]
@@ -668,6 +669,7 @@ If you find this repository useful, please consider citing this list:
     * **?**: "Towards Multimodal In-Context Learning for Vision & Language Models", arXiv, 2024 (*IBM*). [[Paper](https://arxiv.org/abs/2403.12736)]
     * **LocCa**: "LocCa: Visual Pretraining with Location-aware Captioners", arXiv, 2024 (*DeepMind*). [[Paper](https://arxiv.org/abs/2403.19596)]
     * **SPHINX-V**: "Draw-and-Understand: Leveraging Visual Prompts to Enable MLLMs to Comprehend What You Want", arXiv, 2024 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2403.20271)][[PyTorch](https://github.com/AFeng-x/Draw-and-Understand)][[Website](https://draw-and-understand.github.io/)]
+    * **MyVLM**: "MyVLM: Personalizing VLMs for User-Specific Queries", arXiv, 2024 (*Snap*). [[Paper](https://arxiv.org/abs/2403.14599)][[Code (in construction)](https://github.com/snap-research/MyVLM)][[Website](https://snap-research.github.io/MyVLM/)]
 * Video:
     * **COOT**: "COOT: Cooperative Hierarchical Transformer for Video-Text Representation Learning", NeurIPS, 2020 (*University of Freiburg*). [[Paper](https://arxiv.org/abs/2011.00597)][[PyTorch](https://github.com/gingsi/coot-videotext)]
     * **Parameter-Reduction**: "Parameter Efficient Multimodal Transformers for Video Representation Learning", ICLR, 2021 (*Seoul National University*). [[Paper](https://openreview.net/forum?id=6UdQLhqJyFD)]
@@ -1051,6 +1053,7 @@ If you find this repository useful, please consider citing this list:
     * **Snap-Video**: "Snap Video: Scaled Spatiotemporal Transformers for Text-to-Video Synthesis", arXiv, 2024 (*Snap*). [[Paper](https://arxiv.org/abs/2402.14797)][[Website](https://snap-research.github.io/snapvideo/)]
     * **Pix2Gif**: "Pix2Gif: Motion-Guided Diffusion for GIF Generation", arXiv, 2024 (*Microsoft*). [[Paper](https://arxiv.org/abs/2403.04634)][[PyTorch](https://github.com/hiteshK03/Pix2Gif)][[Website](https://hiteshk03.github.io/Pix2Gif/)]
     * **WorldGPT**: "WorldGPT: A Sora-Inspired Video AI Agent as Rich World Models from Text and Image Inputs", arXiv, 2024 (*Seeking AI, China*). [[Paper](https://arxiv.org/abs/2403.07944)]
+    * **AnyV2V**: "AnyV2V: A Plug-and-Play Framework For Any Video-to-Video Editing Tasks", arXiv, 2024 (*University of Waterloo, Canada*). [[Paper](https://arxiv.org/abs/2403.14468)][[PyTorch](https://github.com/TIGER-AI-Lab/AnyV2V)][[Website](https://tiger-ai-lab.github.io/AnyV2V/)]
 * 3D:
     * **Magic3D**: "Magic3D: High-Resolution Text-to-3D Content Creation", CVPR, 2023 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2211.10440)][[Website](https://research.nvidia.com/labs/dir/magic3d/)]
     * **CLIP-Sculptor**: "CLIP-Sculptor: Zero-Shot Generation of High-Fidelity and Diverse Shapes from Natural Language", CVPR, 2023 (*Autodesk*). [[Paper](https://arxiv.org/abs/2211.01427)][[Website](https://ivl.cs.brown.edu/#/projects/clip-sculptor)]
@@ -1241,6 +1244,7 @@ If you find this repository useful, please consider citing this list:
 * **Kosmos-2.5**: "Kosmos-2.5: A Multimodal Literate Model", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2309.11419)]
 * **mPLUG-DocOwl**: "mPLUG-DocOwl: Modularized Multimodal Large Language Model for Document Understanding", arXiv, 2023 (*Alibaba*). [[Paper](https://arxiv.org/abs/2307.02499)][[Code (in construction)](https://github.com/X-PLUG/mPLUG-DocOwl)]
 * **RD**: "Efficient End-to-End Visual Document Understanding with Rationale Distillation", arXiv, 2023 (*DeepMind*). [[Paper](https://arxiv.org/abs/2311.09612)]
+* **RoDLA**: "RoDLA: Benchmarking the Robustness of Document Layout Analysis Models", CVPR, 2024 (*Karlsruhe Institute of Technology (KIT), Germnay*). [[Paper](https://arxiv.org/abs/2403.14442)][[PyTorch](https://github.com/yufanchen96/RoDLA)][[Website](https://yufanchen96.github.io/projects/RoDLA/)]
 * **ScreenAI**: "ScreenAI: A Vision-Language Model for UI and Infographics Understanding", arXiv, 2024 (*Google*). [[Paper](https://arxiv.org/abs/2402.04615)]
 * **DoCo**: "Enhancing Visual Document Understanding with Contrastive Learning in Large Visual-Language Models", arXiv, 2024 (*Tencent*). [[Paper](https://arxiv.org/abs/2402.19014)]
 * **mPLUG-DocOwl-1.5**: "mPLUG-DocOwl 1.5: Unified Structure Learning for OCR-free Document Understanding", arXiv, 2024 (*Alibaba*). [[Paper](https://arxiv.org/abs/2403.12895)][[Code (in construction)](https://github.com/X-PLUG/mPLUG-DocOwl/tree/main/DocOwl1.5)]
@@ -1725,6 +1729,8 @@ If you find this repository useful, please consider citing this list:
     * **Mini-Gemini**: "Mini-Gemini: Mining the Potential of Multi-modality Vision Language Models", arXiv, 2024 (*CUHK*). [[Paper](https://arxiv.org/abs/2403.18814)][[PyTorch](https://github.com/dvlab-research/MiniGemini)]
     * **Gemma**: "Gemma: Open Models Based on Gemini Research and Technology", arXiv, 2024 (*Google*). [[Paper](https://arxiv.org/abs/2403.08295)]
     * **SQ-LLaVA**: "SQ-LLaVA: Self-Questioning for Large Vision-Language Assistant", arXiv, 2024 (*Salesforce*). [[Paper](https://arxiv.org/abs/2403.11299)][[PyTorch](https://github.com/heliossun/SQ-LLaVA)]
+    * **Cobra**: "Cobra: Extending Mamba to Multi-Modal Large Language Model for Efficient Inference", arXiv, 2024 (*Westlake University, China*). [[Paper](https://arxiv.org/abs/2403.14520)][[PyTorch](https://github.com/h-zhao1997/cobra)][[Website](https://sites.google.com/view/cobravlm)]
+    * **TinyLLaVA**: "TinyLLaVA: A Framework of Small-scale Large Multimodal Models", arXiv, 2024 (*Beihang University*). [[Paper](https://arxiv.org/abs/2402.14289)][[PyTorch](https://github.com/DLCV-BUAA/TinyLLaVABench)]
 * Conversation (Video):
     * **Video-ChatCaptioner**: "Video ChatCaptioner: Towards the Enriched Spatiotemporal Descriptions", arXiv, 2023 (*KAUST*). [[Paper](https://arxiv.org/abs/2304.04227)][[PyTorch](https://github.com/Vision-CAIR/ChatCaptioner)]
     * **ChatVideo**: "ChatVideo: A Tracklet-centric Multimodal and Versatile Video Understanding System", arXiv, 2023 (*Fudan*). [[Paper](https://arxiv.org/abs/2304.14407)][[Website](https://www.wangjunke.info/ChatVideo/)]
