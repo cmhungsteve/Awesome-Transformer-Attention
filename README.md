@@ -977,6 +977,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **INTR**: "A Simple Interpretable Transformer for Fine-Grained Image Classification and Analysis", arXiv, 2023 (*OSU*). [[Paper](https://arxiv.org/abs/2311.04157)][[PyTorch](https://github.com/Imageomics/INTR)]
 * **?**: "Attention Guided CAM: Visual Explanations of Vision Transformer Guided by Self-Attention", AAAI, 2024 (*Korea Institute of Science and Technology (KIST)*). [[Paper](https://arxiv.org/abs/2402.04563)][[PyTorch](https://github.com/LeemSaebom/Attention-Guided-CAM-Visual-Explanations-of-Vision-Transformer-Guided-by-Self-Attention)]
 * **RelatiViT**: "Can Transformers Capture Spatial Relations between Objects?", ICLR, 2024 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2403.00729)][[Code (in construction)](https://github.com/AlvinWen428/spatial-relation)][[Website](https://sites.google.com/view/spatial-relation)]
+* **TokenTM**: "Token Transformation Matters: Towards Faithful Post-hoc Explanation for Vision Transformer", CVPR, 2024 (*Illinois Institute of Technology*). [[Paper](https://arxiv.org/abs/2403.14552)]
 * **?**: "A Decade's Battle on Dataset Bias: Are We There Yet?", arXiv, 2024 (*Meta*). [[Paper](https://arxiv.org/abs/2403.08632)][[Code (in construction)](https://github.com/liuzhuang13/bias)]
 
 [[Back to Overview](#overview)]
@@ -1356,6 +1357,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **VReBERT**: "VReBERT: A Simple and Flexible Transformer for Visual Relationship Detection", ICPR, 2022 (*ANU*). [[Paper](https://arxiv.org/abs/2206.09111)]
     * **UniVRD**: "Unified Visual Relationship Detection with Vision and Language Models", ICCV, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2303.08998)][[Code (in construction)](https://github.com/google-research/scenic/tree/main/scenic/projects/univrd)]
     * **RECODE**: "Zero-shot Visual Relation Detection via Composite Visual Cues from Large Language Models", NeurIPS, 2023 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2305.12476)]
+    * **SG-ViT**: "Scene-Graph ViT: End-to-End Open-Vocabulary Visual Relationship Detection", arXiv, 2024 (*DeepMind*). [[Paper](https://arxiv.org/abs/2403.14270)]
 * Anomaly Detection:
     * **VT-ADL**: "VT-ADL: A Vision Transformer Network for Image Anomaly Detection and Localization", ISIE, 2021 (*University of Udine, Italy*). [[Paper](https://arxiv.org/abs/2104.10036)]
     * **InTra**: "Inpainting Transformer for Anomaly Detection", arXiv, 2021 (*Fujitsu*). [[Paper](https://arxiv.org/abs/2104.13897)]
@@ -1666,6 +1668,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **GSVA**: "GSVA: Generalized Segmentation via Multimodal Large Language Models", arXiv, 2023 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2312.10103)]
     * **LISA++**: "An Improved Baseline for Reasoning Segmentation with Large Language Model", arXiv, 2023 (*CUHK*). [[Paper](https://arxiv.org/abs/2312.17240)]
     * **GROUNDHOG**: "GROUNDHOG: Grounding Large Language Models to Holistic Segmentation", CVPR, 2024 (*Amazon*). [[Paper](https://arxiv.org/abs/2402.16846)][[Website](https://groundhog-mllm.github.io/)]
+    * **PSALM**: "PSALM: Pixelwise SegmentAtion with Large Multi-Modal Model", arXiv, 2024 (*Huazhong University of Science and Technology*). [[Paper](https://arxiv.org/abs/2403.14598)][[PyTorch](https://github.com/zamling/PSALM)]
 * Universal Segmentation:
     * **K-Net**: "K-Net: Towards Unified Image Segmentation", NeurIPS, 2021 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2106.14855)][[PyTorch](https://github.com/ZwwWayne/K-Net/)]
     * **Mask2Former**: "Masked-attention Mask Transformer for Universal Image Segmentation", CVPR, 2022 (*Meta*). [[Paper](https://arxiv.org/abs/2112.01527)][[PyTorch](https://github.com/facebookresearch/Mask2Former)][[Website](https://bowenc0221.github.io/mask2former/)]
