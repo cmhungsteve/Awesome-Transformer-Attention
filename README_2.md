@@ -179,6 +179,7 @@ If you find this repository useful, please consider citing this list:
 * **LAST-PCL**: "Language-Assisted 3D Scene Understanding", AAAI, 2024 (*Peking*). [[Paper](https://arxiv.org/abs/2312.11451)][[Code (in construction)](https://github.com/yanmin-wu/LAST-PCL)]
 * **MM-Point**: "MM-Point: Multi-View Information-Enhanced Multi-Modal Self-Supervised 3D Point Cloud Understanding", AAAI, 2024 (*Southeast University, China*). [[Paper](https://arxiv.org/abs/2402.10002)]
 * **DAPT**: "Dynamic Adapter Meets Prompt Tuning: Parameter-Efficient Transfer Learning for Point Cloud Analysis", CVPR, 2024 (*Huazhong University of Science and Technology (HUST)*). [[Paper](https://arxiv.org/abs/2403.01439)][[PyTorch](https://github.com/LMD0311/DAPT)]
+* **UniPVU-Human**: "A Unified Framework for Human-centric Point Cloud Video Understanding", CVPR, 2024 (*ShanghaiTech*). [[Paper](https://arxiv.org/abs/2403.20031)]
 * **PointMamba**: "PointMamba: A Simple State Space Model for Point Cloud Analysis", arXiv, 2024 (*Huazhong University of Science and Technology*). [[Paper](https://arxiv.org/abs/2402.10739)][[PyTorch](https://github.com/LMD0311/PointMamba)]
 * **Swin3D++**: "Swin3D++: Effective Multi-Source Pretraining for 3D Indoor Scene Understanding", arXiv, 2024 (*Microsoft*). [[Paper](https://arxiv.org/abs/2402.14215)]
 * **PCM**: "Point Could Mamba: Point Cloud Learning via State Space Model", arXiv, 2024 (*Skywork AI, China*). [[Paper](https://arxiv.org/abs/2403.00762)][[Code (in construction)](https://github.com/zhang-tao-whu/PCM)]
@@ -761,7 +762,6 @@ If you find this repository useful, please consider citing this list:
     * **D<sup>3</sup>Former**: "D<sup>3</sup>Former: Debiased Dual Distilled Transformer for Incremental Learning", arXiv, 2022 (*MBZUAI*). [[Paper](https://arxiv.org/abs/2208.00777)][[PyTorch](https://github.com/abdohelmy/D-3Former)]
     * **Continual-CLIP**: "CLIP model is an Efficient Continual Learner", arXiv, 2022 (*MBZUAI*). [[Paper](https://arxiv.org/abs/2210.03114)][[Code (in construction)](https://github.com/vgthengane/Continual-CLIP)]
     * **GCAB-CFDC**: "Gated Class-Attention with Cascaded Feature Drift Compensation for Exemplar-free Continual Learning of Vision Transformers", arXiv, 2022 (*University of Pavia, Italy*). [[Paper](https://arxiv.org/abs/2211.12292)][[Code (in construction)](https://github.com/OcraM17/GCAB-CFDC)]
-    * **CODA-Prompt**: "CODA-Prompt: COntinual Decomposed Attention-based Prompting for Rehearsal-Free Continual Learning", arXiv, 2022 (*IBM*). [[Paper](https://arxiv.org/abs/2211.13218)]
     * **PIVOT**: "PIVOT: Prompting for Video Continual Learning", arXiv, 2022 (*KAUST*). [[Paper](https://arxiv.org/abs/2212.04842)]
     * **AttriCLIP**: "AttriCLIP: A Non-Incremental Learner for Incremental Knowledge Learning", CVPR, 2023 (*Beihang University*). [[Paper](https://arxiv.org/abs/2305.11488)][[PyTorch](https://github.com/bhrqw/AttriCLIP)]
     * **DKT**: "DKT: Diverse Knowledge Transfer Transformer for Class Incremental Learning", CVPR, 2023 (*Xi'an Jiaotong*). [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Gao_DKT_Diverse_Knowledge_Transfer_Transformer_for_Class_Incremental_Learning_CVPR_2023_paper.html)][[Code (in construction)](https://github.com/MIV-XJTU/DKT)]
@@ -789,6 +789,7 @@ If you find this repository useful, please consider citing this list:
     * **GMM**: "Generative Multi-modal Models are Good Class-Incremental Learners", CVPR, 2024 (*Nankai University*). [[Paper](https://arxiv.org/abs/2403.18383)][[PyTorch](https://github.com/DoubleClass/GMM)]
     * **GS-LoRA**: "Continual Forgetting for Pre-trained Vision Models", CVPR, 2024 (*CAS*). [[Paper](https://arxiv.org/abs/2403.11530)][[PyTorch](https://github.com/bjzhb666/GS-LoRA)]
     * **MoE-Adapters**: "Boosting Continual Learning of Vision-Language Models via Mixture-of-Experts Adapters", CVPR, 2024 (*Dalian University of Technology*). [[Paper](https://arxiv.org/abs/2403.11549)][[PyTorch](https://github.com/JiazuoYu/MoE-Adapters4CL)]
+    * **ConvPrompt**: "Convolutional Prompting meets Language Models for Continual Learning", CVPR, 2024 (*IIT Kharagpur*). [[Paper](https://arxiv.org/abs/2403.20317)][[Website](https://cvir.github.io/projects/convprompt)]
 * Long-tail/Imbalanced:
     * **BatchFormer**: "BatchFormer: Learning to Explore Sample Relationships for Robust Representation Learning", CVPR, 2022 (*The University of Sydney*). [[Paper](https://arxiv.org/abs/2203.01522)][[PyTorch](https://github.com/zhihou7/BatchFormer)]
     * **BatchFormerV2**: "BatchFormerV2: Exploring Sample Relationships for Dense Representation Learning", arXiv, 2022 (*The University of Sydney*). [[Paper](https://arxiv.org/abs/2204.01254)]
@@ -1581,6 +1582,7 @@ If you find this repository useful, please consider citing this list:
 * **?**: "Can GPT-4V(ision) Serve Medical Applications? Case Studies on GPT-4V for Multimodal Medical Diagnosis", arXiv, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2310.09909)][[GitHub](https://github.com/chaoyi-wu/GPT-4V_Medical_Evaluation)]
 * **CLIP-MUSED**: "CLIP-MUSED: CLIP-Guided Multi-Subject Visual Neural Information Semantic Decoding", ICLR, 2024 (*CAS*). [[Paper](https://arxiv.org/abs/2402.08994)][[PyTorch](https://github.com/CLIP-MUSED/CLIP-MUSED)]
 * **MAVL**: "Decomposing Disease Descriptions for Enhanced Pathology Detection: A Multi-Aspect Vision-Language Matching Framework", CVPR, 2024 (*University of Adelaide*). [[Paper](https://arxiv.org/abs/2403.07636)][[PyTorch](https://github.com/HieuPhan33/MAVL)]
+* **FairCLIP**: "FairCLIP: Harnessing Fairness in Vision-Language Learning", CVPR, 2024 (*Harvard*). [[Paper](https://arxiv.org/abs/2403.19949)]
 * **RAD-DINO**: "RAD-DINO: Exploring Scalable Medical Image Encoders Beyond Text Supervision", arXiv, 2024 (*Microsoft*). [[Paper](https://arxiv.org/abs/2401.10815)]
 
 [[Back to Overview](#overview)]
@@ -1846,6 +1848,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **MulT**: "MulT: An End-to-End Multitask Learning Transformer", CVPR, 2022 (*EPFL*). [[Paper](https://arxiv.org/abs/2205.08303)]
     * **UFO**: "UFO: Unified Feature Optimization", ECCV, 2022 (*Baidu*). [[Paper](https://arxiv.org/abs/2207.10341)][[PaddlePaddle](https://github.com/PaddlePaddle/VIMER/tree/main/UFO)]
     * **Painter**: "Images Speak in Images: A Generalist Painter for In-Context Visual Learning", CVPR, 2023 (*BAAI*). [[Paper](https://arxiv.org/abs/2212.02499)][[Code (in construction)](https://github.com/baaivision/Painter)]
+    * **MTLoRA**: "MTLoRA: A Low-Rank Adaptation Approach for Efficient Multi-Task Learning", CVPR, 2024 (*Brown*). [[Paper](https://arxiv.org/abs/2403.20320)][[PyTorch](https://github.com/scale-lab/MTLoRA)]
 * Open Set:
     * **OSR-ViT**: "Open Set Recognition using Vision Transformer with an Additional Detection Head", arXiv, 2022 (*Vanderbilt University, Tennessee*). [[Paper](https://arxiv.org/abs/2203.08441)]
 * Operator Learning for PDEs:
