@@ -1063,6 +1063,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **Gen2Det**: "Gen2Det: Generate to Detect", arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2312.04566)]
     * **ViT-CoMer**: "ViT-CoMer: Vision Transformer with Convolutional Multi-scale Feature Interaction for Dense Predictions", CVPR, 2024 (*Baidu*). [[Paper](https://arxiv.org/abs/2403.07392)][[PyTorch](https://github.com/Traffic-X/ViT-CoMer)]
     * **MS-DETR**: "MS-DETR: Efficient DETR Training with Mixed Supervision", arXiv, 2024 (*Baidu*). [[Paper](https://arxiv.org/abs/2401.03989)][[Code (in construction)](https://github.com/Atten4Vis/MS-DETR)]
+    * **Salience-DETR**: "Salience-DETR: Enhancing Detection Transformer with Hierarchical Salience Filtering Refinement", CVPR, 2024 (*Xi'an Jiaotong University*). [[Paper](https://arxiv.org/abs/2403.16131)][[PyTorch](https://github.com/xiuqhou/Salience-DETR)]
 * Transformer-based backbone:
     * **ViT-FRCNN**: "Toward Transformer-Based Object Detection", arXiv, 2020 (*Pinterest*). [[Paper](https://arxiv.org/abs/2012.09958)]
     * **WB-DETR**: "WB-DETR: Transformer-Based Detector Without Backbone", ICCV, 2021 (*CAS*). [[Paper](https://openaccess.thecvf.com/content/ICCV2021/html/Liu_WB-DETR_Transformer-Based_Detector_Without_Backbone_ICCV_2021_paper.html)]
