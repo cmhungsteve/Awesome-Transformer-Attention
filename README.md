@@ -1324,6 +1324,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **GenerateU**: "Generative Region-Language Pretraining for Open-Ended Object Detection", CVPR, 2024 (*Monash University*). [[Paper](https://arxiv.org/abs/2403.10191)][[PyTorch](https://github.com/FoundationVision/GenerateU)]
     * **MM-Grounding-DINO**: "An Open and Comprehensive Pipeline for Unified Object Grounding and Detection", arXiv, 2024 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2401.02361)][[PyTorch](https://github.com/open-mmlab/mmdetection/tree/main/configs/grounding_dino)]
     * **YOLO-World**: "YOLO-World: Real-Time Open-Vocabulary Object Detection", arXiv, 2024 (*Tencent*). [[Paper](https://arxiv.org/abs/2401.17270)][[Code (in construction)](https://github.com/AILab-CVC/YOLO-World)]
+    * **T-Rex2**: "T-Rex2: Towards Generic Object Detection via Text-Visual Prompt Synergy", arXiv, 2024 (*IDEA*). [[Paper](https://arxiv.org/abs/2403.14610)][[PyTorch](https://github.com/IDEA-Research/T-Rex)][[Website](https://deepdataspace.com/home)]
 * Pedestrian Detection:
     * **PED**: "DETR for Crowd Pedestrian Detection", arXiv, 2020 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2012.06785)][[PyTorch](https://github.com/Hatmm/PED-DETR-for-Pedestrian-Detection)]
     * **?**: "Effectiveness of Vision Transformer for Fast and Accurate Single-Stage Pedestrian Detection", NeurIPS, 2022 (*ICL*). [[Paper](https://openreview.net/forum?id=eow_ZGaw24j)]
@@ -1669,6 +1670,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **LISA++**: "An Improved Baseline for Reasoning Segmentation with Large Language Model", arXiv, 2023 (*CUHK*). [[Paper](https://arxiv.org/abs/2312.17240)]
     * **GROUNDHOG**: "GROUNDHOG: Grounding Large Language Models to Holistic Segmentation", CVPR, 2024 (*Amazon*). [[Paper](https://arxiv.org/abs/2402.16846)][[Website](https://groundhog-mllm.github.io/)]
     * **PSALM**: "PSALM: Pixelwise SegmentAtion with Large Multi-Modal Model", arXiv, 2024 (*Huazhong University of Science and Technology*). [[Paper](https://arxiv.org/abs/2403.14598)][[PyTorch](https://github.com/zamling/PSALM)]
+    * **LLaVASeg**: "Empowering Segmentation Ability to Multi-modal Large Language Models", arXiv, 2024 (*vivo*). [[Paper](https://arxiv.org/abs/2403.14141)]
 * Universal Segmentation:
     * **K-Net**: "K-Net: Towards Unified Image Segmentation", NeurIPS, 2021 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2106.14855)][[PyTorch](https://github.com/ZwwWayne/K-Net/)]
     * **Mask2Former**: "Masked-attention Mask Transformer for Universal Image Segmentation", CVPR, 2022 (*Meta*). [[Paper](https://arxiv.org/abs/2112.01527)][[PyTorch](https://github.com/facebookresearch/Mask2Former)][[Website](https://bowenc0221.github.io/mask2former/)]
@@ -1881,6 +1883,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **SRT**: "Sub-token ViT Embedding via Stochastic Resonance Transformers", arXiv, 2023 (*UCLA*). [[Paper](https://arxiv.org/abs/2310.03967)]
     * **MLoRE**: "Multi-Task Dense Prediction via Mixture of Low-Rank Experts", CVPR, 2024 (*vivo*). [[Paper](https://arxiv.org/abs/2403.17749)]
     * **ODIN**: "ODIN: A Single Model for 2D and 3D Perception", arXiv, 2024 (*CMU*). [[Paper](https://arxiv.org/abs/2401.02416)][[Code (in construction)](https://github.com/ayushjain1144/odin)][[Website](https://odin-seg.github.io/)]
+    * **LiFT**: "LiFT: A Surprisingly Simple Lightweight Feature Transform for Dense ViT Descriptors", arXiv, 2024 (*Maryland*). [[Paper](https://arxiv.org/abs/2403.14625)]
 * Forecasting:
     * **DiffAttn**: "Joint Forecasting of Panoptic Segmentations with Difference Attention", CVPR, 2022 (*UIUC*). [[Paper](https://arxiv.org/abs/2204.07157)][[Code (in construction)](https://github.com/cgraber/psf-diffattn)]
 * LiDAR:
