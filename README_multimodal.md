@@ -304,6 +304,7 @@ If you find this repository useful, please consider citing this list:
     * **Q-ViD**: "Question-Instructed Visual Descriptions for Zero-Shot Video Question Answering", arXiv, 2024 (*MBZUAI*). [[Paper](https://arxiv.org/abs/2402.10698)]
     * **LSTP**: "LSTP: Language-guided Spatial-Temporal Prompt Learning for Long-form Video-Text Understanding", arXiv, 2024 (*BIGAI*). [[Paper](https://arxiv.org/abs/2402.16050)][[PyTorch](https://github.com/bigai-nlco/LSTP-Chat)]
     * **DAM**: "DAM: Dynamic Adapter Merging for Continual Video QA Learning", arXiv, 2024 (*UNC*). [[Paper](https://arxiv.org/abs/2403.08755)][[Code (in construction)](https://github.com/klauscc/DAM)]
+    * **LangRepo**: "Language Repository for Long Video Understanding", arXiv, 2024 (*Stony Brook, NY*). [[Paper](https://arxiv.org/abs/2403.14622)][[PyTorch](https://github.com/kkahatapitiya/LangRepo)]
 * 3D:
     * **3D-VQA**: "CLIP-Guided Vision-Language Pre-training for Question Answering in 3D Scenes", CVPRW, 2023 (*ETHZ*). [[Paper](https://arxiv.org/abs/2304.06061)][[Code (in construction)](https://github.com/AlexDelitzas/3D-VQA)]
     * **PO3D-VQA**: "3D-Aware Visual Question Answering about Parts, Poses and Occlusions", NeurIPS, 2023 (*JHU*). [[Paper](https://arxiv.org/abs/2310.17914)][[Code (in construction)](https://github.com/XingruiWang/3D-Aware-VQA)]
@@ -1044,6 +1045,7 @@ If you find this repository useful, please consider citing this list:
     * **GenHowTo**: "GenHowTo: Learning to Generate Actions and State Transformations from Instructional Videos", arXiv, 2023 (*Czech Technical University*). [[Paper](https://arxiv.org/abs/2312.07322)][[Website](https://soczech.github.io/genhowto/)]
     * **VideoLCM**: "VideoLCM: Video Latent Consistency Model", arXiv, 2023 (*Alibaba*). [[Paper](https://arxiv.org/abs/2312.09109)]
     * **VideoPoet**: "VideoPoet: A Large Language Model for Zero-Shot Video Generation", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2312.14125)][[Website](https://sites.research.google/videopoet/)]
+    * **CMD**: "Efficient Video Diffusion Models via Content-Frame Motion-Latent Decomposition", ICLR, 2024 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2403.14148)][[Website](https://sihyun.me/CMD/)]
     * **MagicVideo-V2**: "MagicVideo-V2: Multi-Stage High-Aesthetic Video Generation", arXiv, 2024 (*ByteDance*). [[Paper](https://arxiv.org/abs/2401.04468)][[Website](https://magicvideov2.github.io/)]
     * **WorldDreamer**: "WorldDreamer: Towards General World Models for Video Generation via Predicting Masked Tokens", arXiv, 2024 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2401.09985)][[Code (in construction)](https://github.com/JeffWang987/WorldDreamer)][[Website](https://world-dreamer.github.io/)]
     * **Vlogger**: "Vlogger: Make Your Dream A Vlog", arXiv, 2024 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2401.09414)][[PyTorch](https://github.com/zhuangshaobin/Vlogger)]
@@ -1731,6 +1733,7 @@ If you find this repository useful, please consider citing this list:
     * **SQ-LLaVA**: "SQ-LLaVA: Self-Questioning for Large Vision-Language Assistant", arXiv, 2024 (*Salesforce*). [[Paper](https://arxiv.org/abs/2403.11299)][[PyTorch](https://github.com/heliossun/SQ-LLaVA)]
     * **Cobra**: "Cobra: Extending Mamba to Multi-Modal Large Language Model for Efficient Inference", arXiv, 2024 (*Westlake University, China*). [[Paper](https://arxiv.org/abs/2403.14520)][[PyTorch](https://github.com/h-zhao1997/cobra)][[Website](https://sites.google.com/view/cobravlm)]
     * **TinyLLaVA**: "TinyLLaVA: A Framework of Small-scale Large Multimodal Models", arXiv, 2024 (*Beihang University*). [[Paper](https://arxiv.org/abs/2402.14289)][[PyTorch](https://github.com/DLCV-BUAA/TinyLLaVABench)]
+    * **MathVerse**: "MathVerse: Does Your Multi-modal LLM Truly See the Diagrams in Visual Math Problems?", arXiv, 2024 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2403.14624)][[PyTorch](https://github.com/ZrrSkywalker/MathVerse)][[Website](https://mathverse-cuhk.github.io/)]
 * Conversation (Video):
     * **Video-ChatCaptioner**: "Video ChatCaptioner: Towards the Enriched Spatiotemporal Descriptions", arXiv, 2023 (*KAUST*). [[Paper](https://arxiv.org/abs/2304.04227)][[PyTorch](https://github.com/Vision-CAIR/ChatCaptioner)]
     * **ChatVideo**: "ChatVideo: A Tracklet-centric Multimodal and Versatile Video Understanding System", arXiv, 2023 (*Fudan*). [[Paper](https://arxiv.org/abs/2304.14407)][[Website](https://www.wangjunke.info/ChatVideo/)]
