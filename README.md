@@ -1567,6 +1567,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **Conv-LoRA**: "Convolution Meets LoRA: Parameter Efficient Finetuning for Segment Anything Model", ICLR, 2024 (*Amazon*). [[Paper](https://arxiv.org/abs/2401.17868)][[PyTorch](https://github.com/autogluon/autogluon)]
     * **PerSAM**: "Personalize Segment Anything Model with One Shot", ICLR, 2024 (*CUHK*). [[Paper](https://arxiv.org/abs/2305.03048)][[PyTorch](https://github.com/ZrrSkywalker/Personalize-SAM)]
     * **VRP-SAM**: "VRP-SAM: SAM with Visual Reference Prompt", CVPR, 2024 (*Baidu*). [[Paper](https://arxiv.org/abs/2402.17726)]
+    * **UAD**: "Unsegment Anything by Simulating Deformation", CVPR, 2024 (*NUS*). [[Paper](https://arxiv.org/abs/2404.02585)][[PyTorch](https://github.com/jiahaolu97/anything-unsegmentable)]
     * **BA-SAM**: "BA-SAM: Scalable Bias-Mode Attention Mask for Segment Anything Model", arXiv, 2024 (*Shanghai Jiao Tong*). [[Paper](https://arxiv.org/abs/2401.02317)]
     * **OV-SAM**: "Open-Vocabulary SAM: Segment and Recognize Twenty-thousand Classes Interactively", arXiv, 2024 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2401.02955)][[PyTorch](https://github.com/HarborYuan/ovsam)][[Website](https://www.mmlab-ntu.com/project/ovsam/)]
     * **SSPrompt**: "Learning to Prompt Segment Anything Models", arXiv, 2024 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2401.04651)]
