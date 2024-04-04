@@ -150,6 +150,7 @@ If you find this repository useful, please consider citing this list:
     * **ZeroTA**: "Zero-Shot Dense Video Captioning by Jointly Optimizing Text and Moment", arXiv, 2023 (*KAIST*). [[Paper](https://arxiv.org/abs/2307.02682)]
     * **Video-CSR**: "Video-CSR: Complex Video Digest Creation for Visual-Language Models", arXiv, 2023 (*ByteDance*). [[Paper](https://arxiv.org/abs/2310.05060)]
     * **SCG-SP**: "Set Prediction Guided by Semantic Concepts for Diverse Video Captioning", AAAI, 2024 (*CAS*). [[Paper](https://arxiv.org/abs/2312.15720)]
+    * **DIBS**: "DIBS: Enhancing Dense Video Captioning with Unlabeled Videos via Pseudo Boundary Enrichment and Online Refinement", CVPR, 2024 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2404.02755)]
     * **EgoExoNCE**: "Retrieval-Augmented Egocentric Video Captioning", arXiv, 2024 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2401.00789)]
     * **Video-ReCap**: "Video ReCap: Recursive Captioning of Hour-Long Videos", arXiv, 2024 (*UNC*). [[Paper](https://arxiv.org/abs/2402.13250)][[PyTorch](https://github.com/md-mohaiminul/VideoRecap)][[Website](https://sites.google.com/view/vidrecap)]
 * 3D:
@@ -421,6 +422,7 @@ If you find this repository useful, please consider citing this list:
     * **Grounding-Prompter**: "Grounding-Prompter: Prompting LLM with Multimodal Information for Temporal Sentence Grounding in Long Videos", arXiv, 2023 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2312.17117)]
     * **?**: "Zero-Shot Video Moment Retrieval from Frozen Vision-Language Models", WACV, 2024 (*Queen Mary University of London*). [[Paper](https://arxiv.org/abs/2309.00661)]
     * **SiamGTR**: "Siamese Learning with Joint Alignment and Regression for Weakly-Supervised Video Paragraph Grounding", CVPR, 2024 (*Sun Yat-sen University*). [[Paper](https://arxiv.org/abs/2403.11463)]
+    * **SnAG**: "SnAG: Scalable and Accurate Video Grounding", CVPR, 2024 (*UW-Madison*). [[Paper](https://arxiv.org/abs/2404.02257)]
     * **Video-GroundingDINO**: "Video-GroundingDINO: Towards Open-Vocabulary Spatio-Temporal Video Grounding", arXiv, 2024 (*MBZUAI*). [[Paper](https://arxiv.org/abs/2401.00901)][[Code (in construction)](https://github.com/TalalWasim/Video-GroundingDINO)]
     * **CG-STVG**: "Context-Guided Spatio-Temporal Video Grounding", arXiv, 2024 (*CAS*). [[Paper](https://arxiv.org/abs/2401.01578)][[Code (in construction)](https://github.com/HengLan/CGSTVG)]
     * **LITA**: "LITA: Language Instructed Temporal-Localization Assistant", arXiv, 2024 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2403.19046)][[PyTorch](https://github.com/NVlabs/LITA)]
