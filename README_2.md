@@ -800,6 +800,7 @@ If you find this repository useful, please consider citing this list:
     * **?**: "Exploring Vision-Language Models for Imbalanced Learning", arXiv, 2023 (*Peking University*). [[Paper](https://arxiv.org/abs/2304.01457)][[PyTorch](https://github.com/Imbalance-VLM/Imbalance-VLM)]
     * **LMPT**: "LMPT: Prompt Tuning with Class-Specific Embedding Loss for Long-tailed Multi-Label Visual Recognition", arXiv, 2023 (*Monash University, Australia*). [[Paper](https://arxiv.org/abs/2305.04536)][[PyTorch](https://github.com/richard-peng-xia/LMPT)]
     * **LTGC**: "LTGC: Long-tail Recognition via Leveraging LLMs-driven Generated Content", CVPR, 2024 (*Beijing University of Chemical Technology*). [[Paper](https://arxiv.org/abs/2403.05854)]
+    * **DeiT-LT**: "DeiT-LT: Distillation Strikes Back for Vision Transformer Training on Long-Tailed Datasets", CVPR, 2024 (*Indian Institute of Science, India*). [[Paper](https://arxiv.org/abs/2404.02900)][[PyTorch](https://github.com/val-iisc/DeiT-LT)][[Website](https://rangwani-harsh.github.io/DeiT-LT/)]
 * Knowledge Distillation:
     * **?**: "Knowledge Distillation via the Target-aware Transformer", CVPR, 2022 (*Alibaba*). [[Paper](https://arxiv.org/abs/2205.10793)]
     * **DearKD**: "DearKD: Data-Efficient Early Knowledge Distillation for Vision Transformers", CVPR, 2022 (*JD*). [[Paper](https://arxiv.org/abs/2204.12997)]
@@ -1087,6 +1088,7 @@ If you find this repository useful, please consider citing this list:
 * **GSN**: "GSN: Generalisable Segmentation in Neural Radiance Field", AAAI, 2024 (*IIIT Hyderabad*). [[Paper](https://arxiv.org/abs/2402.04632)][[PyTorch](https://github.com/Vinayak-VG/GSN)][[Website](https://vinayak-vg.github.io/GSN/)]
 * **HDiT**: "Scalable High-Resolution Pixel-Space Image Synthesis with Hourglass Diffusion Transformers", arXiv, 2024 (*Stability AI*). [[Paper](https://arxiv.org/abs/2401.11605)][[Website](https://crowsonkb.github.io/hourglass-diffusion-transformers/)]
 * **ZigMa**: "ZigMa: Zigzag Mamba Diffusion Model", arXiv, 2024 (*LMU Munich*). [[Paper](https://arxiv.org/abs/2403.13802)][[Code (in construction)](https://github.com/CompVis/zigma)][[Website](https://taohu.me/zigma/)]
+* **VAR**: "Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction", arXiv, 2024 (*Bytedance*). [[Paper](https://arxiv.org/abs/2404.02905)][[PyTorch (in construction)](https://github.com/FoundationVision/VAR)][[Website](https://var.vision/)]
 
 [[Back to Overview](#overview)]
 
