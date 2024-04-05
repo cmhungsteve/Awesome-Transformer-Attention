@@ -306,6 +306,7 @@ If you find this repository useful, please consider citing this list:
     * **LSTP**: "LSTP: Language-guided Spatial-Temporal Prompt Learning for Long-form Video-Text Understanding", arXiv, 2024 (*BIGAI*). [[Paper](https://arxiv.org/abs/2402.16050)][[PyTorch](https://github.com/bigai-nlco/LSTP-Chat)]
     * **DAM**: "DAM: Dynamic Adapter Merging for Continual Video QA Learning", arXiv, 2024 (*UNC*). [[Paper](https://arxiv.org/abs/2403.08755)][[Code (in construction)](https://github.com/klauscc/DAM)]
     * **LangRepo**: "Language Repository for Long Video Understanding", arXiv, 2024 (*Stony Brook, NY*). [[Paper](https://arxiv.org/abs/2403.14622)][[PyTorch](https://github.com/kkahatapitiya/LangRepo)]
+    * **LongVLM**: "LongVLM: Efficient Long Video Understanding via Large Language Models", arXiv, 2024 (*Monash*). [[Paper](https://arxiv.org/abs/2404.03384)][[Code (in construction)](https://github.com/ziplab/LongVLM)]
 * 3D:
     * **3D-VQA**: "CLIP-Guided Vision-Language Pre-training for Question Answering in 3D Scenes", CVPRW, 2023 (*ETHZ*). [[Paper](https://arxiv.org/abs/2304.06061)][[Code (in construction)](https://github.com/AlexDelitzas/3D-VQA)]
     * **PO3D-VQA**: "3D-Aware Visual Question Answering about Parts, Poses and Occlusions", NeurIPS, 2023 (*JHU*). [[Paper](https://arxiv.org/abs/2310.17914)][[Code (in construction)](https://github.com/XingruiWang/3D-Aware-VQA)]
@@ -1373,6 +1374,7 @@ If you find this repository useful, please consider citing this list:
     * **FTEA**: "Fully Transformer-Equipped Architecture for End-to-End Referring Video Object Segmentation", arXiv, 2023 (*Hangzhou Dianzi University*). [[Paper](https://arxiv.org/abs/2309.11933)]
     * **UniRef++**: "UniRef++: Segment Every Reference Object in Spatial and Temporal Spaces", arXiv, 2023 (*HKU*). [[Paper](https://arxiv.org/abs/2312.15715)][[PyTorch](https://github.com/FoundationVision/UniRef)]
     * **MUTR**: "Referred by Multi-Modality: A Unified Temporal Transformer for Video Object Segmentation", AAAI, 2024 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2305.16318)][[PyTorch](https://github.com/OpenGVLab/MUTR)]
+    * **DsHmp**: "Decoupling Static and Hierarchical Motion Perception for Referring Video Segmentation", CVPR, 2024 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2404.03645)][[Code (in construction)](https://github.com/heshuting555/DsHmp)]
     * **VD-IT**: "Exploring Pre-trained Text-to-Video Diffusion Models for Referring Video Object Segmentation", arXiv, 2024 (*University at Buffalo, NY*). [[Paper](https://arxiv.org/abs/2403.12042)][[Code (in construction)](https://github.com/buxiangzhiren/VD-IT)]
     * **HTR**: "Towards Temporally Consistent Referring Video Object Segmentation", arXiv, 2024 (*University of Western Australia*). [[Paper](https://arxiv.org/abs/2403.19407)]
 * Referring 3D Segmentation:
@@ -1461,6 +1463,8 @@ If you find this repository useful, please consider citing this list:
     * **VisionaryVid**: "Joint Moment Retrieval and Highlight Detection Via Natural Language Queries", arXiv, 2023 (*Georgia Tech*). [[Paper](https://arxiv.org/abs/2305.04961)][[PyTorch](https://github.com/Skyline-9/Visionary-Vids)]
     * **VIEWS**: "Video Summarization: Towards Entity-Aware Captions", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2312.02188)]
     * **TR-DETR**: "TR-DETR: Task-Reciprocal Transformer for Joint Moment Retrieval and Highlight Detection", AAAI, 2024 (*Central China Normal University*). [[Paper](https://arxiv.org/abs/2401.02309)][[PyTorch](https://github.com/mingyao1120/TR-DETR)]
+    * **TGT**: "Towards Automated Movie Trailer Generation", CVPR, 2024 (*KAUST*). [[Paper](https://arxiv.org/abs/2404.03477)]
+    * **LfVS**: "Scaling Up Video Summarization Pretraining with Large Language Models", CVPR, 2024 (*Adobe*). [[Paper](https://arxiv.org/abs/2404.03398)]
 * Robotics:
     * **CRT**: "Case Relation Transformer: A Crossmodal Language Generation Model for Fetching Instructions", IROS, 2021 (*Keio University*). [[Paper](https://arxiv.org/abs/2107.00789)]
     * **TraSeTR**: "TraSeTR: Track-to-Segment Transformer with Contrastive Query for Instance-level Instrument Segmentation in Robotic Surgery", ICRA, 2022 (*CUHK*). [[Paper](https://arxiv.org/abs/2202.08453)]
@@ -1520,6 +1524,7 @@ If you find this repository useful, please consider citing this list:
     * **GPT4Point**: "GPT4Point: A Unified Framework for Point-Language Understanding and Generation", arXiv, 2023 (*HKU*). [[Paper](https://arxiv.org/abs/2312.02980)][[PyTorch](https://github.com/Pointcept/PointBLIP)][[Website](https://gpt4point.github.io/)]
     * **LangSplat**: "LangSplat: 3D Language Gaussian Splatting", arXiv, 2023 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2312.16084)][[PyTorch](https://github.com/minghanqin/LangSplat)][[Website](https://langsplat.github.io/)]
     * **Open-NeRF**: "Open-NeRF: Towards Open Vocabulary NeRF Decomposition", WACV, 2024 (*UIUC*). [[Paper](https://arxiv.org/abs/2310.16383)]
+    * **OpenNeRF**: "OpenNeRF: Open Set 3D Neural Scene Segmentation with Pixel-Wise Features and Rendered Novel Views", ICLR, 2024 (*Google*). [[Paper](https://arxiv.org/abs/2404.03650)][[PyTorch](https://github.com/opennerf/opennerf)][[Website](https://opennerf.github.io/)]
     * **PPT**: "Parameter-efficient Prompt Learning for 3D Point Cloud Understanding", ICRA, 2024 (*Renmin University of China*). [[Paper](https://arxiv.org/abs/2402.15823)][[PyTorch](https://github.com/auniquesun/PPT)]
     * **TAMM**: "TAMM: TriAdapter Multi-Modal Learning for 3D Shape Understanding", CVPR, 2024 (*UIUC*). [[Paper](https://arxiv.org/abs/2402.18490)][[PyTorch](https://github.com/alanzhangcs/Tamm_Code)][[Website](https://alanzhangcs.github.io/tamm-page/)]
     * **FMGS**: "FMGS: Foundation Model Embedded 3D Gaussian Splatting for Holistic 3D Scene Understanding", arXiv, 2024 (*Google*). [[Paper](https://arxiv.org/abs/2401.01970)]
@@ -1762,6 +1767,7 @@ If you find this repository useful, please consider citing this list:
     * **MovieLLM**: "MovieLLM: Enhancing Long Video Understanding with AI-Generated Movies", arXiv, 2024 (*Tencent*). [[Paper](https://arxiv.org/abs/2403.01422)][[PyTorch](https://github.com/Deaddawn/MovieLLM-code)][[Website](https://deaddawn.github.io/MovieLLM/)]
     * **VURF**: "VURF: A General-purpose Reasoning and Self-refinement Framework for Video Understanding", arXiv, 2024 (*MBZUAI*). [[Paper](https://arxiv.org/abs/2403.14743)]
     * **VideoAgent**: "VideoAgent: A Memory-augmented Multimodal Agent for Video Understanding", arXiv, 2024 (*BIGAI*). [[Paper](https://arxiv.org/abs/2403.11481)][[Website](https://videoagent.github.io/)]
+    * **MiniGPT4-Video**: "MiniGPT4-Video: Advancing Multimodal LLMs for Video Understanding with Interleaved Visual-Textual Tokens", arXiv, 2024 (*KAUST*). [[Paper](https://arxiv.org/abs/2404.03413)][[PyTorch](https://github.com/Vision-CAIR/MiniGPT4-video)][[Website](https://vision-cair.github.io/MiniGPT4-video/)]
 * Conversation (3D):
     * **3D-LLM**: "3D-LLM: Injecting the 3D World into Large Language Models", NeurIPS, 2023 (*UCLA*). [[Paper](https://arxiv.org/abs/2307.12981)][[PyTorch](https://github.com/UMass-Foundation-Model/3D-LLM)][[Website](https://vis-www.cs.umass.edu/3dllm/)]
     * **Chat-3D**: "Chat-3D: Data-efficiently Tuning Large Language Model for Universal Dialogue of 3D Scenes", arXiv, 2023 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2308.08769)][[PyTorch](https://github.com/Chat-3D/Chat-3D)][[Website](https://chat-3d.github.io/)]
