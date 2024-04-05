@@ -979,6 +979,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **RelatiViT**: "Can Transformers Capture Spatial Relations between Objects?", ICLR, 2024 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2403.00729)][[Code (in construction)](https://github.com/AlvinWen428/spatial-relation)][[Website](https://sites.google.com/view/spatial-relation)]
 * **TokenTM**: "Token Transformation Matters: Towards Faithful Post-hoc Explanation for Vision Transformer", CVPR, 2024 (*Illinois Institute of Technology*). [[Paper](https://arxiv.org/abs/2403.14552)]
 * **?**: "A Decade's Battle on Dataset Bias: Are We There Yet?", arXiv, 2024 (*Meta*). [[Paper](https://arxiv.org/abs/2403.08632)][[Code (in construction)](https://github.com/liuzhuang13/bias)]
+* **LeGrad**: "LeGrad: An Explainability Method for Vision Transformers via Feature Formation Sensitivity", arXiv, 2024 (*University of Bonn, Germany*). [[Paper](https://arxiv.org/abs/2404.03214)][[PyTorch](https://github.com/WalBouss/LeGrad)]
 
 [[Back to Overview](#overview)]
 
@@ -2190,6 +2191,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **VideoCutLER**: "VideoCutLER: Surprisingly Simple Unsupervised Video Instance Segmentation", arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2308.14710)][[PyTorch](https://github.com/facebookresearch/CutLER/tree/main/videocutler)]
 * **NOVIS**: "NOVIS: A Case for End-to-End Near-Online Video Instance Segmentation", arXiv, 2023 (*TUM*). [[Paper](https://arxiv.org/abs/2308.15266)]
 * **VISAGE**: "VISAGE: Video Instance Segmentation with Appearance-Guided Enhancement", arXiv, 2023 (*Yonsei*). [[Paper](https://arxiv.org/abs/2312.04885)][[Code (in construction)](https://github.com/KimHanjung/VISAGE)]
+* **OW-VISCap**: "OW-VISCap: Open-World Video Instance Segmentation and Captioning", arXiv, 2024 (*UIUC*). [[Paper](https://arxiv.org/abs/2404.03657)][[Website](https://anwesachoudhuri.github.io/OpenWorldVISCap/)]
 
 [[Back to Overview](#overview)]
 
