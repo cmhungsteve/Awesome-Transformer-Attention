@@ -653,6 +653,7 @@ If you find this repository useful, please consider citing this list:
     * **ASM**: "The All-Seeing Project: Towards Panoptic Visual Recognition and Understanding of the Open World", ICLR, 2024 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2308.01907)][[PyTorch](https://github.com/OpenGVLab/All-Seeing)][[Demo](https://huggingface.co/spaces/OpenGVLab/all-seeing)]
     * **NARVL**: "Non-autoregressive Sequence-to-Sequence Vision-Language Models", CVPR, 2024 (*Amazon*). [[Paper](https://arxiv.org/abs/2403.02249)]
     * **S4**: "Enhancing Vision-Language Pre-training with Rich Supervisions", CVPR, 2024 (*Amazon*). [[Paper](https://arxiv.org/abs/2403.03346)]
+    * **IL-CLIP**: "Iterated Learning Improves Compositionality in Large Vision-Language Models", CVPR, 2024 (*UW*). [[Paper](https://arxiv.org/abs/2404.02145)]
     * **COSMO**: "COSMO: COntrastive Streamlined MultimOdal Model with Interleaved Pre-Training", arXiv, 2024 (*Microsoft*). [[Paper](https://arxiv.org/abs/2401.00849)][[PyTorch](https://github.com/showlab/cosmo)][[Website](https://fingerrec.github.io/cosmo/)]
     * **?**: "Low-Resource Vision Challenges for Foundation Models", arXiv, 2024 (*UvA*). [[Paper](https://arxiv.org/abs/2401.04716)][[Code (in construction)](https://github.com/xiaobai1217/Low-Resource-Vision)][[Website](https://xiaobai1217.github.io/Low-Resource-Vision/)]
     * **UMG-CLIP**: "UMG-CLIP: A Unified Multi-Granularity Vision Generalist for Open-World Understanding", arXiv, 2024 (*Huawei*). [[Paper](https://arxiv.org/abs/2401.06397)]
@@ -1564,6 +1565,7 @@ If you find this repository useful, please consider citing this list:
     * **OV-NeRF**: "OV-NeRF: Open-vocabulary Neural Radiance Fields with Vision and Language Foundation Models for 3D Semantic Understanding", arXiv, 2024 (*Peking*). [[Paper](https://arxiv.org/abs/2402.04648)]
     * **Open3DSG**: "Open3DSG: Open-Vocabulary 3D Scene Graphs from Point Clouds with Queryable Objects and Open-Set Relationships", arXiv, 2024 (*Bosch*). [[Paper](https://arxiv.org/abs/2402.12259)][[Website](https://kochsebastian.com/open3dsg)]
     * **PointSeg**: "PointSeg: A Training-Free Paradigm for 3D Scene Segmentation via Foundation Models", arXiv, 2024 (*Tencent*). [[Paper](https://arxiv.org/abs/2403.06403)]
+    * **SOLE**: "Segment Any 3D Object with Language", arXiv, 2024 (*NUS*). [[Paper](https://arxiv.org/abs/2404.02157)][[Code (in construction)](https://github.com/CVRP-SOLE/SOLE)][[Website](https://cvrp-sole.github.io/)]
 * Speech Recognition:
     * **AV-HuBERT**: "Robust Self-Supervised Audio-Visual Speech Recognition", arXiv, 2022 (*Meta*). [[Paper](https://arxiv.org/abs/2201.01763)][[PyTorch](https://github.com/facebookresearch/av_hubert)]
     * **?**: "Transformer-Based Video Front-Ends for Audio-Visual Speech Recognition", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2201.10439)]
