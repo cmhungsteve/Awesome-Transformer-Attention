@@ -383,6 +383,7 @@ If you find this repository useful, please consider citing this list:
 * **PGT**: "Perceptual Group Tokenizer: Building Perception with Iterative Grouping", arXiv, 2023 (*DeepMind*). [[Paper](https://arxiv.org/abs/2311.18296)]
 * **SCHEME**: "SCHEME: Scalable Channer Mixer for Vision Transformers", arXiv, 2023 (*UCSD*). [[Paper](https://arxiv.org/abs/2312.00412)]
 * **Agent-Attention**: "Agent Attention: On the Integration of Softmax and Linear Attention", arXiv, 2023 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2312.08874)][[PyTorch](https://github.com/LeapLabTHU/Agent-Attention)]
+* **ViTamin**: "ViTamin: Designing Scalable Vision Models in the Vision-Language Era", CVPR, 2024 (*ByteDance*). [[Paper](https://arxiv.org/abs/2404.02132)][[PyTorch](https://github.com/Beckschen/ViTamin)]
 * **HIRI-ViT**: "HIRI-ViT: Scaling Vision Transformer with High Resolution Inputs", TPAMI, 2024 (*HiDream.ai, China*). [[Paper](https://arxiv.org/abs/2403.11999)]
 * **SPFormer**: "SPFormer: Enhancing Vision Transformer with Superpixel Representation", arXiv, 2024 (*JHU*). [[Paper](https://arxiv.org/abs/2401.02931)]
 * **manifold-K**: "A Manifold Representation of the Key in Vision Transformers", arXiv, 2024 (*University of Oslo, Norway*). [[Paper](https://arxiv.org/abs/2402.00534)]
@@ -978,6 +979,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **?**: "Attention Guided CAM: Visual Explanations of Vision Transformer Guided by Self-Attention", AAAI, 2024 (*Korea Institute of Science and Technology (KIST)*). [[Paper](https://arxiv.org/abs/2402.04563)][[PyTorch](https://github.com/LeemSaebom/Attention-Guided-CAM-Visual-Explanations-of-Vision-Transformer-Guided-by-Self-Attention)]
 * **RelatiViT**: "Can Transformers Capture Spatial Relations between Objects?", ICLR, 2024 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2403.00729)][[Code (in construction)](https://github.com/AlvinWen428/spatial-relation)][[Website](https://sites.google.com/view/spatial-relation)]
 * **TokenTM**: "Token Transformation Matters: Towards Faithful Post-hoc Explanation for Vision Transformer", CVPR, 2024 (*Illinois Institute of Technology*). [[Paper](https://arxiv.org/abs/2403.14552)]
+* **SaCo**: "On the Faithfulness of Vision Transformer Explanations", CVPR, 2024 (*Illinois Institute of Technology*). [[Paper](https://arxiv.org/abs/2404.01415)]
 * **?**: "A Decade's Battle on Dataset Bias: Are We There Yet?", arXiv, 2024 (*Meta*). [[Paper](https://arxiv.org/abs/2403.08632)][[Code (in construction)](https://github.com/liuzhuang13/bias)]
 * **LeGrad**: "LeGrad: An Explainability Method for Vision Transformers via Feature Formation Sensitivity", arXiv, 2024 (*University of Bonn, Germany*). [[Paper](https://arxiv.org/abs/2404.03214)][[PyTorch](https://github.com/WalBouss/LeGrad)]
 
@@ -1662,6 +1664,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **OpenSD**: "OpenSD: Unified Open-Vocabulary Segmentation and Detection", arXiv, 2023 (*OPPO*). [[Paper](https://arxiv.org/abs/2312.06703)]
     * **CLIP-DINOiser**: "CLIP-DINOiser: Teaching CLIP a few DINO tricks", arXiv, 2023 (*Warsaw University of Technology, Poland*). [[Paper](https://arxiv.org/abs/2312.12359)][[PyTorch](https://github.com/wysoczanska/clip_dinoiser)]
     * **TagAlign**: "TagAlign: Improving Vision-Language Alignment with Multi-Tag Classification", arXiv, 2023 (*Ant Group*). [[Paper](https://arxiv.org/abs/2312.14149)][[PyTorch](https://github.com/Qinying-Liu/TagAlign)][[Website](https://qinying-liu.github.io/Tag-Align/)]
+    * **OVFoodSeg**: "OVFoodSeg: Elevating Open-Vocabulary Food Image Segmentation via Image-Informed Textual Representation", CVPR, 2024 (*Singapore Management University (SMU)*). [[Paper](https://arxiv.org/abs/2404.01409)]
     * **S-Seg**: "Exploring Simple Open-Vocabulary Semantic Segmentation", arXiv, 2024 (*Oxford*). [[Paper](https://arxiv.org/abs/2401.12217)][[Code (in construction)](https://github.com/zlai0/S-Seg)]
     * **PosSAM**: "PosSAM: Panoptic Open-vocabulary Segment Anything", arXiv, 2024 (*Qualcomm*). [[Paper](https://arxiv.org/abs/2403.09620)]][[Code (in construction)](https://github.com/Vibashan/PosSAM)][[Website](https://vibashan.github.io/possam-web/)]
 * LLM-based:
@@ -2192,6 +2195,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **NOVIS**: "NOVIS: A Case for End-to-End Near-Online Video Instance Segmentation", arXiv, 2023 (*TUM*). [[Paper](https://arxiv.org/abs/2308.15266)]
 * **VISAGE**: "VISAGE: Video Instance Segmentation with Appearance-Guided Enhancement", arXiv, 2023 (*Yonsei*). [[Paper](https://arxiv.org/abs/2312.04885)][[Code (in construction)](https://github.com/KimHanjung/VISAGE)]
 * **OW-VISCap**: "OW-VISCap: Open-World Video Instance Segmentation and Captioning", arXiv, 2024 (*UIUC*). [[Paper](https://arxiv.org/abs/2404.03657)][[Website](https://anwesachoudhuri.github.io/OpenWorldVISCap/)]
+* **PointVIS**: "What is Point Supervision Worth in Video Instance Segmentation?", arXiv, 2024 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2404.01990)]
 
 [[Back to Overview](#overview)]
 
