@@ -621,6 +621,7 @@ If you find this repository useful, please consider citing this list:
 * **HiLo**: "HiLo: Exploiting High Low Frequency Relations for Unbiased Panoptic Scene Graph Generation", ICCV, 2023 (*King's College London*). [[Paper](https://arxiv.org/abs/2303.15994)][[PyTorch](https://github.com/franciszzj/HiLo)]
 * **SGTR+**: "SGTR+: End-to-end Scene Graph Generation with Transformer", TPAMI, 2023 (*ShanghaiTech*). [[Paper](https://arxiv.org/abs/2401.12835)][[PyTorch](https://github.com/Scarecrow0/SGTR)]
 * **SGT**: "Revisiting Transformer for Point Cloud-based 3D Scene Graph Generation", arXiv, 2023 (*Beijing University of Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2303.11048)]
+* **EGTR**: "EGTR: Extracting Graph from Transformer for Scene Graph Generation", CVPR, 2024 (*NAVER*). [[Paper](https://arxiv.org/abs/2404.02072)][[Code (in construction)](https://github.com/naver-ai/egtr)]
 
 [[Back to Overview](#overview)]
 
@@ -792,6 +793,7 @@ If you find this repository useful, please consider citing this list:
     * **GS-LoRA**: "Continual Forgetting for Pre-trained Vision Models", CVPR, 2024 (*CAS*). [[Paper](https://arxiv.org/abs/2403.11530)][[PyTorch](https://github.com/bjzhb666/GS-LoRA)]
     * **MoE-Adapters**: "Boosting Continual Learning of Vision-Language Models via Mixture-of-Experts Adapters", CVPR, 2024 (*Dalian University of Technology*). [[Paper](https://arxiv.org/abs/2403.11549)][[PyTorch](https://github.com/JiazuoYu/MoE-Adapters4CL)]
     * **ConvPrompt**: "Convolutional Prompting meets Language Models for Continual Learning", CVPR, 2024 (*IIT Kharagpur*). [[Paper](https://arxiv.org/abs/2403.20317)][[Website](https://cvir.github.io/projects/convprompt)]
+    * **PriViLege**: "Pre-trained Vision and Language Transformers Are Few-Shot Incremental Learners", CVPR, 2024 (*Kyung Hee University*). [[Paper](https://arxiv.org/abs/2404.02117)][[Code (in construction)](https://github.com/KHU-AGI/PriViLege)]
 * Long-tail/Imbalanced:
     * **BatchFormer**: "BatchFormer: Learning to Explore Sample Relationships for Robust Representation Learning", CVPR, 2022 (*The University of Sydney*). [[Paper](https://arxiv.org/abs/2203.01522)][[PyTorch](https://github.com/zhihou7/BatchFormer)]
     * **BatchFormerV2**: "BatchFormerV2: Exploring Sample Relationships for Dense Representation Learning", arXiv, 2022 (*The University of Sydney*). [[Paper](https://arxiv.org/abs/2204.01254)]
@@ -859,6 +861,7 @@ If you find this repository useful, please consider citing this list:
     * **MPerceiver**: "Multimodal Prompt Perceiver: Empower Adaptiveness, Generalizability and Fidelity for All-in-One Image Restoration", arXiv, 2023 (*CAS*). [[Paper](https://arxiv.org/abs/2312.02918)]
     * **TIP**: "TIP: Text-Driven Image Processing with Semantic and Restoration Instructions", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2312.11595)][[Website](https://chenyangqiqi.github.io/tip/)]
     * **VmambaIR**: "VmambaIR: Visual State Space Model for Image Restoration", arXiv, 2024 (*ByteDance*). [[Paper](https://arxiv.org/abs/2403.11423)][[Code (in construction)](https://github.com/AlphacatPlus/VmambaIR)]
+    * **DyNet**: "Dynamic Pre-training: Towards Efficient and Scalable All-in-One Image Restoration", arXiv, 2024 (*MBZUAI*). [[Paper](https://arxiv.org/abs/2404.02154)][[Code (in construction)](https://github.com/akshaydudhane16/DyNet)]
 * Super-Resolution:
     * **SAN**: "Second-Order Attention Network for Single Image Super-Resolution", CVPR, 2019 (*Tsinghua*). [[Paper](https://openaccess.thecvf.com/content_CVPR_2019/html/Dai_Second-Order_Attention_Network_for_Single_Image_Super-Resolution_CVPR_2019_paper.html)][[PyTorch](https://github.com/daitao/SAN)]
     * **CS-NL**: "Image Super-Resolution with Cross-Scale Non-Local Attention and Exhaustive Self-Exemplars Mining", CVPR, 2020 (*UIUC*). [[Paper](https://arxiv.org/abs/2006.01424)][[PyTorch](https://github.com/SHI-Labs/Cross-Scale-Non-Local-Attention)]
