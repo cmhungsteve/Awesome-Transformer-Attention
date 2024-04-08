@@ -1963,6 +1963,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
 * Spike:
     * **Spikformer**: "Spikformer: When Spiking Neural Network Meets Transformer", arXiv, 2022 (*Peking*). [[Paper](https://arxiv.org/abs/2209.15425)]
     * **SDSA**: "Spike-driven Transformer", NeurIPS, 2023 (*CAS*). [[Paper](https://arxiv.org/abs/2307.01694)][[PyTorch](https://github.com/BICLab/Spike-Driven-Transformer)]
+    * **Meta-SpikeFormer**: "Spike-driven Transformer V2: Meta Spiking Neural Network Architecture Inspiring the Design of Next-generation Neuromorphic Chips", ICLR, 2024 (*CAS*). [[Paper](https://arxiv.org/abs/2404.03663)][[PyTorch](https://github.com/BICLab/Spike-Driven-Transformer-V2)]
 * Stereo:
     * **STTR**: "Revisiting Stereo Depth Estimation From a Sequence-to-Sequence Perspective with Transformers", ICCV, 2021 (*Johns Hopkins*). [[Paper](https://arxiv.org/abs/2011.02910)][[PyTorch](https://github.com/mli0603/stereo-transformer)]
     * **PS-Transformer**: "PS-Transformer: Learning Sparse Photometric Stereo Network using Self-Attention Mechanism", BMVC, 2021 (*National Institute of Informatics, JAPAN*). [[Paper](https://arxiv.org/abs/2211.11386)][[PyTorch](https://github.com/satoshi-ikehata/PS-Transformer-BMVC2021)]
@@ -2190,6 +2191,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **?**: "Fully-attentive and interpretable: vision and video vision transformers for pain detection", NeurIPSW, 2022 (*Utrecht University, Netherlands*). [[Paper](https://arxiv.org/abs/2210.15769)][[Code (in construction)](https://github.com/IPDTFE/ViT-McMaster)]
     * **CQFormer**: "Name Your Colour For the Task: Artificially Discover Colour Naming via Colour Quantisation Transformer", ICCV, 2023 (*Shanghai Jiao Tong*). [[Paper](https://arxiv.org/abs/2212.03434)][[PyTorch](https://github.com/ryeocthiv/CQFormer)]
     * **CircuitFormer**: "Circuit as Set of Points", NeurIPS, 2023 (*Horizon Robotics*). [[Paper](https://arxiv.org/abs/2310.17418)][[PyTorch](https://github.com/hustvl/circuitformer)]
+    * **SleepVST**: "SleepVST: Sleep Staging from Near-Infrared Video Signals using Pre-Trained Transformers", CVPR, 2024 (*Oxford*). [[Paper](https://arxiv.org/abs/2404.03831)]
 
 [[Back to Overview](#overview)]
 
