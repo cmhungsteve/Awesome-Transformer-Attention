@@ -1325,6 +1325,7 @@ If you find this repository useful, please consider citing this list:
 * **VLN-Video**: "VLN-Video: Utilizing Driving Videos for Outdoor Vision-and-Language Navigation", AAAI, 2024 (*Amazon*). [[Paper](https://arxiv.org/abs/2402.03561)]
 * **MemoNav**: "MemoNav: Working Memory Model for Visual Navigation", CVPR, 2024 (*CAS*). [[Paper](https://arxiv.org/abs/2402.19161)]
 * **OVER-NAV**: "OVER-NAV: Elevating Iterative Vision-and-Language Navigation with Open-Vocabulary Detection and StructurEd Representation", CVPR, 2024 (*HKU*). [[Paper](https://arxiv.org/abs/2403.17334)]
+* **HNR**: "Lookahead Exploration with Neural Radiance Representation for Continuous Vision-Language Navigation", CVPR, 2024 (*CAS*). [[Paper](https://arxiv.org/abs/2404.01943)][[Code (in construction)](https://github.com/MrZihan/HNR-VLN)]
 * **MapGPT**: "MapGPT: Map-Guided Prompting for Unified Vision-and-Language Navigation", arXiv, 2024 (*HKU*). [[Paper](https://arxiv.org/abs/2401.07314)]
 * **V-IRL**: "V-IRL: Grounding Virtual Intelligence in Real Life", arXiv, 2024 (*NYU*). [[Paper](https://arxiv.org/abs/2402.03310)][[PyTorch (in construction)](https://github.com/VIRL-Platform/VIRL)][[Website](https://virl-platform.github.io/)]
 
@@ -1677,6 +1678,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **Talk2BEV**: "Talk2BEV: Language-enhanced Bird's-eye View Maps for Autonomous Driving", arXiv, 2023 (*IIIT Hyderabad*). [[Paper](https://arxiv.org/abs/2310.02251)][[Code](https://github.com/llmbev/talk2bev)][[Website](https://llmbev.github.io/talk2bev/)]
     * **SparseOcc**: "Fully Sparse 3D Panoptic Occupancy Prediction", arXiv, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2312.17118)]
     * **CLIP-BEVFormer**: "CLIP-BEVFormer: Enhancing Multi-View Image-Based BEV Detector with Ground Truth Flow", CVPR, 2024 (*Bosch*). [[Paper](https://arxiv.org/abs/2403.08919)]
+    * **TaDe**: "Improving Bird's Eye View Semantic Segmentation by Task Decomposition", CVPR, 2024 (*Wuhan University*). [[Paper](https://arxiv.org/abs/2404.01925)][[Code (in construction)](https://github.com/happytianhao/TaDe)]
 * Biology:
     * **?**: "A State-of-the-art Survey of Object Detection Techniques in Microorganism Image Analysis: from Traditional Image Processing and Classical Machine Learning to Current Deep Convolutional Neural Networks and Potential Visual Transformers", arXiv, 2021 (*Northeastern University*). [[Paper](https://arxiv.org/abs/2105.03148)]
 * Brain Score:
