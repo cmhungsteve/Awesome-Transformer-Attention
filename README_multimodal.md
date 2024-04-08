@@ -307,6 +307,7 @@ If you find this repository useful, please consider citing this list:
     * **DAM**: "DAM: Dynamic Adapter Merging for Continual Video QA Learning", arXiv, 2024 (*UNC*). [[Paper](https://arxiv.org/abs/2403.08755)][[Code (in construction)](https://github.com/klauscc/DAM)]
     * **LangRepo**: "Language Repository for Long Video Understanding", arXiv, 2024 (*Stony Brook, NY*). [[Paper](https://arxiv.org/abs/2403.14622)][[PyTorch](https://github.com/kkahatapitiya/LangRepo)]
     * **LongVLM**: "LongVLM: Efficient Long Video Understanding via Large Language Models", arXiv, 2024 (*Monash*). [[Paper](https://arxiv.org/abs/2404.03384)][[Code (in construction)](https://github.com/ziplab/LongVLM)]
+    * **TraveLER**: "TraveLER: A Multi-LMM Agent Framework for Video Question-Answering", arXiv, 2024 (*Berkeley*). [[Paper](https://arxiv.org/abs/2404.01476)]
 * 3D:
     * **3D-VQA**: "CLIP-Guided Vision-Language Pre-training for Question Answering in 3D Scenes", CVPRW, 2023 (*ETHZ*). [[Paper](https://arxiv.org/abs/2304.06061)][[Code (in construction)](https://github.com/AlexDelitzas/3D-VQA)]
     * **PO3D-VQA**: "3D-Aware Visual Question Answering about Parts, Poses and Occlusions", NeurIPS, 2023 (*JHU*). [[Paper](https://arxiv.org/abs/2310.17914)][[Code (in construction)](https://github.com/XingruiWang/3D-Aware-VQA)]
@@ -762,6 +763,7 @@ If you find this repository useful, please consider citing this list:
     * **3DVLP**: "Vision-Language Pre-training with Object Contrastive Learning for 3D Scene Understanding", arXiv, 2023 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2305.10714)]
     * **CLIPXPlore**: "CLIPXPlore: Coupled CLIP and Shape Spaces for 3D Shape Exploration", arXiv, 2023 (*CUHK*). [[Paper](https://arxiv.org/abs/2306.08226)]
     * **Point-PEFT**: "Point-PEFT: Parameter-Efficient Fine-Tuning for 3D Pre-trained Models", arXiv, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2310.03059)][[PyTorch](https://github.com/EvenJoker/Point-PEFT)]
+    * **SUGAR**: "SUGAR: Pre-training 3D Visual Representations for Robotics", CVPR, 2024 (*INRIA*). [[Paper](https://arxiv.org/abs/2404.01491)][[Website](https://cshizhe.github.io/projects/robot_sugar.html)]
 * Vision-Audio-Text:
     * **VATT**: "VATT: Transformers for Multimodal Self-Supervised Learning from Raw Video, Audio and Text", NeurIPS, 2021 (*Google*). [[Paper](https://arxiv.org/abs/2104.11178)][[Tensorflow](https://github.com/google-research/google-research/tree/master/vatt)]
     * **VideoCC**: "Learning Audio-Video Modalities from Image Captions", ECCV, 2022 (*Google*). [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/4217_ECCV_2022_paper.php)][[Website](https://a-nagrani.github.io/videocc.html)]
