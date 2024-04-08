@@ -1213,6 +1213,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **UniHOI**: "Detecting Any Human-Object Interaction Relationship: Universal HOI Detector with Spatial Prompt Learning on Foundation Models", NeurIPS, 2023 (*Southeast University*). [[Paper](https://arxiv.org/abs/2311.03799)][[Code (in construction)](https://github.com/Caoyichao/UniHOI)]
 * **LogicHOI**: "Neural-Logic Human-Object Interaction Detection", NeurIPS, 2023 (*University of Technology Sydney*). [[Paper](https://arxiv.org/abs/2311.09817)][[Code (in construction)](https://github.com/weijianan1/LogicHOI)]
 * **?**: "Exploiting CLIP for Zero-shot HOI Detection Requires Knowledge Distillation at Multiple Levels", arXiv, 2023 (*KU Leuven*). [[Paper](https://arxiv.org/abs/2309.05069)]
+* **DP-HOI**: "Disentangled Pre-training for Human-Object Interaction Detection", CVPR, 2024 (*South China University of Technology*). [[Paper](https://arxiv.org/abs/2404.01725)][[Code (in construction)](https://github.com/xingaoli/DP-HOI)]
 
 [[Back to Overview](#overview)]
 
@@ -1258,6 +1259,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **SimDETR**: "SimDETR: Simplifying self-supervised pretraining for DETR", arXiv, 2023 (*Samsung*). [[Paper](https://arxiv.org/abs/2307.15697)]
     * **U2Seg**: "Unsupervised Universal Image Segmentation", arXiv, 2023 (*Berkely*). [[Paper](https://arxiv.org/abs/2312.17243)][[PyTorch](https://github.com/u2seg/U2Seg)]
     * **CuVLER**: "CuVLER: Enhanced Unsupervised Object Discoveries through Exhaustive Self-Supervised Transformers", CVPR, 2024 (*Technion - Israel Institute of Technology*). [[Paper](https://arxiv.org/abs/2403.07700)][[PyTorch](https://github.com/shahaf-arica/CuVLER)]
+    * **Sparse-Semi-DETR**: "Sparse Semi-DETR: Sparse Learnable Queries for Semi-Supervised Object Detection", CVPR, 2024 (*DFKI, Germany*). [[Paper](https://arxiv.org/abs/2404.01819)]
 * X-Shot Object Detection:
     * **AIT**: "Adaptive Image Transformer for One-Shot Object Detection", CVPR, 2021 (*Academia Sinica*). [[Paper](https://openaccess.thecvf.com/content/CVPR2021/html/Chen_Adaptive_Image_Transformer_for_One-Shot_Object_Detection_CVPR_2021_paper.html)]
     * **Meta-DETR**: "Meta-DETR: Few-Shot Object Detection via Unified Image-Level Meta-Learning", arXiv, 2021 (*NTU Singapore*). [[Paper](https://arxiv.org/abs/2103.11731)][[PyTorch](https://github.com/ZhangGongjie/Meta-DETR)]
@@ -2161,6 +2163,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **M<sup>3</sup>T**: "M<sup>3</sup>T: Multi-Scale Memory Matching for Video Object Segmentation and Tracking", arXiv, 2023 (*UBC*). [[Paper](https://arxiv.org/abs/2312.08514)]
 * **?**: "Appearance-based Refinement for Object-Centric Motion Segmentation", arXiv, 2023 (*Oxford*). [[Paper](https://arxiv.org/abs/2312.11463)]
 * **DATTT**: "Depth-aware Test-Time Training for Zero-shot Video Object Segmentation", CVPR, 2024 (*University of Macau*). [[Paper](https://arxiv.org/abs/2403.04258)][[PyTorch](https://github.com/NiFangBaAGe/DATTT)][[Website](https://nifangbaage.github.io/DATTT/)]
+* **LLE-VOS**: "Event-assisted Low-Light Video Object Segmentation", CVPR, 2024 (*USTC*). [[Paper](https://arxiv.org/abs/2404.01945)]
 * **Point-VOS**: "Point-VOS: Pointing Up Video Object Segmentation", arXiv, 2024 (*RWTH Aachen University, Germany*). [[Paper](https://arxiv.org/abs/2402.05917)][[Website](https://pointvos.github.io/)]
 * **MAVOS**: "Efficient Video Object Segmentation via Modulated Cross-Attention Memory", arXiv, 2024 (*MBZUAI*). [[Paper](https://arxiv.org/abs/2403.17937)][[Code (in construction)](https://github.com/Amshaker/MAVOS)]
 
@@ -2310,6 +2313,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **EZ-CLIP**: "EZ-CLIP: Efficient Zeroshot Video Action Recognition", arXiv, 2023 (*Østfold University College, Norway*). [[Paper](https://arxiv.org/abs/2312.08010)][[PyTorch (in construction)](https://github.com/Shahzadnit/EZ-CLIP)]
     * **M<sup>2</sup>-CLIP**: "M<sup>2</sup>-CLIP: A Multimodal, Multi-task Adapting Framework for Video Action Recognition", AAAI, 2024 (*Zhejiang*). [[Paper](https://arxiv.org/abs/2401.11649)]
     * **FROSTER**: "FROSTER: Frozen CLIP Is A Strong Teacher for Open-Vocabulary Action Recognition", ICLR, 2024 (*Baidu*). [[Paper](https://arxiv.org/abs/2402.03241)][[PyTorch](https://github.com/Visual-AI/FROSTER)][[Website](https://visual-ai.github.io/froster/)]
+    * **LaIAR**: "Language Model Guided Interpretable Video Action Reasoning", CVPR, 2024 (*Xidian University*). [[Paper](https://arxiv.org/abs/2404.01591)][[Code (in construction)](https://github.com/NingWang2049/LaIAR)]
     * **BriVIS**: "Instance Brownian Bridge as Texts for Open-vocabulary Video Instance Segmentation", arXiv, 2024 (*Peking*). [[Paper](https://arxiv.org/abs/2401.09732)][[PyTorch (in construction)](https://github.com/sennnnn/OpenVIS)]
     * **ActionHub**: "ActionHub: A Large-scale Action Video Description Dataset for Zero-shot Action Recognition", arXiv, 2024 (*Sun Yat-sen University*). [[Paper](https://arxiv.org/abs/2401.11654)]
     * **ZERO**: "Zero Shot Open-ended Video Inference", arXiv, 2024 (*A\*STAR*). [[Paper](https://arxiv.org/abs/2401.12471)]
@@ -2401,13 +2405,14 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **DALL-V**: "The Unreasonable Effectiveness of Large Language-Vision Models for Source-free Video Domain Adaptation", ICCV, 2023 (*University of Trento*). [[Paper](https://arxiv.org/abs/2308.09139)][[PyTorch](https://github.com/giaczara/dallv)]
 * Multi-Camera Editing:
     * **TC-Transformer**: "Temporal and Contextual Transformer for Multi-Camera Editing of TV Shows", ECCVW, 2022 (*CUHK*). [[Paper](https://arxiv.org/abs/2210.08737)]
-* Instructional Video:
+* Instructional/Procedural Video:
     * **ProcedureVRL**: "Learning Procedure-aware Video Representation from Instructional Videos and Their Narrations", CVPR, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2303.17839)]
     * **Paprika**: "Procedure-Aware Pretraining for Instructional Video Understanding", CVPR, 2023 (*Salesforce*). [[Paper](https://arxiv.org/abs/2303.18230)][[PyTorch](https://github.com/salesforce/paprika)]
     * **StepFormer**: "StepFormer: Self-supervised Step Discovery and Localization in Instructional Videos", CVPR, 2023 (*Samsung*). [[Paper](https://arxiv.org/abs/2304.13265)]
     * **E3P**: "Event-Guided Procedure Planning from Instructional Videos with Text Supervision", ICCV, 2023 (*Sun Yat-sen University*). [[Paper](https://arxiv.org/abs/2308.08885)]
     * **VLaMP**: "Pretrained Language Models as Visual Planners for Human Assistance", ICCV, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2304.09179)]
     * **VINA**: "Learning to Ground Instructional Articles in Videos through Narrations", ICCV, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2306.03802)][[Website](https://eval.ai/web/challenges/challenge-page/2082/overview)]
+    * **PREGO**: "PREGO: online mistake detection in PRocedural EGOcentric videos", CVPR, 2024 (*Sapienza University of Rome, Italy*). [[Paper](https://arxiv.org/abs/2404.01933)][[Code (in construction)](https://github.com/aleflabo/PREGO)]
 * Continual Learning:
     * **PIVOT**: "PIVOT: Prompting for Video Continual Learning", CVPR, 2023 (*KAUST*). [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Villa_PIVOT_Prompting_for_Video_Continual_Learning_CVPR_2023_paper.html)]
 * 3D:
