@@ -1699,6 +1699,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **CMX**: "CMX: Cross-Modal Fusion for RGB-X Semantic Segmentation with Transformers", arXiv, 2022 (*Karlsruhe Institute of Technology, Germany*). [[Paper](https://arxiv.org/abs/2203.04838)][[PyTorch](https://github.com/huaaaliu/RGBX_Semantic_Segmentation)]
     * **DeLiVER**: "Delivering Arbitrary-Modal Semantic Segmentation", CVPR, 2023 (*Karlsruhe Institute of Technology, Germany*). [[Paper](https://arxiv.org/abs/2303.01480)][[PyTorch](https://github.com/jamycheung/DELIVER)][[Website](https://jamycheung.github.io/DELIVER.html)]
     * **DFormer**: "DFormer: Rethinking RGBD Representation Learning for Semantic Segmentation", arXiv, 2023 (*Nankai University*). [[Paper](https://arxiv.org/abs/2309.09668)][[PyTorch](https://github.com/VCIP-RGBD/DFormer)]
+    * **Sigma**: "Sigma: Siamese Mamba Network for Multi-Modal Semantic Segmentation", arXiv, 2024 (*CMU*). [[Paper](https://arxiv.org/abs/2404.04256)][[PyTorch](https://github.com/zifuwan/Sigma)]
 * Panoptic Segmentation:
     * **MaX-DeepLab**: "MaX-DeepLab: End-to-End Panoptic Segmentation with Mask Transformers", CVPR, 2021 (*Google*). [[Paper](https://arxiv.org/abs/2012.00759)][[PyTorch (conradry)](https://github.com/conradry/max-deeplab)]
     * **SIAin**: "An End-to-End Trainable Video Panoptic Segmentation Method usingTransformers", arXiv, 2021 (*SI Analytics, South Korea*). [[Paper](https://arxiv.org/abs/2110.04009)]
@@ -1810,6 +1811,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **AllSpark**: "AllSpark: Reborn Labeled Features from Unlabeled in Transformer for Semi-Supervised Semantic Segmentation", CVPR, 2024 (*HKUST*). [[Paper](https://arxiv.org/abs/2403.01818)][[PyTorch](https://github.com/xmed-lab/AllSpark)]
     * **CPAL**: "Hunting Attributes: Context Prototype-Aware Learning for Weakly Supervised Semantic Segmentation", CVPR, 2024 (*Monash University*). [[Paper](https://arxiv.org/abs/2403.07630)][[Code (in construction)](https://github.com/Barrett-python/CPAL)]
     * **DuPL**: "DuPL: Dual Student with Trustworthy Progressive Learning for Robust Weakly Supervised Semantic Segmentation", CVPR, 2024 (*Shanghai University*). [[Paper](https://arxiv.org/abs/2403.11184)][[PyTorch](https://github.com/Wu0409/DuPL)]
+    * **CoDe**: "Image-Text Co-Decomposition for Text-Supervised Semantic Segmentation", CVPR, 2024 (*NTU*). [[Paper](https://arxiv.org/abs/2404.04231)][[Code (in construction)](https://github.com/072jiajia/image-text-co-decomposition)]
     * **SemPLeS**: "SemPLeS: Semantic Prompt Learning for Weakly-Supervised Semantic Segmentation", arXiv, 2024 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2401.11791)]
     * **WeakSAM**: "WeakSAM: Segment Anything Meets Weakly-supervised Instance-level Recognition", arXiv, 2024 (*Huazhong University of Science & Technology (HUST)*). [[Paper](https://arxiv.org/abs/2402.14812)][[PyTorch](https://github.com/hustvl/WeakSAM)]
     * **CoSA**: "Weakly Supervised Co-training with Swapping Assignments for Semantic Segmentation", arXiv, 2024 (*Lancaster University, UK*). [[Paper](https://arxiv.org/abs/2402.17891)][[Code (in construction)](https://github.com/youshyee/CoSA)]
@@ -2020,6 +2022,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **GeoDeformer**: "GeoDeformer: Geometric Deformable Transformer for Action Recognition", arXiv, 2023 (*HKUST*). [[Paper](https://arxiv.org/abs/2311.17975)]
     * **Early-ViT**: "Early Action Recognition with Action Prototypes", arXiv, 2023 (*Amazon*). [[Paper](https://arxiv.org/abs/2312.06598)]
     * **MCA**: "Don't Judge by the Look: A Motion Coherent Augmentation for Video Recognition", ICLR, 2024 (*Northeastern University*). [[Paper](https://arxiv.org/abs/2403.09506)][[PyTorch](https://github.com/BeSpontaneous/MCA-pytorch)]
+    * **StructViT**: "Learning Correlation Structures for Vision Transformers", CVPR, 2024 (*POSTECH*). [[Paper](https://arxiv.org/abs/2404.03924)]
     * **VideoMamba**: "VideoMamba: State Space Model for Efficient Video Understanding", arXiv, 2024 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2403.06977)][[PyTorch](https://github.com/OpenGVLab/VideoMamba)]
     * **Video-Mamba-Suite**: "Video Mamba Suite: State Space Model as a Versatile Alternative for Video Understanding", arXiv, 2024 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2403.09626)][[PyTorch](https://github.com/OpenGVLab/video-mamba-suite)]
 * Depth:
