@@ -1299,6 +1299,7 @@ If you find this repository useful, please consider citing this list:
     * **UniFine**: "UniFine: A Unified and Fine-grained Approach for Zero-shot Vision-Language Understanding", arXiv, 2023 (*Columbia*). [[Paper](https://arxiv.org/abs/2307.00862)][[Code (in construction)](https://github.com/ThreeSR/UniFine)]
     * **Cheetah**: "Empowering Vision-Language Models to Follow Interleaved Vision-Language Instructions", arXiv, 2023 (*Zhejiang*). [[Paper](https://arxiv.org/abs/2308.04152)]
     * **?**: "LLMs as Visual Explainers: Advancing Image Classification with Evolving Visual Descriptions", arXiv, 2023 (*Beihang*). [[Paper](https://arxiv.org/abs/2311.11904)]
+    * **ZLaP**: "Label Propagation for Zero-shot Classification with Vision-Language Models", CVPR, 2024 (*Czech Technical University in Prague*). [[Paper](https://arxiv.org/abs/2404.04072)][[PyTorch](https://github.com/vladan-stojnic/ZLaP)]
     * **REAL**: "The Neglected Tails of Vision-Language Models", arXiv, 2024 (*TAMU*). [[Paper](https://arxiv.org/abs/2401.12425)][[Code (in construction)](https://github.com/shubhamprshr27/NeglectedTailsVLM)][[Website](https://shubhamprshr27.github.io/neglected-tails-of-vlms/)]
 * X-Shot:
     * **Tip-Adapter**: "Tip-Adapter: Training-free Adaption of CLIP for Few-shot Classification", ECCV, 2022 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2207.09519)][[PyTorch](https://github.com/gaopengcuhk/Tip-Adapter)]
@@ -1556,9 +1557,9 @@ If you find this repository useful, please consider citing this list:
     * **LL3DA**: "LL3DA: Visual Interactive Instruction Tuning for Omni-3D Understanding, Reasoning, and Planning", arXiv, 2023 (*Fudan*). [[Paper](https://arxiv.org/abs/2311.18651)][[Code (in construction)](https://github.com/Open3DA/LL3DA)][[Website](https://ll3da.github.io/)]
     * **PartSLIP++**: "PartSLIP++: Enhancing Low-Shot 3D Part Segmentation via Multi-View Instance Segmentation and Maximum Likelihood Estimation", arXiv, 2023 (*UCSD*). [[Paper](https://arxiv.org/abs/2312.03015)][[PyTorch](https://github.com/zyc00/PartSLIP2)]
     * **Uni3DL**: "Uni3DL: Unified Model for 3D and Language Understanding", arXiv, 2023 (*KAUST*). [[Paper](https://arxiv.org/abs/2312.03026)][[Website](https://uni3dl.github.io/)]
-    * **PartDistill**: "PartDistill: 3D Shape Part Segmentation by Vision-Language Model Distillation", arXiv, 2023 (*NYCU*). [[Paper](https://arxiv.org/abs/2312.04016)]
     * **Open3DIS**: "Open3DIS: Open-vocabulary 3D Instance Segmentation with 2D Mask Guidance", arXiv, 2023 (*VinAI*). [[Paper](https://arxiv.org/abs/2312.10671)][[Website](https://open3dis.github.io/)]
     * **Segment3D**: "Segment3D: Learning Fine-Grained Class-Agnostic 3D Segmentation without Manual Labels", arXiv, 2023 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2312.17232)][[Website](https://segment3d.github.io/)]
+    * **PartDistill**: "PartDistill: 3D Shape Part Segmentation by Vision-Language Model Distillation", CVPR, 2024 (*NYCU*). [[Paper](https://arxiv.org/abs/2312.04016)]
     * **?**: "3D Open-Vocabulary Panoptic Segmentation with 2D-3D Vision-Language Distillation", arXiv, 2024 (*Waymo*). [[Paper](https://arxiv.org/abs/2401.02402)]
     * **PartSTAD**: "PartSTAD: 2D-to-3D Part Segmentation Task Adaptation", arXiv, 2024 (*KAIST*). [[Paper](https://arxiv.org/abs/2401.05906)]
     * **MaskClustering**: "MaskClustering: View Consensus based Mask Graph Clustering for Open-Vocabulary 3D Instance Segmentation", arXiv, 2024 (*Peking*). [[Paper](https://arxiv.org/abs/2401.07745)][[Website](https://pku-epic.github.io/MaskClustering/)]
@@ -1568,6 +1569,7 @@ If you find this repository useful, please consider citing this list:
     * **Open3DSG**: "Open3DSG: Open-Vocabulary 3D Scene Graphs from Point Clouds with Queryable Objects and Open-Set Relationships", arXiv, 2024 (*Bosch*). [[Paper](https://arxiv.org/abs/2402.12259)][[Website](https://kochsebastian.com/open3dsg)]
     * **PointSeg**: "PointSeg: A Training-Free Paradigm for 3D Scene Segmentation via Foundation Models", arXiv, 2024 (*Tencent*). [[Paper](https://arxiv.org/abs/2403.06403)]
     * **SOLE**: "Segment Any 3D Object with Language", arXiv, 2024 (*NUS*). [[Paper](https://arxiv.org/abs/2404.02157)][[Code (in construction)](https://github.com/CVRP-SOLE/SOLE)][[Website](https://cvrp-sole.github.io/)]
+    * **PARIS3D**: "PARIS3D: Reasoning-based 3D Part Segmentation Using Large Multimodal Model", arXiv, 2024 (*MBZUAI*). [[Paper](https://arxiv.org/abs/2404.03836)][[PyTorch](https://github.com/AmrinKareem/PARIS3D)]
 * Speech Recognition:
     * **AV-HuBERT**: "Robust Self-Supervised Audio-Visual Speech Recognition", arXiv, 2022 (*Meta*). [[Paper](https://arxiv.org/abs/2201.01763)][[PyTorch](https://github.com/facebookresearch/av_hubert)]
     * **?**: "Transformer-Based Video Front-Ends for Audio-Visual Speech Recognition", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2201.10439)]
