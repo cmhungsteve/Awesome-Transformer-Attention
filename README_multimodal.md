@@ -446,8 +446,6 @@ If you find this repository useful, please consider citing this list:
     * **CoT3DRef**: "CoT3DRef: Chain-of-Thoughts Data-Efficient 3D Visual Grounding", arXiv, 2023 (*KAUST*). [[Paper](https://arxiv.org/abs/2310.06214)]
     * **ZSVG3D**: "Visual Programming for Zero-shot Open-Vocabulary 3D Visual Grounding", arXiv, 2023 (*CUHK*). [[Paper](https://arxiv.org/abs/2311.15383)][[Code (in construction)](https://github.com/CurryYuan/ZSVG3D)][[Website](https://curryyuan.github.io/ZSVG3D/)]
     * **SceneVerse**: "SceneVerse: Scaling 3D Vision-Language Learning for Grounded Scene Understanding", arXiv, 2024 (*BIGAI*). [[Paper](https://arxiv.org/abs/2401.09340)][[Code (in construction)](https://github.com/scene-verse/sceneverse)][[Website](https://scene-verse.github.io/)]
-* Video-Audio-Text:
-    * **LEGO**: "LEGO: Language Enhanced Multi-modal Grounding Model", arXiv, 2024 (*ByteDance*). [[Paper](https://arxiv.org/abs/2401.06071)][[Code (in construction)](https://github.com/lzw-lzw/LEGO)][[Website](https://lzw-lzw.github.io/LEGO.github.io/)]
 
 [[Back to Overview](#overview)]
 
@@ -1747,6 +1745,7 @@ If you find this repository useful, please consider citing this list:
     * **Cobra**: "Cobra: Extending Mamba to Multi-Modal Large Language Model for Efficient Inference", arXiv, 2024 (*Westlake University, China*). [[Paper](https://arxiv.org/abs/2403.14520)][[PyTorch](https://github.com/h-zhao1997/cobra)][[Website](https://sites.google.com/view/cobravlm)]
     * **TinyLLaVA**: "TinyLLaVA: A Framework of Small-scale Large Multimodal Models", arXiv, 2024 (*Beihang University*). [[Paper](https://arxiv.org/abs/2402.14289)][[PyTorch](https://github.com/DLCV-BUAA/TinyLLaVABench)]
     * **MathVerse**: "MathVerse: Does Your Multi-modal LLM Truly See the Diagrams in Visual Math Problems?", arXiv, 2024 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2403.14624)][[PyTorch](https://github.com/ZrrSkywalker/MathVerse)][[Website](https://mathverse-cuhk.github.io/)]
+    * **GroundingGPT**: "GroundingGPT: Language Enhanced Multi-modal Grounding Model", arXiv, 2024 (*ByteDance*). [[Paper](https://arxiv.org/abs/2401.06071)][[PyTorch](https://github.com/lzw-lzw/GroundingGPT)][[Website](https://lzw-lzw.github.io/GroundingGPT.github.io/)]
 * Conversation (Video):
     * **Video-ChatCaptioner**: "Video ChatCaptioner: Towards the Enriched Spatiotemporal Descriptions", arXiv, 2023 (*KAUST*). [[Paper](https://arxiv.org/abs/2304.04227)][[PyTorch](https://github.com/Vision-CAIR/ChatCaptioner)]
     * **ChatVideo**: "ChatVideo: A Tracklet-centric Multimodal and Versatile Video Understanding System", arXiv, 2023 (*Fudan*). [[Paper](https://arxiv.org/abs/2304.14407)][[Website](https://www.wangjunke.info/ChatVideo/)]
@@ -1774,6 +1773,7 @@ If you find this repository useful, please consider citing this list:
     * **VURF**: "VURF: A General-purpose Reasoning and Self-refinement Framework for Video Understanding", arXiv, 2024 (*MBZUAI*). [[Paper](https://arxiv.org/abs/2403.14743)]
     * **VideoAgent**: "VideoAgent: A Memory-augmented Multimodal Agent for Video Understanding", arXiv, 2024 (*BIGAI*). [[Paper](https://arxiv.org/abs/2403.11481)][[Website](https://videoagent.github.io/)]
     * **MiniGPT4-Video**: "MiniGPT4-Video: Advancing Multimodal LLMs for Video Understanding with Interleaved Visual-Textual Tokens", arXiv, 2024 (*KAUST*). [[Paper](https://arxiv.org/abs/2404.03413)][[PyTorch](https://github.com/Vision-CAIR/MiniGPT4-video)][[Website](https://vision-cair.github.io/MiniGPT4-video/)]
+    * **Elysium**: "Elysium: Exploring Object-level Perception in Videos via MLLM", arXiv, 2024 (*ByteDance*). [[Paper](https://arxiv.org/abs/2403.16558)][[Code (in construction)](https://github.com/Hon-Wong/Elysium)]
 * Conversation (3D):
     * **3D-LLM**: "3D-LLM: Injecting the 3D World into Large Language Models", NeurIPS, 2023 (*UCLA*). [[Paper](https://arxiv.org/abs/2307.12981)][[PyTorch](https://github.com/UMass-Foundation-Model/3D-LLM)][[Website](https://vis-www.cs.umass.edu/3dllm/)]
     * **Chat-3D**: "Chat-3D: Data-efficiently Tuning Large Language Model for Universal Dialogue of 3D Scenes", arXiv, 2023 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2308.08769)][[PyTorch](https://github.com/Chat-3D/Chat-3D)][[Website](https://chat-3d.github.io/)]
