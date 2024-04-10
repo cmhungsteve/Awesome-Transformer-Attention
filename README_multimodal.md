@@ -300,6 +300,7 @@ If you find this repository useful, please consider citing this list:
     * **STAIR**: "STAIR: Spatial-Temporal Reasoning with Auditable Intermediate Results for Video Question Answering", AAAI, 2024 (*Peking*). [[Paper](https://arxiv.org/abs/2401.03901)]
     * **YTCommentQA**: "YTCommentQA: Video Question Answerability in Instructional Videos", AAAI, 2024 (*LG*). [[Paper](https://arxiv.org/abs/2401.17343)][[Code (in construction)](https://github.com/lgresearch/YTCommentQA)]
     * **RADI**: "Ranking Distillation for Open-Ended Video Question Answering with Insufficient Labels", CVPR, 2024 (*Sun Yat-sen University*). [[Paper](https://arxiv.org/abs/2403.14430)]
+    * **MoReVQA**: "MoReVQA: Exploring Modular Reasoning Models for Video Question Answering", CVPR, 2024 (*Google*). [[Paper](https://arxiv.org/abs/2404.06511)][[Website](https://juhongm999.github.io/morevqa/)]
     * **Sports-QA**: "Sports-QA: A Large-Scale Video Question Answering Benchmark for Complex and Professional Sports", arXiv, 2024 (*University of Melbourne*). [[Paper](https://arxiv.org/abs/2401.01505)]
     * **DoraemonGPT**: "DoraemonGPT: Toward Understanding Dynamic Scenes with Large Language Models", arXiv, 2024 (*Zhejiang*). [[Paper](https://arxiv.org/abs/2401.08392)][[Code (in construction)](https://github.com/z-x-yang/DoraemonGPT)]
     * **Q-ViD**: "Question-Instructed Visual Descriptions for Zero-Shot Video Question Answering", arXiv, 2024 (*MBZUAI*). [[Paper](https://arxiv.org/abs/2402.10698)]
@@ -1277,6 +1278,7 @@ If you find this repository useful, please consider citing this list:
     * **Octavius**: "Octavius: Mitigating Task Interference in MLLMs via MoE", arXiv, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2311.02684)]
     * **GDA**: "A Hard-to-Beat Baseline for Training-free CLIP-based Adaptation", ICLR, 2024 (*CAS*). [[Paper](https://arxiv.org/abs/2402.04087)][[PyTorch](https://github.com/mrflogs/ICLR24)]
     * **DMN**: "Dual Memory Networks: A Versatile Adaptation Approach for Vision-Language Models", CVPR, 2024 (*HKPolyU*). [[Paper](https://arxiv.org/abs/2403.17589)][[PyTorch](https://github.com/YBZh/DMN)]
+    * **ARF**: "Anchor-based Robust Finetuning of Vision-Language Models", CVPR, 2024 (*Tencent*). [[Paper](https://arxiv.org/abs/2404.06244)]
     * **LLaVA-MoLE**: "LLaVA-MoLE: Sparse Mixture of LoRA Experts for Mitigating Data Conflicts in Instruction Finetuning MLLMs", arXiv, 2024 (*Meituan*). [[Paper](https://arxiv.org/abs/2401.16160)]
     * **?**: "Routers in Vision Mixture of Experts: An Empirical Study", arXiv, 2024 (*DeepMind*). [[Paper](https://arxiv.org/abs/2401.15969)]
     * **MoE-LLaVA**: "MoE-LLaVA: Mixture of Experts for Large Vision-Language Models", arXiv, 2024 (*Peking*). [[Paper](https://arxiv.org/abs/2401.15947)][[PyTorch](https://github.com/PKU-YuanGroup/MoE-LLaVA)]
@@ -1746,6 +1748,7 @@ If you find this repository useful, please consider citing this list:
     * **TinyLLaVA**: "TinyLLaVA: A Framework of Small-scale Large Multimodal Models", arXiv, 2024 (*Beihang University*). [[Paper](https://arxiv.org/abs/2402.14289)][[PyTorch](https://github.com/DLCV-BUAA/TinyLLaVABench)]
     * **MathVerse**: "MathVerse: Does Your Multi-modal LLM Truly See the Diagrams in Visual Math Problems?", arXiv, 2024 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2403.14624)][[PyTorch](https://github.com/ZrrSkywalker/MathVerse)][[Website](https://mathverse-cuhk.github.io/)]
     * **GroundingGPT**: "GroundingGPT: Language Enhanced Multi-modal Grounding Model", arXiv, 2024 (*ByteDance*). [[Paper](https://arxiv.org/abs/2401.06071)][[PyTorch](https://github.com/lzw-lzw/GroundingGPT)][[Website](https://lzw-lzw.github.io/GroundingGPT.github.io/)]
+    * **InternLM-XComposer2-4KHD**: "InternLM-XComposer2-4KHD: A Pioneering Large Vision-Language Model Handling Resolutions from 336 Pixels to 4K HD", arXiv, 2024 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2404.06512)][[PyTorch](https://github.com/InternLM/InternLM-XComposer)]
 * Conversation (Video):
     * **Video-ChatCaptioner**: "Video ChatCaptioner: Towards the Enriched Spatiotemporal Descriptions", arXiv, 2023 (*KAUST*). [[Paper](https://arxiv.org/abs/2304.04227)][[PyTorch](https://github.com/Vision-CAIR/ChatCaptioner)]
     * **ChatVideo**: "ChatVideo: A Tracklet-centric Multimodal and Versatile Video Understanding System", arXiv, 2023 (*Fudan*). [[Paper](https://arxiv.org/abs/2304.14407)][[Website](https://www.wangjunke.info/ChatVideo/)]
@@ -1904,5 +1907,7 @@ If you find this repository useful, please consider citing this list:
 * X-Supervised:
     * **CAPro**: "CAPro: Webly Supervised Learning with Cross-Modality Aligned Prototypes", NeurIPS, 2023 (*Tencent*). [[Paper](https://arxiv.org/abs/2310.09761)][[PyTorch](https://github.com/yuleiqin/capro)]
     * **MetaMAE**: "Modality-Agnostic Self-Supervised Learning with Meta-Learned Masked Auto-Encoder", NeurIPS, 2023 (*KAIST*). [[Paper](https://arxiv.org/abs/2310.16318)][[PyTorch](https://github.com/alinlab/MetaMAE)]
+* Correction/Verification:
+    * **?**: "Can Feedback Enhance Semantic Grounding in Large Vision-Language Models?", arXiv, 2024 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2404.06510)][[Website](https://andrewliao11.github.io/vlms_feedback/)]
 
 [[Back to Overview](#overview)]
