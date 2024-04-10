@@ -862,6 +862,7 @@ If you find this repository useful, please consider citing this list:
     * **TIP**: "TIP: Text-Driven Image Processing with Semantic and Restoration Instructions", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2312.11595)][[Website](https://chenyangqiqi.github.io/tip/)]
     * **VmambaIR**: "VmambaIR: Visual State Space Model for Image Restoration", arXiv, 2024 (*ByteDance*). [[Paper](https://arxiv.org/abs/2403.11423)][[Code (in construction)](https://github.com/AlphacatPlus/VmambaIR)]
     * **DyNet**: "Dynamic Pre-training: Towards Efficient and Scalable All-in-One Image Restoration", arXiv, 2024 (*MBZUAI*). [[Paper](https://arxiv.org/abs/2404.02154)][[Code (in construction)](https://github.com/akshaydudhane16/DyNet)]
+    * **LIPT**: "LIPT: Latency-aware Image Processing Transformer", arXiv, 2024 (*Huawei*). [[Paper](https://arxiv.org/abs/2404.06075)]
 * Super-Resolution:
     * **SAN**: "Second-Order Attention Network for Single Image Super-Resolution", CVPR, 2019 (*Tsinghua*). [[Paper](https://openaccess.thecvf.com/content_CVPR_2019/html/Dai_Second-Order_Attention_Network_for_Single_Image_Super-Resolution_CVPR_2019_paper.html)][[PyTorch](https://github.com/daitao/SAN)]
     * **CS-NL**: "Image Super-Resolution with Cross-Scale Non-Local Attention and Exhaustive Self-Exemplars Mining", CVPR, 2020 (*UIUC*). [[Paper](https://arxiv.org/abs/2006.01424)][[PyTorch](https://github.com/SHI-Labs/Cross-Scale-Non-Local-Attention)]
@@ -2174,6 +2175,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **PlaneRecTR**: "PlaneRecTR: Unified Query Learning for 3D Plane Recovery from a Single View", ICCV, 2023 (*National University of Defense Technology, China*). [[Paper](https://arxiv.org/abs/2307.13756)][[PyTorch](https://github.com/SJingjia/PlaneRecTR)]
     * **HaMeR**: "Reconstructing Hands in 3D with Transformers", arXiv, 2023 (*Berkeley*). [[Paper](https://arxiv.org/abs/2312.05251)][[PyTorch](https://github.com/geopavlakos/hamer)][[Website](https://geopavlakos.github.io/hamer/)]
     * **KYN**: "Know Your Neighbors: Improving Single-View Reconstruction via Spatial Vision-Language Reasoning", CVPR, 2024 (*ETHZ*). [[Paper](https://arxiv.org/abs/2404.03658)][[PyTorch](https://github.com/ruili3/Know-Your-Neighbors)][[Website](https://ruili3.github.io/kyn/)]
+    * **MCC-HO**: "Reconstructing Hand-Held Objects in 3D", arXiv, 2024 (*Berkeley*). [[Paper](https://arxiv.org/abs/2404.06507)]
 * 360 Scene:
     * **?**: "Improving 360 Monocular Depth Estimation via Non-local Dense Prediction Transformer and Joint Supervised and Self-supervised Learning", AAAI, 2022 (*Seoul National University*). [[Paper](https://arxiv.org/abs/2109.10563)][[PyTorch](https://github.com/yuniw18/Joint_360depth)]
     * **PAVER**: "Panoramic Vision Transformer for Saliency Detection in 360° Videos", ECCV, 2022 (*Seoul National University*). [[Paper](https://arxiv.org/abs/2209.08956)]
