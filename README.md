@@ -2169,6 +2169,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **LLE-VOS**: "Event-assisted Low-Light Video Object Segmentation", CVPR, 2024 (*USTC*). [[Paper](https://arxiv.org/abs/2404.01945)]
 * **Point-VOS**: "Point-VOS: Pointing Up Video Object Segmentation", arXiv, 2024 (*RWTH Aachen University, Germany*). [[Paper](https://arxiv.org/abs/2402.05917)][[Website](https://pointvos.github.io/)]
 * **MAVOS**: "Efficient Video Object Segmentation via Modulated Cross-Attention Memory", arXiv, 2024 (*MBZUAI*). [[Paper](https://arxiv.org/abs/2403.17937)][[Code (in construction)](https://github.com/Amshaker/MAVOS)]
+* **STMA**: "Spatial-Temporal Multi-level Association for Video Object Segmentation", arXiv, 2024 (*Harbin Institute of Technology*). [[Paper](https://arxiv.org/abs/2404.06265)]
 
 [[Back to Overview](#overview)]
 
