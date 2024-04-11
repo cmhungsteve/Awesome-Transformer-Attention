@@ -392,6 +392,7 @@ If you find this repository useful, please consider citing this list:
 * **xT**: "xT: Nested Tokenization for Larger Context in Large Images", arXiv, 2024 (*Berkeley*). [[Paper](https://arxiv.org/abs/2403.01915)]
 * **ACC-ViT**: "ACC-ViT: Atrous Convolution's Comeback in Vision Transformers", arXiv, 2024 (*Purdue*). [[Paper](https://arxiv.org/abs/2403.04200)]
 * **ViTAR**: "ViTAR: Vision Transformer with Any Resolution", arXiv, 2024 (*CAS*). [[Paper](https://arxiv.org/abs/2403.18361)]
+* **iLLaMA**: "Adapting LLaMA Decoder to Vision Transformer", arXiv, 2024 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2404.06773)]
 #### Efficient Vision Transformer
 * **DeiT**: "Training data-efficient image transformers & distillation through attention", ICML, 2021 (*Facebook*). [[Paper](https://arxiv.org/abs/2012.12877)][[PyTorch](https://github.com/facebookresearch/deit)]
 * **ConViT**: "ConViT: Improving Vision Transformers with Soft Convolutional Inductive Biases", ICML, 2021 (*Facebook*). [[Paper](https://arxiv.org/abs/2103.10697)][[Code](https://github.com/facebookresearch/convit)]
@@ -1667,6 +1668,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **CLIP-DINOiser**: "CLIP-DINOiser: Teaching CLIP a few DINO tricks", arXiv, 2023 (*Warsaw University of Technology, Poland*). [[Paper](https://arxiv.org/abs/2312.12359)][[PyTorch](https://github.com/wysoczanska/clip_dinoiser)]
     * **TagAlign**: "TagAlign: Improving Vision-Language Alignment with Multi-Tag Classification", arXiv, 2023 (*Ant Group*). [[Paper](https://arxiv.org/abs/2312.14149)][[PyTorch](https://github.com/Qinying-Liu/TagAlign)][[Website](https://qinying-liu.github.io/Tag-Align/)]
     * **OVFoodSeg**: "OVFoodSeg: Elevating Open-Vocabulary Food Image Segmentation via Image-Informed Textual Representation", CVPR, 2024 (*Singapore Management University (SMU)*). [[Paper](https://arxiv.org/abs/2404.01409)]
+    * **FreeDA**: "Training-Free Open-Vocabulary Segmentation with Offline Diffusion-Augmented Prototype Generation", CVPR, 2024 (*University of Modena and Reggio Emilia (UniMoRe), Italy*). [[Paper](https://arxiv.org/abs/2404.06542)][[Website](https://aimagelab.github.io/freeda/)]
     * **S-Seg**: "Exploring Simple Open-Vocabulary Semantic Segmentation", arXiv, 2024 (*Oxford*). [[Paper](https://arxiv.org/abs/2401.12217)][[Code (in construction)](https://github.com/zlai0/S-Seg)]
     * **PosSAM**: "PosSAM: Panoptic Open-vocabulary Segment Anything", arXiv, 2024 (*Qualcomm*). [[Paper](https://arxiv.org/abs/2403.09620)]][[Code (in construction)](https://github.com/Vibashan/PosSAM)][[Website](https://vibashan.github.io/possam-web/)]
 * LLM-based:
