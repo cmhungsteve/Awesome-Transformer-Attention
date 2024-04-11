@@ -675,6 +675,7 @@ If you find this repository useful, please consider citing this list:
     * **LocCa**: "LocCa: Visual Pretraining with Location-aware Captioners", arXiv, 2024 (*DeepMind*). [[Paper](https://arxiv.org/abs/2403.19596)]
     * **SPHINX-V**: "Draw-and-Understand: Leveraging Visual Prompts to Enable MLLMs to Comprehend What You Want", arXiv, 2024 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2403.20271)][[PyTorch](https://github.com/AFeng-x/Draw-and-Understand)][[Website](https://draw-and-understand.github.io/)]
     * **MyVLM**: "MyVLM: Personalizing VLMs for User-Specific Queries", arXiv, 2024 (*Snap*). [[Paper](https://arxiv.org/abs/2403.14599)][[Code (in construction)](https://github.com/snap-research/MyVLM)][[Website](https://snap-research.github.io/MyVLM/)]
+    * **BRAVE**: "BRAVE: Broadening the visual encoding of vision-language models", arXiv, 2024 (*Google*). [[Paper](https://arxiv.org/abs/2404.07204)][[Website](https://brave-vlms.epfl.ch/)]
 * Video:
     * **COOT**: "COOT: Cooperative Hierarchical Transformer for Video-Text Representation Learning", NeurIPS, 2020 (*University of Freiburg*). [[Paper](https://arxiv.org/abs/2011.00597)][[PyTorch](https://github.com/gingsi/coot-videotext)]
     * **Parameter-Reduction**: "Parameter Efficient Multimodal Transformers for Video Representation Learning", ICLR, 2021 (*Seoul National University*). [[Paper](https://openreview.net/forum?id=6UdQLhqJyFD)]
@@ -1252,6 +1253,7 @@ If you find this repository useful, please consider citing this list:
 * **mPLUG-DocOwl**: "mPLUG-DocOwl: Modularized Multimodal Large Language Model for Document Understanding", arXiv, 2023 (*Alibaba*). [[Paper](https://arxiv.org/abs/2307.02499)][[Code (in construction)](https://github.com/X-PLUG/mPLUG-DocOwl)]
 * **RD**: "Efficient End-to-End Visual Document Understanding with Rationale Distillation", arXiv, 2023 (*DeepMind*). [[Paper](https://arxiv.org/abs/2311.09612)]
 * **RoDLA**: "RoDLA: Benchmarking the Robustness of Document Layout Analysis Models", CVPR, 2024 (*Karlsruhe Institute of Technology (KIT), Germnay*). [[Paper](https://arxiv.org/abs/2403.14442)][[PyTorch](https://github.com/yufanchen96/RoDLA)][[Website](https://yufanchen96.github.io/projects/RoDLA/)]
+* **HRVDA**: "HRVDA: High-Resolution Visual Document Assistant", CVPR, 2024 (*Tencent*). [[Paper](https://arxiv.org/abs/2404.06918)]
 * **ScreenAI**: "ScreenAI: A Vision-Language Model for UI and Infographics Understanding", arXiv, 2024 (*Google*). [[Paper](https://arxiv.org/abs/2402.04615)]
 * **DoCo**: "Enhancing Visual Document Understanding with Contrastive Learning in Large Visual-Language Models", arXiv, 2024 (*Tencent*). [[Paper](https://arxiv.org/abs/2402.19014)]
 * **mPLUG-DocOwl-1.5**: "mPLUG-DocOwl 1.5: Unified Structure Learning for OCR-free Document Understanding", arXiv, 2024 (*Alibaba*). [[Paper](https://arxiv.org/abs/2403.12895)][[Code (in construction)](https://github.com/X-PLUG/mPLUG-DocOwl/tree/main/DocOwl1.5)]
