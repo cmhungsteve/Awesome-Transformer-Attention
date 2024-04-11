@@ -692,6 +692,7 @@ If you find this repository useful, please consider citing this list:
     * **FedLGT**: "Language-Guided Transformer for Federated Multi-Label Classification", AAAI, 2024 (*NTU*). [[Paper](https://arxiv.org/abs/2312.07165)][[Code (in construction)](https://github.com/Jack24658735/FedLGT)]
     * **UniMoS**: "Split to Merge: Unifying Separated Modalities for Unsupervised Domain Adaptation", CVPR, 2024 (*University of Electronic Science and Technology of China*). [[Paper](https://arxiv.org/abs/2403.06946)][[PyTorch](https://github.com/TL-UESTC/UniMoS)]
     * **DiPrompT**: "DiPrompT: Disentangled Prompt Tuning for Multiple Latent Domain Generalization in Federated Learning", CVPR, 2024 (*SenseTime*). [[Paper](https://arxiv.org/abs/2403.08506)]
+    * **ULDA**: "Unified Language-driven Zero-shot Domain Adaptation", CVPR, 2024 (*CUHK*). [[Paper](https://arxiv.org/abs/2404.07155)]
     * **LLaVO**: "Large Language Models as Visual Cross-Domain Learners", arXiv, 2024 (*Southern University of Science and Technology*). [[Paper](https://arxiv.org/abs/2401.03253)][[Website](https://ll-a-vo.github.io/)][[PyTorch](https://github.com/LL-a-VO/LLaVO)]
     * **LaGTrAn**: "Tell, Don't Show!: Language Guidance Eases Transfer Across Domains in Images and Videos", arXiv, 2024 (*UCSD*). [[Paper](https://arxiv.org/abs/2403.05535)][[Website](https://tarun005.github.io/lagtran/)]
 * X-Supervised:
