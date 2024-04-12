@@ -132,6 +132,7 @@ If you find this repository useful, please consider citing this list:
 
 ## Survey
 * "A Survey on Multimodal Large Language Models for Autonomous Driving", WACVW, 2024 (*Purdue*). [[Paper](https://arxiv.org/abs/2311.12320)][[GitHub](https://github.com/IrohXu/Awesome-Multimodal-LLM-Autonomous-Driving)]
+* "Exploring the Frontier of Vision-Language Models: A Survey of Current Methodologies and Future Directions", arXiv, 2024 (*IIT Patna*). [[Paper](https://arxiv.org/abs/2404.07214)]
 * "From Pixels to Insights: A Survey on Automatic Chart Understanding in the Era of Large Foundation Models", arXiv, 2024 (*UIUC*). [[Paper](https://arxiv.org/abs/2403.12027)][[GitHub](https://github.com/khuangaf/Awesome-Chart-Understanding)]
 * "Parameter-Efficient Fine-Tuning for Large Models: A Comprehensive Survey", arXiv, 2024 (*Northeastern*). [[Paper](https://arxiv.org/abs/2403.14608)]
 * "Sora as an AGI World Model? A Complete Survey on Text-to-Video Generation", arXiv, 2024 (*Kyung Hee University*). [[Paper](https://arxiv.org/abs/2403.05131)]
