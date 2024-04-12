@@ -151,12 +151,14 @@ If you find this repository useful, please consider citing this list:
     * **Video-CSR**: "Video-CSR: Complex Video Digest Creation for Visual-Language Models", arXiv, 2023 (*ByteDance*). [[Paper](https://arxiv.org/abs/2310.05060)]
     * **SCG-SP**: "Set Prediction Guided by Semantic Concepts for Diverse Video Captioning", AAAI, 2024 (*CAS*). [[Paper](https://arxiv.org/abs/2312.15720)]
     * **DIBS**: "DIBS: Enhancing Dense Video Captioning with Unlabeled Videos via Pseudo Boundary Enrichment and Online Refinement", CVPR, 2024 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2404.02755)]
+    * **CM<sup>2</sup>**: "Do You Remember? Dense Video Captioning with Cross-Modal Memory Retrieval", CVPR, 2024 (*Kyung Hee University, Korea*). [[Paper](https://arxiv.org/abs/2404.07610)][[PyTorch](https://github.com/ailab-kyunghee/CM2_DVC)]
     * **EgoExoNCE**: "Retrieval-Augmented Egocentric Video Captioning", arXiv, 2024 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2401.00789)]
     * **Video-ReCap**: "Video ReCap: Recursive Captioning of Hour-Long Videos", arXiv, 2024 (*UNC*). [[Paper](https://arxiv.org/abs/2402.13250)][[PyTorch](https://github.com/md-mohaiminul/VideoRecap)][[Website](https://sites.google.com/view/vidrecap)]
 * 3D:
     * **Vote2Cap-DETR**: "End-to-End 3D Dense Captioning with Vote2Cap-DETR", CVPR, 2023 (*Fudan*). [[Paper](https://arxiv.org/abs/2301.02508)][[PyTorch](https://github.com/ch3cook-fdu/Vote2Cap-DETR)]
     * **Cap3D**: "Scalable 3D Captioning with Pretrained Models", NeurIPS, 2023 (*UMich*). [[Paper](https://arxiv.org/abs/2306.07279)][[Dataset](https://huggingface.co/datasets/tiange/Cap3D)]
     * **Vote2Cap-DETR++**: "Vote2Cap-DETR++: Decoupling Localization and Describing for End-to-End 3D Dense Captioning", arXiv, 2023 (*Fudan*). [[Paper](https://arxiv.org/abs/2309.02999)][[PyTorch](https://github.com/ch3cook-fdu/Vote2Cap-DETR)]
+    * **DiffuRank**: "View Selection for 3D Captioning via Diffusion Ranking", arXiv, 2024 (*UMich*). [[Paper](https://arxiv.org/abs/2404.07984)][[Dataset](https://huggingface.co/datasets/tiange/Cap3D)]
 * Others:
     * **ET-Cap**: "Explore and Tell: Embodied Visual Captioning in 3D Environments", ICCV, 2023 (*Renmin University of China*). [[Paper](https://arxiv.org/abs/2308.10447)][[PyTorch](https://github.com/HAWLYQ/ET-Cap)][[Website](https://aim3-ruc.github.io/ExploreAndTell/)]
 
@@ -764,6 +766,7 @@ If you find this repository useful, please consider citing this list:
     * **CLIPXPlore**: "CLIPXPlore: Coupled CLIP and Shape Spaces for 3D Shape Exploration", arXiv, 2023 (*CUHK*). [[Paper](https://arxiv.org/abs/2306.08226)]
     * **Point-PEFT**: "Point-PEFT: Parameter-Efficient Fine-Tuning for 3D Pre-trained Models", arXiv, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2310.03059)][[PyTorch](https://github.com/EvenJoker/Point-PEFT)]
     * **SUGAR**: "SUGAR: Pre-training 3D Visual Representations for Robotics", CVPR, 2024 (*INRIA*). [[Paper](https://arxiv.org/abs/2404.01491)][[Website](https://cshizhe.github.io/projects/robot_sugar.html)]
+    * **Any2Point**: "Any2Point: Empowering Any-modality Large Models for Efficient 3D Understanding", arXiv, 2024 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2404.07989)][[PyTorch](https://github.com/Ivan-Tang-3D/Any2Point)]
 * Vision-Audio-Text:
     * **VATT**: "VATT: Transformers for Multimodal Self-Supervised Learning from Raw Video, Audio and Text", NeurIPS, 2021 (*Google*). [[Paper](https://arxiv.org/abs/2104.11178)][[Tensorflow](https://github.com/google-research/google-research/tree/master/vatt)]
     * **VideoCC**: "Learning Audio-Video Modalities from Image Captions", ECCV, 2022 (*Google*). [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/4217_ECCV_2022_paper.php)][[Website](https://a-nagrani.github.io/videocc.html)]
@@ -1448,6 +1451,7 @@ If you find this repository useful, please consider citing this list:
     * **V2T-Tokenizer**: "Beyond Text: Frozen Large Language Models in Visual Signal Comprehension", arXiv, 2024 (*Peking*). [[Paper](https://arxiv.org/abs/2403.07874)][[PyTorch](https://github.com/zh460045050/V2L-Tokenizer)]
     * **Lumen**: "Lumen: Unleashing Versatile Vision-Centric Capabilities of Large Multimodal Models", arXiv, 2024 (*Meituan*). [[Paper](https://arxiv.org/abs/2403.07304)][[Code (in construction)](https://github.com/SxJyJay/Lumen)]
     * **GiT**: "GiT: Towards Generalist Vision Transformer through Universal Language Interface", arXiv, 2024 (*Peking*). [[Paper](https://arxiv.org/abs/2403.09394)][[PyTorch](https://github.com/Haiyang-W/GiT)]
+    * **GLID**: "GLID: Pre-training a Generalist Encoder-Decoder Vision Model", CVPR, 2024 (*CUHK*). [[Paper](https://arxiv.org/abs/2404.07603)]
 * Language-based Video Editing:
     * **M<sup>3</sup>L**: "Language-based Video Editing via Multi-Modal Multi-Level Transformer", CVPR, 2022 (*UCSB*). [[Paper](https://arxiv.org/abs/2104.01122)]
     * **Video-P2P**: "Video-P2P: Video Editing with Cross-attention Control", arXiv, 2023 (*CUHK*). [[Paper](https://arxiv.org/abs/2303.04761)][[Website](https://video-p2p.github.io/)]
@@ -1535,6 +1539,7 @@ If you find this repository useful, please consider citing this list:
     * **TAMM**: "TAMM: TriAdapter Multi-Modal Learning for 3D Shape Understanding", CVPR, 2024 (*UIUC*). [[Paper](https://arxiv.org/abs/2402.18490)][[PyTorch](https://github.com/alanzhangcs/Tamm_Code)][[Website](https://alanzhangcs.github.io/tamm-page/)]
     * **FMGS**: "FMGS: Foundation Model Embedded 3D Gaussian Splatting for Holistic 3D Scene Understanding", arXiv, 2024 (*Google*). [[Paper](https://arxiv.org/abs/2401.01970)]
     * **EgoLifter**: "EgoLifter: Open-world 3D Segmentation for Egocentric Perception", arXiv, 2024 (*Meta*). [[Paper](https://arxiv.org/abs/2403.18118)][[Website](https://egolifter.github.io/)]
+    * **Gaga**: "Gaga: Group Any Gaussians via 3D-aware Memory Bank", arXiv, 2024 (*UC Merced*). [[Paper](https://arxiv.org/abs/2404.07977)][[Code (in construction)](https://github.com/weijielyu/Gaga)][[Website](https://www.gaga.gallery/)]
 * 3D Segmentation:
     * **OpenScene**: "OpenScene: 3D Scene Understanding with Open Vocabularies", CVPR, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2211.15654)][[PyTorch](https://github.com/pengsongyou/openscene)][[Website](https://pengsongyou.github.io/openscene)]
     * **PartSLIP**: "PartSLIP: Low-Shot Part Segmentation for 3D Point Clouds via Pretrained Image-Language Models", CVPR, 2023 (*Qualcomm*). [[Paper](https://arxiv.org/abs/2212.01558)]
@@ -1697,7 +1702,6 @@ If you find this repository useful, please consider citing this list:
     * **Pink**: "Pink: Unveiling the Power of Referential Comprehension for Multi-modal LLMs", arXiv, 2023 (*Ant*). [[Paper](https://arxiv.org/abs/2310.00582)][[Code (in construction)](https://github.com/SY-Xuan/Pink)]
     * **LLaVA-1.5**: "Improved Baselines with Visual Instruction Tuning", arXiv, 2023 (*UW Madison*). [[Paper](https://arxiv.org/abs/2310.03744)][[PyTorch](https://github.com/haotian-liu/LLaVA)][[Website](https://llava-vl.github.io/)]
     * **MiniGPT-5**: "MiniGPT-5: Interleaved Vision-and-Language Generation via Generative Vokens", arXiv, 2023 (*UC Santa Cruz*). [[Paper](https://arxiv.org/abs/2310.02239)][[PyTorch](https://github.com/eric-ai-lab/MiniGPT-5)]
-    * **Ferret**: "Ferret: Refer and Ground Anything Anywhere at Any Granularity", arXiv, 2023 (*Apple*). [[Paper](https://arxiv.org/abs/2310.07704)][[Code (in construction)](https://github.com/apple/ml-ferret)]
     * **MiniGPT-v2**: "MiniGPT-v2: large language model as a unified interface for vision-language multi-task learning", arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2310.09478)][[PyTorch](https://github.com/Vision-CAIR/MiniGPT-4)][[Website](https://minigpt-v2.github.io/)]
     * **Woodpecker**: "Woodpecker: Hallucination Correction for Multimodal Large Language Models", arXiv, 2023 (*Tencent*). [[Paper](https://arxiv.org/abs/2310.16045)][[PyTorch](https://github.com/BradyFU/Woodpecker)]
     * **LLaVA-Interactive**: "LLaVA-Interactive: An All-in-One Demo for Image Chat, Segmentation, Generation and Editing", arXiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2311.00571)][[PyTorch](https://github.com/LLaVA-VL/LLaVA-Interactive-Demo)][[Website](https://llava-vl.github.io/llava-interactive/)]
@@ -1723,6 +1727,7 @@ If you find this repository useful, please consider citing this list:
     * **V<sup>\*</sup>**: "V<sup>\*</sup>: Guided Visual Search as a Core Mechanism in Multimodal LLMs", arXiv, 2023 (*NYU*). [[Paper](https://arxiv.org/abs/2312.14135)][[PyTorch](https://github.com/penghao-wu/vstar)][[Website](https://vstar-seal.github.io/)]
     * **?**: "Gemini vs GPT-4V: A Preliminary Comparison and Combination of Vision-Language Models Through Qualitative Cases", arXiv, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2312.15011)][[GitHub](https://github.com/Qi-Zhangyang/Gemini-vs-GPT4V)]
     * **TinyGPT-V**: "TinyGPT-V: Efficient Multimodal Large Language Model via Small Backbones", arXiv, 2023 (*Anhui Polytechnic University*). [[Paper](https://arxiv.org/abs/2312.16862)][[PyTorch](https://github.com/DLYuanGod/TinyGPT-V)]
+    * **Ferret**: "Ferret: Refer and Ground Anything Anywhere at Any Granularity", ICLR, 2024 (*Apple*). [[Paper](https://arxiv.org/abs/2310.07704)][[PyTorch](https://github.com/apple/ml-ferret)]
     * **SNIFFER**: "SNIFFER: Multimodal Large Language Model for Explainable Out-of-Context Misinformation Detection", CVPR, 2024 (*NUS*). [[Paper](https://arxiv.org/abs/2403.03170)][[Code (in construction)](https://github.com/MischaQI/Sniffer)][[Website](https://pengqi.site/Sniffer/)]
     * **ChartAssisstant**: "ChartAssisstant: A Universal Chart Multimodal Language Model via Chart-to-Table Pre-training and Multitask Instruction Tuning", arXiv, 2024 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2401.02384)]
     * **LLaVA-ϕ**: "LLaVA-ϕ: Efficient Multi-Modal Assistant with Small Language Model", arXiv, 2024 (*Midea Group, China*). [[Paper](https://arxiv.org/abs/2401.02330)][[Code (in construction)](https://github.com/zhuyiche/llava-phi)]
@@ -1751,6 +1756,8 @@ If you find this repository useful, please consider citing this list:
     * **MathVerse**: "MathVerse: Does Your Multi-modal LLM Truly See the Diagrams in Visual Math Problems?", arXiv, 2024 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2403.14624)][[PyTorch](https://github.com/ZrrSkywalker/MathVerse)][[Website](https://mathverse-cuhk.github.io/)]
     * **GroundingGPT**: "GroundingGPT: Language Enhanced Multi-modal Grounding Model", arXiv, 2024 (*ByteDance*). [[Paper](https://arxiv.org/abs/2401.06071)][[PyTorch](https://github.com/lzw-lzw/GroundingGPT)][[Website](https://lzw-lzw.github.io/GroundingGPT.github.io/)]
     * **InternLM-XComposer2-4KHD**: "InternLM-XComposer2-4KHD: A Pioneering Large Vision-Language Model Handling Resolutions from 336 Pixels to 4K HD", arXiv, 2024 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2404.06512)][[PyTorch](https://github.com/InternLM/InternLM-XComposer)]
+    * **Ferret-v2**: "Ferret-v2: An Improved Baseline for Referring and Grounding with Large Language Models", arXiv, 2024 (*Apple*). [[Paper](https://arxiv.org/abs/2404.07973)]
+    * **LocVLM**: "Learning to Localize Objects Improves Spatial Reasoning in Visual-LLMs", arXiv, 2024 (*Meta*). [[Paper](https://arxiv.org/abs/2404.07449)]
 * Conversation (Video):
     * **Video-ChatCaptioner**: "Video ChatCaptioner: Towards the Enriched Spatiotemporal Descriptions", arXiv, 2023 (*KAUST*). [[Paper](https://arxiv.org/abs/2304.04227)][[PyTorch](https://github.com/Vision-CAIR/ChatCaptioner)]
     * **ChatVideo**: "ChatVideo: A Tracklet-centric Multimodal and Versatile Video Understanding System", arXiv, 2023 (*Fudan*). [[Paper](https://arxiv.org/abs/2304.14407)][[Website](https://www.wangjunke.info/ChatVideo/)]
