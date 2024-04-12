@@ -178,6 +178,7 @@ If you find this repository useful, please consider citing this list:
 * **3D-LFM**: "3D-LFM: Lifting Foundation Model", arXiv, 2023 (*CMU*). [[Paper](https://arxiv.org/abs/2312.11894)][[Code](https://github.com/mosamdabhi/3dlfm)][[Webite](https://3dlfm.github.io/)]
 * **LAST-PCL**: "Language-Assisted 3D Scene Understanding", AAAI, 2024 (*Peking*). [[Paper](https://arxiv.org/abs/2312.11451)][[Code (in construction)](https://github.com/yanmin-wu/LAST-PCL)]
 * **MM-Point**: "MM-Point: Multi-View Information-Enhanced Multi-Modal Self-Supervised 3D Point Cloud Understanding", AAAI, 2024 (*Southeast University, China*). [[Paper](https://arxiv.org/abs/2402.10002)]
+* **Point-PEFT**: "Point-PEFT: Parameter-Efficient Fine-Tuning for 3D Pre-trained Models", AAAI, 2024 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2310.03059)][[PyTorch](https://github.com/Ivan-Tang-3D/Point-PEFT)]
 * **DAPT**: "Dynamic Adapter Meets Prompt Tuning: Parameter-Efficient Transfer Learning for Point Cloud Analysis", CVPR, 2024 (*Huazhong University of Science and Technology (HUST)*). [[Paper](https://arxiv.org/abs/2403.01439)][[PyTorch](https://github.com/LMD0311/DAPT)]
 * **UniPVU-Human**: "A Unified Framework for Human-centric Point Cloud Video Understanding", CVPR, 2024 (*ShanghaiTech*). [[Paper](https://arxiv.org/abs/2403.20031)]
 * **PointMamba**: "PointMamba: A Simple State Space Model for Point Cloud Analysis", arXiv, 2024 (*Huazhong University of Science and Technology*). [[Paper](https://arxiv.org/abs/2402.10739)][[PyTorch](https://github.com/LMD0311/PointMamba)]
@@ -695,6 +696,7 @@ If you find this repository useful, please consider citing this list:
     * **ULDA**: "Unified Language-driven Zero-shot Domain Adaptation", CVPR, 2024 (*CUHK*). [[Paper](https://arxiv.org/abs/2404.07155)]
     * **LLaVO**: "Large Language Models as Visual Cross-Domain Learners", arXiv, 2024 (*Southern University of Science and Technology*). [[Paper](https://arxiv.org/abs/2401.03253)][[Website](https://ll-a-vo.github.io/)][[PyTorch](https://github.com/LL-a-VO/LLaVO)]
     * **LaGTrAn**: "Tell, Don't Show!: Language Guidance Eases Transfer Across Domains in Images and Videos", arXiv, 2024 (*UCSD*). [[Paper](https://arxiv.org/abs/2403.05535)][[Website](https://tarun005.github.io/lagtran/)]
+    * **DGMamba**: "DGMamba: Domain Generalization via Generalized State Space Model", arXiv, 2024 (*SJTU*). [[Paper](https://arxiv.org/abs/2404.07794)][[Code (in construction)](https://github.com/longshaocong/DGMamba)]
 * X-Supervised:
     * **Semiformer**: "Semi-Supervised Vision Transformers", ECCV, 2022 (*Fudan University*). [[Paper](https://arxiv.org/abs/2111.11067)][[PyTorch](https://github.com/wengzejia1/Semiformer)]
     * **SVL-Adapter**: "SVL-Adapter: Self-Supervised Adapter for Vision-Language Pretrained Models", BMVC, 2022 (*UCL*). [[Paper](https://arxiv.org/abs/2210.03794)][[Code (in construction)](https://github.com/omipan/svl_adapter)]
@@ -721,6 +723,7 @@ If you find this repository useful, please consider citing this list:
     * **?**: "Text-to-Image Diffusion Models are Zero-Shot Classifiers", NeurIPS, 2023 (*DeepMind*). [[Paper](https://arxiv.org/abs/2303.15233)]
     * **AutoCLIP**: "AutoCLIP: Auto-tuning Zero-Shot Classifiers for Vision-Language Models", arXiv, 2023 (*Bosch*). [[Paper](https://arxiv.org/abs/2309.16414)]
     * **MMPT**: "Prompt Tuning for Zero-shot Compositional Learning", arXiv, 2023 (*Samsung*). [[Paper](https://arxiv.org/abs/2312.02191)]
+    * **ZSLViT**: "Progressive Semantic-Guided Vision Transformer for Zero-Shot Learning", CVPR, 2024 (*MBZUAI*). [[Paper](https://arxiv.org/abs/2404.07713)]
 * X-Shot:
     * **CrossTransformer**: "CrossTransformers: spatially-aware few-shot transfer", NeurIPS, 2020 (*DeepMind*). [[Paper](https://arxiv.org/abs/2007.11498)][[Tensorflow](https://github.com/google-research/meta-dataset)]
     * **URT**: "A Universal Representation Transformer Layer for Few-Shot Image Classification", ICLR, 2021 (*Mila*). [[Paper](https://openreview.net/forum?id=04cII6MumYV)][[PyTorch](https://github.com/liulu112601/URT)]
