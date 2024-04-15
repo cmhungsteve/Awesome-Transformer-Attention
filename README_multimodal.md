@@ -1415,9 +1415,11 @@ If you find this repository useful, please consider citing this list:
     * **M2IB**: "Visual Explanations of Image-Text Representations via Multi-Modal Information Bottleneck Attribution", NeurIPS, 2023 (*NYU*). [[Paper](https://arxiv.org/abs/2312.17174)]
     * **?**: "Interpreting CLIP's Image Representation via Text-Based Decomposition", arXiv, 2023 (*Berkeley*). [[Paper](https://arxiv.org/abs/2310.05916)][[PyTorch](https://github.com/yossigandelsman/clip_prs)][[Website](https://yossigandelsman.github.io/clip_decomposition/)]
     * **vit-interpret**: "Interpreting and Controlling Vision Foundation Models via Text Explanations", arXiv, 2023 (*Columbia*). [[Paper](https://arxiv.org/abs/2310.10591)][[PyTorch](https://github.com/tonychenxyz/vit-interpret)]
+    * **?**: "Probing the 3D Awareness of Visual Foundation Models", CVPR, 2024 (*Google*). [[Paper](https://arxiv.org/abs/2404.08636)][[PyTorch](https://github.com/mbanani/probe3d)]
     * **MMVP**: "Eyes Wide Shut? Exploring the Visual Shortcomings of Multimodal LLMs", arXiv, 2024 (*NYU*). [[Paper](https://arxiv.org/abs/2401.06209)][[PyTorch](https://github.com/tsb0601/MMVP)][[Website](https://tsb0601.github.io/mmvp_blog/)]
     * **?**: "Exploring Perceptual Limitation of Multimodal Large Language Models", arXiv, 2024 (*USC*). [[Paper](https://arxiv.org/abs/2402.07384)][[PyTorch](https://github.com/saccharomycetes/mllm-perceptual-limitation)]
     * **DejaVu-Momerization**: "Déjà Vu Memorization in Vision-Language Models", arXiv, 2024 (*Meta*). [[Paper](https://arxiv.org/abs/2402.02103)]
+    * **?**: "Scaling (Down) CLIP: A Comprehensive Analysis of Data, Architecture, and Training Strategies", arXiv, 2024 (*DeepMind*). [[Paper](https://arxiv.org/abs/2404.08197)]
 * Speaker Localization:
     * **?**: "The Right to Talk: An Audio-Visual Transformer Approach", ICCV, 2021 (*University of Arkansas*). [[Paper](https://arxiv.org/abs/2108.03256)]
 * Multi-task:
