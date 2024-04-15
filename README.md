@@ -1586,6 +1586,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **CAT-SAM**: "CAT-SAM: Conditional Tuning Network for Few-Shot Adaptation of Segmentation Anything Model", arXiv, 2024 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2402.03631)][[PyTorch (in construction)](https://github.com/weihao1115/cat-sam)][[Website](https://xiaoaoran.github.io/projects/CAT-SAM)]
     * **BLO-SAM**: "BLO-SAM: Bi-level Optimization Based Overfitting-Preventing Finetuning of SAM", arXiv, 2024 (*UCSD*). [[Paper](https://arxiv.org/abs/2402.16338)][[PyTorch](https://github.com/importZL/BLO-SAM)]
     * **P<sup>2</sup>SAM**: "Part-aware Personalized Segment Anything Model for Patient-Specific Segmentation", arXiv, 2024 (*UMich*). [[Paper](https://arxiv.org/abs/2403.05433)]
+    * **RA**: "Practical Region-level Attack against Segment Anything Models", arXiv, 2024 (*UIUC*). [[Paper](https://arxiv.org/abs/2404.08255)]
 * Vision-Language:
     * **LSeg**: "Language-driven Semantic Segmentation", ICLR, 2022 (*Cornell*). [[Paper](https://arxiv.org/abs/2201.03546)][[PyTorch](https://github.com/isl-org/lang-seg)]
     * **ZegFormer**: "Decoupling Zero-Shot Semantic Segmentation", CVPR, 2022 (*Wuhan University*). [[Paper](https://arxiv.org/abs/2112.07910)][[PyTorch](https://github.com/dingjiansw101/ZegFormer)]
@@ -1681,6 +1682,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **GROUNDHOG**: "GROUNDHOG: Grounding Large Language Models to Holistic Segmentation", CVPR, 2024 (*Amazon*). [[Paper](https://arxiv.org/abs/2402.16846)][[Website](https://groundhog-mllm.github.io/)]
     * **PSALM**: "PSALM: Pixelwise SegmentAtion with Large Multi-Modal Model", arXiv, 2024 (*Huazhong University of Science and Technology*). [[Paper](https://arxiv.org/abs/2403.14598)][[PyTorch](https://github.com/zamling/PSALM)]
     * **LLaVASeg**: "Empowering Segmentation Ability to Multi-modal Large Language Models", arXiv, 2024 (*vivo*). [[Paper](https://arxiv.org/abs/2403.14141)]
+    * **LaSagnA**: "LaSagnA: Language-based Segmentation Assistant for Complex Queries", arXiv, 2024 (*Meituan*). [[Paper](https://arxiv.org/abs/2404.08506)][[PyTorch](https://github.com/congvvc/LaSagnA)]
 * Universal Segmentation:
     * **K-Net**: "K-Net: Towards Unified Image Segmentation", NeurIPS, 2021 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2106.14855)][[PyTorch](https://github.com/ZwwWayne/K-Net/)]
     * **Mask2Former**: "Masked-attention Mask Transformer for Universal Image Segmentation", CVPR, 2022 (*Meta*). [[Paper](https://arxiv.org/abs/2112.01527)][[PyTorch](https://github.com/facebookresearch/Mask2Former)][[Website](https://bowenc0221.github.io/mask2former/)]
@@ -2358,7 +2360,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **VideoMAC**: "VideoMAC: Video Masked Autoencoders Meet ConvNets", CVPR, 2024 (*Nanjing University of Science and Technology*). [[Paper](https://arxiv.org/abs/2402.19082)]
     * **GPM**: "Self-supervised Video Object Segmentation with Distillation Learning of Deformable Attention", arXiv, 2024 (*HKUST*). [[Paper](https://arxiv.org/abs/2401.13937)]
     * **MV2MAE**: "MV2MAE: Multi-View Video Masked Autoencoders", arXiv, 2024 (*Amazon*). [[Paper](https://arxiv.org/abs/2401.15900)][[PyTorch](https://github.com/NUST-Machine-Intelligence-Laboratory/VideoMAC)]
-    * **V-JEPA**: "Revisiting Feature Prediction for Learning Visual Representations from Video", arXiv, 2024 (*Meta*). [[Paper](https://ai.meta.com/blog/v-jepa-yann-lecun-ai-model-video-joint-embedding-predictive-architecture/)][[PyTorch](https://github.com/facebookresearch/jepa)]
+    * **V-JEPA**: "Revisiting Feature Prediction for Learning Visual Representations from Video", arXiv, 2024 (*Meta*). [[Paper](https://arxiv.org/abs/2404.08471)][[PyTorch](https://github.com/facebookresearch/jepa)][[Website](https://ai.meta.com/blog/v-jepa-yann-lecun-ai-model-video-joint-embedding-predictive-architecture/)]
 * Transfer Learning/Adaptation:
     * **APT**: "Attention Prompt Tuning: Parameter-efficient Adaptation of Pre-trained Models for Spatiotemporal Modeling", FG, 2024 (*JHU*). [[Paper](https://arxiv.org/abs/2403.06978)][[PyTorch](https://github.com/wgcban/apt)]
 * X-shot:
@@ -2376,8 +2378,9 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **ADTR**: "ADTR: Anomaly Detection Transformer with Feature Reconstruction", International Conference on Neural Information Processing (ICONIP), 2022 (*Shanghai Jiao Tong University*). [[Paper](https://arxiv.org/abs/2209.01816)]
     * **SSMCTB**: "Self-Supervised Masked Convolutional Transformer Block for Anomaly Detection", arXiv, 2022 (*UCF*). [[Paper](https://arxiv.org/abs/2209.12148)][[Code (in construction)](https://github.com/ristea/ssmctb)]
     * **?**: "Multi-Contextual Predictions with Vision Transformer for Video Anomaly Detection", arXiv, 2022 (*Korea University*). [[Paper](https://arxiv.org/abs/2206.08568)]
-    * **CLIP-TSA**: "CLIP-TSA: CLIP-Assisted Temporal Self-Attention for Weakly-Supervised Video Anomaly Detection", arXiv, 2022 (*University of Arkansas*). [[Paper](https://arxiv.org/abs/2212.05136)]
+    * **CLIP-TSA**: "CLIP-TSA: CLIP-Assisted Temporal Self-Attention for Weakly-Supervised Video Anomaly Detection", ICIP, 2023 (*University of Arkansas*). [[Paper](https://arxiv.org/abs/2212.05136)]
     * **?**: "Prompt-Guided Zero-Shot Anomaly Action Recognition using Pretrained Deep Skeleton Features", CVPR, 2023 (*Konica Minolta, Japan*). [[Paper](https://arxiv.org/abs/2303.15167)]
+    * **TPWNG**: "Text Prompt with Normality Guidance for Weakly Supervised Video Anomaly Detection", CVPR, 2024 (*Xidian University*). [[Paper](https://arxiv.org/abs/2404.08531)]
 * Relation Detection:
     * **VidVRD**: "Video Relation Detection via Tracklet based Visual Transformer", ACMMMW, 2021 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2108.08669)][[PyTorch](https://github.com/Dawn-LX/VidVRD-tracklets)]
     * **VRDFormer**: "VRDFormer: End-to-End Video Visual Relation Detection With Transformers", CVPR, 2022 (*Renmin University of China*). [[Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Zheng_VRDFormer_End-to-End_Video_Visual_Relation_Detection_With_Transformers_CVPR_2022_paper.html)][[Code (in construction)](https://github.com/zhengsipeng/VRDFormer_VRD)]
