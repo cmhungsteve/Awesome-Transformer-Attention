@@ -750,6 +750,7 @@ If you find this repository useful, please consider citing this list:
     * **Hint-Aug**: "Hint-Aug: Drawing Hints from Foundation Vision Transformers Towards Boosted Few-Shot Parameter-Efficient Tuning", CVPR, 2023 (*Georgia Tech*). [[Paper](https://arxiv.org/abs/2304.12520)]
     * **ProD**: "ProD: Prompting-To-Disentangle Domain Knowledge for Cross-Domain Few-Shot Image Classification", CVPR, 2023 (*University of Technology Sydney*). [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Ma_ProD_Prompting-To-Disentangle_Domain_Knowledge_for_Cross-Domain_Few-Shot_Image_Classification_CVPR_2023_paper.html)]
     * **PVP**: "PVP: Pre-trained Visual Parameter-Efficient Tuning", arXiv, 2023 (*Defense Innovation Institute, China*). [[Paper](https://arxiv.org/abs/2304.13639)]
+    * **AMU-Tuning**: "AMU-Tuning: Effective Logit Bias for CLIP-based Few-shot Learning", CVPR, 2024 (*Tianjin University*). [[Paper](https://arxiv.org/abs/2404.08958)]
 * Continual Learning:
     * **MEAT**: "Meta-attention for ViT-backed Continual Learning", CVPR, 2022 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2203.11684)][[Code (in construction)](https://github.com/zju-vipa/MEAT-TIL)]
     * **DyTox**: "DyTox: Transformers for Continual Learning with DYnamic TOken eXpansion", CVPR, 2022 (*Sorbonne Universite, France*). [[Paper](https://arxiv.org/abs/2111.11326)][[PyTorch](https://github.com/arthurdouillard/dytox)]
