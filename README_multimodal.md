@@ -653,6 +653,7 @@ If you find this repository useful, please consider citing this list:
     * **TiMix**: "TiMix: Text-aware Image Mixing for Effective Vision-Language Pre-training", AAAI, 2024 (*Peking*). [[Paper](https://arxiv.org/abs/2312.08846)]
     * **ECLIPSE**: "Expediting Contrastive Language-Image Pretraining via Self-distilled Encoders", AAAI, 2024 (*LG*). [[Paper](https://arxiv.org/abs/2312.12659)]
     * **ASM**: "The All-Seeing Project: Towards Panoptic Visual Recognition and Understanding of the Open World", ICLR, 2024 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2308.01907)][[PyTorch](https://github.com/OpenGVLab/All-Seeing)][[Demo](https://huggingface.co/spaces/OpenGVLab/all-seeing)]
+    * **VLAP**: "Bridging Vision and Language Spaces with Assignment Prediction", ICLR, 2024 (*Yonsei*). [[Paper](https://arxiv.org/abs/2404.09632)]
     * **NARVL**: "Non-autoregressive Sequence-to-Sequence Vision-Language Models", CVPR, 2024 (*Amazon*). [[Paper](https://arxiv.org/abs/2403.02249)]
     * **S4**: "Enhancing Vision-Language Pre-training with Rich Supervisions", CVPR, 2024 (*Amazon*). [[Paper](https://arxiv.org/abs/2403.03346)]
     * **IL-CLIP**: "Iterated Learning Improves Compositionality in Large Vision-Language Models", CVPR, 2024 (*UW*). [[Paper](https://arxiv.org/abs/2404.02145)]
