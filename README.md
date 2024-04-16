@@ -132,6 +132,7 @@ If you find this repository useful, please consider citing this list:
 
 ## Survey
 * "A Survey on Multimodal Large Language Models for Autonomous Driving", WACVW, 2024 (*Purdue*). [[Paper](https://arxiv.org/abs/2311.12320)][[GitHub](https://github.com/IrohXu/Awesome-Multimodal-LLM-Autonomous-Driving)]
+* "State Space Model for New-Generation Network Alternative to Transformers: A Survey", arXiv, 2024 (*Anhui University*). [[Paper](https://arxiv.org/abs/2404.09516)][[GitHub](https://github.com/Event-AHU/Mamba_State_Space_Model_Paper_List)]
 * "Exploring the Frontier of Vision-Language Models: A Survey of Current Methodologies and Future Directions", arXiv, 2024 (*IIT Patna*). [[Paper](https://arxiv.org/abs/2404.07214)]
 * "From Pixels to Insights: A Survey on Automatic Chart Understanding in the Era of Large Foundation Models", arXiv, 2024 (*UIUC*). [[Paper](https://arxiv.org/abs/2403.12027)][[GitHub](https://github.com/khuangaf/Awesome-Chart-Understanding)]
 * "Parameter-Efficient Fine-Tuning for Large Models: A Comprehensive Survey", arXiv, 2024 (*Northeastern*). [[Paper](https://arxiv.org/abs/2403.14608)]
@@ -1216,6 +1217,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **LogicHOI**: "Neural-Logic Human-Object Interaction Detection", NeurIPS, 2023 (*University of Technology Sydney*). [[Paper](https://arxiv.org/abs/2311.09817)][[Code (in construction)](https://github.com/weijianan1/LogicHOI)]
 * **?**: "Exploiting CLIP for Zero-shot HOI Detection Requires Knowledge Distillation at Multiple Levels", arXiv, 2023 (*KU Leuven*). [[Paper](https://arxiv.org/abs/2309.05069)]
 * **DP-HOI**: "Disentangled Pre-training for Human-Object Interaction Detection", CVPR, 2024 (*South China University of Technology*). [[Paper](https://arxiv.org/abs/2404.01725)][[Code (in construction)](https://github.com/xingaoli/DP-HOI)]
+* **HOI-Ref**: "HOI-Ref: Hand-Object Interaction Referral in Egocentric Vision", arXiv, 2024 (*University of Bristol, UK*). [[Paper](https://arxiv.org/abs/2404.09933)][[PyTorch](https://github.com/Sid2697/HOI-Ref)][[Website](https://sid2697.github.io/hoi-ref/)]
 
 [[Back to Overview](#overview)]
 
@@ -1329,6 +1331,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **SS-OWFormer**: "Semi-supervised Open-World Object Detection", AAAI, 2024 (*MBZUAI*). [[Paper](https://arxiv.org/abs/2402.16013)][[PyTorch](https://github.com/sahalshajim/SS-OWFormer)]
     * **DVDet**: "LLMs Meet VLMs: Boost Open Vocabulary Object Detection with Fine-grained Descriptors", ICLR, 2024 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2402.04630)]
     * **GenerateU**: "Generative Region-Language Pretraining for Open-Ended Object Detection", CVPR, 2024 (*Monash University*). [[Paper](https://arxiv.org/abs/2403.10191)][[PyTorch](https://github.com/FoundationVision/GenerateU)]
+    * **DetCLIPv3**: "DetCLIPv3: Towards Versatile Generative Open-vocabulary Object Detection", CVPR, 2024 (*Huawei*). [[Paper](https://arxiv.org/abs/2404.09216)]
     * **MM-Grounding-DINO**: "An Open and Comprehensive Pipeline for Unified Object Grounding and Detection", arXiv, 2024 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2401.02361)][[PyTorch](https://github.com/open-mmlab/mmdetection/tree/main/configs/grounding_dino)]
     * **YOLO-World**: "YOLO-World: Real-Time Open-Vocabulary Object Detection", arXiv, 2024 (*Tencent*). [[Paper](https://arxiv.org/abs/2401.17270)][[Code (in construction)](https://github.com/AILab-CVC/YOLO-World)]
     * **T-Rex2**: "T-Rex2: Towards Generic Object Detection via Text-Visual Prompt Synergy", arXiv, 2024 (*IDEA*). [[Paper](https://arxiv.org/abs/2403.14610)][[PyTorch](https://github.com/IDEA-Research/T-Rex)][[Website](https://deepdataspace.com/home)]
