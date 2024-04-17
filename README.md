@@ -524,6 +524,7 @@ If you find this repository useful, please consider citing this list:
 * **Cached-Transformer**: "Cached Transformers: Improving Transformers with Differentiable Memory Cache", AAAI, 2024 (*CUHK*). [[Paper](https://arxiv.org/abs/2312.12742)]
 * **LF-ViT**: "LF-ViT: Reducing Spatial Redundancy in Vision Transformer for Efficient Image Recognition", AAAI, 2024 (*Harbin Institute of Technology*). [[Paper](https://arxiv.org/abs/2402.00033)][[PyTorch](https://github.com/edgeai1/LF-ViT)]
 * **EfficientMod**: "Efficient Modulation for Vision Networks", ICLR, 2024 (*Microsoft*). [[Paper](https://arxiv.org/abs/2403.19963)][[PyTorch](https://github.com/ma-xu/EfficientMod)]
+* **NOSE**: "MLP Can Be A Good Transformer Learner", CVPR, 2024 (*MBZUAI*). [[Paper](https://arxiv.org/abs/2404.05657)][[PyTorch](https://github.com/sihaoevery/lambda_vit)]
 * **S<sup>2</sup>**: "When Do We Not Need Larger Vision Models?", arXiv, 2024 (*Berkeley*). [[Paper](https://arxiv.org/abs/2403.13043)][[PyTorch](https://github.com/bfshi/scaling_on_scales)]
 #### Conv + Transformer
 * **LeViT**: "LeViT: a Vision Transformer in ConvNet's Clothing for Faster Inference", ICCV, 2021 (*Facebook*). [[Paper](https://arxiv.org/abs/2104.01136)][[PyTorch](https://github.com/facebookresearch/LeViT)]
@@ -1332,6 +1333,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **DVDet**: "LLMs Meet VLMs: Boost Open Vocabulary Object Detection with Fine-grained Descriptors", ICLR, 2024 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2402.04630)]
     * **GenerateU**: "Generative Region-Language Pretraining for Open-Ended Object Detection", CVPR, 2024 (*Monash University*). [[Paper](https://arxiv.org/abs/2403.10191)][[PyTorch](https://github.com/FoundationVision/GenerateU)]
     * **DetCLIPv3**: "DetCLIPv3: Towards Versatile Generative Open-vocabulary Object Detection", CVPR, 2024 (*Huawei*). [[Paper](https://arxiv.org/abs/2404.09216)]
+    * **RALF**: "Retrieval-Augmented Open-Vocabulary Object Detection", CVPR, 2024 (*Korea University*). [[Paper](https://arxiv.org/abs/2404.05687)][[Code (in construction)](https://github.com/mlvlab/RALF)]
     * **MM-Grounding-DINO**: "An Open and Comprehensive Pipeline for Unified Object Grounding and Detection", arXiv, 2024 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2401.02361)][[PyTorch](https://github.com/open-mmlab/mmdetection/tree/main/configs/grounding_dino)]
     * **YOLO-World**: "YOLO-World: Real-Time Open-Vocabulary Object Detection", arXiv, 2024 (*Tencent*). [[Paper](https://arxiv.org/abs/2401.17270)][[Code (in construction)](https://github.com/AILab-CVC/YOLO-World)]
     * **T-Rex2**: "T-Rex2: Towards Generic Object Detection via Text-Visual Prompt Synergy", arXiv, 2024 (*IDEA*). [[Paper](https://arxiv.org/abs/2403.14610)][[PyTorch](https://github.com/IDEA-Research/T-Rex)][[Website](https://deepdataspace.com/home)]
@@ -2070,6 +2072,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **UMT**: "On Uni-Modal Feature Learning in Supervised Multi-Modal Learning", ICML, 2023 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2305.01233)]
     * **?**: "Multimodal Distillation for Egocentric Action Recognition", ICCV, 2023 (*KU Leuven*). [[Paper](https://arxiv.org/abs/2307.07483)]
     * **MotionBERT**: "MotionBERT: Unified Pretraining for Human Motion Analysis", ICCV, 2023 (*Peking University*). [[Paper](https://arxiv.org/abs/2210.06551)][[PyTorch](https://github.com/Walter0807/MotionBERT)][[Website](https://motionbert.github.io/)]
+    * **TIM**: "TIM: A Time Interval Machine for Audio-Visual Action Recognition", CVPR, 2024 (*University of Bristol + Oxford*). [[Paper](https://arxiv.org/abs/2404.05559)][[PyTorch](https://github.com/JacobChalk/TIM)][[Website](https://jacobchalk.github.io/TIM-Project/)]
 * Group Activity:
     * **GroupFormer**: "GroupFormer: Group Activity Recognition with Clustered Spatial-Temporal Transformer", ICCV, 2021 (*Sensetime*). [[Paper](https://arxiv.org/abs/2108.12630)]
     * **?**: "Hunting Group Clues with Transformers for Social Group Activity Recognition", ECCV, 2022 (*Hitachi*). [[Paper](https://arxiv.org/abs/2207.05254)]
