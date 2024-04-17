@@ -1332,6 +1332,7 @@ If you find this repository useful, please consider citing this list:
 * **MemoNav**: "MemoNav: Working Memory Model for Visual Navigation", CVPR, 2024 (*CAS*). [[Paper](https://arxiv.org/abs/2402.19161)]
 * **OVER-NAV**: "OVER-NAV: Elevating Iterative Vision-and-Language Navigation with Open-Vocabulary Detection and StructurEd Representation", CVPR, 2024 (*HKU*). [[Paper](https://arxiv.org/abs/2403.17334)]
 * **HNR**: "Lookahead Exploration with Neural Radiance Representation for Continuous Vision-Language Navigation", CVPR, 2024 (*CAS*). [[Paper](https://arxiv.org/abs/2404.01943)][[Code (in construction)](https://github.com/MrZihan/HNR-VLN)]
+* **GOAT**: "Vision-and-Language Navigation via Causal Learning", CVPR, 2024 (*Tongji University*). [[Paper](https://arxiv.org/abs/2404.10241)][[PyTorch](https://github.com/CrystalSixone/VLN-GOAT)]
 * **MapGPT**: "MapGPT: Map-Guided Prompting for Unified Vision-and-Language Navigation", arXiv, 2024 (*HKU*). [[Paper](https://arxiv.org/abs/2401.07314)]
 * **V-IRL**: "V-IRL: Grounding Virtual Intelligence in Real Life", arXiv, 2024 (*NYU*). [[Paper](https://arxiv.org/abs/2402.03310)][[PyTorch (in construction)](https://github.com/VIRL-Platform/VIRL)][[Website](https://virl-platform.github.io/)]
 
