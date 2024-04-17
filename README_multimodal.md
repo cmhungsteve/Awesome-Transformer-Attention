@@ -750,6 +750,7 @@ If you find this repository useful, please consider citing this list:
     * **vid-TLDR**: "vid-TLDR: Training Free Token merging for Light-weight Video Transformer", CVPR, 2024 (*Korea University*). [[Paper](https://arxiv.org/abs/2403.13347)][[Code (in construction)](https://github.com/mlvlab/vid-TLDR)]
     * **VidLA**: "VidLA: Video-Language Alignment at Scale", CVPR, 2024 (*Amazon*). [[Paper](https://arxiv.org/abs/2403.14870)]
     * **OmniVid**: "OmniVid: A Generative Framework for Universal Video Understanding", CVPR, 2024 (*Fudan*). [[Paper](https://arxiv.org/abs/2403.17935)][[Code (in construction)](https://github.com/wangjk666/OmniVid)]
+    * **MA-LMM**: "MA-LMM: Memory-Augmented Large Multimodal Model for Long-Term Video Understanding", CVPR, 2024 (*Meta*). [[Paper](https://arxiv.org/abs/2404.05726)][[Website](https://boheumd.github.io/MA-LMM/)][[PyTorch](https://github.com/boheumd/MA-LMM)]
     * **VIIT**: "Distilling Vision-Language Models on Millions of Videos", arXiv, 2024 (*Google*). [[Paper](https://arxiv.org/abs/2401.06129)][[Website](https://zhaoyue-zephyrus.github.io/video-instruction-tuning/)]
     * **FiGCLIP**: "FiGCLIP: Fine-Grained CLIP Adaptation via Densely Annotated Videos", arXiv, 2024 (*IIIT Hyderabad*). [[Paper](https://arxiv.org/abs/2401.07669)][[Code (in construction)](https://github.com/Darshansingh11/FiGCLIP)]
     * **LWM**: "World Model on Million-Length Video And Language With RingAttention", arXiv, 2024 (*Berkeley*). [[Paper](https://arxiv.org/abs/2402.08268)][[JAX](https://github.com/LargeWorldModel/LWM)][[Website](https://largeworldmodel.github.io/)]
@@ -778,6 +779,7 @@ If you find this repository useful, please consider citing this list:
     * **data2vec-2.0**: "Efficient Self-supervised Learning with Contextualized Target Representations for Vision, Speech and Language", ICML, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2212.07525)][[PyTorch](https://github.com/facebookresearch/fairseq/tree/main/examples/data2vec)]
     * **VAST**: "VAST: A Vision-Audio-Subtitle-Text Omni-Modality Foundation Model and Dataset", NeurIPS, 2023 (*CAS*). [[Paper](https://arxiv.org/abs/2305.18500)][[Code (in construction)](https://github.com/TXH-mercury/VAST)]
     * **VALOR**: "VALOR: Vision-Audio-Language Omni-Perception Pretraining Model and Dataset", arXiv, 2023 (*CAS*). [[Paper](https://arxiv.org/abs/2304.08345)][[PyTorch](https://github.com/TXH-mercury/VALOR)][[Website](https://casia-iva-group.github.io/projects/VALOR/)]
+    * **MC3**: "SoundingActions: Learning How Actions Sound from Narrated Egocentric Videos", CVPR, 2024 (*Meta*). [[Paper](https://arxiv.org/abs/2404.05206)][[Website](https://vision.cs.utexas.edu/projects/soundingactions/)]
 * More than 3 modalities:
     * **Meta-Transformer**: "Meta-Transformer: A Unified Framework for Multimodal Learning", arXiv, 2023 (*CUHK*). [[Paper](https://arxiv.org/abs/2307.10802)][[Code (in construction)](https://github.com/invictus717/MetaTransformer)][[Website](https://kxgong.github.io/meta_transformer/)]
     * **UnIVAL**: "Unified Model for Image, Video, Audio and Language Tasks", arXiv, 2023 (*Sorbonne University, France*). [[Paper](https://arxiv.org/abs/2307.16184)][[PyTorch](https://github.com/mshukor/UnIVAL)][[Website](https://unival-model.github.io/)]
@@ -1259,6 +1261,7 @@ If you find this repository useful, please consider citing this list:
 * **RD**: "Efficient End-to-End Visual Document Understanding with Rationale Distillation", arXiv, 2023 (*DeepMind*). [[Paper](https://arxiv.org/abs/2311.09612)]
 * **RoDLA**: "RoDLA: Benchmarking the Robustness of Document Layout Analysis Models", CVPR, 2024 (*Karlsruhe Institute of Technology (KIT), Germnay*). [[Paper](https://arxiv.org/abs/2403.14442)][[PyTorch](https://github.com/yufanchen96/RoDLA)][[Website](https://yufanchen96.github.io/projects/RoDLA/)]
 * **HRVDA**: "HRVDA: High-Resolution Visual Document Assistant", CVPR, 2024 (*Tencent*). [[Paper](https://arxiv.org/abs/2404.06918)]
+* **LayoutLLM**: "LayoutLLM: Layout Instruction Tuning with Large Language Models for Document Understanding", CVPR, 2024 (*Alibaba*). [[Paper](https://arxiv.org/abs/2404.05225)][[Code (in construction)](https://github.com/AlibabaResearch/AdvancedLiterateMachinery/tree/main/DocumentUnderstanding/LayoutLLM)]
 * **ScreenAI**: "ScreenAI: A Vision-Language Model for UI and Infographics Understanding", arXiv, 2024 (*Google*). [[Paper](https://arxiv.org/abs/2402.04615)]
 * **DoCo**: "Enhancing Visual Document Understanding with Contrastive Learning in Large Visual-Language Models", arXiv, 2024 (*Tencent*). [[Paper](https://arxiv.org/abs/2402.19014)]
 * **mPLUG-DocOwl-1.5**: "mPLUG-DocOwl 1.5: Unified Structure Learning for OCR-free Document Understanding", arXiv, 2024 (*Alibaba*). [[Paper](https://arxiv.org/abs/2403.12895)][[Code (in construction)](https://github.com/X-PLUG/mPLUG-DocOwl/tree/main/DocOwl1.5)]
@@ -1760,6 +1763,7 @@ If you find this repository useful, please consider citing this list:
     * **MathVerse**: "MathVerse: Does Your Multi-modal LLM Truly See the Diagrams in Visual Math Problems?", arXiv, 2024 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2403.14624)][[PyTorch](https://github.com/ZrrSkywalker/MathVerse)][[Website](https://mathverse-cuhk.github.io/)]
     * **GroundingGPT**: "GroundingGPT: Language Enhanced Multi-modal Grounding Model", arXiv, 2024 (*ByteDance*). [[Paper](https://arxiv.org/abs/2401.06071)][[PyTorch](https://github.com/lzw-lzw/GroundingGPT)][[Website](https://lzw-lzw.github.io/GroundingGPT.github.io/)]
     * **InternLM-XComposer2-4KHD**: "InternLM-XComposer2-4KHD: A Pioneering Large Vision-Language Model Handling Resolutions from 336 Pixels to 4K HD", arXiv, 2024 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2404.06512)][[PyTorch](https://github.com/InternLM/InternLM-XComposer)]
+    * **Ferret-UI**: "Ferret-UI: Grounded Mobile UI Understanding with Multimodal LLMs", arXiv, 2024 (*Apple*). [[Paper](https://arxiv.org/abs/2404.05719)]
     * **Ferret-v2**: "Ferret-v2: An Improved Baseline for Referring and Grounding with Large Language Models", arXiv, 2024 (*Apple*). [[Paper](https://arxiv.org/abs/2404.07973)]
     * **LocVLM**: "Learning to Localize Objects Improves Spatial Reasoning in Visual-LLMs", arXiv, 2024 (*Meta*). [[Paper](https://arxiv.org/abs/2404.07449)]
 * Conversation (Video):
@@ -1912,6 +1916,7 @@ If you find this repository useful, please consider citing this list:
 * Model Compression:
     * **ECoFLaP**: "ECoFLaP: Efficient Coarse-to-Fine Layer-Wise Pruning for Vision-Language Models", arXiv, 2023 (*UNC*). [[Paper](https://arxiv.org/abs/2310.02998)][[PyTorch](https://github.com/ylsung/ECoFLaP)][[Website](https://ecoflap.github.io/)]
     * **MoPE-CLIP**: "MoPE-CLIP: Structured Pruning for Efficient Vision-Language Models with Module-wise Pruning Error Metric", CVPR, 2024 (*CAS*). [[Paper](https://arxiv.org/abs/2403.07839)]
+    * **MULTIFLOW**: "MULTIFLOW: Shifting Towards Task-Agnostic Vision-Language Pruning", CVPR, 2024 (*University of Trento*). [[Paper](https://arxiv.org/abs/2404.05621)][[PyTorch](https://github.com/FarinaMatteo/multiflow)]
 * Relation Extraction:
     * **OVRE**: "Open-Vocabulary Video Relation Extraction", AAAI, 2024 (*Fudan*). [[Paper](https://arxiv.org/abs/2312.15670)][[PyTorch (in construction)](https://github.com/Iriya99/OVRE)]
 * Applications:
