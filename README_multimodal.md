@@ -1210,6 +1210,7 @@ If you find this repository useful, please consider citing this list:
 * **?**: "Facing the Elephant in the Room: Visual Prompt Tuning or Full Finetuning?", ICLR, 2024 (*Rochester Institute of Technology*). [[Paper](https://arxiv.org/abs/2401.12902)]
 * **PromptKD**: "PromptKD: Unsupervised Prompt Distillation for Vision-Language Models", CVPR, 2024 (*Nankai University*). [[Paper](https://arxiv.org/abs/2403.02781)][[PyTorch](https://github.com/zhengli97/PromptKD)][[Website](https://zhengli97.github.io/PromptKD/)]
 * **TDA**: "Efficient Test-Time Adaptation of Vision-Language Models", CVPR, 2024 (*MBZUAI*). [[Paper](https://arxiv.org/abs/2403.18293)][[PyTorch](https://github.com/kdiAAA/TDA)][[Website](https://kdiaaa.github.io/tda/)]
+* **TVP**: "Exploring the Transferability of Visual Prompting for Multimodal Large Language Models", CVPR, 2024 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2404.11207)][[PyTorch](https://github.com/zycheiheihei/Transferable-Visual-Prompting)]
 * **ProText**: "Learning to Prompt with Text Only Supervision for Vision-Language Models", arXiv, 2024 (*MBZUAI*). [[Paper](https://arxiv.org/abs/2401.02418)][[PyTorch](https://github.com/muzairkhattak/ProText)][[Website](https://muzairkhattak.github.io/ProText/)]
 * **Any-shift**: "Any-Shift Prompting for Generalization over Distributions", arXiv, 2024 (*UvA*). [[Paper](https://arxiv.org/abs/2402.10099)]
 * **SPT**: "Revisiting the Power of Prompt for Visual Tuning", arXiv, 2024 (*Hefei University of Technology*). [[Paper](https://arxiv.org/abs/2402.02382)][[PyTorch](https://github.com/WangYZ1608/Self-Prompt-Tuning)]
@@ -1898,8 +1899,9 @@ If you find this repository useful, please consider citing this list:
     * **SugarCrepe**: "SugarCrepe: Fixing Hackable Benchmarks for Vision-Language Compositionality", NeurIPS, 2023 (*AI2*). [[Paper](https://arxiv.org/abs/2306.14610)][[PyTorch](https://github.com/RAIVNLab/sugar-crepe)]
     * **DAC**: "Dense and Aligned Captions (DAC) Promote Compositional Reasoning in VL Models", NeurIPS, 2023 (*IBM*). [[Paper](https://arxiv.org/abs/2305.19595)]
     * **CoVLM**: "CoVLM: Composing Visual Entities and Relationships in Large Language Models Via Communicative Decoding", arXiv, 2023 (*UMass*). [[Paper](https://arxiv.org/abs/2311.03354)][[PyTorch](https://github.com/UMass-Foundation-Model/CoVLM)][[Website](https://vis-www.cs.umass.edu/CoVLM/)]
-* Vocabulary-free Image Classification (VIC):
+* Vocabulary-free:
     * **CaSED**: "Vocabulary-free Image Classification", NeurIPS, 2023 (*University of Trento, Italy*). [[Paper](https://arxiv.org/abs/2306.00917)][[PyTorch](https://github.com/altndrr/vic)]
+    * **CaSED**: "Vocabulary-free Image Classification and Semantic Segmentation", arXiv, 2024 (*University of Trento, Italy*). [[Paper](https://arxiv.org/abs/2404.10864)][[PyTorch](https://github.com/altndrr/vicss)]
 * Retrieval Augmentated Methods:
     * **?**: "Improving Image Recognition by Retrieving from Web-Scale Image-Text Data", CVPR, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2304.05173)]
 * NeRF:
