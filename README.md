@@ -1765,6 +1765,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **RefT**: "Reference Twice: A Simple and Unified Baseline for Few-Shot Instance Segmentation", arXiv, 2023 (*Tencent*). [[Paper](https://arxiv.org/abs/2301.01156)][[Code (in construction)](https://github.com/hanyue1648/RefT)]
     * **?**: "Multi-Modal Prototypes for Open-Set Semantic Segmentation", arXiv, 2023 (*Shanghai Jiao Tong*). [[Paper](https://arxiv.org/abs/2307.02003)]
     * **SPINO**: "Few-Shot Panoptic Segmentation With Foundation Models", arXiv, 2023 (*University of Freiburg, Germany*). [[Paper](https://arxiv.org/abs/2309.10726)][[Website](http://spino.cs.uni-freiburg.de/)]
+    * **?**: "Visual Prompting for Generalized Few-shot Segmentation: A Multi-scale Approach", CVPR, 2024 (*UBC*). [[Paper](https://arxiv.org/abs/2404.11732)]
     * **RefLDM-Seg**: "Explore In-Context Segmentation via Latent Diffusion Models", arXiv, 2024 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2403.09616)][[Code (in construction)](https://github.com/wang-chaoyang/RefLDMSeg)][[Website](https://wang-chaoyang.github.io/project/refldmseg/)]
 * X-Supervised:
     * **MCTformer**: "Multi-class Token Transformer for Weakly Supervised Semantic Segmentation", CVPR, 2022 (*The University of Western Australia*). [[Paper](https://arxiv.org/abs/2203.02891)][[Code (in construction)](https://github.com/xulianuwa/MCTformer)]
@@ -1817,6 +1818,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **SemiVL**: "SemiVL: Semi-Supervised Semantic Segmentation with Vision-Language Guidance", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2311.16241)][[PyTorch](https://github.com/google-research/semivl)]
     * **Self-reinforcement**: "Progressive Uncertain Feature Self-reinforcement for Weakly Supervised Semantic Segmentation", AAAI, 2024 (*Zhejiang Lab*). [[Paper](https://arxiv.org/abs/2312.08916)][[PyTorch](https://github.com/Jessie459/feature-self-reinforcement)]
     * **FeatUp**: "FeatUp: A Model-Agnostic Framework for Features at Any Resolution", ICLR, 2024 (*MIT*). [[Paper](https://arxiv.org/abs/2403.10516)]
+    * **Zip-Your-CLIP**: "The devil is in the object boundary: towards annotation-free instance segmentation using Foundation Models", ICLR, 2024 (*ShanghaiTech*). [[Paper](https://arxiv.org/abs/2404.11957)][[PyTorch](https://github.com/ChengShiest/Zip-Your-CLIP)]
     * **SeCo**: "Separate and Conquer: Decoupling Co-occurrence via Decomposition and Representation for Weakly Supervised Semantic Segmentation", CVPR, 2024 (*Fudan*). [[Paper](https://arxiv.org/abs/2402.18467)][[Code (in construction)](https://github.com/zwyang6/SeCo)]
     * **AllSpark**: "AllSpark: Reborn Labeled Features from Unlabeled in Transformer for Semi-Supervised Semantic Segmentation", CVPR, 2024 (*HKUST*). [[Paper](https://arxiv.org/abs/2403.01818)][[PyTorch](https://github.com/xmed-lab/AllSpark)]
     * **CPAL**: "Hunting Attributes: Context Prototype-Aware Learning for Weakly Supervised Semantic Segmentation", CVPR, 2024 (*Monash University*). [[Paper](https://arxiv.org/abs/2403.07630)][[Code (in construction)](https://github.com/Barrett-python/CPAL)]
@@ -1941,6 +1943,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **PartDistillation**: "PartDistillation: Learning Parts from Instance Segmentation", CVPR, 2023 (*Meta*). [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Cho_PartDistillation_Learning_Parts_From_Instance_Segmentation_CVPR_2023_paper.html)]
 * Entity Segmentation:
     * **AIMS**: "AIMS: All-Inclusive Multi-Level Segmentation", NeurIPS, 2023 (*UC Merced*). [[Paper](https://arxiv.org/abs/2305.17768)][[PyTorch](https://github.com/dvlab-research/Entity)]
+    * **SOHES**: "SOHES: Self-supervised Open-world Hierarchical Entity Segmentation", ICLR, 2024 (*Adobe*). [[Paper](https://arxiv.org/abs/2404.12386)][[Website](https://sohes.github.io/)]
 * Evaluation:
     * **?**: "Robustness Analysis on Foundational Segmentation Models", arXiv, 2023 (*UCF*). [[Paper](https://arxiv.org/abs/2306.09278)][[PyTorch](https://github.com/DeepLearningRobustnessStudies/SegmetationRobustness)]
 * Interactive Segmentation:
@@ -2181,6 +2184,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **Point-VOS**: "Point-VOS: Pointing Up Video Object Segmentation", arXiv, 2024 (*RWTH Aachen University, Germany*). [[Paper](https://arxiv.org/abs/2402.05917)][[Website](https://pointvos.github.io/)]
 * **MAVOS**: "Efficient Video Object Segmentation via Modulated Cross-Attention Memory", arXiv, 2024 (*MBZUAI*). [[Paper](https://arxiv.org/abs/2403.17937)][[Code (in construction)](https://github.com/Amshaker/MAVOS)]
 * **STMA**: "Spatial-Temporal Multi-level Association for Video Object Segmentation", arXiv, 2024 (*Harbin Institute of Technology*). [[Paper](https://arxiv.org/abs/2404.06265)]
+* **Flow-SAM**: "Moving Object Segmentation: All You Need Is SAM (and Flow)", arXiv, 2024 (*Oxford*). [[Paper](https://arxiv.org/abs/2404.12389)][[Website](https://www.robots.ox.ac.uk/~vgg/research/flowsam/)]
 
 [[Back to Overview](#overview)]
 
