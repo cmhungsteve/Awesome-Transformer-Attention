@@ -1539,7 +1539,6 @@ If you find this repository useful, please consider citing this list:
     * **ShapeGPT**: "ShapeGPT: 3D Shape Generation with A Unified Multi-modal Language Model", arXiv, 2023 (*Tencent*). [[Paper](https://arxiv.org/abs/2311.17618)][[Website](https://shapegpt.github.io/)][[Website](https://github.com/OpenShapeLab/ShapeGPT)]
     * **LEGaussain**: "Language Embedded 3D Gaussians for Open-Vocabulary Scene Understanding", arXiv, 2023 (*Beihang*). [[Paper](https://arxiv.org/abs/2311.18482)]
     * **Gaussian-Grouping**: "Gaussian Grouping: Segment and Edit Anything in 3D Scenes", arXiv, 2023 (*ETHZ*). [[Paper](https://arxiv.org/abs/2312.00732)][[Code (in construction)](https://github.com/lkeab/gaussian-grouping)]
-    * **GPT4Point**: "GPT4Point: A Unified Framework for Point-Language Understanding and Generation", arXiv, 2023 (*HKU*). [[Paper](https://arxiv.org/abs/2312.02980)][[PyTorch](https://github.com/Pointcept/PointBLIP)][[Website](https://gpt4point.github.io/)]
     * **LangSplat**: "LangSplat: 3D Language Gaussian Splatting", arXiv, 2023 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2312.16084)][[PyTorch](https://github.com/minghanqin/LangSplat)][[Website](https://langsplat.github.io/)]
     * **Open-NeRF**: "Open-NeRF: Towards Open Vocabulary NeRF Decomposition", WACV, 2024 (*UIUC*). [[Paper](https://arxiv.org/abs/2310.16383)]
     * **OpenNeRF**: "OpenNeRF: Open Set 3D Neural Scene Segmentation with Pixel-Wise Features and Rendered Novel Views", ICLR, 2024 (*Google*). [[Paper](https://arxiv.org/abs/2404.03650)][[PyTorch](https://github.com/opennerf/opennerf)][[Website](https://opennerf.github.io/)]
@@ -1767,6 +1766,7 @@ If you find this repository useful, please consider citing this list:
     * **Ferret-UI**: "Ferret-UI: Grounded Mobile UI Understanding with Multimodal LLMs", arXiv, 2024 (*Apple*). [[Paper](https://arxiv.org/abs/2404.05719)]
     * **Ferret-v2**: "Ferret-v2: An Improved Baseline for Referring and Grounding with Large Language Models", arXiv, 2024 (*Apple*). [[Paper](https://arxiv.org/abs/2404.07973)]
     * **LocVLM**: "Learning to Localize Objects Improves Spatial Reasoning in Visual-LLMs", arXiv, 2024 (*Meta*). [[Paper](https://arxiv.org/abs/2404.07449)]
+    * **Reka**: "Reka Core, Flash, and Edge: A Series of Powerful Multimodal Language Models", arXiv, 2024 (*Reka.ai*). [[Paper](https://arxiv.org/abs/2404.12387)][[Website](https://showcase.reka.ai/)]
 * Conversation (Video):
     * **Video-ChatCaptioner**: "Video ChatCaptioner: Towards the Enriched Spatiotemporal Descriptions", arXiv, 2023 (*KAUST*). [[Paper](https://arxiv.org/abs/2304.04227)][[PyTorch](https://github.com/Vision-CAIR/ChatCaptioner)]
     * **ChatVideo**: "ChatVideo: A Tracklet-centric Multimodal and Versatile Video Understanding System", arXiv, 2023 (*Fudan*). [[Paper](https://arxiv.org/abs/2304.14407)][[Website](https://www.wangjunke.info/ChatVideo/)]
@@ -1795,11 +1795,13 @@ If you find this repository useful, please consider citing this list:
     * **VideoAgent**: "VideoAgent: A Memory-augmented Multimodal Agent for Video Understanding", arXiv, 2024 (*BIGAI*). [[Paper](https://arxiv.org/abs/2403.11481)][[Website](https://videoagent.github.io/)]
     * **MiniGPT4-Video**: "MiniGPT4-Video: Advancing Multimodal LLMs for Video Understanding with Interleaved Visual-Textual Tokens", arXiv, 2024 (*KAUST*). [[Paper](https://arxiv.org/abs/2404.03413)][[PyTorch](https://github.com/Vision-CAIR/MiniGPT4-video)][[Website](https://vision-cair.github.io/MiniGPT4-video/)]
     * **Elysium**: "Elysium: Exploring Object-level Perception in Videos via MLLM", arXiv, 2024 (*ByteDance*). [[Paper](https://arxiv.org/abs/2403.16558)][[Code (in construction)](https://github.com/Hon-Wong/Elysium)]
+    * **RED-VILLM**: "From Image to Video, what do we need in multimodal LLMs?", arXiv, 2024 (*Xiaohongshu*). [[Paper](https://arxiv.org/abs/2404.11865)]
 * Conversation (3D):
     * **3D-LLM**: "3D-LLM: Injecting the 3D World into Large Language Models", NeurIPS, 2023 (*UCLA*). [[Paper](https://arxiv.org/abs/2307.12981)][[PyTorch](https://github.com/UMass-Foundation-Model/3D-LLM)][[Website](https://vis-www.cs.umass.edu/3dllm/)]
     * **Chat-3D**: "Chat-3D: Data-efficiently Tuning Large Language Model for Universal Dialogue of 3D Scenes", arXiv, 2023 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2308.08769)][[PyTorch](https://github.com/Chat-3D/Chat-3D)][[Website](https://chat-3d.github.io/)]
     * **Chat-3D-v2**: "Chat-3D v2: Bridging 3D Scene and Large Language Models with Object Identifiers", arXiv, 2023 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2312.08168)][[Code (in construction)](https://github.com/Chat-3D/Chat-3D-v2)]
     * **LiDAR-LLM**: "LiDAR-LLM: Exploring the Potential of Large Language Models for 3D LiDAR Understanding", arXiv, 2023 (*Peking*). [[Paper](https://arxiv.org/abs/2312.14074)][[Code (in construction)](https://github.com/Yangsenqiao/LiDAR-LLM)][[Website](https://sites.google.com/view/lidar-llm)]
+    * **GPT4Point**: "GPT4Point: A Unified Framework for Point-Language Understanding and Generation", CVPR, 2024 (*HKU*). [[Paper](https://arxiv.org/abs/2312.02980)][[PyTorch](https://github.com/Pointcept/GPT4Point)][[Website](https://gpt4point.github.io/)]
     * **Uni3D-LLM**: "Uni3D-LLM: Unifying Point Cloud Perception, Generation and Editing with Large Language Models", arXiv, 2024 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2402.03327)]
     * **ShapeLLM**: "ShapeLLM: Universal 3D Object Understanding for Embodied Interaction", arXiv, 2024 (*Megvii*). [[Paper](https://arxiv.org/abs/2402.17766)][[Code (in construction)](https://github.com/qizekun/ShapeLLM)][[Website](https://qizekun.github.io/shapellm/)]
     * **Agent3D-Zero**: "Agent3D-Zero: An Agent for Zero-shot 3D Understanding", arXiv, 2024 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2403.11835)][[Website](https://zhangsha1024.github.io/Agent3D-Zero/)]
@@ -1881,6 +1883,7 @@ If you find this repository useful, please consider citing this list:
     * **Ch<sup>3</sup>Ef**: "Assessment of Multimodal Large Language Models in Alignment with Human Values", arXiv, 2024 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2403.17830)][[PyTorch](https://github.com/OpenGVLab/LAMM)][[Website](https://openlamm.github.io/ch3ef/)]
     * **UPD**: "Unsolvable Problem Detection: Evaluating Trustworthiness of Vision Language Models", arXiv, 2024 (*University of Tokyo*). [[Paper](https://arxiv.org/abs/2403.20331)][[PyTorch](https://github.com/AtsuMiyai/UPD)]
     * **MMStar**: "Are We on the Right Way for Evaluating Large Vision-Language Models?", arXiv, 2024 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2403.20330)][[Code (in construction)](https://github.com/MMStar-Benchmark/MMStar)][[Website](https://mmstar-benchmark.github.io/)]
+    * **BLINK**: "BLINK: Multimodal Large Language Models Can See but Not Perceive", arXiv, 2024 (*AI2*). [[Paper](https://arxiv.org/abs/2404.12390)][[Code](https://github.com/zeyofu/BLINK_Benchmark)][[Website](https://zeyofu.github.io/blink/)]
 * Robustness:
     * **Hierarchy-CLIP**: "Improving Zero-shot Generalization and Robustness of Multi-modal Models", CVPR, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2212.01758)][[JAX](https://github.com/gyhandy/Hierarchy-CLIP)][[Website](https://sites.google.com/usc.edu/hierarchy-clip/)]
     * **?**: "Mitigating Spurious Correlations in Multi-modal Models during Fine-tuning", ICML, 2023 (*UCLA*). [[Paper](https://arxiv.org/abs/2304.03916)]
