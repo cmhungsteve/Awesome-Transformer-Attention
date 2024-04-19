@@ -185,6 +185,7 @@ If you find this repository useful, please consider citing this list:
 * **Swin3D++**: "Swin3D++: Effective Multi-Source Pretraining for 3D Indoor Scene Understanding", arXiv, 2024 (*Microsoft*). [[Paper](https://arxiv.org/abs/2402.14215)]
 * **PCM**: "Point Could Mamba: Point Cloud Learning via State Space Model", arXiv, 2024 (*Skywork AI, China*). [[Paper](https://arxiv.org/abs/2403.00762)][[Code (in construction)](https://github.com/zhang-tao-whu/PCM)]
 * **Point-Mamba**: "Point Mamba: A Novel Point Cloud Backbone Based on State Space Model with Octree-Based Ordering Strategy", arXiv, 2024 (*Shanghai Jiao Tong*). [[Paper](https://arxiv.org/abs/2403.06467)][[PyTorch](https://github.com/IRMVLab/Point-Mamba)]
+* **PIC-S**: "Point-In-Context: Understanding Point Cloud via In-Context Learning", arXiv, 2024 (*Peking*). [[Paper](https://arxiv.org/abs/2404.12352)][[Website](https://fanglaosi.github.io/Point-In-Context_Pages/)][[PyTorch](https://github.com/fanglaosi/Point-In-Context)]
 
 [[Back to Overview](#overview)]
 
