@@ -390,6 +390,7 @@ If you find this repository useful, please consider citing this list:
     * **Griffon-v2**: "Griffon v2: Advancing Multimodal Perception with High-Resolution Scaling and Visual-Language Co-Referring", arXiv, 2024 (*CAS*). [[Paper](https://arxiv.org/abs/2403.09333)][[PyTorch](https://github.com/jefferyZhan/Griffon)]
     * **RelationVLM**: "RelationVLM: Making Large Vision-Language Models Understand Visual Relations", arXiv, 2024 (*Microsoft*). [[Paper](https://arxiv.org/abs/2403.12801)]
     * **SynGround**: "Learning from Models and Data for Visual Grounding", arXiv, 2024 (*Rice*). [[Paper](https://arxiv.org/abs/2403.13804)][[Website](https://catherine-r-he.github.io/SynGround/)]
+    * **Groma**: "Groma: Localized Visual Tokenization for Grounding Multimodal Large Language Models", arXiv, 2024 (*ByteDance*). [[Paper](https://arxiv.org/abs/2404.13013)][[PyTorch](https://github.com/FoundationVision/Groma)][[Website](https://groma-mllm.github.io/)]
 * Video:
     * **Multi-Stage-Transformer**: "Multi-Stage Aggregated Transformer Network for Temporal Language Localization in Videos", CVPR, 2021 (*University of Electronic Science and Technology of China*). [[Paper](https://openaccess.thecvf.com/content/CVPR2021/html/Zhang_Multi-Stage_Aggregated_Transformer_Network_for_Temporal_Language_Localization_in_Videos_CVPR_2021_paper.html)]
     * **GTR**: "On Pursuit of Designing Multi-modal Transformer for Video Grounding", EMNLP, 2021 (*Peking*). [[Paper](https://arxiv.org/abs/2109.06085)]
@@ -1216,6 +1217,7 @@ If you find this repository useful, please consider citing this list:
 * **SPT**: "Revisiting the Power of Prompt for Visual Tuning", arXiv, 2024 (*Hefei University of Technology*). [[Paper](https://arxiv.org/abs/2402.02382)][[PyTorch](https://github.com/WangYZ1608/Self-Prompt-Tuning)]
 * **LSPT**: "LSPT: Long-term Spatial Prompt Tuning for Visual Representation Learning", arXiv, 2024 (*Microsoft*). [[Paper](https://arxiv.org/abs/2402.17406)]
 * **MPVR**: "Meta-Prompting for Automating Zero-shot Visual Recognition with LLMs", arXiv, 2024 (*TU Graz, Austria*). [[Paper](https://arxiv.org/abs/2403.11755)][[PyTorch](https://github.com/jmiemirza/Meta-Prompting)][[Website](https://jmiemirza.github.io/Meta-Prompting/)]
+* **CDL**: "Pre-trained Vision-Language Models Learn Discoverable Visual Concepts", arXiv, 2024 (*Brown*). [[Paper](https://arxiv.org/abs/2404.12652)][[PyTorch](https://github.com/brown-palm/Concept-Discovery-and-Learning)][[Website](https://conceptdiscovery.github.io/)]
 
 [[Back to Overview](#overview)]
 
@@ -1807,6 +1809,7 @@ If you find this repository useful, please consider citing this list:
     * **Agent3D-Zero**: "Agent3D-Zero: An Agent for Zero-shot 3D Understanding", arXiv, 2024 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2403.11835)][[Website](https://zhangsha1024.github.io/Agent3D-Zero/)]
     * **?**: "Can 3D Vision-Language Models Truly Understand Natural Language?", arXiv, 2024 (*HKU*). [[Paper](https://arxiv.org/abs/2403.14760)][[Code (in construction)](https://github.com/VincentDENGP/3D-LR)]
     * **Scene-LLM**: "Scene-LLM: Extending Language Model for 3D Visual Understanding and Reasoning", arXiv, 2024 (*Meta*). [[Paper](https://arxiv.org/abs/2403.11401)]
+    * **Uni3DR<sup>2</sup>**: "Unified Scene Representation and Reconstruction for 3D Large Language Models", arXiv, 2024 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2404.13044)]
 * Conversation (Multi):
     * **AnyMAL**: "AnyMAL: An Efficient and Scalable Any-Modality Augmented Language Model", arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2309.16058)]
     * **OneLLM**: "OneLLM: One Framework to Align All Modalities with Language", arXiv, 2023 (*CUHK + Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2312.03700)][[PyTorch](https://github.com/csuhan/OneLLM)]
