@@ -893,7 +893,7 @@ If you find this repository useful, please consider citing this list:
     * **CoVR**: "CoVR: Learning Composed Video Retrieval from Web Video Captions", arXiv, 2023 (*Ecole des Ponts ParisTech (ENPC), France*). [[Paper](https://arxiv.org/abs/2308.14746)][[PyTorch](https://github.com/lucas-ventura/CoVR/)][[Website](https://imagine.enpc.fr/~ventural/covr/)]
     * **LanguageBind**: "LanguageBind: Extending Video-Language Pretraining to N-modality by Language-based Semantic Alignment", arXiv, 2023 (*Peking*). [[Paper](https://arxiv.org/abs/2310.01852)][[PyTorch](https://github.com/PKU-YuanGroup/LanguageBind)]
     * **10k-Words**: "A Video is Worth 10,000 Words: Training and Benchmarking with Diverse Captions for Better Long Video Retrieval", arXiv, 2023 (*SRI*). [[Paper](https://arxiv.org/abs/2312.00115)][[Website](https://mgwillia.github.io/10k-words/)]
-    * **DGL**: "DGL: Dynamic Global-Local Prompt Tuning for Text-Video Retrieval", AAAI, 2024 (*University of Technology Sydney*). [[Paper](https://arxiv.org/abs/2401.10588)]
+    * **DGL**: "DGL: Dynamic Global-Local Prompt Tuning for Text-Video Retrieval", AAAI, 2024 (*University of Technology Sydney*). [[Paper](https://arxiv.org/abs/2401.10588)][[PyTorch](https://github.com/knightyxp/DGL)]
     * **T-MASS**: "Text Is MASS: Modeling as Stochastic Embedding for Text-Video Retrieval", CVPR, 2024 (*Rochester Institute of Technology (RIT), NY*). [[Paper](https://arxiv.org/abs/2403.17998)][[PyTorch](https://github.com/Jiamian-Wang/T-MASS-text-video-retrieval)]
     * **?**: "Detours for Navigating Instructional Videos", arXiv, 2024 (*Meta*). [[Paper](https://arxiv.org/abs/2401.01823)]
 * Vision-Audio-Text:
