@@ -681,6 +681,7 @@ If you find this repository useful, please consider citing this list:
     * **SPHINX-V**: "Draw-and-Understand: Leveraging Visual Prompts to Enable MLLMs to Comprehend What You Want", arXiv, 2024 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2403.20271)][[PyTorch](https://github.com/AFeng-x/Draw-and-Understand)][[Website](https://draw-and-understand.github.io/)]
     * **MyVLM**: "MyVLM: Personalizing VLMs for User-Specific Queries", arXiv, 2024 (*Snap*). [[Paper](https://arxiv.org/abs/2403.14599)][[Code (in construction)](https://github.com/snap-research/MyVLM)][[Website](https://snap-research.github.io/MyVLM/)]
     * **BRAVE**: "BRAVE: Broadening the visual encoding of vision-language models", arXiv, 2024 (*Google*). [[Paper](https://arxiv.org/abs/2404.07204)][[Website](https://brave-vlms.epfl.ch/)]
+    * **SEED-X**: "SEED-X: Multimodal Models with Unified Multi-granularity Comprehension and Generation", arXiv, 2024 (*Tencent*). [[Paper](https://arxiv.org/abs/2404.14396)][[Code (in construction)](https://github.com/AILab-CVC/SEED-X)]
 * Video:
     * **COOT**: "COOT: Cooperative Hierarchical Transformer for Video-Text Representation Learning", NeurIPS, 2020 (*University of Freiburg*). [[Paper](https://arxiv.org/abs/2011.00597)][[PyTorch](https://github.com/gingsi/coot-videotext)]
     * **Parameter-Reduction**: "Parameter Efficient Multimodal Transformers for Video Representation Learning", ICLR, 2021 (*Seoul National University*). [[Paper](https://openreview.net/forum?id=6UdQLhqJyFD)]
@@ -1648,8 +1649,9 @@ If you find this repository useful, please consider citing this list:
     * **COMBO**: "Cooperation Does Matter: Exploring Multi-Order Bilateral Relations for Audio-Visual Segmentation", arXiv, 2023 (*CAS*). [[Paper](https://arxiv.org/abs/2312.06462)][[Code (in construction)](https://github.com/yannqi/COMBO-AVS)][[Website](https://combo-avs.github.io/)]
     * **UFE**: "Audio-Visual Segmentation via Unlabeled Frame Exploitation", CVPR, 2024 (*SJTU*). [[Paper](https://arxiv.org/abs/2403.11074)]
 * Audio Description:
-    * **AutoAD**: "AutoAD: Movie Description in Context", CVPR, 2023 (*Oxford*). [[Paper](https://arxiv.org/abs/2303.16899)][[PyTorch (in construction)](https://github.com/TengdaHan/AutoAD)][[Website](https://www.robots.ox.ac.uk/~vgg/research/autoad/)][[Website](https://www.robots.ox.ac.uk/~vgg/research/autoad/)]
+    * **AutoAD**: "AutoAD: Movie Description in Context", CVPR, 2023 (*Oxford*). [[Paper](https://arxiv.org/abs/2303.16899)][[PyTorch](https://github.com/TengdaHan/AutoAD)][[Website](https://www.robots.ox.ac.uk/~vgg/research/autoad/)][[Website](https://www.robots.ox.ac.uk/~vgg/research/autoad/)]
     * **AutoAD-II**: "AutoAD II: The Sequel - Who, When, and What in Movie Audio Description", ICCV, 2023 (*Oxford*). [[Paper](https://arxiv.org/abs/2310.06838)][[PyTorch](https://github.com/TengdaHan/AutoAD)][[Website](https://www.robots.ox.ac.uk/~vgg/research/autoad/)]
+    * **AutoAD-III**: "AutoAD III: The Prequel -- Back to the Pixels", CVPR, 2024 (*Oxford*). [[Paper](https://arxiv.org/abs/2404.14412)][[PyTorch](https://github.com/TengdaHan/AutoAD)][[Website](https://www.robots.ox.ac.uk/~vgg/research/autoad/)]
 * Sound Localization:
     * **TURN**: "Towards Effective Multi-Modal Interchanges in Zero-Resource Sounding Object Localization", NeurIPS, 2022 (*Zhejiang University*). [[Paper](https://openreview.net/forum?id=rQAJmrLmGC6)][[PyTorch (in construction)](https://github.com/AwalkZY/TURN)]
     * **AVGN**: "Audio-Visual Grouping Network for Sound Localization from Mixtures", CVPR, 2023 (*CMU*). [[Paper](https://arxiv.org/abs/2303.17056)][[PyTorch](https://github.com/stoneMo/AVGN)]
