@@ -859,6 +859,7 @@ If you find this repository useful, please consider citing this list:
 * **Zero-TP**: "Zero-TPrune: Zero-Shot Token Pruning through Leveraging of the Attention Graph in Pre-Trained Transformers", arXiv, 2023 (*Princeton*). [[Paper](https://arxiv.org/abs/2305.17328)]
 * **?**: "Quantizable Transformers: Removing Outliers by Helping Attention Heads Do Nothing", arXiv, 2023 (*Qualcomm*). [[Paper](https://arxiv.org/abs/2306.12929)]
 * **VVTQ**: "Variation-aware Vision Transformer Quantization", arXiv, 2023 (*HKUST*). [[Paper](https://arxiv.org/abs/2307.00331)][[PyTorch](https://github.com/HuangOwen/VVTQ)]
+* **DIMAP**: "Data-independent Module-aware Pruning for Hierarchical Vision Transformers", ICLR, 2024 (*A\*STAR*). [[Paper](https://arxiv.org/abs/2404.13648)][[Code (in construction)](https://github.com/he-y/Data-independent-Module-Aware-Pruning)]
 * **MADTP**: "MADTP: Multimodal Alignment-Guided Dynamic Token Pruning for Accelerating Vision-Language Transformer", CVPR, 2024 (*Fudan*). [[Paper](https://arxiv.org/abs/2403.02991)][[Code (in construction)](https://github.com/double125/MADTP)]
 * **DC-ViT**: "Dense Vision Transformer Compression with Few Samples", CVPR, 2024 (*Nanjing University*). [[Paper](https://arxiv.org/abs/2403.18708)]
 
