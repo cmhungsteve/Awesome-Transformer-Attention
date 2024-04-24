@@ -152,6 +152,7 @@ If you find this repository useful, please consider citing this list:
     * **SCG-SP**: "Set Prediction Guided by Semantic Concepts for Diverse Video Captioning", AAAI, 2024 (*CAS*). [[Paper](https://arxiv.org/abs/2312.15720)]
     * **DIBS**: "DIBS: Enhancing Dense Video Captioning with Unlabeled Videos via Pseudo Boundary Enrichment and Online Refinement", CVPR, 2024 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2404.02755)]
     * **CM<sup>2</sup>**: "Do You Remember? Dense Video Captioning with Cross-Modal Memory Retrieval", CVPR, 2024 (*Kyung Hee University, Korea*). [[Paper](https://arxiv.org/abs/2404.07610)][[PyTorch](https://github.com/ailab-kyunghee/CM2_DVC)]
+    * **NAE**: "Narrative Action Evaluation with Prompt-Guided Multimodal Interaction", CVPR, 2024 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2404.14471)][[PyTorch (in construction)](https://github.com/shiyi-zh0408/NAE_CVPR2024)]
     * **EgoExoNCE**: "Retrieval-Augmented Egocentric Video Captioning", arXiv, 2024 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2401.00789)]
     * **Video-ReCap**: "Video ReCap: Recursive Captioning of Hour-Long Videos", arXiv, 2024 (*UNC*). [[Paper](https://arxiv.org/abs/2402.13250)][[PyTorch](https://github.com/md-mohaiminul/VideoRecap)][[Website](https://sites.google.com/view/vidrecap)]
 * 3D:
@@ -899,6 +900,9 @@ If you find this repository useful, please consider citing this list:
     * **?**: "Detours for Navigating Instructional Videos", arXiv, 2024 (*Meta*). [[Paper](https://arxiv.org/abs/2401.01823)]
 * Vision-Audio-Text:
     * **Multi-SK**: "Preserving Modality Structure Improves Multi-Modal Learning", ICCV, 2023 (*UCF*). [[Paper](https://arxiv.org/abs/2308.13077)][[Code (in construction)](https://github.com/Swetha5/Multi_Sinkhorn_Knopp)]
+* 3D:
+    * **Text2Loc**: "Text2Loc: 3D Point Cloud Localization from Natural Language", CVPR, 2024 (*TUM*). [[Paper](https://arxiv.org/abs/2311.15977)][[Code (in construction)](https://github.com/Yan-Xia/Text2Loc)][[Website](https://yan-xia.github.io/projects/text2loc/)]
+    * **Text2SGM**: ""Where am I?" Scene Retrieval with Language", arXiv, 2024 (*ETHZ*). [[Paper](https://arxiv.org/abs/2404.14565)]
 * Others:
     * **IRRA**: "Cross-Modal Implicit Relation Reasoning and Aligning for Text-to-Image Person Retrieval", CVPR, 2023 (*Wuhan University*). [[Paper](https://arxiv.org/abs/2303.12501)][[PyTorch](https://github.com/anosorae/IRRA)]
     * **ZS-SBIR**: "CLIP for All Things Zero-Shot Sketch-Based Image Retrieval, Fine-Grained or Not", CVPR, 2023 (*University of Surrey, UK*). [[Paper](https://arxiv.org/abs/2303.13440)][[PyTorch](https://github.com/aneeshan95/Sketch_LVM)]
@@ -1800,6 +1804,7 @@ If you find this repository useful, please consider citing this list:
     * **MiniGPT4-Video**: "MiniGPT4-Video: Advancing Multimodal LLMs for Video Understanding with Interleaved Visual-Textual Tokens", arXiv, 2024 (*KAUST*). [[Paper](https://arxiv.org/abs/2404.03413)][[PyTorch](https://github.com/Vision-CAIR/MiniGPT4-video)][[Website](https://vision-cair.github.io/MiniGPT4-video/)]
     * **Elysium**: "Elysium: Exploring Object-level Perception in Videos via MLLM", arXiv, 2024 (*ByteDance*). [[Paper](https://arxiv.org/abs/2403.16558)][[Code (in construction)](https://github.com/Hon-Wong/Elysium)]
     * **RED-VILLM**: "From Image to Video, what do we need in multimodal LLMs?", arXiv, 2024 (*Xiaohongshu*). [[Paper](https://arxiv.org/abs/2404.11865)]
+    * **Pegasus-1**: "Pegasus-1 Technical Report", arXiv, 2024 (*Twelve Labs, CA*). [[Paper](https://arxiv.org/abs/2404.14687)][[Blog](https://www.twelvelabs.io/blog/upgrading-pegasus-1)]
 * Conversation (3D):
     * **3D-LLM**: "3D-LLM: Injecting the 3D World into Large Language Models", NeurIPS, 2023 (*UCLA*). [[Paper](https://arxiv.org/abs/2307.12981)][[PyTorch](https://github.com/UMass-Foundation-Model/3D-LLM)][[Website](https://vis-www.cs.umass.edu/3dllm/)]
     * **Chat-3D**: "Chat-3D: Data-efficiently Tuning Large Language Model for Universal Dialogue of 3D Scenes", arXiv, 2023 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2308.08769)][[PyTorch](https://github.com/Chat-3D/Chat-3D)][[Website](https://chat-3d.github.io/)]
