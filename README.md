@@ -1705,6 +1705,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **PEM**: "PEM: Prototype-based Efficient MaskFormer for Image Segmentation", CVPR, 2024 (*Politecnico di Torino, Italy*). [[Paper](https://arxiv.org/abs/2402.19422)][[Code (in construction)](https://github.com/NiccoloCavagnero/PEM)]
     * **OMG-Seg**: "OMG-Seg: Is One Model Good Enough For All Segmentation?", arXiv, 2024 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2401.10229)][[PyTorch](https://github.com/lxtGH/OMG-Seg)][[Website](https://lxtgh.github.io/project/omg_seg/)]
     * **Uni-OVSeg**: "Open-Vocabulary Segmentation with Unpaired Mask-Text Supervision", arXiv, 2024 (*University of Sydney*). [[Paper](https://arxiv.org/abs/2402.08960)][[PyTorch (in construction)](https://github.com/DerrickWang005/Uni-OVSeg.pytorch)]
+    * **PRO-SCALE**: "Progressive Token Length Scaling in Transformer Encoders for Efficient Universal Segmentation", arXiv, 2024 (*NEC*). [[Paper](https://arxiv.org/abs/2404.14657)]
 * Multi-Modal:
     * **UCTNet**: "UCTNet: Uncertainty-Aware Cross-Modal Transformer Network for Indoor RGB-D Semantic Segmentation", ECCV, 2022 (*Lehigh University, Pennsylvania*). [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/7082_ECCV_2022_paper.php)]
     * **CMX**: "CMX: Cross-Modal Fusion for RGB-X Semantic Segmentation with Transformers", arXiv, 2022 (*Karlsruhe Institute of Technology, Germany*). [[Paper](https://arxiv.org/abs/2203.04838)][[PyTorch](https://github.com/huaaaliu/RGBX_Semantic_Segmentation)]
