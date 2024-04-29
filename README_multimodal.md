@@ -657,9 +657,12 @@ If you find this repository useful, please consider citing this list:
     * **ECLIPSE**: "Expediting Contrastive Language-Image Pretraining via Self-distilled Encoders", AAAI, 2024 (*LG*). [[Paper](https://arxiv.org/abs/2312.12659)]
     * **ASM**: "The All-Seeing Project: Towards Panoptic Visual Recognition and Understanding of the Open World", ICLR, 2024 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2308.01907)][[PyTorch](https://github.com/OpenGVLab/All-Seeing)][[Demo](https://huggingface.co/spaces/OpenGVLab/all-seeing)]
     * **VLAP**: "Bridging Vision and Language Spaces with Assignment Prediction", ICLR, 2024 (*Yonsei*). [[Paper](https://arxiv.org/abs/2404.09632)]
+    * **MetaCLIP**: "Demystifying CLIP Data", ICLR, 2024 (*Meta*). [[Paper](https://arxiv.org/abs/2309.16671)][[PyTorch](https://github.com/facebookresearch/MetaCLIP)]
     * **NARVL**: "Non-autoregressive Sequence-to-Sequence Vision-Language Models", CVPR, 2024 (*Amazon*). [[Paper](https://arxiv.org/abs/2403.02249)]
     * **S4**: "Enhancing Vision-Language Pre-training with Rich Supervisions", CVPR, 2024 (*Amazon*). [[Paper](https://arxiv.org/abs/2403.03346)]
     * **IL-CLIP**: "Iterated Learning Improves Compositionality in Large Vision-Language Models", CVPR, 2024 (*UW*). [[Paper](https://arxiv.org/abs/2404.02145)]
+    * **MoDE**: "MoDE: CLIP Data Experts via Clustering", CVPR, 2024 (*Meta*). [[Paper](https://arxiv.org/abs/2404.16030)][[PyTorch](https://github.com/facebookresearch/MetaCLIP/tree/main/mode)]
+    * **Multi-MaP**: "Multi-Modal Proxy Learning Towards Personalized Visual Multiple Clustering", CVPR, 2024 (*UW Tacoma*). [[Paper](https://arxiv.org/abs/2404.15655)][[PyTorch](https://github.com/Alexander-Yao/Multi-MaP)]
     * **COSMO**: "COSMO: COntrastive Streamlined MultimOdal Model with Interleaved Pre-Training", arXiv, 2024 (*Microsoft*). [[Paper](https://arxiv.org/abs/2401.00849)][[PyTorch](https://github.com/showlab/cosmo)][[Website](https://fingerrec.github.io/cosmo/)]
     * **?**: "Low-Resource Vision Challenges for Foundation Models", arXiv, 2024 (*UvA*). [[Paper](https://arxiv.org/abs/2401.04716)][[Code (in construction)](https://github.com/xiaobai1217/Low-Resource-Vision)][[Website](https://xiaobai1217.github.io/Low-Resource-Vision/)]
     * **UMG-CLIP**: "UMG-CLIP: A Unified Multi-Granularity Vision Generalist for Open-World Understanding", arXiv, 2024 (*Huawei*). [[Paper](https://arxiv.org/abs/2401.06397)]
@@ -683,6 +686,7 @@ If you find this repository useful, please consider citing this list:
     * **MyVLM**: "MyVLM: Personalizing VLMs for User-Specific Queries", arXiv, 2024 (*Snap*). [[Paper](https://arxiv.org/abs/2403.14599)][[Code (in construction)](https://github.com/snap-research/MyVLM)][[Website](https://snap-research.github.io/MyVLM/)]
     * **BRAVE**: "BRAVE: Broadening the visual encoding of vision-language models", arXiv, 2024 (*Google*). [[Paper](https://arxiv.org/abs/2404.07204)][[Website](https://brave-vlms.epfl.ch/)]
     * **SEED-X**: "SEED-X: Multimodal Models with Unified Multi-granularity Comprehension and Generation", arXiv, 2024 (*Tencent*). [[Paper](https://arxiv.org/abs/2404.14396)][[Code (in construction)](https://github.com/AILab-CVC/SEED-X)]
+    * **CatLIP**: "CatLIP: CLIP-level Visual Recognition Accuracy with 2.7x Faster Pre-training on Web-scale Image-Text Data", arXiv, 2024 (*Apple*). [[Paper](https://arxiv.org/abs/2404.15653)][[PyTorch](https://github.com/apple/corenet)]
 * Video:
     * **COOT**: "COOT: Cooperative Hierarchical Transformer for Video-Text Representation Learning", NeurIPS, 2020 (*University of Freiburg*). [[Paper](https://arxiv.org/abs/2011.00597)][[PyTorch](https://github.com/gingsi/coot-videotext)]
     * **Parameter-Reduction**: "Parameter Efficient Multimodal Transformers for Video Representation Learning", ICLR, 2021 (*Seoul National University*). [[Paper](https://openreview.net/forum?id=6UdQLhqJyFD)]
@@ -1776,6 +1780,7 @@ If you find this repository useful, please consider citing this list:
     * **Ferret-v2**: "Ferret-v2: An Improved Baseline for Referring and Grounding with Large Language Models", arXiv, 2024 (*Apple*). [[Paper](https://arxiv.org/abs/2404.07973)]
     * **LocVLM**: "Learning to Localize Objects Improves Spatial Reasoning in Visual-LLMs", arXiv, 2024 (*Meta*). [[Paper](https://arxiv.org/abs/2404.07449)]
     * **Reka**: "Reka Core, Flash, and Edge: A Series of Powerful Multimodal Language Models", arXiv, 2024 (*Reka.ai*). [[Paper](https://arxiv.org/abs/2404.12387)][[Website](https://showcase.reka.ai/)]
+    * **Cantor**: "Cantor: Inspiring Multimodal Chain-of-Thought of MLLM", arXiv, 2024 (*Tencent*). [[Paper](https://arxiv.org/abs/2404.16033)][[Code (in construction)](https://github.com/ggg0919/cantor)][[Website](https://ggg0919.github.io/cantor/)]
 * Conversation (Video):
     * **Video-ChatCaptioner**: "Video ChatCaptioner: Towards the Enriched Spatiotemporal Descriptions", arXiv, 2023 (*KAUST*). [[Paper](https://arxiv.org/abs/2304.04227)][[PyTorch](https://github.com/Vision-CAIR/ChatCaptioner)]
     * **ChatVideo**: "ChatVideo: A Tracklet-centric Multimodal and Versatile Video Understanding System", arXiv, 2023 (*Fudan*). [[Paper](https://arxiv.org/abs/2304.14407)][[Website](https://www.wangjunke.info/ChatVideo/)]
@@ -1897,6 +1902,7 @@ If you find this repository useful, please consider citing this list:
     * **UPD**: "Unsolvable Problem Detection: Evaluating Trustworthiness of Vision Language Models", arXiv, 2024 (*University of Tokyo*). [[Paper](https://arxiv.org/abs/2403.20331)][[PyTorch](https://github.com/AtsuMiyai/UPD)]
     * **MMStar**: "Are We on the Right Way for Evaluating Large Vision-Language Models?", arXiv, 2024 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2403.20330)][[Code (in construction)](https://github.com/MMStar-Benchmark/MMStar)][[Website](https://mmstar-benchmark.github.io/)]
     * **BLINK**: "BLINK: Multimodal Large Language Models Can See but Not Perceive", arXiv, 2024 (*AI2*). [[Paper](https://arxiv.org/abs/2404.12390)][[Code](https://github.com/zeyofu/BLINK_Benchmark)][[Website](https://zeyofu.github.io/blink/)]
+    * **MMT-Bench**: "MMT-Bench: A Comprehensive Multimodal Benchmark for Evaluating Large Vision-Language Models Towards Multitask AGI", arXiv, 2024 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2404.16006)]
 * Robustness:
     * **Hierarchy-CLIP**: "Improving Zero-shot Generalization and Robustness of Multi-modal Models", CVPR, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2212.01758)][[JAX](https://github.com/gyhandy/Hierarchy-CLIP)][[Website](https://sites.google.com/usc.edu/hierarchy-clip/)]
     * **?**: "Mitigating Spurious Correlations in Multi-modal Models during Fine-tuning", ICML, 2023 (*UCLA*). [[Paper](https://arxiv.org/abs/2304.03916)]
