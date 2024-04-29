@@ -1229,6 +1229,7 @@ If you find this repository useful, please consider citing this list:
     * **CLIPMat**: "Referring Image Matting", CVPR, 2023 (*The University of Sydney*). [[Paper](https://arxiv.org/abs/2206.05149)][[Code (in construction)](https://github.com/JizhiziLi/RIM)]
     * **ViTMatte**: "ViTMatte: Boosting Image Matting with Pretrained Plain Vision Transformers", arXiv, 2023 (*Xiaobing.AI*). [[Paper](https://arxiv.org/abs/2305.15272)]
     * **MAM**: "Matting Anything", arXiv, 2023 (*UIUC*). [[Paper](https://arxiv.org/abs/2306.05399)][[PyTorch](https://github.com/SHI-Labs/Matting-Anything)][[Website](https://chrisjuniorli.github.io/project/Matting-Anything/)]
+    * **MaGGIe**: "MaGGIe: Masked Guided Gradual Human Instance Matting", CVPR, 2024 (*Adobe*). [[Paper](https://arxiv.org/abs/2404.16035)][[Website](https://maggie-matt.github.io/)]
 * Reconstruction:
     * **ET-Net**: "Event-Based Video Reconstruction Using Transformer", ICCV, 2021 (*University of Science and Technology of China*). [[Paper](https://openaccess.thecvf.com/content/ICCV2021/html/Weng_Event-Based_Video_Reconstruction_Using_Transformer_ICCV_2021_paper.html)][[PyTorch](https://github.com/WarranWeng/ET-Net)]
     * **GradViT**: "GradViT: Gradient Inversion of Vision Transformers", CVPR, 2022 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2203.11894)][[Website](https://gradvit.github.io/)]
