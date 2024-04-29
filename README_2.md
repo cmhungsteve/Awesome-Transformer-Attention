@@ -1650,6 +1650,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
 * **ConSlide**: "ConSlide: Asynchronous Hierarchical Interaction Transformer with Breakup-Reorganize Rehearsal for Continual Whole Slide Image Analysis", ICCV, 2023 (*HKU*). [[Paper](https://arxiv.org/abs/2308.13324)]
 * **MOTCat**: "Multimodal Optimal Transport-based Co-Attention Transformer with Global Structure Consistency for Survival Prediction", ICCV, 2023 (*HKUST*). [[Paper](https://arxiv.org/abs/2306.08330)][[PyTorch](https://github.com/Innse/MOTCat)]
 * **ViT-DAE**: "ViT-DAE: Transformer-driven Diffusion Autoencoder for Histopathology Image Analysis", arXiv, 2023 (*Stony Brook*). [[Paper](https://arxiv.org/abs/2304.01053)]
+* **LoRKD**: "Low-Rank Knowledge Decomposition for Medical Foundation Models", CVPR, 2024 (*SJTU*). [[Paper](https://arxiv.org/abs/2404.17184)][[Code (in construction)](https://github.com/MediaBrain-SJTU/LoRKD)]
 
 [[Back to Overview](#overview)]
 
