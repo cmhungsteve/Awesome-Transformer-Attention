@@ -718,7 +718,6 @@ If you find this repository useful, please consider citing this list:
 * **Soft-MoE**: "From Sparse to Soft Mixtures of Experts", arXiv, 2023 (*DeepMind*). [[Paper](https://arxiv.org/abs/2308.00951)]
 * **DropPos**: "DropPos: Pre-Training Vision Transformers by Reconstructing Dropped Positions", NeurIPS, 2023 (*CAS*). [[Paper](https://arxiv.org/abs/2309.03576)][[PyTorch](https://github.com/Haochen-Wang409/DropPos)]
 * **MIRL**: "Masked Image Residual Learning for Scaling Deeper Vision Transformers", NeurIPS, 2023 (*Baidu*). [[Paper](https://arxiv.org/abs/2309.14136)]
-* **MetaCLIP**: "Demystifying CLIP Data", arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2309.16671)][[PyTorch](https://github.com/facebookresearch/MetaCLIP)]
 * **CMM**: "Investigating the Limitation of CLIP Models: The Worst-Performing Categories", arXiv, 2023 (*Nanjing University*). [[Paper](https://arxiv.org/abs/2310.03324)]
 * **LC-MAE**: "Longer-range Contextualized Masked Autoencoder", arXiv, 2023 (*NAVER*). [[Paper](https://arxiv.org/abs/2310.13593)]
 * **SILC**: "SILC: Improving Vision Language Pretraining with Self-Distillation", arXiv, 2023 (*ETHZ*). [[Paper](https://arxiv.org/abs/2310.13355)]
