@@ -898,6 +898,7 @@ If you find this repository useful, please consider citing this list:
     * **DGL**: "DGL: Dynamic Global-Local Prompt Tuning for Text-Video Retrieval", AAAI, 2024 (*University of Technology Sydney*). [[Paper](https://arxiv.org/abs/2401.10588)][[PyTorch](https://github.com/knightyxp/DGL)]
     * **T-MASS**: "Text Is MASS: Modeling as Stochastic Embedding for Text-Video Retrieval", CVPR, 2024 (*Rochester Institute of Technology (RIT), NY*). [[Paper](https://arxiv.org/abs/2403.17998)][[PyTorch](https://github.com/Jiamian-Wang/T-MASS-text-video-retrieval)]
     * **?**: "Detours for Navigating Instructional Videos", arXiv, 2024 (*Meta*). [[Paper](https://arxiv.org/abs/2401.01823)]
+    * **MultiCaps**: "Learning text-to-video retrieval from image captioning", arXiv, 2024 (*INRIA*). [[Paper](https://arxiv.org/abs/2404.17498)][[Website](https://imagine.enpc.fr/~ventural/multicaps/)]
 * Vision-Audio-Text:
     * **Multi-SK**: "Preserving Modality Structure Improves Multi-Modal Learning", ICCV, 2023 (*UCF*). [[Paper](https://arxiv.org/abs/2308.13077)][[Code (in construction)](https://github.com/Swetha5/Multi_Sinkhorn_Knopp)]
 * 3D:
@@ -1781,7 +1782,6 @@ If you find this repository useful, please consider citing this list:
     * **VideoChat**: "VideoChat: Chat-Centric Video Understanding", arXiv, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2305.06355)][[PyTorch](https://github.com/OpenGVLab/Ask-Anything)]
     * **Video-LLaMA**: "Video-LLaMA: An Instruction-tuned Audio-Visual Language Model for Video Understanding", arXiv, 2023 (*Alibaba*). [[Paper](https://arxiv.org/abs/2306.02858)][[PyTorch](https://github.com/DAMO-NLP-SG/Video-LLaMA)]
     * **Video-ChatGPT**: "Video-ChatGPT: Towards Detailed Video Understanding via Large Vision and Language Models", arXiv, 2023 (*MBZUAI*). [[Paper](https://arxiv.org/abs/2306.05424)][[PyTorch](https://github.com/mbzuai-oryx/Video-ChatGPT)]
-    * **MovieChat**: "MovieChat: From Dense Token to Sparse Memory for Long Video Understanding", arXiv, 2023 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2307.16449)][[PyTorch](https://github.com/rese1f/MovieChat)][[Website](https://rese1f.github.io/MovieChat/)]
     * **AntGPT**: "AntGPT: Can Large Language Models Help Long-term Action Anticipation from Videos?", arXiv, 2023 (*Brown*). [[Paper](https://arxiv.org/abs/2307.16368)][[Website](https://brown-palm.github.io/AntGPT/)]
     * **Video-LLaVA**: "Video-LLaVA: Learning United Visual Representation by Alignment Before Projection", arXiv, 2023 (*Peking*). [[Paper](https://arxiv.org/abs/2311.10122)][[PyTorch](https://github.com/PKU-YuanGroup/Video-LLaVA)]
     * **PG-Video-LLaVA**: "PG-Video-LLaVA: Pixel Grounding Large Video-Language Models", arXiv, 2023 (*MBZUAI*). [[Paper](https://arxiv.org/abs/2311.13435)][[Code (in construction)](https://github.com/mbzuai-oryx/Video-LLaVA)][[Website](https://mbzuai-oryx.github.io/Video-LLaVA/)]
@@ -1792,6 +1792,7 @@ If you find this repository useful, please consider citing this list:
     * **TimeChat**: "TimeChat: A Time-sensitive Multimodal Large Language Model for Long Video Understanding", arXiv, 2023 (*Peking*). [[Paper](https://arxiv.org/abs/2312.02051)][[Code (in construction)](https://github.com/RenShuhuai-Andy/TimeChat)]
     * **VaQuitA**: "VaQuitA: Enhancing Alignment in LLM-Assisted Video Understanding", arXiv, 2023 (*Adobe*). [[Paper](https://arxiv.org/abs/2312.02310)]
     * **?**: "Audio-Visual LLM for Video Understanding", arXiv, 2023 (*Alibaba*). [[Paper](https://arxiv.org/abs/2312.06720)]
+    * **MovieChat**: "MovieChat: From Dense Token to Sparse Memory for Long Video Understanding", CVPR, 2024 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2307.16449)][[PyTorch](https://github.com/rese1f/MovieChat)][[Website](https://rese1f.github.io/MovieChat/)]
     * **Mementos**: "Mementos: A Comprehensive Benchmark for Multimodal Large Language Model Reasoning over Image Sequences", arXiv, 2024 (*Maryland*). [[Paper](https://arxiv.org/abs/2401.10529)][[GitHub](https://github.com/umd-huang-lab/Mementos)]
     * **LVChat**: "LVCHAT: Facilitating Long Video Comprehension", arXiv, 2024 (*UCSD*). [[Paper](https://arxiv.org/abs/2402.12079)][[PyTorch](https://github.com/wangyu-ustc/LVChat)]
     * **Momentor**: "Momentor: Advancing Video Large Language Model with Fine-Grained Temporal Reasoning", arXiv, 2024 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2402.11435)][[Code (in construction)](https://github.com/DCDmllm/Momentor)]
@@ -1805,6 +1806,8 @@ If you find this repository useful, please consider citing this list:
     * **Elysium**: "Elysium: Exploring Object-level Perception in Videos via MLLM", arXiv, 2024 (*ByteDance*). [[Paper](https://arxiv.org/abs/2403.16558)][[Code (in construction)](https://github.com/Hon-Wong/Elysium)]
     * **RED-VILLM**: "From Image to Video, what do we need in multimodal LLMs?", arXiv, 2024 (*Xiaohongshu*). [[Paper](https://arxiv.org/abs/2404.11865)]
     * **Pegasus-1**: "Pegasus-1 Technical Report", arXiv, 2024 (*Twelve Labs, CA*). [[Paper](https://arxiv.org/abs/2404.14687)][[Blog](https://www.twelvelabs.io/blog/upgrading-pegasus-1)]
+    * **MovieChat+**: "MovieChat+: Question-aware Sparse Memory for Long Video Question Answering", arXiv, 2024 (*Zhejiang*). [[Paper](https://arxiv.org/abs/2404.17176)][[PyTorch](https://github.com/rese1f/MovieChat)][[Website](https://rese1f.github.io/MovieChat/)]
+    * **PLLaVA**: "PLLaVA: Parameter-free LLaVA Extension from Images to Videos for Video Dense Captioning", arXiv, 2024 (*ByteDancehttps://arxiv.org/abs/2404.16994*). [[Paper](https://arxiv.org/abs/2404.16994)][[PyTorch](https://github.com/magic-research/PLLaVA)]
 * Conversation (3D):
     * **3D-LLM**: "3D-LLM: Injecting the 3D World into Large Language Models", NeurIPS, 2023 (*UCLA*). [[Paper](https://arxiv.org/abs/2307.12981)][[PyTorch](https://github.com/UMass-Foundation-Model/3D-LLM)][[Website](https://vis-www.cs.umass.edu/3dllm/)]
     * **Chat-3D**: "Chat-3D: Data-efficiently Tuning Large Language Model for Universal Dialogue of 3D Scenes", arXiv, 2023 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2308.08769)][[PyTorch](https://github.com/Chat-3D/Chat-3D)][[Website](https://chat-3d.github.io/)]
