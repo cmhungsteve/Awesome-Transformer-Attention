@@ -1903,6 +1903,7 @@ If you find this repository useful, please consider citing this list:
     * **MMStar**: "Are We on the Right Way for Evaluating Large Vision-Language Models?", arXiv, 2024 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2403.20330)][[Code (in construction)](https://github.com/MMStar-Benchmark/MMStar)][[Website](https://mmstar-benchmark.github.io/)]
     * **BLINK**: "BLINK: Multimodal Large Language Models Can See but Not Perceive", arXiv, 2024 (*AI2*). [[Paper](https://arxiv.org/abs/2404.12390)][[Code](https://github.com/zeyofu/BLINK_Benchmark)][[Website](https://zeyofu.github.io/blink/)]
     * **MMT-Bench**: "MMT-Bench: A Comprehensive Multimodal Benchmark for Evaluating Large Vision-Language Models Towards Multitask AGI", arXiv, 2024 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2404.16006)]
+    * **MileBench**: "MileBench: Benchmarking MLLMs in Long Context", arXiv, 2024 (*CUHK*). [[Paper](https://arxiv.org/abs/2404.18532)][[PyTorch](https://github.com/MileBench/MileBench)][[Website](https://milebench.github.io/)]
 * Robustness:
     * **Hierarchy-CLIP**: "Improving Zero-shot Generalization and Robustness of Multi-modal Models", CVPR, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2212.01758)][[JAX](https://github.com/gyhandy/Hierarchy-CLIP)][[Website](https://sites.google.com/usc.edu/hierarchy-clip/)]
     * **?**: "Mitigating Spurious Correlations in Multi-modal Models during Fine-tuning", ICML, 2023 (*UCLA*). [[Paper](https://arxiv.org/abs/2304.03916)]
