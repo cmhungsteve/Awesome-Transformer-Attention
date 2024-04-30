@@ -132,6 +132,8 @@ If you find this repository useful, please consider citing this list:
 
 ## Survey
 * "A Survey on Multimodal Large Language Models for Autonomous Driving", WACVW, 2024 (*Purdue*). [[Paper](https://arxiv.org/abs/2311.12320)][[GitHub](https://github.com/IrohXu/Awesome-Multimodal-LLM-Autonomous-Driving)]
+* "Hallucination of Multimodal Large Language Models: A Survey", arXiv, 2024 (*NUS*). [[Paper](https://arxiv.org/abs/2404.18930)][[GitHub](https://github.com/showlab/Awesome-MLLM-Hallucination)]
+* "A Survey on Vision Mamba: Models, Applications and Challenges", arXiv, 2024 (*HKUST*). [[Paper](https://arxiv.org/abs/2404.18861)][[GitHub](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models)]
 * "State Space Model for New-Generation Network Alternative to Transformers: A Survey", arXiv, 2024 (*Anhui University*). [[Paper](https://arxiv.org/abs/2404.09516)][[GitHub](https://github.com/Event-AHU/Mamba_State_Space_Model_Paper_List)]
 * "Exploring the Frontier of Vision-Language Models: A Survey of Current Methodologies and Future Directions", arXiv, 2024 (*IIT Patna*). [[Paper](https://arxiv.org/abs/2404.07214)]
 * "From Pixels to Insights: A Survey on Automatic Chart Understanding in the Era of Large Foundation Models", arXiv, 2024 (*UIUC*). [[Paper](https://arxiv.org/abs/2403.12027)][[GitHub](https://github.com/khuangaf/Awesome-Chart-Understanding)]
@@ -1768,6 +1770,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **SPINO**: "Few-Shot Panoptic Segmentation With Foundation Models", arXiv, 2023 (*University of Freiburg, Germany*). [[Paper](https://arxiv.org/abs/2309.10726)][[Website](http://spino.cs.uni-freiburg.de/)]
     * **?**: "Visual Prompting for Generalized Few-shot Segmentation: A Multi-scale Approach", CVPR, 2024 (*UBC*). [[Paper](https://arxiv.org/abs/2404.11732)]
     * **RefLDM-Seg**: "Explore In-Context Segmentation via Latent Diffusion Models", arXiv, 2024 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2403.09616)][[Code (in construction)](https://github.com/wang-chaoyang/RefLDMSeg)][[Website](https://wang-chaoyang.github.io/project/refldmseg/)]
+    * **Chameleon**: "Chameleon: A Data-Efficient Generalist for Dense Visual Prediction in the Wild", arXiv, 2024 (*KAIST*). [[Paper](https://arxiv.org/abs/2404.18459)]
 * X-Supervised:
     * **MCTformer**: "Multi-class Token Transformer for Weakly Supervised Semantic Segmentation", CVPR, 2022 (*The University of Western Australia*). [[Paper](https://arxiv.org/abs/2203.02891)][[Code (in construction)](https://github.com/xulianuwa/MCTformer)]
     * **AFA**: "Learning Affinity from Attention: End-to-End Weakly-Supervised Semantic Segmentation with Transformers", CVPR, 2022 (*Wuhan University*). [[Paper](https://arxiv.org/abs/2203.02664)][[PyTorch](https://github.com/rulixiang/afa)]
@@ -1951,6 +1954,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **InterFormer**: "InterFormer: Real-time Interactive Image Segmentation", ICCV, 2023 (*Xiamen University*). [[Paper](https://arxiv.org/abs/2304.02942)][[PyTorch](https://github.com/YouHuang67/InterFormer)]
     * **SimpleClick**: "SimpleClick: Interactive Image Segmentation with Simple Vision Transformers", ICCV, 2023 (*UNC*). [[Paper](https://arxiv.org/abs/2210.11006)][[PyTorch](https://github.com/uncbiag/SimpleClick)]
     * **iCMFormer**: "Interactive Image Segmentation with Cross-Modality Vision Transformers", arXiv, 2023 (*University of Twente, Netherlands*). [[Paper](https://arxiv.org/abs/2307.02280)][[Code (in construction)](https://github.com/lik1996/iCMFormer)]
+    * **MFP**: "MFP: Making Full Use of Probability Maps for Interactive Image Segmentation", CVPR, 2024 (*Korea University*). [[Paper](https://arxiv.org/abs/2404.18448)][[Code (in construction)](https://github.com/cwlee00/MFP)]
 * Amodal Segmentation:
     * **AISFormer**: "AISFormer: Amodal Instance Segmentation with Transformer", BMVC, 2022 (*University of Arkansas, Arkansas*). [[Paper](https://arxiv.org/abs/2210.06323)][[PyTorch](https://github.com/UARK-AICV/AISFormer)]
     * **C2F-Seg**: "Coarse-to-Fine Amodal Segmentation with Shape Prior", ICCV, 2023 (*Fudan*). [[Paper](https://arxiv.org/abs/2308.16825)][[Code (in construction)](https://github.com/JianxGao/C2F-Seg)][[Website](https://jianxgao.github.io/C2F-Seg/)]
