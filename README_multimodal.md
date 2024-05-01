@@ -451,6 +451,7 @@ If you find this repository useful, please consider citing this list:
     * **3DRefTR**: "A Unified Framework for 3D Point Cloud Visual Grounding", arXiv, 2023 (*Xiamen University*). [[Paper](https://arxiv.org/abs/2308.11887)][[PyTorch](https://github.com/Leon1207/3DRefTR)]
     * **CoT3DRef**: "CoT3DRef: Chain-of-Thoughts Data-Efficient 3D Visual Grounding", arXiv, 2023 (*KAUST*). [[Paper](https://arxiv.org/abs/2310.06214)]
     * **ZSVG3D**: "Visual Programming for Zero-shot Open-Vocabulary 3D Visual Grounding", arXiv, 2023 (*CUHK*). [[Paper](https://arxiv.org/abs/2311.15383)][[Code (in construction)](https://github.com/CurryYuan/ZSVG3D)][[Website](https://curryyuan.github.io/ZSVG3D/)]
+    * **LARC**: "Naturally Supervised 3D Visual Grounding with Language-Regularized Concept Learners", CVPR, 2024 (*Stanford*). [[Paper](https://arxiv.org/abs/2404.19696)]
     * **SceneVerse**: "SceneVerse: Scaling 3D Vision-Language Learning for Grounded Scene Understanding", arXiv, 2024 (*BIGAI*). [[Paper](https://arxiv.org/abs/2401.09340)][[Code (in construction)](https://github.com/scene-verse/sceneverse)][[Website](https://scene-verse.github.io/)]
 
 [[Back to Overview](#overview)]
@@ -1951,6 +1952,7 @@ If you find this repository useful, please consider citing this list:
     * **CAPro**: "CAPro: Webly Supervised Learning with Cross-Modality Aligned Prototypes", NeurIPS, 2023 (*Tencent*). [[Paper](https://arxiv.org/abs/2310.09761)][[PyTorch](https://github.com/yuleiqin/capro)]
     * **MetaMAE**: "Modality-Agnostic Self-Supervised Learning with Meta-Learned Masked Auto-Encoder", NeurIPS, 2023 (*KAIST*). [[Paper](https://arxiv.org/abs/2310.16318)][[PyTorch](https://github.com/alinlab/MetaMAE)]
 * Correction/Verification:
+    * **VFC**: "Visual Fact Checker: Enabling High-Fidelity Detailed Caption Generation", CVPR, 2024 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2404.19752)][[Website](https://research.nvidia.com/labs/dir/vfc/)]
     * **?**: "Can Feedback Enhance Semantic Grounding in Large Vision-Language Models?", arXiv, 2024 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2404.06510)][[Website](https://andrewliao11.github.io/vlms_feedback/)]
 
 [[Back to Overview](#overview)]
