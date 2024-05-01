@@ -132,6 +132,7 @@ If you find this repository useful, please consider citing this list:
 
 ## Survey
 * "A Survey on Multimodal Large Language Models for Autonomous Driving", WACVW, 2024 (*Purdue*). [[Paper](https://arxiv.org/abs/2311.12320)][[GitHub](https://github.com/IrohXu/Awesome-Multimodal-LLM-Autonomous-Driving)]
+* "Unleashing the Power of Multi-Task Learning: A Comprehensive Survey Spanning Traditional, Deep, and Pretrained Foundation Model Eras", arXiv, 2024 (*Lehigh + UPenn*). [[Paper](https://arxiv.org/abs/2404.18961)]
 * "Hallucination of Multimodal Large Language Models: A Survey", arXiv, 2024 (*NUS*). [[Paper](https://arxiv.org/abs/2404.18930)][[GitHub](https://github.com/showlab/Awesome-MLLM-Hallucination)]
 * "A Survey on Vision Mamba: Models, Applications and Challenges", arXiv, 2024 (*HKUST*). [[Paper](https://arxiv.org/abs/2404.18861)][[GitHub](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models)]
 * "State Space Model for New-Generation Network Alternative to Transformers: A Survey", arXiv, 2024 (*Anhui University*). [[Paper](https://arxiv.org/abs/2404.09516)][[GitHub](https://github.com/Event-AHU/Mamba_State_Space_Model_Paper_List)]
@@ -2190,6 +2191,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **MAVOS**: "Efficient Video Object Segmentation via Modulated Cross-Attention Memory", arXiv, 2024 (*MBZUAI*). [[Paper](https://arxiv.org/abs/2403.17937)][[Code (in construction)](https://github.com/Amshaker/MAVOS)]
 * **STMA**: "Spatial-Temporal Multi-level Association for Video Object Segmentation", arXiv, 2024 (*Harbin Institute of Technology*). [[Paper](https://arxiv.org/abs/2404.06265)]
 * **Flow-SAM**: "Moving Object Segmentation: All You Need Is SAM (and Flow)", arXiv, 2024 (*Oxford*). [[Paper](https://arxiv.org/abs/2404.12389)][[Website](https://www.robots.ox.ac.uk/~vgg/research/flowsam/)]
+* **LVOSv2**: "LVOS: A Benchmark for Large-scale Long-term Video Object Segmentation", arXiv, 2024 (*Fudan*). [[Paper](https://arxiv.org/abs/2404.19326)][[GitHub](https://github.com/LingyiHongfd/LVOS)][[Website](https://lingyihongfd.github.io/lvos.github.io/)]
 
 [[Back to Overview](#overview)]
 
