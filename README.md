@@ -1583,6 +1583,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **PerSAM**: "Personalize Segment Anything Model with One Shot", ICLR, 2024 (*CUHK*). [[Paper](https://arxiv.org/abs/2305.03048)][[PyTorch](https://github.com/ZrrSkywalker/Personalize-SAM)]
     * **VRP-SAM**: "VRP-SAM: SAM with Visual Reference Prompt", CVPR, 2024 (*Baidu*). [[Paper](https://arxiv.org/abs/2402.17726)]
     * **UAD**: "Unsegment Anything by Simulating Deformation", CVPR, 2024 (*NUS*). [[Paper](https://arxiv.org/abs/2404.02585)][[PyTorch](https://github.com/jiahaolu97/anything-unsegmentable)]
+    * **ASAM**: "ASAM: Boosting Segment Anything Model with Adversarial Tuning", CVPR, 2024 (*vivo*). [[Paper](https://arxiv.org/abs/2405.00256)][[PyTorch](https://github.com/luckybird1994/ASAM)][[Website](https://asam2024.github.io/)]
     * **BA-SAM**: "BA-SAM: Scalable Bias-Mode Attention Mask for Segment Anything Model", arXiv, 2024 (*Shanghai Jiao Tong*). [[Paper](https://arxiv.org/abs/2401.02317)]
     * **OV-SAM**: "Open-Vocabulary SAM: Segment and Recognize Twenty-thousand Classes Interactively", arXiv, 2024 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2401.02955)][[PyTorch](https://github.com/HarborYuan/ovsam)][[Website](https://www.mmlab-ntu.com/project/ovsam/)]
     * **SSPrompt**: "Learning to Prompt Segment Anything Models", arXiv, 2024 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2401.04651)]
@@ -1956,6 +1957,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **SimpleClick**: "SimpleClick: Interactive Image Segmentation with Simple Vision Transformers", ICCV, 2023 (*UNC*). [[Paper](https://arxiv.org/abs/2210.11006)][[PyTorch](https://github.com/uncbiag/SimpleClick)]
     * **iCMFormer**: "Interactive Image Segmentation with Cross-Modality Vision Transformers", arXiv, 2023 (*University of Twente, Netherlands*). [[Paper](https://arxiv.org/abs/2307.02280)][[Code (in construction)](https://github.com/lik1996/iCMFormer)]
     * **MFP**: "MFP: Making Full Use of Probability Maps for Interactive Image Segmentation", CVPR, 2024 (*Korea University*). [[Paper](https://arxiv.org/abs/2404.18448)][[Code (in construction)](https://github.com/cwlee00/MFP)]
+    * **GraCo**: "GraCo: Granularity-Controllable Interactive Segmentation", CVPR, 2024 (*Peking*). [[Paper](https://arxiv.org/abs/2405.00587)][[Website](https://zhao-yian.github.io/GraCo/)]
 * Amodal Segmentation:
     * **AISFormer**: "AISFormer: Amodal Instance Segmentation with Transformer", BMVC, 2022 (*University of Arkansas, Arkansas*). [[Paper](https://arxiv.org/abs/2210.06323)][[PyTorch](https://github.com/UARK-AICV/AISFormer)]
     * **C2F-Seg**: "Coarse-to-Fine Amodal Segmentation with Shape Prior", ICCV, 2023 (*Fudan*). [[Paper](https://arxiv.org/abs/2308.16825)][[Code (in construction)](https://github.com/JianxGao/C2F-Seg)][[Website](https://jianxgao.github.io/C2F-Seg/)]
