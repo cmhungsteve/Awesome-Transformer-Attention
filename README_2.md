@@ -2033,6 +2033,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **DiffPrompter**: "DiffPrompter: Differentiable Implicit Visual Prompts for Semantic-Segmentation in Adverse Conditions", arXiv, 2023 (*IIIT Hyderabad*). [[Paper](https://arxiv.org/abs/2310.04181)][[PyTorch](https://github.com/DiffPrompter/diff-prompter)][[Website](https://diffprompter.github.io/)]
     * **OccWorld**: "OccWorld: Learning a 3D Occupancy World Model for Autonomous Driving", arXiv, 2023 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2311.16038)][[PyTorch](https://github.com/wzzheng/OccWorld)][[Website](https://wzzheng.net/OccWorld/)]
     * **VehicleMAE**: "Structural Information Guided Multimodal Pre-training for Vehicle-centric Perception", AAAI, 2024 (*Anhui University*). [[Paper](https://arxiv.org/abs/2312.09812)]
+    * **STT**: "STT: Stateful Tracking with Transformers for Autonomous Driving", ICRA, 2024 (*Waymo*). [[Paper](https://arxiv.org/abs/2405.00236)]
     * **MM-AU**: "Abductive Ego-View Accident Video Understanding for Safe Driving Perception", CVPR, 2024 (*Xi'an Jiaotong University*). [[Paper](https://arxiv.org/abs/2403.00436)][[Website](http://www.lotvsmmau.net/)]
     * **GenAD**: "Generalized Predictive Model for Autonomous Driving", CVPR, 2024 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2403.09630)][[Code (in construction)](https://github.com/OpenDriveLab/DriveAGI)]
 * Traffic (LLM-based):
@@ -2049,6 +2050,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **VLP**: "VLP: Vision Language Planning for Autonomous Driving", arXiv, 2024 (*Bosch*). [[Paper](https://arxiv.org/abs/2401.05577)]
     * **DriveVLM**: "DriveVLM: The Convergence of Autonomous Driving and Large Vision-Language Models", arXiv, 2024 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2402.12289)][[Website](https://tsinghua-mars-lab.github.io/DriveVLM/)]
     * **DriveDreamer-2**: "DriveDreamer-2: LLM-Enhanced World Models for Diverse Driving Video Generation", arXiv, 2024 (*CAS*). [[Paper](https://arxiv.org/abs/2403.06845)][[Code (in construction)](https://github.com/f1yfisher/DriveDreamer2)][[Website](https://drivedreamer2.github.io/)]
+    * **OmniDrive**: "OmniDrive: A Holistic LLM-Agent Framework for Autonomous Driving with 3D Perception, Reasoning and Planning", arXiv, 2024 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2405.01533)][[Code (in construction)](https://github.com/NVlabs/OmniDrive)]
 * Trajectory Prediction:
     * **mmTransformer**: "Multimodal Motion Prediction with Stacked Transformers", CVPR, 2021 (*CUHK + SenseTime*). [[Paper](https://arxiv.org/abs/2103.11624)][[Code (in construction)](https://github.com/decisionforce/mmTransformer)][[Website](https://decisionforce.github.io/mmTransformer/)]
     * **AgentFormer**: "AgentFormer: Agent-Aware Transformers for Socio-Temporal Multi-Agent Forecasting", ICCV, 2021 (*CMU*). [[Paper](https://arxiv.org/abs/2103.14023)][[PyTorch](https://github.com/Khrylx/AgentFormer)][[Website](https://www.ye-yuan.com/agentformer/)]
