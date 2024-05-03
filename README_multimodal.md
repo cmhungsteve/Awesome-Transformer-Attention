@@ -579,7 +579,7 @@ If you find this repository useful, please consider citing this list:
     * **PuMer**: "PuMer: Pruning and Merging Tokens for Efficient Vision Language Models", ACL, 2023 (*UW*). [[Paper](https://arxiv.org/abs/2305.17530)]
     * **SINC**: "SINC: Self-Supervised In-Context Learning for Vision-Language Tasks", ICCV, 2023 (*Microsoft*). [[Paper](https://arxiv.org/abs/2307.07742)]
     * **ALIP**: "ALIP: Adaptive Language-Image Pre-training with Synthetic Caption", ICCV, 2023 (*DeepGlint, China*). [[Paper](https://arxiv.org/abs/2308.08428)][[PyTorch](https://github.com/deepglint/ALIP)]
-    * **SigLiT**: "Sigmoid Loss for Language Image Pre-Training", ICCV, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2303.15343)][[JAX](https://github.com/google-research/big_vision)]
+    * **SigLiP**: "Sigmoid Loss for Language Image Pre-Training", ICCV, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2303.15343)][[JAX](https://github.com/google-research/big_vision)]
     * **VL-PET**: "VL-PET: Vision-and-Language Parameter-Efficient Tuning via Granularity Control", ICCV, 2023 (*CUHK*). [[Paper](https://arxiv.org/abs/2308.09804)][[PyTorch](https://github.com/HenryHZY/VL-PET)][[Website](https://henryhzy.github.io/VL-PET/)]
     * **GrowCLIP**: "GrowCLIP: Data-aware Automatic Model Growing for Large-scale Contrastive Language-Image Pre-training", ICCV, 2023 (*Sun Yat-sen University*). [[Paper](https://arxiv.org/abs/2308.11331)]
     * **ViLLA**: "ViLLA: Fine-Grained Vision-Language Representation Learning from Real-World Data", ICCV, 2023 (*Stanford*). [[Paper](https://arxiv.org/abs/2308.11194)][[PyTorch](https://github.com/StanfordMIMI/villa)]
@@ -688,6 +688,7 @@ If you find this repository useful, please consider citing this list:
     * **BRAVE**: "BRAVE: Broadening the visual encoding of vision-language models", arXiv, 2024 (*Google*). [[Paper](https://arxiv.org/abs/2404.07204)][[Website](https://brave-vlms.epfl.ch/)]
     * **SEED-X**: "SEED-X: Multimodal Models with Unified Multi-granularity Comprehension and Generation", arXiv, 2024 (*Tencent*). [[Paper](https://arxiv.org/abs/2404.14396)][[Code (in construction)](https://github.com/AILab-CVC/SEED-X)]
     * **CatLIP**: "CatLIP: CLIP-level Visual Recognition Accuracy with 2.7x Faster Pre-training on Web-scale Image-Text Data", arXiv, 2024 (*Apple*). [[Paper](https://arxiv.org/abs/2404.15653)][[PyTorch](https://github.com/apple/corenet)]
+    * **Llip**: "Modeling Caption Diversity in Contrastive Vision-Language Pretraining", arXiv, 2024 (*Meta*). [[Paper](https://arxiv.org/abs/2405.00740)]
 * Video:
     * **COOT**: "COOT: Cooperative Hierarchical Transformer for Video-Text Representation Learning", NeurIPS, 2020 (*University of Freiburg*). [[Paper](https://arxiv.org/abs/2011.00597)][[PyTorch](https://github.com/gingsi/coot-videotext)]
     * **Parameter-Reduction**: "Parameter Efficient Multimodal Transformers for Video Representation Learning", ICLR, 2021 (*Seoul National University*). [[Paper](https://openreview.net/forum?id=6UdQLhqJyFD)]
@@ -842,6 +843,7 @@ If you find this repository useful, please consider citing this list:
     * **TransAgg**: "Zero-shot Composed Text-Image Retrieval", arXiv, 2023 (*Shanghai Jiao Tong*). [[Paper](https://arxiv.org/abs/2306.07272)][[PyTorch](https://github.com/Code-kunkun/ZS-CIR)][[Website](https://code-kunkun.github.io/ZS-CIR/)]
     * **CUSA**: "Cross-Modal and Uni-Modal Soft-Label Alignment for Image-Text Retrieval", AAAI, 2024 (*Beihang University*). [[Paper](https://arxiv.org/abs/2403.05261)][[PyTorch](https://github.com/lerogo/aaai24_itr_cusa)]
     * **L2RM**: "Learning to Rematch Mismatched Pairs for Robust Cross-Modal Retrieval", CVPR, 2024 (*Xi'an Jiaotong*). [[Paper](https://arxiv.org/abs/2403.05105)][[Code (in construction)](https://github.com/hhc1997/L2RM)]
+    * **?**: "Understanding Retrieval-Augmented Task Adaptation for Vision-Language Models", ICML, 2024 (*UW Madison*). [[Paper](https://arxiv.org/abs/2405.01468)]
     * **Long-CLIP**: "Long-CLIP: Unlocking the Long-Text Capability of CLIP", arXiv, 2024 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2403.15378)][[PyTorch (in construction)](https://github.com/beichenzbc/Long-CLIP)]
 * Video:
     * **MMT**: "Multi-modal Transformer for Video Retrieval", ECCV, 2020 (*INRIA + Google*). [[Paper](https://arxiv.org/abs/2007.10639)][[Website](http://thoth.inrialpes.fr/research/MMT/)]
@@ -1826,6 +1828,7 @@ If you find this repository useful, please consider citing this list:
     * **?**: "Can 3D Vision-Language Models Truly Understand Natural Language?", arXiv, 2024 (*HKU*). [[Paper](https://arxiv.org/abs/2403.14760)][[Code (in construction)](https://github.com/VincentDENGP/3D-LR)]
     * **Scene-LLM**: "Scene-LLM: Extending Language Model for 3D Visual Understanding and Reasoning", arXiv, 2024 (*Meta*). [[Paper](https://arxiv.org/abs/2403.11401)]
     * **Uni3DR<sup>2</sup>**: "Unified Scene Representation and Reconstruction for 3D Large Language Models", arXiv, 2024 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2404.13044)]
+    * **MiniGPT-3D**: "MiniGPT-3D: Efficiently Aligning 3D Point Clouds with Large Language Models using 2D Priors", arXiv, 2024 (*Huazhong University of Science and Technology*). [[Paper](https://arxiv.org/abs/2405.01413)][[Code (in construction)](https://github.com/TangYuan96/MiniGPT-3D)]
 * Conversation (Multi):
     * **AnyMAL**: "AnyMAL: An Efficient and Scalable Any-Modality Augmented Language Model", arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2309.16058)]
     * **OneLLM**: "OneLLM: One Framework to Align All Modalities with Language", arXiv, 2023 (*CUHK + Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2312.03700)][[PyTorch](https://github.com/csuhan/OneLLM)]
