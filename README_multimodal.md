@@ -664,6 +664,7 @@ If you find this repository useful, please consider citing this list:
     * **IL-CLIP**: "Iterated Learning Improves Compositionality in Large Vision-Language Models", CVPR, 2024 (*UW*). [[Paper](https://arxiv.org/abs/2404.02145)]
     * **MoDE**: "MoDE: CLIP Data Experts via Clustering", CVPR, 2024 (*Meta*). [[Paper](https://arxiv.org/abs/2404.16030)][[PyTorch](https://github.com/facebookresearch/MetaCLIP/tree/main/mode)]
     * **Multi-MaP**: "Multi-Modal Proxy Learning Towards Personalized Visual Multiple Clustering", CVPR, 2024 (*UW Tacoma*). [[Paper](https://arxiv.org/abs/2404.15655)][[PyTorch](https://github.com/Alexander-Yao/Multi-MaP)]
+    * **Morph-Tokens**: "Auto-Encoding Morph-Tokens for Multimodal LLM", ICML, 2024 (*Zhejiang*). [[Paper](https://arxiv.org/abs/2405.01926)][[PyTorch](https://github.com/DCDmllm/MorphTokens)]
     * **COSMO**: "COSMO: COntrastive Streamlined MultimOdal Model with Interleaved Pre-Training", arXiv, 2024 (*Microsoft*). [[Paper](https://arxiv.org/abs/2401.00849)][[PyTorch](https://github.com/showlab/cosmo)][[Website](https://fingerrec.github.io/cosmo/)]
     * **?**: "Low-Resource Vision Challenges for Foundation Models", arXiv, 2024 (*UvA*). [[Paper](https://arxiv.org/abs/2401.04716)][[Code (in construction)](https://github.com/xiaobai1217/Low-Resource-Vision)][[Website](https://xiaobai1217.github.io/Low-Resource-Vision/)]
     * **UMG-CLIP**: "UMG-CLIP: A Unified Multi-Granularity Vision Generalist for Open-World Understanding", arXiv, 2024 (*Huawei*). [[Paper](https://arxiv.org/abs/2401.06397)]
@@ -689,6 +690,7 @@ If you find this repository useful, please consider citing this list:
     * **SEED-X**: "SEED-X: Multimodal Models with Unified Multi-granularity Comprehension and Generation", arXiv, 2024 (*Tencent*). [[Paper](https://arxiv.org/abs/2404.14396)][[Code (in construction)](https://github.com/AILab-CVC/SEED-X)]
     * **CatLIP**: "CatLIP: CLIP-level Visual Recognition Accuracy with 2.7x Faster Pre-training on Web-scale Image-Text Data", arXiv, 2024 (*Apple*). [[Paper](https://arxiv.org/abs/2404.15653)][[PyTorch](https://github.com/apple/corenet)]
     * **Llip**: "Modeling Caption Diversity in Contrastive Vision-Language Pretraining", arXiv, 2024 (*Meta*). [[Paper](https://arxiv.org/abs/2405.00740)]
+    * **Idefics2**: "What matters when building vision-language models?", arXiv, 2024 (*Hugging Face*). [[Paper](https://arxiv.org/abs/2405.02246)]
 * Video:
     * **COOT**: "COOT: Cooperative Hierarchical Transformer for Video-Text Representation Learning", NeurIPS, 2020 (*University of Freiburg*). [[Paper](https://arxiv.org/abs/2011.00597)][[PyTorch](https://github.com/gingsi/coot-videotext)]
     * **Parameter-Reduction**: "Parameter Efficient Multimodal Transformers for Video Representation Learning", ICLR, 2021 (*Seoul National University*). [[Paper](https://openreview.net/forum?id=6UdQLhqJyFD)]
@@ -1225,6 +1227,7 @@ If you find this repository useful, please consider citing this list:
 * **PromptKD**: "PromptKD: Unsupervised Prompt Distillation for Vision-Language Models", CVPR, 2024 (*Nankai University*). [[Paper](https://arxiv.org/abs/2403.02781)][[PyTorch](https://github.com/zhengli97/PromptKD)][[Website](https://zhengli97.github.io/PromptKD/)]
 * **TDA**: "Efficient Test-Time Adaptation of Vision-Language Models", CVPR, 2024 (*MBZUAI*). [[Paper](https://arxiv.org/abs/2403.18293)][[PyTorch](https://github.com/kdiAAA/TDA)][[Website](https://kdiaaa.github.io/tda/)]
 * **TVP**: "Exploring the Transferability of Visual Prompting for Multimodal Large Language Models", CVPR, 2024 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2404.11207)][[PyTorch](https://github.com/zycheiheihei/Transferable-Visual-Prompting)]
+* **MTA**: "On the test-time zero-shot generalization of vision-language models: Do we really need prompt learning?", CVPR, 2024 (*UCLouvain, Belgium*). [[Paper](https://arxiv.org/abs/2405.02266)][[PyTorch](https://github.com/MaxZanella/MTA)]
 * **ProText**: "Learning to Prompt with Text Only Supervision for Vision-Language Models", arXiv, 2024 (*MBZUAI*). [[Paper](https://arxiv.org/abs/2401.02418)][[PyTorch](https://github.com/muzairkhattak/ProText)][[Website](https://muzairkhattak.github.io/ProText/)]
 * **Any-shift**: "Any-Shift Prompting for Generalization over Distributions", arXiv, 2024 (*UvA*). [[Paper](https://arxiv.org/abs/2402.10099)]
 * **SPT**: "Revisiting the Power of Prompt for Visual Tuning", arXiv, 2024 (*Hefei University of Technology*). [[Paper](https://arxiv.org/abs/2402.02382)][[PyTorch](https://github.com/WangYZ1608/Self-Prompt-Tuning)]
@@ -1908,6 +1911,7 @@ If you find this repository useful, please consider citing this list:
     * **BLINK**: "BLINK: Multimodal Large Language Models Can See but Not Perceive", arXiv, 2024 (*AI2*). [[Paper](https://arxiv.org/abs/2404.12390)][[Code](https://github.com/zeyofu/BLINK_Benchmark)][[Website](https://zeyofu.github.io/blink/)]
     * **MMT-Bench**: "MMT-Bench: A Comprehensive Multimodal Benchmark for Evaluating Large Vision-Language Models Towards Multitask AGI", arXiv, 2024 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2404.16006)]
     * **MileBench**: "MileBench: Benchmarking MLLMs in Long Context", arXiv, 2024 (*CUHK*). [[Paper](https://arxiv.org/abs/2404.18532)][[PyTorch](https://github.com/MileBench/MileBench)][[Website](https://milebench.github.io/)]
+    * **Vibe-Eval**: "Vibe-Eval: A hard evaluation suite for measuring progress of multimodal language models", arXiv, 2024 (*Reka*). [[Paper](https://arxiv.org/abs/2405.02287)][[Code](https://github.com/reka-ai/reka-vibe-eval)]
 * Robustness:
     * **Hierarchy-CLIP**: "Improving Zero-shot Generalization and Robustness of Multi-modal Models", CVPR, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2212.01758)][[JAX](https://github.com/gyhandy/Hierarchy-CLIP)][[Website](https://sites.google.com/usc.edu/hierarchy-clip/)]
     * **?**: "Mitigating Spurious Correlations in Multi-modal Models during Fine-tuning", ICML, 2023 (*UCLA*). [[Paper](https://arxiv.org/abs/2304.03916)]
