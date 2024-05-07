@@ -132,6 +132,8 @@ If you find this repository useful, please consider citing this list:
 
 ## Survey
 * "A Survey on Multimodal Large Language Models for Autonomous Driving", WACVW, 2024 (*Purdue*). [[Paper](https://arxiv.org/abs/2311.12320)][[GitHub](https://github.com/IrohXu/Awesome-Multimodal-LLM-Autonomous-Driving)]
+* "Is Sora a World Simulator? A Comprehensive Survey on General World Models and Beyond", arXiv, 2024 (*GigaAI, China*). [[Paper](https://arxiv.org/abs/2405.03520)][[GitHub](https://github.com/GigaAI-research/General-World-Models-Survey)]
+* "Video Diffusion Models: A Survey", arXiv, 2024 (*Bielefeld University, Germany*). [[Paper](https://arxiv.org/abs/2405.03150)][[GitHub](https://github.com/ndrwmlnk/Awesome-Video-Diffusion-Models)]
 * "Unleashing the Power of Multi-Task Learning: A Comprehensive Survey Spanning Traditional, Deep, and Pretrained Foundation Model Eras", arXiv, 2024 (*Lehigh + UPenn*). [[Paper](https://arxiv.org/abs/2404.18961)]
 * "Hallucination of Multimodal Large Language Models: A Survey", arXiv, 2024 (*NUS*). [[Paper](https://arxiv.org/abs/2404.18930)][[GitHub](https://github.com/showlab/Awesome-MLLM-Hallucination)]
 * "A Survey on Vision Mamba: Models, Applications and Challenges", arXiv, 2024 (*HKUST*). [[Paper](https://arxiv.org/abs/2404.18861)][[GitHub](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models)]
@@ -1584,6 +1586,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **VRP-SAM**: "VRP-SAM: SAM with Visual Reference Prompt", CVPR, 2024 (*Baidu*). [[Paper](https://arxiv.org/abs/2402.17726)]
     * **UAD**: "Unsegment Anything by Simulating Deformation", CVPR, 2024 (*NUS*). [[Paper](https://arxiv.org/abs/2404.02585)][[PyTorch](https://github.com/jiahaolu97/anything-unsegmentable)]
     * **ASAM**: "ASAM: Boosting Segment Anything Model with Adversarial Tuning", CVPR, 2024 (*vivo*). [[Paper](https://arxiv.org/abs/2405.00256)][[PyTorch](https://github.com/luckybird1994/ASAM)][[Website](https://asam2024.github.io/)]
+    * **PTQ4SAM**: "PTQ4SAM: Post-Training Quantization for Segment Anything", CVPR, 2024 (*Beihang*). [[Paper](https://arxiv.org/abs/2405.03144)][[PyTorch](https://github.com/chengtao-lv/PTQ4SAM)]
     * **BA-SAM**: "BA-SAM: Scalable Bias-Mode Attention Mask for Segment Anything Model", arXiv, 2024 (*Shanghai Jiao Tong*). [[Paper](https://arxiv.org/abs/2401.02317)]
     * **OV-SAM**: "Open-Vocabulary SAM: Segment and Recognize Twenty-thousand Classes Interactively", arXiv, 2024 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2401.02955)][[PyTorch](https://github.com/HarborYuan/ovsam)][[Website](https://www.mmlab-ntu.com/project/ovsam/)]
     * **SSPrompt**: "Learning to Prompt Segment Anything Models", arXiv, 2024 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2401.04651)]
