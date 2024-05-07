@@ -847,6 +847,7 @@ If you find this repository useful, please consider citing this list:
     * **L2RM**: "Learning to Rematch Mismatched Pairs for Robust Cross-Modal Retrieval", CVPR, 2024 (*Xi'an Jiaotong*). [[Paper](https://arxiv.org/abs/2403.05105)][[Code (in construction)](https://github.com/hhc1997/L2RM)]
     * **?**: "Understanding Retrieval-Augmented Task Adaptation for Vision-Language Models", ICML, 2024 (*UW Madison*). [[Paper](https://arxiv.org/abs/2405.01468)]
     * **Long-CLIP**: "Long-CLIP: Unlocking the Long-Text Capability of CLIP", arXiv, 2024 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2403.15378)][[PyTorch (in construction)](https://github.com/beichenzbc/Long-CLIP)]
+    * **?**: "Adapting Dual-encoder Vision-language Models for Paraphrased Retrieval", arXiv, 2024 (*Adobe*). [[Paper](https://arxiv.org/abs/2405.03190)]
 * Video:
     * **MMT**: "Multi-modal Transformer for Video Retrieval", ECCV, 2020 (*INRIA + Google*). [[Paper](https://arxiv.org/abs/2007.10639)][[Website](http://thoth.inrialpes.fr/research/MMT/)]
     * **AYCE**: "All You Can Embed: Natural Language based Vehicle Retrieval with Spatio-Temporal Transformers", CVPRW, 2021 (*University of Modena and Reggio Emilia*). [[Paper](https://arxiv.org/abs/2106.10153)][[PyTorch](https://github.com/cscribano/AYCE_2021)]
@@ -1819,6 +1820,7 @@ If you find this repository useful, please consider citing this list:
     * **Pegasus-1**: "Pegasus-1 Technical Report", arXiv, 2024 (*Twelve Labs, CA*). [[Paper](https://arxiv.org/abs/2404.14687)][[Blog](https://www.twelvelabs.io/blog/upgrading-pegasus-1)]
     * **MovieChat+**: "MovieChat+: Question-aware Sparse Memory for Long Video Question Answering", arXiv, 2024 (*Zhejiang*). [[Paper](https://arxiv.org/abs/2404.17176)][[PyTorch](https://github.com/rese1f/MovieChat)][[Website](https://rese1f.github.io/MovieChat/)]
     * **PLLaVA**: "PLLaVA: Parameter-free LLaVA Extension from Images to Videos for Video Dense Captioning", arXiv, 2024 (*ByteDancehttps://arxiv.org/abs/2404.16994*). [[Paper](https://arxiv.org/abs/2404.16994)][[PyTorch](https://github.com/magic-research/PLLaVA)]
+    * **CVRR-ES**: "Complex Video Reasoning and Robustness Evaluation Suite for Video-LMMs", arXiv, 2024 (*MBZUAI*). [[Paper](https://arxiv.org/abs/2405.03690)][[Website](https://mbzuai-oryx.github.io/CVRR-Evaluation-Suite/)][[PyTorch](https://github.com/mbzuai-oryx/CVRR-Evaluation-Suite/)]
 * Conversation (3D):
     * **3D-LLM**: "3D-LLM: Injecting the 3D World into Large Language Models", NeurIPS, 2023 (*UCLA*). [[Paper](https://arxiv.org/abs/2307.12981)][[PyTorch](https://github.com/UMass-Foundation-Model/3D-LLM)][[Website](https://vis-www.cs.umass.edu/3dllm/)]
     * **Chat-3D**: "Chat-3D: Data-efficiently Tuning Large Language Model for Universal Dialogue of 3D Scenes", arXiv, 2023 (*Zhejiang University*). [[Paper](https://arxiv.org/abs/2308.08769)][[PyTorch](https://github.com/Chat-3D/Chat-3D)][[Website](https://chat-3d.github.io/)]
@@ -1832,6 +1834,7 @@ If you find this repository useful, please consider citing this list:
     * **Scene-LLM**: "Scene-LLM: Extending Language Model for 3D Visual Understanding and Reasoning", arXiv, 2024 (*Meta*). [[Paper](https://arxiv.org/abs/2403.11401)]
     * **Uni3DR<sup>2</sup>**: "Unified Scene Representation and Reconstruction for 3D Large Language Models", arXiv, 2024 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2404.13044)]
     * **MiniGPT-3D**: "MiniGPT-3D: Efficiently Aligning 3D Point Clouds with Large Language Models using 2D Priors", arXiv, 2024 (*Huazhong University of Science and Technology*). [[Paper](https://arxiv.org/abs/2405.01413)][[Code (in construction)](https://github.com/TangYuan96/MiniGPT-3D)]
+    * **Cube-LLM**: "Language-Image Models with 3D Understanding", arXiv, 2024 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2405.03685)][[Website](https://janghyuncho.github.io/Cube-LLM/)]
 * Conversation (Multi):
     * **AnyMAL**: "AnyMAL: An Efficient and Scalable Any-Modality Augmented Language Model", arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2309.16058)]
     * **OneLLM**: "OneLLM: One Framework to Align All Modalities with Language", arXiv, 2023 (*CUHK + Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2312.03700)][[PyTorch](https://github.com/csuhan/OneLLM)]
