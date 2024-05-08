@@ -132,6 +132,8 @@ If you find this repository useful, please consider citing this list:
 
 ## Survey
 * "A Survey on Multimodal Large Language Models for Autonomous Driving", WACVW, 2024 (*Purdue*). [[Paper](https://arxiv.org/abs/2311.12320)][[GitHub](https://github.com/IrohXu/Awesome-Multimodal-LLM-Autonomous-Driving)]
+* "Foundation Models for Video Understanding: A Survey", arXiv, 2024 (*Aalborg University, Denmark*). [[Paper](https://arxiv.org/abs/2405.03770)][[GitHub](https://github.com/NeeluMadan/ViFM_Survey)]
+* "Vision Mamba: A Comprehensive Survey and Taxonomy", arXiv, 2024 (*Chongqing University*). [[Paper](https://arxiv.org/abs/2405.04404)][[GitHub](https://github.com/lx6c78/Vision-Mamba-A-Comprehensive-Survey-and-Taxonomy)]
 * "Is Sora a World Simulator? A Comprehensive Survey on General World Models and Beyond", arXiv, 2024 (*GigaAI, China*). [[Paper](https://arxiv.org/abs/2405.03520)][[GitHub](https://github.com/GigaAI-research/General-World-Models-Survey)]
 * "Video Diffusion Models: A Survey", arXiv, 2024 (*Bielefeld University, Germany*). [[Paper](https://arxiv.org/abs/2405.03150)][[GitHub](https://github.com/ndrwmlnk/Awesome-Video-Diffusion-Models)]
 * "Unleashing the Power of Multi-Task Learning: A Comprehensive Survey Spanning Traditional, Deep, and Pretrained Foundation Model Eras", arXiv, 2024 (*Lehigh + UPenn*). [[Paper](https://arxiv.org/abs/2404.18961)]
