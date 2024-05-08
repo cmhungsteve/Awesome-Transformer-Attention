@@ -914,6 +914,7 @@ If you find this repository useful, please consider citing this list:
     * **SOSR**: "SOSR: Source-Free Image Super-Resolution with Wavelet Augmentation Transformer", arXiv, 2023 (*CAS*). [[Paper](https://arxiv.org/abs/2303.17783)]
     * **HAT**: "HAT: Hybrid Attention Transformer for Image Restoration", arXiv, 2023 (*University of Macau*). [[Paper](https://arxiv.org/abs/2309.05239)][[PyTorch](https://github.com/XPixelGroup/HAT)]
     * **PromptSR**: "Image Super-Resolution with Text Prompt Diffusion", arXiv, 2023 (*Shanghai Jiao Tong*). [[Paper](https://arxiv.org/abs/2311.14282)][[Code (in construction)](https://github.com/zhengchen1999/PromptSR)]
+    * **Inf-DiT**: "Inf-DiT: Upsampling Any-Resolution Image with Memory-Efficient Diffusion Transformer", arXiv, 2024 (*Zhipu AI*). [[Paper](https://arxiv.org/abs/2405.04312)][[Code (in construction)](https://github.com/THUDM/Inf-DiT)]
 * Denoise:
     * **CharFormer**: "CharFormer: A Glyph Fusion based Attentive Framework for High-precision Character Image Denoising", ACMMM, 2022 (*Jilin University*). [[Paper](https://arxiv.org/abs/2207.07798)][[PyTorch (in construction)](https://github.com/daqians/CharFormer)]
     * **DenSformer**: "Dense residual Transformer for image denoising", arXiv, 2022 (*University of Science and Technology Beijing*). [[Paper](https://arxiv.org/abs/2205.06944)]
@@ -1974,6 +1975,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **GFSLT-VLP**: "Gloss-free Sign Language Translation: Improving from Visual-Language Pretraining", ICCV, 2023 (*Macau University of Science and Technology (MUST)*). [[Paper](https://arxiv.org/abs/2307.14768)][[Code (in construction)](https://github.com/zhoubenjia/GFSLT-VLP)]
     * **IP-SLT**: "Sign Language Translation with Iterative Prototype", ICCV, 2023 (*USTC*). [[Paper](https://arxiv.org/abs/2308.12191)]
     * **SignBERT+**: "SignBERT+: Hand-model-aware Self-supervised Pre-training for Sign Language Understanding", TPAMI, 2023 (*USTC*). [[Paper](https://arxiv.org/abs/2305.04868)][[Website](https://signbert-zoo.github.io/)]
+    * **Sign2GPT**: "Sign2GPT: Leveraging Large Language Models for Gloss-Free Sign Language Translation", ICLR, 2024 (*University of Surrey*). [[Paper](https://arxiv.org/abs/2405.04164)]
 * Spike:
     * **Spikformer**: "Spikformer: When Spiking Neural Network Meets Transformer", arXiv, 2022 (*Peking*). [[Paper](https://arxiv.org/abs/2209.15425)]
     * **SDSA**: "Spike-driven Transformer", NeurIPS, 2023 (*CAS*). [[Paper](https://arxiv.org/abs/2307.01694)][[PyTorch](https://github.com/BICLab/Spike-Driven-Transformer)]
@@ -2040,6 +2042,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **STT**: "STT: Stateful Tracking with Transformers for Autonomous Driving", ICRA, 2024 (*Waymo*). [[Paper](https://arxiv.org/abs/2405.00236)]
     * **MM-AU**: "Abductive Ego-View Accident Video Understanding for Safe Driving Perception", CVPR, 2024 (*Xi'an Jiaotong University*). [[Paper](https://arxiv.org/abs/2403.00436)][[Website](http://www.lotvsmmau.net/)]
     * **GenAD**: "Generalized Predictive Model for Autonomous Driving", CVPR, 2024 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2403.09630)][[Code (in construction)](https://github.com/OpenDriveLab/DriveAGI)]
+    * **DriveWorld**: "DriveWorld: 4D Pre-trained Scene Understanding via World Models for Autonomous Driving", CVPR, 2024 (*Peking*). [[Paper](https://arxiv.org/abs/2405.04390)]
 * Traffic (LLM-based):
     * **AVIS**: "AVIS: Autonomous Visual Information Seeking with Large Language Models", NeurIPS, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2306.08129)]
     * **DriveGPT4**: "DriveGPT4: Interpretable End-to-end Autonomous Driving via Large Language Model", arXiv, 2023 (*HKU*). [[Paper](https://arxiv.org/abs/2310.01412)][[Website](https://tonyxuqaq.github.io/projects/DriveGPT4/)]
