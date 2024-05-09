@@ -273,6 +273,7 @@ If you find this repository useful, please consider citing this list:
     * **Pose-Anything**: "Pose Anything: A Graph-Based Approach for Category-Agnostic Pose Estimation", arXiv, 2023 (*Tel Aviv*). [[Paper](https://arxiv.org/abs/2311.17891)][[Code (in construction)](https://github.com/orhir/PoseAnything)][[Website](https://orhir.github.io/pose-anything/)]
     * **PoseGPT**: "PoseGPT: Chatting about 3D Human Pose", arXiv, 2023 (*MPI*). [[Paper](https://arxiv.org/abs/2311.18836)][[Code (in construction)](https://github.com/yfeng95/PoseGPT)][[Website](https://yfeng95.github.io/posegpt/)]
     * **TEMP3D**: "TEMP3D: Temporally Continuous 3D Human Pose Estimation Under Occlusions", arXiv, 2023 (*UC Riverside*). [[Paper](https://arxiv.org/abs/2312.16221)][[Website](https://sites.google.com/ucr.edu/temp3d)]
+    * **FinePOSE**: "FinePOSE: Fine-Grained Prompt-Driven 3D Human Pose Estimation via Diffusion Models", CVPR, 2024 (*University of Science and Technology Beijing*). [[Paper](https://arxiv.org/abs/2405.05216)][[PyTorch](https://github.com/PKU-ICST-MIPL/FinePOSE_CVPR2024)]
     * **VLPose**: "VLPose: Bridging the Domain Gap in Pose Estimation with Language-Vision Tuning", arXiv, 2024 (*CUHK*). [[Paper](https://arxiv.org/abs/2402.14456)]
     * **?**: "Multi-Human Mesh Recovery with Transformers", arXiv, 2024 (*Stanford*). [[Paper](https://arxiv.org/abs/2402.16806)]
     * **WHAC**: "WHAC: World-grounded Humans and Cameras", arXiv, 2024 (*SenseTime*). [[Paper](https://arxiv.org/abs/2403.12959)][[Code (in construction)](https://github.com/wqyin/WHAC)][[Website](https://wqyin.github.io/projects/WHAC/)]
@@ -458,6 +459,8 @@ If you find this repository useful, please consider citing this list:
 * **MP-ReID**: "Multi-Prompts Learning with Cross-Modal Alignment for Attribute-based Person Re-Identification", AAAI, 2024 (*Eastern Institute of Technology, China*). [[Paper](https://arxiv.org/abs/2312.16797)]
 * **EDITOR**: "Magic Tokens: Select Diverse Tokens for Multi-modal Object Re-Identification", CVPR, 2024 (*Dalian University of Technology*). [[Paper](https://arxiv.org/abs/2403.10254)][[PyTorch](https://github.com/924973292/EDITOR)]
 * **VDT**: "View-decoupled Transformer for Person Re-identification under Aerial-ground Camera Network", CVPR, 2024 (*Sun Yat-Sen University*). [[Paper](https://arxiv.org/abs/2403.14513)][[PyTorch](https://github.com/LinlyAC/VDT-AGPReID)]
+* **MLLM4Text-ReID**: "Harnessing the Power of MLLMs for Transferable Text-to-Image Person ReID", CVPR, 2024 (*South China University of Technology*). [[Paper](https://arxiv.org/abs/2405.04940)][[PyTorch](https://github.com/WentaoTan/MLLM4Text-ReID)]
+* **AIO**: "All in One Framework for Multimodal Re-identification in the Wild", CVPR, 2024 (*Wuhan University*). [[Paper](https://arxiv.org/abs/2405.04741)]
 
 [[Back to Overview](#overview)]
 
@@ -1605,6 +1608,7 @@ If you find this repository useful, please consider citing this list:
 * **FairCLIP**: "FairCLIP: Harnessing Fairness in Vision-Language Learning", CVPR, 2024 (*Harvard*). [[Paper](https://arxiv.org/abs/2403.19949)]
 * **RAD-DINO**: "RAD-DINO: Exploring Scalable Medical Image Encoders Beyond Text Supervision", arXiv, 2024 (*Microsoft*). [[Paper](https://arxiv.org/abs/2401.10815)]
 * **Med-Gemini**: "Advancing Multimodal Medical Capabilities of Gemini", arXiv, 2024 (*Google*). [[Paper](https://arxiv.org/abs/2405.03162)]
+* **EVA-X**: "EVA-X: A Foundation Model for General Chest X-ray Analysis with Self-supervised Learning", arXiv, 2024 (*Huazhong University of Science and Technology*). [[Paper](https://arxiv.org/abs/2405.05237)][[PyTorch](https://github.com/hustvl/EVA-X)]
 
 [[Back to Overview](#overview)]
 
