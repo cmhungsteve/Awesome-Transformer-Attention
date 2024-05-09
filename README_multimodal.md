@@ -920,6 +920,7 @@ If you find this repository useful, please consider citing this list:
     * **ViML**: "Language-Guided Music Recommendation for Video via Prompt Analogies", CVPR, 2023 (*Adobe*). [[Paper](https://arxiv.org/abs/2306.09327)][[Website](https://www.danielbmckee.com/language-guided-music-for-video/)]
     * **eP-ALM**: "eP-ALM: Efficient Perceptual Augmentation of Language Models", ICCV, 2023 (*Sorbonne University, France*). [[Paper](https://arxiv.org/abs/2303.11403)][[PyTorch](https://github.com/mshukor/eP-ALM)]
     * **Auto-ACD**: "A Large-scale Dataset for Audio-Language Representation Learning", arXiv, 2023 (*Shanghai Jiao Tong*). [[Paper](https://arxiv.org/abs/2309.11500)][[Code (in construction)](https://github.com/LoieSun/Auto-ACD)][[Website](https://auto-acd.github.io/)]
+    * **Motion-Patches**: "Exploring Vision Transformers for 3D Human Motion-Language Models with Motion Patches", CVPR, 2024 (*LY, Japan*). [[Paper](https://arxiv.org/abs/2405.04771)][[Website](https://yu1ut.com/MotionPatches-HP/)]
 
 [[Back to Overview](#overview)]
 
@@ -1048,6 +1049,7 @@ If you find this repository useful, please consider citing this list:
     * **PixArt-Σ**: "PixArt-Σ: Weak-to-Strong Training of Diffusion Transformer for 4K Text-to-Image Generation", arXiv, 2024 (*Huawei*). [[Paper](https://arxiv.org/abs/2403.04692)][[Website](https://pixart-alpha.github.io/PixArt-sigma-project/)]
     * **CogView3**: "CogView3: Finer and Faster Text-to-Image Generation via Relay Diffusion", arXiv, 2024 (*Zhipu AI, China*). [[Paper](https://arxiv.org/abs/2403.05121)]
     * **SELMA**: "SELMA: Learning and Merging Skill-Specific Text-to-Image Experts with Auto-Generated Data", arXiv, 2024 (*UNC*). [[Paper](https://arxiv.org/abs/2403.06952)][[PyTorch](https://github.com/jialuli-luka/SELMA)][[Website](https://selma-t2i.github.io/)]
+    * **Imagine-Flash**: "Imagine Flash: Accelerating Emu Diffusion Models with Backward Distillation", arXiv, 2024 (*Meta*). [[Paper](https://arxiv.org/abs/2405.05224)]
 * Video:
     * **Imagen-Video**: "Imagen Video: High Definition Video Generation with Diffusion Models", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2210.02303)][[Website](https://imagen.research.google/video/)]
     * **Phenaki**: "Phenaki: Variable Length Video Generation From Open Domain Textual Description", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2210.02399)][[PyTorch (LAION-AI, in construction)](https://github.com/LAION-AI/phenaki)][[Website](https://phenaki.video/)]
@@ -1905,6 +1907,7 @@ If you find this repository useful, please consider citing this list:
     * **MERLIM**: "Behind the Magic, MERLIM: Multi-modal Evaluation Benchmark for Large Image-Language Models", arXiv, 2023 (*KAUST*). [[Paper](https://arxiv.org/abs/2312.02219)]
     * **BenchLMM**: "BenchLMM: Benchmarking Cross-style Visual Capability of Large Multimodal Models", arXiv, 2023 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2312.02896)][[PyTorch](https://github.com/AIFEG/BenchLMM)]
     * **M3DBench**: "M3DBench: Let's Instruct Large Models with Multi-modal 3D Prompts", arXiv, 2023 (*Fudan*). [[Paper](https://arxiv.org/abs/2312.10763)][[Code (in construction)](https://github.com/OpenM3D/M3DBench/)][[Website](https://m3dbench.github.io/)]
+    * **THRONE**: "THRONE: An Object-based Hallucination Benchmark for the Free-form Generations of Large Vision-Language Models", CVPR, 2024 (*Amazon*). [[Paper](https://arxiv.org/abs/2405.05256)]
     * **MM-SAP**: "MM-SAP: A Comprehensive Benchmark for Assessing Self-Awareness of Multimodal Large Language Models in Perception", arXiv, 2024 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2401.07529)][[Code (in construction)](https://github.com/YHWmz/MM-SAP)]
     * **MLLM-as-a-Judge**: "MLLM-as-a-Judge: Assessing Multimodal LLM-as-a-Judge with Vision-Language Benchmark", arXiv, 2024 (*Lehigh University, Pennsylvania*). [[Paper](https://arxiv.org/abs/2402.04788)][[GitHub](https://github.com/Dongping-Chen/MLLM-as-a-Judge)]
     * **TempCompass**: "TempCompass: Do Video LLMs Really Understand Videos?", arXiv, 2024 (*Peking*). [[Paper](https://arxiv.org/abs/2403.00476)][[Code (in construction)](https://github.com/llyx97/TempCompass)]
