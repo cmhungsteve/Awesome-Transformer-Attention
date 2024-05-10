@@ -1109,6 +1109,7 @@ If you find this repository useful, please consider citing this list:
     * **MAV3D**: "Text-To-4D Dynamic Scene Generation", ICML, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2301.11280)][[Website](https://make-a-video3d.github.io/)]
     * **LORIS**: "Long-Term Rhythmic Video Soundtracker", ICML, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2305.01319)][[PyTorch](https://github.com/OpenGVLab/LORIS)]
     * **NExT-GPT**: "NExT-GPT: Any-to-Any Multimodal LLM", arXiv, 2023 (*NUS*). [[Paper](https://arxiv.org/abs/2309.05519)][[Code (in construction)](https://github.com/NExT-GPT/NExT-GPT)][[Website](https://next-gpt.github.io/)]
+    * **Lumina-T2X**: "Lumina-T2X: Transforming Text into Any Modality, Resolution, and Duration via Flow-based Large Diffusion Transformers", arXiv, 2024 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2405.05945)][[PyTorch](https://github.com/Alpha-VLLM/Lumina-T2X)]
 
 [[Back to Overview](#overview)]
 
@@ -1231,6 +1232,7 @@ If you find this repository useful, please consider citing this list:
 * **TDA**: "Efficient Test-Time Adaptation of Vision-Language Models", CVPR, 2024 (*MBZUAI*). [[Paper](https://arxiv.org/abs/2403.18293)][[PyTorch](https://github.com/kdiAAA/TDA)][[Website](https://kdiaaa.github.io/tda/)]
 * **TVP**: "Exploring the Transferability of Visual Prompting for Multimodal Large Language Models", CVPR, 2024 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2404.11207)][[PyTorch](https://github.com/zycheiheihei/Transferable-Visual-Prompting)]
 * **MTA**: "On the test-time zero-shot generalization of vision-language models: Do we really need prompt learning?", CVPR, 2024 (*UCLouvain, Belgium*). [[Paper](https://arxiv.org/abs/2405.02266)][[PyTorch](https://github.com/MaxZanella/MTA)]
+* **MemVP**: "Memory-Space Visual Prompting for Efficient Vision-Language Fine-Tuning", ICML, 2024 (*Huawei*). [[Paper](https://arxiv.org/abs/2405.05615)][[Code (in construction)](https://github.com/JieShibo/MemVP)]
 * **ProText**: "Learning to Prompt with Text Only Supervision for Vision-Language Models", arXiv, 2024 (*MBZUAI*). [[Paper](https://arxiv.org/abs/2401.02418)][[PyTorch](https://github.com/muzairkhattak/ProText)][[Website](https://muzairkhattak.github.io/ProText/)]
 * **Any-shift**: "Any-Shift Prompting for Generalization over Distributions", arXiv, 2024 (*UvA*). [[Paper](https://arxiv.org/abs/2402.10099)]
 * **SPT**: "Revisiting the Power of Prompt for Visual Tuning", arXiv, 2024 (*Hefei University of Technology*). [[Paper](https://arxiv.org/abs/2402.02382)][[PyTorch](https://github.com/WangYZ1608/Self-Prompt-Tuning)]
@@ -1790,6 +1792,7 @@ If you find this repository useful, please consider citing this list:
     * **LocVLM**: "Learning to Localize Objects Improves Spatial Reasoning in Visual-LLMs", arXiv, 2024 (*Meta*). [[Paper](https://arxiv.org/abs/2404.07449)]
     * **Reka**: "Reka Core, Flash, and Edge: A Series of Powerful Multimodal Language Models", arXiv, 2024 (*Reka.ai*). [[Paper](https://arxiv.org/abs/2404.12387)][[Website](https://showcase.reka.ai/)]
     * **Cantor**: "Cantor: Inspiring Multimodal Chain-of-Thought of MLLM", arXiv, 2024 (*Tencent*). [[Paper](https://arxiv.org/abs/2404.16033)][[Code (in construction)](https://github.com/ggg0919/cantor)][[Website](https://ggg0919.github.io/cantor/)]
+    * **CuMo**: "CuMo: Scaling Multimodal LLM with Co-Upcycled Mixture-of-Experts", arXiv, 2024 (*ByteDance*). [[Paper](https://arxiv.org/abs/2405.05949)][[PyTorch](https://github.com/SHI-Labs/CuMo)]
 * Conversation (Video):
     * **Video-ChatCaptioner**: "Video ChatCaptioner: Towards the Enriched Spatiotemporal Descriptions", arXiv, 2023 (*KAUST*). [[Paper](https://arxiv.org/abs/2304.04227)][[PyTorch](https://github.com/Vision-CAIR/ChatCaptioner)]
     * **ChatVideo**: "ChatVideo: A Tracklet-centric Multimodal and Versatile Video Understanding System", arXiv, 2023 (*Fudan*). [[Paper](https://arxiv.org/abs/2304.14407)][[Website](https://www.wangjunke.info/ChatVideo/)]
