@@ -313,6 +313,7 @@ If you find this repository useful, please consider citing this list:
     * **LangRepo**: "Language Repository for Long Video Understanding", arXiv, 2024 (*Stony Brook, NY*). [[Paper](https://arxiv.org/abs/2403.14622)][[PyTorch](https://github.com/kkahatapitiya/LangRepo)]
     * **LongVLM**: "LongVLM: Efficient Long Video Understanding via Large Language Models", arXiv, 2024 (*Monash*). [[Paper](https://arxiv.org/abs/2404.03384)][[Code (in construction)](https://github.com/ziplab/LongVLM)]
     * **TraveLER**: "TraveLER: A Multi-LMM Agent Framework for Video Question-Answering", arXiv, 2024 (*Berkeley*). [[Paper](https://arxiv.org/abs/2404.01476)]
+    * **CinePile**: "CinePile: A Long Video Question Answering Dataset and Benchmark", arXiv, 2024 (*Maryland*). [[Paper](https://arxiv.org/abs/2405.08813)][[Website](https://ruchitrawal.github.io/cinepile/)]
 * 3D:
     * **3D-VQA**: "CLIP-Guided Vision-Language Pre-training for Question Answering in 3D Scenes", CVPRW, 2023 (*ETHZ*). [[Paper](https://arxiv.org/abs/2304.06061)][[Code (in construction)](https://github.com/AlexDelitzas/3D-VQA)]
     * **PO3D-VQA**: "3D-Aware Visual Question Answering about Parts, Poses and Occlusions", NeurIPS, 2023 (*JHU*). [[Paper](https://arxiv.org/abs/2310.17914)][[Code (in construction)](https://github.com/XingruiWang/3D-Aware-VQA)]
@@ -664,6 +665,7 @@ If you find this repository useful, please consider citing this list:
     * **IL-CLIP**: "Iterated Learning Improves Compositionality in Large Vision-Language Models", CVPR, 2024 (*UW*). [[Paper](https://arxiv.org/abs/2404.02145)]
     * **MoDE**: "MoDE: CLIP Data Experts via Clustering", CVPR, 2024 (*Meta*). [[Paper](https://arxiv.org/abs/2404.16030)][[PyTorch](https://github.com/facebookresearch/MetaCLIP/tree/main/mode)]
     * **Multi-MaP**: "Multi-Modal Proxy Learning Towards Personalized Visual Multiple Clustering", CVPR, 2024 (*UW Tacoma*). [[Paper](https://arxiv.org/abs/2404.15655)][[PyTorch](https://github.com/Alexander-Yao/Multi-MaP)]
+    * **Cluster-Masking**: "Efficient Vision-Language Pre-training by Cluster Masking", CVPR, 2024 (*UMich*). [[Paper](https://arxiv.org/abs/2405.08815)][[PyTorch](https://github.com/Zi-hao-Wei/Efficient-Vision-Language-Pre-training-by-Cluster-Masking)][[Website](https://zxp46.github.io/cluster-masking/)]
     * **Morph-Tokens**: "Auto-Encoding Morph-Tokens for Multimodal LLM", ICML, 2024 (*Zhejiang*). [[Paper](https://arxiv.org/abs/2405.01926)][[PyTorch](https://github.com/DCDmllm/MorphTokens)]
     * **COSMO**: "COSMO: COntrastive Streamlined MultimOdal Model with Interleaved Pre-Training", arXiv, 2024 (*Microsoft*). [[Paper](https://arxiv.org/abs/2401.00849)][[PyTorch](https://github.com/showlab/cosmo)][[Website](https://fingerrec.github.io/cosmo/)]
     * **?**: "Low-Resource Vision Challenges for Foundation Models", arXiv, 2024 (*UvA*). [[Paper](https://arxiv.org/abs/2401.04716)][[Code (in construction)](https://github.com/xiaobai1217/Low-Resource-Vision)][[Website](https://xiaobai1217.github.io/Low-Resource-Vision/)]
@@ -1050,6 +1052,7 @@ If you find this repository useful, please consider citing this list:
     * **CogView3**: "CogView3: Finer and Faster Text-to-Image Generation via Relay Diffusion", arXiv, 2024 (*Zhipu AI, China*). [[Paper](https://arxiv.org/abs/2403.05121)]
     * **SELMA**: "SELMA: Learning and Merging Skill-Specific Text-to-Image Experts with Auto-Generated Data", arXiv, 2024 (*UNC*). [[Paper](https://arxiv.org/abs/2403.06952)][[PyTorch](https://github.com/jialuli-luka/SELMA)][[Website](https://selma-t2i.github.io/)]
     * **Imagine-Flash**: "Imagine Flash: Accelerating Emu Diffusion Models with Backward Distillation", arXiv, 2024 (*Meta*). [[Paper](https://arxiv.org/abs/2405.05224)]
+    * **Hunyuan-DiT**: "Hunyuan-DiT: A Powerful Multi-Resolution Diffusion Transformer with Fine-Grained Chinese Understanding", arXiv, 2024 (*Tencent*). [[Paper](https://arxiv.org/abs/2405.08748)][[PyTorch](https://github.com/Tencent/HunyuanDiT)][[Website](https://dit.hunyuan.tencent.com/)]
 * Video:
     * **Imagen-Video**: "Imagen Video: High Definition Video Generation with Diffusion Models", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2210.02303)][[Website](https://imagen.research.google/video/)]
     * **Phenaki**: "Phenaki: Variable Length Video Generation From Open Domain Textual Description", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2210.02399)][[PyTorch (LAION-AI, in construction)](https://github.com/LAION-AI/phenaki)][[Website](https://phenaki.video/)]
@@ -1098,8 +1101,9 @@ If you find this repository useful, please consider citing this list:
     * **InstructP2P**: "InstructP2P: Learning to Edit 3D Point Clouds with Text Instructions", arXiv, 2023 (*Tencent*). [[Paper](https://arxiv.org/abs/2306.07154)]
     * **SDS-Complete**: "Point-Cloud Completion with Pretrained Text-to-image Diffusion Models", arXiv, 2023 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2306.10533)][[Website](https://sds-complete.github.io/)]
     * **Michelangelo**: "Michelangelo: Conditional 3D Shape Generation based on Shape-Image-Text Aligned Latent Representation", arXiv, 2023 (*Tencent*). [[Paper](https://arxiv.org/abs/2306.17115)][[Code (in construction)(https://github.com/NeuralCarver/michelangelo)]][[Website](https://neuralcarver.github.io/michelangelo/)]
-    * **DiffTF**: "Large-Vocabulary 3D Diffusion Model with Transformer", arXiv, 2023 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2309.07920)][[Code (in construction)](https://github.com/ziangcao0312/DiffTF)][[Website](https://ziangcao0312.github.io/difftf_pages/)]
     * **3D-GPT**: "3D-GPT: Procedural 3D Modeling with Large Language Models", arXiv, 2023 (*ANU*). [[Paper](https://arxiv.org/abs/2310.12945)][[Website](https://chuny1.github.io/3DGPT/3dgpt.html)]
+    * **DiffTF**: "Large-Vocabulary 3D Diffusion Model with Transformer", ICLR, 2024 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2309.07920)][[PyTorch](https://github.com/ziangcao0312/DiffTF)][[Website](https://ziangcao0312.github.io/difftf_pages/)]
+    * **DiffTF++**: "DiffTF++: 3D-aware Diffusion Transformer for Large-Vocabulary 3D Generation", arXiv, 2024 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2405.08055)]
 * Others:
     * **DiffGesture**: "Taming Diffusion Models for Audio-Driven Co-Speech Gesture Generation", CVPR, 2023 (*HKU*). [[Paper](https://arxiv.org/abs/2303.09119)][[PyTorch](https://github.com/Advocate99/DiffGesture)]
     * **CondFoleyGen**: "Conditional Generation of Audio from Video via Foley Analogies", CVPR, 2023 (*UMich*). [[Paper](https://arxiv.org/abs/2304.08490)][[PyTorch (in construction)](https://github.com/XYPB/CondFoleyGen)][[Website](https://xypb.github.io/CondFoleyGen/)]
