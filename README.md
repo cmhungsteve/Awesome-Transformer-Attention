@@ -694,6 +694,7 @@ If you find this repository useful, please consider citing this list:
 * **CLIPpy**: "Perceptual Grouping in Vision-Language Models", ICCV, 2023 (*Apple*). [[Paper](https://arxiv.org/abs/2210.09996)]
 * **CiT**: "CiT: Curation in Training for Effective Vision-Language Data", ICCV, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2301.02241)][[PyTorch](https://github.com/facebookresearch/CiT)]
 * **I-JEPA**: "Self-Supervised Learning from Images with a Joint-Embedding Predictive Architecture", ICCV, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2301.08243)]
+* **EfficientTrain**: "EfficientTrain: Exploring Generalized Curriculum Learning for Training Visual Backbones", ICCV, 2023 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2211.09703)][[PyTorch](https://github.com/LeapLabTHU/EfficientTrain)]
 * **StableRep**: "StableRep: Synthetic Images from Text-to-Image Models Make Strong Visual Representation Learners", NeurIPS, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2306.00984)][[PyTorch](https://github.com/google-research/syn-rep-learn)]
 * **LaCLIP**: "Improving CLIP Training with Language Rewrites", NeurIPS, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2305.20088)][[PyTorch](https://github.com/LijieFan/LaCLIP)]
 * **DesCo**: "DesCo: Learning Object Recognition with Rich Language Descriptions", NeurIPS, 2023 (*UCLA*). [[Paper](https://arxiv.org/abs/2306.14060)]
@@ -736,6 +737,7 @@ If you find this repository useful, please consider citing this list:
 * **DTM**: "Masked Image Modeling via Dynamic Token Morphing", arXiv, 2023 (*NAVER*). [[Paper](https://arxiv.org/abs/2401.00254)]
 * **SSAT**: "Limited Data, Unlimited Potential: A Study on ViTs Augmented by Masked Autoencoders", WACV, 2024 (*UNC Charlotte*). [[Paper](https://arxiv.org/abs/2310.20704)][[Code (in construction)](https://github.com/dominickrei/Limited-data-vits)]
 * **FEC**: "Neural Clustering based Visual Representation Learning", CVPR, 2024 (*Zhejiang*). [[Paper](https://arxiv.org/abs/2403.17409)]
+* **EfficientTrain++**: "EfficientTrain++: Generalized Curriculum Learning for Efficient Visual Backbone Training", TPAMI, 2024 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2405.08768)][[PyTorch](https://github.com/LeapLabTHU/EfficientTrain)]
 * **DVT**: "Denoising Vision Transformers", arXiv, 2024 (*USC*). [[Paper](https://arxiv.org/abs/2401.02957)][[PyTorch](https://github.com/Jiawei-Yang/Denoising-ViT)][[Website](https://jiawei-yang.github.io/DenoisingViT/)]
 * **AIM**: "Scalable Pre-training of Large Autoregressive Image Models", arXiv, 2024 (*Apple*). [[Paper](https://arxiv.org/abs/2401.08541)][[PyTorch](https://github.com/apple/ml-aim)]
 * **DDM**: "Deconstructing Denoising Diffusion Models for Self-Supervised Learning", arXiv, 2024 (*Meta*). [[Paper](https://arxiv.org/abs/2401.14404)]
@@ -2140,6 +2142,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **ViT-TAD**: "Adapting Short-Term Transformers for Action Detection in Untrimmed Videos", arXiv, 2023 (*Nanjing University (NJU)*). [[Paper](https://arxiv.org/abs/2312.01897)]
 * **Cafe**: "Towards More Practical Group Activity Detection: A New Benchmark and Model", arXiv, 2023 (*POSTECH*). [[Paper](https://arxiv.org/abs/2312.02878)][[PyTorch](https://github.com/dk-kim/CAFE_codebase)][[Website](https://dk-kim.github.io/CAFE/)]
 * **?**: "Multiscale Vision Transformers meet Bipartite Matching for efficient single-stage Action Localization", arXiv, 2023 (*Queen Mary, UK*). [[Paper](https://arxiv.org/abs/2312.17686)]
+* **SMAST**: "A Semantic and Motion-Aware Spatiotemporal Transformer Network for Action Detection", TPAMI, 2024 (*University of Virginia*). [[Paper](https://arxiv.org/abs/2405.08204)]
 
 [[Back to Overview](#overview)]
 
