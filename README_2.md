@@ -410,6 +410,7 @@ If you find this repository useful, please consider citing this list:
     * **DQTrack**: "End-to-end 3D Tracking with Decoupled Queries", ICCV, 2023 (*NVIDIA*). [[Paper](https://openaccess.thecvf.com/content/ICCV2023/html/Li_End-to-end_3D_Tracking_with_Decoupled_Queries_ICCV_2023_paper.html)][[PyTorch](https://github.com/NVlabs/DQTrack)]
     * **GLT-T++**: "GLT-T++: Global-Local Transformer for 3D Siamese Tracking with Ranking Loss", arXiv, 2023 (*Hangzhou Dianzi University*). [[Paper](https://arxiv.org/abs/2304.00242)][[PyTorch](https://github.com/haooozi/GLT-T)]
     * **BOTT**: "BOTT: Box Only Transformer Tracker for 3D Object Tracking", arXiv, 2023 (*Motional*). [[Paper](https://arxiv.org/abs/2308.08753)]
+    * **ADA-Track**: "ADA-Track: End-to-End Multi-Camera 3D Multi-Object Tracking with Alternating Detection and Association", CVPR, 2024 (*Mercedes-Benz*). [[Paper](https://arxiv.org/abs/2405.08909)][[PyTorch](https://github.com/dsx0511/ADA-Track)]
 
 [[Back to Overview](#overview)]
 
