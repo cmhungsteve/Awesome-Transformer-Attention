@@ -932,6 +932,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **PlainMamba**: "PlainMamba: Improving Non-Hierarchical Mamba in Visual Recognition", arXiv, 2024 (*University of Edinburgh, Scotland*). [[Paper](https://arxiv.org/abs/2403.17695)][[PyTorch](https://github.com/ChenhongyiYang/PlainMamba)]
 * **EfficientVMamba**: "EfficientVMamba: Atrous Selective Scan for Light Weight Visual Mamba", arXiv, 2024 (*The University of Sydney*). [[Paper](https://arxiv.org/abs/2403.09977)][[PyTorch](https://github.com/TerryPei/EfficientVMamba)]
 * **RDNet**: "DenseNets Reloaded: Paradigm Shift Beyond ResNets and ViTs", arXiv, 2024 (*NAVER*). [[Paper](https://arxiv.org/abs/2403.19588)]
+* **MambaOut**: "MambaOut: Do We Really Need Mamba for Vision?", arXiv, 2024 (*NUS*). [[Paper](https://arxiv.org/abs/2405.07992)][[PyTorch](https://github.com/yuweihao/MambaOut)]
 
 [[Back to Overview](#overview)]
 
@@ -1429,6 +1430,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **DeepSolo++**: "DeepSolo++: Let Transformer Decoder with Explicit Points Solo for Text Spotting", arXiv, 2023 (*JD*). [[Paper](https://arxiv.org/abs/2305.19957)][[PyTorch](https://github.com/ViTAE-Transformer/DeepSolo)]
     * **FastTCM**: "Turning a CLIP Model into a Scene Text Spotter", arXiv, 2023 (*Huazhong University of Science and Technology*). [[Paper](https://arxiv.org/abs/2308.10408)][[PyTorch](https://github.com/wenwenyu/TCM)]
     * **SRFormer**: "SRFormer: Empowering Regression-Based Text Detection Transformer with Segmentation", arXiv, 2023 (*Shanghai Jiao Tong*). [[Paper](https://arxiv.org/abs/2308.10531)]
+    * **TGA**: "Text Grouping Adapter: Adapting Pre-trained Text Detector for Layout Analysis", CVPR, 2024 (*Microsoft*). [[Paper](https://arxiv.org/abs/2405.07481)]
     * **SwinTextSpotter-v2**: "SwinTextSpotter v2: Towards Better Synergy for Scene Text Spotting", arXiv, 2024 (*South China University of Technology*). [[Paper](https://arxiv.org/abs/2401.07641)]
 * Change Detection:
     * **ChangeFormer**: "A Transformer-Based Siamese Network for Change Detection", arXiv, 2022 (*JHU*). [[Paper](https://arxiv.org/abs/2201.01293)][[PyTorch](https://github.com/wgcban/ChangeFormer)]
@@ -1905,6 +1907,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **SAM-Graph**: "SAM-guided Graph Cut for 3D Instance Segmentation", arXiv, 2023 (*Zhejiang*). [[Paper](https://arxiv.org/abs/2312.08372)][[Code (in construction)](https://github.com/zju3dv/SAM-Graph)][[Website](https://zju3dv.github.io/sam_graph/)]
     * **SAI3D**: "SAI3D: Segment Any Instance in 3D Scenes", arXiv, 2023 (*Peking*). [[Paper](https://arxiv.org/abs/2312.11557)]
     * **COSeg**: "Rethinking Few-shot 3D Point Cloud Semantic Segmentation", CVPR, 2024 (*ETHZ*). [[Paper](https://arxiv.org/abs/2403.00592)][[Code (in construction)](https://github.com/ZhaochongAn/COSeg)]
+    * **CSC**: "Building a Strong Pre-Training Baseline for Universal 3D Large-Scale Perception", CVPR, 2024 (*East China Normal University*). [[Paper](https://arxiv.org/abs/2405.07201)][[Code (in construction)](https://github.com/chenhaomingbob/CSC)]
 * Multi-Task:
     * **InvPT**: "Inverted Pyramid Multi-task Transformer for Dense Scene Understanding", ECCV, 2022 (*HKUST*). [[Paper](https://arxiv.org/abs/2203.07997)][[PyTorch](https://github.com/prismformore/Multi-Task-Transformer)]
     * **MTFormer**: "MTFormer: Multi-task Learning via Transformer and Cross-Task Reasoning", ECCV, 2022 (*CUHK*). [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/1353_ECCV_2022_paper.php)]
