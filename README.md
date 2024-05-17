@@ -132,6 +132,7 @@ If you find this repository useful, please consider citing this list:
 
 ## Survey
 * "A Survey on Multimodal Large Language Models for Autonomous Driving", WACVW, 2024 (*Purdue*). [[Paper](https://arxiv.org/abs/2311.12320)][[GitHub](https://github.com/IrohXu/Awesome-Multimodal-LLM-Autonomous-Driving)]
+* "When LLMs step into the 3D World: A Survey and Meta-Analysis of 3D Tasks via Multi-modal Large Language Models", arXiv, 2024 (*Oxford*). [[Paper](https://arxiv.org/abs/2405.10255)][[GitHub](https://github.com/ActiveVisionLab/Awesome-LLM-3D)]
 * "Foundation Models for Video Understanding: A Survey", arXiv, 2024 (*Aalborg University, Denmark*). [[Paper](https://arxiv.org/abs/2405.03770)][[GitHub](https://github.com/NeeluMadan/ViFM_Survey)]
 * "Vision Mamba: A Comprehensive Survey and Taxonomy", arXiv, 2024 (*Chongqing University*). [[Paper](https://arxiv.org/abs/2405.04404)][[GitHub](https://github.com/lx6c78/Vision-Mamba-A-Comprehensive-Survey-and-Taxonomy)]
 * "Is Sora a World Simulator? A Comprehensive Survey on General World Models and Beyond", arXiv, 2024 (*GigaAI, China*). [[Paper](https://arxiv.org/abs/2405.03520)][[GitHub](https://github.com/GigaAI-research/General-World-Models-Survey)]
@@ -1344,9 +1345,11 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **GenerateU**: "Generative Region-Language Pretraining for Open-Ended Object Detection", CVPR, 2024 (*Monash University*). [[Paper](https://arxiv.org/abs/2403.10191)][[PyTorch](https://github.com/FoundationVision/GenerateU)]
     * **DetCLIPv3**: "DetCLIPv3: Towards Versatile Generative Open-vocabulary Object Detection", CVPR, 2024 (*Huawei*). [[Paper](https://arxiv.org/abs/2404.09216)]
     * **RALF**: "Retrieval-Augmented Open-Vocabulary Object Detection", CVPR, 2024 (*Korea University*). [[Paper](https://arxiv.org/abs/2404.05687)][[Code (in construction)](https://github.com/mlvlab/RALF)]
+    * **SHiNe**: "SHiNe: Semantic Hierarchy Nexus for Open-vocabulary Object Detection", CVPR, 2024 (*NAVER*). [[Paper](https://arxiv.org/abs/2405.10053)]
     * **MM-Grounding-DINO**: "An Open and Comprehensive Pipeline for Unified Object Grounding and Detection", arXiv, 2024 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2401.02361)][[PyTorch](https://github.com/open-mmlab/mmdetection/tree/main/configs/grounding_dino)]
     * **YOLO-World**: "YOLO-World: Real-Time Open-Vocabulary Object Detection", arXiv, 2024 (*Tencent*). [[Paper](https://arxiv.org/abs/2401.17270)][[Code (in construction)](https://github.com/AILab-CVC/YOLO-World)]
     * **T-Rex2**: "T-Rex2: Towards Generic Object Detection via Text-Visual Prompt Synergy", arXiv, 2024 (*IDEA*). [[Paper](https://arxiv.org/abs/2403.14610)][[PyTorch](https://github.com/IDEA-Research/T-Rex)][[Website](https://deepdataspace.com/home)]
+    * **Grounding-DINO-1.5**: "Grounding DINO 1.5: Advance the "Edge" of Open-Set Object Detection", arXiv, 2024 (*IDEA*). [[Paper](https://arxiv.org/abs/2405.10300)][[Code](https://github.com/IDEA-Research/Grounding-DINO-1.5-API)]
 * Pedestrian Detection:
     * **PED**: "DETR for Crowd Pedestrian Detection", arXiv, 2020 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2012.06785)][[PyTorch](https://github.com/Hatmm/PED-DETR-for-Pedestrian-Detection)]
     * **?**: "Effectiveness of Vision Transformer for Fast and Accurate Single-Stage Pedestrian Detection", NeurIPS, 2022 (*ICL*). [[Paper](https://openreview.net/forum?id=eow_ZGaw24j)]
