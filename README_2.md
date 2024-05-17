@@ -626,6 +626,7 @@ If you find this repository useful, please consider citing this list:
 * **VETO-MEET**: "Vision Relation Transformer for Unbiased Scene Graph Generation", ICCV, 2023 (*Technical University of Darmstadt, Germany*). [[Paper](https://arxiv.org/abs/2308.09472)][[PyTorch](https://github.com/visinf/veto)]
 * **TextPSG**: "TextPSG: Panoptic Scene Graph Generation from Textual Descriptions", ICCV, 2023 (*IBM*). [[Paper](https://arxiv.org/abs/2310.07056)][[Code (in construction)](https://github.com/chengyzhao/TextPSG)][[Website](https://vis-www.cs.umass.edu/TextPSG/)]
 * **HiLo**: "HiLo: Exploiting High Low Frequency Relations for Unbiased Panoptic Scene Graph Generation", ICCV, 2023 (*King's College London*). [[Paper](https://arxiv.org/abs/2303.15994)][[PyTorch](https://github.com/franciszzj/HiLo)]
+* **PSG4DFormer**: "4D Panoptic Scene Graph Generation", NeurIPS, 2023 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2405.10305)][[PyTorch](https://github.com/Jingkang50/PSG4D)]
 * **SGTR+**: "SGTR+: End-to-end Scene Graph Generation with Transformer", TPAMI, 2023 (*ShanghaiTech*). [[Paper](https://arxiv.org/abs/2401.12835)][[PyTorch](https://github.com/Scarecrow0/SGTR)]
 * **SGT**: "Revisiting Transformer for Point Cloud-based 3D Scene Graph Generation", arXiv, 2023 (*Beijing University of Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2303.11048)]
 * **EGTR**: "EGTR: Extracting Graph from Transformer for Scene Graph Generation", CVPR, 2024 (*NAVER*). [[Paper](https://arxiv.org/abs/2404.02072)][[Code (in construction)](https://github.com/naver-ai/egtr)]
@@ -1359,6 +1360,7 @@ If you find this repository useful, please consider citing this list:
 * **IRIS**: "Transformers are Sample Efficient World Models", arXiv, 2022 (*University of Geneva, Switzerland*). [[Paper](https://arxiv.org/abs/2209.00588)][[PyTorch](https://github.com/eloialonso/iris)]
 * **InstructRL**: "Instruction-Following Agents with Jointly Pre-Trained Vision-Language Models", arXiv, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2210.13431)]
 * **STG-Transformer**: "Learning from Visual Observation via Offline Pretrained State-to-Go Transformer", NeurIPS, 2023 (*BAAI*). [[Paper](https://arxiv.org/abs/2306.12860)][[Code (in construction)](https://github.com/zhoubohan0/STG-Transformer)][[Website](https://sites.google.com/view/stgtransformer)]
+* **RL4VLM**: "Fine-Tuning Large Vision-Language Models as Decision-Making Agents via Reinforcement Learning", arXiv, 2024 (*Berkeley + NYU*). [[Paper](https://arxiv.org/abs/2405.10292)][[PyTorch](https://github.com/RL4VLM/RL4VLM)][[Website](https://rl4vlm.github.io/)]
 
 [[Back to Overview](#overview)]
 
@@ -1814,6 +1816,7 @@ University of Posts and Telecommunications*). [[Paper](https://www.bmvc2021-virt
     * **Sharingan**: "Sharingan: A Transformer-based Architecture for Gaze Following", arXiv, 2023 (*EPFL*). [[Paper](https://arxiv.org/abs/2310.00816)]
     * **TransGOP**: "TransGOP: Transformer-Based Gaze Object Prediction", AAAI, 2024 (*Xi'an University of Architecture and Technology*). [[Paper](https://arxiv.org/abs/2402.13578)]
     * **CLIP-Gaze**: "CLIP-Gaze: Towards General Gaze Estimation via Visual-Linguistic Model", AAAI, 2024 (*Hikvision*). [[Paper](https://arxiv.org/abs/2403.05124)]
+    * **IG**: "Learning from Observer Gaze: Zero-Shot Attention Prediction Oriented by Human-Object Interaction Recognition", CVPR, 2024 (*Sun Yat-sen University*). [[Paper](https://arxiv.org/abs/2405.09931)][[Website](https://yuchen2199.github.io/Interactive-Gaze/)]
 * Geo-Localization:
     * **EgoTR**: "Cross-view Geo-localization with Evolving Transformer", arXiv, 2021 (*Shenzhen University*). [[Paper](https://arxiv.org/abs/2107.00842)]
     * **TransGeo**: "TransGeo: Transformer Is All You Need for Cross-view Image Geo-localization", CVPR, 2022 (*UCF*). [[Paper](https://arxiv.org/abs/2204.00097)][[PyTorch](https://github.com/Jeff-Zilence/TransGeo2022)]
