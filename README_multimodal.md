@@ -1799,6 +1799,7 @@ If you find this repository useful, please consider citing this list:
     * **Reka**: "Reka Core, Flash, and Edge: A Series of Powerful Multimodal Language Models", arXiv, 2024 (*Reka.ai*). [[Paper](https://arxiv.org/abs/2404.12387)][[Website](https://showcase.reka.ai/)]
     * **Cantor**: "Cantor: Inspiring Multimodal Chain-of-Thought of MLLM", arXiv, 2024 (*Tencent*). [[Paper](https://arxiv.org/abs/2404.16033)][[Code (in construction)](https://github.com/ggg0919/cantor)][[Website](https://ggg0919.github.io/cantor/)]
     * **CuMo**: "CuMo: Scaling Multimodal LLM with Co-Upcycled Mixture-of-Experts", arXiv, 2024 (*ByteDance*). [[Paper](https://arxiv.org/abs/2405.05949)][[PyTorch](https://github.com/SHI-Labs/CuMo)]
+    * **Chameleon**: "Chameleon: Mixed-Modal Early-Fusion Foundation Models", arXiv, 2024 (*Meta*). [[Paper](https://arxiv.org/abs/2405.09818)]
 * Conversation (Video):
     * **Video-ChatCaptioner**: "Video ChatCaptioner: Towards the Enriched Spatiotemporal Descriptions", arXiv, 2023 (*KAUST*). [[Paper](https://arxiv.org/abs/2304.04227)][[PyTorch](https://github.com/Vision-CAIR/ChatCaptioner)]
     * **ChatVideo**: "ChatVideo: A Tracklet-centric Multimodal and Versatile Video Understanding System", arXiv, 2023 (*Fudan*). [[Paper](https://arxiv.org/abs/2304.14407)][[Website](https://www.wangjunke.info/ChatVideo/)]
