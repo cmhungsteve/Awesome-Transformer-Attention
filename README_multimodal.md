@@ -1421,6 +1421,7 @@ If you find this repository useful, please consider citing this list:
     * **DsHmp**: "Decoupling Static and Hierarchical Motion Perception for Referring Video Segmentation", CVPR, 2024 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2404.03645)][[Code (in construction)](https://github.com/heshuting555/DsHmp)]
     * **VD-IT**: "Exploring Pre-trained Text-to-Video Diffusion Models for Referring Video Object Segmentation", arXiv, 2024 (*University at Buffalo, NY*). [[Paper](https://arxiv.org/abs/2403.12042)][[Code (in construction)](https://github.com/buxiangzhiren/VD-IT)]
     * **HTR**: "Towards Temporally Consistent Referring Video Object Segmentation", arXiv, 2024 (*University of Western Australia*). [[Paper](https://arxiv.org/abs/2403.19407)]
+    * **VLP-RVOS**: "Driving Referring Video Object Segmentation with Vision-Language Pre-trained Models", arXiv, 2024 (*Harbin Institute of Technology*). [[Paper](https://arxiv.org/abs/2405.10610)]
 * Referring 3D Segmentation:
     * **3D-STMN**: "3D-STMN: Dependency-Driven Superpoint-Text Matching Network for End-to-End 3D Referring Expression Segmentation", arXiv, 2023 (*Xiamen University*). [[Paper](https://arxiv.org/abs/2308.16632)][[PyTorch](https://github.com/sosppxo/3D-STMN)]
 * Narrative Grounding:
@@ -1848,6 +1849,7 @@ If you find this repository useful, please consider citing this list:
     * **Uni3DR<sup>2</sup>**: "Unified Scene Representation and Reconstruction for 3D Large Language Models", arXiv, 2024 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2404.13044)]
     * **MiniGPT-3D**: "MiniGPT-3D: Efficiently Aligning 3D Point Clouds with Large Language Models using 2D Priors", arXiv, 2024 (*Huazhong University of Science and Technology*). [[Paper](https://arxiv.org/abs/2405.01413)][[Code (in construction)](https://github.com/TangYuan96/MiniGPT-3D)]
     * **Cube-LLM**: "Language-Image Models with 3D Understanding", arXiv, 2024 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2405.03685)][[Website](https://janghyuncho.github.io/Cube-LLM/)]
+    * **Grounded-3D-LLM**: "Grounded 3D-LLM with Referent Tokens", arXiv, 2024 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2405.10370)][[Code (in construction)](https://github.com/groundedSceneLLM/grounded_3d-llm)][[Website](https://groundedscenellm.github.io/grounded_3d-llm.github.io/)]
 * Conversation (Multi):
     * **AnyMAL**: "AnyMAL: An Efficient and Scalable Any-Modality Augmented Language Model", arXiv, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2309.16058)]
     * **OneLLM**: "OneLLM: One Framework to Align All Modalities with Language", arXiv, 2023 (*CUHK + Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2312.03700)][[PyTorch](https://github.com/csuhan/OneLLM)]
