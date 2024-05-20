@@ -132,6 +132,8 @@ If you find this repository useful, please consider citing this list:
 
 ## Survey
 * "A Survey on Multimodal Large Language Models for Autonomous Driving", WACVW, 2024 (*Purdue*). [[Paper](https://arxiv.org/abs/2311.12320)][[GitHub](https://github.com/IrohXu/Awesome-Multimodal-LLM-Autonomous-Driving)]
+* "Efficient Multimodal Large Language Models: A Survey", arXiv, 2024 (*Tencent*). [[Paper](https://arxiv.org/abs/2405.10739)][[GitHub](https://github.com/lijiannuist/Efficient-Multimodal-LLMs-Survey)]
+* "From Sora What We Can See: A Survey of Text-to-Video Generation", arXiv, 2024 (*Newcastle University, UK*). [[Paper](https://arxiv.org/abs/2405.10674)][[GitHub](https://github.com/soraw-ai/Awesome-Text-to-Video-Generation)]
 * "When LLMs step into the 3D World: A Survey and Meta-Analysis of 3D Tasks via Multi-modal Large Language Models", arXiv, 2024 (*Oxford*). [[Paper](https://arxiv.org/abs/2405.10255)][[GitHub](https://github.com/ActiveVisionLab/Awesome-LLM-3D)]
 * "Foundation Models for Video Understanding: A Survey", arXiv, 2024 (*Aalborg University, Denmark*). [[Paper](https://arxiv.org/abs/2405.03770)][[GitHub](https://github.com/NeeluMadan/ViFM_Survey)]
 * "Vision Mamba: A Comprehensive Survey and Taxonomy", arXiv, 2024 (*Chongqing University*). [[Paper](https://arxiv.org/abs/2405.04404)][[GitHub](https://github.com/lx6c78/Vision-Mamba-A-Comprehensive-Survey-and-Taxonomy)]
@@ -822,6 +824,7 @@ If you find this repository useful, please consider citing this list:
 * **EWA**: "Experts Weights Averaging: A New General Training Scheme for Vision Transformers", arXiv, 2023 (*Fudan*). [[Paper](https://arxiv.org/abs/2308.06093)]
 * **SlowFormer**: "SlowFormer: Universal Adversarial Patch for Attack on Compute and Energy Efficiency of Inference Efficient Vision Transformers", arXiv, 2023 (*UC Davis*). [[Paper](https://arxiv.org/abs/2310.02544)][[PyTorch](https://github.com/UCDvision/SlowFormer)]
 * **DTM**: "Masked Image Modeling via Dynamic Token Morphing", arXiv, 2023 (*NAVER*). [[Paper](https://arxiv.org/abs/2401.00254)]
+* **SWARM**: "Not All Prompts Are Secure: A Switchable Backdoor Attack Against Pre-trained Vision Transformers", CVPR, 2024 (*Zhejiang*). [[Paper](https://arxiv.org/abs/2405.10612)][[Code (in construction)](https://github.com/20000yshust/SWARM)]
 * **?**: "Safety of Multimodal Large Language Models on Images and Text", arXiv, 2024 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2402.00357)]
 #### Model Compression + Transformer
 * **ViT-quant**: "Post-Training Quantization for Vision Transformer", NeurIPS, 2021 (*Huawei*). [[Paper](https://arxiv.org/abs/2106.14156)]
@@ -2149,6 +2152,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **Cafe**: "Towards More Practical Group Activity Detection: A New Benchmark and Model", arXiv, 2023 (*POSTECH*). [[Paper](https://arxiv.org/abs/2312.02878)][[PyTorch](https://github.com/dk-kim/CAFE_codebase)][[Website](https://dk-kim.github.io/CAFE/)]
 * **?**: "Multiscale Vision Transformers meet Bipartite Matching for efficient single-stage Action Localization", arXiv, 2023 (*Queen Mary, UK*). [[Paper](https://arxiv.org/abs/2312.17686)]
 * **SMAST**: "A Semantic and Motion-Aware Spatiotemporal Transformer Network for Action Detection", TPAMI, 2024 (*University of Virginia*). [[Paper](https://arxiv.org/abs/2405.08204)]
+* **OV-STAD**: "Open-Vocabulary Spatio-Temporal Action Detection", arXiv, 2024 (*Nanjing University*). [[Paper](https://arxiv.org/abs/2405.10832)]
 
 [[Back to Overview](#overview)]
 
