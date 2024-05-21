@@ -535,6 +535,7 @@ If you find this repository useful, please consider citing this list:
 * **LF-ViT**: "LF-ViT: Reducing Spatial Redundancy in Vision Transformer for Efficient Image Recognition", AAAI, 2024 (*Harbin Institute of Technology*). [[Paper](https://arxiv.org/abs/2402.00033)][[PyTorch](https://github.com/edgeai1/LF-ViT)]
 * **EfficientMod**: "Efficient Modulation for Vision Networks", ICLR, 2024 (*Microsoft*). [[Paper](https://arxiv.org/abs/2403.19963)][[PyTorch](https://github.com/ma-xu/EfficientMod)]
 * **NOSE**: "MLP Can Be A Good Transformer Learner", CVPR, 2024 (*MBZUAI*). [[Paper](https://arxiv.org/abs/2404.05657)][[PyTorch](https://github.com/sihaoevery/lambda_vit)]
+* **SLAB**: "SLAB: Efficient Transformers with Simplified Linear Attention and Progressive Re-parameterized Batch Normalization", ICML, 2024 (*Huawei*). [[Paper](https://arxiv.org/abs/2405.11582)][[PyTorch](https://github.com/xinghaochen/SLAB)]
 * **S<sup>2</sup>**: "When Do We Not Need Larger Vision Models?", arXiv, 2024 (*Berkeley*). [[Paper](https://arxiv.org/abs/2403.13043)][[PyTorch](https://github.com/bfshi/scaling_on_scales)]
 #### Conv + Transformer
 * **LeViT**: "LeViT: a Vision Transformer in ConvNet's Clothing for Faster Inference", ICCV, 2021 (*Facebook*). [[Paper](https://arxiv.org/abs/2104.01136)][[PyTorch](https://github.com/facebookresearch/LeViT)]
