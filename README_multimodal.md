@@ -153,6 +153,7 @@ If you find this repository useful, please consider citing this list:
     * **DIBS**: "DIBS: Enhancing Dense Video Captioning with Unlabeled Videos via Pseudo Boundary Enrichment and Online Refinement", CVPR, 2024 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2404.02755)]
     * **CM<sup>2</sup>**: "Do You Remember? Dense Video Captioning with Cross-Modal Memory Retrieval", CVPR, 2024 (*Kyung Hee University, Korea*). [[Paper](https://arxiv.org/abs/2404.07610)][[PyTorch](https://github.com/ailab-kyunghee/CM2_DVC)]
     * **NAE**: "Narrative Action Evaluation with Prompt-Guided Multimodal Interaction", CVPR, 2024 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2404.14471)][[PyTorch (in construction)](https://github.com/shiyi-zh0408/NAE_CVPR2024)]
+    * **MICap**: "MICap: A Unified Model for Identity-aware Movie Descriptions", CVPR, 2024 (*IIIT Hyderabad, India*). [[Paper](https://arxiv.org/abs/2405.11483)][[Website](https://katha-ai.github.io/projects/micap/)]
     * **EgoExoNCE**: "Retrieval-Augmented Egocentric Video Captioning", arXiv, 2024 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2401.00789)]
     * **Video-ReCap**: "Video ReCap: Recursive Captioning of Hour-Long Videos", arXiv, 2024 (*UNC*). [[Paper](https://arxiv.org/abs/2402.13250)][[PyTorch](https://github.com/md-mohaiminul/VideoRecap)][[Website](https://sites.google.com/view/vidrecap)]
 * 3D:
@@ -785,6 +786,7 @@ If you find this repository useful, please consider citing this list:
     * **Point-PEFT**: "Point-PEFT: Parameter-Efficient Fine-Tuning for 3D Pre-trained Models", arXiv, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2310.03059)][[PyTorch](https://github.com/EvenJoker/Point-PEFT)]
     * **SUGAR**: "SUGAR: Pre-training 3D Visual Representations for Robotics", CVPR, 2024 (*INRIA*). [[Paper](https://arxiv.org/abs/2404.01491)][[Website](https://cshizhe.github.io/projects/robot_sugar.html)]
     * **Any2Point**: "Any2Point: Empowering Any-modality Large Models for Efficient 3D Understanding", arXiv, 2024 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2404.07989)][[PyTorch](https://github.com/Ivan-Tang-3D/Any2Point)]
+    * **PQ3D**: "Unifying 3D Vision-Language Understanding via Promptable Queries", arXiv, 2024 (*Beijing Institute for General Artificial Intelligence (BIGAI)*). [[Paper](https://arxiv.org/abs/2405.11442)]
 * Vision-Audio-Text:
     * **VATT**: "VATT: Transformers for Multimodal Self-Supervised Learning from Raw Video, Audio and Text", NeurIPS, 2021 (*Google*). [[Paper](https://arxiv.org/abs/2104.11178)][[Tensorflow](https://github.com/google-research/google-research/tree/master/vatt)]
     * **VideoCC**: "Learning Audio-Video Modalities from Image Captions", ECCV, 2022 (*Google*). [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/4217_ECCV_2022_paper.php)][[Website](https://a-nagrani.github.io/videocc.html)]
@@ -1513,6 +1515,7 @@ If you find this repository useful, please consider citing this list:
     * **TR-DETR**: "TR-DETR: Task-Reciprocal Transformer for Joint Moment Retrieval and Highlight Detection", AAAI, 2024 (*Central China Normal University*). [[Paper](https://arxiv.org/abs/2401.02309)][[PyTorch](https://github.com/mingyao1120/TR-DETR)]
     * **TGT**: "Towards Automated Movie Trailer Generation", CVPR, 2024 (*KAUST*). [[Paper](https://arxiv.org/abs/2404.03477)]
     * **LfVS**: "Scaling Up Video Summarization Pretraining with Large Language Models", CVPR, 2024 (*Adobe*). [[Paper](https://arxiv.org/abs/2404.03398)]
+    * **TaleSumm**: ""Previously on ..." From Recaps to Story Summarization", CVPR, 2024 (*IIIT Hyderabad, India*). [[Paper](https://arxiv.org/abs/2405.11487)][[Website](https://katha-ai.github.io/projects/recap-story-summ/)]
 * Robotics:
     * **CRT**: "Case Relation Transformer: A Crossmodal Language Generation Model for Fetching Instructions", IROS, 2021 (*Keio University*). [[Paper](https://arxiv.org/abs/2107.00789)]
     * **TraSeTR**: "TraSeTR: Track-to-Segment Transformer with Contrastive Query for Instance-level Instrument Segmentation in Robotic Surgery", ICRA, 2022 (*CUHK*). [[Paper](https://arxiv.org/abs/2202.08453)]
