@@ -2500,3 +2500,6 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * [Awesome Transformer for Vision Resources List (GitHub)](https://github.com/lijiaman/awesome-transformer-for-vision)
     * [Transformer-in-Computer-Vision (GitHub)](https://github.com/Yangzhangcst/Transformer-in-Computer-Vision)
     * [Transformer Tutorial in ICASSP 2022)](https://transformer-tutorial.github.io/icassp2022/)
+    * [Awesome-Vision-Attentions (Github)](https://github.com/MenghaoGuo/Awesome-Vision-Attentions)
+    * [A Survey of Visual Attention Mechanisms in Deep Learning (Blog)](https://shairozsohail.medium.com/a-survey-of-visual-attention-mechanisms-in-deep-learning-1043eb25f343)
+    * [Attention in computer vision (Blog)](https://towardsdatascience.com/attention-in-computer-vision-fd289a5bd7ad)
