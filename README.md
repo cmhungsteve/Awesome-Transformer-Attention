@@ -956,6 +956,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **FDSL**: "Can Vision Transformers Learn without Natural Images?", AAAI, 2022 (*AIST*). [[Paper](https://arxiv.org/abs/2103.13023)][[PyTorch](https://github.com/nakashima-kodai/FractalDB-Pretrained-ViT-PyTorch)][[Website](https://hirokatsukataoka16.github.io/Vision-Transformers-without-Natural-Images/)]
 * **AlterNet**: "How Do Vision Transformers Work?", ICLR, 2022 (*Yonsei University*). [[Paper](https://arxiv.org/abs/2202.06709)][[PyTorch](https://github.com/xxxnell/how-do-vits-work)]
 * **?**: "When Vision Transformers Outperform ResNets without Pretraining or Strong Data Augmentations", ICLR, 2022 (*Google*). [[Paper](https://arxiv.org/abs/2106.01548)][[Tensorflow](https://github.com/google-research/vision_transformer)]
+* **?**: "On the Connection between Local Attention and Dynamic Depth-wise Convolution", ICLR, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2106.04263)][[Code](https://github.com/Atten4Vis/DemystifyLocalViT)][[Blog](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/articles/iclr-2022-spotlight-demystifying-local-attention-and-dynamic-depth-wise-convolution-2/)]
 * **?**: "Unraveling Attention via Convex Duality: Analysis and Interpretations of Vision Transformers", ICML, 2022 (*Stanford*). [[Paper](https://arxiv.org/abs/2205.08078)]
 * **?**: "Three things everyone should know about Vision Transformers", ECCV, 2022 (*Meta*). [[Paper](https://arxiv.org/abs/2203.09795)]
 * **?**: "Vision Transformers provably learn spatial structure", NeurIPS, 2022 (*Princeton*). [[Paper](https://arxiv.org/abs/2210.09221)]
@@ -1010,6 +1011,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * General:
     * **detrex**: "detrex: Benchmarking Detection Transformers", arXiv, 2023 (*IDEA*). [[Paper](https://arxiv.org/abs/2306.07265)][[PyTorch](https://github.com/IDEA-Research/detrex)]
 * CNN-based backbone:
+    * **?**: "Stand-Alone Self-Attention in Vision Models", NeurIPS, 2019 (*Google*). [[Paper](https://arxiv.org/abs/1906.05909)][[Github](https://github.com/google-research/google-research/tree/master/standalone_self_attention_in_vision_models)]
     * **DETR**: "End-to-End Object Detection with Transformers", ECCV, 2020 (*Facebook*). [[Paper](https://arxiv.org/abs/2005.12872)][[PyTorch](https://github.com/facebookresearch/detr)]
     * **Deformable DETR**: "Deformable DETR: Deformable Transformers for End-to-End Object Detection", ICLR, 2021 (*SenseTime*). [[Paper](https://arxiv.org/abs/2010.04159)][[PyTorch](https://github.com/fundamentalvision/Deformable-DETR)]
     * **UP-DETR**: "UP-DETR: Unsupervised Pre-training for Object Detection with Transformers", CVPR, 2021 (*Tencent*). [[Paper](https://arxiv.org/abs/2011.09094)][[PyTorch](https://github.com/dddzg/up-detr)]
@@ -1238,6 +1240,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 [[Back to Overview](#overview)]
 
 ### Salient Object Detection
+* **PiCANet**: "PiCANet: Learning Pixel-wise Contextual Attention for Saliency Detection", CVPR, 2018 (*UC Merced*). [[Paper](https://arxiv.org/abs/1708.06433)][[Code](https://github.com/nian-liu/PiCANet)]
 * **VST**: "Visual Saliency Transformer", ICCV, 2021 (*Northwestern Polytechincal University*). [[Paper](https://arxiv.org/abs/2104.12099)]
 * **?**: "Learning Generative Vision Transformer with Energy-Based Latent Space for Saliency Prediction", NeurIPS, 2021 (*Baidu*). [[Paper](https://arxiv.org/abs/2112.13528)]
 * **SwinNet**: "SwinNet: Swin Transformer drives edge-aware RGB-D and RGB-T salient object detection", TCSVT, 2021 (*Anhui University*). [[Paper](https://arxiv.org/abs/2204.05585)][[Code](https://github.com/liuzywen/SwinNet)]
@@ -1473,6 +1476,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 
 ## Segmentation
 ### Semantic Segmentation
+* **PSANet**: "Point-wise Spatial Attention Network for Scene Parsing", ECCV, 2018 (*CUHK*). [[Paper](https://openaccess.thecvf.com/content_ECCV_2018/html/Hengshuang_Zhao_PSANet_Point-wise_Spatial_ECCV_2018_paper.html)][[Code](https://github.com/hszhao/PSANet)][[Website](https://hszhao.github.io/projects/psanet/)]
 * **SETR**: "Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers", CVPR, 2021 (*Tencent*). [[Paper](https://arxiv.org/abs/2012.15840)][[PyTorch](https://github.com/fudan-zvg/SETR)][[Website](https://fudan-zvg.github.io/SETR/)]
 * **TrSeg**: "TrSeg: Transformer for semantic segmentation", PRL, 2021 (*Korea University*). [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S016786552100163X)][[PyTorch](https://github.com/youngsjjn/TrSeg)]
 * **CWT**: "Simpler is Better: Few-shot Semantic Segmentation with Classifier Weight Transformer", ICCV, 2021 (*University of Surrey, UK*). [[Paper](https://arxiv.org/abs/2108.03032)][[PyTorch](https://github.com/zhiheLu/CWT-for-FSS)]
@@ -1526,6 +1530,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 [[Back to Overview](#overview)]
 
 ### Depth Estimation
+* **?**: "Patch-Wise Attention Network for Monocular Depth Estimation", AAAI, 2021 (*KAIST*). [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/16282)]
 * **DPT**: "Vision Transformers for Dense Prediction", ICCV, 2021 (*Intel*). [[Paper](https://arxiv.org/abs/2103.13413)][[PyTorch](https://github.com/intel-isl/DPT)]
 * **TransDepth**: "Transformer-Based Attention Networks for Continuous Pixel-Wise Prediction", ICCV, 2021 (*Haerbin Institute of Technology + University of Trento*). [[Paper](https://arxiv.org/abs/2103.12091)][[PyTorch](https://github.com/ygjwd12345/TransDepth)]
 * **ASTransformer**: "Transformer-based Monocular Depth Estimation with Attention Supervision", BMVC, 2021 (*USTC*). [[Paper](https://www.bmvc2021-virtualconference.com/assets/papers/0244.pdf)][[PyTorch](https://github.com/WJ-Chang-42/ASTransformer)]
@@ -2183,6 +2188,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 [[Back to Overview](#overview)]
 
 ### Video Object Segmentation
+* **Patchwork**: "Patchwork: A Patch-wise Attention Network for Efficient Object Detection and Segmentation in Video Streams", ICCV, 2019 (*Google*). [[Paper](https://arxiv.org/abs/1904.01784)]
 * **GC**: "Fast Video Object Segmentation using the Global Context Module", ECCV, 2020 (*Tencent*). [[Paper](https://arxiv.org/abs/2001.11243)]
 * **SSTVOS**: "SSTVOS: Sparse Spatiotemporal Transformers for Video Object Segmentation", CVPR, 2021 (*Modiface*). [[Paper](https://arxiv.org/abs/2101.08833)][[Code (in construction)](https://github.com/dukebw/SSTVOS)]
 * **JOINT**: "Joint Inductive and Transductive Learning for Video Object Segmentation", ICCV, 2021 (*University of Science and Technology of China*). [[Paper](https://arxiv.org/abs/2108.03679)][[PyTorch](https://github.com/maoyunyao/JOINT)]
@@ -2500,3 +2506,4 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * [Awesome Transformer for Vision Resources List (GitHub)](https://github.com/lijiaman/awesome-transformer-for-vision)
     * [Transformer-in-Computer-Vision (GitHub)](https://github.com/Yangzhangcst/Transformer-in-Computer-Vision)
     * [Transformer Tutorial in ICASSP 2022)](https://transformer-tutorial.github.io/icassp2022/)
+    * [Attention Mechanism Quick Notes (Blog)](https://libzx.so/main/learning/2016/03/04/attention-reparaphrase.html)
