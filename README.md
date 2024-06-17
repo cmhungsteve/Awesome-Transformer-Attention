@@ -354,6 +354,7 @@ If you find this repository useful, please consider citing this list:
 * **GPViT**: "GPViT: A High Resolution Non-Hierarchical Vision Transformer with Group Propagation", ICLR, 2023 (*University of Edinburgh, Scotland + UCSD*). [[Paper](https://arxiv.org/abs/2212.06795)][[PyTorch](https://github.com/ChenhongyiYang/GPViT)]
 * **CPVT**: "Conditional Positional Encodings for Vision Transformers", ICLR, 2023 (*Meituan*). [[Paper](https://openreview.net/forum?id=3KWnuT-R1bh)][[Code (in construction)](https://github.com/Meituan-AutoML/CPVT)]
 * **LipsFormer**: "LipsFormer: Introducing Lipschitz Continuity to Vision Transformers", ICLR, 2023 (*IDEA, China*). [[Paper](https://arxiv.org/abs/2304.09856)][[Code (in construction)](https://github.com/IDEA-Research/LipsFormer)]
+* **RSIR-Win**: "RSIR Transformer: Hierarchical Vision Transformer using Random Sampling Windows and Important Region Windows", arXiv, 2023 (*Southwest Jiaotong University, China*). [[Paper](https://arxiv.org/abs/2304.06250)]
 * **BiFormer**: "BiFormer: Vision Transformer with Bi-Level Routing Attention", CVPR, 2023 (*CUHK*). [[Paper](https://arxiv.org/abs/2303.08810)][[PyTorch](https://github.com/rayleizhu/BiFormer)]
 * **AbSViT**: "Top-Down Visual Attention from Analysis by Synthesis", CVPR, 2023 (*Berkeley*). [[Paper](https://arxiv.org/abs/2303.13043)][[PyTorch](https://github.com/bfshi/AbSViT)][[Website](https://sites.google.com/view/absvit)]
 * **DependencyViT**: "Visual Dependency Transformers: Dependency Tree Emerges From Reversed Attention", CVPR, 2023 (*MIT*). [[Paper](https://arxiv.org/abs/2304.03282)][[Code (in construction)](https://github.com/dingmyu/DependencyViT)]
@@ -1445,6 +1446,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * Edge Detection:
     * **EDTER**: "EDTER: Edge Detection with Transformer", CVPR, 2022 (*Beijing Jiaotong University*). [[Paper](https://arxiv.org/abs/2203.08566)][[Code (in construction)](https://github.com/MengyangPu/EDTER)]
     * **HEAT**: "HEAT: Holistic Edge Attention Transformer for Structured Reconstruction", CVPR, 2022 (*Simon Fraser*). [[Paper](https://arxiv.org/abs/2111.15143)][[PyTorch](https://github.com/woodfrog/heat)][[Website](https://heat-structured-reconstruction.github.io/)]
+    * **?**: "Boundary Attention: Learning to Find Faint Boundaries at Any Resolution", arXiv, 2024 (*Google*). [[Paper](https://arxiv.org/abs/2401.00935v1)][[Website](https://boundaryattention.github.io/)]
 * Person Search:
     * **COAT**: "Cascade Transformers for End-to-End Person Search", CVPR, 2022 (*Kitware*). [[Paper](https://arxiv.org/abs/2203.09642)][[PyTorch](https://github.com/Kitware/COAT)]
     * **PSTR**: "PSTR: End-to-End One-Step Person Search With Transformers", CVPR, 2022 (*Tianjin University*). [[Paper](https://arxiv.org/abs/2204.03340)][[PyTorch](https://github.com/JialeCao001/PSTR)]
