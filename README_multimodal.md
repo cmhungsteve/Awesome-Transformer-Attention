@@ -1421,6 +1421,7 @@ If you find this repository useful, please consider citing this list:
     * **UniRef++**: "UniRef++: Segment Every Reference Object in Spatial and Temporal Spaces", arXiv, 2023 (*HKU*). [[Paper](https://arxiv.org/abs/2312.15715)][[PyTorch](https://github.com/FoundationVision/UniRef)]
     * **MUTR**: "Referred by Multi-Modality: A Unified Temporal Transformer for Video Object Segmentation", AAAI, 2024 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2305.16318)][[PyTorch](https://github.com/OpenGVLab/MUTR)]
     * **DsHmp**: "Decoupling Static and Hierarchical Motion Perception for Referring Video Segmentation", CVPR, 2024 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2404.03645)][[Code (in construction)](https://github.com/heshuting555/DsHmp)]
+    * **GroPrompt**: "GroPrompt: Efficient Grounded Prompting and Adaptation for Referring Video Object Segmentation", CVPRW, 2024 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2406.12834)][[Website](https://jack24658735.github.io/groprompt/)]
     * **VD-IT**: "Exploring Pre-trained Text-to-Video Diffusion Models for Referring Video Object Segmentation", arXiv, 2024 (*University at Buffalo, NY*). [[Paper](https://arxiv.org/abs/2403.12042)][[Code (in construction)](https://github.com/buxiangzhiren/VD-IT)]
     * **HTR**: "Towards Temporally Consistent Referring Video Object Segmentation", arXiv, 2024 (*University of Western Australia*). [[Paper](https://arxiv.org/abs/2403.19407)]
     * **VLP-RVOS**: "Driving Referring Video Object Segmentation with Vision-Language Pre-trained Models", arXiv, 2024 (*Harbin Institute of Technology*). [[Paper](https://arxiv.org/abs/2405.10610)]
@@ -1804,6 +1805,7 @@ If you find this repository useful, please consider citing this list:
     * **Cantor**: "Cantor: Inspiring Multimodal Chain-of-Thought of MLLM", arXiv, 2024 (*Tencent*). [[Paper](https://arxiv.org/abs/2404.16033)][[Code (in construction)](https://github.com/ggg0919/cantor)][[Website](https://ggg0919.github.io/cantor/)]
     * **CuMo**: "CuMo: Scaling Multimodal LLM with Co-Upcycled Mixture-of-Experts", arXiv, 2024 (*ByteDance*). [[Paper](https://arxiv.org/abs/2405.05949)][[PyTorch](https://github.com/SHI-Labs/CuMo)]
     * **Chameleon**: "Chameleon: Mixed-Modal Early-Fusion Foundation Models", arXiv, 2024 (*Meta*). [[Paper](https://arxiv.org/abs/2405.09818)]
+    * **VoCo-LLaMA**: "VoCo-LLaMA: Towards Vision Compression with Large Language Models", arXiv, 2024 (*Tencent*). [[Paper](https://arxiv.org/abs/2406.12275)]
 * Conversation (Video):
     * **Video-ChatCaptioner**: "Video ChatCaptioner: Towards the Enriched Spatiotemporal Descriptions", arXiv, 2023 (*KAUST*). [[Paper](https://arxiv.org/abs/2304.04227)][[PyTorch](https://github.com/Vision-CAIR/ChatCaptioner)]
     * **ChatVideo**: "ChatVideo: A Tracklet-centric Multimodal and Versatile Video Understanding System", arXiv, 2023 (*Fudan*). [[Paper](https://arxiv.org/abs/2304.14407)][[Website](https://www.wangjunke.info/ChatVideo/)]
