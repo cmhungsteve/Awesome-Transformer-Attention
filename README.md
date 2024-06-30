@@ -580,6 +580,7 @@ If you find this repository useful, please consider citing this list:
 * **RepViT**: "RepViT: Revisiting Mobile CNN From ViT Perspective", arXiv, 2023 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2307.09283)][[PyTorch](https://github.com/jameslahm/RepViT)]
 * **?**: "Interpret Vision Transformers as ConvNets with Dynamic Convolutions", arXiv, 2023 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2309.10713)]
 * **UPDP**: "UPDP: A Unified Progressive Depth Pruner for CNN and Vision Transformer", AAAI, 2024 (*AMD*). [[Paper](https://arxiv.org/abs/2401.06426)]
+* **ViC**: "Vision Conformer: Incorporating Convolutions into Vision Transformer Layers", ICDAR, 2023 (*Kyushu University*). [[Paper](https://arxiv.org/abs/2304.13991)][[PyTorch](https://github.com/uchidalab/vision-conformer)]
 #### Training + Transformer
 * **iGPT**: "Generative Pretraining From Pixels", ICML, 2020 (*OpenAI*). [[Paper](http://proceedings.mlr.press/v119/chen20s.html)][[Tensorflow](https://github.com/openai/image-gpt)]
 * **CLIP**: "Learning Transferable Visual Models From Natural Language Supervision", ICML, 2021 (*OpenAI*). [[Paper](https://arxiv.org/abs/2103.00020)][[PyTorch](https://github.com/openai/CLIP)]
