@@ -1,4 +1,4 @@
-(back to [README.md](README.md) for other categories)
+![image](https://github.com/cmhungsteve/Awesome-Transformer-Attention/assets/17039429/32cacb40-5455-4d51-bee1-a255bcc35c00)(back to [README.md](README.md) for other categories)
 ## Overview
 
 - [Citation](#citation)
@@ -807,6 +807,7 @@ If you find this repository useful, please consider citing this list:
     * **MoE-Adapters**: "Boosting Continual Learning of Vision-Language Models via Mixture-of-Experts Adapters", CVPR, 2024 (*Dalian University of Technology*). [[Paper](https://arxiv.org/abs/2403.11549)][[PyTorch](https://github.com/JiazuoYu/MoE-Adapters4CL)]
     * **ConvPrompt**: "Convolutional Prompting meets Language Models for Continual Learning", CVPR, 2024 (*IIT Kharagpur*). [[Paper](https://arxiv.org/abs/2403.20317)][[Website](https://cvir.github.io/projects/convprompt)]
     * **PriViLege**: "Pre-trained Vision and Language Transformers Are Few-Shot Incremental Learners", CVPR, 2024 (*Kyung Hee University*). [[Paper](https://arxiv.org/abs/2404.02117)][[Code (in construction)](https://github.com/KHU-AGI/PriViLege)]
+    * **Multi-LANE**: "Less is more: Summarizing Patch Tokens for efficient Multi-Label Class-Incremental Learning", Conference on Lifelong Learning Agents (CoLLAs), 2024 (*University of Trento*). [[Paper](https://arxiv.org/abs/2405.15633)][[PyTorch](https://github.com/tdemin16/multi-lane)]
 * Long-tail/Imbalanced:
     * **BatchFormer**: "BatchFormer: Learning to Explore Sample Relationships for Robust Representation Learning", CVPR, 2022 (*The University of Sydney*). [[Paper](https://arxiv.org/abs/2203.01522)][[PyTorch](https://github.com/zhihou7/BatchFormer)]
     * **BatchFormerV2**: "BatchFormerV2: Exploring Sample Relationships for Dense Representation Learning", arXiv, 2022 (*The University of Sydney*). [[Paper](https://arxiv.org/abs/2204.01254)]
@@ -1545,6 +1546,7 @@ If you find this repository useful, please consider citing this list:
 * **?**: "Contrast, Attend and Diffuse to Decode High-Resolution Images from Brain Activities", NeurIPS, 2023 (*KU Leuven*). [[Paper](https://arxiv.org/abs/2305.17214)][[PyTorch](https://github.com/soinx0629/vis_dec_neurips/)]
 * **?**: "Brain encoding models based on multimodal transformers can transfer across language and vision", NeurIPS, 2023 (*UT Austin*). [[Paper](https://arxiv.org/abs/2305.12248)]
 * **MinD-Video**: "Cinematic Mindscapes: High-quality Video Reconstruction from Brain Activity", NeurIPS, 2023 (*NUS*). [[Paper](https://arxiv.org/abs/2305.11675)][[PyTorch](https://github.com/jqin4749/MindVideo)][[Website](https://www.mind-video.com/)]
+* **SAX-NeRF**: "Structure-Aware Sparse-View X-ray 3D Reconstruction", CVPR, 2024 (*JHU*). [[Paper](https://arxiv.org/abs/2311.10959)][[PyTorch](https://arxiv.org/abs/2311.10959)]
 
 [[Back to Overview](#overview)]
 
