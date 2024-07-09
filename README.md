@@ -1419,6 +1419,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **TransVisDrone**: "TransVisDrone: Spatio-Temporal Transformer for Vision-based Drone-to-Drone Detection in Aerial Videos", arXiv, 2022 (*UCF*). [[Paper](https://arxiv.org/abs/2210.08423)][[Code (in construction)](https://github.com/tusharsangam/TransVisDrone)]
 * Infrared:
     * **?**: "Infrared Small-Dim Target Detection with Transformer under Complex Backgrounds", arXiv, 2021 (*Chongqing University of Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2109.14379)]
+    * **MiPa**: "MiPa: Mixed Patch Infrared-Visible Modality Agnostic Object Detection", arXiv, 2024 (*ETS Montreal*). [[Paper](https://arxiv.org/abs/2404.18849)][[Code (in construction)](https://github.com/heitorrapela/MiPa)]
 * Text Detection:
     * **SwinTextSpotter**: "SwinTextSpotter: Scene Text Spotting via Better Synergy between Text Detection and Text Recognition", CVPR, 2022 (*South China University of Technology*). [[Paper](https://arxiv.org/abs/2203.10209)][[PyTorch](https://github.com/mxin262/SwinTextSpotter)]
     * **TESTR**: "Text Spotting Transformers", CVPR, 2022 (*UCSD*). [[Paper](https://arxiv.org/abs/2204.01918)][[PyTorch](https://github.com/mlpc-ucsd/TESTR)]
