@@ -1,4 +1,4 @@
-![image](https://github.com/cmhungsteve/Awesome-Transformer-Attention/assets/17039429/32cacb40-5455-4d51-bee1-a255bcc35c00)(back to [README.md](README.md) for other categories)
+(back to [README.md](README.md) and [README_multimodal.md](README_multimodal.md) for other categories)
 ## Overview
 
 - [Citation](#citation)
