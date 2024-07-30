@@ -653,7 +653,6 @@ If you find this repository useful, please consider citing this list:
     * **Hulk**: "Hulk: A Universal Knowledge Translator for Human-Centric Tasks", arXiv, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2312.01697)][[PyTorch](https://github.com/OpenGVLab/HumanBench)]
     * **D-iGPT**: "Rejuvenating image-GPT as Strong Visual Representation Learners", arXiv, 2023 (*JHU + UC Santa Cruz*). [[Paper](https://arxiv.org/abs/2312.02147)][[PyTorch](https://github.com/OliverRensu/D-iGPT)]
     * **Vary**: "Vary: Scaling up the Vision Vocabulary for Large Vision-Language Models", arXiv, 2023 (*Megvii*). [[Paper](https://arxiv.org/abs/2312.06109)][[PyTorch](https://github.com/Ucas-HaoranWei/Vary)][[Website](https://varybase.github.io/)]
-    * **VILA**: "VILA: On Pre-training for Visual Language Models", arXiv, 2023 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2312.07533)]
     * **Emu2**: "Generative Multimodal Models are In-Context Learners", arXiv, 2023 (*BAAI*). [[Paper](https://arxiv.org/abs/2312.13286)][[PyTorch](https://baaivision.github.io/emu2/)][[Website](https://baaivision.github.io/emu2/)]
     * **InternVL**: "InternVL: Scaling up Vision Foundation Models and Aligning for Generic Visual-Linguistic Tasks", arXiv, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2312.14238)][[PyTorch](https://github.com/OpenGVLab/InternVL)]
     * **TiMix**: "TiMix: Text-aware Image Mixing for Effective Vision-Language Pre-training", AAAI, 2024 (*Peking*). [[Paper](https://arxiv.org/abs/2312.08846)]
@@ -668,6 +667,7 @@ If you find this repository useful, please consider citing this list:
     * **Multi-MaP**: "Multi-Modal Proxy Learning Towards Personalized Visual Multiple Clustering", CVPR, 2024 (*UW Tacoma*). [[Paper](https://arxiv.org/abs/2404.15655)][[PyTorch](https://github.com/Alexander-Yao/Multi-MaP)]
     * **Cluster-Masking**: "Efficient Vision-Language Pre-training by Cluster Masking", CVPR, 2024 (*UMich*). [[Paper](https://arxiv.org/abs/2405.08815)][[PyTorch](https://github.com/Zi-hao-Wei/Efficient-Vision-Language-Pre-training-by-Cluster-Masking)][[Website](https://zxp46.github.io/cluster-masking/)]
     * **FFF**: "FFF: Fixing Flawed Foundations in contrastive pre-training results in very strong Vision-Language models", CVPR, 2024 (*Samsung*). [[Paper](https://arxiv.org/abs/2405.10286)]
+    * **VILA**: "VILA: On Pre-training for Visual Language Models", CVPR, 2024 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2312.07533)][[PyTorch](https://github.com/NVlabs/VILA)]
     * **Morph-Tokens**: "Auto-Encoding Morph-Tokens for Multimodal LLM", ICML, 2024 (*Zhejiang*). [[Paper](https://arxiv.org/abs/2405.01926)][[PyTorch](https://github.com/DCDmllm/MorphTokens)]
     * **Libra**: "Libra: Building Decoupled Vision System on Large Language Models", ICML, 2024 (*CAS*). [[Paper](https://arxiv.org/abs/2405.10140)][[PyTorch](https://github.com/YifanXu74/Libra)]
     * **COSMO**: "COSMO: COntrastive Streamlined MultimOdal Model with Interleaved Pre-Training", arXiv, 2024 (*Microsoft*). [[Paper](https://arxiv.org/abs/2401.00849)][[PyTorch](https://github.com/showlab/cosmo)][[Website](https://fingerrec.github.io/cosmo/)]
@@ -696,6 +696,7 @@ If you find this repository useful, please consider citing this list:
     * **CatLIP**: "CatLIP: CLIP-level Visual Recognition Accuracy with 2.7x Faster Pre-training on Web-scale Image-Text Data", arXiv, 2024 (*Apple*). [[Paper](https://arxiv.org/abs/2404.15653)][[PyTorch](https://github.com/apple/corenet)]
     * **Llip**: "Modeling Caption Diversity in Contrastive Vision-Language Pretraining", arXiv, 2024 (*Meta*). [[Paper](https://arxiv.org/abs/2405.00740)]
     * **Idefics2**: "What matters when building vision-language models?", arXiv, 2024 (*Hugging Face*). [[Paper](https://arxiv.org/abs/2405.02246)]
+    * **VILA<sup>2</sup>**: "VILA<sup>2</sup>: VILA Augmented VILA", arXiv, 2024 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2407.17453)]
 * Video:
     * **COOT**: "COOT: Cooperative Hierarchical Transformer for Video-Text Representation Learning", NeurIPS, 2020 (*University of Freiburg*). [[Paper](https://arxiv.org/abs/2011.00597)][[PyTorch](https://github.com/gingsi/coot-videotext)]
     * **Parameter-Reduction**: "Parameter Efficient Multimodal Transformers for Video Representation Learning", ICLR, 2021 (*Seoul National University*). [[Paper](https://openreview.net/forum?id=6UdQLhqJyFD)]
@@ -1118,6 +1119,7 @@ If you find this repository useful, please consider citing this list:
     * **LORIS**: "Long-Term Rhythmic Video Soundtracker", ICML, 2023 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2305.01319)][[PyTorch](https://github.com/OpenGVLab/LORIS)]
     * **NExT-GPT**: "NExT-GPT: Any-to-Any Multimodal LLM", arXiv, 2023 (*NUS*). [[Paper](https://arxiv.org/abs/2309.05519)][[Code (in construction)](https://github.com/NExT-GPT/NExT-GPT)][[Website](https://next-gpt.github.io/)]
     * **Lumina-T2X**: "Lumina-T2X: Transforming Text into Any Modality, Resolution, and Duration via Flow-based Large Diffusion Transformers", arXiv, 2024 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2405.05945)][[PyTorch](https://github.com/Alpha-VLLM/Lumina-T2X)]
+    * **X-VILA**: "X-VILA: Cross-Modality Alignment for Large Language Model", arXiv, 2024 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2405.19335)]
 
 [[Back to Overview](#overview)]
 
