@@ -380,6 +380,7 @@ If you find this repository useful, please consider citing this list:
 * **UniNeXt**: "UniNeXt: Exploring A Unified Architecture for Vision Recognition", arXiv, 2023 (*Alibaba*). [[Paper](https://arxiv.org/abs/2304.13700)]
 * **CageViT**: "CageViT: Convolutional Activation Guided Efficient Vision Transformer", arXiv, 2023 (*Southern University of Science and Technology*). [[Paper](https://arxiv.org/abs/2305.09924)]
 * **?**: "Making Vision Transformers Truly Shift-Equivariant", arXiv, 2023 (*UIUC*). [[Paper](https://arxiv.org/abs/2305.16316)]
+* **CRATE**: "White-Box Transformers via Sparse Rate Reduction", NeurIPS, 2023 (*UC Berkeley*). [[Paper](https://arxiv.org/abs/2306.01129)][[Pytorch](https://github.com/Ma-Lab-Berkeley/CRATE)][[Website](https://ma-lab-berkeley.github.io/CRATE/)]
 * **2-D-SSM**: "2-D SSM: A General Spatial Layer for Visual Transformers", arXiv, 2023 (*Tel Aviv*). [[Paper](https://arxiv.org/abs/2306.06635)][[PyTorch](https://github.com/ethanbar11/ssm_2d)]
 * **NaViT**: "Patch n' Pack: NaViT, a Vision Transformer for any Aspect Ratio and Resolution", NeurIPS, 2023 (*DeepMind*). [[Paper](https://arxiv.org/abs/2307.06304)]
 * **DAT++**: "DAT++: Spatially Dynamic Vision Transformer with Deformable Attention", arXiv, 2023 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2309.01430)][[PyTorch](https://github.com/LeapLabTHU/DAT)]
