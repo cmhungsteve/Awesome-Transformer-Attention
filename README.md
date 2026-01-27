@@ -2501,3 +2501,4 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * [Awesome Transformer for Vision Resources List (GitHub)](https://github.com/lijiaman/awesome-transformer-for-vision)
     * [Transformer-in-Computer-Vision (GitHub)](https://github.com/Yangzhangcst/Transformer-in-Computer-Vision)
     * [Transformer Tutorial in ICASSP 2022)](https://transformer-tutorial.github.io/icassp2022/)
+    * [Build a Text-to-Image Generator (from Scratch) 2025)](https://www.manning.com/books/build-a-text-to-image-generator-from-scratch)
