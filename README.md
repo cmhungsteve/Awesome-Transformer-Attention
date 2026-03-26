@@ -537,6 +537,7 @@ If you find this repository useful, please consider citing this list:
 * **NOSE**: "MLP Can Be A Good Transformer Learner", CVPR, 2024 (*MBZUAI*). [[Paper](https://arxiv.org/abs/2404.05657)][[PyTorch](https://github.com/sihaoevery/lambda_vit)]
 * **SLAB**: "SLAB: Efficient Transformers with Simplified Linear Attention and Progressive Re-parameterized Batch Normalization", ICML, 2024 (*Huawei*). [[Paper](https://arxiv.org/abs/2405.11582)][[PyTorch](https://github.com/xinghaochen/SLAB)]
 * **S<sup>2</sup>**: "When Do We Not Need Larger Vision Models?", arXiv, 2024 (*Berkeley*). [[Paper](https://arxiv.org/abs/2403.13043)][[PyTorch](https://github.com/bfshi/scaling_on_scales)]
+* **TECS-L (Golden MoE)**: "Sparse Expert Activation Framework with Optimal Inhibition Ratio I≈1/e for Mixture-of-Experts Transformers", arXiv, 2026. [[GitHub](https://github.com/need-singularity/TECS-L)]
 #### Conv + Transformer
 * **LeViT**: "LeViT: a Vision Transformer in ConvNet's Clothing for Faster Inference", ICCV, 2021 (*Facebook*). [[Paper](https://arxiv.org/abs/2104.01136)][[PyTorch](https://github.com/facebookresearch/LeViT)]
 * **CeiT**: "Incorporating Convolution Designs into Visual Transformers", ICCV, 2021 (*SenseTime*). [[Paper](https://arxiv.org/abs/2103.11816)][[PyTorch (rishikksh20)](https://github.com/rishikksh20/CeiT)]
