@@ -23,6 +23,7 @@ Feel free to share this list with others!
 **[Update: June, 2022]** Added all the related papers from *CVPR 2022*!
 
 ---
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for Claude Code multi-agent orchestration with transformer-based reasoning. MIT licensed.
 ## Overview
 
 - [Citation](#citation)
