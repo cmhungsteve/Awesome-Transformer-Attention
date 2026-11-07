@@ -325,6 +325,8 @@ If you find this repository useful, please consider citing this list:
     * **PSTP-Net**: "Progressive Spatio-temporal Perception for Audio-Visual Question Answering", ACMMM, 2023 (*Renmin University of China*). [[Paper](https://arxiv.org/abs/2308.05421)][[PyTorch](https://github.com/GeWu-Lab/PSTP-Net)]
 
 [[Back to Overview](#overview)]
+* **VideoJev**: "VideoJev: System One Model for Video Understanding and Interaction", arXiv, 2026 (*Nanjing University and collaborators*). [[Paper](https://arxiv.org/abs/2610.18615)][[PyTorch](https://github.com/MCG-NJU/VideoJev)]
+* **Video-o3**: "Video-o3: Native Interleaved Clue Seeking for Long Video Multi-Hop Reasoning", ICML, 2026 (*Nanjing University and collaborators*). [[Paper](https://proceedings.mlr.press/v306/zeng26y.html)][[PyTorch](https://github.com/MCG-NJU/Video-o3)]
 
 ### Visual Grounding
 * General:
@@ -457,6 +459,8 @@ If you find this repository useful, please consider citing this list:
     * **SceneVerse**: "SceneVerse: Scaling 3D Vision-Language Learning for Grounded Scene Understanding", arXiv, 2024 (*BIGAI*). [[Paper](https://arxiv.org/abs/2401.09340)][[Code (in construction)](https://github.com/scene-verse/sceneverse)][[Website](https://scene-verse.github.io/)]
 
 [[Back to Overview](#overview)]
+* **MJev-Spatial**: "MJev-Spatial: System One Spatial Intelligence via Native Attention Matching", arXiv, 2026 (*Nanjing University and collaborators*). [[Paper](https://arxiv.org/abs/2610.22276)][[PyTorch](https://github.com/Fr0zenCrane/MJev-Spatial)]
+* **TimeLens2**: "TimeLens2: Generalist Video Temporal Grounding with Multimodal LLMs", arXiv, 2026 (*Nanjing University and collaborators*). [[Paper](https://arxiv.org/abs/2607.17423)][[PyTorch](https://github.com/MCG-NJU/TimeLens2)]
 
 ### Multi-Modal Representation Learning
 * General:
@@ -930,6 +934,7 @@ If you find this repository useful, please consider citing this list:
     * **Motion-Patches**: "Exploring Vision Transformers for 3D Human Motion-Language Models with Motion Patches", CVPR, 2024 (*LY, Japan*). [[Paper](https://arxiv.org/abs/2405.04771)][[Website](https://yu1ut.com/MotionPatches-HP/)]
 
 [[Back to Overview](#overview)]
+* **FreeRet**: "FreeRet: MLLMs as Training-Free Retrievers", ICML, 2026 (*Nanjing University and collaborators*). [[Paper](https://proceedings.mlr.press/v306/zhu26ba.html)][[PyTorch](https://github.com/MCG-NJU/FreeRet)]
 
 ### Multi-Modal Generation
 * General:
@@ -1251,6 +1256,8 @@ If you find this repository useful, please consider citing this list:
 * **CDL**: "Pre-trained Vision-Language Models Learn Discoverable Visual Concepts", arXiv, 2024 (*Brown*). [[Paper](https://arxiv.org/abs/2404.12652)][[PyTorch](https://github.com/brown-palm/Concept-Discovery-and-Learning)][[Website](https://conceptdiscovery.github.io/)]
 
 [[Back to Overview](#overview)]
+* **Self-TPT**: "Efficient Test-Time Prompt Tuning for Vision-Language Models", IJCV, 2026 (*Nanjing University and collaborators*). [[Paper](https://link.springer.com/article/10.1007/s11263-026-03019-3)]
+* **AWT**: "AWT: Transferring Vision-Language Models via Augmentation, Weighting, and Transportation", NeurIPS, 2024 (*Nanjing University and collaborators*). [[Paper](https://proceedings.neurips.cc/paper_files/paper/2024/hash/2d4eaf042567f1c03c086103cc154c1f-Abstract-Conference.html)][[PyTorch](https://github.com/MCG-NJU/AWT)]
 
 ### Visual Document Understanding
 * **LayoutLMv2**: "LayoutLMv2: Multi-modal Pre-training for Visually-Rich Document Understanding", ACL, 2021 (*Microsoft*). [[Paper](https://arxiv.org/abs/2012.14740)][[PyTorch](https://github.com/microsoft/unilm/tree/master/layoutlmv2)]
@@ -1990,3 +1997,5 @@ If you find this repository useful, please consider citing this list:
     * **?**: "Can Feedback Enhance Semantic Grounding in Large Vision-Language Models?", arXiv, 2024 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2404.06510)][[Website](https://andrewliao11.github.io/vlms_feedback/)]
 
 [[Back to Overview](#overview)]
+* **OneStreamer**: "OneStreamer: Unifying Perception, Memory, and Proactive Response in Streaming Video Interaction", arXiv, 2026 (*Nanjing University and collaborators*). [[Paper](https://arxiv.org/abs/2610.01762)][[PyTorch](https://github.com/MCG-NJU/OneStreamer)]
+* **JoyAI-VL-Interaction**: "JoyAI-VL-Interaction: Real-Time Vision-Language Interaction Intelligence", arXiv, 2026 (*JD.com and collaborators*). [[Paper](https://arxiv.org/abs/2606.14777)][[PyTorch](https://github.com/jd-opensource/JoyAI-VL-Interaction)]

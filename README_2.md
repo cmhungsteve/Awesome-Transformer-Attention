@@ -1150,6 +1150,7 @@ If you find this repository useful, please consider citing this list:
 * **Exo2Ego**: "Put Myself in Your Shoes: Lifting the Egocentric Perspective from Exocentric Videos", arXiv, 2024 (*Meta*). [[Paper](https://arxiv.org/abs/2403.06351)]
 
 [[Back to Overview](#overview)]
+* **MoG**: "Motion-aware generative frame interpolation", SCIS, 2026 (*Nanjing University / Tencent*). [[Paper](https://link.springer.com/article/10.1007/s11432-025-4920-3)][[PyTorch](https://github.com/MCG-NJU/MoG-VFI)]
 
 ### Transfer / Translation / Manipulation
 * **AdaAttN**: "AdaAttN: Revisit Attention Mechanism in Arbitrary Neural Style Transfer", ICCV, 2021 (*Baidu*). [[Paper](https://arxiv.org/abs/2108.03647)][[Paddle](https://github.com/PaddlePaddle/PaddleGAN)][[PyTorch](https://github.com/Huage001/AdaAttN)]
