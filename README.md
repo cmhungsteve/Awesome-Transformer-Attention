@@ -2108,6 +2108,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
     * **GAFL**: "Learning Group Activity Features Through Person Attribute Prediction", CVPR, 2024 (*Toyota Technological Institute, Japan*). [[Paper](https://arxiv.org/abs/2403.02753)]
 
 [[Back to Overview](#overview)]
+* **VideoChat3**: "VideoChat3: Fully Open Video MLLM for Efficient and Generalist Video Understanding", arXiv, 2026 (*Nanjing University and collaborators*). [[Paper](https://arxiv.org/abs/2607.14935)][[PyTorch](https://github.com/MCG-NJU/VideoChat3)]
 
 ### Action Detection/Localization
 * **OadTR**: "OadTR: Online Action Detection with Transformers", ICCV, 2021 (*Huazhong University of Science and Technology*). [[Paper](https://arxiv.org/abs/2106.11149)][[PyTorch](https://github.com/wangxiang1230/OadTR)]
@@ -2157,6 +2158,7 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[PyTorch](https://github
 * **OV-STAD**: "Open-Vocabulary Spatio-Temporal Action Detection", arXiv, 2024 (*Nanjing University*). [[Paper](https://arxiv.org/abs/2405.10832)]
 
 [[Back to Overview](#overview)]
+* **DualDETR**: "Dual DETRs for Multi-Label Temporal Action Detection", CVPR, 2024 (*Nanjing University and collaborators*). [[Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Zhu_Dual_DETRs_for_Multi-Label_Temporal_Action_Detection_CVPR_2024_paper.html)]
 
 ### Action Prediction/Anticipation
 * **AVT**: "Anticipative Video Transformer", ICCV, 2021 (*Facebook*). [[Paper](https://arxiv.org/abs/2106.02036)][[PyTorch](https://github.com/facebookresearch/AVT)][[Website](https://facebookresearch.github.io/AVT/)]
